@@ -1,0 +1,106 @@
+﻿1	小怜	……似乎完全没信号了。	……似乎完全沒訊號了。	……どうやら完全に繋がらないみたい。	……전혀 신호가 없어.	... No signal here. At all.	
+2	拉斐尔	还是说，我们又进入那个『梦境』了吗……	我們又進入那個「夢境」了嗎？	それとも、私達はまた『夢』とやらに入って\nしまったのかしら………	또 그 『꿈』속에 들어온 걸까……	Does this mean we’re in that “dream” again?	
+3	N/A	无论如何，基地的换气系统依旧在运作，资料室的通风口传来风扇转动的声音。	無論如何，基地的換氣系統還在運作，資料室的通風口也傳來風扇轉動的聲音。	いずれにしても、基地の換気システムは依然、\n作動している。\n資料室の換気口から聞こえる音は、\nファンの回転音に違いない。	기지의 환기 시스템이 작동하고 있고 자료실의 통풍구에서 프로펠러 소리가 들린다. 	Either way, the ventilation system is still working at full force. We can hear the fans churning even from the air vent in the archive room.	
+4	N/A	桌面上摊开的构造图显示，虽然年代久远，但这座基地绝对是按照保密机构的标准设计的──	依照結構圖來看，雖然年代久遠，但這座基地絕對是依照保密機構的標準設計的──	机の上に展開した構造図を見たところによると\nこの基地の築年数は古いが、\nよくある機密機関のレギュレーションに基づき\n建造されたものだと予想できる。	테이블에 펼쳐진 구조도가 이 기지가 비록 오래 되었지만 비밀 기구의 기준에 따라 설계된 곳이란 걸 알려준다. 	According to the map, this base, despite being built a long time ago, was constructed strictly in accord with the standards for top-secret organizations.	
+5	N/A	各区域的通行权限设置得极为严格，还用强化合金的门闸分隔出了很多功能不明的独立单元。	各區域的通行權限設置得極為嚴格，還用強化合金的閘門隔出了很多功能不明的獨立空間。	各エリアの通行権限は非常に厳しく設定されて\nおり、機能不明の独立した部屋は\n強化合金製のゲートによって分断されている。	각 구역의 통행권한이 엄격하게 설정되어 있다. 강화합금 게이트로 기능을 알 수 없는 수많은 장소들을 갈라놓았다.	Access between sections is rigidly restricted. And there are countless independent units, separated by barriers made of strengthened alloy.	
+6	海因里希	大部分房间都没有标注，要全部搜索一遍吗？	大部分房間都沒有標示，要全部搜索一遍嗎？	ほとんどの部屋が表記されていませんね……\n全てを捜査するのでしょうか？	대부분의 방에 표식이 없어요. 전부 살펴볼까요? 	The map doesn’t say what most of these rooms do. Should we search all of them?	
+7	小怜	太复杂了……	這樣太慢了。	ふ、複雑すぎる……	너무 복잡해……	This is... so complex...	
+8	N/A	要将这些房间全检查一遍需要好几个小时，更何况我们并不知道要找的东西是什么样。	將房間全部檢查一遍不知道得花多久時間，更何況我們根本不知道要找什麼。	これらを全て調査するには何時間もかかる。\n\nそもそも俺達は探しているものがどんなものかも\n未だに分かっていない。	방을 모두 살펴보려면 몇 시간이 소요된다. 심지어 찾아야 할 물건이 무엇인지도 모른다.	It’d take hours to comb through the whole place. Bedsides, we don’t even have any idea what we’re looking for.	
+9	小怜	而且不知会不会再遇到什么莫名其妙的敌人……	而且，不知道還會不會再遇到什麼莫名其妙的敵人……	また訳の分からない敵に出会うかもしれないし…	게다가 또 어떤 이상한 적을 만날지도 모르니……	And there might be other crazy enemies lurking around the corners.	
+10	N/A	刚才那几个奇怪的家伙让我现在还心有余悸。	剛才那些奇怪的傢伙讓我餘悸猶存。	先ほどの不気味な連中を思い出しただけで、\nビクビクする。	방금 그 이상한 녀석들 때문에 아직까지 심장이 덜컹한다.	Those weird puppet girls we just ran into... just thinking about them gives me heart palpitations.	
+11	拉斐尔	哼，我可不会在这里坐以待毙！	哼，我才不要在這裡坐以待斃！	ふん、\n私はここでおとなしく死を待つつもりはないわ！	흥，여기에 가만히 앉아있을 수 없어! 	Well, I for one refuse to just be a sitting duck!	
+12	N/A	拉斐尔有些恼火的拍了下桌子，一团灰尘随之扬起。	拉斐爾生氣地用力拍了桌子，桌面揚起一陣灰塵。	ラファエルが少し苛立って机を叩くと、\n埃が舞い上がった。	라파엘이 견딜 수 없었는지 테이블을 치자 먼지가 날린다.	Raphilia slams her fist on the desk, bringing up a cloud of dust.	
+13	N/A	被突然的响声所吸引，金属横梁后的音感摄像头稍稍调整了下角度。	因為這突然的聲響，金屬橫梁後的聲音感測攝影機微微轉了過來。	突然の音に反応したのか、金属製の梁にあった\n音感カメラが少し角度を調整した。	갑자기 울리는 소리에 금속 홈 뒤에 있던 음성 센서 카메라가 각도를 튼다.	The sound-sensing surveillance camera behind the metal beam adjusts its angle slightly at the sudden noise.	
+14	小怜	……	……	…………………………………………	……	...	
+15	N/A	我忽然想起一个刚才在补给站就想提出的问题。	我忽然想起一個剛才在補給站就想問的問題。	俺はさっきの補給所で聞きたかった疑問を\nふと思い出した。	갑자기 아까 보급소에서 묻고 싶었던 질문이 떠올랐다. 	Maybe this is a good time to ask the question that had been haunting me since back in the supply station.	
+16	小怜	对了，你……能感知物质的材料？	對了，海因里希，妳能感知物質的材料？	そうだ！ハインリッヒって……\n物の材質を感じ取れたりするの？	맞다! 너……물질의 재료를 감지할 수 있다고 했지? 	Hey, you... can sense what material something is made of?	
+17	N/A	金发少女听到我的发问，有些得意的扬起嘴角。	金髮少女聽到我的發問，得意地揚起嘴角。	金髪の少女は俺の質問に対して、得意げに口角を\n上げた。	금발소녀가 내 질문을 듣고 으쓱하며 입고리를 올린다.	The blonde girl smirks at my question.	
+18	海因里希	当然，这是『玫瑰十字会』的炼金术士所要掌握最基本的能力。	當然，這是身為「玫瑰十字會」的煉金術士最基本的能力。	もちろんです。これは『薔薇十字団』に所属する\n錬金術士が習得すべき、基本中の基本ですわ。	물론이죠. 『장미십자회』의 금속술사들이 가진 가장 기본적이 능력이에요. 	Of course. It‘s a basic skill for all alchemists in Rosenkreuzer.	
+19	小怜	那如果……有一根与外界绝缘的很长的金属线，你能追踪到它通向什么位置吗？	那如果有一條與外界絕緣、很長的金屬線，妳能追蹤到它通往哪裡嗎？	じゃあ、もしも……\n外界と絶縁している長い金属線があったら、\nそれがどこまで繋がっているかを\n辿れたりもする？	그럼 만약……외부와 절연된 긴 금속선만 있으면 어느 위치로 통하는지 알 수 있겠네?	Then if... there’s a really really long insulated metal wire, would you be able to trace it all the way and find where it leads to?	
+20	海因里希	如果我能触碰到的话，应该可以。	如果能觸碰到的話，可以！	それに触れる事ができれば、問題はありません。	제가 만질 수만 있다면 가능하죠.	If I can touch it, I should be able to do it.	
+21	拉斐尔	你是说……	妳是說……	つまり……	네 말은…	Are you suggesting...	
+22	N/A	我对心领神会的拉斐尔点了点头，然后一同将目光投向了房间那个漆黑的角落──	我對心領神會的拉斐爾點了點頭，然後一同將目光投向了房間那個漆黑的角落──	俺の考えを理解してくれたラファエルに頷き、\n互いに視線を例の場所へと向ける。	라파엘에게 고개를 끄덕이고 방 안 어두운 구석으로 시선을 돌렸다	I nod at Raphilia. Together, we turn around and stare into the dark corner of the room...	
+23	N/A	黑暗中，红色的小光点如呼吸般忽隐忽现。	黑暗中，紅色的小光點忽隱忽現。	暗闇の中、赤い光点が呼吸のように点滅する。	암흑 속에서 붉은색 빛이 호흡하는 것처럼 사라졌다 나타났다를 반복한다.	Where the red dot of light flickers in and out of sight rhythmically, like it had a pulse.	
+24	N/A	声音感应摄像头。	聲音感測攝影機。	音感カメラ。	음성 센서 카메라.	The sound-sensing surveillance camera.	
+25	N/A	庞大的地下基地中，遍布着这种监控装置。	龐大的地下基地中遍佈著這種監控裝置。	広々とした地下基地の中には、この監視装置が\n所々に点在している。	커다란 지하 기지 안에 이런 제어 장치가 널리 퍼져 있다. 	In the sprawling underground base, there should be heaps of these devices.	
+26	N/A	而它们必然通向同一个地方……	而它們必定通向同一個地方……	このカメラ達は、必然的に1つの場所へと\n繋がっている……	그리고 분명 동일한 방향으로 통할 것이다……	Which should all lead to one place:	
+27	N/A@小怜	——监控室。	——監控室。	──監視室だ。	——제어실	The control room.	
+28	莉琉	……被极地风暴阻断了么？	……被極地風暴阻斷了嗎？	……極地の暴風で遮断されたか？	……극지 폭풍 때문에 끊어진 건가？	... Did the blizzard cut off the signal?	
+29	N/A	小怜的芯片定位信息再次显示为离线状态。	小憐的晶片定位狀態再次顯示離線。	レンのチップの位置情報表示は、\n再びオフラインと表示されている。	렌의 칩 위치 정보가 또 로그아웃 상태가 됐어.	Ren’s GPS chip is no longer transmitting.	
+30	莉琉	如果这种程度就丢失通讯的话，在高能带电粒子覆盖区域的任务也会受影响吧？	如果這種程度就沒了訊號，在覆蓋帶電高能粒子的區域任務也會受影響吧？	この程度で通信が途切れるのであれば……\n\n高エネルギー荷電粒子に覆われているエリアでの\n任務にも影響が出るのではないか？	이 정도로 통신이 끊긴다면 고에너지 전기 입자로 덮힌 구역의 임무도 영향을 받겠지?	If even a blizzard could do this much harm, this device would probably break in missions in zones with high-energy particles too.	
+31	莉琉	战研部最近有些怠惰啊──	戰研部最近好像有些怠惰啊──	最近の戦術研究部は随分弛んでいるようだが──	전술연구부 최근 좀 나태한 것 같아.	You guys in SRD gotta up your game.	
+32	N/A	面对莉琉的白眼，爱衣做了个卖萌的表情。	面對莉琉翻到後腦勺的白眼，愛衣做了個賣萌的表情。	マリルの白い目に対し、愛衣は可愛い子ぶった\n感じで誤魔化した。	눈을 흘기는 마리루를 보며 아이가 귀여운 척을 한다. 	Mariru rolls her eyes at Aya, who sticks out her tongue.	
+33	爱衣	嘛……极端大气条件的影响确实被我低估了。	嘛……我確實低估極端大氣條件的影響了……	まあ……確かに異常気象による影響については\n私もちょっと甘く見ていたね。	……극단적인 대기 조건의 영향을 확실히 과소평가하긴 했어.	Well, we’re at the South Pole after all. Of course the conditions are different here.	
+34	爱衣	不过肯定不会像刚才那样信号突然消失。	但是，就算如此，也絕對不會像剛才那樣訊號突然消失。	でもさっきみたいに電波が急に消える事は、\n装備の仕様上ありえないよ。	하지만 방금처럼 신호가 갑자기 사라지진 않을 거야. 	Still, losing signal just like that... no way our devices are that useless.	
+35	莉琉	你是说现在的情况……有其他原因？	妳的意思是，這是其他原因造成的？	つまり現在の状況には……別の原因があると？	네 말은 지금 상황에……다른 원인이 있다는 거야？	You mean there’s... other reasons causing the disconnection?	
+36	爱衣	虽然不知道是什么，但居然能做到这种程度……\n真是想想就让人心痒啊~	嗯，雖然不知道是什麼，但居然能做到這種程度……\n真是讓人光想到就心癢癢啊～	何が何だか全貌は分からないけど、\nそこまでになっちゃうなんて……\nこりゃ、考えるだけでウズウズするね。	뭔지는 모르겠지만 이 정도까지 할 수 있다니……\n온몸이 근질근질거리는 걸~	Yep. I don’t know what it is, but it must be powerful...\nI sure envy whoever is behind this...	
+37	N/A	莉琉低头若有所思的盯着手持设备上“通讯中断”的提示。	莉琉低頭若有所思地盯著手持平板上「通訊中斷」的提示。	マリルは何かを考えている様子で、タブレットに\n表示されている『通信中断』を見つめた。	마리루가 고개를 숙이고 기계 위 “통신 중단” 표시를 바라본다.	Mariru stares thoughtfully at the device in her hand and the flashing word, DISCONNECTED, on its screen.	
+38	N/A	一旁的爱衣则饶有兴致地观察着莉琉的表情。	一旁的愛衣則是興致勃勃地觀察著莉琉的表情。	愛衣は興味津々にマリルの表情を観察している。	옆에 있던 아이가 흥미로운듯 마리루의 표정을 관찰한다. 	Meanwhile, Aya observes Mariru’s face.	
+39	爱衣	你还真像是在担心离家出走小宠物的饲主啊──	莉琉啊，妳現在就像在擔心寵物離家出走的飼主耶──	家出したペットを心配する飼い主のようだねぇ～	집 나간 애완동물을 걱정하는 주인의 표정이네	You look like a pet owner worried about their runaway kitty.	
+40	莉琉	不管怎么说，现在也只能静观其变了。	擔心歸擔心，現在也只能靜觀其變了。	いずれにしても、今は静観するしかない。	어찌됐든 지금으로선 상황을 지켜보는 수밖에 없어.	Anyway, there’s nothing we can do but wait.	
+41	N/A	爱衣长舒了口气，望向窗外。	愛衣長吐了一口氣，望向窗外。	愛衣は大きな溜め息を吐き、窓の外を眺めた。	아이가 긴 한숨을 내쉬고 창밖을 바라본다. 	Aya exhales, turning to face the window.	
+42	爱衣	海拔37000米，看起来就像进入了太空一样呢。	海拔3萬7000公尺，看起來就像進入了外太空呢。	それにしても海抜37000メートルともなると\nほぼ宇宙にいるかのように見えるね。	해발 37000미터，우주에 진입하는 것 같아.	Altitude 37,000 meters above sea level. It’s like we’re in outer space already.	
+43	莉琉	飞的再高雷达和常规通讯系统就无法工作了。	飛再高，雷達和常規通訊系統就無法運作了。	これ以上高度を上げると、レーダーと\n通常の通信システムは作動しなくなる。	더 높이 비행하면 레이더와 일반 통신 시스템을 작동할 수 없을 거야.	If we go any higher, our radar and comms will stop working.	
+44	N/A	莉琉看向了航船的工作区，30多名情报组的工作人员正在忙碌的梳理着世界各地传来的信息。	莉琉看向艦艇的工作區，30多名情報組工作人員正忙著整理世界各地傳來的資訊。	マリルは機内の作業場に視線を向ける。\n\n30名以上の作業員が世界各地から掻き集められ\n情報整理に取り組んでいる。	마리루는 작업실에 30명이 넘는 정보 요원들이 서둘러 세계 각지의 정보를 정리하고 있는 모습을 바라본다.	Mariru glances at the work station of their cruiser, where over thirty intelligence workers are busily sorting through the data coming in from all corners of the world.	
+45	爱衣	难道说这架高速重型运载机……\n你早就想搞到手了？	難道說，妳早就想動用這艘\n高速重型運載機……	ひょっとして、この高速大型輸送機……\nずっと手に入れたかったの？	설마 이 고속 중형 수송기를……\n예전부터 손에 얻고 싶어했었어?	This high-speed heavy-duty carrier...\nYou’ve had your eyes on it for a while, eh?	
+46	莉琉	哼，元老院手里还是有不少好东西的~	那可不，元老院手裡還是有不少好東西的～	ふん、\n元老院は良いモノをたくさん持っているからな。	흥，원로원에는 좋은 물건이 참 많단 말이야~	Ha. The Senate’s got some cool stuff stashed away for sure.	
+47	爱衣	但是还要三个多小时才能到南极……	但還要三個多小時才能到南極啊～	だけど、この輸送機でも南極へ着くのには、\nあと3時間以上もかかっちゃうね……	하지만 남극에 도착하려면 앞으로 세 시간도 더 남았어……	Another three hours before we reach Antarctica...	
+48	爱衣	要是小怜的身体被什么东西弄坏的话可就糟糕了。	要是小憐的身體被弄壞的話就麻煩了啊～	レンちゃんの身体が何かに壊されちゃったら\n大変だよ！	만약 렌이 다친다면 큰일이야. 	If any of Ren’s body parts break, we’d be in huge trouble.	
+49	N/A	看到爱衣有些担心的咬起了指甲，莉琉弹了一下她的脑门。	看到愛衣有點擔心地咬起了指甲，莉琉彈了一下她的腦門。	愛衣が心配そうに爪を噛み始めたのを見て、\nマリルはデコピンを放った。	불안한 듯 손톱을 깨무는 아이를 본 마리루가 그녀의 이마를 살짝 때린다.	Noticing Aya biting her nails anxiously, Mariru raps her knuckle on the back of her head.	
+50	莉琉	喂。	喂，擔心什麼？	こら。	이봐.	Hey.	
+51	莉琉	你以为那家伙，是谁调教出来的？	妳以為那傢伙是誰調教出來的？	あいつを調教したのは、誰だと思っている？	넌 그 녀석을 누가 훈련시킨 거라고 생각해?	Who did you think trained those guys?	
+52	N/A	白皇后基地。	白皇后基地裡……	────スノークイーン基地	화이트퀸 기지.	<Snedronningen Base>	
+53	N/A	跟着海因里希的指引，我们循着监控设备的线缆来到了基地深处。	跟著海因里希的指引，我們循著監控設備的纜線來到了基地深處。	ハインリッヒの案内に従って、俺達は破壊した\n防犯装置のケーブルを辿り基地の奥へと迫る。	하인리히의 안내로 제어 기기의 전선을 따라 기지 깊은 곳까지 왔다.	Following Henriette’s directions, we trace the cable connected to the surveillance device all the way to the depths of the base.	
+54	N/A	这里的通道变得狭窄，裸露的墙体还有未完工的痕迹。	這裡的通道比外頭狹窄多了，裸露的牆體還有未完工的痕跡。	ここの通路はもはやトンネルと呼べるほど\n狭くなっており、\n裸の壁が未完成である事を如実に物語っていた。	좁은 통로의 벗겨진 벽에 미완공의 흔적이 보인다.	The corridors are increasingly narrow here. The walls are bare, as if construction isn’t complete yet.	
+55	N/A	幽长的隧道回荡着我们三人的脚步声，这种氛围让人不禁心跳加快。	幽長的隧道裡只迴盪著我們三人的腳步聲，這種異常氛圍讓人不禁心跳加快。	暗くて長いトンネルに俺達3人の足音が響く。\n\nこの雰囲気では思わず心拍が早くなってしまう。	긴 터널에 세 사람의 발소리가 울린다. 이런 분위기는 심장을 빠르게 뛰게 만든다.	Our footsteps echo off the tunnel walls. Creepy. Too creepy. I can feel my heart hammering in my chest.	
+56	小怜	……	……	…………………………………………	……	...	
+57	N/A	虽然时机非常糟糕……	雖然時機點不太對……	タイミングが非常に悪いけど……	시기가 적절하지 않은 건 알지만……	This isn’t the proper time for this, but...	
+58	N/A	但紧张过度的我，越来越觉得……	但緊張過度的我，實在有點想……	過度に緊張を受けた俺は、ますます感じる……	너무 긴장한 나머지，점점…	But the more nervous I get, the harder it is to hold it in...	
+59	N/A	我默默停下脚步，举起手。	我默默停下腳步，舉起手。	俺は黙って立ち止まり手を上げた。	나는 발걸음을 멈추고 손을 들었다.	I stop in my tracks, raise one hand.	
+60	小怜	那个……	那個……	あのぅ……	저기……	Uh...	
+61	拉斐尔	又怎么了？	嘖，又怎麼了？	何よ？	또 왜 그래?	What now?	
+62	小怜	我……可不可以……	那個，我……可不可以……	俺……行ってもいいか……	나…화장실…	May I...	
+63	小怜	……去……洗手间……	……去一下……洗、洗手間……	その…………\n\nトイレに…………	…좀…갔다오면 안 될까…	Go to... the restroom?	
+64	N/A	我居然在全然没有门和岔路的隧道中央，对两个女生提出了这样的申请，好想去死。	在這個除了牆壁以外啥都沒有的隧道中央，我居然對兩個女生提出這樣的要求，好想死……	扉も分かれ道も全然なかったトンネルの中央で、\n2人の女の子にこんな申し出をするなんて、\nものすごく死にたい。	문도 없고 갈림길도 없는 터널 중앙에서 두 여성에게 이런 요구를 하다니. 정말 죽고 싶다! 	Here I am, in a seemingly endless tunnel without doors or branching paths, with two girls. And I’m requesting to go to the restroom. I want to jump off a cliff.	
+65	拉斐尔	……	……	…………………………………………	……	...	
+66	拉斐尔	你到底知不知道，现在是什么状况啊！	妳這傢伙到底知不知道現在是什麼狀況啊！ ！！ ！	あんた今どういう状況か分かってるのッ！？！？	지금이 무슨 상황인지 알고나 있는 거야?!	Do you even realize the gravity of the situation?	
+67	小怜	对、对不起……我也……	對、對不起……我也……沒辦法啊。	ご、ごめんなさい、\nごめんなさい……俺だって……っ！	미，미안…나도…	I’m... I’m sorry! I can’t help it, okay?	
+68	N/A	面对拉斐尔鄙夷的神情，我有些不自在的并拢了双腿。	面對拉斐爾鄙夷的表情，我越說越小聲，而且有點不自在地夾緊雙腿。	ラファエルの軽蔑の表情に直面しながらも、\n無意識に両足は窮屈な感じに閉じてしまう。	라파엘의 경멸하는 눈빛을 마주하며 나도 모르게 두 다리를 오므렸다. 	I pull my thighs tighter together, trying to look anywhere but at Raphilia’s clearly disgusted face.	
+69	小怜	（而且越紧张，越告诉自己不要在意，就越……）	（越緊張、越告訴自己不要在意，就越急……）	（それに緊張すればするほど……）\n\n（これは気のせいだ、気のせいだと）\n（自分に言い聞かせるほど、余計に……）	（게다가 긴장될수록，신경쓰지 말라고 스스로를 다독일수록……）	(The more nervous I get, the more I tell myself to not think about it, the worse it feels...)	
+70	N/A	呼之欲出。	快憋不住了。	出ちゃいそう。	금방이라도 나올 것 같아.	I’m this close to pissing my pants...	
+71	小怜	（呜呜呜呜……）	（嗚嗚嗚嗚……我快不行了啦……）	（うううう……）	（흑흑흑흑……）	(What did I do to deserve this?)	
+72	小怜	那个，或者能有个塑料瓶的话……	那個，誰身上有寶特瓶嗎……	あの、もしくは、ペットボトルがあれば……	저기，그럼 페트병 같은 거라도……	Uh, if either of you have a plastic bottle or something, I could...	
+73	拉斐尔	──哈啊？！	──妳在說什麼？ ！	──はあッ！？！？	──하아？！	... Huh?	
+74	N/A	不对，我到底在胡说什么啊！！！	不對，啊啊啊啊，拜託忘記我剛剛說的話吧！ ！！ ！	ち、違う、何言ってるんだ俺！！！	아니，내가 도대체 무슨 헛소리를！！！	Ugh, what am I even talking about?	
+75	N/A	拉斐尔看我的眼神，已经从变态变成了渣滓。	從拉斐爾看我的眼神就知道，我已經從變態變成了廢物。	ラファエルの俺を見る目が変態からゴミへ、\n着実にランクアップしている。	날 보는 라파엘의 눈빛은 이미 변태에서 인간 쓰레기로 변했다. 	Raphilia used to see me as a pervert, but now... she probably sees me as trash.	
+76	海因里希	主人是需要什么盛具吗？确实有材料可以合成哦~	主人需要什麼容器嗎？ 確實有材料可以合成哦～	マスターは何かの容器が必要なのでしょうか？\n合成できる材料でしたらありますが。	주인님，그릇이 필요하세요? 재료만 있으면 합성할 수 있어요~	You want something to hold your pee, huh, Master? Well, I could try forging some materials...	
+77	N/A	海因里希看着我的窘态，有点幸灾乐祸的说道。	海因里希看著我的窘態，有點幸災樂禍地說道。	ハインリッヒも俺の失態を見て、\nまるで人の災難を喜ぶような言い方である。	하인리히가 난감한 내 모습을 보고 기뻐하며 말한다.	Henriette seems to be enjoying this a little too much.	
+78	小怜	我乱讲的！！！	不用，我隨便說說而已！ ！！	虐めないでくれぇ！！！	헛소리였어！！！	Come on! You know that’s not what I mean!	
+79	N/A	看我快要哭出来的样子，炼金术士大发慈悲的走到隧道墙壁的一处位置，巧妙地切出一个开口。	看到我已經快哭出來，煉金術士大發慈悲地走到隧道一處，巧妙地在牆上切出一個開口。	俺の泣き出してしまいそうな様子を見て……\n\n慈悲深き錬金術士はトンネルの壁の一角まで\n歩くと、巧みに裂け目を作ってくれた。	곧 울 것 같은 내 모습을 본 연금술사가 터널 벽의 어느 위치로 걸어가 틈을 만든다.	Seeing the despair in my eyes, the alchemist finally takes pity on me and cuts out a hole just the right size in the tunnel walls.	
+80	N/A	那堵墙后面，是一间昏暗的带卫生间员工宿舍。	那道牆後面，是一間昏暗但設有廁所的員工宿舍。	裂け目の向こう側には、暗いトイレ付きの\n社員寮のような部屋が存在した。	벽 뒤에 화장실이 있는 어두운 직원 숙소가 있다. 	Behind the wall is what looks like worker quarters—dark, musty, and most importantly, comes with a toilet.	
+81	N/A	──炼金术万岁！	──得救了！ 煉金術萬歲！	──錬金術様万歳！	──연금술 만세!	Viva alchemy!	
+82	N/A	在拉斐尔凌迟的目光中，我灰溜溜地钻了进去。	在拉斐爾凌遲的目光中，我一溜煙地鑽了進去。	ラファエルの軽蔑の粋を集めたまなざしに\n串刺しにされながらも俺は中へと入った。	라파엘의 능지처참한 눈길을 받으며 의기소침하게 걸어 들어갔다.	I squeeze through the hole right away, not wanting to stand around under Raphilia’s scrutinizing eyes any longer.	
+83	N/A	这里的温度明显更低，墙壁上结了一层薄冰，我呼出的水气也加重许多。	這裡的溫度明顯更低，牆壁上結了一層薄冰，我呼出的霧氣也加重許多。	ここの温度は明らかに低い。壁にも薄い氷が\n張っており、吐息も白みが増している。	이곳의 온도는 현저히 낮다. 벽에 얇은 얼음이 있고 입김도 더 많이 나온다. 	The temperature seems to be lower here. There’s a thin layer of ice over the walls, and I can see my breaths coming out in white puffs.	
+84	N/A	借着从隧道射入的灯光，我看到宿舍里的水银温度计指向-32度。	藉著從隧道射入的燈光，我看到宿舍裡的水銀溫度計指向負32度。	トンネルから差し込む光を借りて、部屋内の\n温度計を見ると-32℃を指していた。	터널에서 들어오는 빛을 빌려 숙소의 수은온도계를 보니 -32도다.	With the light coming from the tunnels, I’m able to read the mercury thermometer on the wall. It says minus thirty-two degrees.	
+85	小怜	（不、不会一下子变成冰柱吧……）	（負32度……不、不會一下子變成冰柱吧……）	（一瞬で凍って氷柱になったりしないよね……）	（수，순식간에 고드름으로 변하진 않겠지）	(Wow, in that case, will my piss be frozen the second it comes out?)	
+86	小怜	（不不不，那也太不科学了……）	（不不不，那也太不科學了……）	（いやいやいや）\n\n（そんな事が起きる訳ないか……）	（아니야，그것도 너무 비과학적이잖아……）	(Probably not... right?)	
+87	小怜	（但是……不想冒险…………）	（但是……我不想冒險……）	（でも……もし本当に固まっちゃったら……）	（하지만……모험을 하고 싶지 않다………）	(I really don’t want to take the risk though...)	
+88	N/A	……	……	…………………………………………	……	...	
+89	N/A	我羞红着脸，小心的回到隧道。	我羞紅著臉，小心翼翼地走回隧道。	顔を真っ赤にさせながら、気を付けつつも\n元のトンネルに戻った俺。	나는 부끄러워 붉어진 얼굴을 하고 조심히 터널로 돌아왔다.	I finally return to the tunnel, blushing furiously.	
+90	拉斐尔	磨磨蹭蹭的家伙。	慢吞吞耶你！	いつまでグズグズしているのよ！？	꾸물거리긴.	What took you so long?	
+91	海因里希	主人的脸好红啊……	主人的臉好紅啊……	マスター、顔が赤くなっておりますが……	주인님의 얼굴이 빨개졌어요……	Your face is all red.	
+92	海因里希	难道温玉的能量耗尽了？要不要换一块……	難道溫玉的能量耗盡了？ 要不要換一塊……	まさか、暖玉のエネルギーが尽きましたか？\n別の物に変えましょうか……？	설마 온옥의 에너지가 다 된 건가？다른 걸로 바꾸는 게……	Has all the power in your Fire Jade been consumed? Need a new one?	
+93	小怜	不用、不用！！	不用、不用！ ！	いい、大丈夫っ！！	아냐、됐어！！	No, no, it’s fine!	
+94	N/A	对不起，海因里希……\n只有这块温玉，我是绝对不会给任何人的！	對不起，海因里希……\n這塊溫玉，我是絕對不會給任何人的！	悪いけど、ハインリッヒ……\nこの暖玉だけは、誰にも渡せない！	미안，하인리히……\n이 온옥만큼은 절대 다른 사람에게 줄 수 없어!	Sorry, Henriette...\nThis Fire Jade... no way I’m letting anyone hold it now!	
+95	N/A	终于一身轻松的我，跟在海因里希和拉斐尔的后面继续顺着线缆的方向前进。	終於解脫了的我，跟在海因里希和拉斐爾的後面，繼續順著纜線的方向前進。	ようやく楽になった俺は、\nハインリッヒとラファエルの後に続いて\nケーブルを頼りに前へ進む。	드디어 몸이 가벼워진 나는 하인리히와 라파엘의 뒤에서 전선을 따라 이동한다.	Bladder no longer killing me, I happily follow Henriette and Raphilia as we continue to walk along the direction of the cables.	
+96	N/A	我又回想刚才的场景，员工宿舍的桌面上放着半开的伏特加，墙面的冰似乎是黑色的。	一邊走，我回想起剛才的場景，員工宿舍的桌上放著喝了一半的伏特加，而牆面的冰似乎是黑色的。	さっきの場所の事を思い出す。\n\n壁面の氷は黒く、社員寮のテーブルには、\n半開きのウォッカが置かれてあった。	직원 숙소 테이블 위에 놓여있던 반쯤 열린 보드카，벽면의 검은색 얼음.	I try to recall what I just saw in the workers’ quarters. On a table was half a bottle of Vodka, and on the walls dark-colored ice.	
+97	N/A	我在黑暗中走动的时候似乎踢到过的金属物品……	我在黑暗中走動的時候好像還踢到金屬物品……	暗い部屋の中を歩いた時は、何かの金属製品を\n蹴ったみたいだったけど……	어둠 속을 걸을 때 금속 물체를 발로 찼던 것 같은데……	While trying to find my way in the dark, I seemed to have banged my leg against some metal object...	
+98	小怜	不对不对，我在胡思乱想什么啊……	啊，算了，先別想這麼多了……	……いやいや、\nわけの分からない事を考えちゃダメだ俺。	아니야，내가 지금 무슨 생각을 하는 거야……	No, no. That must’ve been my imagination.	
+99	N/A	仔细观察四周，裸露水泥层的隧道墙壁上偶尔能看到一两块贴砖。	我仔細觀察四周，裸露水泥層的隧道牆壁上偶爾能看到一兩塊磁磚。	周りを良く観察すると、裸のコンクリート壁には\nレンガがたまに張られているのが見える。	주위를 자세히 관찰하니 콘크리트층이 벗겨진 터널 벽에 한두 개의 타일이 보인다.	I observe my surroundings. The cement tunnel walls are mostly bare, save for a couple tiles.	
+100	N/A	等等，难道这些墙面不是未完工──	等等，難道這裡不是未完工──	まさか……ここの壁は未完成ではなく──	잠깐，설마 이 벽들 아직 완공되지 않은 게 아니라──	Wait... tiles? If this place had been under construction like I thought, the tiles wouldn’t be placed so haphazardly like this.	
+101	N/A	而是隧道的整个内壁都被……	而是隧道的整個內壁都被……	トンネルの内壁全体が……	터널의 내벽이 모두…	Instead, it’s more likely that the rest of the tiles were destroyed by some force...	
+102	小怜	（不好的预感……）	（不好的預感……）	（いやな予感がする……）	（안 좋은 예감이 든다……）	(I have a bad feeling about this...)	
+103	N/A	我们终于走到了监控室门前，门把手似乎被故意卡死了。	我們終於走到監控室門前，門把似乎被故意卡死了。	ついに監視室に到着した。\n\nしかし、監視室の扉はドアノブが故意に回せなく\nなっていた。	드디어 제어실 문 앞에 도착했다. 문은 고의로 잠근 것 같다.	We finally arrive in front of the control room. The knob seems to be jammed—on purpose.	
+104	N/A	海因里希一番暴力操作，将把手带门锁一起敲掉。	海因里希奮力敲了幾下，門鎖和把手就一同落地。	だが、ハインリッヒの暴力的操作の前では無駄で\nドアノブとロックが一緒に外された。	하인리히가 폭력적인 동작으로 문고리 자물쇠를 해결했다.	That doesn’t deter Henriette. That monster simply breaks off the knob, lock and all.	
+105	N/A	监控室的门缓缓打开──	監控室的門緩緩打開──	監視室のドアがゆっくりと開き、\n遂に全貌を明かす──	제어실의 문이 천천히 열린다──	The door to the monitoring room creaks open...	
+106	海因里希	——小心！！	——小心！！	──お気を付けを！！	——조심해！！	—Look out!	

@@ -1,0 +1,99 @@
+﻿1	N/A	贝阿特丽切拿着麦克风，一只脚踩在护栏上。	貝阿特麗切拿著麥克風，一隻腳踩在護欄上。	ベアトリーチェはマイクを持ち、片方の足で\nサイドレールを踏む。	베아트리체가 마이크를 들고 한발을 난간 위에 올린다. 	Beatrice lifts one leg, foot on the railing, and yells into her microphone.	
+2	N/A	功率全开的音箱将她的声音传遍了整个电器街。	功率開到最大的音箱將她的聲音傳遍了整條電器街。	彼女の解き放った怒声に近い言葉が、\nオーディオを通して電気街全体を貫く。	음량을 최대로 높인 스피커가 그의 목소리를 전자 상가에 울려퍼지게 한다.	The stereo, turned up to full volume, carries her voice to the very end of Electronics Street.	
+3	贝阿特丽切	你们这群渣滓──	你們這群雜碎──	さあ、愛しきクズども────	이 쓰레기들아──	You’re garbage, all of you!	
+4	贝阿特丽切	不折不扣的变态！！	不折不扣的變態！ ！	──正真正銘の変態達よ、覚悟なさいッ！！！！	구제불능 변태들아！！	Go to hell, perverts!	
+5	小怜	诶？	什麼？	はっ？	엣？	What?	
+6	索娅	哦呀呀……	哦呀呀……	おやまぁ……？	오아아……	Uh...	
+7	小怜	（是、是为了转移注意力才这么说的吧……？）	（是、是為了轉移注意力才這麼說的吧……？ ）	（ちゅ、注意を引くために言ってるんだよな？）	（주,주의를 끌기 위해서 저렇게 얘기하는 거겠지……？）	(She’s just... saying that to attract attention, right? She doesn’t mean it, right?)	
+8	N/A	贝阿特丽切的劲爆发言果然使人们将目光纷纷转向了她。	貝阿特麗切的勁爆發言果然讓大家紛紛將目光轉向她。	ベアトリーチェの爆弾発言が狙い通り、\n人々の目線を惹き付けた。	베아트리체의 자극적인 발언에 사람들이 하나둘씩 그녀에게 시선을 돌린다. 	And attract attention she did. All eyes are on her now.	
+9	N/A	她看着车下面那群张着嘴仰着头，对自己红色高跟鞋底和短裙阴影浮想联翩的家伙──	她看著車下面那群張著嘴仰著頭，對自己紅色高跟鞋底和短裙陰影產生幻想的傢伙──	パレードカーの下で口をあんぐり開けながら\nベアトリーチェを見る男達。\n赤いハイヒールの靴底、揺れるスカートの影……\n何か妄想している男達を彼女は見下した──	그녀가 차 아래서 입을 벌리고 자신의 분홍색 하이힐과 치마 그림자 밑에서 온갖 상상을 하는 녀석들을 쳐다본다──	The second they see Beatrice’s face, the pedestrians can no longer look away. They stand, mouths hanging open, awed by her shiny red high heels and the enticing shadow under her miniskirt.	
+10	贝阿特丽切	你们这帮社会垃圾、又脏又臭的虫子！其实一直都等着被踩死的那一天吧？	你們這些垃圾、又髒又臭的蟑螂！ 其實一直在等著被踩死的那一天吧？	あんた達はいつもそう！！\n\n可愛い子を見ていたと思ったらすぅ～～ぐ\nこっちを向きやがって！！貞操概念はないの！？\n\n多情で、移り気で、飽き性で、すぐ嫁だの\n何だの言いやがって──	이 사회의 쓰레기, 더럽고 냄새나는 벌레들! 사실 밟혀 죽는 날만을 기다리고 있었지?	Garbage, all of you! Filthy bugs! You’d love me to stomp y’all to death, wouldn’t you?	
+11	贝阿特丽切	──你们不觉得羞耻吗！？	──你們不覺得羞恥嗎！ ？	──そんな気持ちで殺された身にも\nなりなさいよッ！！！ \n中途半端で恥ずかしくないのッ！？！？	──부끄럽지도 않냐！？	Aren’t you ashamed?	
+12	小怜	（怎、怎么听着像是积怨已久的爆发……）	（怎、怎麼聽起來像積怨已久的爆發……）	（な、なんか積年の恨みを爆発させているだけ\n　のように聞こえるんだけど……）	（어, 어째 오랫동안 참았다가 폭발하는 것 같다……）	(Maybe she actually does mean it...)	
+13	N/A	多数人的注意力都被她吸引过去，连其他花车上唱唱跳跳的吉祥物也停了下来。	多數人的注意力都被她吸引了過去，連其他花車上唱唱跳跳的吉祥物也都停止了動作。	大勢が彼女に注意を奪われ、他のパレードカーで\nパフォーマンスをしていたマスコット達すら、\n完全に動きを止めた。	대다수의 사람들이 그녀에게 주의력을 뺏기고 다른 퍼레이드 카 마스코트들도 동작을 멈췄다.	Most of the people on the street are staring now. Even the mascots who had been dancing on the roofs of other trucks pause in their performances to watch the spectacle.	
+14	N/A	我和索娅抓住空档钻进去，顺着花车侧面的楼梯摸到车顶，一眼就看到了伊露卡。	我和索婭把握空檔鑽進去，順著花車側面的樓梯上到車頂，一眼就看到了伊露卡。	隙を見て俺とソヤは中に入り込む。\n\nパレードカーに備え付けてある階段を登って、\nイルカの近くまで辿り着いた。	나와 소야는 빈 틈을 타고 들어가 트럭 옆 빌딩에서 이루카를 볼 수 있었다. 	Sonya and I take the opportunity to scale the ladder on the side of Elluka’s truck.	
+15	N/A	她正坐在神龛的御座上，一脸满足的摸着自己鼓成小山的肚子，面前的贡台上还散落着几十个空盘。	她正坐在神龕的御座上，一臉滿足地摸著自己鼓成小山的肚子，面前貢台上還散落著幾十個空盤。	一番上の神輿に座っているイルカは、\n満足げにポッコリお腹を撫でていた。\n目の前には空き皿がズラリと並んでいる。	그녀는 어좌에 앉아 눈 앞에 빈 그릇을 두고 만족스럽게 부풀어 오른 자신의 배를 만지고 있다.	The girl is sitting on her throne, patting her bulging belly in satisfaction. Dozens of empty plates lie on the offering table in front of her.	
+16	小怜	这些……都是她吃的吗！？	天哪……也吃太多了吧！ ？	あれ全部……イルカが食べたのか！？	이걸……전부 다 먹었다고！？	She... ate all this?	
+17	N/A	我环视四周，盘算着要如何神不知鬼不觉的把这个小吃货带走，却没注意伊露卡已经扑了过来。	我環顧四周，盤算著要如何神不知鬼不覺地把這個小吃貨帶走，卻沒注意到伊露卡已經撲了過來。	俺は周囲を見渡しながら、あの食いしん坊を\nどうやってバレずに連れ戻そうか考える。\nしかし、イルカが何やら不穏な動きを……	주의를 둘러보며 어떻게 해야 이 먹보를 데려올까 궁리하고 있을 때 이루카가 이미 내려오고 있었다.	I survey the area, calculating the best way to carry this chubby little glutton out of this whole mess, but Elluka simply throws herself onto me.	
+18	伊露卡	小怜姐姐~！！	小憐姐姐！ ！	レンお姉ちゃ～～んっ！！	렌 언니~！！	Miss Ren!	
+19	N/A	我紧张的扭过头，想做出“嘘”的动作示意她小点声──	我緊張地回過頭，想做出「噓」的動作要她小聲些──	こっちに気付いたみたいだ。\n\n俺は顔を向け「シーッ！」とジェスチャーを\nしようとする──	긴장하며 고개를 돌린 내가 “쉿” 하며 그녀에게 목소리를 낮추라고 할 때──	I hold a finger to my lips, motioning at her to keep it down—	
+20	N/A	却发现她已经高高跃起，正张开手脚，从半空朝着我的面部下坠……	卻發現她已經高高躍起，張開手腳，從半空中朝著我的臉下墜……	だが、彼女はすでに高く飛び上がっており──\n\n手足を広げて空から俺の顔に向かって\n落ちてくる……	그녀가 이미 높이 점프해 두 팔을 날 향해 벌리고 공중에서 내 머리 위로 떨어지고 있었다……	Yet she’s already leapt into the air, aiming straight for my face...	
+21	N/A	对啊，回想第一次见到伊露卡的时候，她就在半空中和女巫战斗吧……	對啊，第一次見到伊露卡的時候，她正在半空中和女巫戰鬥吧……	そうだった。初めてイルカに出会った時、\nドールと空中で戦っていたっけ。	아참, 처음 이루카를 만났을 때가 생각난다. 공중에서 무녀와 싸웠을 때였지……	Oh, right. The first time I saw Elluka, she was fighting witches in the air, wasn’t she?	
+22	N/A	后来爱衣为她检查过的结论是：骨龄在11到12岁左右，身体接受过大量的机械改造。	後來愛衣檢查的結論是：骨骼年齡在11到12歲左右，身體受過大量的機械改造。	愛衣が彼女の身体を検査した結果、骨年齢は\n11歳から12歳くらい。\n大幅な機械改造を受けている事が判明した。	이후 아이의 이루카 검사 결과：뼈 나이 11~12세, 신체는 대량의 기계로 개조됨.	I remember Aya telling me that this girl, around eleven to twelve years old judging from the age of her bones, had undergone dozens of operations and had countless mechanical parts installed in her body.	
+23	N/A	而且经历过多次记忆消除，甚至连自己的左眼什么时候被替换成了军用电子义眼都不记得。	而且經歷過多次記憶消除，甚至連自己的左眼什麼時候被替換成軍用電子義眼都不記得。	また何回も記憶を削除されており、いつ左目が\n軍用電子義眼に変えられたのかも覚えていない。	수차례 기억 삭제를 당해 자신의 왼쪽 눈이 군사용 의안으로 바뀐 것 조차도 기억하지 못함.	Her memory’s been wiped too many times—she doesn’t even remember when her own left eye had been replaced by a military-grade electronic prosthetic eye.	
+24	N/A	还有一点就是──虽然她可以利用电磁场漂浮在半空，但实际体重却接近我的两倍……	最重要的是──雖然她能利用電磁場漂浮在半空中，但實際的體重卻接近我的兩倍……	最後に――\n\n彼女は電磁場を利用して宙に浮かぶ事ができるが\n実際の体重は俺の2倍もあり……	그리고 한가지 더──전자장을 이용해 공중에 뜰 수 있지만 실제 체중은 내 2배 정도 된다……	With all those mechanical parts inside her, even though she’s capable of floating by taking advantage of the electromagnetic field, her actual weight is in fact twice that of mine...	
+25	N/A	咔──	咔──	バキッーーボキボキッーーーー	탁──	Thump!	
+26	N/A	伊露卡从空中落下，双腿夹住我的两肋，鼓起的肚子贴在我的脸上，而两只手则紧紧抱住我的后颈。	伊露卡從空中落下，雙腿夾住我的兩肋，鼓起的肚子貼在我的臉上，雙手則緊緊抱住我的後頸。	イルカが空中から落ちてくる。\n\n両足で俺の腰を挟み、膨らんだお腹を俺の顔に\nくっ付けて、両手で俺の首を強く抱きしめた。	이루카가 공중에서 떨어져 두 다리로 내 옆구리를 감싸고 배를 내 얼굴에 붙인 후 뒷목을 꽉 껴안는다.	Elluka lands on me, thighs squeezing my ribs, soft belly covering my face. Her chubby hands clutch at the back of my neck.	
+27	N/A	我的颈椎、腰椎和肩膀瞬间感到了巨大的压力。	我的頸椎、腰椎和肩膀瞬間感到了巨大的壓力。	瞬時に俺の頸椎、腰椎と肩部に巨大な圧力が\n襲いかかる。	경추, 요추 그리고 어깨에 순식간에 압력이 가해진다.	I swear I could hear my spine breaking from the pressure.	
+28	N/A	她用整个身体包住了我的胸和头，还很开心的在我的头顶蹭着脸蛋。	她用整個身體包住了我的胸和頭，還很開心地用臉磨蹭我的頭頂。	彼女は全身で俺の胸と頭を包みこんで、\n嬉しそうに頭の上で頬ずりをしている。	그녀가 온 몸으로 나의 뇌와 머리를 감싸고 정수리에 두 볼을 부빈다.	She wraps her whole body around my chest, my head, nuzzling her cheek on my hair like a very enthusiastic cat.	
+29	伊露卡	诶嘿嘿，最喜欢小怜姐姐了嗝~	欸嘿嘿，最喜歡小憐姐姐了嗝～	えへへ、レンお姉ちゃん大好きぃ～～\n──けっぷ。	에헤헤, 렌 언니가 제일 좋아~	Miss Ren is my favorite! *hic*	
+30	N/A	伊露卡红着脸说话吱吱呜呜，好像喝醉了一样。	伊露卡紅著臉說話，支支吾吾地好像喝醉了一樣。	真っ赤な顔のイルカは、声をこもらせて話す。\nまるで酔っぱらっているみたいだ。	달아오른 얼굴로 재잘재잘 거리는 이루카는 마치 술에 취한 것 같다.	From her gleeful red face and the slur in her voice, one would have thought she’s drunk.	
+31	索娅	你的骨头……刚才好像发出了奇怪的声音？	妳的骨頭……好像發出了奇怪的聲音？	あなたの骨から……変な音が鳴りましたわよ？	네 뼈……방금 이상한 소리가 난 것 같아.	I heard this loud crack... was that your bones?	
+32	小怜	…………………………	……	…………………………	…………………………	...	
+33	N/A	我僵直的站在原地，总觉得随便移动的话头会失去颈部的支撑向后翻过去。	我僵直地站在原地，總覺得一旦隨便移動，頭就會失去頸部的支撐而向後倒。	……硬直して動けない俺。\n\n今は絶妙なバランスを保っているが、不用意に\n動くとダメージを受けた骨が逝くと思う。	나는 제자리에 굳어버렸다. 멋대로 움직이면 경부의 지탱을 잃어 뒤로 넘어질 것 같다.	I stand stiff, frozen in spot. Feels like my neck will snap in half if I move even the tiniest bit.	
+34	N/A	刚才的动静似乎引起了一些人的注意，还有声音朝着我们问“那是什么？”。	剛才的動靜似乎引起了一些人的注意，還聽到一些人說「那是什麼？ 」。	一連の出来事は何人かの注意を引いてしまった\nようで──\n俺達の方に向けて「何だあれ？」って\n声が聞こえた。	방금 소동으로 이미 사람들의 주의를 끌었고, 우릴 향해 “저건 뭐지?”하고 묻는 소리도 들린다.	The commotion seems to have attracted the attention of the females nearby. Some are even pointing at us, asking “what’s that?”	
+35	N/A	那是一只穿着渔网袜的蓝色大头怪。	那是一隻穿著網襪的藍色大頭怪。	網タイツを穿いた巨大な青い頭の怪物がいたら、\nそりゃ「何だあれ？」だろう。	저건 망사스타킹을 입은 파란색 머리 괴물인데요.	I look like a big-headed monster in fishnet stockings right now. No wonder they’re confused.	
+36	N/A	贝阿特丽切见状突然提高了音调，像是在为我们争取最后的撤离时间。	貝阿特麗切見狀突然提高了音調，像是在為我們爭取最後的撤離時間。	状況に気付いたベアトリーチェが声のトーンを\n上げてくれる。\n俺達の撤退時間を稼ぐ最後のひと押しだ。	베아트리체가 우리에게 도망갈 시간을 주려는 듯 갑자기 데시벨을 올린다.	Noticing our predicament, Beatrice raises her voice, as if to buy us some more time to evacuate.	
+37	贝阿特丽切	你们这群满脑子都是龌龊幻想的垃圾！杂种！变态！猪！	你們這群滿腦子都是齷齪幻想的垃圾！ 雜種！ 變態！ 豬！	思慮深いフリして、私利私欲ばかりッ！\n汚い妄想だらけッ！\nゴミッ！ クズッ！ 豚ッ！ 変態ッ！！！	머릿속에 불결한 환상만 가득 있는 쓰레기들！잡종！변태！돼지들아！	You all belong in the junkyard! Not an ounce of decency in your heads! Maggots! Creeps! Swine!	
+38	贝阿特丽切	全都给我──	全都給我──	そんなあんた達は全員────	전부 다──	All of you—	
+39	贝阿特丽切	去死吧！！！！	去死吧！ ！！ ！	──地獄に落ちなさいッッ！！！！	죽어라！！！！	Die!	
+40	N/A	骂到高潮时刻，那两台大功率音箱也终于顶不住发出了尖锐的爆音。	罵到最高潮時，那兩台大功率音箱也終於撐不住地發出了尖鋭的爆音。	渾身の罵倒が最高潮に達すると、\n2台の大出力スピーカーも耐え切れなくなり、\n甲高いノイズを発生させた。	클라이맥스에 다달았을 때 양쪽 스피커도 참지 못하고 날카로운 폭발음을 낸다.	The two speakers chorus with fizzling electricity as Beatrice’s passionate speech reaches its climax.	
+41	N/A	喇叭正对着广告灯箱里的灯管“啪！啪！”的炸裂开来。	喇叭正對面的廣告燈箱燈管也「啪！ 啪！ 」地炸裂開來。	遂にはスピーカー正面のネオン看板のライトが\n「パンっ！ パンっ！」と音を立てて破裂する。	확성기 맞은편 네온 간판 안 형광등이 “팟！팟！”하고 폭발하기 시작했다.	And finally they explode, alongside the light bulbs on the nearby illuminated billboards.	
+42	N/A	──整个电器街一片诡异的宁静。	──整條電器街一片詭異的寧靜。	電気街全体が不気味な静寂に包まれた──	──전자 상가에 기이한 고요함이 흐른다.	The whole street falls into an eerie silence.	
+43	N/A	人们对着花车上英姿勃发的红发女王看得发懵。	人們對著花車上英姿煥發的紅髮女王看傻了眼。	パレードカーの上で勇ましい姿を見せる\n赤髪の女王様に、人々は唖然としている。	퍼레이드 카 위 위풍당당한 빨간 머리 여왕을 본 사람들의 어안이 벙벙해졌다.	The crowds are still staring, shell-shocked, at the red-haired lady, standing in all her glory on top of the truck.	
+44	N/A	索娅费了好大劲才把年糕一样糊在我脸上的伊露卡扒下来背在自己背上。	索婭費了一番功夫才把像年糕一樣黏在我臉上的伊露卡扒下來，背到自己背上。	ソヤは餅のようにへばり付く俺の顔から\nイルカを引っ剥がして、自分の背中に背負った。	소야가 내 얼굴에 떡 처럼 붙어있는 이루카를 떼어내고 자신의 등에 업는다.	Sonya uses the brief distraction to yank Elluka off me, then shoves her onto her own back.	
+45	N/A	而她这会功夫居然已经呼呼的睡着了。	而她居然已經呼呼大睡了。	イルカの方はすでに、ぐっすりと眠っている。	그녀는 이미 쿨쿨 잠들어 있었다.	The younger girl, who had plastered herself over me like a piece of gum, falls asleep in an instant.	
+46	索娅	这小鬼……居然这么沉──！	這小鬼……未免也太重了吧！	このガキ……こんなに重いとは……ッ！	이 꼬마…왜 이렇게 무거워──！	Whew... didn’t expect the brat to weigh this much...	
+47	N/A	终于松了口气的我揉着腰观察四周，大家沉默的氛围着实让人不安。	終於鬆了口氣的我揉著腰觀察四周，沉默的氛圍著實讓人不安。	ようやく解放された俺は、ダメージを受けた腰を\n揉みながら再度周囲を見渡した。\n沈黙が支配している空気が一面に広がって、\n物凄く不安に駆られる。	드디어 한숨 돌린 나는 주위를 살폈다. 조용한 분위기가 사람을 더 불안하게 만든다.	I sigh, finally managing to catch my breath, massaging my waist as I survey the scene. It’s still unnervingly silent.	
+48	小怜	不会把他们骂急眼了吧……	是不是罵得太狠了……	まさかこいつら罵倒されて、カッとなってる\nとかじゃ……	다들 화난 건 아니겠지……	Are these guys petrified or something?	
+49	N/A	然而片刻之后，一阵骚动由远及近的传来──	但沒過多久，一陣騷動突然由遠而近地傳來──	しばらくすると、荒波のような声の渦が遠方から\n押し寄せてきた──	그 순간, 술렁거리는 소리가 멀리서 들려온다──	But moments later, cheers begin rippling through the crowd. Loud, wondrous cheers.	
+50	N/A@路人A	啊啊啊啊啊啊好棒！！！！	啊啊啊啊啊啊好棒！ ！！ ！	ああぁぁぁ素晴らしいいぃぃぃぃッッッ！！！！	와아아아아아 최고예요！！！！	Aahhh! She’s wonderful! You’re wonderful!	
+51	N/A@路人B	请尽情的辱骂我吧！！！！	請盡情辱罵我吧！ ！！ ！	どうか俺をもっと罵ってくださいいぃぃぃッ！！	더 욕해주세요！！！！	Step on me, my queen!	
+52	小怜	诶？	什麼？	はっ？	엣？	What?	
+53	N/A	接着，整条电器街爆发出了一浪又一浪的狂欢！！	接著，整條電器街爆發出了一波又一波的狂歡聲浪！ ！	電気街全体で声の誘爆が次々と発生する。	이어서 전자 상가 거리에 환호성이 폭발했다！！	Waves and waves of ecstatic cheers explode all over the street.	
+54	N/A	──人群，彻底沸腾了。	──人群，徹底沸騰了。	群衆のボルテージは一気に最高潮に達した。	──사람들이, 완전히 달아올랐다.	The crowds are rioting out of sheer excitement.	
+55	N/A	街对面的黑色装甲车上跑下来一群拿着自动武器的士兵，一脸困惑的看着这边突然暴动的人群。	一群拿著自動武器的士兵從對面的黑色裝甲車上跑了下來，一臉疑惑地看著這邊突然暴動的人群。	小銃を持った兵士が黒い装甲車から降りてくると\n変に沸き立つ群衆に困惑した表情を見せる。	건너편의 검은색 장갑차에서 자동 무기를 든 병사들이 내리고 갑자기 폭동한 사람들을 곤란하게 쳐다본다.	From the black armored trucks across the street, several soldiers carrying automatic weapons hop down, surveying the sudden uproar in confusion.	
+56	N/A	我想提醒贝阿特丽切，指了指街对面，却不小心看到了她的脸──	我轉頭想提醒貝阿特麗切，卻不小心看到了她的臉──	俺はベアトリーチェに注意を促そうと\n兵士の方角を指差した。\nその時、ダメと言われたのにうっかり彼女の顔を\n見てしまう……	베아트리체에게 신호를 보내기 위해 건너편을 가리키는 순간, 나도 모르게 그녀의 얼굴을 보고 말았다──	I gesture in their direction, trying to alert Beatrice, and that’s when I accidentally catch sight of her face...	
+57	小怜	糟──	糟──	やばッ──	망했다──	Oh dear—	
+58	小怜	……好、好漂亮！	……好、好漂亮！	………………き、きれいだ！！	……너, 너무 예뻐!	She’s... so beautiful!	
+59	N/A	看到她脸的一刹那，我顿时感觉小腹中一股温热的暖流传遍全身。	看到她臉龐的一瞬間，我感覺小腹有一股溫熱的暖流傳遍全身。	彼女の顔を見た途端、急に下腹部から暖かい物が\n全身に伝わっていくのを感じた。	그녀의 얼굴을 본 순간, 복부에 따뜻한 온기가 올라와 온몸에 퍼진다.	A warm tingling current that feels very much like desire spreads through my body instantly.	
+60	N/A	只觉两颊发烫、双腿酥软……	只覺兩頰發燙、雙腿酥軟……	頬が熱くなって、足に力が入らない……	두볼이 달아오르고 다리가 풀리는 것 같다……	My cheeks burn, my legs give out...	
+61	小怜	（好想──）	（好想──）	（俺も……）	（예쁘다──）	(I want her...)	
+62	索娅	……小怜？	……小憐？	……レンさん？	……렌？	... Ren?	
+63	N/A	人们的情绪随着有节奏的欢呼声越来越激烈，贝阿特丽切的花车也被推得摇晃起来。	眾人的情緒隨著有節奏的歡呼聲越來越激烈，貝阿特麗切所在的花車也被推擠到搖晃起來。	歓声がリズムを刻み始めると人々のテンションは\nますますヒートアップ。\nベアトリーチェが乗るパレードカーも押されて\nグラグラと揺れるぐらいだ。	사람들의 환호성이 점점 더 걱렬해지고 베아트리체의 퍼레이드 카도 심하게 흔들리기 시작한다.	The crowds are going out of control. They surge upon Beatrice’s truck as one, chanting loudly as they go, to the point that the flimsy vehicle is on the verge of toppling over.	
+64	N/A	几个家伙试图从侧面爬上车顶，纷纷被她对着面门一脚踹下去。	幾個傢伙試圖從側面爬上車頂，卻一一被她從臉踹了下去。	何人かが側面から車の屋根に登ろうとするが、\n彼女に次々と顔を蹴られ、落とされている。	몇몇 녀석들은 차 위에 올라가려다 그녀의 발에 나가 떨어진다.	Some guys attempt to scale the truck from the side, but Beatrice simply stomps on their grabby hands and kicks them back down.	
+65	小怜	（好想被踩啊~！！）	（好想被踐踏啊！ ！）	（俺も踏まれたいよおおぉぉぉ～～ッッ！！！）	（나도 밟히고 싶어~！！）	(Yes! More! Stomp on me too! Please, my queen!)	
+66	N/A	她看着我犯花痴的蠢样微笑着摇摇头，重新扣上了那个手环。	她看到我花痴般的蠢樣後，微笑著搖搖頭，然後重新扣上了那個手環。	目がハートになってしまった俺。\n\nそんな姿を彼女が見ると、微笑みながら頭を\n横に振ってブレスレットを装着し直した。	그녀가 이성에 미쳐 바보처럼 웃는 날 보며 고개를 젓고는 팔찌를 다시 손목에 찼다.	Beatrice smiles and shakes her head at the look of sheer idiocy on my face, then clasps her bracelet back on.	
+67	N/A	然后她从胸部抽出一个拇指大小的银色胶囊，猛然朝着自己脚下一丢──	接著，她從胸部抽出一個拇指大小的銀色膠囊，猛然朝著自己腳下一丟──	胸元から親指サイズの銀色のカプセルを取り出し\n自分の足元に向かって叩き付ける──	그리고 가슴 부근에서 엄지손가락만한 은색 캡슐을 꺼내 자신의 발 밑에 던진다──	Then she pulls out a silver capsule the size of a thumb from her breasts and tosses it at the wilding crowds under her feet—	
+68	N/A	一阵白烟过后，贝阿特丽切已消失得无影无踪。	一陣白煙過後，貝阿特麗切已消失得無影無蹤。	そして白い発煙と共に、ベアトリーチェの姿は\n霧のように消えた。	순간 흰 연기가 피어오르고 베아트리체는 흔적도 없이 사라졌다.	In a cloud of white smoke, the beautiful Beatrice disappears without a trace.	
+69	N/A	我还沉浸在刚才粉红色的感觉中，忽然被索娅一把拉住了手腕。	我還沉浸在剛才粉紅色的感覺中，忽然被索婭一把拉住了手腕。	まだピンク色の感覚に溺れている俺……\n\n……ソヤが腕を掴んで引っ張ってくれた。	아직 핑크빛 기운에 빠져있을 때 갑자기 소야가 나의 손목을 잡아끌었다.	I still can’t forget her stunning face, however—until Sonya tugs at my arm.	
+70	索娅	愣什么呢！军队都要过来了，而且……	愣在這裡做什麼！ 軍隊都要過來了，而且……	何をポケーっとしておりますのッ！\n軍隊が来ますわよッ！\nそれに……！	뭘 멍하니 서있어! 군대가 이쪽으로 오고 있어. 그리고……	Snap out of it! The soldiers are coming! Besides...	
+71	N/A	烟雾散尽，失去焦点的众人原本节奏整齐的声浪渐渐凌乱。	煙霧散盡，失去焦點的眾人原本節奏整齊的聲浪也漸漸凌亂。	煙が消えた後、リズムに乗っていた歓声が徐々に\n崩れていき、人々の意識が元に戻っていく。	연기가 사라지고, 초첨을 잃은 사람들이 점점 어수선해지기 시작한다.	As the smoke dissipates, the crowd begins murmuring in confusion, realizing that their object of focus is no longer there.	
+72	N/A	我和索娅带着伊露卡跑出没多远，就有亲卫队发现他们刚才顶礼膜拜的大萌神也不见了。	我和索婭帶著伊露卡才離開沒兩步，就有親衛隊發現他們剛才頂禮膜拜的大萌神也不見了。	意識を取り戻した親衛隊の1人が、拝んでいた\n『萌神様』の消失に気付いた。	나와 소야가 이루카를 데리고 얼마 도망가지 못했을 때 친위대가 그들의 귀여운 신이 사라진 걸 알아차렸다.	Sonya and I barely manage a few steps away from the crowds before Elluka’s fanclub notices that their very own idol is gone.	
+73	N/A@亲卫队A	伊露卡大人呢！？	伊露卡大人呢！ ？	なッ！！！　イルカ様は！？！？	이루카님은！？	Where’s Lady Elluka?	
+74	N/A@亲卫队B	在那边！那个渔网袜把伊露卡大人拐跑了！	在那邊！ 那個網襪把伊露卡大人拐跑了！	あっちだッ！！！ \nあの網タイツがイルカ様を誘拐しやがった！！！	저쪽이다！저 망사스타킹이 이루카님을 데려가고 있어!	Over there! That one in fishnet stockings took our Lady Elluka!	
+75	小怜	（渔网袜？伊露卡……大人？）	（網襪？ 伊露卡……大人？ ）	（網タイツ…？　…イルカ……様？）	（망사스타킹？이루카……님？）	(Fishnet stockings? Lady Elluka?)	
+76	N/A@亲卫队C	是诱拐犯吗？快叫警察！	是誘拐犯嗎？ 快叫警察！	アイツ誘拐犯じゃね！？\n早く警察呼ぼうぜ！！	유괴범인가? 경찰을 불러！	Kidnapper! Call the police!	
+77	N/A@亲卫队A	追啊──！！	追啊──！ ！	追うぞ――――――ッッッ！！！！！	잡아라──！！	After them!	
+78	N/A	一大群穿着应援服的家伙义愤填膺的朝着我们杀了过来，后面还跟着几个保安警。	一大群穿著應援服的傢伙義憤填膺地朝著我們衝了過來，後面還跟著幾個警察。	はっぴを着た大群の男達が謎の正義感を携え、\n俺達に襲いかかってくる。\nその後ろには数名の保安警察も付いてきている。	응원복을 입은 무리들이 격분한 상태로 우릴 향해 달려오고 그 뒤로 경찰 몇명도 따라온다.	A group of raging men make a beeline for us, followed by a few security police.	
+79	N/A	哪有穿渔网袜的诱拐犯啊！！	哪個誘拐犯會穿網襪啦！ ！	網タイツを穿いた誘拐犯なんているかよ！！	망사스타킹을 신은 유괴범이 어디있다고！！	Come on, what kind of kidnapper wears fishnet stockings?	
+80	小怜	快跑！！	快跑！ ！	早く逃げなきゃっ！！	빨리 뛰어！！	Run!	
+81	N/A	然而索娅背着伊露卡，我的腰还在隐隐作痛，根本无法甩开距离。	但索婭背著伊露卡，我的腰還在隱隱作痛，根本跑不快。	しかしソヤはイルカを背負っているし、俺も腰を\n負傷中だから奴らを振り切れそうにない。	소야는 이루카를 업고 있고, 나는 허리 통증이 있어 거리를 벌릴 수가 없다.	But it’s hard for us to shake the crowd off, especially since Sonya is carrying the plump Elluka, and my waist is still throbbing in pain.	
+82	N/A	而且前面似乎还有一组巡警在向这边张望……	而且前面好像還有一組巡邏員警向這邊張望……	さらには前方、\nどうやら警官達が待ち構えているようだ……	게다가 앞쪽에 순찰경들이 이쪾을 쳐다보고 있다……	What’s worse, there are some cops patrolling up ahead...	
+83	N/A	打又不能打，跑又跑不动，简直是绝境。	打也不能打，跑又跑不動，根本是悲劇！ ！	殴り合いもできないし、逃げようにも走れない。\nまさに絶体絶命――\nガッシャァーーーーンッ！！	싸울 수도 없고, 도망갈 수도 없는 궁지에 몰렸다.	We can’t fight. We can’t run. It’s hopeless.	
+84	N/A	忽然，我们身后传来一阵玻璃碎裂的声音。	突然，我們後方傳來一陣玻璃碎裂的聲音。	突然、俺達の後ろからガラスが派手に\n割れる音がした。	갑자기 우리 뒤로 유리가 깨지는 소리가 들려온다.	Suddenly, from behind us, comes the sound of shattering glass.	
+85	N/A	一个穿着黑色风衣的金发男生放倒了路边的老式广告灯箱。	一個穿著黑色風衣的金髮男生踹倒了路邊的老式廣告燈箱。	黒いコートを着た男性が、道端の古い電飾看板を\n倒したのだ。	검은색 자캣을 입은 금발 남자가 길가의 오래된 네온 사인을 쓰러트렸다.	A blond guy in a black windbreaker has knocked over an old-school illuminated billboard by the street.	
+86	N/A	周围环绕的圆形灯泡碎了一地，慌忙闪躲的路人挡住了后面亲卫队的视线。	環繞著燈箱的圓形燈泡碎了一地，急忙閃躲的路人擋住了後面親衛隊的視線。	看板に付いていた丸い電球が地面によって\n砕かれると、\nそれを避けた通行人が後ろの親衛隊の視界を\nさえぎった。	주위를 비추던 등이 꺼지자 갈팡질팡하는 행인들이 친위대의 시선을 가린다.	The shards of the billboard light bulbs cover the ground. The pedestrians, trying their best to avoid them, effectively slow down Elluka’s fanclub.	
+87	N/A	那个男生转过头看着我和索娅，露出一个人畜无害的笑容──	那個男生轉過頭看著我和索婭，露出一個人畜無害的笑容──	その男性は俺とソヤの方を向くと、人畜無害な\n笑顔を見せる。	그 남자가 나와 소야를 돌아보며 악의가 없는 미소를 짓는다──	The blond guy smiles at Sonya and me, face innocent and sweet.	
+88	戴眼镜的男生	前面有小路，我带你们走吧？	前面有小路，我帶妳們走好嗎？	この先に小道があります。案内しましょうか？	앞에 지름길이 있어요. 제가 데려다 드릴게요.	There’s a shortcut up ahead. Come with me?	
+89	N/A	我和索娅面面相觑，这是在模仿某部电影吗？	我和索婭面面相覷，這是在模仿某部電影嗎？	俺とソヤは互いに顔を見合わせた。\n\n……これって映画の真似か何か？	나와 소야는 눈빛을 주고 받았다. 이 영화 같은 상황은 뭐지？	Sonya and I exchange glances. Why does this sound like some kind of scenario from a movie?	
+90	N/A	戴眼镜的男生一头蓬松的金发，穿着格子衬衫，碧蓝色的眼睛透着腼腆的感觉。	戴眼鏡的男生一頭蓬鬆的金髮，穿著格子襯衫，碧藍色的眼睛透著靦腆。	メガネを掛けていて、チェック柄のシャツを\n着ている男。\n紺碧の目からは少し内気な感じが伺える。	안경을 쓴 남자의 금발, 체크무늬 셔츠, 파란색 눈동자에 수줍음이 담겨있다.	The bespectacled young man, with fluffy blond hair, a plaid shirt and azure eyes, seems rather shy.	
+91	N/A	他看我们没有回应，有点难为情的解释道。	他看我們沒有回應，有點難為情地解釋說。	俺達がしばらく返事しないのを見て、\n彼は少し恥ずかしそうに説明した。	대답이 없는 우릴 보고 남자가 당황한 듯 설명하기 시작한다.	He looks almost embarrassed by our lack of reaction and hastens to explain:	
+92	戴眼镜的男生	我、我在附近的店打工刚下班……	我、我在附近的店打工剛下班……	ぼ、僕は近くの店でアルバイトをしていて、\nちょうど終わったところで……	저, 저는 이 근처 가게에서 아르바이트하다 방금 퇴근했어요……	I... I work part-time in a store around here... I just got off work...	
+93	N/A	他眼神游移到我的腿上，又很快把头转向旁边。	他眼神飄到我腿上，又很快把頭轉向一邊。	彼は視線を俺の足へと泳がせたが、すぐに頭を\n横に向ける。	그의 눈빛이 내 다리를 훑다 재빨리 머리를 옆으로 돌린다.	He glances at my legs, gulps, and turns away.	
+94	小怜	（好吧，果然不能用这种方法偷瞄女生……）\n（实在太明显了……）	（好吧，果然不能用這種方法偷瞄女生……）\n（實在太明顯了……）	（そうか……その方法で女の子を盗み見るのは\n　やっぱダメなんだな……）\n（明らかにバレバレじゃないか……）	（역시 이런 방법으론 몰래 쳐다볼 수 없군……）\n（심하게 티가 나……）	(Wow, this is indeed not a good way to sneak glances at girls...)\n(It’s way too obvious...)	
+95	戴眼镜的男生	看到你们……好像在被坏人追？	看到妳們……好像在被壞人追？	君達が……悪い人に追われていた様子を\n見てたので……	보아하니……나쁜 사람에게 쫓기고 있는 것 같은데…	You... you looked like you were being chased by some baddies, so I thought...	
+96	N/A	索娅稍稍松口气，放松了戒备。	索婭稍稍鬆口氣，放鬆了戒備。	ソヤは少しほっとして、警戒心を解く。	소야가 한숨을 돌리고 경계를 푼다. 	Sonya’s shoulder’s sag as she lets her guard down briefly.	
+97	索娅	嘛……他的气息没有恶意。	嘛……他的氣息沒有惡意。	まあ……彼の気配からは悪意を感じませんわ。	…저 남자 기운에 악의가 없어.	Judging from his aura, he doesn’t want to hurt us.	
+98	N/A	虽然从各种意义上，我们才是坏人。	雖然從各種意義上，我們才是壞人。	色んな意味で、悪いのは俺達の方なんだけどな。	비록 여러 가지 의미에서 우리야말로 나쁜 사람이긴 하지만.	Actually, all things considered, WE’RE the baddies here...	
+99	索娅	快带路吧~	帶路吧～	早く案内してくださいまし～～♪	빨리 안내해줘~	Lead the way!	

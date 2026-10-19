@@ -1,0 +1,48 @@
+﻿1	小怜	难道……你打算把那个人相关的第三方资料都清除掉吗？	難道……妳打算把那個人相關的第三方資料都清除掉嗎？	まさか……奴に関する第三者的な情報を、\n全て削除しちゃう気か？	설마… 그 사람과 관련된 제3자 자료를 모두 지워버리려고?	You mean… To wipe out all third-party information about that guy?	
+2	莉琉	不，正好相反，我会加入更多的信息。	不，正好相反，我會加入更多的資訊。	いいや、その逆だ。より多くの情報を加える。	아니. 그 반대야. 더 많은 정보를 추가할 거야.	Nope. Just the opposite, I'll add more information.	
+3	小怜	什么？！	什麼？ ！	んんんっ！？	뭐?!	What?!	
+4	N/A	莉琉小姐露出了令人不寒而栗的笑容。	莉琉小姐露出了令人不寒而慄的笑容。	マリルの笑顔が不気味になる。	마리루가 서늘한 웃음을 짓는다.	A chilling smile creeps onto Mariru's face.	
+5	莉琉	目前关于劫匪的情报，只基于由一段不甚清晰的录像而已。	目前關於劫匪的情報，只有那一段不甚清晰的影片而已。	現在、お前の顔をした犯人に関しての情報は、\n非常に不鮮明な映像に基づいているだけだ。	현재 강도에 관한 정보는 선명하지 않은 짧은 영상뿐이야.	Now the only information about the burglar is just low-resolution footage.	
+6	莉琉	那么在全世界，与那张平庸无奇的面孔相似的人有多少个呢？	那麼在全世界，與那張平庸無奇的臉孔相似的人有多少個呢？	さて、ここで問題だ。世界中において、\nあの平凡な顔と似た人間は何人いると思う？	그렇다면 전 세계에 그 평범하기 짝이 없는 얼굴과 비슷한 사람이 몇 명이나 될까? 	Just imagine how many people in the whole world have this plain-looking faces.	
+7	小怜	等一下，平庸无奇这四个字也太伤自尊了吧！	等一下，平庸無奇這四個字也太傷人了吧！	ちょっと待ってくれ、\n平凡って遠回しな嫌味だよねそれ！？	잠깐，평범하다니，너무 하잖아!	Wait—did you just say, plain? That stings.	
+8	小怜	可就算会有人和“我”长得差不多，但稍微调查一下就能分清楚吧？	就算會有人和「我」長得差不多，但稍微調查一下就能分清楚吧？	「俺」と似ている人はいるかもしれないけど、\nちょっと調べてみたら分かる事じゃないのか？	하지만 “나”와 비슷한 사람이라도 조금만 조사하면 확실히 분별할 수 있잖아?	And even if someone does look like "me", it would still be easy to find out.	
+9	小怜	那个人在当天去了哪里做了什么，只要调取监控录像就一目了然了。	那個人在當天去了哪裡做了什麼，只要調查監視影片就一目了然了。	その人が、その日にどこで何をしたか　なんて、\n防犯カメラのデータを調べれば一目瞭然だろ？	그 사람이 당시 어디에 가서 뭘 했는지 감시 카메라 영상을 조사하면 다 알 수 있을 거야.	Security cameras record everything he did on that day! 	
+10	莉琉	是啊，想调查一个真实存在的人并不是件难事。	是啊，想調查一個真實存在的人並不是件難事。	そうだな……実在する人物を調べる行為は、\nさほど難しい事ではない。	맞아. 실제로 존재하는 사람을 조사하는 건 어려운 일이 아니지. 	Of course, it's not difficult to single out a real person.	
+11	莉琉	但如果调查对象中有些人并不存在呢？	但如果調查對象中有些人並不存在呢？	だが、もしも調査対象の中の一部に存在しない\n人間が含まれていたとしたら？	하지만 조사 대상 중 존재하지 않는 사람들이 있다면? 	But what if… this person doesn't exist?	
+12	小怜	你是说……	妳是說……	それって……	네 말은…	You mean…	
+13	莉琉	一群与嫌疑人面部重合度极高的伪造目标，他们就算搜寻到世界毁灭也不可能真的找到那些人。	一群與嫌疑人面部特徵相符度極高的偽造目標，他們就算搜尋到世界毀滅也不可能真的找到那些人。	容疑者の顔と非常に似ている偽装のターゲットが\n複数人も存在してしまえば、\n世界が滅びるまで捜索しようとも\n発見できるはずがない。	용의자와 용모가 매우 비슷한 위조 타겟을 여럿 만들면，세상 마지막 날까지 찾는대도 그 사람들을 찾을 수 없을 거야. 	If we slip in some forged identities with similar facial features to the suspect, it will be almost impossible to find out.	
+14	莉琉	而除了我们以外，在其他人看来，那些人和[%rolename%]一样，都是离奇消失的失踪人口罢了。	而除了我們以外，在其他人眼中，那些人就和[%rolename%]一樣，都只是離奇消失的失蹤人口罷了。	私達以外の人間から見れば、そいつらは\n[%rolename%]と同じく、ただの行方不明に\nなってしまった失踪者にしか過ぎないからだ。	우리 외의 다른 사람이 볼 땐，그 사람들은 [%rolename%]와(과) 똑같이 이상하게 실종된 인물일 뿐이야.	Except to you and me, they are just a couple of missing people like [%rolename%], in others’ eyes.	
+15	莉琉	这样要怎样才能分辨出，谁才是真正的目标呢？	這樣要怎樣才能分辨出，誰才是真正的目標呢？	そうなってしまっては、本物のターゲットが一体\n誰なのかを誰がどうやって判断するのだろうな？	이렇게 되면 누가 진짜 타겟인지 어떻게 분별해내겠어?	Then how is it possible to find out the real target?	
+16	莉琉	让桌上的米粒消失有两种办法，要么一粒粒的把米拿走，要么就在桌面上撒一整袋同样品种的米。	讓桌上的米粒消失有兩種辦法，要麼把米一粒粒拿走，要麼就在桌面上撒一整袋同樣品種的米。	早い話が、壁の汚れを消す方法は2つという事。\n\n汚れを1つずつ落としていくか、\n汚れと同じ色のペンキを撒き散らすか。	탁자 위 쌀알이 사라지게 하려면，하나하나 주워다 버리거나 같은 품종의 쌀을 쏟아부으면 돼.	To hide a grain of rice, you either take it away, or sprinkle a whole bag of rice to cover it up.	
+17	小怜	听起来是个浩大的工程啊……	聽起來是個浩大的工程啊……	なんか大規模なプロジェクトでも開始するか\nのように聞こえるけど……それって……	엄청난 프로젝트처럼 들리는데…	Sounds like a huge project…	
+18	莉琉	让简单的事情变得复杂起来，让国民们认为他们缴纳的税费派上了大用场，才能让大家都幸福嘛。	讓簡單的事情變得複雜，讓國民們認為他們繳納的稅金派上了大用場，這樣才能讓大家都幸福嘛。	そうだ。簡単な事をあえて複雑化し、\n国民の血税を投入する事で、\n納税という愉悦を国民に分け与えるのと同義だ。	간단한 일을 복잡하게 만들면 세금이 큰 일에 쓰인다며 다들 행복해 할 걸?	Just a bit of extra complexity to a simple problem, so that taxpayers are happy about how their money is spent. See? Two birds with one stone.	
+19	小怜	每次听到你这样的言论都想报警。	每次聽到妳這種的發言都想報警。	マリルによるその節の発言を聞くたび、\n世の中のために通報したくなる。	네가 그런 말을 할 때마다 신고하고 싶어.	Every time you make such inappropriate comments I want to call the police.	
+20	莉琉	话说回来，关于你原来的身份资料，我在核对的时候发现了矛盾之处。	話說回來，我在核對關於妳原來身分的資料時，發現了矛盾之處。	そういえば、元のお前の個人情報について、\n照合していた時に矛盾を発見した。	그나저나，너의 원래 신분 자료를 대조 확인하다가 이상한 부분을 발견했어.	By the way, I've found some contradictions in your identity information.	
+21	小怜	哎？是什么？	嗯？ 是什麼？	え？　それは？	엣？뭐가？	Huh? Which part?	
+22	莉琉	你的父母。	妳的父母。	お前の両親についてだ。	너의 부모님.	About your parents.	
+23	N/A	当听父母这个词，我的心忽然一沉。	聽到父母這個詞時，我的心忽然一沉。	両親という単語を聞き、俺の心が急に重くなる。	부모님이라는 단어를 듣자마자 마음이 가라앉는다.	My heart sinks when hearing the word "parents".	
+24	莉琉	按照你的说法，母亲很早就去世，父亲失踪。	按照妳的說法，母親很早就去世，父親失蹤。	以前のお前の話では、母親は早くに亡くなり\n父親も現在行方不明。	네 말에 따르면，어머니는 예전에 돌아가셨고，아버지는 실종되셨어.	You told me your mother died early and your father was missing.	
+25	莉琉	就算这些是你不愿提及的回忆，但事出蹊跷，我还是想跟你核对清楚。	就算這些是妳不願提及的回憶，但事有蹊蹺，我還是想跟妳核對清楚。	これが思い出したくない記憶だとしても、\nどうも不可解なんだ。\nだから、お前に改めて確認を取りたい。	떠올리고 싶지 않은 기억이겠지만，이상한 부분이 있어서 확실히 확인해야겠어.	I know you don't want to talk about this. But it's important. I have to check with you.	
+26	小怜	好……	好……	うん……	알았어……	Fine… 	
+27	N/A	莉琉调出了事先备份的我曾经的数据。	莉琉調出了過去的我的備份數據。	マリルが事前にメモしていた、俺の昔のデータを\n取り出した。	마리루가 미리 준비한 나의 예전 데이터를 불러온다.	Mariru retrieves the data she has backed up.	
+28	莉琉	这里显示的内容是，母亲：2026年7月25日，\n『大灾难日』当天失踪，推测死亡。	這裡顯示的內容是，母親：2026年7月25日，\n「大災難日」當天失蹤，推測死亡。	ここに表示されている内容によると、\n母親：2026年7月25日\n『大災難の日』に失踪し、推測により死亡認定。	여기 표시된 내용은 모친: 2026년 7월 25일\n『대재난일』 당일 실종，사망 추측.	Here it says your mother went missing on July 25, 2026, presumed dead. \n That was the Great Tribulation. 	
+29	小怜	……	……	…………	……	… 	
+30	N/A	新丰洲西北侧海底的废墟，在『大灾难日』前曾是一座繁华的都市。	新豐洲西北側海底的廢墟，在「大災難日」前曾是一座繁華的都市。	新豊洲北西側の海底廃墟は、『大災難の日』の前\nまでは繁栄した都市だった。	신토요스 서북 해저의 폐허는 『대재난일』 전에는 번화한 도시였다.	Before that day, the underwater ruins in Northwest New Opulentia had been a bustling city.	
+31	N/A	我对那里只有很模糊的记忆了……	我對那裡只有很模糊的記憶了……	あの辺りの記憶は、俺もぼんやりしている……	그곳의 기억은 아주 흐릿하다……	I have only a vague memory of it… 	
+32	N/A	那座都市被神迹武器毁灭的同时，埃癸斯系统的防护力场展开，新丰洲恰好处于力场的边缘。	那座都市被神蹟武器毀滅的同時，埃癸斯系統的防護力場展開，新豐洲恰好處於力場的邊緣。	あの都市が聖痕兵器により滅ばされたと同時に、\nイージスシステムの防御フィールドが展開した。\n新豊洲はフィールドの内部に位置していたため、\n何とか攻撃を免れる事ができたが……	그 도시가 기적 무기에 의해 소멸됨과 동시에 아이기스 시스템의 방호 역장이 펼쳐졌고，신토요스는 마침 역장의 변방에 위치했다.	The moment the city was destroyed by Devine Touch weapons, Aegis generated a protective field. New Opulentia was right on the edge of it.	
+33	N/A	而且…那次事件是『七年战争』的开端。	而且……那次事件是「七年戰爭」的開端。	……その事件こそが『七年戦争』の引き金と\nなったのは、言うまでもない。	게다가…그 사건은 『7년 전쟁』의 서막이였다.	And… That marked the beginning of the Seven Years War.	
+34	莉琉	父亲，2026年12月起行踪不明，推测……	父親，2026年12月起行蹤不明，推測……	父親：2026年12月より行方不明、推測……	부친，2026년 12월부터 행방불명，추측...…	Father, missing since December 2026. Presumed… 	
+35	小怜	停一下……拜托了。	停一下……拜託了。	や……やめてくれ、お願いだ。	그만해……제발.	Stop… please!	
+36	N/A	我讨厌那个冰冷冷的——推测……死亡。	我討厭那個冷冰冰的——推測……死亡。	無情な推測で語られるのが嫌なんだ……\n\nおそらく「死亡」だなんて。	그렇게 냉정하게——사망이라고 추측하는 건 정말 싫어.	I hate this cold phrase—Presumed… dead.	
+37	小怜	父亲他可能，还活着……\n我一直这么想。	父親他可能，還活著……\n我一直這麼想。	父さんはまだ、生きているかもしれない……\n俺はずっとそう思っている。	아버지는 살아계실지도 모른다고……\n줄곧 생각해왔어.	I always tell myself… \n Maybe… dad is still alive… 	
+38	莉琉	……嗯，儿子长成了一个大美人，他老人家一定会感到欣慰呢。	……嗯，兒子還長成了一個大美人，他老人家一定會感到欣慰呢。	……そうだな。\n息子が立派な美人へと育ったのだから、\nお父さんもきっと喜んでくれている事だろう。	……응，아들이 이렇게 아름답게 컸으니，그분도 분명 감격하시겠지.	… Well, your dad must be happy. His boy has grown up to become a beautiful girl!	
+39	N/A	我被莉琉意外的发言逗笑了\n讨厌，明明是在挖苦我。	我被莉琉意外的發言逗笑了，\n討厭，明明是在挖苦我。	予想外のマリルの言葉で笑ってしまった。\nまったく、皮肉だって言うのに。	나는 마리루의 의외의 발언에 웃음이 터졌다.\n쳇，날 놀리는 게 분명하다!	I chuckle at her words. \n Darn it, I know she's teasing me!	
+40	莉琉	好啦，你先看这里。	好啦，妳先看這裡。	それはさておきだ、まずはここを見てみろ。	알았어. 우선 여길 좀 봐.	Well, look at this.	
+41	N/A	莉琉点开了属于我父母的记录，上面有两行编号。	莉琉點開了屬於我父母的記錄，上面有兩行編號。	マリルが俺の両親の記録をクリックして開く。\nそこには2種の番号表記があった。	마리루가 부모님의 기록을 클릭하자，두 개의 일련번호가 나타난다. 	She clicks on my parents’ profiles. Two codes show up.	
+42	莉琉	在这上面记载的内容──	在這上面記載的內容──	ここに記録されている内容は──	여기에 기록된 내용은──	According to the profile—	
+43	N/A	母亲，编号离线\n父亲，编号离线	母親，編號離線。 \n父親，編號離線。	──母親、番号　オフライン\n──父親、番号　オフライン	모친，일련번호 오프라인\n부친，일련번호 오프라인	Mother, code offline. \n Father, code offline.	
+44	小怜	……有什么问题吗？	……有什麼問題嗎？	……何か問題でもあるのか？	……뭐가 잘못됐어?	… Anything wrong?	
+45	莉琉	如果你母亲是在埃癸斯展开前或者在防护力场范围外遇难的话，埃癸斯内是不会有她的编号的。	如果妳母親是在埃癸斯展開防護力場前或是在防護力場範圍外遇難的話，埃癸斯是不會有她的編號的。	イージスの展開前か、防御フィールドの範囲外で\n遭難したのであれば……\nお前の母親は『イージス上での番号』を\n持っているはずがないんだ。	아이기스 발동 전이나 방호 역장 범위 밖에서 희생 되셨다면，아이기스에 일련번호가 있을 리가 없어.	Aegis wouldn’t have assigned a code to your mother had she died before the protective field was activated or somewhere out of its range.	
+46	小怜	哎……？	咦……？	……えっ？	에……？	Eh…?	
+47	N/A	莉琉小姐若有所思地看着我。	莉琉小姐若有所思地看著我。	マリルは何かを考えながら、俺を見つめる。	마리루가 생각에 잠겨 날 쳐다본다.	Mariru looks at me thoughtfully.	
+48	莉琉	你也不清楚吗？\n应该不是记录问题，我会继续调查的……	妳也不清楚嗎？ \n應該不是記錄問題，我會繼續調查的……	お前にも分からないのか？\n記録に問題はないはずなんだ。\n私も引き続き調査をしてみよう……	너도 모르겠어？\n기록 오류는 아닐 거야. 내가 계속 조사해볼게……	You have no idea either? \n The files wouldn't lie. I'll watch out for this… 	

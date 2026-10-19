@@ -1,0 +1,33 @@
+﻿1	N/A@防卫厅长官	你说什么！『埃癸斯』的防御范围内明明属于我们都市防卫厅（MD）的管辖范围！	你說什麼！ 「埃癸斯」明明屬於我們都市防衛廳（MD）的管轄範圍！	なんだと！？　『イージス』の防御範囲内は\n我々都市防衛庁（MD）の管轄なのだぞッ！	뭐라고요!? 『아이기스』의 방어 범위는 우리 도시 방위대（MD）의 관할 범위에요!	What?! Wherever Aegis covers belongs to the jurisdiction of the metropolis MD. No doubt about it.	
+2	N/A@防卫厅长官	你们凭什么要接管指挥权？\n不拿出让人信服的理由，休想解除警视封锁！！	你們憑什麼接管指揮權？ \n不拿出讓人信服的理由，休想解除封鎖！ ！	なぜ、指揮権を接収する？\n我々が納得いく理由を説明したまえ！\n監視封鎖を解除させるわけにはいかん！！	무슨 근거로 지휘권을 요구하는 겁니까?\n합당한 이유가 없다면 경계를 풀 수 없습니다!	Who are you to take over the command? \nIf you can't bring up any convincing reasons, I will never remove the MPD blockade!	
+3	N/A@军方长官	这是机密，我不能也没必要向你说明！	這是機密，我沒必要向你解釋！	これは機密事項のため、説明するに至る事が\nできません！	기밀입니다. 당신에게 설명할 수도 그럴 필요도 없습니다!	It's top secret. I have no right or duty to brief you!	
+4	N/A@军方长官	现在已经是我们军方的事务了。\n请你们配合！	這裡已經由我們軍方接管。 \n請你們配合！	現在は我々、軍部の管轄であります。\nすみやかに、ご協力を願います！	이제 우리 군부의 일이니 \n협조해 주시죠?!	Now, the military has taken charge of this. \nPlease cooperate!	
+5	N/A@防卫厅长官	我不同意！这是防卫厅指挥的行动！！\n除非有元老院的行政令……！	我不同意！ 這是防衛廳指揮的行動！ ！\n除非有元老院的行政令……！	認めんぞ！　この件は防衛庁が指揮するのだッ！\n\nそれこそ元老院の行政命令がない限り……ッ！	안 됩니다! 이건 방위대가 지휘할 일입니다! \n원로원의 행정명령이 있으면 모를까…!	No way! This operation is led by MD! \nUnless you have the Senate's Executive Order…	
+6	N/A@女性的声音	咳咳，我说……	咳咳，我說……	────ゴホン、横から失礼するが……	크흠……	Heh, you two…	
+7	N/A@女性的声音	你们还在这种无聊的事上浪费时间啊？	你們還在這種無聊的事上浪費時間啊？	お前達はこんなつまらない事のために、\nいつまで時間を無駄にするんだ？	아직도 이런 시시한 일로 시간을 낭비하고 계십니까?	How could you be still wasting time on trivial things?	
+8	N/A@军方长官	这个声音是——\n莉琉……莉琉长官？！	這個聲音是——\n莉琉……莉琉長官？ ！	この声は──\nマ……マリル長官っ？！	이 목소리는——\n마리루……마리루 장관？！	The voice is from— \nMariru… Officer Mariru?	
+9	N/A@军方长官	长、长官好！	長、長官好！	お、お疲れ様です、長官殿！	장，장관님. 안녕하십니까!	Officer Mariru!	
+10	N/A@莉琉	秘密情报局早就从军方独立了，就不用叫我长官了。	機密情報局早就從軍方獨立出來了，就別再叫我長官了。	秘密情報局はとっくに軍部から独立している。\nもはや私を長官と呼ぶ必要はない。	비밀정보국은 이미 군부에서 독립했으니 절 장관이라고 부를 필요 없어요.	Skip the salute. SID has long been independent from the military.	
+11	N/A@防卫厅长官	莉琉……哼！	莉琉……哼！	マリル……ふんっ！	마리루…흠!	Mariru… Humph!	
+12	N/A@防卫厅长官	这可是4级的加密通讯！！\n你是怎么……	這可是4級的加密通訊！ ！\n妳怎麼……	これはレベル4暗号化通信だぞッ！？\nいったいどうやって……	이건 4급 기밀 통신인데！！\n당신이 어떻게……	This is a category-4 encrypted communication! \nHow could you…	
+13	N/A@莉琉	先别管这种小事啦~\n还是想想如何处理现在的问题吧！	先別管這種小事啦～\n還是想想如何處理現在的問題吧！	そんな些末な事はどうでもいい。\n\nそれよりも、現在起きている問題をどのように\n処理するか考えようじゃないか。	그것보다~\n문제를 해결할 방법을 찾는 게 좋겠습니다.	Never mind the trivial details! \nLet’s focus on the problems at hand!	
+14	N/A@莉琉	既然是4级加密就给我实话实说，又不会有其他人听到——	既然是4級加密就給我實話實說，又不會有其他人聽到——	レベル4の暗号なら、部外者に盗聴される心配もないだろう。迅速な開示を願いたい──	4급 기밀을 제게 알려준다고 해도 다른 사람은 알 수 없을 겁니다——	As we are on category-4 encryption, I'll just get to the point—	
+15	N/A@莉琉	情报一律公开！！	所有情報一律公開！ ！	────持ち得る情報を全てだッ！！	정보를 모두 공개하세요! !	Brief me all the intelligence you've got!	
+16	N/A@军方长官	啊、是！长官！	是！ 長官！	あ、は、はい！　長官！	아，네! 장관님!	Ahh, yes, Ma’am!	
+17	N/A@军方长官	目前研究中心周围的监控系统出现了大量杂讯，并且检测到了大规模的异常时空波动……	目前研究中心周圍的監控系統出現了大量雜訊，還偵測到大規模的異常時空波動……	現在、研究センター周辺の監視システムに\n大量のノイズが発生し、\n大規模の異常な時空波動を検出しております……	현재 연구 센터 주위 감시 시스템에 대량의 노이즈가 발생했고 대규모 이상 시공 파동이 관측됐습니다.	The monitoring systems around the Research Center have received lots of disturbances. A large-scale abnormal Spacetime Flux has been detected…	
+18	N/A@防卫厅长官	时空波动？\n那是……？	時空波動？ \n那是……？	……時空波動？　…………一体それは？	시공파동? \n그건……？	Spacetime Flux? \nIt means…	
+19	N/A@莉琉	《学园都市灾害对策法》说的很明确了吧……	《學園都市災害對策法》裡寫的很清楚了吧……	『学園都市災害対策法』に明記してあるが……	《학원도시 재해 대책법》에 더 자세히 적혀있겠죠…	The Crisis Response Code of the Academy City has made it very clear, hasn’t it…	
+20	N/A@莉琉	难道因为是不对公众开放的机密条例\n所以连防卫厅也不看了吗？	難道因為是不公開的機密條例，\n所以連防衛廳也不看了嗎？	公表されていない機密条例だとは言え、\n防衛庁は読んですらいないのか？	설마 대중에게 공개되지 않은 조항이라고 해서\n방위대까지 안 보는 건 아니겠죠?	Or, even MD has no access since the Code is confidential?	
+21	N/A@防卫厅长官	唔……难道是……\n关于『异质物』收容失效部分的……？	唔……難道是……\n關於「異質物」收容失效……？	うっ……まさか……\n『異質物』の収容失効についての部分……	음……혹시……\n『이물질』 수용 실패에 관한 부분입니까……？	Er… Could it be… \nRelated to the mishandling of Substance H…	
+22	N/A@莉琉	再加上昨晚『洛斯金杯』突然消失的状况……	再加上昨晚「洛斯金杯」突然消失的事件……	昨夜『ロス・ゴールド』が突然消えた事も\n加えて……	게다가 어젯밤 『로우스 금잔』이 갑자기 사라진 사건까지……	And the sudden disappearance of the Ross Goblet…	
+23	N/A@莉琉	……已经有六年没发生过这种事了吧？	……已經有六年沒發生過這種事了吧？	……こういう事態は遡って6年ぶりだろう。	……최근 6년 동안은 이런 일이 없었죠? 	… It's been six years since the last crisis like this.	
+24	N/A@莉琉	要考虑最糟的可能性——	要考慮最糟的可能性——	我々は最悪の可能性を考えるべきだ……	최악의 가능성을 고려한다면——	We have to get prepared for the worst—	
+25	N/A@防卫厅长官	我、我明白了……	我、我明白了……	……し、仕方あるまい。	아，알겠습니다……	I… I see…	
+26	N/A@防卫厅长官	我们立刻解除内层封锁，并以演习的名义进行疏散……	我們立刻解除內部封鎖，並以演習的名義進行疏散……	わっ…我々は今すぐ内部封鎖を解除し、\n演習の名目で退避を行う……	연습 명목으로 내부 봉쇄를 해제하도록 하죠…	We must immediately lift the inner blockade, and evacuate under the cover of a drill…	
+27	N/A@莉琉	好，军方在外围部署的如何了？	好，軍方在外圍部署的如何了？	よし、軍部長。\n外郭での段取りはどうなっている？	좋습니다. 군부 외부 배치는 어떻게 됐죠?	Excellent. How is the military deployment at the outer ring?	
+28	N/A@军方长官	特殊作战部队正在异变区域周围两公里范围内部署重火力，但现在还无法确认威胁等级。	特殊作戰部隊正在異變區域周圍兩公里內部署強大火力，但現在還無法確認威脅等級。	異変区域の周囲2キロ圏内に特殊作戦部隊の、\n重火力を既に配置しております。\nしかし現在のところ、脅威は確認できて\nおりません。	특수 작전 부대가 변이구역 주위 2킬로미터 범위 내 \n중화력을 배치하고 있습니다.\n위력 레벨은 아직 확인 못했습니다.	Special operation teams are deploying heavy firepower within 2 km of the flux site, but we still can't identify the level of threat.	
+29	N/A@莉琉	报导管制呢？	報導管制呢？	報道管制は？	보도 통제는요？	What about the media control?	
+30	N/A@军方长官	按照协议，正在执行C-13剧本。	按照協議，正在執行C-13腳本。	事前の協議に従い、ただいまC-13のシナリオを\n実行中です。	협의에 따라 C-13 대본을 실행하고 있습니다.	C-13 script is being executed as per protocol.	
+31	N/A@莉琉	好，那么现在开始由秘密情报局（SID）接管异变核心区。\n你们也马上行动！	好，那麼現在開始由機密情報局（SID）接管異變核心區。 \n你們也馬上行動！	では、これより秘密情報局（SID）が、\n異変区域の管理を担う。\nお前達も迅速に行動を開始せよ！	좋아요. 그럼 지금부터 비밀정보국（SID）에서 변이 핵심구역을 관할합니다.\n다들 움직이세요!	Good. From now on, SID takes charge of the central flux area. \nYou guys must move now!	
+32	N/A@军方通讯	是！	是！	はっ！	네!	Yes!	
+33	N/A@防卫厅长官	好、好吧……\n你们自己小心。	好、好吧……\n你們自己小心。	ふん、精々……\nそちらも気を付けてくれたまえ。	아，알겠습니다……\n조심하십시오.	Al… alright then… \nTake care.	

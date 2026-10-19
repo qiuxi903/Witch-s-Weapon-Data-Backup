@@ -1,0 +1,53 @@
+﻿1	莉琉	从今天早上开始，我们突然侦测到了新丰洲市内多处起『时空相位波动』的警报。	從今天早上開始，我們突然偵測到新豐洲市內多處發生了「時空相位波動」的警報。	今朝から、新豊洲市内の複数の場所で\n『時空位相波動』の警報が発生した。	오늘 아침부터 신토요스 안 여러 곳에서  『시공 상위 파동』 경보가 탐측되었어. 	Since this morning, we have received several alarms of sudden Spacetime Fluxes in New Opulentia.	
+2	莉琉	就好像一夜之间什么东西觉醒了一样……	就好像在一夜之間，有什麼東西覺醒了一樣……	まるで一夜の間に、何かが覚醒したかのように…	하룻밤 사이에 무언가 깨어난 것처럼……	It's like something was activated last night…	
+3	莉琉	监控卫星显示，你曾经凭空消失在异变区域内，不久后突然出现在另一边，身边还多了个人。	監控衛星顯示，妳曾經憑空消失在異變區域內，不久後卻突然出現在另一邊，身邊還多了個人。	監視衛星によれば、お前は異変区域の中で\n一度姿を消した。\nそして、後ほど反対側から現れたと思ったら、\nなぜか隣に1人増えていた。	감시 위성을 보면，넌 이변 구역에서 사라지고 난 뒤 얼마 후 다른 곳에서 나타났어. 다른 사람과 함께. 	Satellite imagery shows that you disappeared at one spot within the flux area, and showed up out of nowhere at another spot not long after, together with someone else.	
+4	N/A	莉琉眼神看向安妮。	莉琉眼神看向安妮。	マリルがアニーの方を見る。	마리루가 앤을 쳐다본다.	Mariru turns to Annie.	
+5	莉琉	然后你们两个出现的地方，这种波动自行消失了。	然後，在妳們兩個出現的地方，這種波動就消失了。	そしてお前達が現れた場所から『時空位相波動』が自然に消失。	그리고 너희 두 사람이 나타난 곳에서 파동이 자동으로 사라졌어. 	Where you showed up, the flux automatically stopped.	
+6	小怜	异变区域？是研究中心吗？	異變區域？ 是研究中心嗎？	異変区域？　それって研究センター？	변이 구역？연구 센터 말이야?	The flux area? You mean the Research Center?	
+7	莉琉	没错。	沒錯。	そうだ。	맞아.	Yup.	
+8	小怜	会不会是机器故障什么的……我可是一直都在大路上啊。	會不會是機器故障什麼的……我可是一直都走在大馬路上啊。	それって機械の故障じゃないかな……\n俺はずっと大通りにいたから。	기계 고장같은 거 아닐까……난 계속 큰길 가에 있었는걸.	Could it be machine failure? I had never left the street.	
+9	N/A	莉琉的表情变得严肃了起来。	莉琉的表情變嚴肅了。	マリルの表情が真剣になった。	마리루의 표정이 진지하게 변한다.	The look in Mariru's face hardened.	
+10	莉琉	你以为，随便什么人都能出入『时空相位波动』的区域吗？	妳以為，隨便什麼人都能出入「時空相位波動」的區域嗎？	誰もが『時空位相波動』区域に出入りできると\n思っているのか？	『시공 상위 파동』 구역에 아무나 들어갈 수 있다고 생각해? 	Do you think anyone can enter or leave the Spacetime Flux area as they like?	
+11	小怜	那个什么波动……很严重吗？	那個什麼波動……很嚴重嗎？	その何とか波動って……危ないの？	그 무슨 파동이란 거……심각한 거야?	The flux… Is it really that mighty?	
+12	莉琉	还真是什么都不懂……	唉，妳還真是什麼都不懂……	本当に何も知らないのだな……	정말 아무 것도 모르는구나……	You really know nothing, do you?	
+13	莉琉	时空相位是物理法则的基础，就像宇宙的坐标系。无论粒子如何运动，坐标轴必须保持稳定。	時空相位是物理法則的基礎，就像宇宙的座標系。 無論粒子如何運動，座標軸都必須保持穩定。	時空位相とは物理法則の基礎、\n宇宙の座標系のようなものだ。\n粒子の動きに関係なく、安定した座標軸を\n保つ必要がある。	시공 상위란 우주 좌표 같은 물리 법칙의 기초야. 입자가 어떻게 운동해도 좌표축은 안정을 유지해. 	Spacetime is fundamental in physics. It's like the coordinate system of our universe. No matter how particles move within the system, the coordinate system must remain stable.	
+14	莉琉	如果坐标轴出现抖动，即使幅度再小，对空间内粒子的秩序也是毁灭性的。	如果座標軸出現波動，即使幅度再小，對空間內粒子的秩序也會具有毀滅性。	もし座標軸にブレが生じた場合、その振れ幅が\nどれほど小さくても、\n空間内にある粒子の秩序に壊滅的な影響を\n与える。	좌표축이 진동하면 그 폭이 아무리 작아도 공간 안 입자의 질서가 무너져버려.	If it shifts, even in the slightest jitter, it will be devastating to the order of the particles within it.	
+15	莉琉	如果一幢大楼5%的粒子随机偏移1微米，就会彻底破坏材料结构而瞬间坍塌。	如果一棟大樓有5%的粒子隨機偏移1微米，就會徹底破壞建材結構，導致建築瞬間坍塌。	例えばビルを構成する粒子の5%の座標が、\nランダムに1ミクロンずれたとすると、\n材料の構造は徹底的に破壊され、\nビルは簡単に崩壊する。	만약 어느 빌딩의 입자 중 5%가 1미크론 이동하면 재료 구조가 완전히 파괴되어 순식간에 무너지지.	Let’s say if 5% of the particles of a building shift randomly just by 1 micrometer, then the material structure will be completely destroyed and the building immediately collapse.	
+16	莉琉	而你现在还活蹦乱跳的，而且那片区域的建筑物也没出现结构性破坏。	但妳現在還活蹦亂跳，那片區域的建築物也沒出現結構性的破壞。	ところがお前は今でもピンピンしているし、\nあの区域の建物は倒壊も起きていない。	하지만 넌 지금 말짱하고，게다가 그 구역의 건물도 구조적 파괴가 일어나지 않았어. 	But you are perfectly fine now, and the buildings within the flux area are intact.	
+17	莉琉	（而且根据神迹研究的结果，拥有『GHOST』的人类是不可能进入那种空间的）	（重點是，根據神蹟研究的結果，擁有「GHOST」的人類是不可能進入那種空間的。 ）	（それに聖痕研究によれば『GHOST』を持って\n 　いる人間が時空位相の空間に入るなど……）\n（……不可能と結論付いている）	（기적 연구 결과에 따르면 『GHOST』를 보유한 인간은 그 공간에 진입할 수 없어）	(Research on the Divine Touch shows that humans with "GHOST" are unable to enter the flux area)	
+18	莉琉	总之，你相当于走进了一个可以撕裂一切的十二级飓风眼，然后完好无缺的出来了还平息了风暴。	總之，妳相當於走進了一個可以撕裂一切的十二級暴風中心，結果不但完好無缺地走出來，還平息了風暴。	つまりはだな、お前は刃物のような風速を持つ\n壊滅クラスの台風の目に突入した挙句、\n無傷で生還した上、そのまま台風を鎮めるなんて事をやってのけた訳だ。	어쨌든 넌 12급 허리케인 안으로 걸어 들어가서 무사히 나온 데다가 폭풍을 잠재운 것과 같아.	In a word, it's like you were placed in the eye of a Category 5 hurricane, came out intact, and even quieted the storm.	
+19	小怜	……	……	…………	……	…	
+20	小怜	那异变是那些袭击我的东西造成的吗？\n好像是失去理智的……	所以，異變是那些襲擊我的東西造成的嗎？ \n好像是失去理智的……	その異変って、俺に襲い掛かってきた奴らの\n仕業かな？\nなんか理性が吹き飛んでる感じだったけど……	그 변이는 날 습격한 것들에 의한 거야?\n이성을 잃었던 것 같은…	Could the flux be caused by those who attacked me? \nThey seemed insane…	
+21	莉琉	袭击你们的东西，暂称为‘未知能量体’，它们与时空相位的关系，还有待确定。
+22	莉琉	另外，对于袭击你们的未知能量体，我需要你们留下一份画像。
+23	小怜	啊，可我不会……
+24	莉琉	没关系，不用你来画。有专门的画像生成AI负责。
+25	小怜	（新闻里那种，专门根据目击者描述画出逃犯画像的AI吗！？）
+26	N/A	半小时后……
+27	莉琉	好了，我马上要去给元老院做简报——
+28	莉琉	他们中有个神经病喜欢在会议过程中对视频实时分析测谎，所以现在我知道的越少越好。	他們當中有個神經病喜歡在會議過程中對影片作即時分析與測謊，所以現在我知道的越少越好。	あいつらは会議中に、リアルタイム分析を使って\n嘘を見つけるのが大好きな、\n頭のおかしい（ピーー）なやつばかりだからな。\n今は私が知る情報は少ない方がいい。	그들 중에는 회의 도중 거짓말 탐지를 하길 좋아하는 미친 놈도 있거든. \n그러니 지금은 아는 게 적을수록 좋아. 	There's this creepy guy among them who likes to run lie-detector tests at conference calls. So, the little I know now the better.	
+29	小怜	你对元老们的描述真是别致……	妳對元老們的描述真是特別……	元老院に対しては、皮肉……\n扱いが上手いね……	원로원을 소개하는 방법이 정말 독특하네……	Your comments on the Senate… are really an eye-opener.	
+30	莉琉	而且女孩子要懂得什么时候才可以说谎哦~	女孩子要懂得什麼時候才可以說謊哦～	女の子なんだから、お前も嘘をつくタイミングを\n見極めないとな～	여자는 거짓말하는 시기를 배워야지~	And girls should know when to lie~	
+31	小怜	我才不是女孩子！！	我說了我才不是什麼女孩子！ ！	俺は女の子じゃないのッ！！	난 여자가 아니야！！	I'm not a girl!	
+32	小怜	总之我不说就是啦……	唉，總之我什麼都不說就是了……	本当に違うんだってば……	아무튼 내가 말 안 하면 되는거지…	Alright, I'll keep it to myself…	
+33	莉琉	近几来全世界只有4次这样时空波动的记录\n大多都与『异质物』的收容失效有关。	近幾年來，全世界只有4次這樣時空波動的記錄，\n大多都與「異質物」的收容失效有關。	近来では全世界で同様の『時空位相波動』\nの記録はたった4回のみ。\nその多くは『異質物』の収容ミスと関係がある。	최근 전세계에 이런 시공 파동이 4회 기록됐어\n대부분 『이물질』 수용 실패와 관련 있어.	In recent years, there are only four Spacetime Fluxes recorded globally. \nThey're mostly related to the mishandling of Substance H.	
+34	莉琉	特性不明的『神迹』被突然激发，很可能引发灾难性的后果。	特性不明的「神蹟」突然激發，很可能會導致災難性的後果。	特性不明の『聖痕』が激発されると、\n惨たる結果を引き起こす可能性が高い。	특성을 알 수 없는 『기적』이 갑자기 자극을 받아 재난을 일으킨 것 같아.	When an unknown Divine Touch is suddenly activated, catastrophic results are very likely to follow.	
+35	小怜	……会有人受伤吗？	……會有人受傷嗎？	……怪我人も？	…누군가 다치게 될까?	… Were there any people hurt?	
+36	莉琉	最严重的一次光死难者有几万人。	當然，最嚴重的一次光罹難者就有幾萬人。	最も深刻な結果であれば、\n一時被害だけで死者数万人は下らん。	가장 심각한 상황이라면 한 번에 수만 명의 사망자가 발생할 거야.	In the most severe incident, there were tens of thousands of casualty.	
+37	莉琉	不过几大学园都市都非常默契的将这些事件伪装成『常规事故』进行报道……	不過幾大學園都市都很有默契地將這些事件偽裝成「一般事故」加以報導……	その場合は各学園都市と「協力」して、\n都合良く「普通の事故」として報道する……	하지만 학원도시는 이 사건들을 『일반적인 사고』로 위장해서 보도하고 있어……	But Academy Cities would speak with one voice and tone them down as "regular incidents"…	
+38	莉琉	像是瓦斯泄露、飞机失事、恐怖袭击之类的……	像是瓦斯外洩、飛機失事、恐怖攻擊之類的……	ガス漏れ、航空事故、テロ襲撃などだな……	가스 누출，비행기 실종，테러 등등……	Gas leaks, air crashes, terrorist attacks, and so on…	
+39	小怜	那这次……	那這次……	それじゃ今回も……	그럼 이번엔……	So, this time…	
+40	莉琉	这次与以往不同，从没遇到过这么大规模的连续爆发……	這次與以往不同，從沒遇過這麼大規模的連續爆發……	今回は特別だ。\nここまで大規模な連続爆発は遭遇した事もない…	이번엔 달라. 이 정도의 대규모 연속 폭발은 일어난 적이 없어……	This one is different. There’ve never been successive fluxes at such a scale…	
+41	莉琉	超出了宣传剧本的最高预设等级，到时候连谎话都编不出来了。	超出了宣傳方式的最高預設等級，恐怕是什麼謊話都編不出來了。	既に偽装用シナリオの最高レベルを\n超えてしまった。\nこんなものをカバーできる嘘なんて、\n作れやしないのさ。	대본의 최고 설계 등급을 초과했으니 아마 거짓말로 사람들을 속일 수 없을 거야.	So severe that it goes beyond the imagination of our highest-level propaganda. So, we'll literally run out of lies…	
+42	小怜	这次会不会是因为我？\n如果我能帮上什么忙的话……	這次會不會是因為我？ \n如果我能幫上什麼忙的話……	今回の原因は俺のせいで……？\nも、もし何か手伝う事があれば……	나 때문일까?\n내가 도울 수만 있다면……	Is it because of me? \nIf there is anything I can do…	
+43	莉琉	别乱想了，虽然你身体的变化很可能与此有关，但光凭你还闹不出这么大动静。	別想太多，雖然妳身體的變化很可能與此有關，但光憑妳還鬧不出這麼大的動靜。	あらぬ妄想をするな。確かにお前の身体の変化は\n『時空位相波動』と関係あるかもしれん。\nだが、お前だけが原因でこんな巨大な事件には\nならない。	허튼 생각 마. 네 몸의 변화는 이것과 관련이 있을 것 같긴 하지만 \n너 하나 때문에 이렇게 큰 사건이 일어날 리 없으니까.	Oh, cut it. Your body transformation might have something to do with the crisis, but you alone are impossible to cause such a disaster.	
+44	莉琉	如果你想寻找线索，可以跟我的人去现场看看。	不過如果妳想尋找線索，倒是可以跟我的人去現場看看。	手がかりを探したいのであれば、\n私の部下と現場に行ってみるといい。	단서를 찾고 싶다면 우리쪽 사람과 함께 현장에 가봐. 	If you really want to find clues, I can arrange my men to take you to the site.	
+45	莉琉	（如果有那种可能，她现在是唯一的应对策略……）	（如果有像她說的那種可能，那她現在的確是唯一的對策……）	（可能性の話だが、もしもこの小娘が唯一の\n　対抗策となった場合……）	（가능성이 있다고 한다면 그녀가 유일한 대응책이다…）	(If it's true, then she might be the only solution…)	
+46	莉琉	但是，绝不可以勉强自己，也不要跟任何人说你自己的事，明白了吗？	但是，絕不可以勉強自己，也不要跟任何人說自己的事，明白了嗎？	しかし絶対に無理はしないように。\nそして自分の事を絶対に他人に話すな。\n分かったか？	하지만 절대 무리해서는 안 돼. 누구에게도 네 일을 알려줘서도 안 되고. 알았어?	But, never push yourself too hard, and don't mention anything about your body. Is that clear?	
+47	小怜	不能跟别人说……也就是说……\n我要假装自己本来就是女生吗？	不能跟別人說……也就是說……\n我要假裝自己本來就是女生嗎？	他の人に言うな……と言う事は……\n元々女性のように振る舞えって事？	다른 사람에게 말하지 말라니……\n원래 여자였던 것처럼 행동하라고?	No mention of my body… Did you mean… \nI have to pretend I've always been a girl?	
+48	莉琉	你也知道吧……\n新丰洲市一直都奉行科学至上的执政理念。	妳也知道吧……\n新豐洲市一直都奉行科學至上的理念。	お前も知ってるだろ？新豊洲市は長きに渡り、\n科学至上主義の理念を信奉している。	너도 알고 있지……?\n신토요스의 집권 이념은 줄곧 과학을 최고로 여겨왔어.	You know… \nThe supremacy of science has been at the heart of New Opulentia’s governance.	
+49	莉琉	如果你公开自己的经历，会被定为『实验对象』然后被带去研究机构哟~	如果妳公開自己的經歷，就會被定義為「實驗對象」，然後被帶去研究機構喲~	お前の正体が明るみになれば『実験対象』として\n研究機関に連れて行かれるだろうな～～	네 사정이 알려진다면 『실험 대상』으로 연구 기관에 잡혀가게 되겠지~	If your experience goes public, you'll be seen as a “guinea pig” and taken to a research institution!	
+50	莉琉	到时应该会有一群发誓终身献身给科学的大叔排队等着研究你的身体吧……	到時鐵定會有一群發誓終身獻給科學的大叔排隊等著研究妳的身體唷……	そこで生涯を科学研究に捧げたおっさん達が\nお前を取り囲んで……\n研究ってかこつけて身体を隅から隅まで\n調べちゃうんだろうな～	그리고 평생을 과학에 바친 아저씨들이 네 몸을 연구하려고 줄을 서겠지.	I bet lots of men vowing to devote themselves to science would line up to study your body…	
+51	莉琉	毕竟难得遇到这么可爱的女孩子——	畢竟難得遇到這麼可愛的女孩子嘛——	せっかく、滅多に出会う事のない可愛い女の子が\n実験対象に選ばれた訳だし～	이렇게 귀여운 여자아이가 실험 대상이라니——	As it's rare to have an experimental subject as cute as you—	
+52	小怜	……明、明白了！！	……這太恐怖了！ 我明白了！ ！	……わ、分かりましたっ！！	……아，알았어！！	… I… I see!	
+53	小怜	我……我绝对不会乱说啦！！	我……我絕對不會亂說！	俺……私は絶対むやみに喋りませんっ！！	저…절대 함부로 얘기하지 않을게！！	I… I will keep my mouth shut!	

@@ -1,0 +1,8 @@
+﻿1	引导精灵	除了通过祈愿，魔女的[ff9c00]『兵器』[-]还可用激发核心进行[ff9c00]『合成』[-]，查看兵器要先进入魔女详情页面	除了通過祈願，魔女的[ff9c00]「兵器」[-]還可用激發核心進行[ff9c00]「合成」[-]；若要查看兵器，請先進入魔女詳情頁面	観測する他、魔女の[ff9c00]『兵器』[-]は活性コアによる[ff9c00]『合成』[-]が可能だよ。兵器の詳細は魔女の画面からアクセスしてね♪	소원 말고도 마녀의 [ff9c00]『병기』[-]를 활성핵으로 [ff9c00]『합성』[-]할 수 있어. 마녀 상세 화면에 들어가보자. 	In addition to praying, you can also [ff9c00]combine[-] cores to obtain [ff9c00]weapons[-]. Go to the Witch interface to view their weapons.	
+2	FocusTrigger	
+3	FocusTrigger	选择魔女	選擇魔女	魔女を選択	마녀 선택	Select Witch	
+4	FocusTrigger	选择武器	選擇武器	兵器を選択	무기 선택	Select Weapon	
+5	T_showPicText	如您未获得魔女[ff9c00]拉斐尔[-]\n请点击[ff9c00]合成[-]获得兵器	如果尚未獲得魔女[ff9c00]拉斐爾[-]\n請點擊[ff9c00]合成[-]獲得兵器	もし魔女[ff9c00]ラファエル[-]が未入手の場合は\n[ff9c00]合成[-]をタップして兵器を獲得しましょう	마녀 [ff9c00]라파엘[-]이 없으실 경우\n [ff9c00]합성[-]을 클릭해 주세요	If you don't already have [ff9c00]Raphilia[-]\nTap [ff9c00]Combine[-] to acquire	
+6	T_showPicText	如您已获得魔女[ff9c00]拉斐尔[-]\n请点击[ff9c00]合成[-]跳转界面	如果已獲得魔女[ff9c00]拉斐爾[-]\n請點擊[ff9c00]合成[-]轉換介面	もし魔女[ff9c00]ラファエル[-]が未入手の場合は\n[ff9c00]合成[-]をタップして画面を切り替えましょう	마녀 [ff9c00]라파엘[-]을 획득하셨을 경우\n [ff9c00]여기[-]를 클릭해 주세요	If you already have [ff9c00]Raphilia[-]\nTap [ff9c00]Combine[-] to leave this page	
+7	FocusTrigger	
+8	FocusTrigger	

@@ -1,0 +1,162 @@
+﻿1	N/A	下午五点，猫丸电器街。	下午五點，貓丸電器街。		오후 다섯시. 캣볼 전자상가.	<Nekomaru Electronics Street, 5 p.m.>	
+2	小怜	喂喂，你别拉着伊露卡跑那么快啊~	喂喂，妳拉著伊露卡別跑那麼快啊～		어이. 이루카를 끌고 그렇게 빨리 뛰지마~	Stop! Sonya! Wait up!	
+3	N/A	此时，我正提着一个死沉死沉的纸袋，吃力的跟在一脸兴奋的银发少女身后。	此時，我提著一個沈甸甸的紙袋，吃力地跟在一臉興奮的銀髮少女身後。		나는 엄청 무거운 종이가방을 들고 힘겹게 은발소녀의 뒤를 따라가고 있다.	I yell at the silver-haired girl, who’s striding ahead with a spring in her step, dragging Elluka along. No way I can catch up with those two while lugging a cumbersome paper bag.	
+4	小怜	明明……应该是你跟着我走才对吧！！	明明……應該是妳跟著我走……才對吧……		분명……네가 날 따라다녀야 맞는 거잖아！！	Shouldn’t you be following me instead of me following you?	
+5	N/A	人声嘈杂的电器街路口，我刚刚发出的无力抗议迅速被喧闹的背景音吞没。	人聲吵雜的電器街口，我剛剛發出的無力抗議迅速被喧鬧的噪音吞沒。		시끌벅적한 전자상가 입구에서 나의 무력한 반항이 길거리 음악에 묻힌다.	My futile complaints fall on deaf ears, swallowed by the hubbub of the crowds on Electronics Street.	
+6	N/A	战争期间，元老院为了调和不同地区移民之间的文化和宗教冲突，颁布了『社会公序法案』。	戰爭期間，元老院為了協調不同地區移民之間的文化和宗教衝突，頒佈了「社會秩序法案」。		전쟁 기간. 원로원이 이주민과의 문화와 종교 충돌을 완화하기 위해 『사회 질서 법안』을 발표했다.	During the war, the Senate enacted the Law of Social Order in order to facilitate harmony between immigrants from different regions, religions and cultures.	
+7	N/A	原本繁荣的文娱产业因此受到了不同程度的限制。	原本繁榮的文化娛樂產業因此受到了不同程度的限制。		원래 번영했던 문화 오락 사업이 이로 인해 적지 않은 제한을 받게 됐다.	The previously prospering culture and entertainment industry in the area has suffered quite a blow because of that.	
+8	N/A	在埃癸斯的范围内，只有新使馆区和附近的一小片区域不受该法案的约束。	在埃癸斯的範圍內，只有新使館區和附近一小塊區域不受該法案約束。		아이기스의 범위 안에서 새로운 영사관 구역과 근처 작은 구역만 법의 구속을 받지 않는다.	In the area under Aegis coverage, the new embassy area and the neighborhood around it are the only sections exempt to the restrictions of the law.	
+9	N/A	自九年前在此处开业第一家女仆咖啡厅开始，越来越多贩卖“限制类商品”的店铺在此地聚集。	自從九年前這裡開了第一家女僕咖啡廳開始，販賣「限制級商品」的店就越開越多了。		9년 전 이곳에 메이드 카페를 시작으로 점점 “제한류 상품”을 판매하는 가게들이 밀집하기 시작했다.	The neighborhood has therefore become the hub for shops that sell “niche merchandise”. The maid cafe that’s been standing in its center since nine years ago, for example, is one of the most popular attractions in the area.	
+10	N/A	今天那个法案已经废止，但这条横跨协约非武装区边界的街道却已发展成了新的御宅族圣地。	時至今日，雖然那個法案已經廢止了，但這條橫跨協議非武裝區邊界的街道早就發展成了新的御宅族聖地。		지금은 법안이 폐지됐지만 이 비무장지대 근처 길가는 새로운 오타쿠들의 성지로 발전했다.	Though the law is no longer in effect now, this street on the border of the Agreed Demilitarized Zone has become a sort of mecca for otakus around the world.	
+11	小怜	（话说，莉琉规定我穿的这套服装──）	（話說，莉琉規定我穿的這套服裝──）		（마리루가 내게 이런 옷을 입혔다──）	(Anyway, why did Mariru have to make me wear this outfit...)	
+12	小怜	（为什么配的是渔网袜啊！！）	（為什麼要配網襪啊！ ！）		（어째서 망사스타킹을 신어야 하는 거야！！）	(... with fishnet stockings, too?)	
+13	小怜	（第一次穿这种袜子，感觉怪怪的……）	（第一次穿這種襪子，感覺好怪……）		（이런 양말은 처음 신어봤는데, 느낌이 이상하다……）	(It’s the first time I’ve worn something like this...)	
+14	小怜	（还有这双短靴的鞋跟有点高呢）	（而且，這雙短靴的鞋跟好像有點高。 ）		（그리고 이 단화, 굽이 조금 높은 것 같은데）	(And aren’t these heels way too high?)	
+15	N/A	我一边提着袋子追赶索娅，一边用手调整着网袜的位置，全然不顾路人异样的目光。	我一邊提著袋子想追上索婭，一邊用手調整著網襪位置，完全不管路人異樣的眼光。		나는 봉투를 들고 소야를 쫓으며 스타킹을 정리했다. 사람들의 시선은 신경쓰지 않으며. 	I chase after Sonya, desperately adjusting my stockings with my free hand, trying my best to ignore the stares from the passers-by.	
+16	N/A	他们不知道，此时我前方不远处那位银发少女右脚脚踝上的设备，正实时监测着和我之间的距离。	他們不知道，我前方那位銀髮少女右腳腳踝上的設備，正隨時監視著她和我之間的距離。		사람들은 저 은발소녀의 오른쪽 발목에 있는 장치를 모를 것이다. 저건 나와의 거리를 실시간으로 측정하는 기기다.	What they don’t realize is that both the silver-haired girl and I are wearing monitoring devices on our right ankles, tracking the distance between us in real time.	
+17	N/A	只要我和索娅相距超过10米，那个异质物金属加固的脚环就会立刻进行两万伏的高压放电。	只要我和索婭距離超過10公尺，那個異質物金屬加固的腳環就會立刻放出兩萬伏特的高壓電。		나와 소야의 거리가 10미터 이상 차이나면 이물질 금속으로 보강된 발찌가 2만 볼트의 고압 전기를 내보낸다.	If we’re ever over thirty feet apart, Sonya’s anklet, fortified by Substance H, will immediately stun her with a shock of 20,000 volts.	
+18	N/A	毫无疑问……这又是爱衣的杰作。	毫無疑問地，這又是愛衣的傑作。		의심할 바 없이……이것 역시 아이의 작품이다.	Another one of Aya’s proud inventions, of course.	
+19	N/A	突然，我在转角的台阶处脚下一滑，身体瞬间失去平衡──	突然，我在轉角的台階處一個腳滑，身體瞬間失去平衡──		갑자기 코너의 골목에서 발이 미끄러지는 바람에 몸이 순식간에 균형을 잃었다──	Suddenly, I slip on a step at a corner and lose my balance—	
+20	N/A	手中的纸袋顺着惯性，在我面前划出一道抛物线。	手中的紙袋飛了出去，在我面前劃出一道完美的拋物線。		손에 들린 봉투가 관성에 따라 눈 앞에서 포물선을 그린다.	The paper bag flies out of my hands, forming a beautiful curve in the air.	
+21	小怜	诶？	什麼？		엣?	Eh?	
+22	N/A	“啪”	「啪」！		“팟”	Crash!	
+23	N/A	纸袋重重拍在地上，塞得满满当当的内容物也随之散落出来。	紙袋重重摔到地上，裡面塞滿的東西也跟著掉了出來。		봉투가 바닥에 떨어지고 봉투 안에 들어있던 물건들이 여기저기 흩어진다.	The contents of the bag come rolling out as it hits the ground.	
+24	N/A	在我觉得自己也马上就要完成穿着渔网袜平地摔的壮举时，一只手突然从后面揽住了我。	就在我覺得自己就要完成穿著網襪仆街的壯舉時，一隻手突然從後面攬住了我。		망사스타킹을 입은 내 몸도 평지에 쓰러지려고 할 때 누군가의 손이 날 잡아챘다.	I’m about to fall forward in all my fishnet-stocking-clad glory when someone grabs me from behind.	
+25	N/A	接着，我听到一个熟悉的声音。	接著，我聽到一個熟悉的聲音。		그리고, 익숙한 목소리가 들린다.	A familiar voice whispers in my ear:	
+26	N/A@女性的声音	喂，女装癖──	喂，女裝癖──		어이, 여장변태──	Hey, why the rush?	
+27	小怜	拉、拉斐尔？	拉、拉斐爾？		라, 라파엘？	R-Raphilia?	
+28	N/A	好像因为和平论坛的缘故，这位萨蒙顿总督的孙女已经在学校缺席好几天了。	因為和平論壇的緣故，這位薩蒙頓總督的孫女已經缺課好幾天了。		평화 포럼 때문에 이 살몬톤 총독의 손녀도 학교에 결석한지 며칠이 됐다.	It’s the granddaughter of the Governor of Salmonton. She’s been absent from school for a few days already, likely due to the Forum of Peace.	
+29	拉斐尔	跑这么急，又去那家女仆咖啡打工吗？	跑這麼急，又要去那家女僕咖啡打工嗎？		뭘 서두르고 있어. 또 메이드 카페에 아르바이트 하러 가는 거야?	You late for your shift at the maid cafe or something?	
+30	N/A	拉斐尔看着我狼狈的样子，露出一个意味深长的笑容，她的随行人员心领神会的跑去帮我捡东西。	拉斐爾看著我狼狽的樣子，露出一個意味深長的笑容，她的隨行人員反應迅速地跑去幫我撿東西。		라파엘이 허둥대는 내 모습을 보고 의미심장한 미소를 짓는다. 그의 수행요원은 내가 흘린 물건을 줍고 있다.	Raphilia smirks knowingly at my plight while her entourage rushes over to help me pick up the scattered items.	
+31	小怜	不、不是啦！！是新的任务……	不、不是啦！ ！是新的任務……		아, 아니야！！새로운 임무 때문에……	N-no, it’s for another mission...	
+32	N/A	上次不知怎么被她知道我被安排在那家店打工，她居然特意跑来光顾好几次。	上次不知道她從哪得知我在那家咖啡廳打工，還故意跑來光顧好幾次。		지난번 임무 때 어떻게 알았는지 그 카페에 일부러 몇번이나 찾아온 적이 있다.	For some reason, Raphilia knew all about my part-time job at the maid cafe. Even made sure to visit multiple times.	
+33	N/A	你能想象吗？！	妳能想像嗎？ ！		상상이나 가는가？！	Imagine that.	
+34	N/A	我，穿着白色吊带袜女仆装，站在拉斐尔面前──	我，穿著白色吊帶襪女僕裝，站在拉斐爾面前──		내가! 흰색 벨트 스타킹이 달린 메이드복을 입고 라파엘 앞에 서서──	Me, dressed in a maid costume, complete with frilly white garters, welcoming Raphilia into the cafe...	
+35	小怜	欢迎回来……主人！	歡迎回來……主人！		어서 오세요……주인님！	Welcome back... Master!	
+36	小怜	今、今天想吃点什么呢喵~	今、今天想吃點什麼呢喵～		오, 오늘은 뭘 드시겠어요? 냐옹~	What would you like to order today, nyan?	
+37	N/A@拉斐尔	噗──	噗──		풉──	Aw...	
+38	N/A@拉斐尔	哈哈哈哈哈！！！	哈哈哈哈哈！ ！！		하하하하하！！！	Hahahahaha!	
+39	小怜	主人，您的红茶喷出来了喵……	主人，您的紅茶噴出來了喵……		주인님, 홍차가 다 튀었어요. 냐옹……	Master, you spilt your tea, nyan...	
+40	小怜	（啊啊啊，好想找爱衣做个记忆消除！）	（啊啊啊，好想找愛衣消除記憶！ ）		（아아아, 아이의 기억 제거 장치가 그립다！）	(Ugh, I should ask Aya to wipe her memory! And mine too while she’s at it...)	
+41	N/A	拉斐尔上下打量着我，我连忙把连衣裙向下按了按。	拉斐爾上下打量著我，我有點不自在地壓著連身裙裙角。		라파엘이 날 위아래로 훑어보자 급히 원피스를 밑으로 당겼다.	Raphilia gives me a once-over and I quickly hold my dress down.	
+42	N/A	她却依然饶有兴致的盯着我的腿──	她卻依然興致勃勃地盯著我的腿──		그녀가 여전히 흥미롭다는 눈빛으로 내 다리를 뚫어지게 쳐다본다──	She won’t stop staring at my legs. Or, more specifically, my stockings.	
+43	拉斐尔	哦？这次是去勾引哪个政府要员吗？	哦？ 這次是去勾引哪個政府要員嗎？		오? 이번엔 정부 요원을 꼬시는 임무야?	Is your mission this time to seduce some high-up in the government?	
+44	小怜	才不是啦！！	不是啦！ ！		아니라고!!	No way!	
+45	N/A	拉斐尔的随行人员抱着一大摞东西跑了回来。	拉斐爾的隨行人員抱著一大堆東西跑了回來。		라파엘의 수행요원이 물건 더미를 안고 달려온다.	Raphilia’s entourage returns with my assortment of items.	
+46	随行人员	怜小姐，袋子破掉了，您的东西都在这里，我帮您清点一下。	憐小姐，袋子破了，您的東西都在這裡，現在幫您清點一下。		렌 아가씨. 봉투가 뜯어졌습니다. 물건을 다 주웠으니 하나하나 확인해 보겠습니다.	Miss Ren, I’ve retrieved everything for you. Let me list them all—	
+47	小怜	不用……别！	不用……啊！		아니……됐어요！	No, no, please don’t, it’s okay!	
+48	N/A	拉斐尔好奇的随手拿起两本。	拉斐爾好奇地隨手拿起兩本。		라파엘이 호기심 가득히 책 두권을 집어든다.	Raphilia picks up a couple of the books from the bag and studies the covers.	
+49	随行人员	《妄想监禁》、《被捆绑的异世界生活》、《转生的私密治疗》……	《妄想監禁》、《被捆綁的異世界生活》、《轉生的私密治療》……		《망상감옥》, 《갇혀버린 이세계 생활》, 《전생의 비밀스런 치료》……	In Love with my Kidnapper, All Tied Up, Exclusive Treatment...	
+50	拉斐尔	“捆绑、痛楚，是我赐予你的自由……”	「捆綁、痛楚，是我賜予妳的自由……」		“결박, 고통, 내가 당신에게 준 자유야……”	“Bondage and pain excite me and make me feel so free...”	
+51	N/A	拉斐尔似乎看到了让她面红耳赤的画面，虽然想立刻把我臭骂一顿，但她情不自禁的又翻了一页。	拉斐爾似乎看到了讓她面紅耳赤的畫面，雖然想開口罵我一頓，但忍不住又翻了一頁。		라파엘이 얼굴이 화끈거리는 내용을 본 모양이다. 날 향해 욕짓거리를 내뱉긴 했지만 계속해서 다음 페이지로 넘긴다.	Raphilia reads out loud and has the decency to blush. She looks on the verge of slapping me across the face, but ends up simply turning another page.	
+52	小怜	……	……		……	...	
+53	拉斐尔	……	……		……	...	
+54	N/A	空气凝固了。	空氣凝結了。		공기가 굳어버렸다.	Awkward silence.	
+55	小怜	不不不不不，这些不是我买的——	不不不不不，這些不是我買的——		아, 아니. 이건 내가 산 게 아니라——	No, wait, those aren’t mine—	
+56	随行人员	短款束缚式内衣、马鞭……\n还有小怜小姐签名的收据。	短版馬甲內衣、馬鞭……\n還有小憐小姐簽名的收據。		짧은 속박형 속옷, 채찍……\n그리고 렌 아가씨가 사인한 영수증이 있습니다.	Let me see, what else... harness lingerie, a whip...\nOh, a receipt too, with Miss Ren’s signature.	
+57	小怜	我、我只是结账……	我、我只是負責結帳……		나, 난 그냥 계산한 것 뿐이야……	I paid for them, but it didn’t mean I chose them!	
+58	N/A	我的声音越来越小，好想找个地缝钻进去。	我的聲音越來越小，啊啊，好想找個地洞鑽進去。		목소리가 점점 작아진다. 쥐구멍으로 숨고 싶다. 	I protest, wishing I could just dig a hole in the ground and die.	
+59	N/A	旁边的路人开始议论起来。	旁邊的路人開始議論紛紛。		옆에 있던 행인들도 수군거리기 시작한다.	Some pedestrians stop and stare.	
+60	N/A@路人A	——喂喂，那个女生是M吗？	——喂喂，所以那個女生是M嗎？		——야야. 저 여자 M인가봐？	Look at that whip. That girl seems to be a masochist. You think she’ll make a good bottom?	
+61	N/A@路人B	脸蛋明明这么可爱……	明明長的這麼可愛……		얼굴은 귀엽게 생겼는데……	She does look pretty cute...	
+62	小怜	（不是女生！）\n（更不是M！！）	（不是女生！ ）\n（更不是M！ ！）		（여자가 아니라고！）\n（M은 더 아니야!！）	(I’m not a girl!)\n(And certainly not a bottom!)	
+63	索娅	哦呀呀，确实是M呢──	哦啦啦，確實是M呢──		와아아. 진짜 M이네──	Ooh! A bottom indeed!	
+64	N/A	这时索娅也凑了过来，拿起那件内衣，指尖划过大写的“M”码尺寸标签。	索婭不知道什麼時候也回頭湊了過來，還拿起那件內衣，指尖滑過大寫的「M」尺碼標籤。		이때 소야가 갑자기 나타나 속옷을 들고 손가락으로 “M”사이즈 마크를 가리킨다.	Sonya exclaims, triumphantly pointing at the words “comfy panties for perky bottoms” on the label of a piece of lace underwear in the bag.	
+65	N/A	她勾着笑意的眼角像小猫一样上扬，殷红的舌尖俏皮地划过嘴唇。	她勾著笑意的眼角像小貓一樣上揚，殷紅的舌尖俏皮地滑過嘴唇。		그녀가 고양이처럼 웃으며 붉은 혀로 얄밉게 입술을 핥는다. 	She grins, swiping her tongue over her upper lip like a kitten.	
+66	N/A	──居然露出了一幅得意的表情！	──居然一臉得意，妳這傢伙！		──어째서 만족한 표정을 하고 있는 거야！	Or should I say a cat that ate the canary?	
+67	伊露卡	小怜姐姐……M？	小憐姐姐……妳是M？		렌 언니가……M？	Miss Ren, what’s a bottom?	
+68	小怜	（啊啊啊，让我死了吧！！！）	（……啊啊啊，讓我屎了吧！ ！！ ）		（아아아. 날 그냥 죽여줘！！！）	(Ugh, kill me now!)	
+69	N/A	……	……		……	...	
+70	N/A	今天早些时候，SID审讯室。	今天稍早，SID審訊室。		오늘 이른 시각. SID취조실.	<Earlier, SID interrogation room>	
+71	索娅	嘛……	嘛……		음……	Yeah...	
+72	索娅	像是女巫、狼人、僵尸、恶魔、吸血鬼什么的，都是我的净化对象哦~	像是女巫、狼人、殭屍、惡魔、吸血鬼什麼的，都是我的淨化對象哦～		마녀, 늑대 인간, 좀비, 악마, 흡혈귀 등등. 모두 나의 정화 대상이야~	Witches, werewolves, zombies, demons, vampires, all that riff-raff... I purify them all!	
+73	莉琉	你说的那些东西……	妳說的那些東西……		네가 얘기한 것들……	Those terms you listed...	
+74	索娅	只是人们对各种异质物感染生物一厢情愿的称呼罢了，但我觉得没什么区别──	只是人們對不同異質物感染生物一廂情願的稱呼罷了，我覺得都一樣──		인간들이 각종 이물질 감염 생물체에 붙인 칭호일 뿐이야. 나한텐 다 똑같지만──	Are simply names humans gave different types of creatures contaminated by Substance H. To me, they’re all the same.	
+75	索娅	只要是散发着颜色浑浊不清的气息，闻起来有咸咸的味道，甚至让人嘴里有些发苦的话……	只要散發著渾濁不清的氣息，聞起來有鹹鹹的味道，甚至讓人嘴裡發苦……		색깔이 혼탁한 기운을 발산하는 것들. 짠 냄새가 나고 입안을 씁쓸하게 만드는 것들……	As long as their auras look murky, smell salty, or taste bitter...	
+76	索娅	那种东西不用犹豫，直接干掉就可以了。	那種東西不用猶豫，直接幹掉就可以了。		그것들은 망설일 필요 없이 바로 제거하면 돼.	I’ll kill them all.	
+77	N/A	看着玻璃后面这个小女孩貌似天真无邪的笑容，莉琉的表情认真起来。	看著玻璃後面這個小女孩貌似天真無邪的笑容，莉琉的表情認真了起來。		유리 뒷면을 쳐다보는 이 소녀의 순진무구한 미소에 마리루의 표정이 진지해진다. 	Mariru’s expression turns grim at the innocent-looking smile of the girl behind the one-way mirror.	
+78	莉琉	你是说，你有『共感觉』……	妳是說，妳有「聯覺」？		네 말은, 네가 『공감각』이 있다는 건가……	So you have synesthesia, you mean?	
+79	N/A	共感觉又称『通感』，是指在接受一种型态的感官刺激时，会自行将之转化成另一种型态的感觉。	聯覺又稱「通感」，指的是在接受到某種感官刺激時，會自行將其轉化成另一種感官知覺。		공감각은 『통감각』이라고 부른다. 어떤 형태의 감관 자극을 받으면 다른 형태의 감각으로 전환하는 것이다.	Synesthesia is a perceptual phenomenon in which stimulation of one sensory type is automatically transformed into that of another sensory type.	
+80	N/A	比如有人看到某种形象时能闻到特定气味，或是听到某种声音时能触发特定的视觉刺激。	比如說，有人看到某種形象的同時能聞到特定氣味，或是聽到某種聲音時能觸發特定的視覺刺激。		예를 들어, 어떤 이미지를 보면 특정 냄새를 맡고 어떤 목소리를 들으면 특정 시각 자극이 일어난다.	For example, if you always smell a certain odor when seeing a certain shape, or see a certain color when you hear a certain sound, that’s synesthesia.	
+81	N/A	只有极小比例的人拥有这种特异功能般的能力。	只有極小比例的人擁有這種特異功能般的能力。		아주 낮은 비율로 이런 특이한 기능 같은 능력을 보유한 사람들이 있다.	Only a rare few people possess this kind of almost superpower-like ability.	
+82	莉琉	所以你才能够那么流畅的躲避攻击吗？	所以妳才能夠那麼流暢地躲避攻擊嗎？		그래서 그렇게 능숙하게 공격을 피한 거야?	So that’s why you can evade attacks so easily, huh?	
+83	索娅	唔……可能吧~	唔……可能吧～		음……그렇겠지~	Hm, maybe?	
+84	索娅	这次我被派驻到新丰洲教区，是为了预防那个什么论坛期间任何可能发生的“特别事件”。	這次我被派駐到新豐洲教區，是為了預防那個什麼論壇期間可能發生的「特別事件」。		이번에 신토요스 교육구로 파견된 건 포럼 기간에 “특별 사건”이 발생하는 걸 예방하기 위해서야.	I was sent to the New Opulentia church district recently in order to prevent potential “incidents” that may occur during the Forum.	
+85	莉琉	就是说，你只是偶然在路上发现了一群女巫，于是顺手解决掉了？	意思是，妳只是在前往新豐洲的路上偶然發現了一群女巫，所以順手解決掉了？		네 말은 즉, 그냥 우연히 길에서 마녀를 발견하고 처리한 거다? 	Then you ran into some witches on the way and took them out just like that?	
+86	索娅	对呀~所以我才招呼让它们自己过来嘛。	對呀～所以我打招呼叫它們自己過來。		맞아~그래서 그들을 부른 거 아니겠어?	Yeah! I waved at them so that they’d come over themselves.	
+87	索娅	要不是碰巧撞上了，我可追不上那些东西~	要不是剛好遇到，平常我可追不上那些東西～		우연히 만나지 않았다면 그것들을 쫓지 않았을 거라고~	Saved me the trouble of chasing after them.	
+88	N/A	索娅摊了摊手，做了个鬼脸。	索婭攤了攤手，做了個鬼臉。		소야가 손을 저으며 익살스런 표정을 짓는다.	Sonya makes a face and shrugs.	
+89	莉琉	……	……		……	...	
+90	N/A	莉琉有些不爽，她的“举手之劳”让规划了十多天，执行已超过80个小时的追踪行动瞬间泡汤。	莉琉很不爽，因為她的「舉手之勞」讓規劃了十多天、執行超過80個小時的追蹤行動瞬間泡湯。		그녀의 “사소한 수고”가 10일간 계획하고 80시간 실행한 추격 임무를 순식간에 거품으로 만들었다.	Mariru frowns. The girl’s whimsical decision had ruined the tracking operation that had been going on for eighty hours and took dozens of days of planning.	
+91	莉琉	那么，下一个问题──	那麼，下一個問題──		그럼, 다음 질문──	Well, next question...	
+92	莉琉	你刚才每句话都在故意暴露关键情报……	剛才妳所說的每句話都故意暴露關鍵情報……		네가 방금 한 말 모두 일부러 중요 정보를 흘리고 있어……	You’ve been deliberately leaking key information in all the replies you gave me just now...	
+93	莉琉	你想提出的交易是？	妳想提出的交易是？		네가 제안하고 싶은 거래가 뭐지?	So you must want something in exchange, huh?	
+94	索娅	大姐姐你果然很擅长审问呢……	大姐姐妳果然很擅長審問呢……		누님, 정말 심문이 특기인가봐……	You’re really good at interrogating indeed!	
+95	索娅	恩……刚才站在你位置的那个人。	嗯……剛才站在妳位置的那個人呢？		음……방금 그 자리에 서있던 사람.	What do I want? Hmm... remember the girl who stood there in your position a while ago?	
+96	莉琉	（刚才进来过的人是……爱衣？）	（剛才進來過的人是……愛衣？ ）		（방금 들어왔던 사람이라면……아이？）	(Who was it... Aya?)	
+97	N/A	索娅回想着几分钟前的情景，认真的说道。	索婭回想著幾分鐘前的情景，認真說道。		소야가 몇분 전 상황을 회상하며 진지하게 얘기한다. 	Sonya says, face serious.	
+98	N/A@索娅	虽然那人没说话，但我感到她有种非常强大的……	雖然那個人沒有說話，但我能感覺到她有股非常強大的……		그 사람, 말은 하지 않았지만 뭔가 아주 강력한……	She didn’t say anything, but she’s got a one-of-a-kind powerful aura...	
+99	N/A@索娅	希望把一切未知之物都吞噬殆尽的冲动。	想把未知的一切都吞噬殆盡的衝動。		미지의 생물을 통째로 삼켜버리고 싶은 충동을 느꼈어. 	Like she wants to absorb, no, devour all knowledge in the world.	
+100	N/A@索娅	……	……		……	...	
+101	N/A	小女孩的身体微微颤了一下，但很快恢复了常态。	小女孩的身體微微抖了一下，但很快又恢復鎮定。		작은 소녀의 몸이 작게 떨렸다가 재빨리 원상태로 회복한다.	The girl trembles almost imperceptibly, but soon recovers composure.	
+102	索娅	我的条件是，只要别让那个人接近我，我就可以跟你合作。	我的條件是，只要別讓那個人接近我，我就可以跟妳合作。		나의 조건은, 그 사람이 나한테 접근하면 당신에게 협조하겠어. 	I have a condition: as long as you keep her away from me, I’ll agree to work with you.	
+103	莉琉	（爱衣确实符合她的描述，但她极少做出会伤害实验对象的事……）	（愛衣確實符合她的描述，但她很少做出傷害實驗對象的事……）		（저 아이의 말이 맞긴 하지만 아이는 실험 대상을 해치는 일을 거의 하지 않는다……）	(That’s an accurate description of Aya, but she isn’t the kind who’d usually harm her test subjects...)	
+104	莉琉	（甚至可以说，对于有趣的样本，她有种发自内心的爱意。）	（甚至可以說，對於有趣的樣本，她有種發自靈魂深處的強烈愛意。 ）		（흥미로운 샘플에게만 마음에서 우러나오는 관심을 보인다.）	(In fact, she genuinely loves interesting specimens she comes across.)	
+105	莉琉	你有不想发现的秘密吧？	妳有不想被發現的祕密，對吧？		들키고 싶지 않은 비밀이 있는 모양인데?	You’ve got a secret you prefer to keep hidden, huh?	
+106	N/A	莉琉的嘴角微微挑起。	莉琉的嘴角微微挑起。		마리루의 입꼬리가 작게 올라간다.	Mariru smirks.	
+107	莉琉	我明白了，成交。	我明白了，成交。		좋아. 거래 성립.	I see. Sure, I accept.	
+108	N/A	几小时后，当天中午。	幾小時後，當天中午。		몇시간 후 당일 정오.	<Noon, a few hours later>	
+109	N/A	我刚才进来的时候，几个朝外走的探员似乎向我投来了同情的目光。	我沿著走廊走進來時，幾個跟我擦身而過的探員都向我投以同情的目光。		들어가자마자 밖으로 나가던 요원 몇명이 동정의 눈빛으로 날 쳐다봤다.	When I enter the room, I pass by several agents who’re leaving. They send me sympathetic glances as they go...	
+110	小怜	什、什么情况？	現在是……什麼情況啊？		무, 무슨 상황이지?	W-what’s going on?	
+111	莉琉	放心，只是个普通的接待任务。	放心，只是個普通的接待任務，喏。		걱정마. 평범한 접대 임무일 뿐이야.	Relax. We’re just sending you on a simple escorting mission.	
+112	N/A	顺着莉琉的手指，我隔着单向玻璃打量起审讯室里的女生。	順著莉琉的手一指，我也開始隔著雙面鏡打量起審訊室裡的女生。		마리루의 손을 따라 단방향 유리를 사이에 두고 취조실 안에 있는 여자를 관찰하고 있다.	Mariru points at the girl in the interrogation room, visible on the other side of the one-way mirror.	
+113	N/A	银色的长发、精致的面孔，一言不发的坐在那里。	銀色的長髮、精緻的面孔，安靜地坐在那裡。		은색 장발, 오목조목한 얼굴, 한마디 말 없이 저곳에 앉아있다. 	Long, silver tresses, a delicate, waifish face. She sits there in silence, face blank.	
+114	N/A	小姑娘给我的第一印象非常清秀典雅。	少女給我的第一印象是清秀典雅。		저 아가씨의 첫인상은 아주 우아하고 고귀한 느낌이였다.	Elegant, refined. That’s my first impression of her.	
+115	N/A	直到她抬起头，漠然的目光穿透玻璃，扫在我身上的那一刻──	直到她抬起頭，漠然的目光彷彿穿透玻璃，掃在我身上的那一秒──		그녀가 고개를 들어 무심한 표정으로 유리 밖에 있는 나를 쳐다보는 그 순간까지──	And then she looks up. Her eyes bore holes into my soul, as if she could see right through the one-way mirror.	
+116	N/A	我似乎看到她身上瞬间燃起了粉红色的火焰。	我似乎看到她身上瞬間燃起了粉紅色的火焰。		그녀의 몸에서 분홍색 화염이 피어오르는 걸 본 것 같다. 	She looks like she could fire pink beams from her eyes and incinerate me any second.	
+117	索娅	这、这个味道……	這、這個味道……		이, 이 냄새……	This smell...	
+118	N/A	少女瞬间起身，将脸贴在了我面前的玻璃上。	少女瞬間跳起來，兩三步就衝到玻璃前，將臉貼了上去。		소녀가 순식간에 몸을 일으켜 내 앞에 있는 유리에 얼굴을 붙인다.	The girl stands up, pressing her cheek onto the glass in front of me.	
+119	N/A	就像觅食的小猫一样在玻璃前嗅个不停，好像口水都要流下来了。	她像覓食的小貓一樣，在玻璃前嗅個不停，連口水都快要流下來了。		먹이를 찾는 아기 고양이처럼 유리 냄새를 맡는다. 침도 흘리는 것 같다.	Her button nose twitches like that of a bunny that’s been handed a carrot.	
+120	小怜	诶？	什麼？		엣?	Eh?	
+121	N/A	虽然在封闭模式下应该没有任何信息传到对面，但我还是本能的屏住了呼吸。	照理說，在封閉模式下應該沒有任何訊息可以傳到對面，但我還是本能地屏住了呼吸。		봉쇄 모드라 맞은 편에 아무 정보도 들리지 않지만 나는 본능적으로 호흡을 멈췄다.	I know there’s no way she can hear me through the glass, but I still reflexively hold my breath.	
+122	N/A	莉琉咳了几声，将玻璃调整为交流模式。	莉琉咳了幾聲，將玻璃調整為交流模式。		마리루가 목을 가다듬고 유리를 교류 모드로 전환한다.	Mariru coughs a few times and pushes the button to defog the glass.	
+123	莉琉	这位是索娅·安赫莱斯。	這位是索婭·安赫萊斯。		이쪽은 소야 앤젤러스	Meet Sonya Angeles.	
+124	莉琉	索娅，这是小怜。	索婭，這是小憐。		소야. 여긴 렌이야.	Sonya, this is Ren.	
+125	索娅	嘿嘿嘿~	嘿嘿嘿～		헤헤헤~	Ooh! Hi!	
+126	N/A	少女的心情很好，就像拿到新玩具的小孩。	少女看起來心情很好，就像拿到新玩具的小孩。		새로운 장난감을 손에 얻은 꼬마처럼 소녀의 기분이 좋아 보인다. 	The girl looks excited, like a child who’s just received a new toy.	
+127	N/A	如果她有个尾巴，现在一定在兴奋的摇来摇去吧。	如果她有尾巴，現在一定興奮地搖來搖去吧。		만약 꼬리가 있었다면 흥분하며 흔들었을 것 같다.	If she had a tail, it would have been wagging like no tomorrow.	
+128	N/A	莉琉又按了一下，玻璃瞬间变为不透明的白色，上面浮现出索娅的档案和新丰洲地图。	莉琉又按了一下，玻璃瞬間變回不透明，上面浮現出索婭的檔案和新豐洲地圖。		마리루가 다시 버튼을 누르자 유리가 순식간에 불투명한 흰색으로 변하고 그 위에 소야의 파일과 신토요스 지도가 나타났다.	Mariru pushes the button once more to turn the mirror opaque. Sonya’s profile and a map of New Opulentia materialize in front of us.	
+129	N/A	莉琉和我简要介绍了一下索娅的情况，接着把地图放大。	莉琉大概說明了一下索婭的情況，接著把地圖放大。		마리루가 나에게 소야의 상황을 간단히 설명하고 이어서 지도를 확대한다. 	She gives me a brief introduction of Sonya’s situation, then enlarges the map.	
+130	莉琉	你的任务是，今天下午带着索娅和伊露卡在这片区域逛街。	妳的任務是，今天下午帶著索婭和伊露卡在這片區域逛街，簡單吧。		너의 임무는, 오늘 오후 소야와 이루카를 데리고 이 구역을 돌아다니는 거야.	Your mission is to bring Sonya and Elluka shopping in this area.	
+131	小怜	这不是你让我潜入的那家店旁边嘛……就在协约非武装区边界靠近使馆区的地方。	這不就在那間女僕店旁邊嘛……就在協議非武裝區邊界，靠近使館區那裡。		잠입하라고 명령했던 그 가게 옆……그 협약 비무장지대 변두리에 있는 대사관 구역이잖아.	Isn’t this near the maid cafe I’m working in? Inside the Agreed Demilitarized Zone, near the embassy area.	
+132	小怜	不过这儿几天前就限制通行了吧？\n店铺好像一直歇业到下周论坛结束呢……	不過，前幾天不是已經開始交管嗎？ \n那間店好像會一直休到論壇結束才開業呢……		하지만 며칠전 통행이 제한됐잖아.\n가게도 다음주 포럼이 끝날 때까지 영업하지 않는 것 같던데…	But I thought it’s a restricted access area now?\nThe stores will all be closed until the Forum is over next week.	
+133	莉琉	联合议会昨晚突然解除这一带的管制，防卫厅这一带的人手也被元老院调走了大半。	聯合議會昨晚突然解除了這一區的管制，原本部屬在這裡的防衛廳人員也被元老院調走大半。		연합의회가 어제 저녁 갑자기 제한을 해제했어. 방위국 사람들도 원로원이 반이나 줄였고.	The restriction was lifted last night by the United Congress out of nowhere. And the Senate ordered half of the personnel from the Defense Bureau to leave.	
+134	莉琉	目前情报十分有限，但好像两边很默契的腾出了一个安保真空地带。	目前情報有限，但兩邊似乎很有默契地讓出了一個未設置保全的真空地帶。		현재 상황이 아주 제한적이긴 하지만 양쪽이 보안 진공 지대를 만들었어.	We’re not sure what exactly is going on, but this area is sort of a no-man’s-land right now.	
+135	小怜	所以我们其实是去巡逻吗？	所以我們其實是去巡邏嗎？		그러니까 사실은 순찰하러 가는 거란 말이야？	So we’re supposed to patrol the place while pretending to be shopping?	
+136	莉琉	不，那一带的摄像监控十分密集──	不，那一帶的監視器十分密集──		아니. 그쪽 지대의 감시 카메라가 아주 밀집되어 있어──	Oh, you don’t have to do that. We’ve got enough security cameras in the area.	
+137	莉琉	联合议会方面知道索娅的身份和能力，而元老院则能在第一时间就发现你。	聯合議會知道索婭的身分和能力，元老院則是能夠在第一時間發現妳。		연합의회가 소야의 신분과 능력을 알고 있어. 원로원은 널 제일 처음 발견할 수 있고 말이야.	The United Congress knows about Sonya’s identity and skills. The Senate, on the other hand, has their eyes on you.	
+138	莉琉	你们一起出现在那个区域，比你们去做什么更重要。	重點是，我要妳們一起出現在那一區，去做什麼則不重要。		너희들이 같이 저 구역에 나타는 게 뭔가를 하는 것보다 더 중요해. 	They don’t care what you guys are doing there. The fact that you’ll be appearing together is big news in itself.	
+139	小怜	那如果她想逃跑怎么办？	那如果她想逃跑怎麼辦？		그럼 저 여자가 도망가면 어떡해?	But what if Sonya tries to escape?	
+140	N/A	总觉得我根本打不过她……	我直覺認為自己打不過她。		왠지 이길 수 없을 것 같은데…	I’d never be able to defeat her...	
+141	N/A	莉琉冷笑一下，将玻璃调为双向透明但隔声的状态，索娅正有些无聊的靠在墙边。	莉琉冷笑一聲，將玻璃調為透明但隔音的狀態，索婭看起來有點無聊地靠在牆邊。		마리루가 차게 웃고 유리를 쌍방향 투명이지만 소리가 차단된 상태로 전환한다. 	Mariru simply leers and presses a button to defog the screen, though Sonya still can’t hear us from inside. She’s currently leaning against the wall, looking bored.	
+142	N/A	莉琉操作手持设备，银发少女脚踝上的金属环开始闪烁着红色的小灯。	莉琉操作著平板，銀髮少女腳踝上的金屬環開始閃爍紅色的小燈。		소야가 휴대 기기를 조작하자 은발소녀 발목 위 금속 발찌가 빨간색 빛을 뿜어낸다.	Mariru taps her handheld device, and the metal anklet the silver-haired girl is wearing begins blinking in red.	
+143	N/A	索娅对着莉琉露出一副严重抗议的表情，口型好像在说着“又来？”。	索婭發現後，滿臉不悅地看著莉琉，嘴型好像在說著「又來了」。		소야가 마리루를 향해 원망의 눈빛을 보낸다. 입모양을 보니 “또”라고 말하는 것 같다.	The girl glares at Mariru and mouths “again?”	
+144	小怜	？	？		？	Huh?	
+145	N/A	紧接着，索娅的脚踝闪出一道淡蓝色的电弧，少女应声倒地，身上冒出一缕青烟。	緊接著，一道淡藍色的電弧從她的腳踝竄出，少女應聲倒地，身上冒出一道煙。		이어서 소야의 발목에서 옅은 파란색 아크가 번쩍인다. 땅에 엎어진 소녀의 몸에서 푸른 연기가 피어난다.	And all of a sudden there’s a light blue flash of electricity. Sonya crumples to the ground amidst a puff of turquoise smoke.	
+146	小怜	…………………………	……		…………………………	...	
+147	小怜	……她	……呃……		……저 여자	... Is she...	
+148	小怜	……挂了？！	……掛了？ ！		……죽었나？！	... dead?	
+149	N/A	几秒后，修女的身体先是动了一下，然后慢慢自己爬了起来，她刚想对着玻璃这边大骂──	幾秒後，少女身體先是抖了一下，然後慢慢爬了起來，腳步還不太穩的她正想對著玻璃大罵──		몇초 후 수녀의 몸이 움찔거리고 천천히 일어나 유리를 향해 욕을 내뱉는다─	Seconds later, the little nun’s body spasms, and she clambers back up, strides over to the glass, looking very ready to scream profanities—	
+150	N/A	莉琉面无表情的点了一下按钮，玻璃立刻变为不透明状态。	莉琉面無表情地按下按鈕，玻璃立刻變回不透明。		마리루가 무표정으로 버튼을 누르자 유리가 즉시 불투명 상태로 변한다. 	Mariru simply presses the button and the screen fogs up again.	
+151	莉琉	你看，她跑不了~\n实在不行伊露卡还可以作为后备方案。	妳看，她跑不了的～\n如果真的不行，還有伊露卡可以當作備案。		봤지? 도망 못가~\n만약 도망간다면 이루카를 이용하면 돼.	See? With this device, she can’t escape.\nBesides, you can always tell Elluka to use her powers on her.	
+152	小怜	你、你是恶魔吧！！？	妳、妳好邪惡啊！ ！		너, 너 악마지！！？	What? That’s evil!	
+153	莉琉	哦？	哦？		오?	Hm?	
+154	N/A	她一把将我按到墙上，把嘴贴到我的耳边。	她一把將我按到牆上，嘴唇貼著我的耳朵。		그녀가 날 벽으로 밀어붙이고 입술을 내 귓가에 갖다댄다. 	Mariru shoves me onto the wall and leans in next to my ear.	
+155	莉琉	听好了，你的身体可是SID重要的财产──	妳給我聽著，妳的身體可是SID的重要資產──		잘 들어. 네 몸은 SID의 중요한 재산이야──	Listen, you’re an important asset belonging to SID.	
+156	莉琉	擅自冒你不能承受的风险的话……\n是会被惩罚的哦~	如果擅自冒著妳不能承受的風險……\n是會被懲罰的哦～		멋대로 위험한 짓을 꾸민다면……\n벌을 받게 될 거야~	If you try anything too risky...\nWe’ll have to punish you!	
+157	小怜	……！！！	……！ ！！		……！！！	...!	
+158	N/A	我瞬间羞红了脸。	我瞬間羞紅了臉。		순식간에 얼굴이 붉어졌다.	I flush all the way up to my ears.	
+159	小怜	我、我不会的啦！！！	我、我不會的啦！ ！！		그, 그럴리가！！！	I... I’ll be careful!	
+160	N/A	莉琉笑了笑，把我推出审讯室。	莉琉笑了笑，把我推出審訊室。		마리루가 웃으며 날 취조실 밖으로 밀어낸다.	Mariru smiles and gently pushes me out of the interrogation room.	
+161	莉琉	知道你不敢。	我就知道妳不敢。		나도 알아.	I know you will.	
+162	莉琉	这次任务有着装要求，快去试试吧~	啊，這次任務有服裝需求，快去試試吧～		이번 임무는 의상이 준비되어 있으니까 어서 입어봐~	We’ve got a special outfit laid out for your mission. Try it on!	

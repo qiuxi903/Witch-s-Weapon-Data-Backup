@@ -1,0 +1,165 @@
+﻿1	N/A	现在即将发生的、亦或是过去也许发生过的可能性存在着无数种。	現在即將發生的、亦或是過去也許發生過的可能性存在著無數種。			What's happening now and what has happened in the past have unlimited possibilities.	
+2	N/A	这无数的可能性不断的跨越无数的世界，将世界拉抻的无限宽广。	這無數的可能性不斷地跨越無數的世界，將世界延伸為\無限寬廣。			These unlimited possibilities transcend between different dimensions, endlessly expanding the world.	
+3	N/A	那么存在于无数个世界中的『真实』……是什么？	那麼，存在於無數世界中的「真實」……是什麼？			So, what's the "truth" that exists in all those different dimensions?	
+4	N/A	就像沉入黑夜中的镜子，虽然可以触摸它，可以抚摸它。	就像沉入黑夜中的鏡子，雖然可以觸摸它、可以撫摸它。			It's like a mirror in the dark. You can touch it. You can feel it.	
+5	N/A	但其中所映射的内容…是否还与平时相同呢。	但其中所映射的內容…是否依然和平時相同呢。			But what does it reflect in the dark? The same image you'd see during the day?	
+6	N/A	镜中的一切…他们存在着怎么样的意志？	鏡中的一切……他們存在著什麼樣的意志？			Everything in the mirror... What does it represent?	
+7	N/A	…………	…………			...	
+8	N/A	Δ13 SID作战指挥室	Δ13 SID作戰指揮室			Δ13. SID Command Room	
+9	N/A	气氛紧张的作战指挥室中，数块全息屏幕正不停轮放着讯息。	氣氛緊張的作戰指揮室中，多個全息螢幕正不停輪播著資訊。			The atmosphere inside the command room is intense. Messages are constantly updated on several holographic screens.	
+10	N/A	一位身形娇小的银发少女此刻目光正紧紧盯着闪烁不停的荧幕，并不时发出淡淡的叹息。	一位身形嬌小的銀髮少女此刻目光正緊緊盯著閃爍不停的畫面，並不時發出淡淡的嘆息。			A tiny, silver-haired girl is staring at those screens as she sighs from time to time.	
+11	N/A	这时门禁发出“滴—”的清脆音效，随后一行身着各异的少女走进指挥室中。	這時門禁發出「滴—」的清脆音效，隨後一行身著各異的少女走進指揮室中。			Suddenly, the door opens—a team of girls in different kinds of uniforms walks into the room.	
+12	芩	报~告~魔女小队集结完毕！	報～告～魔女小隊集結完畢！			Witch Squad reporting for duty!	
+13	N/A	为首持有双刀的少女朝着对方，十分娇俏可爱的敬了个礼。	為首持有雙刀的少女朝著對方，十分嬌俏可愛地敬了個禮。			The girl in the front is holding dual-blades. She salutes respectfully to the silver-haired girl.	
+14	爱衣	辛苦了，芩。很抱歉打断大家的休假…	辛苦了，芩。很抱歉打斷大家的休假……			Thank you for coming here on such short notice, Rei. I know you guys are on vacation...	
+15	N/A	爱衣微微沉下头稍作停顿之后，似乎又鼓足了勇气目光如炬的注视着众人。	愛衣微微沉下頭稍作停頓之後，似乎又鼓足了勇氣目光如炬地注視著眾人。			Aya lowers her head and pauses for a short while, then she plucks up her courage and starts addressing the witches.	
+16	爱衣	这次之所以会急匆匆召集大家，是因为有一件原本被判定为『Safe』级的异质物突然被唤醒。	這次之所以會急忙召集大家，是因為有一件原本被判定為「Safe」級的異質物突然被喚醒。			A piece of "safe" Substance H was suddenly awakened.	
+17	爱衣	突然被唤醒的原因我们还没能掌握，但它在脱离收容前的危险等级已经攀升至…『EX』级。	突然被喚醒的原因我們還沒能掌握，但它在脫離收容前的危險等級已經攀升至…「EX」級。			We don't know the reason for it yet, but the Substance H's risk level has been updated to EX.	
+18	艾米莉欧	什…什么！？	什……什麼！？			What?!	
+19	瑟蕾莎	啊…听起来就超麻烦的…我今天可还没睡够15个小时啊……	啊……聽起來就超麻煩的……我今天還沒睡夠15個小時啊……			Sounds like trouble and a lot of work... But I need my 15 hours of sleep per day.	
+20	海因里希	异质物还存在着这种形式的变化啊…倒是有趣。	異質物還存在著這種形式的變化啊……真是有趣。			Substance H can be "awakened"? Sounds interesting.	
+21	N/A	就在少女们议论纷纷时，其中最为娇小的一位拽了拽一直紧紧跟在她身边气质优雅的少女。	就在少女們議論紛紛時，其中最為嬌小的一位拉了拉一直緊緊跟在她身邊氣質優雅的少女。			While almost all the witches are discussing this latest news, the smallest witch of all slightly drags the girl next to her.	
+22	伊露卡	呐，倪克斯姐姐……	喏，倪克斯姐姐……			Nix?...	
+23	N/A	紫发的优雅少女俯下身，充满怜爱得抚摸着伊露卡的头发。	紫髮的優雅少女俯下身，充滿憐愛地撫摸著伊露卡的頭髮。			The elegant, purple-haired girl bends over and calms down Elluka.	
+24	倪克斯	伊露卡不用担心，无论发生什么姐姐都会保护你的。	伊露卡不用擔心，無論發生什麼姐姐都會保護你的。			Don't worry. I'll protect you no matter what.	
+25	伊露卡	巧克力…再来一块…	巧克力……再來一塊……			More chocolate, then?	
+26	N/A	接着少女舔掉了嘴角的巧克力。	接著，少女舔掉了嘴角的巧克力。			Elluka asks as she licks the chocolate clean from the corner of her lips.	
+27	爱衣	……咳，请诸位安静一下。	……咳，請諸位安靜一下。			Ahem. Quiet, please.	
+28	N/A	爱衣触碰了一下屏幕，屏幕马上开始显示出一只金黄色的杯状器物。	愛衣觸碰了一下螢幕，螢幕馬上顯示出一個金黃色的杯狀器物。			Aya taps the screen, and a golden container is displayed.	
+29	爱衣	目标异质物于23时被发现收容失效。	目標異質物於晚間11點被發現收容失效。			The target Substance H was found "unable to be contained" at 23:00.	
+30	爱衣	其外形通体金色且镶有难以分离的宝石，形似宗教传说中所描述的圣杯。	其整體外形為金色且鑲有難以分離的寶石，形似宗教傳說中所描述的聖杯。			The entire container is golden and inlaid with inseparable gems. Its shape resembles a holy grail.	
+31	斯库尔德	唔……圣杯？	唔……聖杯？			Holy grail?...	
+32	N/A	斯库尔德双眉紧蹙，似乎若有所思的用手托着下巴。	斯庫爾德雙眉緊蹙，若有所思地用手托著下巴。			Skuld frowns sternly, something on her mind.	
+33	爱衣	斯库尔德小姐，你能察觉到什么吗？	斯庫爾德小姐，妳能察覺到什麼嗎？			Can you sense anything, Skuld?	
+34	斯库尔德	抱歉，自从上次的事之后我的能力就很不稳定…	抱歉，自從上次的事件之後，我的能力變得很不穩定……			Sorry. Ever since that incident last time, my ability has become unstable...	
+35	爱衣	嗯，那也没办法了。	嗯，那也沒辦法了。			That's all right. We'll figure it out some other way.	
+36	爱衣	不过这件异质物的特别之处就是，它虽然有着形似传说中圣杯的外形，但其内部始终承装着天妇罗…	不過這件異質物的特別之處就是，它雖然有著形似傳說中聖杯的外形，但其內部始終承裝著天婦羅……			One thing unique about this particular Substance H item is that, though in the shape of a holy grail, it always contains nothing but tempura...	
+37	N/A	少女一行人的动作突然凝固下来，似乎一时间还难以接受这样的设定。	少女一行人的動作突然停住，似乎一時間還難以接受這樣的設定。			No one knows how to react to this information.	
+38	爱衣	准确的说…是炸虾和炸鱿鱼两种天妇罗。	準確地說……是炸蝦和炸魷魚兩種天婦羅。			More precisely—it contains two types of tempura: shrimp and squid.	
+39	爱衣	而且就算是从中全部取空，只要杯体脱离取出人的视线就会自动填满。	而且就算是將內容物全部取出，只要杯體一脫離取出人的視線，就會再度自動填滿。			We tried to take out all the tempura, but as soon as it left our sights, the container automatically filled itself with more tempura.	
+40	爱衣	除此之外并没有其他特别的性质，所以一直被判定为『Safe』级。	除此之外，並沒有其他特別的性質，所以一直被判定為「Safe」級。			That's the only thing special about this item. Therefore, it's always been classified as safe.	
+41	芩	哟吼~如果里面的天妇罗可以吃的话，老朽可就势在必得了啊~	喲吼～如果裡面的天婦羅可以吃的話，老朽可就勢在必得了啊～			Ho ho ho! If it contains tempura, I'm going to get it back!	
+42	N/A	回过神的芩突然挽了一下袖子，两眼放光十分有精神的做出了宣言。	回過神的芩突然挽了一下袖子，兩眼炯炯有神地做出了宣言。			Rei suddenly finds her motivation, so she makes a promise.	
+43	艾米莉欧	肯定不行的吧…那种从异质物内部突然出来的奇怪东西。	肯定不行的吧…那種從異質物內部突然出來的奇怪東西。			Are you sure? It's probably not safe to eat food coming out of a Substance H item...	
+44	爱衣	事实上…经常会有收容管理人员试图“品尝”一下里面的炸物。	事實上……經常會有收容管理人員試圖「品嚐」一下裡面的炸物。			About that... Employees in the Collection and Research Center have already tried out the tempura...	
+45	贝阿特丽切	真是值得称赞的勇气…然后呢。	真是值得稱讚的勇氣……然後呢。			Gotta hand it to them... And everything fine?	
+46	爱衣	然后也就是今晚22时，某位D级探员偷吃了一枚炸虾天妇罗之后一切就陷入了异常。	然後也就是今晚10點，某位D級探員偷吃了一枚炸蝦天婦羅之後，一切就陷入了異常。			Not tonight it's not. At 22:00, a D-level agent ate a piece of deep-fried shrimp tempura, and everything went wrong afterwards...	
+47	N/A	爱衣说着开始操作起面前的终端，屏幕上的内容也马上变为监控摄像头所拍下的画面。	愛衣說著開始操作起面前的終端機，螢幕上的內容也馬上變為監視攝影機所拍下的畫面。			Aya replies as she pulls out the security footage from earlier tonight.	
+48	N/A	画面中，一位手提着一打可乐的少年走进存放着『Safe』等级的异质物收容区。	畫面中，一位提著一手可樂的少年走進存放著「Safe」等級的異質物收容區。			On the screen, a young man carries a pack of coke and walks into the room storing safe Substance H.	
+49	N/A	只见他悠哉悠哉的将一台有红蓝双色手柄的游戏设备放到一边支起，然后对屏幕点了“下一回合”	只見他悠哉地將一台有紅藍雙色手柄的遊戲裝置架在一旁，然後對螢幕點了「下一回合」			Then, he sets up a console and presses the "Continue" button...	
+50	爱衣	接着他就以研究用途取出了天妇罗锅。	接著他就以研究用途取出了天婦羅鍋。			Before he takes out the "tempura pot."	
+51	爱衣	对于『Safe』等级的异质物的收容我们还存有漏洞……	對於「Safe」等級異質物的收容，我們還存有漏洞……			Thinking back, we've been too careless when it comes to "safe" Substance H...	
+52	N/A	或许是对收容设施外部安保的自信，被判定为『Safe』等级的异质物并没有额外的保全手段。	或許是對收容設施外部保全的自信，被判定為「Safe」等級的異質物並沒有額外的保全手段。			Maybe we trusted our employees too much. They had easy access to all the "safe" Substance H.	
+53	N/A	少年熟练地解除了收容限制并夹出其中最大的一枚炸虾，然后一边大快朵颐一边玩起游戏。	少年熟練地解除了收容限制並夾出其中最大的一條炸蝦，然後一邊大快朵頤一邊玩起遊戲。			Back to the screen. The young man picks the biggest piece of shrimp tempura and starts playing his game.	
+54	N/A@屏幕中的少年	『下一回合』这种按钮真是有毒──嗝！	「下一回合」這種按鈕真是會讓人上癮──嗝！			The "Continue" button makes everything addictive... *burp*	
+55	芩	…怎么说呢，这个吃相还真是豪放，蛮可爱的呐！	……怎麼說呢，這個吃相還真是豪邁，蠻可愛的嘛！			I know now's not a good time... But isn't he kinda cute? Especially when he's eating?	
+56	伊露卡	炸虾…吸溜……	炸蝦……吸溜……			Fried shrimp... *slurp*...	
+57	薇拉	快进入重点啦，瑟蕾莎这家伙都要睡着了！不对，这不是已经睡着了吗！！	快進入重點啦，瑟蕾莎這傢伙都要睡著了！不對，是已經睡著了啊！！			Get to the point. Theresa is falling asleep! Oh, I stand corrected. She's already fallen asleep!	
+58	瑟蕾莎	啊…啊！我、我没……呲溜	啊……啊！我、我沒……呲溜			I'm... Not asleep. *slurp*...	
+59	倪克斯	伊露卡…不要像那边那个没出息的姐姐一样总吸口水…	伊露卡……不要像那邊那個沒出息的姐姐一樣一直吸口水……			Elluka, don't ever become someone like her, you hear? Drooling and slurping...	
+60	薇拉	艾米艾米，这家伙是可口党哎！和你一样呢！	艾米艾米，這傢伙是可口可樂派的耶！和妳一樣呢！			This guy is a coke fan just like you, Emily!	
+61	艾米莉欧	嗯…不过我现在已经改喝少糖的怡泉啦！	嗯……不過我現在已經改喝少糖的舒味思啦！			... I've switched to diet coke, please.	
+62	爱衣	好啦好啦，你们这些家伙精力这么旺盛的话，下次都来协助我的实验啊…	好啦好啦，妳們這些傢伙精力這麼旺盛的話，下次都來協助我的實驗啊……			You guys all sound like you have a lot of free time. Come help me with my research in the future!	
+63	N/A@众人	…………	…………			...	
+64	N/A	少女们马上一副心领神会的表情安静下来。	少女們馬上一副心領神會的表情安靜下來。			The crown is silenced immediately.	
+65	N/A	在经过数个『下一回合』后，享受到瘫坐一团的少年突然站起，双眼无神的仰望着前方。	在經過數個「下一回合」後，享受到癱成一團的少年突然站起，雙眼無神地仰望著前方。			After pressing the "Continue" button countless times, the young man suddenly stands up and stares at something.	
+66	N/A	这时大家才注意到，原本留在收容设备内的天妇罗锅正漂浮在半空中。	這時大家才注意到，原本留在收容設備內的天婦羅鍋正漂浮在半空中。			It's the tempura pot! It's floating in the air.	
+67	N/A	锅体外的宝石如跑马灯般轮番闪烁，放射出的光芒将整个室内气氛照射得越发诡异。	鍋體外的寶石如跑馬燈般輪番閃爍，放射出的光芒將室內照射得越發詭異。			The inlaid gems are shining, making the entire room look spooky.	
+68	N/A	众人紧紧盯着屏幕中少年下一步的举动。	眾人緊緊盯著畫面中少年的下一步舉動。			Everyone is on pins and needles waiting for the young man's next move.	
+69	N/A@屏幕中的少年	如果，如果说……	如果，如果說……			If, you know, if...	
+70	N/A@屏幕中的少年	真的有『神』存在的话。	「神」真的存在的話，			God really exists...	
+71	斯库尔德	……！？	……！？			...?!	
+72	N/A@屏幕中的少年	我希望…	我希望……			Then I wish...	
+73	N/A@屏幕中的少年	我希望……！	我希望……！			I wish...	
+74	N/A@屏幕中的少年	我希望现在就玩到赛博朋克30XX！！	我希望現在就玩到賽博龐克30XX！！			I wish I could play Steampunk 2077 right now!	
+75	N/A	话音刚落监控画面就剧烈的闪烁起来，在十几秒的闪烁和雪花过后画面又归于正常。	話剛說完，監視畫面就劇烈地閃爍起來。十幾秒的閃爍和雪花過後，畫面又恢復正常。			Right after he says that, the image on the screen starts shaking. The footage returns to normal after a 10-second gap.	
+76	N/A	收容室内依旧如同之前一般的风平浪静，但原本漂浮在半空的『天妇罗锅』和少年都已消失不见。	收容室內依舊如之前一樣風平浪靜，但原本漂浮在半空的「天婦羅鍋」和少年都已消失不見。			The room is as quiet as before, expect the tempura pot and the young man are now gone.	
+77	拉斐尔	所以就是…这个女装变态一样的家伙偷走了你们收容的宝贝吗？	所以就是……這個女裝變態一樣的傢伙偷走了你們收容的寶貝嗎？			So, this pervert in women's clothes stole the Substance H?	
+78	爱衣	不，他并不是入侵了监视系统或者躲进监控死角，而且他没穿女装。	不，他沒有入侵監視系統或者躲進監視死角，而且他沒穿女裝。			No. He didn't hack the security system or hide in a blind spot. He wasn't wearing women's clothes, either...	
+79	爱衣	所有收容设施内的人员和异质物都有进行标记追踪。	所有收容設施內的人員和異質物都有進行標記追蹤。			All the staff and items inside the Collection and Research Center are marked and tracked.	
+80	薇拉	那个赛博朋克30XX是一款游戏的名字呢…	那個賽博龐克30XX是一款遊戲的名字呢……			Everyone's been talking about that Steampunk 2077 game lately...	
+81	艾米莉欧	不愧是薇拉~是最近新出的游戏吗？	不愧是薇拉～是最近新出的遊戲嗎？			What's that? A new game?	
+82	薇拉	嗯…差不多几十年后会出的新游戏吧……！	嗯……差不多幾十年後會出的新遊戲吧……！			It's not out yet. Probably have to wait another several decades...	
+83	爱衣	果然…这样推测就成立了。	果然……這樣推測就成立了。			Ah... Now our theory checks out.	
+84	爱衣	我们怀疑…画面中的探员与圣杯…啊不天妇罗锅…做了某种的交易，或是说契约。	我們懷疑……畫面中的探員與聖杯……啊不，是天婦羅鍋……做了某種交易，或是說契約。			We suspect that the agent in the footage made some kind of a deal with the tempura pot...	
+85	爱衣	探员吃掉了由它产生的炸物，与它产生连接…而它允诺探员可以实现某种愿望。	探員吃掉了由它產生的炸物，與它產生連結……而它允諾探員實現某種願望。			The agent ate the food from the tempura pot and established a certain bond with the tempura pot... In return, the pot granted the agent's wish.	
+86	拉斐尔	哈……简直和许愿机一样真是可笑。	哈……簡直和許願機一樣，真是可笑。			Sounds like a fairy tale to me...	
+87	拉斐尔	不管是奇迹还是魔法都不可能是免费的吧。	不管是奇蹟還是魔法，都不可能是免費的吧。			But magic or miracle... They don't come free, right?	
+88	爱衣	正是如此，这位少年希望的是提前玩到这款未发售的游戏，但它的回应方式…	正是如此，這位少年希望的是提前玩到這款未發售的遊戲，但它的回應方式……			That young man wanted to play an unreleased game, and the tempura pot granted his wish by...	
+89	贝阿特丽切	是将他送到了未来……？	是將他送到未來……？			By sending him to the future?	
+90	爱衣	没错。	沒錯。			That's right.	
+91	N/A	爱衣朝贝阿特丽切点点头以示确认。	愛衣朝貝阿特麗切點點頭以示確認。			Aya nods at Beatrice, confirming her guess.	
+92	拉斐尔	任性又乱来啊……	任性又亂來啊……			That's a bit ridiculous...	
+93	芩	呜姆…这种事老朽倒是闻所未闻。	嗚姆……這種事老朽倒是前所未聞。			First time I've ever heard something like that.	
+94	爱衣	天妇罗锅似乎会以某种方式判断『许愿者的价值』和『愿望的价值』。并将二者置于天秤进行比较。	天婦羅鍋似乎會以某種方式判斷「許願者的價值」和「願望的價值」。並將二者置於天秤進行比較。			The tempura pot seems to be able to judge the "wisher's value" and the "wish's value."	
+95	爱衣	视频中探员是以最容易的方式实现了愿望——被丢到未来去玩刚刚发售的游戏。	影片中的探員是以最容易的方式實現了願望——被丟到未來去玩剛剛發售的遊戲。			The agent's wish was fulfilled via the easiest method—getting sent to the future to play the unreleased game.	
+96	爱衣	但如果存在想要世界毁灭的愚蠢家伙，天妇罗锅会说不定先杀掉许愿者。\n然后在世界范围内随机挑选等同价值的人一起陪葬。	但如果有什麼愚蠢傢伙想要毀滅世界，天婦羅鍋會說不定會先殺掉許願者。\n然後在世界上隨機挑選等同價值的人一起陪葬。			But if some evil and stupid person makes a wish to destroy the world, maybe the tempura pot will kill the wisher first.\nBefore randomly picking people who have the same value as the wisher and killing them, too.	
+97	爱衣	甚至…真的可能出现改写历史进程的家伙。	甚至……真的可能出現改寫歷史進程的傢伙。			With the help of the tempura pot, there might be someone who can change the course of history...	
+98	爱衣	SID必须确保自己所有的收容物都不能对一般大众造成伤害！	SID必須確保自己所有的收容物不對一般大眾造成傷害！			The SID has to make sure no Substance H will do harm to normal people!	
+99	N/A	众人很明显的能感觉到，爱衣虽然名义上说着是保护大众。	眾人很明顯地能感覺到，愛衣雖然名義上說著是保護大眾。			Even though Aya says it loud and clear...	
+100	N/A	但比起那些事，她对产生这种特殊性质的异质物有着更狂热的兴趣。	但比起那些事，她對產生這種特殊性質的異質物有著更狂熱的興趣。			Everyone knows that she's more interested in the Substance H more than the safety of people.	
+101	艾米莉欧	不过既然它已经消失了，还会有这种担心吗？	不過既然它已經消失了，還會有這種擔心嗎？			But it's disappeared, hasn't it? Do we still have to worry?	
+102	爱衣	和少年彻底消失的信号不同，『天妇罗锅』的信号是在新丰洲市范围内分裂为了更多个。	和少年徹底消失的訊號不同，「天婦羅鍋」的訊號則是在新豐洲市範圍內分裂成許多個。			Unlike the young man, the tempura pot hasn't exactly disappeared. Instead, it's split into several piece and landed in different areas in New Opulentia.	
+103	南哲	MD的特遣部门已经把目前掌握的情报同步过来了。	MD的特遣部門已經把目前掌握的情報同步過來了。			All right. The MD has sent us the latest intel.	
+104	瑟蕾莎	……！？那个肌肉男就一直站在爱衣旁边吗！……	……！？那個肌肉男一直站在愛衣旁邊嗎！……			!!! This brawny guy has been standing next to Aya all this time?	
+105	伊露卡	哦…！哦……！忍者先生……！	哦…！哦……！忍者先生……！			Err... Mr. Ninja...	
+106	艾米莉欧	薇拉…	薇拉…			Vera...	
+107	薇拉	…我也完全没注意到那里有人。	……我也完全沒注意到那裡有人。			... I didn't see him at all, either...	
+108	南哲	…………抱歉。	…………抱歉。			... I'm sorry.	
+109	N/A	一直站在爱衣不远处却完全未被发现的筋肉军官只能挤出一个爽朗的笑容。	一直站在愛衣不遠處卻完全未被發現的筋肉軍官只能擠出一個爽朗的笑容。			The muscular officer doesn't know how to respond, so he just smiles and apologizes.	
+110	拉斐尔	虽然不知道你在道歉什么，但是感觉太可怜了。	雖然不知道你在道歉什麼，但是感覺太可憐了。			You didn't do anything wrong.	
+111	拉斐尔	爱衣小姐，请继续吧。	愛衣小姐，請繼續吧。			Aya, please continue.	
+112	爱衣	咳…MD传回的讯息已经证实了虽然天妇罗锅本体已经消失，但其中的炸物正四散在新丰洲市内的各个角落里。	咳……MD傳回的訊息已經證實了雖然天婦羅鍋本體已經消失，但其中的炸物正四散在新豐洲市內的各個角落。			The MD has confirmed that though the tempura pot itself no longer exists, its pieces are scattered all over New Opulentia.	
+113	斯库尔德	说不定它是在寻找那个…可以“改写历史”的人喔。	說不定它是在尋找那個……可以「改寫歷史」的人喔。			Maybe... Maybe it's looking for the person who can change the course of history?	
+114	爱衣	也许正是这样，为了避免这种情况魔女小队必须马上出发取回所有『炸虾天妇罗』和『鱿鱼天妇罗』。	也許正是這樣，所以為了避免這種情況，魔女小隊必須馬上出發取回所有「炸蝦天婦羅」和「魷魚天婦羅」。			That's what I'm worried about. To prevent it from happening, we're sending you, the Witch Squad, to retrieve all Shrimp Tempura and Squid Tempura!	
+115	爱衣	根据MD的情报，天妇罗也吸引了大量失控的『女巫』聚集。	根據MD的情報，天婦羅也吸引了大量失控的「女巫」聚集。			The MD has already confirmed that some out-of-control witches are also drawn by the missing tempura.	
+116	爱衣	行动过程中SID异质物回收科会与MD灾厄行动小组一同为魔女小队提供支援。	行動過程中，SID異質物回收科會與MD災厄行動小組一同為魔女小隊提供支援。			While you're out on this mission, the SID recycle team and MD hazard control team will provide you with support.	
+117	爱衣	芩，你与斯库尔德、贝阿特丽切、倪克斯，伊露卡一队并负责现场指挥。	芩，妳和斯庫爾德、貝阿特麗切、倪克斯，伊露卡一隊並負責現場指揮。			Rei, you'll be the on-site commander and lead a small team. Skuld, Beatrice, Nix, and Elluka will report to you.	
+118	爱衣	艾米莉欧，你和拉斐尔、瑟蕾莎、薇拉，海因里希作为另一队分头行动。	艾米莉歐，妳和拉斐爾、瑟蕾莎、薇拉，海因理希作為另一隊分頭行動。			Emily, you lead another team with Raphilia, Theresa, Vera, and Henriette.	
+119	爱衣	更详细的作战情报会在路上传达给大家。	更詳細的作戰情報會在路上傳達給大家。			More details will be sent to you when you're en route.	
+120	爱衣	现在马上出发！把东西给我抢回来！！	現在馬上出發！把東西給我搶回來！！			Now, go! Get all the tempura back!	
+121	N/A@众人	是！	是！			Yes, Ma'am!	
+122	N/A	……	……			...	
+123	N/A	…………	…………			...	
+124	莉琉	大概就是这样的情况了……	大概就是這樣的情況了……			That's about it...	
+125	莉琉	（本想通过观测平行世界对未来的作战提供更多情报）	（本來想透過觀測平行世界對未來的作戰提供更多情報）			(I meant to get more information for future combat by observing the parallel world...)	
+126	莉琉	（结果都是些奇奇怪怪的东西啊……）	（結果都是些奇奇怪怪的東西啊……）			(But oh my... What have I seen?...)	
+127	莉琉	（下次观测…只能一年后了吗）	（下次觀測……只能一年後了嗎）			(So, I have to wait a year before making another observation?)	
+128	小怜	哈…那个世界好像都没有我存在的样子啊。	嗄……那個世界好像都沒有我存在的樣子啊。			In that world, I don't seem to exist, huh?	
+129	莉琉	嗯…	嗯……			Looks that way...	
+130	莉琉	（八成那个偷吃炸虾的人就是“另一个”小怜吧）	（八成那個偷吃炸蝦的人就是「另一個」小憐吧）			(But Ren's a lot like that agent who ate the shrimp tempura...)	
+131	莉琉	（我和小怜在那个世界…没能“活下来”吗？）	（我和小憐在那個世界……沒能「活下來」嗎？）			(Ren and I... Will we be able to survive in that parallel world?)	
+132	莉琉	（所以爱衣成为了SID的“Madam”…）	（所以愛衣成為了SID的「Madam」……）			(And Aya is the "Madam" of the SID in that world...)	
+133	安妮	不过照莉琉小姐的描述，"魔女小队"里有很多从未听说过的人呢。	不過照莉琉小姐的描述，「魔女小隊」裡有很多從未聽說過的人呢。			Mariru, based on what you told us, there are a lot of members in the Witch Squad that we don't know.	
+134	莉琉	世界线收束的影响下，小怜大概率会与她们相遇的。	在世界線收束的影響下，小憐很有可能會與她們相遇的。			According to the World line theory, Ren will probably meet them sooner or later.	
+135	小怜	唔……那按照这个说法，她们应该都是我们的友方吧！	唔……那按照這個說法，她們應該都是我們的友方吧！			Oh... But at least, they'll all be our allies, right?	
+136	小怜	完全不想和她们产生暴力冲突啊……啊哈哈。	完全不想和她們產生暴力衝突啊……啊哈哈。			I don't want to get on the wrong side of those people... If you know what I mean...	
+137	莉琉	不能这么说啊~毕竟被卸掉两条腿爱衣也有办法装回去，不会影响到世界线的走向。	不能這麼說啊～畢竟被卸掉兩條腿愛衣也有辦法裝回去，不會影響到世界線的走向。			What, you're scared of them? Don't be! You'll be fine even if someone removes both of your legs...	
+138	小怜	卸、卸掉…？！想想就疼死了啊！	卸、卸掉……？！光想就痛死了啊！			Re-Remove? Sounds painful!	
+139	伊露卡	哦…！腿是装饰！	哦……！腿是裝飾！			Legs are for decoration, right?	
+140	安妮	好啦~莉琉姐和伊露卡今天就不要一直欺负小怜了吧~	好啦～莉琉姐和伊露卡今天就不要一直欺負小憐了吧～			All right, Mariru, Elluka. Give Ren a break today, maybe?	
+141	莉琉	是呢~今天可是小怜的“好日子”啊~	是呢～今天可是小憐的「好日子」啊～			Right! Today's Ren's "big day!"	
+142	小怜	斯库尔德和拉斐尔都来的话…法贝拉和瑟蕾莎也会来吧！	斯庫爾德和拉斐爾都來的話……法貝拉和瑟蕾莎也會來吧！			If both Skuld and Raphilia will come, Fabella and Theresa will probably join too!	
+143	莉琉	嗯，贝阿特丽切迟一些也会到场，白烛也给你发过信息吧。	嗯，貝阿特麗切晚一些也會到，白燭也傳訊息給妳了吧。			Beatrice will arrive a bit later. And Beth, she texted you, right?	
+144	莉琉	没想到才过了这么一点时间…小怜也算是“后宫成群”了吧？	沒想到才過了這麼一點時間……小憐也算是「後宮成群」了吧？			It didn't take Ren long to make this many "girlfriends," hahaha!	
+145	莉琉	嗯哼~还真有点…“魔女小队”的意思哦？	嗯哼～還真有點……「魔女小隊」的意思哦？			Enough girlfriends to form a "Witch Squad!"	
+146	小怜	噫…那个说法不知道为什么超羞耻，所以请不要再说了！	噫……那個說法不知道為什麼感覺超羞恥，所以請不要再說了！			Please stop! That name makes me feel embarrassed for some reason...	
+147	伊露卡	姆…小怜姐姐…该出发了…	嗯……小憐姐姐……該出發了……			All right, Ren. Let's go!	
+148	N/A	安妮抱过伊露卡，仔细的擦掉少女嘴角的巧克力。	安妮抱過伊露卡，仔細地擦掉少女嘴角的巧克力。			Annie lifts up little Elluka and carefully wipes the chocolate off her face.	
+149	N/A@小怜&安妮	呐，莉琉姐？	嗯，莉琉姐？			Mariru?	
+150	莉琉	好~！我们现在就出发！	好～！我們現在就出發！			OK! Let's go!	
+151	莉琉	今晚一定不醉不归啊！！	今晚一定不醉不歸啊！！			Let's all get hammered tonight!	
+152	小怜	我们根本不能喝酒吧！！！	我們根本不能喝酒吧！！！			We can't drink alcohol... Last time I checked...	
+153	N/A	Δ？？  未知地点	Δ？？  未知地點			Δ?? Unknown location?	
+154	雅各	可恶的SID狗……竟敢一次次阻挠我。	可惡的SID狗……竟敢一次次阻撓我。			Damn SID... Always getting in my way!	
+155	雅各	你这家伙，再表演一下那个！	你這傢伙，再表演一下那個！			You, do that thing again!	
+156	蒙面人首领	嗯？！还要来吗！！	嗯？！還要來嗎！！			Huh? You sure?!	
+157	雅各	对，就那个，快点！	對，就那個，快點！			Yes, I'm sure. Just do it!	
+158	蒙面人首领	………………	………………			…	
+159	蒙面人首领	就由我来分离，这不洁之物！！	我來分離吧！ 這不潔之物！ ！			To split this filthy thing into parts. I shall do it!	
+160	N/A@蒙面人首领&雅各	HAHAHAHA	HAHAHAHA			HAHAHAHA	
+161	蒙面人首领	就由我来分离，这不洁之物！！！！	我來分離吧！ 這不潔之物！ ！			To split this filthy thing into parts. I shall do it!	
+162	N/A@蒙面人首领&雅各	HAHAHAHAHAHAHA	HAHAHAHAHAHAHA			HAHAHAHAHAHAHA	
+163	蒙面人首领	就由我来分离，这不洁之物！！！！！！！！	我來分離吧！ 這不潔之物！ ！			To split this filthy thing into parts. I shall do it!	
+164	N/A@蒙面人首领&雅各	HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA	HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA			HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA	
+165	N/A@蒙面人首领&雅各	HAHAHAHAHAHAHAHAHAHAHAHAHA	HAHAHAHAHAHAHAHAHAHAHAHAHA			HAHAHAHAHAHAHAHAHAHAHAHAHA	

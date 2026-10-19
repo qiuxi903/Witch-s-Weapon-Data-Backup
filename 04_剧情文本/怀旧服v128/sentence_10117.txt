@@ -1,0 +1,63 @@
+﻿1	N/A	不愧是超——有名（钱）的学校！\n餐厅里的食物种类丰富到让人想流泪。	不愧是超——有名（錢）的學校！ \n餐廳裡的食物種類豐富到讓人想流淚。	さすが超～～有名（で金持ち）の学校ッ！\n食堂のメニューは涙が出るほど盛りだくさんだ！	역시 유명한(부자) 학교는 다르구나!\n식당에 음식 종류가 너무 많아 눈물이 나올 지경이야.	This is what a rich school should be like! \nLook at these mouthwatering food in the canteen.	
+2	小怜	您好！请给我一份咖喱饭套餐，三个炸鸡翅。	您好！ 請給我一份咖哩飯套餐，三個炸雞翅。	おばちゃ～ん！\n\nカレーライス定食を1つと、\nフライドチキン3つください！	안녕하세요！카레 세트 하나랑 치킨 날개 3개 주세요.	Hi! I'd like a curry rice set and three fried chicken wings.	
+3	小怜	今天的虾饼看上去也不错呢，麻烦给我两块吧。	蝦餅看起來也不錯呢，麻煩也給我兩塊。	う～ん　エビ餅も美味しそう。\n追加で2つエビ餅も！	새우 튀김도 맛있어 보이네요! 두 개만 주세요! 	The prawn cakes look good. I'll have two please.	
+4	N/A@食堂员工	小姑娘，你一个人能吃完吗？	小妹妹，妳一個人吃得完嗎？	お、お嬢ちゃん。1人で全部食べきれるのかい？	아가씨，혼자서 다 먹을 수 있겠어? 	Are you sure you can finish all these?	
+5	小怜	当然没问题~	沒問題的~	もちろん、全然大丈夫ですよ～。	당연하죠~	Sure, piece of cake!	
+6	N/A@同学甲	喂喂，你们看那边那个女生，一个人居然能吃这么多东西。	喂喂，妳們看那邊那個女生，居然能吃這麼多東西。	ねえねえ見てよ、あそこの女の子……\n1人であんなに食べるって……	야，저쪽에 저 여자애 말이야. 혼자서 엄청 많이 먹어. 	Hey, look! That girl is eating like a horse.	
+7	N/A@同学乙	看不出来啊，难道是大胃王吗？	看不出來啊，難道是大胃王嗎？	そんな風には全く見えないけど、\nものすごい大食いなのかしら？	그렇게 안 보이는데. 설마 대식가인가?	Unbelievable… Does she always eat that much?	
+8	小怜	(……以男生的食量来说，这些不是正常范围的吗？)	（嗯？ 以男生的食量來說，這些不是正常的食量嗎？ ）	（………俺はいつもこれぐらい食べるけど、\n　このぐらいって普通の範囲じゃないの？）	(……보통 남자들은 이 정도 먹지 않나?)	(… I'm a boy, okay? This is normal.)	
+9	安妮	嘿嘿，大家一定都很羡慕你\n能吃这么多食物还长不胖~	嘿嘿，大家一定都很羨慕妳，\n吃這麼多食物還長不胖～	あはは、みんなレンちゃんを羨ましがってるのよ\nきっと。\nそんなに食べても太らないのかな～～ってね。	헤헤，다들 널 부러워 할 거야\n이렇게 많이 먹는데도 살이 찌지 않잖아~	You know, people envy you. \nYou eat a lot without gaining weight…	
+10	小怜	这是什么值得羡慕的事情吗？\n唔哇！虾饼的味道……果然超棒啊！	這哪是什麼值得羨慕的事情。 \n唔哇！ 蝦餅的味道……果然超棒啊！	そんなに羨ましがられる事か？\nうわっ！　このエビ餅……やっぱ最高っ！	그게 부러운 일이야？\n우와！새우튀김……역시 맛있어！	Nothing special. \nHmmmmm! The prawn cakes are so delicious!	
+11	安妮	那个，小怜……	那個，小憐……	あのね、レンちゃん………	저기，렌……	Well, Ren…	
+12	小怜	肿么啦？（嚼）\n这个咖喱饭也吼吼吃啊~（嚼）	腫麼啦？ （嚼）\n這個咖哩飯也吼吼吃啊~（嚼）	どうしたの？　モグモグッ。　ふおぉぉ\nこの、ハグッ、カレーライスも美味い～～ッ。	왜？（쩝쩝）\n이 카레 엄청 맛있다아~（쩝쩝）	What? (Munches) \nThe curry rice tastes soooo good! (Gulps)	
+13	小怜	唔已经耐上这学校啦！（嚼）	唔已經耐上這學校啦！ （嚼）	うん、これなら、パクッ\nこの学校に通うのも、ンク、ンク\n……プハァッ、悪くないねっ！	나 이제 이 학교에 적응된 것 같앙!\n（쩝쩝）	I love this school! (Slushes)	
+14	安妮	小怜吃东西的样子，果然非常豪爽呢！	小憐吃東西的樣子，果然非常豪爽呢！	レンちゃんの食べっぷりは、やっぱ豪快ね！	렌은 정말 맛있게 먹는구나! 	You really eat like a horse, do you?	
+15	小怜	哎？	哎？	え？	에?	Eh?	
+16	N/A@同学甲	那是新转学来的学生吗？	那是新來的轉學生嗎？	新しく入った転校生って……あの子？	저 애，새로 전학 온 학생 아니야? 	Is she the new transfer student?	
+17	N/A@同学乙	行为举止完全不像女生啊……\n哇还分开腿坐！	行為舉止完全不像女生欸……\n哇，坐著時腿還張那麼開！	何と言うか、\n振る舞いが女の子っぽくないわね……\nわわっ、脚を開いて座ってるわ！	행동이 여자 같지 않아……\n와，다리를 벌리고 앉아 있어!	Doesn’t look like a girl at all… \nEww, spreading her legs when sitting. That’s gross!	
+18	小怜	……可恶。	……可惡。	……くそぉ。	……이런.	… This really sucks.	
+19	小怜	呜呜呜~	嗚嗚嗚～	ううう～～	흑흑흑~	Boohoo…	
+20	小怜	似乎……吃不下了……	似乎……吃不下了……	なぜかもう……食べられない……	…더 이상 못 먹겠어…	Well… I'm done eating…	
+21	安妮	这才是女孩子的正常范围啦。	這才是女孩子正常的食量啦。	それでこそ、女の子の普通の範囲だよ。	그게 바로 여자아이들의 정상 범위지. 	That’s how much a girl would eat.	
+22	小怜	我以前可是一顿能吃上两天的份量\n然后慢慢消化的……	我以前可是一次能吃上兩天的份量，\n然後再慢慢消化的……	昔は1食で2日分の量を食べる事ができたのに。\n\nそれを2日かけてゆっくり消化したりして……	예전엔 한 번에 2일치를 먹었다가 천천히 소화했었는데…	I used to be a big eater! \nI could eat as much as I can and take my time to digest…	
+23	安妮	嗤……哈哈哈！\n你是骆驼吗？干嘛这么拼命啊。	嗤……哈哈哈！ \n妳是駱駝嗎？ 幹嘛這麼拼命吃啊。	あっははは！\nレンちゃんラクダじゃないんだから！\nなんでそんなに必死に食べてたの？	……하하하！\n네가 낙타야? 왜 그리 필사적이야.	Hahaha…! Are you really a horse? Why would you do that?	
+24	小怜	因为……小时候经常不知道下次什么时候能有吃的。	因為……小時候經常不知道下次有得吃是什麼時候。	だって……小さい頃にお腹一杯食べられるのは、今度、いつになるか……分からなかったから。	왜냐하면……어렸을 때는 언제 음식을 먹을 수 있을지 몰랐거든.	Probably because... I went hungry quite too often when I was a kid.	
+25	N/A	埃癸斯只能识别和屏蔽武器的射出的子弹，但手持武器的士兵却能轻易进入防护力场。	埃癸斯只能識別和抵擋武器所射出的子彈，但手持武器的士兵卻能輕易進入防護力場。	イージスは武器から射出された弾であれば\n識別して遮蔽できるが、\n武器を手に持っている兵士は、\n簡単に防御フィールド内に入れてしまう。	아이기스는 발사된 탄알만을 식별해 막을 수 있었기에 무기를 든 사병들은 손쉽게 보호 역장에 들어왔다. 	Aegis can only identify and shield bullets. This means, armed soldiers can easily penetrate its force field.	
+26	N/A	所以半径35km的力场边界，成为了当时几百万幸存者的最后防线。	所以半徑35公里的力場邊界，成為了當時幾百萬倖存者的最後防線。	だから半径35㎞のフィールドの境界線は、当時\n数百万いた生存者の最終防衛ラインだった。	그래서 반경 35km 역장의 변경 지역은 당시 수백만 생존자들의 마지막 방위선이 되었다.	The force field has a radius of 20 miles, effectively the last ditch for millions of survivors back then.	
+27	N/A	战争制造了太多孤儿，忙于组织防御的元老院只能给每个保育学校发放有限的配额。	戰爭創造了太多孤兒，忙於組織防禦的元老院只能為每間保育學校分配有限的配額。	戦争はたくさんの孤児を作り出した。だけど\n自衛の手配だけで手一杯だった元老院は、\n保育学校の限られた配給を、\nさらに制限してしまったんだ。	전쟁은 수많은 고아를 만들었으나，방어에 급급한 원로원은 각 보육 학교에 제한된 지원금만 지급했다，	The war left behind so many orphans. Organizing the defense weighed the Senate down. So, supplies to each nursery school were heavily rationed.	
+28	N/A	我和很多小孩为了填饱肚子，经常要到边界的战区去寻找食物……	我和很多小孩為了填飽肚子，經常要到邊界的戰區去尋找食物……	俺を含めて、多くの子供達はお腹を満たすため、\nいつも境界の戦闘地域にすら、\n食べ物を探しに行かなければならなかった。	나와 많은 아이들이 배를 채우기 위해 변방의 전장으로 가서 음식을 찾아다녔다……	Many kids were starving and had to look for food in the war zone near the boundary. I was one of them…	
+29	安妮	……小怜	……小憐。	レンちゃん……	……렌	… Ren.	
+30	安妮	我知道啦，但也不能撑坏自己嘛。	這些我知道，但也不能撐壞自己啊。	分かったわ……\nでも食べ過ぎて自分を壊すような事はしないでね	알겠어. 하지만 너무 많이 먹으면 탈이 날 거야.	I understand your feelings. Just… don't overeat now.	
+31	N/A	安妮应该也经历过那段历史吧……	安妮應該也經歷過那段歷史吧……	時間を飛び越えたとは言え、アニーもそんな\n歴史を少なからず体験したのかもしれない……	앤도 그런 역사를 경험했겠지…?	Annie may have also lived through those days…	
+32	安妮	呐~放学之后我带你去吃甜品吧！	……放學之後我帶妳去吃甜點吧！	ねぇ、放課後、スイーツでも食べにいかない？	수업이 끝나면 디저트를 먹으러 가자! 	Hey, let's grab some desserts after school!	
+33	小怜	……嗯！	……嗯！	……うん！	……응!	… Okay!	
+34	安妮	今天难得空闲能和小怜逛街呢~	今天難得有空能和小憐逛街呢～	せ～っかく今日は暇なんだし、レンちゃんと\nぶらぶら歩くのもいいね～～	오늘 드디어 렌과 한가롭게 쇼핑을 할 수 있겠어~	We rarely have free time to go out like this, Ren.	
+35	小怜	之前我都没来过这种店……\n（周围都是女生啊，有点不自在……）	之前我都沒來過這種店……\n（周圍都是女生啊，有點不自在……）	今までこんな店、来た事なかったけど………\n（周りが全員女の子で、なんだか窮屈……）	이런 가게는 와본 적이 없는데…\n（모두 여자들 뿐이다. 조금 불편한 걸……）	It's actually my first time to be in this kind of restaurant… \n(Feeling slightly uneasy with girls all around…)	
+36	安妮	看看菜单……我要这个！\n蓝莓雪芭超级碳酸特饮DX！！	我看一下菜單……啊！ 我要這個！ \n藍莓冰沙超級碳酸特飲DX！ ！	メニューを見てみて……私はこれに決定！\n\nブルーベリーシャーベットスーパー炭酸\n特製ドリンクDXッ！！	어디 보자……난 이거！\n블루베리 소르베 슈퍼 탄산 스폐셜 음료DX！！	Alright, let’s see… well, I'll have this one! \nBlueberry Ice Cream Parfait Super Soda Special Drink DX!	
+37	安妮	名字就好帅气~	妳不覺得光名字就超帥氣嗎？	名前がすでにカッコいいっ。	멋있는 이름이야~	The name sounds really cool!	
+38	小怜	安妮还真是孩子气呢~	安妮還真是孩子氣呢～	アニーは本当、子供っぽいなぁ～～	앤은 정말 어린아이 같아~	You're really a child, Annie.	
+39	小怜	我要咖啡就行啦……	我要咖啡就好……	俺はコーヒーでいいよ……	나는 커피 마실게…	I'll just have coffee…	
+40	安妮	小怜现在可是女孩子呢。\n那些甜食很美味的哦~不试试看吗？	小憐現在可是女孩子呢。 \n那些甜點很美味哦～不試試看嗎？	レンちゃん、今、女の子なんだよ？\n甘いデザートは美味しいよぉ～～\nねぇ、食べてみない？	렌은 지금 여자잖아.\n디저트들은 정말 맛있다고~ 한 번 먹어보는 게 어때?	Ren, you're a girl now. \nDon't you wanna try some desserts? They're very delicious!	
+41	小怜	嗯……我看看\n抹茶拿破仑芝士松饼……（还，还不错嘛）	嗯……我看看。 \n抹茶拿破崙起士鬆餅……（好像還、還不錯嘛）	え、あ、う……えっと\n抹茶ナポレオンチーズワッフル……\n（ま、まあまあ悪くないね）	응……그럼\n말차 치즈 와플……（마，맛있겠다）	Okay… let me check. \nEmm… Matcha Napoleon Cheese Muffin… (Not bad.)	
+42	小怜	皇家香橙蜜饯奶油蛋糕……\n（看起来……也很美味啊）	皇家香橙蜜餞奶油蛋糕……\n（這個看起來……也很美味啊）	ロイヤルシロップ漬けオレンジクリームケーキ…\n\n（見た目は……美味しそうだけど）	로얄 오렌지 생크림 케익……\n（이것도 맛있겟다……）	Royal Candied Orange Cream Cake… (Looks yummy too…)	
+43	小怜	热带盛宴冰果圣代……\n（吞口水）	熱帶盛宴冰果聖代……\n（吞口水）	トロピカルゴージャスフルーツサンデー……\n\n（じゅるり）	열대 후르츠 선데……\n（꼴깍）	Tropical Feast Iced Fruits Sundae… \n(Gulps)	
+44	N/A@服务员	这位客人，请问您决定好点什么了吗？	這位客人，請問您決定好點什麼了嗎？	お客様、ご注文はお決まりでしょうか？	손님，주문하시겠어요? 	Excuse me… Have you made up your mind?	
+45	小怜	啊，那个！\n我还是……要咖啡就好了。	啊，那個！ \n我還是……要咖啡就好了。	あ、あの！\n……やっぱり俺はコーヒーでいいです。	아，저기！\n그냥……커피 마실게요. 	Well… Ummm \nmaybe… just coffee… thanks…	
+46	N/A@服务员	好的，请稍等。	好的，請稍等。	かしこまりました。少々お待ちください。	네，잠시만요.	Alright.	
+47	小怜	嗯……	嗯……	うん……	네…	Well…	
+48	小怜	请稍等！还、还是要一份…\n蓝莓慕斯草莓冰激凌巴菲吧……	請稍等！ 還，還是要一份…\n藍莓慕斯草莓冰淇淋百匯吧……	ちょ、ちょっと待ってっ！\nや、や、やっぱり……\nブルーベリームースの苺アイスパフェにします…	잠시만요! 그리고…\n블루베리 무스 딸기 파르페도 주세요……	Uhh, wait! I changed my mind… \nA Blueberry Mousse Strawberry Ice Cream Parfait please…	
+49	小怜	我、我只是试试看啦！\n以前只见女同学吃过这种……	我，我只是試試而已喔！ \n以前看過女同學吃過這種……	お、俺はただ試してみるだけだからっ！　\n\n前にクラスメートの女の子が食べてるのを、\n見た事があって……	그，그냥 먹어보는 거야! \n예전에 친구가 먹는 걸 본 적 있어……	I just wanna have a taste of it! \nI only saw girls eat them before…	
+50	安妮	嘿嘿~不用跟我解释的啦	嘿嘿～小憐不用跟我解釋啦～	ふっふ～～説明しなくてもいいよっ。	헤헤~나한테 설명할 필요 없어.	Aha, no need to explain.	
+51	N/A@服务员	久等了，这是您的甜品。	久等了，這是您的甜點。	お待たせしました。\nこちらがご注文の品でございます。	오래 기다렸습니다. 여기 디저트 나왔어요. 	Sorry to keep you waiting. Here’s your order.	
+52	小怜	这个…我可以吃了吗？	這個……我可以吃了嗎？	あのぅ……もう食べていいですか？	저…먹어도 될까?	Thanks!	
+53	N/A@服务员	请用。	請用。	──？　どうぞ、お召し上がりください。	맛있게 먹어.	Enjoy!	
+54	小怜	那我开动了！	那我開動了！	じゃあ、いただきますっ！	그럼 잘 먹겠습니다 ! !	Okay, ready to go!	
+55	小怜	……	……	…………	……	…	
+56	小怜	好、好美味…！！	好、好好吃……！ ！	う、美味いぞ……っ！！	마，맛있어…！！	Yum… yummy..!!	
+57	小怜	新鲜草莓的香气和甜甜的奶油，再加上微酸的蓝莓慕斯……非常的好吃呢~	新鮮草莓的香氣和甜甜的奶油，再加上微酸的藍莓慕斯……超好吃的～	新鮮な苺の香りと甘いクリーム、\nちょっと酸っぱいブルーベリームースと……\n本当、すごく、美味い……っ！！	신선한 딸기 향기와 달콤한 크림，새콤한 블루베리 무스까지…정말 맛있어~	The strawberry smells so fresh. The cream is really sweet. And the blueberry mousse, a bit sour but really tasty…	
+58	N/A	才发现安妮饶有兴致的看着我陶醉的表情，有点不好意思	我現在才發現安妮興致勃勃地看著我陶醉的表情，突然有點不好意思。	気付いたら、夢中になっている俺の表情を\nアニーが興味津々と見ていた。\n──ちょっと、恥ずかしい。	앤이 흥미롭다는 표정으로 도취한 나의 표정을 보고 있는 걸 알고 조금 부끄러워졌다.	I feel a bit embarrassed when I find Annie staring at me.	
+59	小怜	其实…这些女孩子常去吃的东西是什么味道\n我一直都想知道呢。	其實……我一直很想知道，\n這些女孩子常吃的東西是什麼味道。	本当は……こういう女の子がよく食べるものって\nどんな味か。ずっと気になってました……	사실…여자애들이 좋아하는 음식은 무슨 맛일까 계속 궁금했었거든.	Girls love these desserts. I've always wanted to know \nhow they taste.	
+60	安妮	欸嘿嘿~~\n果然小怜……	欸嘿嘿～～\n小憐果然……	あ、あああ……\nレンちゃんってやっぱり……	에헤헤~~\n역시 렌은……	Bahaha… \nRen, you're so...	
+61	小怜	嗯？	嗯？	うん？	응?	Hmm?	
+62	安妮	很可爱呢~~	很可愛呢～	可愛いね～～	너무 귀여워~~	So lovely!	
+63	小怜	你…你在说什么啦突然就…！！	妳……妳突然說這個幹嘛……！ ！	な、何を言うんだ、いきなり……っ！！	무…무슨 말이야，갑자기…！！	Wh… what are you talking about…!	

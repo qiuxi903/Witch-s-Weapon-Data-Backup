@@ -1,0 +1,2 @@
+ID,weapon_attack_modulus,weapon_spell_level,min_level,levelup_gold,levelup_exp,,,,,,
+long,int,int,int,int,int,,

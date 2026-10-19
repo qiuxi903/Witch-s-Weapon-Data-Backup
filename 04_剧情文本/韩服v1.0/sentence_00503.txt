@@ -1,0 +1,5 @@
+﻿1	引导精灵	这倒是个新面孔，让我们来了解一下。	這倒是個新面孔，我們來瞭解一下吧。	どうやら新しい敵のようね。	오!처음 보는 얼굴이네. 정보를 같이 확인해 보자.	Hmm... That's a new face! We should take a look first.	
+2	FocusTrigger	
+3	N/A	从敌人信息来看，对手的物防很高！用魔法攻击试一下！	從敵人資訊來看，對手的物防很高！用魔法攻擊試一下！	敵のステータスは物理防御が高いわね！\n魔法攻撃を使ってみよう♪	정보를 보면 상대의 물리방어가 엄청 높아!마법공격을 해봐!	Based on enemy info, your opponent has high Physical Defense. Try hitting this enemy using magic attacks!	
+4	FocusTrigger	
+5	引导精灵	点击雾夕切换到[ff9c00]影御币[-]试试看！	點擊霧夕切換到[ff9c00]影御幣[-]試試看！	魔法攻撃を使うなら、霧夕を\nタップして[ff9c00]影御幣[-]に切り替え\nよう！	키리세키의 [ff9c00]고헤이[-]를 사용해봐！	Tap Kiriyu and switch to [ff9c00]Shadow Gohei[-].	

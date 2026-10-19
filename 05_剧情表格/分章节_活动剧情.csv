@@ -1,0 +1,688 @@
+﻿文件,编号,章节,行号,说话人,简体中文,繁體中文,日本語,한국어,English
+sentence_31101,31101,活动剧情,﻿1,N/A,咚咚咚──！！\n咚咚咚──！！,咚咚咚──！！\n咚咚咚──！！,ドンドンドン――！！\n\nドンドンドンドン――！！,,*Knock knock*!!\n*Knock knock*!!
+sentence_31101,31101,活动剧情,2,N/A,雕刻繁复精美的木质大门传出一阵急促的敲击声，镶在门板上的镀金包边被震得有些松动。,雕刻繁複精美的木質大門傳出一陣急促的敲擊聲，鑲在門板上的鍍金包邊被震得有些鬆動。,精巧な彫刻をあしらった木製扉を、\n激しく叩く音が聞こえる。\n扉の上にある鍍金は振動によって、そろそろ\n剥がれそうになっている。,,"Someone is knocking on the wooden door with intricate carvings. They're knocking hard, to the point that its golden foil is trembling."
+sentence_31101,31101,活动剧情,3,N/A@侍卫长,奥古斯塔陛下，请不要让我们为难。,奧古斯塔陛下，請不要讓我們為難。,……オーガスタ陛下。\n我々を困らせないでいただきたい。,,"Your Highness! Don't do this to us, please."
+sentence_31101,31101,活动剧情,4,N/A,一个低沉的男声说道──,一個低沉的男聲說道──,扉の外にいる、声の低い男が話し始めた。,,A deep male voice is heard:
+sentence_31101,31101,活动剧情,5,N/A@侍卫长,宰相大人的命令，请您尽快前往镜厅。,宰相大人命令您盡快前往鏡廳。,宰相様のご要望です。\n早く鏡の間へとお越し下さい。,,The prime minister has ordered us to escort you to the Hall of Mirrors as soon as possible.
+sentence_31101,31101,活动剧情,6,N/A@侍卫长,弗雷德里希大公和他的长子已经等候多时了……,弗雷德里希大公和他的長子已經等候多時了……,フリードリヒ大公と彼の長子を、\n長らくお待たせしているのですから。,,The Grand Duke and his eldest son have been waiting...
+sentence_31101,31101,活动剧情,7,N/A,门外男性的话语，在保持着恭敬的同时透出一种强制和威胁的味道。,門外男性的語氣，聽得出來是盡量在以恭敬的態度壓抑住強制和威脅的意味。,敬意の他に強制と脅迫の意も、男の言葉から\n感じ取る事ができる。,,"The voice outside the door seems to be ""telling"" rather than ""asking."""
+sentence_31101,31101,活动剧情,8,奥古斯塔,嘁──,呿──,むぅ──,,Tch...
+sentence_31101,31101,活动剧情,9,奥古斯塔,连我的禁卫都被换掉了吗……,連我的禁衛都被換掉了嗎……,すでに私の近衛兵ですら異動命令を受けて\nしまったか……,,"They even changed my personal guards, I see..."
+sentence_31101,31101,活动剧情,10,奥古斯塔,金发少女眉头微皱，她正了正领口，看着卧室墙边巨大更衣镜中的自己，握紧了手中的权杖──,金髮少女眉頭微皺。她整理了一下領口，看著臥室牆邊巨大更衣鏡中的自己，握緊了手中的權杖──,金髪少女は少し眉をひそめながら襟を正した。\n\n寝室の壁にある鏡に映った自分を見つめ、\n手の中にある王笏を握りしめる。,,"The blond girl frowns. She adjusts her clothes and looks at herself in the giant dressing mirror, holding her scepter tightly."
+sentence_31101,31101,活动剧情,11,奥古斯塔,这是她身为国家最高元首和军队最高统帅的象征。,這是她身為國家最高元首和軍隊最高統帥的象徵。,この王笏は彼女が国家最高元首、\nおよび軍隊最高統帥を務めているという象徴だ。,,The scepter is the symbol of the Head of State and commander-in-chief.
+sentence_31101,31101,活动剧情,12,奥古斯塔,（至少是在名义上……）,（至少是在名義上……）,（だけど、あくまで名義上……それだけ）,,"(In name, at least...)"
+sentence_31101,31101,活动剧情,13,N/A,当下，那些贵族和大臣们还不能撤掉这个他们在几年前强加给自己的头衔。,目前，那些貴族和大臣還無法撤掉這個頭銜，這個他們在幾年前強加她身上的頭銜。,数年前、自分に押し付けられた肩書きは\nあまりにも重かった。\n貴族や大臣達でも今さら撤回するのは\n不可能であろう。,,"Right now, the nobles and ministers can't yet strip her of the title they forced on her a few years ago."
+sentence_31101,31101,活动剧情,14,N/A,虽然这更像是她一直都试图摆脱的枷锁。,雖然是頭銜，但更像是她一直試圖擺脫的枷鎖。,そうと分かっていようとも、千切れないこの枷は\n彼女にとって邪魔にしかならない。,,"Though to her, the title is more like a pair of shackles she's been trying to escape from."
+sentence_31101,31101,活动剧情,15,N/A,每当奥古斯塔以这样的身份和姿态出现在战争动员会或阅兵式上，人们便会立刻兴奋起来──,每當奧古斯塔以這樣的身分和姿態出現在戰爭動員會或閱兵典禮上，人們便會立刻興奮起來──,軍の慰問や閲兵式などでも、この身分と姿さえ\nあれば人々は容易く歓喜する。,,People get excited when they see the majestic Augusta in war mobilizations and military parades.
+sentence_31101,31101,活动剧情,16,N/A,那些年轻的士兵，好像迫不及待的想沉浸在虚假的概念和符号带来的满足感和认同感里。,那些年輕的士兵，好像迫不及待地想沉浸在虛假的概念和符號所帶來的滿足感和認同感之中。,若き兵士達は虚偽の概念とシンボルに浸り、\n一刻でも早く満足感と一体感を得たいだけ。,,"Young soldiers, especially, seem to be eager to immerse themselves in the satisfaction from those false concepts and symbols."
+sentence_31101,31101,活动剧情,17,N/A,她一直都无法理解，为什么总有些人会在那种氛围下激动到热泪盈眶，争相发誓要永远效忠。,她一直都無法理解，為什麼總有人會在那種氛圍下激動到熱淚盈眶，爭相發誓要永遠效忠。,オーガスタには到底理解できなかった。\n\nなぜ人々は雰囲気だけで感動し、涙を流しながら\n忠誠を誓うだろか。,,"She can't understand how anyone would be spurred on in such circumstances, pledging their loyalty in tears."
+sentence_31101,31101,活动剧情,18,N/A,她也无法认同，一群素不相识的人只因自己继承了某种血脉，就恨不得立刻为她上前线赴死。,她也無法認同，只因為她繼承了某種血脈，一群素不相識的人就恨不得立刻為她上前線赴死。,そして、オーガスタは決して認めない。\n\n彼女の持つ血統と言う理由だけで、\n面識のない人々が喜び勇んで死地に赴く事を。,,"She also doesn't believe that people, who don't really know her, should die for her in wars just because she inherited the so-called ""noble"" blood."
+sentence_31101,31101,活动剧情,19,N/A,然而那些廉价的忠诚和热血就如恋人的誓言，当战争结束激情退去，便迅速被抛在脑后。,然而，那些廉價的忠誠和熱血就如戀人的誓言，當戰爭結束、激情退去，便迅速被拋諸腦後。,「忠誠」と「熱血」は薄っぺらい『恋の誓い』\nみたいなモノに過ぎない。\n戦争が終わって感情が落ち着けば、\n誰もが跡形もなく忘れてしまう。,,"In the end, once the war is over, the cheap loyalty and passion will all fade and be forgotten like lover's oaths."
+sentence_31101,31101,活动剧情,20,N/A,现在奥古斯塔只能孤身一人，面对那扇被缓缓打开的大门……,現在，奧古斯塔只能獨自一人面對那扇被緩緩打開的大門……,ここにいるのは、ひとりぼっちのオーガスタ……,,"Now, all by herself, Augusta will have to face what's behind the slowly opened door..."
+sentence_31101,31101,活动剧情,21,N/A,虽然握着权杖的手在隐隐发抖，但她依然鼓足勇气挺起自己娇小的身躯。,雖然握著權杖的手在隱隱發抖，但她依然鼓足勇氣挺直自己嬌小的身軀。,彼女は王笏を握る手の震えを隠しながら、\n小さな身体を精一杯、大きく見せようとする。,,"She pulls herself together, even though her hands are still shaking."
+sentence_31101,31101,活动剧情,22,N/A@侍卫长,陛下──,陛下──,陛下！！,,Your Highness!
+sentence_31101,31101,活动剧情,23,N/A,面色灰白的侍卫长推开卧室大门，奥古斯塔感到一股寒意涌来。,臉色灰白的侍衛長推開臥室大門，奧古斯塔感到一股寒意襲來。,顔面蒼白な近衛隊長官が寝室の扉を開けると、\nオーガスタは更に気を引き締めた。,,The Chief Guard pushes the bedroom door open. A chill sweeps over Augusta.
+sentence_31101,31101,活动剧情,24,N/A@侍卫长,您一会要去见自己的未婚夫，却还穿着军装，是想挑衅邦国制造外交事故吗。,您一會兒就要去見未婚夫了，卻還穿著軍裝，是想挑釁邦國製造外交事件嗎。,婚約者とお会いになる予定なのに、\n軍服を着てらっしゃるなど……\n無用な挑発行為はおやめください！\n外交問題へと発展させるつもりですか！？,,"Why are you in your military uniform? You'll meet your fiancé soon. Trust me, you don't want to give him the wrong impression and cause a diplomatic incident."
+sentence_31101,31101,活动剧情,25,奥古斯塔,少废话──！！,少廢話──！！,黙れッ！！,,How dare you tell me what to do!
+sentence_31101,31101,活动剧情,26,N/A,侍卫长疏离冷淡的语气让少女心中莫名火大，她一边怒斥一边用权杖底部敲击着地板。,侍衛長疏離冷淡的語氣讓少女心中燃起一股無名火，她一邊開口怒斥，一邊用權杖底部敲擊著地板。,近衛隊長官の冷たい言葉に、少女は怒りを\n露わにした。\n王笏の底部で床を叩きつけながら、\n彼女は思いの丈を言い放つ。,,Augusta doesn't like the Chief Guard's tone. She scolds him as she knocks the floor with her scepter.
+sentence_31101,31101,活动剧情,27,奥古斯塔,居然要我嫁给魏玛大公的那个笨蛋儿子……,居然要我嫁給魏瑪大公的那個笨蛋兒子……,かのヴァイマル大公の愚息と名高いあいつの元へ\n嫁げなどと……,,That schmuck son of the Grand Duke. You expect me to marry him?
+sentence_31101,31101,活动剧情,28,奥古斯塔,不怕婚礼当天我在所有人面前把他宰了吗？！,難道不怕我在婚禮當天，在所有人面前把他宰了嗎？！,結婚式の当日、来賓客の皆に\n殺人事件を披露する事となるぞ！！,,Aren't you afraid that I'll butcher him on our wedding day?
+sentence_31101,31101,活动剧情,29,奥古斯塔,跟俾斯麦说，让她自己嫁给大公的瘸腿小舅子去！,跟俾斯麥說，叫她自己去嫁給大公的瘸腿小舅子！,ビスマルクに通達しろ！！\n\n大義のために嫁げと言うのであれば、\n自ら嫁として大公の兄弟にでも嫁げば良いと！！,,Tell Bismarck to marry the cripple herself!
+sentence_31101,31101,活动剧情,30,N/A,侍卫长平静的注视着激动的奥古斯塔，片刻之后，转身对门口的女仆冷冷的吩咐道──,侍衛長平靜地注視著激動的奧古斯塔，片刻之後，轉身對門口的女僕冷冷地吩咐道──,オーガスタは冷静かつ威圧的に言葉を投げる。\n\nしかし近衛隊長官は何事もなかったかのように、\n付近で待機していたメイドへと指示を始めた。,,"The Chief Guard stares at Augusta calmly, then turns around and orders the maid."
+sentence_31101,31101,活动剧情,31,N/A@侍卫长,玛丽亚，你和这几个女官帮陛下更衣。,瑪麗亞，妳和幾個女官來幫陛下更衣。,マリア。貴女は女官と共に、陛下のお着替えを\n手伝いなさい。,,Maria! Help Her Highness get changed!
+sentence_31101,31101,活动剧情,32,N/A,为首的女仆赶忙答应，张罗着另外几个女仆将挂着淡蓝色蕾丝晚礼服的推车推进卧室。,為首的女僕趕忙答應，指揮另外幾個女僕將掛著淡藍色蕾絲晚禮服的推車推進臥室。,先頭に立つメイドが慌ただしく了承すると、\n他のメイド達も続々と動き始める。\n彼女達は淡青色のレースドレスをカートに乗せて\n寝室へと押し入ってきた。,,"In a hurry, the head maid pushes the cart into the bedroom. A blue lace dress is hanging on the cart."
+sentence_31101,31101,活动剧情,33,N/A,侍卫长回到走廊对两旁的人使了个眼色，几个女官分成两列进入卧室。,侍衛長回到走廊對兩旁的人使了個眼色，幾個女官分成兩列進入臥室。,廊下に戻った近衛隊長官は両側の部下に\n目配せをすると、\n隊列を組んだ他の女官も寝室へと突入してくる。,,The Chief Guard returns to the hallway and signals a few female officers.
+sentence_31101,31101,活动剧情,34,N/A,那些女官的制服裸露着胳膊，所有人都有一幅明显受过专业作战训练的矫健身形。,那些女官的制服裸露出手臂，所有人都有明顯受過專業作戰訓練的矯健身形。,肩だし制服を着ている女官達は、身のこなしから\n専門の作戦訓練を受けている事が伺えた。,,"The officers are all in uniform. Judging from their body shapes, they've all gone though intense military training."
+sentence_31101,31101,活动剧情,35,奥古斯塔,你、你们……,你、你們……,お、お前達……,,You... What do you want?
+sentence_31101,31101,活动剧情,36,N/A,奥古斯塔后退几步，女官们步步紧逼。,奧古斯塔後退幾步，女官們步步進逼。,数歩下がるオーガスタに、女官達が迫ってくる。,,"Augusta steps back, but the officers keep pushing forward."
+sentence_31101,31101,活动剧情,37,N/A,侍卫长回避到走廊上，淡然的望向窗外花园中整齐的银杏树，完全无视卧室传出的阵阵叫骂声。,侍衛長迴避到走廊上，淡然地望向窗外花園中整齊的銀杏樹，完全無視臥室傳出的陣陣叫駡聲。,寝室から廊下へと飛ぶ罵声。\n\nその全てを近衛隊長官は無視し、窓の外の花園に\n並んだ銀杏を淡然と眺めていた。,,"In the hallway, the Chief Guard looks at the ginkgo trees in the garden through the window, completely ignoring what's happening in the bedroom."
+sentence_31101,31101,活动剧情,38,N/A,虽然少女不停挥动着权杖，却还是被一步步逼到墙角──,雖然少女不停揮動著權杖，卻還是被一步步逼到牆角──,王笏を振り回す少女であったが、\nやがて壁の隅まで追い込まれてしまう。,,"Augusta keeps waving her scepter, but in the end, her back is against the wall."
+sentence_31101,31101,活动剧情,39,N/A,奥古斯塔意识到已没有退路，将权杖大力戳在地板墙壁的拐角处，打算做最后的抵抗。,奧古斯塔意識到已沒有退路，便將權杖大力戳在地板牆壁的轉角處，打算做最後的抵抗。,もう退路がないと気付いたオーガスタは、\n王笏で地面と壁の角を力いっぱい叩いて、\n最後の足掻きを見せる。,,"There's no other way out. Augusta slams her scepter on the floor by the wall with force, ready to fight with everything she's got."
+sentence_31101,31101,活动剧情,40,奥古斯塔,都给我……,都給我……,私から……,,You...
+sentence_31101,31101,活动剧情,41,奥古斯塔,滚开！！！！,滾開！！！！,離れろ――ッッ！！！,,Stay away from me!!!
+sentence_31101,31101,活动剧情,42,N/A,咯──\n咔咔──！！！！！,喀──\隆隆隆──！！！！！,ギギ――……\nピキピキ――……,,Hrgh?\n*crack crack*!!
+sentence_31101,31101,活动剧情,43,N/A,忽然，地板从权杖撞击的地方出现一个裂痕，并很快向四周蔓延出无数迸发着强光的裂缝。,忽然，地板被權杖撞擊處出現一道裂痕，且很快地向四周蔓延出無數迸發著強光的裂縫。,王笏に叩かれた地面が突然ひび割れ、\n無数の強い光を放つ裂け目が瞬間的に現れた。,,"All of a sudden, a crack appears on the floor where the scepter hit it, then quickly spreads, strong light shooting around from the many cracks."
+sentence_31101,31101,活动剧情,44,N/A,大地好似被某种巨大的力量挤压和撕扯，发出阵阵低沉的轰鸣，周围的空间也跟着变形扭曲。,大地像是被某種巨大的力量擠壓和撕扯，發出陣陣低沉的轟鳴，周圍的空間也跟著變形扭曲。,大地から響く低い轟声と共に、何なのかすらも\n分からない巨大な力に引き裂かれ、\n押し潰された周囲の空間は変形するかのように\n歪み始めた。,,"The floor, seemingly pressed by some strong force, starts to make a deep sound, the surrounding space twisted, as well."
+sentence_31101,31101,活动剧情,45,N/A,奥古斯塔看着几个女官的身体似乎被弯曲到不可思议的角度，她们却似乎并没有察觉。,奧古斯塔看著幾個女官的身體似乎被彎曲成不可思議的角度，但她們似乎並沒有察覺。,オーガスタの目には、不可思議な角度に歪曲する\n女官達の身体が映っている。\nしかし、女官達は何も気付いていない。,,"The bodies of the officers have been bent into unfathomable shapes. Except, they don't seem to notice it."
+sentence_31101,31101,活动剧情,46,N/A,同时房间内的空气似乎也瞬间变得稀薄起来，她感到呼吸困难，各种声音似乎都被拉得很远──,同時，房間內的空氣似乎也瞬間變得稀薄，她感到呼吸困難，各種聲音似乎都被拉得很遠──,呼吸する事自体が難しくなり、周囲の音も\n遠方から伝わって来るかのように聞こえた──,,The air inside the room gets thiner and thiner. Augusta is having trouble breathing—all the sounds seem to be getting further and further away.
+sentence_31101,31101,活动剧情,47,奥古斯塔,什么……？！,什麼……？！,なっ、なんだ……！？,,Huh?!
+sentence_31101,31101,活动剧情,48,N/A,看着几个女仆尖叫着跑出卧室，侍卫长立刻冲回房内。,侍衛長看到幾個女僕尖叫著跑出臥室，立刻衝回房內。,メイド数人が叫びながら逃げ出す様子を見て、\n近衛隊長官は大急ぎで寝室へと戻ってきた。,,"Seeing the maids rushing out the door in tears, the Chief Guard returns to the bedroom in a hurry."
+sentence_31101,31101,活动剧情,49,N/A@侍卫长,怎么回事！！？,怎麼回事！！？,い、一体どうしたッ！？,,What's going on?!
+sentence_31101,31101,活动剧情,50,N/A,在他踏入大门的一瞬间，整个房间就像被拉到极限的弓弦般──,在他踏入大門的瞬間，整個房間就像被拉到極限的弓弦般──,彼が部屋に踏み入った瞬間。\n\n部屋全体が限界まで引っ張られた弓弦のように\n拉げ──,,"The second he enters the door, he sees the entire room pulling, stretching, and warping back like the string of a bow—"
+sentence_31101,31101,活动剧情,51,N/A,所有扭曲的光影汇聚于一点，房里的光芒也忽然暗淡下来……,所有扭曲的光影匯聚於一點，房裡的光芒也忽然暗淡下來……,光と影が一点に収束した後、部屋内の灯りは\n暗闇に薄れていった……,,"The distorted light and shadows gathering at a single point, the room suddenly goes dark..."
+sentence_31101,31101,活动剧情,52,N/A,门外一个女仆满脸惊恐的瘫在地上，口中不断念着祈求神明拯救和宽恕的悼词。,門外一個女僕滿臉驚恐地癱在地上，口中不斷唸誦著祈求神明拯救和寬恕的禱告詞。,あまりの恐怖に腰を抜かしてしまったメイドの\n一人は、救いと許しを神に祈り始めている。,,"One maid outside the door is too scared to stand up. Kneeling on the floor, she's praying for salvation and forgiveness."
+sentence_31101,31101,活动剧情,53,N/A,巨大的不祥感降临在在场所有人心中。,在場所有人心中浮起一股巨大的不祥感。,その場にいる全員が、この現象は巨大な凶事だと\n本能で感じた。,,Extreme fear clouds everyone's mind.
+sentence_31101,31101,活动剧情,54,N/A,眼前的一切似乎都是在准备迎接某种远古邪恶存在的降临。,眼前的一切似乎是在準備迎接某種遠古邪惡存在的降臨。,まるで目の前は、太古の邪悪的な存在が\n降臨を迎えてしまったかのような光景だ。,,Everything they're witnessing seems like a prelude of the arrival of some ancient evil being.
+sentence_31101,31101,活动剧情,55,N/A,片刻沉寂之后，汇聚的黑点猛然炸裂开来。巨大的冲击席卷了目力所及的一切事物。,片刻沉寂之後，匯聚的黑點猛然炸裂開來。巨大的衝擊席捲了視力所及的一切事物。,──刹那の静寂。\n\nその後、収束した一点が突如爆発する。\n\n巨大な衝撃波が付近のあらゆる物へと\n襲い掛かってきた。,,"After a moment of silence, the gathered black spots suddenly burst open. The huge impact sweeps through everything."
+sentence_31101,31101,活动剧情,56,N/A,女仆、女官和侍卫长都感到灵魂在一刹那被震出体外，堕入了虚无之中。,女僕、女官和侍衛長都感到靈魂瞬間被震出體外，墮入了虛無之中。,まるで魂が身体の外に弾き飛ばされるかのような\n衝撃波だった。\nその場にいた全員が、虚無へと落ちたように\n感じる。,,"The souls of the maids, officers, and Chief Guard leave their bodies in an instant, vanishing into the void."
+sentence_31101,31101,活动剧情,57,N/A,魁梧的侍卫长如被风吹掉的枯叶般，毫无抵抗能力得倒了下去……,魁梧的侍衛長就像被風吹掉的枯葉般，毫無抵抗能力地倒了下去……,猛者であろう近衛隊長官ですらも抗う術はなく、\n風に吹かれた枯葉のように倒れ込む。,,"The brawny Chief Guard falls down, unable to so much as put up a fight..."
+sentence_31101,31101,活动剧情,58,N/A,……,……,………………,,...
+sentence_31101,31101,活动剧情,59,N/A,房间内的光芒渐渐暗淡下来。,房間內的光芒漸漸暗淡下來。,──部屋の光が消えていく。,,The room gets darker.
+sentence_31101,31101,活动剧情,60,N/A,奥古斯塔睁大眼睛瘫坐在地上，呆呆的看着地上躺倒的几个女官，门外的侍卫长也全然没了动静。,奧古斯塔睜大眼睛癱坐在地上，呆呆地看著倒在地上的幾個女官。門外的侍衛長也全然沒了動靜。,目を丸くしたオーガスタは床に座り込むと、\n漠然と倒れた女官達を見る。\n扉の外にいる近衛隊長官はぴくりとも動かない。,,"Sitting on the floor with her eyes wide open, Augusta stares at the officers lying quietly—she doesn't understand what just happened. She can't hear the Chief Guard anymore, either."
+sentence_31101,31101,活动剧情,61,N/A,爆发过后，房间内的光芒渐渐向墙角最初开裂的那个点收敛，一个扭曲的身影在强光中浮现。,爆發過後，房間內的光芒漸漸向牆角最初裂開的那個點收合，一個扭曲的身影在強光中浮現。,爆発の後、最初に現れた壁の裂け目に\n部屋の光が収束する。\n\nそして強き光の中に、歪んだ姿の存在が現れた。,,"The light starts to converge towards the initial crack on the floor, and a distorted figure appears amid the dazzling light."
+sentence_31101,31101,活动剧情,62,N/A,影子的轮廓逐渐清晰，似乎是个人形。,影子的輪廓逐漸清晰，似乎是個人形。,……徐々に歪さが無くなっていくと、\nソレは人の姿にも見えるようになった。,,The figure gets clearer. Is it a... human?
+sentence_31101,31101,活动剧情,63,奥古斯塔,这、这是……?,這、這是……?,こっ、これは……？,,"But no, there's something..."
+sentence_31101,31101,活动剧情,64,N/A,她的心脏一阵狂跳，看着这不可思议的一幕──,她的心臟一陣狂跳，看著這不可思議的一幕──,この不思議な光景を目の当たりにして、\nオーガスタの心臓が激しく鼓動を打つ。,,"Heart pumping quickly, she's looking at the strangest scene she's ever seen."
+sentence_31101,31101,活动剧情,65,N/A,那个生物的头和上半身顶在墙角的地板上，躯干和臀部紧贴墙壁呈倒立的姿势向上。,那個生物的頭和上半身頂在牆角的地板上，軀幹和臀部緊貼著牆壁，呈現倒立的姿勢。,「人間のような生き物」は頭と上半身が床に、\n胴体と臀部を壁にといった形で──\n──言わば逆立ちをしている。,,"That ""creature"" is standing upside down, its entire body against the wall."
+sentence_31101,31101,活动剧情,66,N/A,两条腿大喇喇的悬空岔开，裙子自然下垂，露出蓝白条纹的……,兩條腿大喇喇的懸空岔開，裙子自然下垂，露出藍白條紋的……,2本の脚は空中で豪快に開脚していた。\n\n目の前にあるのは、垂れ下がるスカート。\nそして、青白ストライプの……,,"With two legs spread wide open, the ""creature's"" skirt can no longer cover her blue-and-white stripped panties..."
+sentence_31101,31101,活动剧情,67,N/A,奥古斯塔还没来得及看清，那贴在墙壁上的躯干似乎无力继续支撑，顺着墙壁向一侧倒了下去。,奧古斯塔還沒來得及看清楚，那貼在牆壁上的軀幹似乎已無力繼續支撐，順著牆壁向一側倒了下去。,オーガスタがはっきりと確認し終わるより前に\n壁に貼り付いた人っぽいモノは、\n体勢を保持できず、壁に沿って倒れた。,,"Before Augusta can take a closer look, the ""creature"" can't hold her inverted position and falls down."
+sentence_31101,31101,活动剧情,68,N/A,少女握紧权杖，看着上面繁复华丽的纹样，忽然冒出一个奇异的念头──,少女緊握權杖，看著上面繁複華麗的圖紋，忽然冒出一個奇怪的念頭──,少女は自分が持つ、華麗な紋様が刻まれた王笏を\n見つめながら、ふっと不思議なことを思う──,,A strange thought comes across Augusta's mind.
+sentence_31101,31101,活动剧情,69,奥古斯塔,难道是……被我召唤出来的吗？,難道是……被我召喚出來的嗎？,ま……まさか……私が……召喚を……？,,Did I summon her?
+sentence_31101,31101,活动剧情,70,N/A,召、召唤兽？,召、召喚獸？,……召、召喚獣……だと……？,,She's a... summoned beast?
+sentence_31101,31101,活动剧情,71,N/A,她想试着用权杖的尖端戳一下那个生物，对方突然发出一声长长的悲鸣──,她試著用權杖的尖端戳一下那個生物，對方突然發出一聲長長的悲鳴──,試しに王笏の尖った部分でその生き物を突いて\nみると、途端に生き物が長い悲鳴を上げた──,,"Augusta pokes the ""summoned beast"" with her scepter. A scream is heard—"
+sentence_31101,31101,活动剧情,72,小怜,呜………………………,嗚………………………,うぎゃぅ…………ぅぁぁ……………,,Ouch!
+sentence_31101,31101,活动剧情,73,小怜,到底……,到底……,一体……,,...
+sentence_31101,31101,活动剧情,74,小怜,怎、怎么回事啊啊啊……？？！！！,怎、怎麼回事啊啊啊……？？！！！,ど、どうなってるんだこれ……！！！？？？,,WHAT THE HELL IS GOING ON?!?
+sentence_31102,31102,活动剧情,﻿1,N/A,萨蒙顿辖内所属，巴黎西南郊外，伊夫林省。,薩蒙頓轄內所屬，巴黎西南郊外，伊夫林省。,──サモントン管轄所属。\n\nパリ西南郊外、イヴリーヌ県。,,"Yvelines, southeast of Paris (Salmonton)"
+sentence_31102,31102,活动剧情,2,N/A,凡尔赛宫历史博物馆。,凡爾賽宮歷史博物館。,ヴェルサイユ宮殿、歴史博物館。,,Palace of Versailles
+sentence_31102,31102,活动剧情,3,小怜,啊呜……,啊嗚……,あうぅ……,,Boo-hoo...
+sentence_31102,31102,活动剧情,4,N/A,小怜偷偷把讲解附近艺术品历史的导游耳机摘下来，一脸哭丧的扑向安妮。,小憐偷偷把講解附近藝術品歷史的導覽耳機摘下來，一臉哭喪地撲向安妮。,展示してある芸術品の歴史を説明してくれる\n音声ガイドヘッドフォンを密かに外した後、\n俺は涙目になりながらアニーにすがりついた。,,"Ren takes off her audio guide headphones and approaches Annie, sniffling."
+sentence_31102,31102,活动剧情,5,小怜,安妮！\n我、我不行了……,安妮！\n我、我不行了……,アニー……\n\nお、俺はもうダメだ……,,Annie!\nThis is too much for me...
+sentence_31102,31102,活动剧情,6,小怜,什么路易十三十四十五……居然一直排到了十九！\n他们到底有多喜欢“路易”啊！！,什麼路易十三、十四、十五……居然一路排到十九！\n他們到底有多喜歡「路易」這名字啊！！,ルイ13、14、15……なんだよ！？\nなんで19までいるの！？\nあの人達は「ルイ」が大好きかよ！？,,"Louis XIII, Louis XIV... until Louis XIX??\nHow many ""Louis"" are enough for them?"
+sentence_31102,31102,活动剧情,7,N/A,一旁的安妮早已宕机，头顶冒出一股青烟，任由小怜摇晃。,一旁的安妮早已當機，頭頂冒出一股青煙，任由小憐搖晃。,そうやって俺はアニーを揺さぶったが、\n問いかけられた当人もオーバーヒート中だった。\n頭から青い煙を出しながら、俺の揺らすがままに\nガクガクと首が動いている。,,Annie seems to be suffering from this trip herself.
+sentence_31102,31102,活动剧情,8,安妮,是啊……而且无论背下多少年号和人名，只要睡上一觉都会被大脑自动删除呢……,是啊……而且無論背下多少年號和人名，只要睡一覺就會被大腦自動刪除呢……,そうだよね……\n\nわたしも頑張って年号や人名を暗記するけど、\n寝ると脳みそが自動的に削除するんだよね……,,"No matter how many names and events I memorize, my system automatically deletes them all after a night's sleep..."
+sentence_31102,31102,活动剧情,9,安妮,哈哈……这是身体的排异反应吧？,哈哈……這是身體的排異反應吧？,これが異物を排除して身体を守るメカニズムなの\nかな……？,,I guess... my body is trying to reject them?
+sentence_31102,31102,活动剧情,10,安妮,免疫系统将外来的有害物质排出体外，一定是这样的……,免疫系統會將外來的有害物質排出體外，一定是這個原因……,免疫系が外来有害物質である「ルイ」を\n排除するために……\nそうですよね……ソウデスヨネ……\nソウデスヨネ……ソウデスヨネ……,,"My ""immune system"" excretes harmful substances. That must be it..."
+sentence_31102,31102,活动剧情,11,小怜,安妮……安妮你不要坏掉啊！,安妮……安妮妳不要壞掉啊！,アニー……？ アニー！？\n俺より先に壊れないでくれぇ……！,,Hello? Annie? You still with me?
+sentence_31102,31102,活动剧情,12,N/A,这次『教学旅游』……,這次「校外教學」……,こんなのが「修学旅行」だなんて……,,"This ""school excursion""..."
+sentence_31102,31102,活动剧情,13,N/A,和我们想象的，完全不一样啊啊啊！！！！,和我們想像的完全不一樣啊啊啊！！！！,俺達の想像した「修学旅行」と、まったく違う\nじゃないかッ！！！！,,Is nothing like what we expected!!!
+sentence_31102,31102,活动剧情,14,N/A,本以为只是找个借口大家出去旅游，没想到每到一个城市校方都会请当地名人和学者给我们讲课。,本來以為只是找個藉口讓大家出去郊遊，沒想到每到一個城市，校方都會請當地名人和學者為我們授課。,確かに修学だけどさ、普通は皆で旅行する\n口実じゃん？\nそれが街に移動するたびに、歴史上の有名人や\nその土地に関しての勉強をするなんてさ！？,,I thought it's only an excuse for us to get out and have fun! Turns out we have to listen to so many lectures wherever we go!
+sentence_31102,31102,活动剧情,15,N/A,更过分的是，听课和参观都要写报告，行程结束后会把所有的报告编纂成书，派发全校，永久存档。,更過分的是，聽課和參觀後都要寫報告，行程結束後還會把所有的報告編纂成冊，並發給全校，永久存檔。,さらに受けた授業や見学のレポート提出が\n必須だなんて……\n旅行が終わったら、全てのレポートは編集されて\n全生徒に配られる上、永久に保存するのだとか。,,"And as if that's not enough, we have to write reports for every lecture and museum visit! The school will compile them into a book and archive it for everyone else to read!"
+sentence_31102,31102,活动剧情,16,N/A,这（对我与安妮而言）和游街示众有什么区别！！\n精英教育这么可怕的吗？！,這（對我和安妮而言）和遊街示眾有什麼差別！！\n精英教育這麼可怕的嗎？！,そんなの俺らにとって市中引き回しからの\n公開処刑じゃん！！\nエリート教育ってこんなに恐ろしいのかっ！？,,It's public humiliation for me and Annie!\nElite education sucks!!!
+sentence_31102,31102,活动剧情,17,N/A,怪不得莉琉问都没问就在监护人同意书上签了字！,怪不得莉琉連問都沒問，就在監護人同意書上簽了字！,マリルが何も言わず、旅行用の保護者同意書に\n勝手にサインしていた理由が分かったよ……,,No wonder Mariru signed off on the parental consent form without even asking questions!
+sentence_31102,31102,活动剧情,18,N/A,而且不知为何，这次萨蒙顿的接待规格异常之高。,而且不知為何，這次薩蒙頓的接待規格異常地高。,周囲を見る限り、俺達はサモントンから\n相当VIP扱いされてる可能性が高いし……,,"Also, for some reason, Salmonton has been giving this school excursion special treatment."
+sentence_31102,31102,活动剧情,19,N/A,今天凡尔赛宫历史博物馆居然被我们包场，不对一般游客开放。,今天凡爾賽宮歷史博物館居然被我們包場，不對一般遊客開放。,本日なんと、俺達の今いるヴェルサイユ宮殿は\n貸切状態なのだ。\n一般の観光客は入場禁止となっている。,,"Today, for example, they left the entire Palace of Versailles to us! No other tourist can come in!"
+sentence_31102,31102,活动剧情,20,N/A,此时，这座全世界最大的单体建筑宫殿里，只有御樱川高一年级的学生在三三两两的结伴参观。,此時，這座全世界最大的獨棟建築宮殿裡，只有御櫻川高校一年級的學生三三兩兩地結伴參觀。,この世界最大の単体建築宮殿内に、三々五々で\n見学する御桜川高校一年生達しかいない状況……\n……普通は有り得ないよな？,,"At this moment, there are only a few freshmen from Gosakuragawa High School in this gigantic museum."
+sentence_31102,31102,活动剧情,21,N/A,美术社的女生甚至悠闲的架起了画板现场写生……,美術社的女生甚至悠閒地架起了畫板現場寫生……,おいおい……あそこの美術部所属の女子とか、\n画板を持ち出して悠々と写生してるぞ……,,Some girls from the art club are even drawing sketches...
+sentence_31102,31102,活动剧情,22,N/A,而在画廊的某个角落，两个笨蛋正相拥而泣──,而在畫廊的某個角落，兩個笨蛋正相擁而泣──,そして画廊の一角には、この状況を愚痴り合う\n1組の馬と鹿がいるわけである……,,"And, of course, two poor girls are hugging each other and crying in the corner."
+sentence_31102,31102,活动剧情,23,安妮,那个……小怜……,那個……小憐……,レンちゃん……あのさ……,,"Well, Ren…"
+sentence_31102,31102,活动剧情,24,安妮,你说咱们能不能……找两本导游小册子，参观报告就“借鉴”一下……,妳覺得我們……找兩本導遊手冊，參觀報告就從中「參考」一下，這樣好不好……,ガイドブックとか使って、レポートの「参考」に\nするのはどうかな……？,,"Maybe we could get a couple of museum brochures and ""borrow"" something from them..."
+sentence_31102,31102,活动剧情,25,小怜,好哇好哇，昨天咱们不是拿了几本，就放在酒店茶几上……,好哇好哇，昨天我們不是拿了幾本，就放在飯店茶几上……,いい、いいね！ \nそういえば昨日も何冊か取っといたよ。\n今ホテルの机に置いてて……,,Sounds like a plan! Didn't we take some from the hotel yesterday?
+sentence_31102,31102,活动剧情,26,安妮,笨蛋！那个是卢浮宫的啦。,笨蛋！那個是羅浮宮的啦。,違うよ……あれはルーヴル美術館のやつだよ……,,Those are for the Louvre! You dumb!
+sentence_31102,31102,活动剧情,27,N/A@？？？,喂，女装癖~,喂，女裝癖～,ふん、まったく……\n相変わらずのようね、女装癖。,,"Hey, weirdo!"
+sentence_31102,31102,活动剧情,28,N/A,背后突然传来熟悉的声音，我吓得浑身一激灵。,背後突然傳來熟悉的聲音，我嚇得渾身直打哆嗦。,天敵が近付いてるのを察知したミーアキャットの\nように、すぐさま俺の背筋がピンと伸びた。,,This familiar voice sends chills down my spine...
+sentence_31102,31102,活动剧情,29,N/A,就像察觉到天敌接近的狐獴般，我瞬间挺直了身体。,就像察覺到天敵接近的狐獴般，我瞬間挺直了身體。,背後から聞き覚えがある声……\nこの声は…………,,I immediately stand straight.
+sentence_31102,31102,活动剧情,30,小怜,拉斐尔！？,拉斐爾！？,ラファエル！？,,Raphilia?!
+sentence_31102,31102,活动剧情,31,小怜,你……是二年级吧？\n怎么在一年级的──,妳……是二年級吧？\n怎麼在一年級的──,あれ、確か君は……2年生だよな？\nなんで1年の――,,Aren't you a sophomore?\nWhy are you with us freshmen here?
+sentence_31102,31102,活动剧情,32,N/A,话说到一半我忽然意识到，这位可是萨蒙顿总督的孙女，这种地方大概像她家后院一样吧。,話才說一半，我就忽然意識到，這位可是薩蒙頓總督的孫女，這種地方大概像她家後院一樣吧。,話している途中で思い出した。\n彼女はサモントン総督の孫娘じゃないか。\nこんな場所ですら、彼女にとって自宅の庭\nみたいなモノなんだろう……,,"Then I realize, as the granddaughter of the governor of Salmonton, this place is probably like her backyard."
+sentence_31102,31102,活动剧情,33,拉斐尔,我回来看望爷爷，顺便帮海因里希找点东西……\n听说你们今天来参观就过来玩玩咯~,我回來探望爺爺，順便幫海因理希找點東西……\n聽說你們今天來參觀，就過來玩玩囉～,お爺様のお見舞いとハインリッヒの探し物の\nために戻ったのよ。\nそしたら丁度あんた達がここにいるって聞いて、\nついでに様子を見に来てあげたってわけ。,,"I came back to visit my grandpa. Also, I need to find something for Henriette.\nThen I heard you're here today, so I came to find you guys."
+sentence_31102,31102,活动剧情,34,N/A,果然是自家后院！,果然是自家後院！,本当に自宅の庭みたいだな、おいっ！,,"Her backyard, indeed!"
+sentence_31102,31102,活动剧情,35,安妮,诶，那今天凡尔赛宫突然决定不对外开放难道……,欸，那今天凡爾賽宮突然決定不對外開放，難道是……,え～っと じゃあ、もしかして……\n今のヴェルサイユ宮殿の貸切状態も……,,"So, they decided to close the Palace of Versailles today..."
+sentence_31102,31102,活动剧情,36,拉斐尔,是爷爷不想让媒体来打扰我吧~,是爺爺不想讓媒體來打擾我吧～,きっとマスコミが私の邪魔をしないように、\nお爺様が手配しているのでしょうね。,,Probably because my grandpa doesn't want the press to bother me...
+sentence_31102,31102,活动剧情,37,N/A,拉斐尔耸耸肩，无奈的笑了笑。,拉斐爾聳聳肩，無奈地笑了笑。,ラファエルは肩をすくめて、戯れた事だと言わんばかりの表情で笑った。,,"Raphilia shrugs her shoulders, a wan smile on her face."
+sentence_31102,31102,活动剧情,38,N/A,这位大小姐不久前因对宗教和移民问题的不当言论在国内引发的风波还没有平息吧。,這位大小姐不久前對宗教和移民問題的不當言論而在國內引發的風波，應該還沒有平息吧。,以前、このお嬢様がサモントンで巻き起こした\n『宗教と移民問題に関する不適切な発言』は、\n未だに落ち着いていないのだろうな……,,That makes sense. Things haven't quieted down after this privileged young girl made her controversial comments on religion and immigration.
+sentence_31102,31102,活动剧情,39,拉斐尔,对了，你们这几天怎么样？\n看着快被烤熟了似的……,對了，妳們這幾天怎麼樣？\n看起來快被烤焦了……,それで、どう？\nあんた達は修学旅行を満喫できてるのかしら？\n何やら、熱によって溶かされたバターみたいな\n顔をしてるけど。,,"Anyway, how've you been?\nThe weather too hot for you?"
+sentence_31102,31102,活动剧情,40,N/A,已经外焦里嫩了！,已經表面焦脆，內部細嫩了！,はい！ 知恵熱にやられてます！,,That's the least of our worries.
+sentence_31102,31102,活动剧情,41,拉斐尔,是不是觉得这里的历史厚重得承受不了，在琢磨怎么能让参观报告蒙混过关呢？,是不是覺得這裡的歷史厚重到受不了，在思考怎麼讓參觀報告蒙混過關呢？,どうやらここの重厚な歴史は、あんたの頭じゃ\n処理できていない様子ね？ \n今はどうやってレポートを誤魔化すか\n企んでるってところかしら？,,Lemme guess. The history recorded here is too much of a burden for you? And you're figuring out how you can complete your report?
+sentence_31102,31102,活动剧情,42,N/A,没错！,沒錯！,はい！ その通りでございます！,,How did you know?
+sentence_31102,31102,活动剧情,43,小怜,不是！没、没有啦……,不是！沒、沒有啦……,って、いや、その……違うって……,,"I mean, no! You guessed wrong!"
+sentence_31102,31102,活动剧情,44,N/A,我本能的想要辩解，安妮却拉了拉我的衣角，有些难为情的说道。,我本能地想要辯解，安妮卻拉了拉我的衣角，有些難為情地說道。,俺は本能的に弁解しようとしたが、\nアニーが俺の服を引っ張って止める。\nそして少々恥ずかしそうにラファエルへと\n声をかけた。,,"I try to deny the undeniable until Annie signals me to stop. She starts talking, a bit embarrassed."
+sentence_31102,31102,活动剧情,45,安妮,拉斐尔……你是不是从小就很熟悉这种艺术品一大堆的地方呀？,拉斐爾……妳是不是從小就很熟悉這種藝術品一大堆的地方呀？,ラファエルってさ……\n幼い頃から芸術品とかに詳しいんだよね……？,,"Raphilia... You were raised in places like this, right? You must know a lot about these exquisite art pieces."
+sentence_31102,31102,活动剧情,46,N/A,向来强悍的安妮居然露出一幅“拜托帮帮忙”的可怜神情。,向來強悍的安妮居然露出一副「拜託幫幫忙」的可憐表情。,「助けてください」と言わんばかりの表情。\n\nまさかアニーがこんな悲壮な声を絞り出す\nとは……,,"Annie has always been a tough girl, but now, she's almost begging for help."
+sentence_31102,31102,活动剧情,47,N/A,等等，这种“妻子跟娘家借钱帮废柴老公还债”的颓废感是怎么回事……,等等，為什麼我有一種「妻子向娘家借錢幫廢柴老公還債」的窩囊感……,なんだろう、この心の痛み。\nまるで……\n「ヘタレな夫の借金返済のため、妻が実家から\n お金を貸してもらう」みたいな……,,This is unprecedented...
+sentence_31102,31102,活动剧情,48,拉斐尔,艺术品？,藝術品？,……芸術品？,,Exquisite art pieces?
+sentence_31102,31102,活动剧情,49,N/A,拉斐尔有些不解的看着我们。,拉斐爾滿臉疑惑地看著我們。,ラファエルは不思議な表情で俺達を見る。,,"Raphilia stares at us, confused."
+sentence_31102,31102,活动剧情,50,拉斐尔,你们到底有没有听导游耳机的讲解啊……,妳們到底有沒有在聽導覽耳機的講解啊……,あんた達、音声ガイドの説明はどうしたのよ？\n聞いていないの？,,Have you listened to your audio guide?
+sentence_31102,31102,活动剧情,51,N/A,那东西早就摘掉了！,那東西早就摘掉了！,あんな呪文を垂れ流すようなヘッドホンは、\nとっくの昔に外してます！,,I took my headphones off...
+sentence_31102,31102,活动剧情,52,拉斐尔,凡尔赛宫在大革命时期被暴民洗劫过好几次，后来残余的艺术品也被运到卢浮宫去了。,凡爾賽宮在大革命時期被暴民洗劫過好幾次，後來剩下的藝術品也被運到羅浮宮去了。,フランス革命の際、ヴェルサイユ宮殿は幾度も\n暴徒に略奪されたわ。\n結果として、残った芸術品のほとんどは\nルーヴル美術館に移送された。,,The Palace of Versailles was raided multiple times during the French Revolution. Whatever survived the raids has been moved to the Louvre.
+sentence_31102,31102,活动剧情,53,拉斐尔,现在这里陈列的不是复制品就是没什么价值的便宜货，很多装修也是事后修复的。,現在這裡陳列的不是複製品就是沒什麼價值的便宜貨，很多整修也是事後才修復的。,今ここで展示されているのは、複製品とかの\n価値のない安物よ。\n多くの内装も事後に修繕された物ばかり。,,Everything on display here is only duplicates or some cheap stuff. The decorations were also not the originals—they were repaired after the misfortunate accidents.
+sentence_31102,31102,活动剧情,54,小怜,诶？,欸？,なっ！？,,Eh?
+sentence_31102,31102,活动剧情,55,拉斐尔,不过你们要是想看点特别的东西……,不過，妳們要是想看點特別的東西……,しかしまあ、ちょっと特別な物を見たいなら……,,"That said, if you're interested in seeing something special..."
+sentence_31102,31102,活动剧情,56,N/A,拉斐尔好像突然想到了什么，转身向东侧门廊的方向走去。,拉斐爾好像突然想到了什麼，轉身向東側門廊的方向走去。,ラファエルは何か思いついたようで、身を翻して\n東側の廊下へと歩き出す。,,Something has crossed Raphilia's mind. She turns around and walks toward the east portico.
+sentence_31102,31102,活动剧情,57,拉斐尔,跟我来~,跟我來～,──私についてきなさい。,,Follow me!
+sentence_31102,31102,活动剧情,58,N/A,……,……,……,,...
+sentence_31102,31102,活动剧情,59,N/A,我和安妮跟着拉斐尔穿过长长的走廊，来到一扇被隔离杆拦住的大门面前。,我和安妮跟著拉斐爾穿過長長的走廊，來到一扇被隔離桿圍住的大門面前。,俺とアニーはラファエルの後ろを付いていく。\n\n長い廊下を渡り終え、パーティションポールが\n置かれている大きな扉の前にたどり着いた。,,"Following Raphilia, Annie and I walk through the long corridor and arrive before a fenced gate."
+sentence_31102,31102,活动剧情,60,小怜,这个……是禁止通行的意思吧？,這個……是禁止通行的意思吧？,これ……立入禁止って意味だよね……？,,"These fences. No entry, I assume?"
+sentence_31102,31102,活动剧情,61,拉斐尔,对呀~,對呀～,そうだけど？,,"For most people, yeah!"
+sentence_31102,31102,活动剧情,62,N/A,拉斐尔一边说一边旁若无人的把铜质隔离杆上的金属挂链摘了下来，熟练的推门走进房间。,拉斐爾一邊說著，一邊旁若無人地把銅質隔離桿上的金屬掛鏈摘了下來，熟練地推門走進房間。,ラファエルはそう言いながらも、平然とポールに\n掛かっていたチェーンを外し、\n扉を開けて部屋に入った。,,"Raphilia removes the lock on the fence, then pushes the gate open and enters the room."
+sentence_31102,31102,活动剧情,63,小怜,诶？,欸？,なっ！？,,...
+sentence_31102,31102,活动剧情,64,N/A,进屋后她随手把挂链丢在椅子上，用鞋尖打开墙边的一个矮木柜，露出里面的电箱。,進去之後，她隨手把掛鏈丟在椅子上，用鞋尖打開牆邊的一個矮木櫃，露出裡面的電箱。,部屋内の椅子の上にポイっとチェーンを投げ、\n靴のつま先で壁際にある木製の戸棚を開く。\n中は配電ボックスのようだ。,,She kicks open the wooden cabinet by the wall. A fuse box is stored inside.
+sentence_31102,31102,活动剧情,65,N/A,拉斐尔蹲下来一口气把所有的电源全都拨开，昏暗的房间内顿时灯火通明，通风口也开始吹出冷气。,拉斐爾蹲下來一口氣把所有的電源全都撥開，昏暗的房間內頓時燈火通明，通風口也開始吹出冷氣。,しゃがみ込み、全ての電源を一気にオンへと\n切り替える。\n暗かった部屋は一瞬で明るくなって、\n通気口からも涼しい風が吹き込み始めた。,,"Raphilia squats down and turns on all the switches. Immediately, all the lights turn on, and cool air starts to come out from the vent."
+sentence_31102,31102,活动剧情,66,N/A,然后她走到床边，抽出一把18世纪欧洲宫廷风格的蕾丝面女士手扇，一边扇一边抱怨──,然後她走到床邊，抽出一把18世紀歐洲宮廷風格的蕾絲面女用扇子，一邊搧一邊抱怨──,彼女は部屋にあったベッドの傍に移動すると、\nどこからともなく18世紀ヨーロッパ宮廷風の\n女性用レース扇子を取り出し、扇ぎながら\n文句を言い始めた――,,"She's not done yet. She goes to the bed and takes out a lace fan that looks straight out of 18th century Europe, then uses it to cool herself down while complaining—"
+sentence_31102,31102,活动剧情,67,拉斐尔,真是热死了……,真是熱死了……,本当に暑いわね……,,It's so hot...
+sentence_31102,31102,活动剧情,68,拉斐尔,凡尔赛宫的房间通风特别差，真不知道没有空调的时候，那些住在这里贵族是怎么活过夏天的。,凡爾賽宮的房間通風特別差，真不知道沒有空調的時候，那些住在這裡的貴族是怎麼活過夏天的。,ヴェルサイユ宮殿の部屋って通気性が悪いのよ。\n\nエアコンのない時代に、ここに住んでいた貴族は\nどうやって夏を耐え忍んだのかしらね？,,The ventilation system in the Palace of Versailles is just terrible. I wonder how those nobles who lived here survived their summers.
+sentence_31102,31102,活动剧情,69,N/A,我和安妮目瞪口呆的看着拉斐尔一连套操作，不知该从哪一步开始吐槽。,我和安妮目瞪口呆地看著拉斐爾一連串動作，不知該從哪一步開始吐槽。,などと聞かれても、あまりにもツッコミどころが\n多すぎて言葉が出ない。\n俺とアニーは( ﾟдﾟ)とラファエルの一連の動作を\n見るしかできなかった。,,"Annie and I are just looking at her, not knowing where to start..."
+sentence_31102,31102,活动剧情,70,安妮,额……,額……,えっと……,,Ugh...
+sentence_31102,31102,活动剧情,71,小怜,那、那个……,那、那個……,あ、あの……,,Well...
+sentence_31102,31102,活动剧情,72,N/A,博物馆的管理员不会报警吗？\n我们是不是在做什么不得了的事情啊？！,博物館的管理員不會報警嗎？\n我們是不是在做什麼不得了的事情啊？！,は、博物館の管理人が警察に通報とか\nしないよな！？\n何か俺達とんでもない事をやってる気がする！？,,Are you sure the museum curators won't call the police?\nI'm pretty what we're doing here isn't allowed...
+sentence_31102,31102,活动剧情,73,拉斐尔,没事你们随便坐，这里的家具都是现代材料仿造的复制品，真品都锁在卢浮宫地库里呢。,沒事，妳們隨便坐。這裡的傢俱都是現代材料仿造的複製品，真品都鎖在羅浮宮地窖裡呢。,安心なさい、適当に座っても大丈夫よ。\nこの部屋の家具は、現代素材で作られた複製品。\n本物はルーヴル美術館の地下室に保管されて\nいるわ。,,Don't worry! The furniture here is all cheap duplicates. The real ones are locked in the basement of the Louvre.
+sentence_31102,31102,活动剧情,74,拉斐尔,几年前勒沃库森泄露事故的时候，我和家里人来这边住过几个月，当时我就睡在这个房间。,幾年前勒沃庫森外洩事件發生時，我和家人來這邊住過幾個月，當時我就睡在這個房間。,数年前のレーヴァークーゼン漏洩事故の時、\n家族と共に何か月間か住んだ事があるのよ。\n当時、私が使用していたのがこの部屋。,,"A few year ago, when the leakage incident happened in Leverkusen, my family all came here and stayed for several months. I used this room as my bedroom."
+sentence_31102,31102,活动剧情,75,小怜,那次生化原料泄露？我似乎有印象……,那次生化原料外洩？我似乎有印象……,あの化学原料の漏洩事故？ 俺も覚えてるぞ……,,I remember that... The biochemical material leakage...
+sentence_31102,31102,活动剧情,76,N/A,当时国际新闻轮番播报了好几周，而事故后续莱茵河的清理工作持续数年之久。,當時國際新聞輪番播報了好幾週，而且事件發生之後，萊茵河的清理工作持續了好幾年。,当時は国際新聞で何週間も取り上げられていた。\n\n事故の後、ライン川の浄化作業には数年を\n要したみたいだ。,,It stayed on the international news cycle for many weeks. The following cleanups of the Rhine lasted for years!
+sentence_31102,31102,活动剧情,77,拉斐尔,嘛……至少官方说法是那样的~,嘛……至少官方說法是那樣～,まあ……少なくとも、公式上ではそうなってる\nわね。,,That's the official story. Yes.
+sentence_31102,31102,活动剧情,78,拉斐尔,总之，这里一直是凡尔赛宫的主卧，最早就是由那个家伙设计建造的。,總之，這裡一直是凡爾賽宮的主臥室，最早就是由那個傢伙設計建造的。,ともかく、この部屋はヴェルサイユ宮殿の\n主寝室よ。\nそして最初にデザインしたのはアイツ。,,"Anyway, this used to be the main bedroom in the Palace of Versailles. It was originally built by that guy."
+sentence_31102,31102,活动剧情,79,N/A,拉斐尔用下巴指了指壁炉上的人像油画，对我露出一个意味深长的微笑。,拉斐爾用下巴指了指壁爐上的人像油畫，對我露出一個意味深長的微笑。,ラファエルは壁炉の上の肖像油画を顎で指し、\n俺に向き直って意味深な笑みを浮かべた。,,"Raphilia uses her jaw to indicate the portrait on the fireplace, a perplexing smile on her face."
+sentence_31102,31102,活动剧情,80,小怜,？,？,――？,,?
+sentence_31102,31102,活动剧情,81,拉斐尔,这个亲自为自己发明了高跟鞋，并在法国第一个带头穿丝袜的男人──,這個親自為自己發明了高跟鞋，並在法國第一個帶頭穿絲襪的男人──,背を高く見せるためにハイヒールを愛用し、\n\nフランス国内で率先してタイツを着た男──,,The man who invented heeled shoes for himself and was the first man to wear stockings in France...
+sentence_31102,31102,活动剧情,82,小怜,诶？好像安妮给我讲过……,咦？安妮好像跟我說過……,あっ……確かアニーから説明された気がする……,,Annie seems to have told me about him...
+sentence_31102,31102,活动剧情,83,安妮,是路易十四！,是路易十四！,ルイ14世でしょ！,,Louis XIV!
+sentence_31102,31102,活动剧情,84,N/A,安妮率先抢答得分，接着似乎想到了什么，也将目光投向我……,安妮率先搶答得分，接著似乎想到了什麼，也將目光投向我……,アニーが素早く答えた。\n\n答えてから、何かを察したように俺の事を\nラファエルと一緒に見つめてくる……,,"Annie beats me to it with the answer. Then, she realizes something and starts to look at me..."
+sentence_31102,31102,活动剧情,85,N/A,你你你们都看我干嘛？！\n我和这家伙没有半点共同点好吗！！！,妳妳妳們都看我幹嘛？！\n我和這傢伙沒有半點共同點好嗎！！！,ななな、なんだよ！\n俺とそいつに共通点なんて一切ないからな！！,,Why are you both looking at me?\nI have nothing in common with that guy!
+sentence_31102,31102,活动剧情,86,N/A,我不自在的扯了扯腿上的黑色过膝袜，还好这双玛丽珍皮鞋的后跟没那么高……,我不自在地扯了扯腿上的黑色過膝襪，還好這雙瑪麗珍皮鞋的後跟沒那麼高……,俺は狼狽えながら黒色のニーハイを引っ張る。\n\n履いているのはメリージェーンのヒールだけど、\nかかとが高いヤツじゃなくて良かった……,,"I can't help but touch my knee socks. Fortunately, the Mary Jane shoes I'm wearing today don't have very high heels..."
+sentence_31102,31102,活动剧情,87,小怜,所、所所以这房间里全都是仿造品吗？,所、所以，這房間裡全都是仿造品嗎？,い、いい、いまはルイなんとかの部屋じゃなくて\nラファエルの部屋ってわけか！\nこの部屋にある物は全部模造品って感じで！,,"So, are you saying everything in this room is a duplicate?"
+sentence_31102,31102,活动剧情,88,N/A,我生硬的岔开话题，假装在仔细研究书架上的工艺品。,我生硬地岔開話題，假裝在仔細研究書架上的工藝品。,俺は本棚の上にある工芸品を観察するふりをして\n強引に話題を逸らした。,,I try to change the subject and pretend to study the art crafts on the shelves.
+sentence_31102,31102,活动剧情,89,N/A,拉斐尔看着我羞红的脸，满意的清了清嗓子，开启了一本正经的授课模式。,拉斐爾看著我羞紅的臉，滿意地清了清嗓子，開啟了一本正經的授課模式。,そんな俺の反応に大変ご満悦な様子の\nラファエルお嬢様。\n満足したのか、彼女は「おほん」と咳払いをして\n授業モードへと切り替える。,,"Raphilia clears her throat, then starts her lecture."
+sentence_31102,31102,活动剧情,90,N/A@拉斐尔,法贝热彩蛋──150年前俄国珠宝大师法贝热打造的珠宝艺术中的经典之作。,法貝熱彩蛋──150年前俄國珠寶大師法貝熱的珠寶藝術中的經典之作。,インペリアル・イースター・エッグって\n知ってるかしら？\n150年前、ロシアの金細工師ファベルジェよって\n製作された宝石装飾芸術のクラッシック作品。,,"Fabergé Eggs—the masterpiece of Peter Carl Fabergé, the famous Russian jeweler from 150 years ago."
+sentence_31102,31102,活动剧情,91,N/A@拉斐尔,文献记载法贝热一生共制作了69颗彩蛋，现在随便一颗都能拍卖出过亿的高价。,文獻記載法貝熱一生共製作了69顆彩蛋，現在隨便一顆都能拍賣出過億的高價。,文献によると、ファベルジェは合計69個だけ\nイースター・エッグを製作したらしいわ。\nとても希少で価値も高く、1つだけでも\n軽く億を超える代物よ。,,It's recorded that Fabergé made a total of 69 easter eggs. Any one of them is worth hundreds of millions today.
+sentence_31102,31102,活动剧情,92,N/A@拉斐尔,而有一只隐藏彩蛋，是1887年德、俄两国签订再保险条约后，沙皇为向威廉一世示好特意打造的。,而有一顆隱藏彩蛋，是1887年德、俄兩國簽訂再保險條約後，沙皇為了向威廉一世示好而特地打造的。,そんな69個だけど、実は公式記録に記載がない\n秘密のイースター・エッグが存在する。\n1886年独露再保障条約の締結後、ツァーリが\nヴィルヘルム1世に対して贈った特別な品よ。,,"What most people don't know is that there's a 70th egg. It was made in 1887, right after the Reinsurance Treaty was signed between Germany and Russia."
+sentence_31102,31102,活动剧情,93,N/A@拉斐尔,由于是为两国达成秘约打造的礼物，这个彩蛋从未被法贝热的团队记录在案。,由於是為兩國達成祕約而打造的禮物，這顆彩蛋從未被法貝熱的團隊記錄在案。,秘密条約の締結を祝うための贈答品だから、\nもちろんファベルジェの工房による記録では、\n存在していない事になっているわ。,,It was never recorded as both countries wanted to keep a secret about the treaty.
+sentence_31102,31102,活动剧情,94,N/A@拉斐尔,而那未被记录的第70颗隐藏彩蛋，现在就在──,而那未列入記錄的第70顆隱藏彩蛋，現在就在──,ねえ、そんな類を見ないほどの希少価値を\n秘めている代物が今はどこにあると思う？\n「70個目のイースター・エッグ」は────,,As for where the 70th egg is now?
+sentence_31102,31102,活动剧情,95,N/A,拉斐尔的话说到一半忽然卡住了，满脸惊异的看着我。,拉斐爾話說到一半忽然頓住，滿臉驚恐地看著我。,いきなり話を途中で止めるラファエル。\n\n驚愕の表情で俺を見つめている。,,"Raphilia doesn't finish her sentence. Instead, she stares at me, surprised."
+sentence_31102,31102,活动剧情,96,安妮,就在……？,就在……？,今は……？,,"Yeah, where is it?"
+sentence_31102,31102,活动剧情,97,小怜,嗯？,嗯？,──うん？,,Huh?
+sentence_31102,31102,活动剧情,98,拉斐尔,就在你手上拿着呢！！！,就拿在妳手上呢！！！,あんたの手の中よッ！！！,,You're holding it!
+sentence_31102,31102,活动剧情,99,小怜,哈？,啊？,はぅぇッ！？！？！？,,What?
+sentence_31102,31102,活动剧情,100,N/A,我在这全是赝品的房间里随便拿起来的小玩意居然是惟一的真货吗？！,我在這全是贗品的房間裡隨手拿起來的小玩意，居然是唯一的真貨嗎？！,適当に持ち上げてみただけなんだけど、\nこのオモチャみたいなのがッ！？\n偽物だらけの部屋の中で、唯一の本物を\n引き当てたっていうのかよ俺ッ！？,,"Amongst all the duplicates in this entire room, the one item I accidentally picked up is the real deal?"
+sentence_31102,31102,活动剧情,101,小怜,──啊啊啊啊哇！！！,──啊啊啊啊哇！！！,――おわッ！！おわわわッ！！！,,OMG!!!
+sentence_31102,31102,活动剧情,102,N/A,激动之下我捏着彩蛋的手指一发力，那东西“嗖”的飞了出去。,激動之下，我捏著彩蛋的手指也跟著用力，那顆蛋就「咻」地飛了出去。,突如の緊張に思わず力が入ってしまう。\n\n指の中から、エッグが「シュルンッ」と\n空中に飛び出してしまった。,,"I flip out, somehow squeezing the egg out of my hand."
+sentence_31102,31102,活动剧情,103,N/A,我赶忙伸出双手去接，却像打排球一样把彩蛋托得更高了！！,我急忙伸出雙手去接，卻像打排球一樣把彩蛋托得更高了！！,慌てて両手で受け止めようとしたが、\nバレーボールのレシーブみたいになり──\nエッグはさらに高いところに飛んでいく。,,"I reach both my hands out to try and catch it. Unfortunately, I end up hitting it even higher, almost as though I'm playing volleyball..."
+sentence_31102,31102,活动剧情,104,N/A,见状我立刻改换策略，想用手从两侧接住彩蛋，但左手不争气的比右手慢了半拍……,看這情形，我立刻改變策略，想用手從兩側接住彩蛋，但左手不爭氣地比右手慢了半拍……,作戦変更だ。俺は合掌するように両側から\nエッグを掴もうとする。\nだが、あいにく左手が右手より少し遅かった……,,"I try to change my strategy by catching the egg from the sides, but my left hand is always a bit slower than my right hand..."
+sentence_31102,31102,活动剧情,105,N/A,啪──,啪──,バシッ――――,,Slap!
+sentence_31102,31102,活动剧情,106,N/A,眼看下落中的彩蛋被我一巴掌扇了出去，径直飞向墙壁。,眼看墜落中的彩蛋被我一巴掌搧了出去，直接飛向牆壁。,落下中のエッグは俺の渾身のビンタを食らい\n吹き飛ぶ角度を横に変えて、壁へとぶつかった。,,I slap the egg against the wall!
+sentence_31102,31102,活动剧情,107,N/A,房间里所有人都石化了。,房間裡所有人都愣住了。,アニーとラファエルがいて、この状況と空気。\n非常に嫌なデジャブを感じる……,,All three of us freeze.
+sentence_31102,31102,活动剧情,108,N/A,惊诧、紧张、愤怒等复杂的情快速在拉斐尔的脸上变换，她刚才说这东西值多少钱来着？,驚詫、緊張、憤怒等複雜的情緒在拉斐爾的臉上快速變換著；她剛才說這東西價值多少錢呀？,驚愕と緊張を隠し切れず、今まで見た事のない\nぐらい奇怪な表情をしているラファエル。\nさっき彼女はお値段いくらって言ってたっけ？,,"Surprised, nervous, angry—every one of those feelings are present on Raphilia's face. How much did she say this egg is worth?"
+sentence_31102,31102,活动剧情,109,N/A,不关键了，反正把我卖了也赔不起……,不重要了，反正把我賣了也賠不起……,まあ、もういくらでも関係ないか。\n\nどうせ俺を売りに出しても足りないのだろう……,,Doesn't matter now. I don't have that kind of money...
+sentence_31102,31102,活动剧情,110,N/A,我绝望的两腿同时发力，打算最后拼死挣扎一下。,我絕望地兩腿同時用力，打算來個垂死掙扎。,絶望を目の前に、俺は最後の抵抗を見せようと\n両足に力を入れた。,,"I move both my legs at the same time, trying to fight my fate one last time..."
+sentence_31102,31102,活动剧情,111,N/A,却发现身体仿佛瞬间失去重量，双腿趁上半身没反应过来，在蹬地的反作用力下腾空而起──,卻發現身體有如瞬間失去重量，雙腿還沒等上半身反應過來，就在蹬地的反作用力下騰空而起──,……その瞬間、身体の重さが消えたように\n感じる。\n両足で力強く地面を蹴ると、身体が宙に\n浮いたのだ。,,"But I can't seem to control my upper body, even as my legs push up into a jump. As a result, I'm thrown into the air, heels over head—"
+sentence_31102,31102,活动剧情,112,小怜,欸──？？！,欸──？？！,えぇぇなんで――ッ！！？,,What're you doing now?!
+sentence_31102,31102,活动剧情,113,N/A,接着我整个人以这种倒栽葱的姿态，像被卷入台风的纸片般，狠狠的向墙壁拍了过去。,接著，我整個人就以這種倒栽蔥的姿勢，像被捲入龍捲風的紙片一般，狠狠地向牆壁甩了過去。,俺は台風に巻き込まれた紙切れのように\n吹き飛ばされる。\n上下が逆転し、逆立ちの体勢になって身体を\n壁に強くぶつけた。,,There I am—charging toward the wall upside down.
+sentence_31102,31102,活动剧情,114,N/A,嘭！！,砰！！,パァン――！！,,Bang!
+sentence_31102,31102,活动剧情,115,N/A,一声闷响过后，小怜的身体好似穿过了墙体般，消失得无影无踪。,一聲悶響過後，小憐的身體像穿過了牆體般，消失得無影無蹤。,低い音がした後、レンの身体はまるで壁を\nすり抜けたかのように消失する。,,"Suddenly, Ren disappears, almost as through she's penetrated the wall."
+sentence_31102,31102,活动剧情,116,N/A,只留下那颗彩蛋落打着转，安稳的落在了地毯上。,只留下那顆彩蛋兀自打轉，安穩地落在地毯上。,そして例のエッグは無傷でカーペットの上に、\n回転しながら落ちてきた――,,"The egg, on the other hand, has fallen down the carpet, slow and easy."
+sentence_31103,31103,活动剧情,﻿1,N/A,房间里的光芒已完全消失，倒在地上的女官和侍卫长丝毫没有苏醒的迹象。,房間裡的光芒已完全消失，倒在地上的女官和侍衛長絲毫沒有甦醒的跡象。,明かりは完全に消え、倒れている女官達と\n近衛隊隊長は全く目覚める気配がない。,,The light in the room has completed disappeared. There's no sign the Chief Guard and officers will wake up any time soon.
+sentence_31103,31103,活动剧情,2,N/A,小怜像鸵鸟一样撅在墙角，垂下的头发挡在脸上。,小憐像鴕鳥一樣縮在牆角，垂下的頭髮遮住了臉龐。,変な人間っぽい生物は、垂れた髪の毛で\n顔を隠しつつ、壁の隅でうずくまってた。,,"Ren is positioned in the corner, hair covering her face."
+sentence_31103,31103,活动剧情,3,N/A,金发少女蹲下来，试探性用权杖的尖端戳了戳那只“不明生物”翘起来的屁股。,金髮少女蹲下來，試探性地用權杖的尖端戳了戳那隻「不明生物」翹起來的屁股。,オーガスタはしゃがみ込んで、王笏の先端で\n恐る恐る不明生物のお尻をつつく。,,"The blond girl squats down, then pokes the butt of the ""unknown creature"" with her scepter."
+sentence_31103,31103,活动剧情,4,N/A,只见那东西全身条件反射似的颤抖了一下，同时发出“咿！”的叫声。,只見那東西全身反射性地抖了一下，同時發出「咿！」的叫聲。,その生物は条件反射のように震えると、同時に\n「キャウ！」という可愛い叫び声を発した。,,"The ""creature"" gives a little shiver and makes a sound."
+sentence_31103,31103,活动剧情,5,奥古斯塔,居、居然……,居、居然……,なっ……まっ、まさか……,,"My ""summoned beast""..."
+sentence_31103,31103,活动剧情,6,奥古斯塔,是女孩子？,是女孩子？,これ……女の子……？,,Is a girl?
+sentence_31103,31103,活动剧情,7,奥古斯塔,（难道不是瓦格纳老师说的那个人……）,（難道不是華格納老師說的那個人……）,（これはワーグナー先生が言っていた\n 『あの人』なのか……？）,,"(That means, she can't be the person my teacher Wagner mentioned...)"
+sentence_31103,31103,活动剧情,8,N/A,少女回想起教自己文学和历史的家庭教师。,少女回想起教自己文學和歷史的家庭教師。,オーガスタは自身に文学と歴史を教えてくれた\n家庭教師の事を思い出す。,,"Augusta thinks of Wagner, her literature and history teacher."
+sentence_31103,31103,活动剧情,9,N/A,瓦格纳老师在留给她的手抄本中反复提及一个人。,華格納老師在留給她的手抄本中反覆提及一個人。,ワーグナー先生が残してくれた写本の中には、\n『とある人物』が何度も登場していた。,,"In the hand-written book Wagner left her, there's one person mentioned multiple times."
+sentence_31103,31103,活动剧情,10,N/A,“终有一日，少年将于圣光中降临，效忠并拯救万岁胜者桂冠之主。”,「終有一日，少年將於聖光中降臨，效忠並拯救萬歲勝者桂冠之主。」,「いつの日か、聖なる光の中から少年が降臨し、\n 帝冠を戴く者に忠誠そして救いを齎さん」,,"""One day, a young man will descend amid the holy light, pledging his loyalty and saving the owner of Kaiser's Scepter."""
+sentence_31103,31103,活动剧情,11,N/A,虽然那本书用词晦涩难懂，而且不久后瓦格纳还因为“精神问题”被送去了巴伐利亚疗养院。,雖然那本書用詞晦澀難懂，而且不久後華格納還因為「精神問題」被送進了巴伐利亞療養院。,写本は難解な言葉ばかりが使われていて、\n理解のし辛い物だった。\n当のワーグナー先生も「精神的な問題」により\nバイエルン療養院に入院してしまった。,,"Though the words used in the book were almost incomprehensible, and Wagner was sent to a hospital in Bavaria for having ""mental problems,"""
+sentence_31103,31103,活动剧情,12,N/A,但『万岁胜者桂冠』确实是她家族代代相传权杖的名字，这让少女一直对书中的预言深信不疑。,但「萬歲勝者桂冠」確實是她家族代代相傳權杖的名字，這讓少女對書中的預言一直深信不疑。,それでもオーガスタは写本に記されている預言を\n深く信じていた。\nなぜなら「ジーガークランツ」は間違いなく\n王家代々に伝わる王笏の名前であったからだ。,,"Kaiser's Scepter is indeed her family's heirloom. For that reason, Augusta has always believed the prophecies in the book."
+sentence_31103,31103,活动剧情,13,N/A,奥古斯塔不知幻想过多少次与少年相遇的情景，但绝不是像今天这样──,奧古斯塔不知幻想過多少次與少年相遇的情景，但絕不是像今天這樣──,何度も少年に会う情景を思い描いたオーガスタで\nあったが、結果として出て来たのは……,,She's already dreamt countless times about how she'd meet the young man. But not once had she imagined it would be like what she's witnessed today.
+sentence_31103,31103,活动剧情,14,N/A,况且这个穿着丝袜的家伙怎么可能是少年啊！,況且，這個穿著絲襪的傢伙怎麼可能是少年啊！,……いや絶対に違う！\n\nこんなストッキングを履いているのが、\n私の思い描いた『あの人』なわけがない！,,"Besides, this girl in stockings can't a young man!"
+sentence_31103,31103,活动剧情,15,N/A,小怜双手撑地缓缓抬起头，强忍着剧烈的晕眩感，眯起眼睛环视四周。,小憐雙手撐地緩緩抬起頭，強忍著劇烈的暈眩感，瞇起眼睛環視四周。,召喚された少女は両手で地面を支えながら\nゆっくりと頭を上げた。\n目を細めて周囲を確認する様子は、猛烈な眩暈を\n感じているように見える。,,"Hands on the floor, Ren slowly raises her head. Still in pain, she starts to observe her surroundings."
+sentence_31103,31103,活动剧情,16,小怜,这是……哪啊？,這是……哪啊？,……ここは……どこだ？,,Wh- where am I?
+sentence_31103,31103,活动剧情,17,N/A,这里与刚才的卧室有几分相似，但肯定不是同一个房间──,這裡和剛才的臥室有點像，但一定不是同個房間──,さっきの部屋と似てはいるが、\n絶対に同じ場所ではない──,,"It looks like the bedroom from earlier, but it can't be the same room."
+sentence_31103,31103,活动剧情,18,N/A,温度忽然凉爽了许多，地毯也变成了地板，那股灰尘和淡淡的霉味也被柠檬罗勒味的熏香替代。,氣溫變得涼爽多了，地毯也變成了地板，那股灰塵和淡淡的霉味也被檸檬羅勒的薰香取代。,気温は少し下がっていて絨毯が敷かれていた床も\nフローリングに変わっている。\n埃やカビの淡い匂いも、レモンとバジルの\n良い匂いがするアロマに変わっていた。,,"It's much cooler here. And there's no carpet on the floor. The dusty, moldy smell is gone, too, replaced by lemon and basil flavored incense."
+sentence_31103,31103,活动剧情,19,N/A,小怜揉着屁股慢慢坐起来，一旁的奥古斯塔难掩失望。,小憐揉著屁股慢慢坐起來，一旁的奧古斯塔難掩失望。,少女はお尻を揉みながらゆっくりと座り込む。\n\n一方、隣にいるオーガスタは分かりやすく\n落ち込んでいた。,,"Ren slowly sits up. Meanwhile, Augusta seems very disappointed."
+sentence_31103,31103,活动剧情,20,N/A,那迷离的眼神、柔软的腰肢和凌乱的头发──活脱脱一幅无助少女的模样。,那迷離的眼神、柔軟的腰身和凌亂的頭髮──完全是一副無助少女的模樣。,虚ろな眼差し……\nしなやかな体形に乱れた髪……\n……どう見ても頼りにならない少女である。,,"Dull eyes, weak waist muscles, and messy hair... Everything suggests Ren is nothing but a hopeless girl."
+sentence_31103,31103,活动剧情,21,奥古斯塔,（她……是被我召唤出来的吗？）,（她……是被我召喚出來的嗎？）,（彼女は……私が召喚したのか？）,,(Did I really summon her?)
+sentence_31103,31103,活动剧情,22,奥古斯塔,（看起来好弱……）,（看起來好弱……）,（率直に言えば……）\n\n（超が付くほど弱そうなんだが……）,,(She looks weak...)
+sentence_31103,31103,活动剧情,23,N/A,不过至少，应该会听命于我吧。,不過，至少應該會聽命於我吧。,──まぁ、少なくとも、私には従うだろ。,,"But at least, she'll follow my orders?"
+sentence_31103,31103,活动剧情,24,N/A,想到这里，奥古斯塔轻咳了两下。,想到這裡，奧古斯塔輕咳了兩下。,そう考えるとオーガスタは軽く咳払いをした。,,"Thinking of this, Augusta clears her throat."
+sentence_31103,31103,活动剧情,25,小怜,诶？\n你、你是……,欸？\n你、你是……,あれ？\nきっ、君は……！？,,Hmm...\nWho're you?
+sentence_31103,31103,活动剧情,26,N/A,穿着军礼服的少女刚准备展示出王者的威严，却忽然被小怜扑过来一把抱住大腿。,穿著軍禮服的少女才準備要展現王者的威嚴，卻忽然被小憐撲過來一把抱住大腿。,オーガスタが物々しい軍服の礼装を笠に、\n王として威厳を見せつけようとしたその時──\n──突然少女が飛んで来るかのごとく\n抱き着いてきた。,,"Just when Augusta, Her Highness in military uniform, is about to give an order, Ren approaches her and clings to her leg."
+sentence_31103,31103,活动剧情,27,小怜,小妹妹，你、你知不知道刚才怎么回事？？！,小妹妹，妳、妳知不知道剛才是怎麼回事？？！,お、お、お、お嬢ちゃん。\nさっき何が起きたか分かるか！？,,"Do you know what just happened, little girl?"
+sentence_31103,31103,活动剧情,28,小怜,那个彩蛋……\n诶──怎怎怎么怎么地上还躺着好几个？！！,那個彩蛋……\n欸──怎怎怎麼怎麼地上還躺著好幾個？！！,ええと、あのイースター・エッグは……\n\nってうおぉぉ――！？\nな、なっ、なんでこんなに倒れてる人がッ！！？,,Is the easter egg still in one piece?\nHuh? There are several eggs on the floor!
+sentence_31103,31103,活动剧情,29,N/A,看着小怜半跪在地板上手足无措的样子，奥古斯塔挣脱并皱着眉头后退几步。,看著小憐半跪在地板上手足無措的樣子，奧古斯塔掙脫並皺著眉頭後退幾步。,少女は相当、混乱しているみたいだ。\n\nオーガスタは少女の腕の中から抜け出し、\n眉をひそめながら後ろに下がっていく。,,"Seeing Ren confused on the floor, Augusta breaks free and steps back, frowning."
+sentence_31103,31103,活动剧情,30,奥古斯塔,（如此不矜持，该不会是乡下来的吧……）,（這麼不矜持，該不會是鄉下來的吧……）,（な、なんと無礼な……）\n\n（こいつまさか辺境から……）,,(Who acts like this? She doesn't seem to come from a civilized society...)
+sentence_31103,31103,活动剧情,31,N/A,少女转过身背对着小怜，看着她那副花容失色的蠢样实在没法严肃的报出名号。,少女轉過身背對著小憐，看著她那副花容失色的蠢樣，實在無法嚴肅地報出名號。,オーガスタは少女に背を向けた。\n\nあんな馬鹿げた表情を浮かべている奴の前で\n厳粛に名乗る事になるとは。,,"Augusta turns around, her back facing Ren. It's impossible for her to introduce herself in front of the silly-looking Ren."
+sentence_31103,31103,活动剧情,32,奥古斯塔,咳咳──\n听好了……,咳咳──\n聽好了……,んっん――\n\nよーーーく聞け……,,*ahem*\nListen up!
+sentence_31103,31103,活动剧情,33,N/A,你这只愚蠢的召唤兽。,你這隻愚蠢的召喚獸。,このバカ召喚獣め。,,You silly summoned beast.
+sentence_31103,31103,活动剧情,34,奥古斯塔,吾乃被授予天命的霍亨索伦家族的后裔，普鲁士的女王──,吾乃被授予天命的霍亨索倫家族的後裔，普魯士的女王──,我は天命を授かりしホーエンツォレルン家の末裔\nプロイセンの女王──,,"I'm the chosen one, the heir of the House of Hohenzollern, the queen of Prussia—"
+sentence_31103,31103,活动剧情,35,小怜,？！,？！,ッ！？,,?!
+sentence_31103,31103,活动剧情,36,N/A,背对着自己的少女故意拉长尾音，显然话还没有说完，但小怜已经意识到了什么……,背對著自己的少女故意拉長尾音，顯然話還沒有說完，但小憐已經意識到了什麼……,オーガスタはわざと語尾を伸ばして、\n壮大に自分の名を明かそうとする。\n少女はオーガスタの言葉に対して、何かをすでに\n勘付いているようだった……,,"Augusta hasn't finished her sentence, but Ren seems to have realized something..."
+sentence_31103,31103,活动剧情,37,奥古斯塔,德意志联邦主席，统一德意志全境的皇帝！,德意志聯邦主席，統一德意志全境的皇帝！,ドイツ連邦の主席にして。\n\nドイツ全土を統一する皇帝！,,die Kaiserin von Deutschland!
+sentence_31103,31103,活动剧情,38,N/A,穿着红黑两色斗篷的少女一边提高音量一边举起双臂，做出“赞美太阳”的姿势。,穿著紅黑色斗篷的少女一邊提高音量一邊舉起雙臂，做出「讚美太陽」的姿勢。,赤黒いマントを翻したオーガスタは声量を\n上げると共に、\n両手を広げ「太陽賛美」のポーズを取った。,,"The girl in the red-and-black cape raises her arms as well as her voice, making a ""praise the sun"" gesture."
+sentence_31103,31103,活动剧情,39,N/A,小怜猛然想起前两天历史讲座上似乎听过那几个词，惊讶的站起身上前两步却欲言又止……,小憐猛然想起前兩天歷史講座上似乎聽過那幾個詞，驚訝地站起身前進了兩步，卻欲言又止……,この時、状況の理解が追い付かないながらも\nレンは驚き、身を起こして前進するのも止めた。\n彼女の言葉の端々は、先日睡魔と戦いながらも\n受けた歴史の授業を思い出させる。,,"What Augusta says rings a bell. Ren vaguely remembers hearing some of those words from a lecture a couple of days ago. She stands up, approaches Augusta, trying to say something..."
+sentence_31103,31103,活动剧情,40,小怜,（等等，普鲁士和德意志是什么关系来着？）,（等等，普魯士和德意志是什麼關係來著？）,（えっと……）\n\n（プロイセンとドイツってどんな関係だっけ？）,,"(Wait, what's the relationship between Prussia and Deutschland?)"
+sentence_31103,31103,活动剧情,41,N/A,那不重要啦！！！\n关键的问题是──,那不重要啦！！！\n重點是──,そこはどうでもいいんだ！！\n重要なのは――,,Whatever!\nThe most important thing is...
+sentence_31103,31103,活动剧情,42,N/A,难、难道说……,難、難道說……,まっ、まさか……,,Don't tell me...
+sentence_31103,31103,活动剧情,43,小怜,（我穿越时空了！！？）,（我穿越時空了！！？）,（俺、タイムスリップしちゃったとかッ！！？）,,(I went back in time?!)
+sentence_31103,31103,活动剧情,44,奥古斯塔,以及──,以及──,そして――,,And...
+sentence_31103,31103,活动剧情,45,N/A,奥古斯塔压低了音调，似乎要用最后的头衔为那个不妙的猜测一锤定音。,奧古斯塔壓低了音調，似乎要用最後的頭銜為那個不妙的猜測一錘定音。,オーガスタは声を抑える。\n\nそしてレンの推測に終止符を打つかのように、\n最後の一言を放った。,,"Augusta continues to introduce herself, except in a lower voice. Whatever she's about to say may confirm Ren's guess."
+sentence_31103,31103,活动剧情,46,奥古斯塔,第四学园都市的最高元首──赫尔米娜·奥古斯塔·路德维希！,第四學園都市的最高元首──赫爾米娜·奧古斯塔·路德維希！,第四学園都市の最高元首――\n\nウィルヘルミナ・オーガスタ・ルートヴィヒ\nである！,,The leader of the Fourth Academic City—Wilhelmina Augusta Ludwig!
+sentence_31103,31103,活动剧情,47,N/A,金发少女将权杖重重的戳在地上，用清脆的敲击声作为气势恢宏的收尾。,金髮少女將權杖重重地戳在地上，用清脆的敲擊聲作為氣勢恢宏的收尾。,金髪少女は王笏で強く地面を叩き、軽快な音を\n周囲に響かせ、話に区切りをつけた。,,"The blond girl slams her scepter heavily on the floor, ending her sentence on a ""high note."""
+sentence_31103,31103,活动剧情,48,小怜,………………,………………,………………,,...
+sentence_31103,31103,活动剧情,49,小怜,哈？,哈？,はぁ？,,What?
+sentence_31103,31103,活动剧情,50,N/A,小怜的大脑一片空白，张大嘴巴愣在原地。,小憐的腦中一片空白，張大嘴巴愣在原地。,口を大きく広げて棒立ちになったレン。\n\n脳内は真っ白である。,,"Ren doesn't know what to think. She's frozen, mouth wide open."
+sentence_31103,31103,活动剧情,51,奥古斯塔,还有，给我记住了……,還有，給我記住了……,あと、努々覚えて置くがいい……,,"And, remember..."
+sentence_31103,31103,活动剧情,52,N/A,似乎压抑许久的怒火终于找到了爆发的机会，奥古斯塔乘着刚才的气势，一边转身一边大喊。,壓抑許久的怒火似乎終於找到宣洩的機會，奧古斯塔順著剛才的氣勢，一邊轉身一邊大喊。,さらに勢いに乗じて振り向きながら──\n\n今まで抑えていた怒りをぶつける場所を\n見つけたかのように口調を荒げた。,,The long-repressed anger finally bursts out. Augusta turns around and shouts.
+sentence_31103,31103,活动剧情,53,奥古斯塔,我已经15岁了！！\n才不是什么小妹妹──,我已經15歲了！！\n才不是什麼小妹妹──,私はもう15歳だ！\nお前にお嬢ちゃん呼ばわりされる筋合いは無い！,,"I'm already 15!\nI'm not your ""little girl!"""
+sentence_31103,31103,活动剧情,54,N/A,没想到小怜已经起身并走到自己身后，奥古斯塔转身一头埋进了小怜的胸部。,奧古斯塔沒發現小憐早已起身並走到自己背後，於是一轉身就埋進了小憐的胸部。,そう言ってオーガスタは振り返った。\n\nだが、彼女はすでにレンが自らの背後まで\n移動している事に気付いていなかった。\nそのままレンの胸元に顔を埋める形となって\nしまう。,,"Not realizing Ren had approached, as she turns around, her face ends up buried in Ren's chest."
+sentence_31103,31103,活动剧情,55,N/A,…………,…………,…………,,...
+sentence_31103,31103,活动剧情,56,N/A,房间内空气凝固了五秒钟之后。,房間內空氣凝結了五秒鐘之後。,部屋内の空気が5秒ほど固まった後──,,An awkward silence settles over the room.
+sentence_31103,31103,活动剧情,57,小怜,好矮……,好矮……,小っちゃい……,,You're so short...
+sentence_31103,31103,活动剧情,58,N/A,终于回过神的小怜不经意间说出了在这座行宫里足以被判处死刑的发言。,終於回過神的小憐不經意間說出了在這座行宮裡足以被判處死刑的發言。,先に我に返ったレンが思わずこの宮殿内で\n極刑に値する言葉を発してしまった。,,"Ren breaks the silence, but the first thing she says is enough to invoke the death penalty inside this palace."
+sentence_31103,31103,活动剧情,59,N/A,接着，就感到胯下遭受了一记重击……,接著，就感到胯下遭到一記重擊……,次の瞬間、股間へと一撃が襲い掛かる……,,The next thing she feels is excruciating pain in her crotchal region...
+sentence_31103,31103,活动剧情,60,N/A,与此同时。,在此同時。,──時を同じくして。,,Meanwhile...
+sentence_31103,31103,活动剧情,61,N/A,看着落在地毯上的彩蛋，安妮立刻冲向卧室的百叶窗，将大半个身子探出去寻找小怜的踪迹。,看著落在地毯上的彩蛋，安妮立刻衝向臥室的百葉窗，將大半個身子探出去尋找小憐的蹤跡。,絨毯に落ちたイースター・エッグをそのままに、\nアニーは部屋のジャロジー窓まで走る。\nそして落ちそうなぐらい身を乗り出して\nレンの行方を捜していた。,,"Annie rushes to the bedroom blinds and looks for Ren, half of her body outside the window."
+sentence_31103,31103,活动剧情,62,N/A,拉斐尔怕安妮摔下去，赶忙把她拉回来，二人喘着粗气坐在壁炉旁四目相觑。,拉斐爾怕安妮摔下去，連忙把她拉了回來。兩人就這麼喘著大氣坐在壁爐旁四目相覷。,転落するかもしれないと思ったラファエルは\nアニーをすぐさま引っ張り戻した。\n二人は大きく呼吸をしながら壁炉の近くで\n座り込んで目を合わせる。,,"Fearing that she might fall, Raphilia pulls her back. The two of them stare at each other by the firepalce, not knowing what to do."
+sentence_31103,31103,活动剧情,63,安妮,小怜她……,小憐她……,レンちゃんが……,,Ren...
+sentence_31103,31103,活动剧情,64,拉斐尔,……不见了？,……不見了？,……消えた？,,... vanished?
+sentence_31103,31103,活动剧情,65,N/A,拉斐尔起身捡起地上的彩蛋仔细端详。,拉斐爾起身撿起地上的彩蛋仔細端詳。,ラファエルは地面に落ちたエッグを拾い上げて\n細かくチェックを始める。,,Raphilia picks up the egg and takes a closer look.
+sentence_31103,31103,活动剧情,66,N/A,这颗彩蛋比普通鸡蛋稍大，在法贝热的诸多作品中算是相当小巧的。,這顆彩蛋比普通雞蛋稍大，在法貝熱的諸多作品中算是相當小巧的。,このイースター・エッグは鶏卵よりも少し大きい\nぐらいのサイズ感である。\nしかし、ファベルジェの数ある作品の中では\nこれは小さい方だ。,,The easter egg is only slightly bigger than a normal egg. It's the smallest among all the Fabergé Eggs.
+sentence_31103,31103,活动剧情,67,N/A,当年法贝热为沙皇打造的彩蛋大多内有玄机，但这颗彩蛋经过扫描，确定里面是实心的。,當年法貝熱為沙皇打造的彩蛋大多內藏玄機，但這顆彩蛋經過掃描，已經確定是實心的。,スキャンの結果、このイースター・エッグに\n空洞はないと以前に判明している。\nロシア皇帝のために作られた数ある\nイースター・エッグは、\nそのほとんどに何かしらの中身が内蔵されて\nいるのだが……,,"Most of the Fabergé Eggs are hollow with hidden items inside, but this particular one has been scanned—it's indeed solid."
+sentence_31103,31103,活动剧情,68,N/A,安妮刚想凑过去看看，手机却突然响起，接通后另一头传来莉琉有些含糊的声音。,安妮才想湊過去看看，手機卻突然響起。接通後，另一頭傳來莉琉有些含糊的聲音。,アニーが近寄ってラファエルと一緒に確認しよう\nとした瞬間、前触れなく携帯が鳴り響いた。\n携帯からはマリルのぼやけた声が伝わってくる。,,"Annie wants to take a look, too, but her phone rings. It's Mariru..."
+sentence_31103,31103,活动剧情,69,N/A@莉琉,喂？安妮……,喂？安妮……,……おい？ アニー……,,Hello? Annie?
+sentence_31103,31103,活动剧情,70,N/A@莉琉,小怜的信号怎么又、又突然消失了……,小憐的訊號怎麼又、又突然消失了……,レンの信号は…なんでまた突然消えたんだ……？,,Ren's signal disappeared... I'm calling to make sure everything is fine.
+sentence_31103,31103,活动剧情,71,安妮,莉琉？\n你……怎么听起来有点怪怪的……,莉琉？\n妳……怎麼聽起來有點怪怪的……,マ、マリルさん？\nなんかいつもと声色が違うような……,,Mariru?\nYou... You sound strange.
+sentence_31103,31103,活动剧情,72,N/A,一向强势的莉琉今天的声音却特别轻柔，说话伴着呼吸声，有种暧昧的感觉。,一向強勢的莉琉今天的聲音卻特別輕柔，說話伴著呼吸聲，有種曖昧的感覺。,いつも威圧的な雰囲気を放つマリルの声が\n今日は、なぜか優しくて柔らかい。\n呼吸音を伴う話し方は曖昧な感じが漂う。,,"Mariru is always bossy, but today, her voice sounds gentle. The sound of her breath can be heard over the phone, too."
+sentence_31103,31103,活动剧情,73,N/A@莉琉,刚、刚晚上和老同学喝了点……,剛、剛晚上和老同學喝了幾杯……,さっ、さっきまで昔の同級生と少しばかり\n飲んでいてな……,,I had a drink with an old classmate...
+sentence_31103,31103,活动剧情,74,N/A@莉琉,爱衣给了我……一片……据说是她研制的，可以防宿醉的……安眠药？,愛衣給了我……一片……據說是她研製的，可以防宿醉的……安眠藥？,愛衣が開発した薬を……くれてな……\n二日酔い防止の……睡眠薬……？,,"Then, Aya gave me a pill. She told me it's a sleeping pill she invented. It prevents hangover..."
+sentence_31103,31103,活动剧情,75,安妮,爱衣的药也敢吃啊？！,愛衣的藥也敢吃啊？！,愛衣が開発した薬を飲んじゃったのっ！？,,You're brave to take Aya's medicine...
+sentence_31103,31103,活动剧情,76,N/A@莉琉,看、看我明天不好好修理她……,看、看我明天怎麼修理她……,あ、明日に……叱っておくから……,,I'll punish her... tomorrow...
+sentence_31103,31103,活动剧情,77,N/A@莉琉,我刚吃药没一会就收到自动报警，那孩子就不能让人省点儿心吗……,我剛吃藥沒多久就收到自動警報，那孩子就不能讓人稍微放心一下嗎……,薬を飲み終わったら……すぐ警報が鳴った。\n\nあの子はもう少し……\n私に心配をかけさせないで欲しいものだな……,,The alarm rang after I took the pill. What happened to Ren?
+sentence_31103,31103,活动剧情,78,安妮,啊对了！小怜她碰到了一个彩蛋，然后就在我们眼皮底下消失了！！,啊對了！小憐她碰到了一個彩蛋，然後就在我們眼前消失了！！,あっ、そうだマリルさん！！ \n\nレンちゃんがイースター・エッグに触れた後、\n突然目の前から消えたの！！,,She... she touched an easter egg and disappeared right under our noses...
+sentence_31103,31103,活动剧情,79,N/A,电话另一头传来了手拍在脸上的声音。,電話另一頭傳來了手拍在臉上的聲音。,電話の向こう側から顔を手で押さえる様が\n伝わってくる。,,A slapping sound travels from the other end of the phone.
+sentence_31103,31103,活动剧情,80,N/A@莉琉,我怎么好像养了个特别容易被拐卖的傻女儿……,我怎麼好像養了個特別容易被拐走的傻女兒……,はは……誘拐されやすいバカ娘が……\n\n育てた私も、バカなんだがな……,,I feel like I've raised a daughter that always goes missing...
+sentence_31103,31103,活动剧情,81,安妮,你……在问我？,妳……在問我？,それで私達……どうすれば！?,,Are... Are you asking my opinion?
+sentence_31103,31103,活动剧情,82,N/A@莉琉,安妮，记住你的训练……,安妮，記住妳的訓練……,アニー、お前が受けた訓練を思い出せ……,,"Remember your training, Annie..."
+sentence_31103,31103,活动剧情,83,N/A@莉琉,遇到问题先收集信息，越难以理解的复杂状况越要回归常识……,遇到問題時，先收集訊息。越難以理解的複雜狀況，越要回歸常識……,問題が発生した時……まずは情報が第一だ……\n\n難解であればあるほど……\n常識的な考えが必要になる……,,"When facing a tough issue, sometimes common sense is key to solve the most complicated puzzle..."
+sentence_31103,31103,活动剧情,84,N/A@莉琉,比、比如……\n呼…………,比、比如……\n呼…………,たと……えば……………………\n…………………………………………………,,For example...\n*snoring*
+sentence_31103,31103,活动剧情,85,N/A,莉琉的声音越来越小，说着说着就没了动静。,莉琉的聲音越來越小，說著說著就沒了動靜。,マリルの声が段々と小さくなって\n最後には反応しなくなった。,,Mariru's voice becomes lower and lower... until it can't be heard at all.
+sentence_31103,31103,活动剧情,86,安妮,喂？喂──！\n莉琉？莉琉！,喂？喂──！\n莉琉？莉琉！,もしもし？ もしもーしーーっ！\n\nマリルさん？ マリルさんッ！！,,Hello? Hello!\nMariru?
+sentence_31103,31103,活动剧情,87,N/A,几秒之后，安妮听到一声熟悉的闷响，和她在家里经常能听到的小怜从床上滚下去的声音一模一样。,幾秒之後，安妮聽到一聲熟悉的悶響，和她在家裡經常聽到小憐從床上滾下去的聲音一模一樣。,──数秒後、知っている鈍音が聞こえてきた。\n\n良く家で耳にする、レンちゃんがベッドから\n落ちた時と同じ音だ。,,"After a few seconds, Annie hears a familiar sound, the same sound she's heard so often whenever Ren has fallen off her bed."
+sentence_31103,31103,活动剧情,88,N/A,同时听筒中还传来“呀~”的一声尖叫，随后就陷入了沉默。,同時，聽筒中還傳來「呀～」的一聲尖叫，之後就陷入了沉默。,それと同時に「ギャー」という叫び声も\n聞こえたが、すぐに静まり返った。,,"Along with the sound is a scream. Then, there's no sound at all."
+sentence_31103,31103,活动剧情,89,安妮,挂、挂断了……？,掛、掛斷了……？,……き、切れた……？,,She hung up?
+sentence_31103,31103,活动剧情,90,N/A,等等！刚才那个叫声是谁的？！,等等！剛才那個叫聲是誰的？！,さっきの叫び声は……\nいったい何が起きたのだろうか。,,But who was screaming?
+sentence_31103,31103,活动剧情,91,N/A,拉斐尔走过来把彩蛋递给安妮，并从手机中调出这只彩蛋的资料。,拉斐爾走過來把彩蛋遞給安妮，並從手機中調出這顆彩蛋的資料。,そうしている内、ラファエルがアニーに\nイースター・エッグを手渡してきた。\nすぐさま、このエッグに関する資料を携帯で\n確認する。,,"Raphilia comes to Annie and gives her the egg, then pulls the file on the egg via her phone."
+sentence_31103,31103,活动剧情,92,拉斐尔,看来莉琉暂时帮不上忙了？,看來莉琉暫時幫不上忙了？,その様子だと、しばらくマリルの助けは\n受けられそうにないかしら？,,"Mariru doesn't seem like she'll be of any help for the time being, I guess?"
+sentence_31103,31103,活动剧情,93,拉斐尔,过了这么久十字玫瑰的保镖都没冲进来，应该是没监测到什么异常波动。,都過了這麼久，十字玫瑰的保鏢也沒衝進來，應該是沒監測到什麼異常波動。,結構な時間が経ったけど、私のボディーガードも\n誰一人として出てこないみたい。\n十字薔薇すら異常を観測できなかったようね。,,"The Rosenkreutz guards haven't rushed in, which means they haven't detected anything unusual."
+sentence_31103,31103,活动剧情,94,N/A,安妮点了点头，观察着手中沉甸甸的彩蛋。,安妮點了點頭，觀察著手中沉甸甸的彩蛋。,アニーは頷きながら、重みのある\nイースター・エッグを観察する。,,Annie nods her head while observing the easter egg.
+sentence_31103,31103,活动剧情,95,拉斐尔,这东西的原料是从尤戈尔斯基半岛的陨石坑里找到的，外层是黑色的宝石级刚玉。,這東西的原料是從尤戈爾斯基半島的隕石坑裡找到的，外層是黑色的寶石級剛玉。,そのエッグの原材料はユゴルスキー半島にある\nクレーターで発見されたらしいわ。\n宝石級の黒いコランダムで外層を加工して\nいるのが、見た限りでは分かるけど……,,The materials of this egg were found in a crater in the Yugorsky Peninsula. The outer layer was made from black corundum.
+sentence_31103,31103,活动剧情,96,安妮,外层……？,外層……？,外層……？,,The outer layer...
+sentence_31103,31103,活动剧情,97,拉斐尔,目前只知道内核没有磁性和放射性，对电磁辐射的吸收性极好，只能通过密度猜测化学成分……,目前只知道內核沒有磁性和放射性，對電磁輻射的吸收性極好，只能透過密度猜測化學成分……,内部に関しては、調べても磁性や放射性が\nない事だけしか判明できていない。\n電磁波に対する吸収性に優れているから、\n密度分析ぐらいでしか成分を推測できないのよ。,,"We know very little about its inside, however. All we know is that it's not magnetic or radioactive, and it absorbs electromagnetic radiation..."
+sentence_31103,31103,活动剧情,98,N/A,拉斐尔不满的把手机丢到床上。,拉斐爾不滿地把手機丟到床上。,ラファエルは不満そうな素振りで携帯を\nベッドに投げ捨てた。,,"Raphilia throws her phone onto the bed, disappointed."
+sentence_31103,31103,活动剧情,99,拉斐尔,基本上就是个黑体嘛！\n鬼知道里面是什么……,基本上就是個黑體嘛！\n鬼才知道裡面是什麼……,つまり現在の科学技術を最大限駆使したとしても\n測定不可能って事になるわ。\n中身は正体不明よ……,,There's nothing useful!\nGod knows what's inside...
+sentence_31103,31103,活动剧情,100,安妮,这上面应该没有魔女的刻印，不然小怜触碰它的瞬间就会有反应。,這上面應該沒有魔女的刻印，不然小憐觸碰它的瞬間就會有反應。,この表面には魔女の刻印はないはず。\n\nレンちゃんが触れた瞬間には、\n反応していなかったよね？,,"Those shouldn't be witch's engravings on this egg, or else, when Ren touched it earlier, there would have been some kind of reaction."
+sentence_31103,31103,活动剧情,101,安妮,对了，这个十字章上的字母是什么意思？\n字母A的顶部还有两个小点──,對了，這個十字章上面的字母是什麼意思？\n字母A的頂部還有兩個小點──,そうだ。\nこの十字章にあるアルファベットの意味は？\nアルファベット「Ａ」の上に点が2つあって──,,"But, what do these letters mean?\nEspeciall this one—there are two small dots on the letter ""A."""
+sentence_31103,31103,活动剧情,102,拉斐尔,ÄON，德语中“永恒”的意思。,ÄON，德語中「永恆」的意思。,ÄＯＮ。 ドイツ語で「永遠」を意味するわ。,,ÄON. It means eternity in German.
+sentence_31103,31103,活动剧情,103,拉斐尔,大概是沙皇希望两国的友谊万古长存吧……,大概是沙皇希望兩國的友誼萬古長存吧……,恐らくロシア皇帝が、両国の間に永遠の友情が\nありますようにと 願ったからじゃないかしら？,,Perhaps it represents the eternal friendship between Russia and Germany?
+sentence_31103,31103,活动剧情,104,N/A,拉斐尔轻蔑的笑了笑──,拉斐爾輕蔑地笑了笑──,ラファエルは軽蔑するように笑った。,,A scornful smile appears on Raphilia's face.
+sentence_31103,31103,活动剧情,105,拉斐尔,结果这个礼物送出的三年后，没常识的新任德皇就拒绝了俄国希望续订条约的请求──,結果這個禮物送出的三年後，沒常識的新任德皇就拒絕了俄國希望續訂條約的請求──,このプレゼントが贈られた3年後。\n\n新たに即位した非常識なドイツ皇帝は、\nロシア側の条約の継続願いを容易く却下した──,,"That'd be hilarious. Three years after this egg was given out as a gift, the new kaiser of Germany refused to renew the treaty."
+sentence_31103,31103,活动剧情,106,拉斐尔,自以为是的摧毁了前任首相处心积虑建立起的欧洲秩序，后来还葬送了自己的帝国。,自以為是地摧毀了前任首相處心積慮建立起的歐洲秩序，後來還葬送了自己的帝國。,結果的に思い上がりも甚だしかったって事ね。\n\n前任の首相が尽力して作り上げた\nヨーロッパの秩序を散々に壊した挙句、\n最終的には己の帝国を葬る形となった。,,"Then, he destroyed the order in Europe, which his predecessor took a long time and effort to build. Eventually, he buried his own empire..."
+sentence_31103,31103,活动剧情,107,安妮,收集信息……常识……,收集訊息……常識……,情報……常識……,,Gather information... Common sense...
+sentence_31103,31103,活动剧情,108,N/A,安妮回想着莉琉刚才的话，默默掏出手机。,安妮回想著莉琉剛才的話，默默掏出手機。,アニーはマリルの言葉を思い出しながら、\n黙々と自分の携帯を取り出した。,,What Mariru said earlier occurs to Annie. She takes out her phone.
+sentence_31103,31103,活动剧情,109,N/A,……,……,………………,,...
+sentence_31103,31103,活动剧情,110,N/A,小怜挨了那一下，本能的捂着被打的地方蜷缩在地上颤抖着。,小憐挨了那一下，本能地捂著被打的地方蜷縮在地上顫抖著。,レンは地面にうずくまって震えていた。\n\n先ほど食らった一撃に対して、本能的に\n『大事な部分』を庇いながら。,,"That was a heavy blow! Ren is shaking on the floor, her hands covering her privates."
+sentence_31103,31103,活动剧情,111,N/A,奥古斯塔以为自己下手太重，想说些什么却欲言又止，僵在原地小声嘀咕着──,奧古斯塔以為自己下手太重，想說些什麼卻欲言又止，僵在原地小聲嘀咕著──,やりすぎたと思ったオーガスタは何かを\n言いたそうにしているが、言い出せない。\n口ごもって、その場で小さく呟いたのが\n精一杯だった。,,"Augusta starts to think maybe she hit her too hard. She wants to say something, but instead, she mumbles to herself—"
+sentence_31103,31103,活动剧情,112,奥古斯塔,谁、谁叫你说我！……,誰、誰叫妳叫我小妹妹！……,ふっ、不敬な事を言うからだ……！,,T-... to call me short! The gall!
+sentence_31103,31103,活动剧情,113,奥古斯塔,我又没使劲，有那么疼吗……,我又沒多用力，有那麼痛嗎……,そ、そこまで力を入れてなかったのだが、\nそんなに痛むのか……？,,And I didn't even use much strength. Are you really hurt that bad?
+sentence_31103,31103,活动剧情,114,小怜,（好像……并没那么疼？）,（好像……的確沒那麼痛？）,（あれ……確かにあまり痛くないかも？）,,"(It doesn't hurt that bad, it seems...)"
+sentence_31103,31103,活动剧情,115,N/A,嗯，大概是幻肢痛。,嗯，大概是幻肢痛。,今はあるべきモノがないから。\n\nお、恐らく幻肢痛か……,,It must be the phantom limb pain.
+sentence_31103,31103,活动剧情,116,N/A,小怜缓缓坐起，靠在床边调整了一下呼吸。,小憐緩緩坐起，靠在床邊調整了一下呼吸。,レンはベッドの近くで呼吸を整えて、\nとにかく心を落ち着かせる。,,Ren slowly sits up and adjusts her breath by the bed.
+sentence_31103,31103,活动剧情,117,N/A,终于冷静下的她开始试着搞清楚自己到底卷入了什么状况。,終於冷靜下來的她，開始試著搞清楚自己到底捲入了什麼狀況。,それから状況を突き止めようと、\n質問を投げかけた。\n一体、自分が何に巻き込まれているのかを──,,She finally calms down and tries to figure out what exactly she's gotten herself into.
+sentence_31103,31103,活动剧情,118,小怜,所以，你刚才说……\n第四学园都市？,所以，妳剛才說……\n第四學園都市？,それで、君はさっき……\n\n……第四学園都市って言ったよね？,,"So, you were saying...\nThe Fourth Academic City?"
+sentence_31104,31104,活动剧情,﻿1,N/A,如果这个装束奇怪的女生刚才那番发言不是中二病发作的话，状况就很严重了。,如果這個裝扮奇怪的女生剛才那番言論不是中二病發作，狀況就很嚴重了。,奇妙な衣装を着ている少女が発した言葉は、\nにわかには信じがたい。\n中二病的なアレじゃなければ俺は非常にまずい\n状況なんだろうけど……,,"If the strangely dressed girl is actually telling the truth, then I'm in big trouble."
+sentence_31104,31104,活动剧情,2,小怜,你刚才说第四学园都市？\n还有这到底是哪啊？我刚才明明在……,妳剛才說第四學園都市？\n還有這到底是哪啊？我剛才明明在……,ここはどこなんだ？\n\n第四学園都市って言ってたけど、\n俺さっきまで……,,"Did you mention ""the Fourth Academic City?""\nAnd what's this place? I was in..."
+sentence_31104,31104,活动剧情,3,奥古斯塔,还轮不到你来发问！,還輪不到妳來發問！,──無礼者め！！,,I'm the one who asks questions here!
+sentence_31104,31104,活动剧情,4,N/A,少女用权杖指着我的鼻尖斩钉截铁得说道。,少女用權杖指著我的鼻尖斬釘截鐵地說道。,少女は王笏を俺の鼻に向けてきっぱりと言った。,,The blond girl points her scepter at my nose.
+sentence_31104,31104,活动剧情,5,奥古斯塔,身为召唤兽，先要恭顺的向自己即将效忠之人报上真名，这是基本常识吧！,身為召喚獸，先要恭順地向自己即將效忠之人報上真名，這是基本常識吧！,召喚獣たるもの、まずは忠誠を誓う相手に\n真名を伝える！\nこの世の基本的な常識だろうが！,,"As my summoned beast, you shall announce your real name to your master for life. This is common sense."
+sentence_31104,31104,活动剧情,6,N/A,你这句话里有哪个词像常识啊！,妳這句話裡有哪個詞像常識啊！,……俺に召喚獣の基本的な常識を問われても\n困るぞ。,,Summoned beast? Master for life? What kind of common sense is that?
+sentence_31104,31104,活动剧情,7,小怜,你是说名字吗？\n我叫怜……,妳是說名字嗎？\n我叫憐……,一応、俺の名前はレンだけど……,,My name?\nI'm Ren...
+sentence_31104,31104,活动剧情,8,N/A,虽然不知算不算是“真名”……,雖然不知算不算是「真名」……,「真名」になるかどうかは分からないな……,,"Not sure if ""Ren"" qualifies for ""real name""..."
+sentence_31104,31104,活动剧情,9,奥古斯塔,『怜』什么？,「憐」什麼？,レン……なに？,,Ren what?
+sentence_31104,31104,活动剧情,10,小怜,就是怜啊，叫我小怜就可以~,就是憐啊，叫我小憐就可以～,いや、だからレンって名前なんだ。\n\n皆からはそう呼ばれてるんだって。,,Just Ren. Ren is my name.
+sentence_31104,31104,活动剧情,11,N/A,奥古斯塔有些难以置信的盯着我。,奧古斯塔一臉難以置信地盯著我。,「信じられない」と言わんばかりのような表情で\nオーガスタは俺を見つめてくる。,,Augusta stares at me in disbelief.
+sentence_31104,31104,活动剧情,12,奥古斯塔,只、只有……一个音节？\n居然存在如此没气势的名字吗！？,只、只有……一個音節？\n居然有這種如此沒氣勢的名字！？,たった……二文字！？\n\nこれほど魅力を感じない名前が世の中に\n存在しているというのか！？,,Only one syllable?\nLame names like this do exist?
+sentence_31104,31104,活动剧情,13,小怜,哈？,嗄？,……はい？,,Lame?
+sentence_31104,31104,活动剧情,14,奥古斯塔,（小声）我还以为会叫圣安福塔斯或者齐格弗里德之类的呢……,（小聲）我還以為會叫聖安福塔斯或者齊格弗里德之類的呢……,アンフォルタスとかジークフリートとかを\n期待してたのに……（ぶつぶつ）,,(whispering) I thought it'd be Ren St. Amfortas or Ren Siegfried...
+sentence_31104,31104,活动剧情,15,N/A,哪有叫齐格弗里德的女高中生啊！,哪有叫齊格弗里德的女高中生啊！,ジークフリートって名前の女子高生が\nいる訳ないだろ！,,It'd be weird for a highschoolder to be called Siegfried nowadays...
+sentence_31104,31104,活动剧情,16,N/A,奥古斯塔似乎备受打击，一拳打在墙边的柜子上自言自语的说道。,奧古斯塔似乎備受打擊，一拳打在牆邊的櫃子上自言自語地說道。,なぜか相当なショックを受けたみたいで、\nオーガスタは壁際のタンスを叩きながら呟いた。,,Augusta is beyond disappointed. She mumbles to herself as she punches the cabinet by the wall.
+sentence_31104,31104,活动剧情,17,奥古斯塔,可恶，是因为我的资质太差吗……,可惡，是因為我的資質太差嗎……,ぐぬぬ……やはり私には才能がないみたいだ……,,Am I not cut out for this...?
+sentence_31104,31104,活动剧情,18,奥古斯塔,按书上的方法失败了那么多次，还每天都在想象第一次召唤成功会是什么样的。,按照書上的方法失敗了那麼多次，還每天都在想像第一次召喚成功會是什麼情景。,書物に習って執り行えど失敗ばかりだし、\n常に召喚に成功する時を思い描いていたが……,,I followed the instructions on the book and tried so many times. I dreamed about my first successful summon every day...
+sentence_31104,31104,活动剧情,19,奥古斯塔,我真是个笨蛋……\n瓦格纳老师也会失望吧……,我真是個笨蛋……\n華格納老師也會失望吧……,しょせん私も凡俗……\nワーグナー先生も私に失望するだろうな……,,"I'm useless...\nTeacher Wagner would be disappointed in me, as well..."
+sentence_31104,31104,活动剧情,20,N/A,嗯，听起来确实是中二病才有的发言。,嗯，聽起來確實是中二病才有的發言。,良かった。\nやっぱりただの中二病患者だ。,,She does sound like she's talking nonsense...
+sentence_31104,31104,活动剧情,21,N/A,她无精打采的抬起头，像看乞丐一样打量着我。,她無精打采地抬起頭，像看乞丐一樣打量著我。,落胆した様子の彼女は、物乞いを見るような\n蔑んだ目で俺を見下す。,,She raises her head and looks at me.
+sentence_31104,31104,活动剧情,22,奥古斯塔,你大概只是个低等魅魔吧……\n嘁，男人会喜欢这种装束吗？,你大概只是個低等魅魔吧……\n呿，男人會喜歡這種裝扮嗎？,結局、私が召喚できたのはレッサーサキュバスの\n類だけ……\n\nはぁ…そんな服装に男性は惹かれるモノなのか？,,"You're probably a low-level succubus...\nStill, do men like this type of outfit?"
+sentence_31104,31104,活动剧情,23,小怜,厄……\n（这个问题你叫我怎么回答……）,呃……\n（這個問題是要我怎麼回答……）,えっと……\n（そんな事を聞かれても困るって……）,,Err...\n(That's impossible to answer...)
+sentence_31104,31104,活动剧情,24,小怜,“喜欢，而且有些人还会自己穿”？,「喜歡，而且有些人還會自己穿」？,「そうね、中には好んで自分で着る人もいるわ」\nとでも言えばいいのか？,,"""They do? And some of them will even wear it?"""
+sentence_31104,31104,活动剧情,25,小怜,另外魅魔又是什么设定！\n召唤兽种类这么丰富的吗？,還有，魅魔又是什麼設定！\n召喚獸種類這麼豐富啊？,というか、サキュバスってなんだよ！？\n俺はそんなのじゃないぞ！\nそもそも召喚獣って何――,,And a succubus?\nDo summoned beasts have many different types?
+sentence_31104,31104,活动剧情,26,奥古斯塔,嘘！,噓！,――――――！ 静かに……！,,Shh!
+sentence_31104,31104,活动剧情,27,N/A,我脑中还在盘算接下来的问题，奥古斯塔突然警觉得望向门外。,我腦中還在盤算接下來的問題，奧古斯塔突然警覺地望向門外。,頭の中で色々な反論や質問が錯綜していたが、\n突然オーガスタがドアの方向を警戒し始める。,,"I still have many questions to ask, but Augusta turns and looks at the door."
+sentence_31104,31104,活动剧情,28,N/A,我顺着她的目光看去，一个身穿黑色军服、头盔上印着皇家徽记的卫兵正颤巍巍的站在门口。,我順著她的視線看過去，一個身穿黑色軍服、頭盔上印著皇家徽章的衛兵正顫顫巍巍地站在門口。,彼女の目線をたどると、黒い軍服を着た衛兵が\nドアの近くに立っていた。\n皇族を象徴する記章が彼のヘルメットに\n施されている。,,"Following her glance, I see a royal guard in his uniform standing by the door."
+sentence_31104,31104,活动剧情,29,N/A,他环视着屋里横七竖八躺倒的女官和侍卫长，然后满脸惊恐的将目光落在了我的身上。,他的視線掃過房內七橫八豎躺倒的女官和侍衛長，然後滿臉驚恐地將目光落在我的身上。,彼は部屋内に倒れている女官や近衛隊長官を\n見渡すと、驚愕した目で俺を見つめた。,,"He looks at the Chief Guard and other officers lying on the floor, then fixes his eyes on me, panicked."
+sentence_31104,31104,活动剧情,30,N/A,等等，不是我干的！！,等等，不是我幹的！！,待って待って！ 俺じゃないッ！！,,Wait! I've got nothing to do with this!
+sentence_31104,31104,活动剧情,31,N/A@卫兵,有……,有……,しっ…………,,As-
+sentence_31104,31104,活动剧情,32,N/A@卫兵,──有刺客！！！,──有刺客！！！,――侵入者だあああぁッ！！！,,Assassin!
+sentence_31104,31104,活动剧情,33,N/A,那个卫兵按住肩头像对讲机一样的东西大喊，同时哆哆嗦嗦的从腰间掏出武器。,那個衛兵按住肩頭對著像對講機一樣的東西大喊，同時哆囉哆嗦地從腰間掏出武器。,肩にあるトランシーバーのような物に向かって\n大声で叫んだ後、\n衛兵は震えながら武器を取り出した。,,The guard starts yelling over a walkie talkie as he takes out his weapon.
+sentence_31104,31104,活动剧情,34,N/A,虽然武器侧面装饰的银质雕纹护板很抢眼，但那东西的结构很明显是某种左轮手枪。,雖然武器側面裝飾的銀質雕紋護板很搶眼，但那東西的結構很明顯是某種左輪手槍。,銀色のエングレーブが美しい拳銃。\n構造的にはリボルバーで間違いない。,,It's a revolver with fine silver patterns on the sides.
+sentence_31104,31104,活动剧情,35,小怜,诶？！,欸？！,――う、うわ！？,,Holy...
+sentence_31104,31104,活动剧情,36,N/A,见到枪口忽然对准自己，我本能的想后退，却被地毯绊得一屁股坐到了地上。,看到槍口忽然對準自己，我本能地想後退，卻被地毯絆得一屁股坐到了地上。,銃口を向けられた俺は本能的に後ずさる。\n\nそのせいで、足が絨毯に引っかかって床に尻もちをついてしまった。,,"He's pointing at me! I follow my instincts and try to move backwards, but instead I trip and end up sitting on the floor."
+sentence_31104,31104,活动剧情,37,N/A,看着马上就要扣动的扳机的士兵和愚蠢到想要伸手去挡子弹的我，奥古斯塔立刻挥动起权杖。,看著馬上就要扣動扳機的士兵和愚蠢到想要伸手去擋子彈的我，奧古斯塔立刻揮動起權杖。,トリガーに指をかけて射撃しそうな衛兵と\nバカみたいに手で防ごうとする俺。\nオーガスタは王笏を振るって止めに入る。,,Augusta picks up her scepter as I'm foolish enough trying to block the bullets with my bare hands.
+sentence_31104,31104,活动剧情,38,奥古斯塔,住手！！,住手！！,や、止めろッ！！,,Stop!
+sentence_31104,31104,活动剧情,39,N/A,嘭──！嘭──！嘭──！\n嘭──！嘭──！嘭──！,砰──！砰──！砰──！\n砰──！砰──！砰──！,ダァンッ！！ ダァンッ！！ ダァンッ！！\nダァンッ！！ ダァンッ！！ ダァンッ！！,,Bang! Bang! Bang! Bang! Bang! Bang!
+sentence_31104,31104,活动剧情,40,N/A,随着六声炸响，卫兵将弹仓里的子弹被倾泻而出。,隨著六聲炸響，衛兵迅速地射出彈匣中的子彈。,──オーガスタの制止も聞かず6回の炸裂音が\n室内に響き渡る。\nそれはシリンダーに込められた弾丸の全てが\n飛び出した音だった。,,Six bullets are fired in an instant.
+sentence_31104,31104,活动剧情,41,N/A,……,……,俺は目を瞑ってうずくまり、撃たれる覚悟を\n決めた…………\n……………………\n\n…………んん？ おかしいぞ？,,...
+sentence_31104,31104,活动剧情,42,N/A,我闭着眼睛蜷在地上，浑身上下摸了摸，似乎没有受伤？,我閉著眼睛蜷在地上，渾身上下摸了摸，似乎沒有受傷？,身体を触って確かめても、痛みはないし……\n\n……どこにも命中して……いない？,,"I curl up on the floor, eyes closed. Then I check myself—I'm not wounded?"
+sentence_31104,31104,活动剧情,43,小怜,（一枪都没打中？）\n（……人体描边大师？！）,（一槍都沒打中？）\n（……是人體描邊大師嗎？！）,（ひょ、ひょっとしてクソエイム？）\n\n（全弾外れて……た、助かった？）,,(Zero for six?)\n(The worst aim ever!)
+sentence_31104,31104,活动剧情,44,N/A,那卫兵看我挨了六枪居然还在地上扭来扭去也懵了，想了好久才反应过来要换弹。,那衛兵看我挨了六槍居然還能在地上扭動也傻了，想了好久才反應過來準備換子彈。,まさかの出来事に撃った側も、撃たれた側も\n放心状態だった。\nだがしばらく経ち、先に衛兵側が我に返って\n弾丸の再装填を始める。,,The guard is surprised seeing me still moving after taking six bullets. It takes him a while before he reloads his ammo.
+sentence_31104,31104,活动剧情,45,奥古斯塔,你这召唤兽……别在那儿丢人现眼了！！\n快给我起来反击啊！！,你這召喚獸……別在那裡丟人現眼了！！\n快給我起來反擊啊！！,おい、何をしている召喚獣！\nぼけっと座ってる場合か！\nすぐに反撃するんだ！,,"Don't embarrass me, my summoned beast!\nStand up and fight back!"
+sentence_31104,31104,活动剧情,46,N/A,奥古斯塔气得将权杖戳到了地上，金属撞击发出的嗡嗡声好像能穿透我的灵魂，一直在我耳边回荡。,奧古斯塔氣得將權杖戳到了地上，金屬撞擊發出的嗡嗡聲好像能穿透我的靈魂，一直在我耳邊迴盪。,焦りを見せるオーガスタは王笏で床を叩いた。\n\nすると、その音は俺の魂を通過するかのように\n鼓膜へ反響し続ける。,,Augusta slams her scepter on the floor angrily. The clacking sound keeps echoing in my ears.
+sentence_31104,31104,活动剧情,47,N/A,一股强烈的“必须要反击”念头瞬间涌入了我的大脑，驱使我的身体自己动了起来。,一股強烈的「必須要反擊」念頭瞬間湧入了我的大腦，驅使我的身體自己動了起來。,ホッとしたのも束の間、俺の脳内が「反撃しろ」\nと言う思考で埋め尽くされた。\nそして自意識でもあるかのように身体が\n勝手に動き出す。,,"A very determined thought, ""I must fight back,"" comes across my mind, driving my body to move."
+sentence_31104,31104,活动剧情,48,小怜,怎么回事！？,怎麼回事！？,な、な、なんで、どうして――！？,,What's happening?
+sentence_31104,31104,活动剧情,49,N/A,我眼看着自己干净利落的站起来，径直冲向那个刚换好子弹准备开始第二轮射击的卫兵。,我眼看著自己乾淨俐落地站起來，直接衝向那個剛換好子彈準備開始第二輪射擊的衛兵。,勝手に立ち上がった「俺」は、リロードが終わり\n再発砲を始めようとしている衛兵に突撃する。,,"I rush to my feet, then charge at the guard who's just reloaded and is ready to fire again."
+sentence_31104,31104,活动剧情,50,小怜,（这是送死吗！？给我停下来啊！！）,（這是送死嗎！？給我停下來啊！！）,（おいおいおい、こんなの自殺行為だろ！？） \n\n（と、止まってくれぇ――！）,,(I don't have a death wish! Stop!)
+sentence_31104,31104,活动剧情,51,N/A,在奥古斯塔的视角，那只不中用的召唤兽眨眼间就起身闪到了卫兵面前，侧身轻松躲过了一枪。,在奧古斯塔的視角，那隻不中用的召喚獸眨眼間就起身閃到了衛兵面前，側身輕鬆躲過了一槍。,などと思ってたが、予想に反する動きを「俺」は\n見せる。\n「俺」は一瞬で衛兵の正面へ移動した直後、\n身を翻して容易く銃弾を躱した。,,"Augusta can't read my mind. The way she sees it, her useless summoned beast has turned into a superhero."
+sentence_31104,31104,活动剧情,52,N/A,她趁重心下移顺势一掌打中对方腹部，卫兵的黑色军服在猛烈的冲击下顿时崩裂成一条条布片。,她趁重心下移，順勢一掌打中對方腹部，衛兵的黑色軍服在猛烈的衝擊下頓時崩裂成一條條碎布。,重心を下へ移動させた勢いに乗っかり、\n相手の腹部に猛烈な掌打を放つ。\n穿たれた衛兵が着る黒色の軍服は、\n四散して無数の布切れと化して中空に舞った。,,"I arrive at the guard, dodge another bullet, then punch him in the stomach. The power of my punch... His uniform is shattered into pieces."
+sentence_31104,31104,活动剧情,53,N/A,只见那个身高近一米八左右的卫兵随着一声巨响飞出了足足六、七米远。,只見那個身高近180的衛兵隨著一聲巨響飛出了足足六、七公尺遠。,身長180センチにも及ぶ衛兵の体は凄まじい音と\n共に、数メートル先まで吹き飛んでいった。,,The tall guard is sent flying with a mighty whomp.
+sentence_31104,31104,活动剧情,54,N/A,在落地后，还在惯性驱使下滑了一段距离，随后便陷入了沉默。,落地後，還因為慣性而滑行了一段距離，隨後便陷入了沉默。,吹き飛ぶ勢いは尋常ではなく、床に転がっても\n一定距離を滑っていく衛兵。,,The blow is so powerful that he slides back further even after he lands.
+sentence_31104,31104,活动剧情,55,N/A,………………,………………,………………そして長い沈黙。\n\n役に立たない召喚獣などとは到底思えない\n動きだった。,,...
+sentence_31104,31104,活动剧情,56,N/A,感觉身体再度恢复控制的我张大着嘴巴盯着躺在远处的卫兵，又扭头看了看奥古斯塔。,感覺身體再度恢復控制的我，張大著嘴巴盯著躺在遠處的衛兵，又轉頭看了看奧古斯塔。,身体の制御を「取り戻した」俺は\n( ﾟдﾟ)と遠くで倒れている衛兵を見た後、\n振り返ってオーガスタに話しかけた。,,"I regain control of my body. I'm still in disbelief, unable to close my mouth. I turn around and look at Augusta."
+sentence_31104,31104,活动剧情,57,小怜,刚才……是你？,剛才……是妳？,こ、これって、君の仕業なのか……？,,Did you do something to me?
+sentence_31104,31104,活动剧情,58,N/A,绝对是这个女孩在搞鬼吧？！,絕對是這個女孩在搞鬼吧？！,この子、これほどの力を持っているなんて……,,"It must be this girl's doing, no doubt."
+sentence_31104,31104,活动剧情,59,N/A,没想到奥古斯塔比我还要惊讶，声音有些颤抖。,沒想到奧古斯塔比我還要驚訝，聲音有些顫抖。,しかしオーガスタは俺よりも驚いている様子で、\n動揺のあまり声が震えていた。,,"Augusta's more surprised than I am, her voice shaking."
+sentence_31104,31104,活动剧情,60,奥古斯塔,好、好强……！,好、好強……！,な、な、何たる…つ、強さ……！,,Im- Impressive...
+sentence_31104,31104,活动剧情,61,N/A,原来你也没数的吗！,原來妳也搞不清楚狀況嗎！,……君じゃなかったのかよ。,,"You have no clue, either?!"
+sentence_31104,31104,活动剧情,62,N/A,我刚才那套动作风格很像安妮的体术，但即使是她也没有那么大的力量吧……,我剛才那套動作風格很像安妮的體術，但即使是她也沒有那麼大的力量吧……,さっきの動きはアニーの体術と似ている。\nいや、アニーよりも凄まじい動きで戦えていた。\nもちろん普段の俺が出来る動きじゃない。\n\nそれがなぜ「俺」に出来たのか。,,"My moves were similar to Annie's, but even she doesn't have that kind of strength..."
+sentence_31104,31104,活动剧情,63,N/A,而且仔细想想，黑色金边军服、镶着徽记的头盔还有枪上的银质雕纹，这些都是一战前的风格。,而且仔細想想，黑色金邊軍服、鑲著徽章的頭盔，還有槍上的銀質雕紋，都是一戰前的風格。,そもそも話は変わるが、黒と金色の軍服に\nヘルメットのシンボル、銃身のエングレーブ……\nすべてが第一次世界大戦以前のスタイルだ。,,Now that I think about it—the uniform style of the guard and the silver patterns on his weapon were consistent with the era before World War I.
+sentence_31104,31104,活动剧情,64,N/A,但那个类似对讲机的通信装置，还有可以六发子弹同时装填的新式左轮，肯定不是那个年代的技术。,但那個類似對講機的通訊裝置，還有可以六發子彈同時裝填的新式左輪，一定不是那個年代的技術。,だけど弾丸6発を同時に装填可能な\nオートマチックリボルバーや、\nトランシーバーみたいな通信装置なんて、\nそんな時代には存在していなかったはず。,,But that walkie talkie? And the revolver that can fire six bullets? They don't belong to that era!
+sentence_31104,31104,活动剧情,65,小怜,所以这不是什么时间穿越……,所以，這不是什麼穿越時空……,ということは……\n\n俺はタイムスリップしたのではなく……,,So it's not time travel...
+sentence_31104,31104,活动剧情,66,N/A,这里是……异世界！？,這裡是……異世界！？,もしかして……ここは異世界だったりして！？,,This is... the Otherworld?!
+sentence_31104,31104,活动剧情,67,N/A,来异世界不是应该有个笨蛋女神或者贤者爷爷什么的吗！？这和书上写的不一样啊！！,異世界不是應該有個笨蛋女神或者賢者爺爺什麼的來迎接嗎！？這和書上寫的不一樣啊！！,だけど異世界なら賢者の爺さんとか駄女神とか\n封印されたドラゴンとかがいるはずだ……！\n書籍から学んだ知識では少なくとも展開的に\nそうなっていた……！！,,But this Otherworld is nothing like what's described in the light novel I read.
+sentence_31104,31104,活动剧情,68,N/A,而且手机也因为昨晚看动画时睡着而没电了……这简直是最糟糕的状况了吧！？,而且手機也因為昨晚看動畫時睡著而沒電了……這簡直是最糟糕的狀況了吧！？,昨晩、動画漁りをしながら寝落ちしていたから\nスマホの電源が切れてるし……\nこれが本当に異世界転生だとしたら嫌──,,My phone died cuz I fell asleep last night watching anime... Could my situation get any worse?
+sentence_31104,31104,活动剧情,69,N/A,咚──！！,咚──！！,──ゴチンッ！！,,Bang—!!
+sentence_31104,31104,活动剧情,70,N/A,奥古斯塔用权杖敲了一下我的后脑勺，我头上瞬间鼓起一个大包。,奧古斯塔用權杖敲了一下我的後腦杓，我頭上瞬間鼓起一個大包。,俺の後頭部を王笏で殴るオーガスタ。\n頭にタンコブが出来てしまう。,,Augusta knocks the back of my head with her scepter hard enough to cause a bump.
+sentence_31104,31104,活动剧情,71,小怜,你干嘛啊──！,妳幹嘛啊──！,な、なにすんだよ――！？,,What're you doing?
+sentence_31104,31104,活动剧情,72,奥古斯塔,肉体强度这么弱，是怎么做出那种力度的攻击的？,肉體強度這麼弱，是怎麼做出那種力道的攻擊的？,肉体は脆弱だと言うのに、どうやってあの攻撃を\n耐え抜いたのか……？,,You can't even withstand such a weak strike. How did you pull off those fierce attacks earlier?
+sentence_31104,31104,活动剧情,73,N/A,奥古斯塔全然无视我的抗议，托起下巴认真思考着。,奧古斯塔完全忽略我的抗議，托著下巴認真思考著。,オーガスタは俺の抗議を無視して、手を顎に\n当てながら真剣に考えている様子だ。,,"Augusta ignores my question/objection, deep in thought."
+sentence_31104,31104,活动剧情,74,小怜,……什么意思？,……什麼意思？,た、耐え抜いた……と言うと？,,... What do you mean?
+sentence_31104,31104,活动剧情,75,奥古斯塔,牛顿第三定律没学过吗？\n果然低等召唤兽都没什么文化……,牛頓第三定律沒學過嗎？\n果然低等召喚獸都沒什麼知識……,運動の第3法則を学んでいないのか？\n\nかのニュートンを知らないとは、\nやはり知識レベルの低い召喚獣だな……,,"Do you not know Newton's third law of motion?\nLow-level summoned beasts are uneducated, no surprise..."
+sentence_31104,31104,活动剧情,76,N/A,这里也有那个家伙吗？果然去哪都要学物理吗？！\n这个异世界也太奇怪了吧！！！,這裡也有那個傢伙嗎？果然去哪都要學物理嗎？！\n這個異世界也太奇怪了吧！！！,アイツこの世界にもいるのかよ！？ \n\n異世界でも物理学を勉強する羽目になるとか\n俺は嫌だぞ！？,,"That type of person exists in the Otherworld, too? I just gotta learn physics no matter where I go?!\nI don't like this Otherworld!"
+sentence_31104,31104,活动剧情,77,N/A,奥古斯塔走到我刚才摔到的地方，从地上捡起一枚被压扁变形的弹头。,奧古斯塔走到我剛才摔到的地方，從地上撿起一枚壓扁變形的彈頭。,オーガスタは俺が転がっていた場所へ移動して、\n床に落ちていた弾頭を拾った。\n確認した弾頭は歪な形に潰れている。,,Augusta walks to where I fell earlier and picks up a flattened bullet.
+sentence_31104,31104,活动剧情,78,奥古斯塔,难道瓦格纳老师教的那个术式……,難道華格納老師教的那個術式……,ふむ……ワーグナー先生のあの術式……,,Could this be the move Teacher Wagner mentioned?
+sentence_31104,31104,活动剧情,79,N/A,奥古斯塔回头看着蹲在那委屈的揉脑袋的小怜，将弹头在手里攥紧。,奧古斯塔回頭看著蹲在那委屈地揉腦袋的小憐，將彈頭緊握在手中。,弾頭を手に収めて振り返るオーガスタ。\n\n視線の先ではレンが殴られた頭をさすりながら\nうずくまっている。,,"Augusta turns around and looks at Ren, who's still scratching the bump on her head."
+sentence_31104,31104,活动剧情,80,奥古斯塔,『莱茵的黄金守护』……能够在她身上生效？,「萊茵的黃金守護」……能夠在她身上生效？,『ラインの黄金守護』は……彼女の身に\n適用できるのか？,,"""Rhine's Golden Protection"" could work on her?"
+sentence_31104,31104,活动剧情,81,N/A,突然，外面传出一阵尖锐的金属断裂的响声。,突然，外面傳出一陣尖銳的金屬斷裂聲。,考えを巡らせるオーガスタだったが、外から\n金属を断裂したような音が突如として響き、\n思考を中断させられた。,,"All of a sudden, there's a sharp metal scraping sound."
+sentence_31104,31104,活动剧情,82,N/A,奥古斯塔从卧室门口望出去，走廊尽头的铁闸正缓缓打开，门后是数十名严阵以待的卫戍军。,奧古斯塔從臥室門口望出去，走廊盡頭的鐵閘正緩緩打開，門後是數十名嚴陣以待的衛戍軍。,部屋の入口から外を見ると、廊下の向こう側に\n設置された金属ゲートが徐々に開かれていた。\nゲートには数十人にも及ぶ戦闘準備を終えた\n近衛兵達が待機している。,,Augusta looks out of the bedroom. The gate at the end of the hallway is slowly being opened. Behind it are dozens of heavily armed soldiers.
+sentence_31104,31104,活动剧情,83,N/A,一个军官模样的人正在指挥士兵分小队前进，每队前进几米就架好武器掩护后面的小队。,一個軍官模樣的人正在指揮士兵分小隊前進，每隊前進幾公尺就架好武器掩護後面的小隊。,指揮官らしき1人が指示をすると、近衛兵達は\n小隊に分かれて前進を始めた。\n小隊は数メートルごとに銃を構え、後続部隊が\n進むためのカバーを行っている。,,"A man that looks like an officer is commanding the soldiers to advance in small groups. Each group reaches its position, then stands by to provide cover for the groups behind."
+sentence_31104,31104,活动剧情,84,N/A,与此同时，窗外也传来一阵躁动，不知从哪冒出来的几十名士兵此时已经瞄准了卧室的窗口。,在此同時，窗外也傳來一陣騷動，不知從哪冒出來的幾十名士兵此時已經瞄準了臥室的窗口。,窓の外も何やら騒がしい。\nどうやら別働隊も沢山いる様子だ。\n彼らはこちらの部屋の窓に向けて\n狙いを定めながら様子をうかがっている。,,"Meanwhile, there's a commotion outside the window. Another team of soldiers has the bedroom in its crosshairs."
+sentence_31104,31104,活动剧情,85,N/A,远处还陆陆续续不断有士兵聚集到楼下的广场，将整栋建筑物围了个水泄不通。,遠處還陸陸續續有士兵聚集到樓下的廣場，將整棟建築物包圍得水洩不通。,遠方を眺めるとさらに無数の近衛兵達が続々と\n下の広場に集合しており、\n建築物全体の包囲を開始していた。,,More soldiers are gathered downstairs. They've surrounded the entire building—not even a fly can escape.
+sentence_31104,31104,活动剧情,86,奥古斯塔,糟，被她知道了！,糟糕，被她發現了！,不味い、彼女に気付かれた……！,,She's been notified. That's not good!
+sentence_31104,31104,活动剧情,87,小怜,她……？\n咱们怎么办？！,她……？\n那我們要怎麼辦？！,か、彼女……？\nやばい感じか、その人？,,She?\nWhat should we do now?
+sentence_31104,31104,活动剧情,88,N/A,现、现在道歉还来得及吗？,現、現在道歉還來得及嗎？,い、今から土下座すればまだ間に合うかな？,,It's a bit late for an apology.
+sentence_31104,31104,活动剧情,89,N/A,奥古斯塔把卧室门关上，并马上将我从窗口拉开推向墙角。,奧古斯塔把臥室門關上，並馬上將我從窗口拉開推向牆角。,オーガスタは寝室の扉を閉じ、\n俺を窓から引き離して部屋の角へと押し込んだ。,,Augusta closes the bedroom door and quickly pushes me away from the window.
+sentence_31104,31104,活动剧情,90,奥古斯塔,别靠近窗户，小心狙击！,別靠近窗戶，小心狙擊！,窓に近付くな、狙撃されるぞ！,,Don't go near the window. They have snipers!
+sentence_31104,31104,活动剧情,91,奥古斯塔,刚才你没被打死可能只是侥幸……\n一会记得离我近点！,剛才妳沒被打死可能只是僥倖……\n等會兒記得離我近一點！,さっき殺されなかったのは運が良かった\nだけかもしれない。\n私から離れるなよ……,,"It was sheer luck you didn't get killed earlier.\nStay right next to me now, you hear?"
+sentence_31104,31104,活动剧情,92,N/A,看她严肃的表情，我乖乖的点了点头，走廊的脚步声离这里越来越近。,看她嚴肅的表情，我乖乖地點了點頭，走廊的腳步聲離這裡越來越近。,緊張した面持ちをしているオーガスタの前に、\n大人しく俺は頷いた。\n同時に廊下から足音が一歩一歩と近付いてくる。,,She isn't joking. I nod my head as I hear the footsteps outside drawing near.
+sentence_31104,31104,活动剧情,93,N/A,奥古斯塔用身体护住我，双眼紧盯着大门，防止一会冲进来的士兵二话不说直接将我射杀。,奧古斯塔用身體護住我，雙眼緊盯著大門，防止一會衝進來的士兵二話不說直接將我射殺。,オーガスタは扉を見つめながら俺と扉の間に\n移動した。\n突入した兵士が俺を即射殺しないように、\n自ら庇ってくれているのか……,,"Augusta gazes at the door, using her body to shield me in case the soldiers shoot me dead as soon as they rush in."
+sentence_31104,31104,活动剧情,94,奥古斯塔,还是这么不留余地吗……,還是這麼不留餘地嗎……,相変わらず容赦のない……,,"Merciless as always, huh?"
+sentence_31104,31104,活动剧情,95,N/A,奥古斯塔紧握住权杖，回头扫了一眼自己身后那只快要缩成蘑菇的低等魅魔。,奧古斯塔緊握住權杖，回頭瞄了一眼背後那隻快要縮成蘑菇的低等魅魔。,オーガスタは王笏を握り締め、後ろで丸く\n縮こまるレッサーサキュバスを横目で確認する。,,"Augusta holds her scepter tightly as she turns around for a quick glance of her low-level ""succubus."""
+sentence_31104,31104,活动剧情,96,奥古斯塔,只能赌一赌了……,只能賭一賭了……,賭けるしかないか……,,I have no other choices now...
+sentence_31104,31104,活动剧情,97,N/A,她将权杖抬起，重重的戳到地上，发出“当”的一声巨响。,她將權杖抬起，重重地戳到地上，發出「噹」的一聲巨響。,その直後、彼女は高らかに持ち上げた王笏で\n力強く床を叩いた。\n「ドンッ！！」と、大きな音が室内に響く。,,"She lifts her scepter, then slams it on the floor!"
+sentence_31104,31104,活动剧情,98,奥古斯塔,我命令你──,我命令你──,我が命じる──,,I order you...
+sentence_31104,31104,活动剧情,99,奥古斯塔,带我离开这！,帶我離開這！,ここから我を連れ出すのだッ！！,,To get me out of here!
+sentence_31104,31104,活动剧情,100,N/A,那种熟悉的感觉再度出现，犹如大钟在山谷中回荡的余韵，萦绕着我的全身。,那種熟悉的感覺再度出現，猶如大鐘在山谷中迴盪的餘音，縈繞著我的全身。,すると彼女の声が谷底から木霊する\n鐘の音のように俺の全身に纏わりついた。\nああ、またあの感覚だ……！,,"The same feeling strikes again, the echoing of her order filling my ears."
+sentence_31104,31104,活动剧情,101,N/A,怎么离开？这个世界有传送门？,怎麼離開？這個世界有傳送門？,って言っても、どうやって逃げるんだよ！？\n\nど●でもドアでも使うとかか！？,,Leave how? Is there a teleportation portal hidden somewhere?
+sentence_31104,31104,活动剧情,102,N/A,不对，有牛顿的地方怎么可能有传送门！,不對，有牛頓的地方怎麼可能有傳送門！,ニュートンがいる世界にそんな便利道具が\nある訳ないだろうし……,,"There can't be. Where there's Newton, there's no teleportation!"
+sentence_31104,31104,活动剧情,103,N/A,还是说这个女生是我的Master，我能带她一起瞬移到别的地方？,還是說，這個女生是我的Master，我能帶她一起瞬移到別的地方？,それとも、この娘は俺のマスターらしいから、\n\n3回までしか使えない命令権を使えば彼女と\n一緒にテレポートでも出来たりするのか！？,,"Or, because this girl is my ""master,"" I automatically gain the power to teleport her?"
+sentence_31104,31104,活动剧情,104,N/A,我的脑子开始胡思乱想。,我的腦子開始胡思亂想。,支離滅裂な思考を暴走させるが、それすら彼女の\n声の反響で掻き消えてしまう。,,The wildest thoughts run through my mind.
+sentence_31104,31104,活动剧情,105,小怜,（带她离开这里……）\n（嗯……离开……）,（帶她離開這裡……）\n（嗯……離開……）,（駄目だ……身体が勝手に……）\n（彼女を……連れ出さないとって……）,,(Get her out of here...)\n(Leave... here...)
+sentence_31104,31104,活动剧情,106,N/A,然而，身体纹丝不动。,然而，身體紋風不動。,身体の制御が奪われ、そして……\n\n…………「俺」はピクリとも動かない。,,My body doesn't move one bit.
+sentence_31104,31104,活动剧情,107,N/A,我就像看着主人把飞盘丢下悬崖的狗狗，一脸茫然的看着她。,我就像看著主人把飛盤丟下懸崖的狗狗，一臉茫然地看著她。,まるで飼い主の投げたフリスビーが崖の下へ\n落ちていくのを目撃した犬のように──\n俺は呆然とオーガスタを見つめ続けていた。,,All I can do is stare at her like a confused puppy staring at its owner.
+sentence_31104,31104,活动剧情,108,小怜,……怎、怎么离开？,……怎、怎麼離開？,……あの……身体が動かなくなったんだけど。\n\nど、どうしよう？,,Leave how?
+sentence_31104,31104,活动剧情,109,N/A,奥古斯塔红着脸把头扭了过去。,奧古斯塔紅著臉把頭轉了過去。,顔を赤くするオーガスタ。,,"Augusta turns her face around, a bit embarrassed."
+sentence_31104,31104,活动剧情,110,奥古斯塔,我哪知道啊！！,我哪知道啊！！,し、知らんわ！,,I don't know...
+sentence_31104,31104,活动剧情,111,N/A,此时，门外的脚步声消失了。,此時，門外的腳步聲消失了。,そうこうしている内に、扉の外の足音が\n止まった事に気付いた。,,"Suddenly, the footsteps have disappeared."
+sentence_31104,31104,活动剧情,112,N/A,在一片死寂中，我几乎能想象门外那些士兵摆好阵势，随时准备破门而入的画面。,在一片死寂中，我幾乎能想像門外那些士兵擺好陣勢，隨時準備破門而入的畫面。,この静寂は……扉の前で突入準備をしている\n兵士達の姿を容易く想像できる。,,They're ready to charge! I can see them coming.
+sentence_31104,31104,活动剧情,113,N/A,奥古斯塔的呼吸也变得急促，似乎做好了顽抗到底的准备。,奧古斯塔的呼吸也變得急促，似乎做好了頑抗到底的準備。,オーガスタの呼吸もペースが早くなっている。\n\nどうやら彼女は最後まで抗うつもりだ。,,"Augusta is breathing heavily, ready to put up her last fight."
+sentence_31104,31104,活动剧情,114,N/A,我的身体突然动了起来，只见我单膝跪地，右手扶住她的后背，左手隔着披风揽住她的大腿。,我的身體突然動了起來，只見我單膝跪地，右手扶住她的後背，左手隔著披風攬住她的大腿。,その様子を見ている最中、\n突然「俺」は動き始めた。\n片膝を床につけ、右手は彼女の背中に、\n左手は彼女の太ももをマント越しに掴む。,,"In this most crucial moment, my body starts moving. One knee on the ground, I use my right hand to lift her back and my left hand to grab her legs."
+sentence_31104,31104,活动剧情,115,奥古斯塔,你、你干嘛！？,妳、妳幹嘛！？,ぶ、無礼な、一体何をするつもりだ！？,,What're you doing?
+sentence_31104,31104,活动剧情,116,N/A,说实话，我也很好奇！,老實說，我也很好奇自己在幹嘛！,奇遇だな、俺も聞きたいぜッ！！,,Her guess is as good as mine...
+sentence_31104,31104,活动剧情,117,N/A,随后我双臂上钩，将她整个横着抱了起来。,接著，我雙臂上勾，將她整個公主抱了起來。,その体勢のまま、「俺」は彼女を抱き上げる。,,"The next thing I know, I'm carrying her in my arms!"
+sentence_31104,31104,活动剧情,118,小怜,（……公主抱？）\n（不过好像并不觉得沉……）,（……公主抱？）\n（不過好像並不覺得重……）,（……お姫様抱っこ？）\n\n（思ったより軽いな……）,,"(...Is this some romantic trope?)/n(She doesn't feel heavy, though...)"
+sentence_31104,31104,活动剧情,119,N/A,她本想挣脱，但很快就明白这大概是我对她命令的回应。,她本想掙脫，但很快就意識到這大概是我對她命令的回應。,最初は暴れていたオーガスタも、すぐ「俺」が\n彼女の「命令」に応えているのだと気付く。,,"She first wants to break free, then realizes I'm following her order."
+sentence_31104,31104,活动剧情,120,N/A,奥古斯塔不再抵抗，还很配合的搂住了我的脖子。,奧古斯塔不再抵抗，還很配合地摟住了我的脖子。,彼女はもがくのを止めて俺の首筋に腕を回した。,,"So, instead of fighting my ""inappropriate"" behavior, she puts her arms around my neck."
+sentence_31104,31104,活动剧情,121,N/A,我抱着她走到房门左侧，贴墙站好，我们都默契的屏住了呼吸，静静的等着那个时刻──,我抱著她走到房門左側，貼牆站好。我們有默契地屏住呼吸，靜靜地等著那個時刻──,彼女をしっかりと抱きながら、「俺」は\n扉の左側へと移動してタイミングを見計らう──,,"I carry her to the left side of the door and stand with my back against the wall. We both hold our breath, waiting for the moment."
+sentence_31104,31104,活动剧情,122,N/A,几秒之后，木质大门“轰”的被炸开，同时一枚冒着蓝烟的黑色金属物体被丢了进来。,幾秒之後，木質大門「轟」地被炸開，同時一枚冒著藍煙的黑色金屬物體被丟了進來。,数秒後「バキィッ！！」と音が炸裂して\n木製の扉は破壊された。\nそれと同時に青い煙を発する黒色の金属の物体が\n部屋内に投げ込まれる。,,"A few seconds later, the door is kicked open. Then, a black metal object with blue smoke gets thrown inside."
+sentence_31104,31104,活动剧情,123,小怜,（什么东西？！）,（什麼東西？！）,（なんだこれは！？）,,(What's this thing?)
+sentence_31104,31104,活动剧情,124,N/A,我的身体比意识更快一步，一脚就把那东西踢出了窗外，楼下的广场传来一阵骚动。,我的身體比意識更快一步，一腳就把那東西踢出了窗外，樓下的廣場傳來一陣騷動。,俺の思考よりも数秒早く身体の方が反応する。\n\nその金属の物体を窓の外へ蹴っ飛ばすと、\n下の広場が大騒ぎと化した。,,My body reacts faster. I kick that thing right out of the window. A commotion follows downstairs.
+sentence_31104,31104,活动剧情,125,N/A,回头看向门口，几个端着武器、头戴防毒面具的士兵还没理解刚才发生的一幕。,回頭看向門口，幾個拿著武器、頭戴防毒面具的士兵還沒理解剛才發生的一幕。,──木製の扉の方に視線を戻す。\n\n武器を構えてガスマスクを着用した近衛兵達は、\nどうやらまだ状況を掴めていない様子だ。,,I look back at the door—the armed soldiers haven't realized what just happened.
+sentence_31104,31104,活动剧情,126,N/A,我快步上前对着中间那个倒霉蛋的面门就是一脚。,我快步上前對著中間那個倒楣鬼的門面就是一腳。,すぐさま突進を敢行して、真正面にいた\n不幸なヤツの顔面に蹴りを放った。,,I charge at them and kick the soldier right in the middle of his face.
+sentence_31104,31104,活动剧情,127,N/A,那家伙顿时像橄榄球一样飞了出去，还撞倒了后面几名士兵。,那傢伙頓時像橄欖球一樣飛了出去，還撞倒了後面幾名士兵。,強烈な威力で吹き飛んだ近衛兵は、後ろにいた\n奴らを巻き込みドミノ倒しで倒れていく。\nまるでボーリングのボールとピンみたいだ。,,I punt him into the air like a football. A few other soldiers are knocked down together with him from the heavy impact.
+sentence_31104,31104,活动剧情,128,N/A,我抱紧奥古斯塔，抓住这短暂的空档冲向走廊，然后迈开大步就开始飞奔──,我抱緊奧古斯塔，抓住這短暫的空檔衝向走廊，然後邁開大步開始狂奔──,ひるんだ隙を見逃さない「俺」は、オーガスタを\n抱えながら廊下へと全速力でダッシュする。,,"This is our chance. I hold Augusta tightly and rush to the hallway, then start running for my life."
+sentence_31104,31104,活动剧情,129,小怜,（不会是要一路跑出去吧？！）,（不會是要一路跑出去吧？！）,（このまま外まで走るつもりか！？）,,(Will I run all the way until we're safe?)
+sentence_31104,31104,活动剧情,130,N/A,可这速度也……,可這速度也……,だけど、このスピード……,,But this speed...
+sentence_31104,31104,活动剧情,131,N/A,太快了啊啊啊啊啊啊啊啊啊啊！！！！！！！！,太快了啊啊啊啊啊啊啊啊啊啊！！！！！！！！,速すぎだってえええぇぇぇ――――！！！,,I'm faaaaast!
+sentence_31104,31104,活动剧情,132,N/A,与此同时，在另一侧。,在此同時，另一側。,――同時刻 アニーとラファエル。,,"Meanwhile, in the parallel world..."
+sentence_31104,31104,活动剧情,133,N/A,安妮正用手机搜索着任何能将『永恒』和『彩蛋』联系起来的线索。,安妮正用手機搜尋著任何能將「永恆」和「彩蛋」連結起來的線索。,アニーは「永遠」と「イースター・エッグ」に\n繋がる手掛かりを携帯で検索している。,,Annie is using her phone to find out possible connections between ÄON and the Fabergé Eggs.
+sentence_31104,31104,活动剧情,134,N/A,即使在SID和新丰洲科学院的数据库中也找不到什么有价值的信息。,即使在SID和新豐洲科學院的資料庫中也找不到什麼有價值的資訊。,しかしSIDと新豊洲科学院のデータベースを\n調べ尽くしても、\n有用であろう情報は一切発見できなかった。,,"Unfortunately, there's no valuable information in the databases of SID and the New Opulentia Academy of Sciences."
+sentence_31104,31104,活动剧情,135,N/A,拉斐尔给萨蒙顿境内对沙皇时期艺术品有过研究的教授挨个打了电话，但同样所获甚少。,拉斐爾一一撥了電話給薩蒙頓境內對沙皇時期藝術品有過研究的教授，但同樣所獲甚少。,ラファエルもツァーリ時代の芸術品を\n熟知している知人の教授に電話したが、\n特には収穫を得ることができなかった。,,"Raphilia has also called all the professors in Salmonton. They're supposed to be experts in ancient Russian arts, but so far, no one has been able to provide anything useful."
+sentence_31104,31104,活动剧情,136,拉斐尔,三十分钟……,三十分鐘……,30分……,,Thirty minutes...
+sentence_31104,31104,活动剧情,137,拉斐尔,三十分钟内再找不到线索，我就向爷爷求助。,三十分鐘內再找不到線索，我就向爺爺求助。,あと30分以内に手掛かりを掴めなければ、\nお爺様に助けを求めるわ。,,"If we still don't have any clues after thirty minutes, I'll ask my grandpa for help."
+sentence_31104,31104,活动剧情,138,安妮,那样就算能把小怜找回来，戴克斯博士也不会轻易放过她吧……,那樣就算能把小憐找回來，戴克斯博士也不會輕易放過她吧……,それでレンちゃんを見つけ出せても、\nデックス博士は簡単に帰してくれないと思う。,,"But if you do that, Dr. Deckers will become another problem..."
+sentence_31104,31104,活动剧情,139,N/A,安妮头也没抬的回道。,安妮頭也沒抬地回道。,アニーは顔を上げすに返答する。,,Annie replies.
+sentence_31104,31104,活动剧情,140,安妮,毕竟他也知道小怜的价值。,畢竟他也知道小憐的價值。,博士はレンちゃんの価値を知っているから。,,"He knows the value of Ren, too."
+sentence_31104,31104,活动剧情,141,拉斐尔,有我在就不允许──,有我在就不允許──,私がそんな事させないわよ……,,Not under my watch...
+sentence_31104,31104,活动剧情,142,N/A,拉斐尔并没有底气把话说完，她的记忆中，爷爷总有办法达成自己的目的。,拉斐爾沒有自信把話說完。在她的記憶中，爺爺總有辦法達成自己的目的。,ラファエルの言葉にはいつもの覇気がない。\n\n彼女の知る祖父はあらゆる手段で自分の目的を\n達成する人だ。,,"Raphilia doesn't finish her sentence. She isn't certain, either. Her grandpa always has ways to get what he wants, after all."
+sentence_31104,31104,活动剧情,143,N/A,她刚刚甚至想过，这次事件会不会就是爷爷一手设计的，但很快就打消了这个念头。,她剛剛甚至想過，這次事件會不會就是爺爺一手設計的，但很快就打消了這個念頭。,今回の件も実は、祖父の計画の一端ではないか\nと……思ったが、\nラファエルはすぐさま心の中で否定する。,,"For a moment, she even suspects her grandpa is behind all this. But then, she quickly denies her own thought."
+sentence_31104,31104,活动剧情,144,拉斐尔,（爷爷是不会用我做诱饵的。）,（爺爺是不會用我做誘餌的。）,（お爺様が、私を囮にするなんて絶対に……）,,(My grandpa would never put me in danger.)
+sentence_31104,31104,活动剧情,145,安妮,对了，你刚才说这枚彩蛋是二战期间德军从巴黎撤退时留在这的？,對了，你剛才說這顆彩蛋是二戰期間德軍從巴黎撤退時留下來的？,さっきのラファエルの話を整理すると。\n\n第二次大戦中、ドイツ軍がパリから撤退する際\nこの場所に置いていった物。\nそれが、このイースター・エッグって事だよね？,,You were saying the egg was left here after the German troops retreated from Paris?
+sentence_31104,31104,活动剧情,146,拉斐尔,没错，在此之前彩蛋一直保存在慕尼黑。,沒錯，在那之前，彩蛋一直保存在慕尼黑。,その通り。\n\nそれ以前はずっとミュンヘンで保管されていた\nようね。,,Yep. It used to be stored in Munich.
+sentence_31104,31104,活动剧情,147,拉斐尔,当时把彩蛋带过来的是一个叫『祖先遗产学会』的组织，专门为纳粹搜寻各种传说中的圣物。,當時把彩蛋帶過來的是一個叫「祖先遺產學會」的組織，專門為納粹搜尋各種傳說中的聖物。,当時このエッグをこの場所まで持って来たのは\n『祖先遺産学会』という組織よ。\n話によると、彼らは伝説で語られている聖物を\nナチスのために色々と探していたらしいわ。,,Ahnenerbe brought this egg here. It was an organization dedicated to collecting all kinds of legendary artifacts for the Nazis.
+sentence_31104,31104,活动剧情,148,安妮,就是收集『EX级异质物』吧？,就是收集「EX級異質物」吧？,つまり『EX級異質物』を集めてたって感じ？,,As in Substance H?
+sentence_31104,31104,活动剧情,149,拉斐尔,可以这么说……但当时人们对异质物的认识还很粗浅，也没有相应的探查手段。,可以這麼說……但當時人們對異質物的認識還很粗淺，也沒有相應的探查方式。,間違ってないけど……あの時代だと\n異質物に対する知識が少ない上、\n有効な捜索手段も人々は持っていないのよ。,,You could say that. Only then people didn't know much about Substance H and lacked the means to detect it.
+sentence_31104,31104,活动剧情,150,安妮,他们是希望用这枚彩蛋获取某种EX级异质物吗？,他們是希望用這顆彩蛋獲取某種EX級異質物嗎？,このエッグを利用して、何かの『EX級異質物』\nを彼らが手に入れようとしていたとかは？,,Were they hoping this egg could lead them to EX level Substance H?
+sentence_31104,31104,活动剧情,151,N/A,拉斐尔无奈的摇了摇头。,拉斐爾無奈地搖了搖頭。,ラファエルは残念そうに頭を振った。,,Raphilia shakes her head.
+sentence_31104,31104,活动剧情,152,拉斐尔,那个组织在1944年因为某个事件被完全抹杀了，没有留下任何文件，甚至连活口都没有……,那個組織在1944年因為某個事件被完全消滅了，沒有留下任何文件，甚至連活口都沒有……,その組織は1944年のとある事件で完全に\n抹消された。\n文書どころかメンバーまで1人残らずに……,,"That organization was completely wiped out after an incident in 1944. No documents were left behind, and no members survived..."
+sentence_31104,31104,活动剧情,153,安妮,……啊！,……啊！,……あっ！！！,,Ahh!
+sentence_31104,31104,活动剧情,154,N/A,安妮眼睛一亮，好像找到了什么。,安妮眼睛一亮，好像找到了什麼。,何かに気付いたのか、唐突に声を上げるアニー。,,Her eyes widen. Annie seems to have found something.
+sentence_31104,31104,活动剧情,155,拉斐尔,怎么？,怎麼？,な、なによ突然？,,What is it?
+sentence_31104,31104,活动剧情,156,安妮,我刚才忽然想到可以试试在神话传说中搜索──,我剛才忽然想到，可以試試在神話傳說中搜尋──,さっき神話とか伝説の関連で検索しようと\n思ったんだけど──,,I was searching mythologies.
+sentence_31104,31104,活动剧情,157,安妮,『永恒』是俄耳甫斯神话中表时间的神明埃安，埃安创造了宇宙的银蛋，又被称作俄耳甫斯蛋……,「永恆」是奧菲斯神話中代表時間的神明埃安，埃安創造了宇宙的銀蛋，又被稱作奧菲斯蛋……,「永遠」ってもしかしてオルペウス教の伝承に\n出てくる時間の神「アイオーン」かな？ \n「オルペウスの卵」とも呼ばれている、\nアイオーンが創造した「宇宙卵」の話……,,ÄON is the God of Time in the mythology of Orpheus. He created the cosmic egg also known as the Orphic Egg...
+sentence_31104,31104,活动剧情,158,拉斐尔,埃安确实和『ÄON』的发音接近……,埃安確實和「ÄON」的發音接近……,確かに「アイオーン」と「ÄON」の発音は\n近いと思うけど……,,I think you're onto something.
+sentence_31104,31104,活动剧情,159,拉斐尔,不过那个神话系和希腊以及罗马神话之间本来就有很多互相借鉴的东西。,不過，那個神話系列和希臘以及羅馬神話之間，本來就有很多互相參考的東西。,あの伝承は元々、ギリシャ神話やローマ神話との\n間に共通点が多いものよ？,,But there are areas that overlap in different mythology systems.
+sentence_31104,31104,活动剧情,160,拉斐尔,而且那些神话传说和小怜有什么关系？,而且，那些神話傳說和小憐有什麼關係？,それに神話や伝承に関して、女装癖と何の\n関連性が――,,"Besides, how's the mythology connected to Ren?"
+sentence_31104,31104,活动剧情,161,N/A,安妮微笑着将手机递给了拉斐尔。,安妮微笑著將手機遞給了拉斐爾。,アニーは何も言わず、微笑みながら携帯を\nラファエルに渡した。,,"Annie hands over her phone to Raphilia, a smile on her face."
+sentence_31105,31105,活动剧情,﻿1,N/A,巴黎郊外，伊芙琳省某处。,巴黎郊外，伊夫林省某處。,パリ郊外、イヴリーヌ県内某所。,,"Somewhere in Yvelines, outside of Paris"
+sentence_31105,31105,活动剧情,2,N/A,呼──呼──\n哈……,呼──呼──\n哈……,ヒィ……ヒィ……\nフゥ――……,,Phew…\nHow about that?
+sentence_31105,31105,活动剧情,3,N/A,我刚才像一辆失控的重型卡车，撞飞了数十名士兵和好几道路障。,我剛才像一輛失控的重型卡車，撞飛了數十名士兵和好幾道路障。,さっきの「俺」の走りは尋常じゃなかった。\n\n兵士を蹴散らしつつバリケードも突き飛ばして\nまるで暴走する大型トラックみたいだった。,,I was like a truck out of control and knocked over dozens of soldiers and several road blocks.
+sentence_31105,31105,活动剧情,4,N/A,直到逃离那里之后，我才回望确认身后的建筑物就是凡尔赛宫。,直到逃離那裡之後，我才回頭確認後方的建築物就是凡爾賽宮。,外へと脱出してから振り返った時、\n後ろに見えたのはヴェルサイユ宮殿。\n一瞬だけアニー達の事を考えたが、\n気にする暇はなかった。,,"Only now, as I look back and see the building behind me, I can be sure that it IS the Palace of Versailles."
+sentence_31105,31105,活动剧情,5,N/A,虽然不知当时跑得有多快，但那绝对是常人无法企及的速度──,雖然不知當時跑得有多快，但絕對是常人無法趕上的速度──,実際には測っていないけど、あれは絶対\n常人には出せない速度だと思う。,,"I have no idea how fast I ran, but definitely faster than any other human being."
+sentence_31105,31105,活动剧情,6,N/A,迎面的风吹得我睁不开眼，而身后追击的车队不一会就被甩得没影了。,迎面的風吹得我睜不開眼，而後方追擊的車隊一下子就被甩得不見蹤影。,目が開かない程の向かい風──\n\nそして瞬きする間もなく、見えなくなった\n兵士達の姿。,,"The wind was blowing so hard at my face, I had trouble opening my eyes, and I shook all the chasing soldiers in an instant."
+sentence_31105,31105,活动剧情,7,N/A,奥古斯塔全程紧闭双眼缩在我怀中，搂着我的脖子不肯松手……,奧古斯塔全程緊閉雙眼縮在我懷中，摟著我的脖子不肯鬆手……,オーガスタもずっと目を閉じたままで\n俺の懐に顔を潜めていた。\n俺の首に回した手は今も離れていない。,,"And during that whole time, Augusta was in my arms, her eyes closed and arms around my neck..."
+sentence_31105,31105,活动剧情,8,N/A,我从没试过跑步时双腿甩开那么大角度，甚至有段时间，校服的裙子完全翻上去了。,我從沒試過在跑步時將雙腿張開那麼大，甚至有段時間，校服的裙子整個都翻上去了。,制服のスカートは途中で完全に\n捲れ上がっていた。\nここまで歩幅を大きく広げて走った事なんて\n男だった頃でも流石に経験がない。,,I had never run that fast before in my life. There was even a wardrobe malfunction—my skirt again...
+sentence_31105,31105,活动剧情,9,小怜,（那种丢人的姿势……快点给我忘掉啊！！！）,（那種丟臉的樣子……快點給我忘掉啊！！！）,（と言うか、あんな丸見えな姿で……！）\n\n（は、はやく忘れたい……！！）,,(I try hard not to think about how awkward I must've looked.)
+sentence_31105,31105,活动剧情,10,N/A,在跑到这条乡间小路之后，我的速度终于降到了近乎散步的水平。,跑到這條鄉間小路之後，我的速度終於降到了近乎散步的水平。,現在の「俺」は田舎の小路にたどり着いてから\nようやく速度が散歩レベルまで落ちたところだ。,,I keep running after a while before I finally slow down.
+sentence_31105,31105,活动剧情,11,N/A,奥古斯塔也在刚才如梦方醒的睁开了眼睛，一边跟我聊天一边四下观察。,奧古斯塔也在剛才如夢初醒地睜開了眼睛，一邊跟我聊天，一邊四處觀察。,あまりの出来事に困惑していたオーガスタも、\n状況が落ち着いた事を確認した様子だ。\n閉じていた目を開いて、周囲を観察しながら\n俺に声をかけてくる。,,Augusta opens her eyes and checks the perimeter as she asks me a question.
+sentence_31105,31105,活动剧情,12,奥古斯塔,咱们这是到哪了？,我們現在在哪裡啊？,わ、私達はどこにいるんだ……？,,Where are we now?
+sentence_31105,31105,活动剧情,13,小怜,我还想问你呢……,我還想問妳呢……,こっちこそ聞きたいよ……,,I was about to ask you...
+sentence_31105,31105,活动剧情,14,N/A,而且您是不是可以下来自己走了！,而且您是不是可以下來自己走了！,それに、そろそろ君を降ろしたいんだけど？,,"And, I don't think I need to carry you any longer!"
+sentence_31105,31105,活动剧情,15,N/A,奥古斯塔没理我，出神得盯着远处夕阳下的小镇看了好一阵，才伸手指向前方右侧的岔口。,奧古斯塔沒理我，出神地盯著遠處夕陽下的小鎮看了好一陣，才伸手指向前方右側的叉路。,オーガスタは俺の疲れ顔を無視して、遠くの\n夕焼けに照らされた小さな町を暫く見つめる。\nそれから前方にあった分かれ道の右側を指した。,,"Augusta completely ignores me. She stares at a small town from afar for quite some time, then points at the crossroad up ahead."
+sentence_31105,31105,活动剧情,16,奥古斯塔,去那边看看~,去那邊看看～,あっちに行くぞ――！,,Let's go check there!
+sentence_31105,31105,活动剧情,17,N/A,虽然我很想拒绝，但身体却很听话。,雖然我很想拒絕，但身體卻很聽話。,「嫌だ！」と腹の内では思ったが、「俺」の方は\n大人しく彼女の命令に従ってしまう。,,"I want to say no, but my body is following her order."
+sentence_31105,31105,活动剧情,18,N/A,我索性抬头望着天边被映成金红色的云霞，巴黎乡间的傍晚美得让人沉醉。,我索性抬頭望著天邊映成金紅色的彩霞，巴黎鄉間的傍晚美得讓人沉醉。,俺は無意味な抵抗を諦め、視線を天へと向けた。\n\n空には金紅色の雲霞と暖かな夕日。\n\nパリの田舎の夕景ってこんなに美しいんだな……,,I raise my head and start to appreciate the beautiful sunset—the Paris countryside is breathtaking.
+sentence_31105,31105,活动剧情,19,N/A,这条路很安静，只有微风拂过树梢的声音。,這條路很安靜，只有微風拂過樹梢的聲音。,静かな道。\n\n周囲は風による木々の擦れる音しか聞こえない。,,"It's a quiet road, too. All I can hear is the breeze blowing gently past the trees on the sides."
+sentence_31105,31105,活动剧情,20,N/A,空气中混杂着青草和泥土的味道，隐约中还有股淡淡的汽油味。,空氣中混雜著青草和泥土的味道，隱約還有股淡淡的汽油味。,空気中は草の香りに包まれている。\n\n……その中に微かに潜むガソリンの匂い。,,The smell of grass and dirt is in the air. And a slight trace of gasoline.
+sentence_31105,31105,活动剧情,21,N/A,无论是远处石墙下被烧得焦黑的战车，还是路面上坑坑洼洼的被重型履带碾过的痕迹……,無論是遠處石牆下被燒得焦黑的戰車，還是路面上坑坑疤疤被重型履帶碾過的痕跡……,石壁の近くには黒焦げの戦車があり、\nそして路面に残された履帯の痕跡が見える……,,Burned tanks by the walls from afar; the deep track marks on the ground...
+sentence_31105,31105,活动剧情,22,N/A,都暗示着这里不久前才经历过一场战事。,在在都暗示著，這裡不久前才經歷過一場戰事。,その全てが、そう遠くない過去に戦争が\nあった事を示す。,,They all indicate a war happened here not long ago.
+sentence_31105,31105,活动剧情,23,N/A,我在脑内默默整理了一下刚从奥古斯塔了解到的关于这个世界的情报──,我在腦中默默整理了一下剛才從奧古斯塔瞭解到有關這個世界的情報──,先ほどオーガスタから聞いていた、\nこの世界に関する情報を俺は脳内で整理する。,,I quickly gather my thoughts based on what Augusta told me earlier about this world.
+sentence_31105,31105,活动剧情,24,N/A,这里是1871年，我所知道的六座学园还不存在，或者说还都以它们原始的形态存在着。,這裡是1871年，我所知道的六座學園還不存在，或者說，它們都還以原始的形態存在著。,ここは1871年。\n俺の知ってる六大学園都市はまだ存在してない。\n……いや、原始な姿で存在はしてると言った方が\n正しいのか。,,"It's 1871. The six academy cities I know of don't exist yet—or at least, not in the same form."
+sentence_31105,31105,活动剧情,25,N/A,但不知为何，这边某些方面的技术已经达到了非常先进的水平──比如铁路、汽车、飞机和互联网。,但不知為何，這裡的某些技術已經達到非常先進的水準──像是鐵路、汽車、飛機和網路。,19世紀ではあるのだけど、なぜか一部の技術は\n俺の知っている19世紀よりも先進していた。\n鉄道、自動車、飛行機、インターネットとか……,,"On the other hand, the technology level in this world is almost as advanced—railroads, cars, planes... Even the Internet."
+sentence_31105,31105,活动剧情,26,N/A,连移动通讯和监控设备都大面积普及了，甚至还有卫星定位系统……,連行動通訊和監控設備都大量普及了，甚至還有衛星定位系統……,移動通信や監視装置までもが普及されていて、\nしかもGPSまであるなんて……,,Mobile communication and surveillance devices are widely used. They even have GPS!
+sentence_31105,31105,活动剧情,27,小怜,（似乎都是从军事技术转化而来的……？）,（似乎都是從軍事技術轉化而來的……？）,（全てが軍事技術から転化された物……だよな）,,(They were all used first by the military...)
+sentence_31105,31105,活动剧情,28,小怜,话说你们才刚刚占领巴黎不久吧……就这么跑出来会不会有什么危险？,話說你們才剛剛佔領巴黎不久吧……就這麼跑出來會不會有什麼危險？,そう言えば君達がパリを占拠したのは\n最近なんだよな？\nこんなノコノコと外を歩くのは危険じゃないか？,,You said you just occupied Paris. Is it dangerous for us to be out here?
+sentence_31105,31105,活动剧情,29,奥古斯塔,放心吧~,放心吧～,ふふん、安心するがいい。,,Don't worry.
+sentence_31105,31105,活动剧情,30,奥古斯塔,前一阵我们抵达这里的时候，本地的新闻标题是：\n“奥古斯塔陛下于今日抵达她忠诚的巴黎。”,前一陣我們抵達這裡的時候，本地的新聞標題是：\n「奧古斯塔陛下於今日抵達她忠誠的巴黎。」,先日のニュースの表題は知っているだろう？\n\n「本日オーガスタ陛下のご到着」\n「彼女に忠誠を誓ったパリへ」と書かれてたぞ。,,"When we arrived a while ago, the headline of the local news was:\n""Loyal servants await Her Highness Augusta in Paris"""
+sentence_31105,31105,活动剧情,31,小怜,…………,…………,…………,,...
+sentence_31105,31105,活动剧情,32,N/A,完全没法让人放心啊！,一點都無法讓人放心啊！,全然安心できないんだけど！？,,That's not exactly reassuring.
+sentence_31105,31105,活动剧情,33,奥古斯塔,而且本来统治这儿的就不是什么正统，我们已经宣布会将大部分领土交还给流亡近百年的法国王室。,而且，本來統治這裡的就不是什麼正統政府，我們已經宣佈會將大部分領土交還給流亡近百年的法國王室。,我々には元々、ここを統治する正当性が\nないからな。\nすでに百年近く流亡してるフランス王室に\n我々は領土の大部分を返還すると公表した。,,The people before us weren't the rightful rulers. We've announced that we'll return most of the land to the French royal family that's been in exile for almost 100 years.
+sentence_31105,31105,活动剧情,34,小怜,流亡……近百年？,流亡……近百年？,百年近く……流亡している？,,In exile? 100 years?
+sentence_31105,31105,活动剧情,35,奥古斯塔,就是那件事啊──\n大概一个世纪以前，1777年的一天……,就是那件事啊──\n大概一個世紀以前，1777年的某一天……,あの事件を知らないのか？\n\nヴェルサイユ宮殿を覆いつくした紫色の光は\n有名な話だろう？,,"Because of what happened!\n1777, almost a century ago..."
+sentence_31105,31105,活动剧情,36,奥古斯塔,凡尔赛宫上空被一团紫色的光芒笼罩，夜空被照得恍若白昼，全巴黎的人都目睹了那次异象。,凡爾賽宮上空被一團紫色的光芒籠罩，夜空被照得恍若白晝，全巴黎的人都目睹了那次異象。,おおよそ1世紀前、1777年の夜。\n\nまるで真昼のように明るくなったと\n皆が口を揃える。\n当時、パリに住まう全ての人々があの異象を\n目撃したらしい。,,"The skies above the Palace of Versailles were clouded by purple light. It was at night, but the night skies were as bright as day."
+sentence_31105,31105,活动剧情,37,奥古斯塔,光芒渐渐熄灭之后，原先驻守在凡尔赛宫内的军队、仆人、全部贵族以及皇室成员都消失了。,光芒漸漸熄滅之後，原先駐守在凡爾賽宮內的軍隊、僕人、所有貴族以及皇室成員都消失了。,光の収束後、ヴェルサイユ宮殿にいたであろう\n軍隊、給仕、貴族、王族の全員が消え失せた。\n急いで近衛隊が現場に駆け付けたが彼らの消息は\n不明のまま。,,"Then the light faded and eventually disappeared. And along with it, all the soldiers, servants, nobles, and royal family members inside the palace!"
+sentence_31105,31105,活动剧情,38,奥古斯塔,根据禁卫军的记录，他们赶到的时候只看到几十名身着统一制服的陌生人，大多神情慌张。,根據禁衛軍的記錄，他們趕到時，只看到幾十名身著制服的陌生人，大多神情慌張。,記録だと、見知らぬ服装で統一した連中だけが\nその場にいたようだ。\n何やら随分と動揺している様子だったらしいが。,,"According to the royal guards' records, when they arrived, they only saw dozens of strangers in uniform, all acting nervous."
+sentence_31105,31105,活动剧情,39,奥古斯塔,那些奇怪的人召唤出了强大的人形生物，能像恶魔般随意扭曲自己的关节，迅速击溃了禁卫军。,那些奇怪的人召喚出了強大的人形生物，能像惡魔般隨意扭曲自己的關節，還迅速擊潰了禁衛軍。,近衛隊を見た途端、変な連中は凶暴な人形生物を\n召喚し始めた。\nそれは悪魔憑きが如く関節を捻じ曲げる事ができ\n一方的な敗北を近衛隊は喫する。,,They summoned a powerful humandroid who could twist its body at will and defeated the royal guards with ease.
+sentence_31105,31105,活动剧情,40,奥古斯塔,然后那些人在更多援军到来前，迅速消失在了黑夜之中，从此音讯全无。,然後那些人形在更多援軍來到之前就迅速消失在黑夜中，從此音訊全無。,援軍が大慌てで現場に急行するも、その時には\n連中も闇夜に消えて……\n疑念だけが残って、結局は何もかもが分からず\n仕舞いだ。,,"Afterwards, they all vanished into the dark night before more reinforcements arrived."
+sentence_31105,31105,活动剧情,41,小怜,（大规模失踪和……扭曲的人形生物？）,（大規模失蹤和……扭曲的人形生物？）,（大規模失踪と、関節を捻じ曲げる人形生物？）,,(Tons of people gone missing... And a powerful humandroid?)
+sentence_31105,31105,活动剧情,42,N/A,我立刻想到了莱博娜巨蛋体育场，五万名观众同时消失的事件，安妮当时也被卷入了那场异变。,我立刻想到了萊博娜巨蛋體育場，五萬名觀眾同時消失的事件，安妮當時也被捲入了那場異變。,リバーナ自由光スタジアムで5万人の観客が\n同時に消失した事件を思い出す。\n当時、その異変にアニーも巻き込まれた。,,"I immediately think of what happened in Lebona's Light of Freedom Dome. 50,000 people vanished all at once. Annie was involved in that accident, too."
+sentence_31105,31105,活动剧情,43,N/A,而扭曲的人形生物难道是──,而扭曲的人形生物，難道是──,捻じ曲がった人形生物ってまさか……,,Especially the powerful humandroid...
+sentence_31105,31105,活动剧情,44,小怜,（女巫……？）,（女巫……？）,（……ドール？）,,(Is she a witch?)
+sentence_31105,31105,活动剧情,45,奥古斯塔,那件事导致异质物第一次为世人所知，同时也造成了法国几个革命派别和贵族的大混战……,那件事導致異質物第一次為世人所知，同時也造成了法國幾個革命派別和貴族的大混戰……,あの事件をきっかけに異質物の存在が世界の\n人々へと露呈した。\nそして同時にフランス国内で革命派と貴族による\n大乱戦が幕を開けた──,,That was the first time Substance H came to people's attention. And wars broke out in France afterwards...
+sentence_31105,31105,活动剧情,46,奥古斯塔,不过这些都是最基本的历史知识吧，你连这些都不知道吗？,這些都是最基本的歷史知識吧，妳連這些都不知道嗎？,……これは基礎中の基礎の歴史知識だ。\nこんな事もお前は知らないのか？,,This is all basic history. Have you not heard of any of them?
+sentence_31105,31105,活动剧情,47,小怜,我应该知道吗？,我應該知道嗎？,……俺が知っとくべき事なのか？,,I'm supposed to know all that?
+sentence_31105,31105,活动剧情,48,奥古斯塔,别的召唤兽还挺有常识的，你怎么这么笨……,別的召喚獸都還滿有常識的，妳怎麼這麼笨……,他の召喚獣はちゃんと最初から世俗的知識を\n持ち合わせているんだぞ？\nなぜお前だけが低能なのか……,,You must be the dumbest summoned beast...
+sentence_31105,31105,活动剧情,49,N/A,她不满的白了我一眼。,她不滿地給了我一個白眼。,オーガスタは不満そうに俺を見ている。,,She shoots me a glare.
+sentence_31105,31105,活动剧情,50,N/A,小丫头信不信我把你丢到地上！,小丫頭，信不信我把妳丟到地上！,地面に落とすぞ。この小娘！,,"You want a piece of me, little girl?"
+sentence_31105,31105,活动剧情,51,奥古斯塔,不过……还好。,不過……還好。,だが……よかった。,,But... At least...
+sentence_31105,31105,活动剧情,52,N/A,奥古斯塔轻声说道。,奧古斯塔輕聲說道。,オーガスタは小さな声で呟いた。,,Augusta whispers.
+sentence_31105,31105,活动剧情,53,小怜,嗯？,嗯？,うん？,,Huh?
+sentence_31105,31105,活动剧情,54,奥古斯塔,召唤兽是强大的上古生灵，传说只会对拥有天命之人效忠，也是各国皇室遴选继承人的标准。,召喚獸是強大的上古生靈，傳說只會對擁有天命之人效忠，也是各國皇室遴選繼承人的標準。,召喚獣とは、古き強大な生霊であり、伝説では\n天命を擁する人間にのみ忠誠を誓うと言う。\n各国の王室も継承者を選ぶ基準のひとつに\n召喚獣の忠誠を含めている。,,"Summoned beasts are powerful ancient creatures. Legend has it, they're only loyal to the chosen ones. So, it's become a criterion for the royal families to select their new kings and queens."
+sentence_31105,31105,活动剧情,55,奥古斯塔,小时候皇兄死于意外，我被匆忙扶上皇位之后的质疑声就没停止过。,小時候皇兄死於意外，我被匆忙扶上王位之後的質疑聲就沒停過。,幼い頃にお兄様が事故で亡くなり、出し抜けで\n私が即位して以来、\n私に対する質疑の声が止む時など無かった。,,"My brother died in an accident when I was little. After I took power, doubts about the throne's legitimacy never stopped."
+sentence_31105,31105,活动剧情,56,奥古斯塔,其实我也觉得自己没有资格，但又不敢承认……,其實我也覺得自己沒有資格，但又不敢承認……,資格がないとは認めたくなかったけど\n実は自信なんて少しもなくて……,,"I, too, wasn't sure I should be the one, to be honest..."
+sentence_31105,31105,活动剧情,57,N/A,奥古斯塔把头轻轻靠在我的胳膊上，轻声说道。,奧古斯塔把頭輕輕靠在我的手臂上，輕聲說道。,オーガスタは俺の肩に頭を乗せて\n軽い声で言った。,,Augusta whispers as she leans her head on my arm.
+sentence_31105,31105,活动剧情,58,奥古斯塔,还好……,還好……,だから、よかった……,,"So, at least..."
+sentence_31105,31105,活动剧情,59,小怜,……,……,……,,...
+sentence_31105,31105,活动剧情,60,N/A,我不知该如何回应。,我不知該如何回應。,俺はどう反応すればいいのか分からなかった。,,I don't know how to respond.
+sentence_31105,31105,活动剧情,61,N/A,虽然还不清楚具体细节，但从她的反应看来，被召唤来的应该是本就属于这个世界的生灵。,雖然還不清楚具體細節，但從她的反應看來，被召喚來的應該要是本就屬這個世界的生靈。,仕組みをちゃんとは知らないけど、古き強大な\n生霊と聞く限りでは、\n普通はこの世界に元々属している生霊を\n召喚するはず。,,"Though I don't have all the details, based on her reaction, the other summoned beast was from this world."
+sentence_31105,31105,活动剧情,62,N/A,但我来自另一个世界啊……,但我來自另一個世界啊……,だけど恐らく、\n俺は別世界から来てると思うんだけど……,,But I'm not...
+sentence_31105,31105,活动剧情,63,奥古斯塔,放心吧──,放心吧──,大丈夫だ──,,Don't worry.
+sentence_31105,31105,活动剧情,64,N/A,奥古斯塔好像看透了我的心思。,奧古斯塔好像看透了我的心思。,俺の考え事を見越したようにオーガスタは\n話を続ける。,,Augusta seems to have read my mind.
+sentence_31105,31105,活动剧情,65,奥古斯塔,召唤兽只能在现世维持一小段时间，能量耗光后你就能回到自己来的地方。,召喚獸只能在現世維持一小段時間，能量耗光後，妳就能回到當初來的地方了。,召喚獣が現世に存在できる時間は少しだけ。\n\nエネルギーを使い切れば、お前は元いた場所へと\n戻れるよ。,,"Summoned beasts can only stay here for a limited time. Once your energy is used up, you'll return to your world."
+sentence_31105,31105,活动剧情,66,小怜,能量是指？,能量是指？,エネルギー？,,What energy?
+sentence_31105,31105,活动剧情,67,奥古斯塔,比如维多利亚女王的召唤兽是公认最强的，每次足以摧毁一辆战车。,比如說，維多利亞女王的召喚獸是公認能量最強的，一次足以摧毀一部戰車。,最強とも称されるヴィクトリア女王の召喚獣は\nエネルギーだけでも、\n戦車1台を破壊できるぐらい持っている。,,Queen Victoria's summoned beast is considered the most powerful. It has enough energy to destroy a tank.
+sentence_31105,31105,活动剧情,68,N/A,我刚才撞飞好几辆算不算……,我剛才撞飛好幾輛算不算……,さっき、俺も何台か蹴り飛ばしてたっけ……,,But I just knocked over several of them...
+sentence_31105,31105,活动剧情,69,奥古斯塔,能量大概两亿焦耳左右。,能量大概兩億焦耳左右。,大よそのエネルギー量は2億ジュールぐらいか。,,Which translates into about 200 million J.
+sentence_31105,31105,活动剧情,70,N/A,等等，这边连焦耳他老人家也有吗？！,等等，這邊連焦耳他老人家也存在嗎？！,こっちにもジュール爺さんは存在するのかよ……,,"J? As in Joule? That old man exists in this world, too?"
+sentence_31105,31105,活动剧情,71,小怜,怎么快点把能量耗光啊……\n（那样我就能回去了吧？）,要怎樣才能快點把能量耗光啊……\n（這樣我就能回去了吧？）,えっと、どうすればエネルギーは早く切れるの？\n（切れたら俺は帰れるんだよな？）,,How can I use up my energy more quickly?...\n(Then I can go home.)
+sentence_31105,31105,活动剧情,72,奥古斯塔,不知道……\n（刚才这一路早该耗光了……）,不知道……\n（剛才這一路早該耗光了……）,それは私にも分からん……\n\n（彼女は相当なエネルギーを消費したはずだ）\n \n（すでに切れていてもおかしくないんだが……）,,I don't know...\n(I'm surprised you still haven't...)
+sentence_31105,31105,活动剧情,73,N/A,……,……,……,,...
+sentence_31105,31105,活动剧情,74,N/A,2037年，凡尔赛宫。,2037年，凡爾賽宮。,──2037年、ヴェルサイユ宮殿。,,"Year 2037, Palace of Versailles"
+sentence_31105,31105,活动剧情,75,N/A,拉斐尔接过安妮的手机，上面是再普通不过的wiki页面。,拉斐爾接過安妮的手機，上面是再普通不過的Wiki頁面。,アニーから渡されたスマホの画面をラファエルは\n確認する。\nそこにはいたって普通のwikiサイトが\n表示されていた。,,Raphilia looks at Annie's phone. It's just normal wiki page.
+sentence_31105,31105,活动剧情,76,拉斐尔,时间之神『埃安』又称柯罗诺斯，他创造了宇宙的银蛋，银蛋孕育出了最初之神『法涅斯』……,時間之神「埃安」又稱克羅諾斯，他創造了宇宙的銀蛋，銀蛋孕育出了最初之神「法涅斯」……,時間の神「アイオーン」またの名はクロノス。\n\nそして彼の創造した宇宙卵から生まれたのが\n原初の神「パネース」……,,"ÄON is also known as Chronos. He created the cosmic egg which later hatched into Phanes, the God of Creation."
+sentence_31105,31105,活动剧情,77,拉斐尔,这个神话体系太古老了，现在没什么人知道了吧？,這個神話體系太古老了，現在沒什麼人知道了吧？,この神話の系譜はかなり古いものよ。\n\n今だと知ってる人なんてほとんど\n存在しないのじゃないかしら？,,I don't think many people even heard of this ancient mythology.
+sentence_31105,31105,活动剧情,78,安妮,你接着看下面~,妳接著看下面～,とにかく続きを読んでみて！,,Keep reading.
+sentence_31105,31105,活动剧情,79,拉斐尔,『法涅斯』既是男性，也是女性……处于隐形的神性世界和突显的人性世界之间。,「法涅斯」既是男性，也是女性……處於隱形的神性世界和突顯的人性世界之間。,「パネース」は両性具有の神。\n男性でもあり女性でもある……\n彼は隠微な神の世界と、際立つ人の世界\nその狭間に存在する。,,"Phanes is both male and female, a hermaphrodite."
+sentence_31105,31105,活动剧情,80,拉斐尔,这个……\n难道说……是指那个女装癖？,這個……\n難道……是指那個女裝癖？,これって……まさか、あの女装癖の事？,,...\nAre you thinking what I'm thinking?
+sentence_31105,31105,活动剧情,81,N/A,拉斐尔表情复杂的抬头看向安妮，发现安妮正以同样玩味的表情看着自己。,拉斐爾表情複雜地抬頭看向安妮，發現安妮正以同樣玩味的表情看著自己。,複雑な表情でラファエルは顔を上げる。\n\nアニーが意味深な目でこちらを見ている事に\n彼女は気付いた。,,"Raphilia and Annie stare at each other, twin looks of complication on their faces."
+sentence_31105,31105,活动剧情,82,拉斐尔,柯罗诺斯将银蛋放入了夜之女神的体内……,克羅諾斯將銀蛋放入了夜之女神的體內……,クロノスは卵を夜の女神の体内に入れ……,,Chronos later inserts the silver egg inside the body of the goddess of the night...
+sentence_31105,31105,活动剧情,83,N/A,……体、体内？？！,……體、體內？？！,……た、体内ッ！？！？,,Inside of her body?!
+sentence_31105,31105,活动剧情,84,N/A,拉斐尔惊异的将目光移向桌上的彩蛋，这东西的做那么小，难难难道是为了……,拉斐爾驚訝地將目光移向桌上的彩蛋，這東西做得那麼小，難難難道是為了……,ラファエルは驚愕しながら机の上のエッグに\n視線を移す。\nこのエッグだけ他よりサイズが小さい理由……\n\nそれはもしかして……,,Raphilia looks at the egg on the table. This egg was made smaller than all the other eggs... For a special purpose?
+sentence_31105,31105,活动剧情,85,N/A,安妮点了点头，做出一副“你懂了吧？”的表情。,安妮點了點頭，做出一副「妳懂了吧？」的表情。,「分かったでしょ？」と言わんばかりの表情で\nアニーは頷いた。,,Annie nods as her way of confirming this theory.
+sentence_31105,31105,活动剧情,86,拉斐尔,（莫莫莫莫莫莫莫莫莫莫非……？？！）,（莫莫莫莫莫莫莫莫莫莫非……？？！）,（まさか、そんな……！？！？）,,(Don't tell me...)
+sentence_31105,31105,活动剧情,87,N/A,拉斐尔吞了吞口水，脸一下红到了脖子根，伸向彩蛋的右手有些颤抖。,拉斐爾吞了吞口水，從臉一路漲紅到脖子，伸向彩蛋的右手有點顫抖。,首元まで真っ赤になったラファエルは\n唾を飲み込んだ。\nエッグへと伸ばした彼女の右手が微かに\n震えているように見える。,,Raphilia's face turns red in an instant. Her right hand is shaking as it reaches for the easter egg.
+sentence_31105,31105,活动剧情,88,N/A,不料安妮先一步拿起了彩蛋，将它对着窗外的夕阳说道──,不料安妮搶先拿起了彩蛋，將它對著窗外的夕陽說道──,錯綜する思考で何かを葛藤しているラファエル。\n\nそんな中、先にアニーがエッグを持ち上げた。\n窓の外の夕日を見ながら、話を続ける──,,Annie beats her to it. She picks up the egg as she looks at the sunset outside the window.
+sentence_31105,31105,活动剧情,89,安妮,传说中『法涅斯』诞生自含水的深渊，出生时撕裂了原有世界的黑暗状态……,傳說中「法涅斯」誕生自含水的深淵，出生時撕裂了原有世界的黑暗狀態……,伝承だと「パネース」は暗き水の深淵から\n生まれたみたい。\nそして生誕の際には元々あった世界の暗黒状態を\n引き裂いた……,,"In legends, Phanes was born in a watery abyss. He brought light and gave birth to the universe we know today..."
+sentence_31105,31105,活动剧情,90,安妮,我们把它放到完全不透光的水箱中试试？,我們把它放到完全不透光的水箱中試試？,っていう神話だから、このエッグを光が通らない\n水槽の中に入れてみない？,,"Let's put this egg in an opaque water tank, then!"
+sentence_31105,31105,活动剧情,91,安妮,嗯……？\n你的脸怎么那么红？,嗯……？\n妳的臉怎麼那麼紅？,あれ……？\n\n顔が真っ赤になってるけど、どうしたの？,,Huh?\nWhy is your face so red?
+sentence_31105,31105,活动剧情,92,拉斐尔,──没什么！！\n这里太热了！！,──沒什麼！！\n這裡太熱了！！,な、な、な、なんでもないわ！！\n\nこ、この部屋は本当に暑いわね！！,,Nothing!\nJust too hot and stuffy in here!
+sentence_31105,31105,活动剧情,93,N/A,……,……,……,,...
+sentence_31105,31105,活动剧情,94,N/A,我抱着奥古斯塔走进小镇。,我抱著奧古斯塔走進小鎮。,オーガスタを抱えながら、小さな町へと入った。,,I carry Augusta and walk inside the small town.
+sentence_31105,31105,活动剧情,95,N/A,虽然被丢得满地的传单上再三保证军队不会征用居民财物，但镇上的居民还是跑光了。,雖然滿地亂丟的傳單上再三保證軍隊不會徵用居民財物，鎮上的居民還是跑光了。,地面に散乱するパンフレットには住民の財産を\n徴発しないとの軍令が書かれていた。\nだが、すでに一人残らず町の人間は\n逃げ出した様子である。,,"The flies all over the ground were sent out by the military, promising people no properties would be confiscated. Those promises didn't change people's minds—they all fled."
+sentence_31105,31105,活动剧情,96,N/A,不愧是“陛下忠诚的巴黎”。,不愧是「陛下忠誠的巴黎」。,さすがは「彼女に忠誠を誓ったパリ」だな。,,"So much for ""loyal servants await."""
+sentence_31105,31105,活动剧情,97,N/A,天色渐暗，我们来到镇上的广场，四周的商店门口还挂着减价特卖的招牌。,天色漸暗，我們來到鎮上的廣場，四周的商店門口還掛著減價特賣的招牌。,徐々に空が暗くなると共に、俺達は町の広場へと\n入った。\n周囲の商店は割引セールの看板を掛けたままで\n放置されている。,,"It's getting dark as we reach the town square. The nearby shops still have their ""sale"" signs in front of their closed doors."
+sentence_31105,31105,活动剧情,98,N/A,广场东侧有一座旋转木马，奥古斯塔让我将她放下来，至此我才终于恢复了对身体的控制。,廣場東側有一座旋轉木馬，奧古斯塔要我把她放下來，此時我才終於恢復了對身體的控制。,東側には止まった回転木馬があって\n静寂の深さが分かった。\n俺は彼女からの命令によってオーガスタを広場で\n降ろすと、ようやく身体の制御を取り戻す。,,"There's a carousel on the east side of the square. Augusta tells me to put her down, and I finally regain control of my own body."
+sentence_31105,31105,活动剧情,99,N/A,恢复知觉的关节和肌肉并未感觉不适，反而是喉咙干渴到发痒，我赶忙冲到路边的石质饮水池喝水。,恢復知覺的關節和肌肉並未感覺不適，反而是喉嚨乾渴到發癢，我急忙衝到路邊的石製飲水池喝水。,知覚の復活した関節や筋肉からは、\n特に痛みや不快感などは感じなかった。\n代わりに喉は痒くなるまで乾ききっており、\n早急に俺は近くの水飲み場で喉を潤した。,,"My joints and muscles are feeling all right, but I'm parched. I rush to a nearby drinking fountain."
+sentence_31105,31105,活动剧情,100,N/A,奥古斯塔自作主张的钻进售票亭打开了电源，旋转木马缓缓转动起来，昏暗的广场瞬间被点亮了。,奧古斯塔自作主張地鑽進售票亭打開了電源，旋轉木馬便緩緩轉動起來，昏暗的廣場瞬間被點亮了。,その間にオーガスタは広場のチケット売り場を\n勝手に調べ、中の電源を勝手にオンにする。\n回転木馬が徐々に回るのと併せて暗かった広場も\n瞬間的に明るくなった。,,"Augusta, at the same time, enters the ticket booth and turns on the switch. The carousel starts moving, and all the lights are lit up."
+sentence_31105,31105,活动剧情,101,N/A,空无一人的小镇上，广场地面的石板反射着回转的绚丽灯光，好似童话中的画面。,空無一人的小鎮上，廣場地面的石板反射著旋轉著的絢麗燈光，好像童話中的場面。,誰もいない小さな町で回転木馬の華やかな灯りが\n地面に反射する。\nまるで童話の一幕のような光景だった。,,"In this empty town, the reflections of the beautiful lights can be seen on the ground. I feel like I'm in a fairy tale."
+sentence_31105,31105,活动剧情,102,奥古斯塔,哇──！,哇──！,はぅわ────！,,Whoa!
+sentence_31105,31105,活动剧情,103,小怜,……你没玩过吗？,……妳沒玩過嗎？,……乗った事ないの？,,Don't tell me you never rode a carousel...
+sentence_31105,31105,活动剧情,104,N/A,奥古斯塔微微摇了摇头，像小孩子一样张着嘴，惊讶的看着这奇异的情景。,奧古斯塔微微搖了搖頭，像小孩子一樣張著嘴，驚訝地看著這奇異的情景。,オーガスタは軽く頭を横に振ると子供みたいに\n口を丸く開きながら\n目の前の光景を興味津々に見つめる。,,"Augusta shakes her head as she stares at the carousel, mouth wide open like a small child."
+sentence_31105,31105,活动剧情,105,小怜,来~,來～,よし！……乗ってみようか！,,Come!
+sentence_31105,31105,活动剧情,106,N/A,我拉着她登上转动的基台，坐到一个马车车厢造型的双人座上。,我拉著她登上轉動的基座，坐到一個馬車車廂造型的雙人座上。,俺は回転する土台までオーガスタを引っ張り\n馬車の形をしている2人用の座席に座った。,,I drag her onto the moving carousel and sit ourselves in a double seat.
+sentence_31105,31105,活动剧情,107,N/A,她显得很兴奋又有些害怕，不停的左顾右盼，但眼中一直闪着光亮。,她顯得很興奮又有些害怕，不停地左顧右盼，但眼中一直閃著光亮。,興奮と恐れが入り混じった様子のオーガスタは\n目を光らせながら、キョロキョロとしている。,,"She looks excited but scared at the same time. She keeps looking around, her eyes sparkling the whole time."
+sentence_31105,31105,活动剧情,108,N/A,我靠在车厢背上，看着镶在天花板的镜面中反射她的笑颜，心情稍稍放松了下来。,我靠在車廂背上，看著她的笑臉反射在鑲在天花板的鏡面中，心情稍稍放鬆了下來。,車両に背を預けた俺は天井のミラーから\nオーガスタを確認する。\n彼女は笑顔の様子で、なんだか少し安心した。,,I lean back and look at the reflection of her smiling face from the mirror on the ceiling. I finally begin to relax.
+sentence_31105,31105,活动剧情,109,小怜,（不知什么时候才能把能量耗完……）,（不知什麼時候才能把能量耗完……）,（いつになったらエネルギーは使い切れるのか）,,(But how long before I can use up all my energy?)
+sentence_31105,31105,活动剧情,110,N/A,而且耗完后真的能回去吗，甚至真的能耗完吗？,而且耗完後真的能回去嗎，甚至真的能耗完嗎？,もし、使い切ったとしても円滑に戻る事が\nできるのだろうか？\nそもそも本当に使い切れるのか……？,,"More importantly, will I really go back once all my energy is gone? Will it ever be all gone?"
+sentence_31105,31105,活动剧情,111,小怜,（唉，顺其自然吧~）,（唉，順其自然吧～）,（……まぁ、なんとかなるさ）,,"(I must let nature take its course, I guess...)"
+sentence_31105,31105,活动剧情,112,奥古斯塔,呐……,呐……,……ねぇ──,,Hey...
+sentence_31105,31105,活动剧情,113,小怜,嗯？,嗯？,うん？,,Huh?
+sentence_31105,31105,活动剧情,114,奥古斯塔,你刚才是不是想问我关于学园都市的事来着？,妳剛才是不是想問我關於學園都市的事來著？,さっき学園都市について質問していたな？,,You wanted to ask me about the Academy City?
+sentence_31105,31105,活动剧情,115,小怜,我记得你说……第四学园都市是柏林？,我記得妳說……第四學園都市是柏林？,確か君は第四学園都市はベルリンって\n言ったよね？,,You mentioned earlier the Fourth Academy City was Berlin?
+sentence_31105,31105,活动剧情,116,奥古斯塔,那个称号还没公开，是一个月前各个战胜国在伦敦会议中决定的事项。,那個稱號還沒公開，是一個月前各個戰勝國在倫敦會議中決定的事項。,実は、その名称はまだ公表されていない。\n\n各戦勝国が事項に合意したのは1か月前の\nロンドン会議だ。,,It hasn't been officially announced yet. It was only decided a month ago in London.
+sentence_31105,31105,活动剧情,117,奥古斯塔,虽然是宰相代我参会，但我认为这个名字挺好──,雖然是由宰相代表我參加會議，但我認為這個名字還不錯──,宰相が私の代わりに出席した会議なのだが\n非常に良い名だと思っている……,,"My chancellor attended the meeting on my behalf. I like the name, though."
+sentence_31105,31105,活动剧情,118,奥古斯塔,铁与血的代价太过高昂了……,鐵與血的代價太過高昂了……,鉄と血の代償は、あまりにも大きすぎた……,,The price of Blood and Iron is just too heavy...
+sentence_31105,31105,活动剧情,119,N/A,我若有所思的点了点头。,我若有所思地點了點頭。,オーガスタの言葉から何とも言えない重みを\n感じて頷いた。,,I nod my head.
+sentence_31105,31105,活动剧情,120,N/A,虽然还没出现核武器，但异质物武器在这个世界的普及程度却超乎我想象的高。,雖然還沒出現核武，但異質物武器在這個世界的普及程度卻超乎我想像的高。,核兵器はまだ発明されていない様子だけど……\n\nこの世界は俺の思ったよりも遥かに異質物武器が\n普及している。,,"Though there are still no nuclear weapons in this world, Substance H is much more widely used than I thought."
+sentence_31105,31105,活动剧情,121,N/A,刚看到那台被烧焦的量产战车，从主炮的形状看来绝不是发射动能炮弹的。,剛才看到那台被燒焦的量產戰車，從主炮的形狀看來絕不是用來發射動能炮彈的。,あの黒焦げになっていた量産型っぽい\n戦車の主砲だって、\n形から考えればよくある戦車砲の類では\nないのだろう……,,"That burned tank from earlier... Judging by the shape of its cannon, it can't fire kinetic cannonballs."
+sentence_31105,31105,活动剧情,122,N/A,也可想而知刚刚结束的那场战争有多么惨烈……,也由此可想而知，剛結束的那場戰爭有多麼慘烈……,つい最近、この世界で終結した戦争。\n\nどれほど惨烈だったのかは容易く想像できた。,,Yet the damage it caused... How fierce the battle must've been...
+sentence_31105,31105,活动剧情,123,小怜,你总提到的那个宰相……和你很亲吗？,妳常提到的那位宰相……和妳很親嗎？,その宰相さんってさ……親しい人なのか？,,The chancellor you mentioned. Is she close to you?
+sentence_31105,31105,活动剧情,124,N/A,我注意到刚才卫戍军使用的都是麻醉武器，而且明显有种投鼠忌器的感觉。,我注意到剛才衛戍軍使用的都是麻醉武器，而且明顯有種投鼠忌器的感覺。,さっきの近衛隊は非致死性の兵器しか\n使用してなかった。\nきっとオーガスタを傷付けないためだろう。,,The armed soldiers earlier all used anesthetic bullets. That must be the order from the chancellor.
+sentence_31105,31105,活动剧情,125,奥古斯塔,嗯……,嗯……,……うん。,,Hmm...
+sentence_31105,31105,活动剧情,126,奥古斯塔,至少曾经是的……,至少曾經很親……,少なくともは、そう。\n\n……「だった」かな。,,At least we used to be close... Very close.
+sentence_31105,31105,活动剧情,127,N/A,奥古斯塔脸上闪过一丝失落，抬起头看着天花板上的镜子，似乎陷入了回忆。,奧古斯塔臉上閃過一絲失落，抬起頭看著天花板上的鏡子，似乎陷入了回憶。,少しだけ悲しい表情を見せたオーガスタは\n天井のミラーを眺めながら追憶を語る。,,"With a disappointed look on her face, Augusta stares at her reflection in the ceiling mirror, thinking of the past."
+sentence_31105,31105,活动剧情,128,奥古斯塔,哥哥在我8岁那年，死于一场意外……,哥哥在我8歲那年，死於一場意外……,私には兄がいたのだけど……\n8歳の時に事故で命を落としてな。,,My brother died in an accident when I was 8.
+sentence_31105,31105,活动剧情,129,奥古斯塔,我被带到议员们面前，看他们为了继承权问题吵个不停，心里怕极了。,我被帶到議員們面前，看他們為了繼承問題吵個不停，心裡超害怕的。,その要因から継承権問題の矢面に立つ事となり\n私は良く議員達の眼前に連れ出された。\n激しい口論を交わす彼らの様相は幼心にも\n怖いと感じたものだ。,,"Later, I was brought in front of the chamber of deputies. I was terrified as they were arguing who should take over the throne."
+sentence_31105,31105,活动剧情,130,奥古斯塔,当时只有一个人过来安慰我，说只要我能忍住不在议会大厅里哭出来，她就有办法保护我。,當時只有一個人過來安慰我，說只要我能忍住不在議會大廳裡哭出來，她就有辦法保護我。,あの頃、私を慰めてくれたのはたった1人。\n\n私が議事堂の中で泣かずに我慢できれば彼女は\n私の事を守ってくれると約束してくれた。,,Only one person came and calmed me down. She promised me that she'd protect me so long as I didn't cry.
+sentence_31105,31105,活动剧情,131,奥古斯塔,──她就是莱昂妮·冯·俾斯麦。,──她就是萊昂妮·馮·俾斯麥。,──その人は、ライオネ・フォン・ビスマルク。,,That person was Leonie von Bismarck.
+sentence_31105,31105,活动剧情,132,小怜,是怎么做的……？,是怎麼做的……？,ビスマルク……守ってくれるって、どうやって？,,What did she do?
+sentence_31105,31105,活动剧情,133,奥古斯塔,她在议会上发表了一次差点引起多数派议员们暴动的演说──,她在議會上發表了一次差點引起多數派議員暴動的演說──,彼女は議会の場で与党議員の怒髪天を衝くような\n演説を発表した──,,"She gave the Blood and Iron speech, which almost caused a riot."
+sentence_31105,31105,活动剧情,134,奥古斯塔,“当代的重大问题不是通过演说和多数派决议所能解决的，而是要用铁和血来解决。”,「眼前的重大問題不是透過演說和多數派決議就能解決的，而是要用鐵和血來解決。」,「もはや此度の問題は演説や多数決で判断を下す\n状況ではない。鉄と血で解決するしかないのだ」,,"""The great questions of the time will not be resolved by speeches and majority decisions, but by iron and blood."""
+sentence_31105,31105,活动剧情,135,奥古斯塔,“为了避免我们再度陷入分裂，必须由霍亨索伦家族唯一的继承人来接替皇位。”,「為了避免我們再度陷入分裂，必須由霍亨索倫家族唯一的繼承人來接替王位。」,「再び我らが内部分裂に陥る状況を防ぐためにも\n私は徹底する」\n「皇位を受け継ぐのはホーエンツォレルン家\n唯一の跡継ぎでなければならない」,,"""To avoid being divided again, we must support the only living heir of the House of Hohenzollern."""
+sentence_31105,31105,活动剧情,136,N/A,听着奥古斯塔模仿那个人说话的样子，让我感觉有些熟悉。,聽著奧古斯塔模仿個人說話的樣子，我有種熟悉感。,ビスマルクの真似をしているオーガスタを見ると\nなぜかあの人を思い出す。,,Augusta's impression looks and sounds familiar.
+sentence_31105,31105,活动剧情,137,N/A,接着，她笑着摇了摇头。,接著，她笑著搖了搖頭。,言葉を止めたオーガスタは微笑みながら\n頭を振っていた。,,"Then, she shakes her head."
+sentence_31105,31105,活动剧情,138,奥古斯塔,从那时起就是这种不留余地的性格呢……,從那時起就是這種不留餘地的性格呢……,容赦のない性格は、あの時から変わらない。,,"That's her, always determined, bold, even a bit reckless..."
+sentence_31105,31105,活动剧情,139,奥古斯塔,她发表完演说之后，立刻将我从已经炸锅的议会大厅护送回了后台。,她發表完演說之後，立刻將我從已經吵成一團的議會大廳護送回後台。,演説が終わると彼女は騒乱と化した議事堂から\nすぐに私を裏へと護送した。,,"After giving her speech, she escorted me out of the chaotic room."
+sentence_31105,31105,活动剧情,140,奥古斯塔,当时我终于忍不住，哗的就哭了出来。觉得外面那些人一定会把我俩拉到歌剧广场上处决掉……,當時我終於忍不住，嘩一聲就哭了出來。覺得外面那些人一定會把我們兩個拉到歌劇廣場上處決掉……,流石の私も我慢できず大声で泣いてしまったよ。\n\n連中が絶対、私達2人を広場に連行して\n処刑すると思ったから……,,And it was then that I finally couldn't hold it any longer and started crying. I was afraid those people would drag both of us out and execute us...
+sentence_31105,31105,活动剧情,141,奥古斯塔,但她却说，人应该选择一个体面的死法，死于政治暗杀、死在绞刑架上和死在战场上并没有区别。,但她卻說，人應該選擇體面的死法，死於政治暗殺、死在絞刑架上和死在戰場上並沒有差別。,だが、ビスマルクは泣きじゃくる私に告げた。\n\n人間は死に方に体裁を選ぶ生き物だ。\n謀事で暗殺されるか、処刑台で首が落ちるか、\n戦場で命を落とすか、どれも大差はない。\n\n大事なのはいかにして後悔せず死ぬかだ。,,She stayed calm. She told me an honorable death is a good death.
+sentence_31105,31105,活动剧情,142,奥古斯塔,或许我还不懂，但为了达成我父兄的遗志，她会陪我一起，抗争到底。,或許我還不懂，但為了達成我父兄的遺志，她會陪我一起，抗爭到底。,まだ陛下には分からない事かもしれない。\n\nだが陛下の亡き父と兄の遺志を成し遂げるために\n私は最後まで共に抗う事を誓う……と。,,I didn't understand what she meant. She promised me she'd carry out the will of my late father and brother and fight alongside me until the very end.
+sentence_31105,31105,活动剧情,143,奥古斯塔,所以从那天起，她就成为了我的首相。,所以從那天起，她就成為了我的首相。,……あの日から\n彼女は私の首相となった。,,"Since that day, she became my minister president."
+sentence_31105,31105,活动剧情,144,奥古斯塔,根据普鲁士宪法，首相只需听从君主，并不需要搭理议会，她是我一个人的首相。,根據普魯士憲法，首相只需聽從君主，並不需要理會議會，她是我一個人的首相。,首相はプロイセン憲法により議会に取り合う\n必要はなく、君主にだけ従えばいい。\nだから彼女は私だけの首相……だった。,,"According to the Constitution of Prussia, the minister president only answers to the king or queen! So, she's my minister president and mine alone!"
+sentence_31105,31105,活动剧情,145,N/A,奥古斯塔说起这段往事时嘴角微微扬起，面容也变得温暖而柔和，就像说起自己重要的家人一般。,奧古斯塔說起這段往事時嘴角微微上揚，表情也變得溫暖而柔和，就像說起自己重要的家人一般。,ビスマルクの事を話すオーガスタの表情は\nとても柔く暖かなもので、\nまるで自分の大切な家族を語るかのようだ。,,"Thinking of this, a faint smile tugs at her lips. She looks like she's talking about a close family member."
+sentence_31105,31105,活动剧情,146,小怜,那之后怎么……,那之後怎麼……,その後、どうなったの……？,,But what happened afterwards?...
+sentence_31105,31105,活动剧情,147,奥古斯塔,自从我在凡尔赛宫加冕之后，一切都不一样了……,自從我在凡爾賽宮加冕之後，一切都不一樣了……,ヴェルサイユ宮殿で私は戴冠を授かった。\nそして、彼女も首相から宰相へとなった。\nだがそれ以降、全てが変わってしまった……,,Everything changed after my coronation...
+sentence_31105,31105,活动剧情,148,N/A,她缓缓低下了头。,她緩緩低下了頭。,オーガスタは緩やかに顔を伏せる。,,She looks down.
+sentence_31105,31105,活动剧情,149,奥古斯塔,之前她都会在议会和大臣对我提出无理要求的时候立刻站出来否决。,之前，只要議會和大臣對我提出無理要求時，她都會立刻站出來否決。,以前は議会や大臣が私に無理な要求を迫った時\n彼女は反対の声を上げて否決してくれた。,,"For so long, she's always had my back whenever the parliament and ministers were making unreasonable demands."
+sentence_31105,31105,活动剧情,150,奥古斯塔,可上周议会提议让我与魏玛大公的儿子联姻，陆军大臣和贸易大臣都站出来表示赞成。,可是上週議會提議要我和魏瑪大公的兒子聯姻，陸軍大臣和貿易大臣都站出來表示贊成。,なのに先週、私とヴァイマル大公の息子との\n婚約を議会が提案した時に彼女は……,,But not last week. The parliament proposed that I should marry the son of the Grand Duke. Most of the ministers seconded this proposal.
+sentence_31105,31105,活动剧情,151,奥古斯塔,她明知那家伙的儿子都是什么货色，却不但没有反对，还着手安排了今天的会面。,她明知那傢伙的兒子是什麼貨色，卻沒有表示反對，還著手安排了今天的會面。,ビスマルクは相手の素性を分かっていながらも\n陸軍大臣と貿易大臣の提案に反対せず、\n挙句に今日は面会まで手配していた。,,"Leonie, knowing full well what kind of a person I was going to marry unless she advised against it, personally arranged the meeting that was supposed to happen earlier today."
+sentence_31105,31105,活动剧情,152,奥古斯塔,从那天之后，她就一直拒绝与我见面，就连陆军大臣换掉我的禁卫她也不管……,從那天之後，她就一直拒絕和我見面，就連陸軍大臣換掉我的禁衛，她也不管……,それからというもの私と会うのを彼女は\nずっと避け続けて……\n私の近衛兵を陸軍大臣が異動した事に対しても\n何も言ってくれなくて……,,"Since that day, she's refused to see me in person. She even allowed others to change my personal guards..."
+sentence_31105,31105,活动剧情,153,N/A,旋转木马随着音乐结束渐渐停了下来，奥古斯塔也陷入了沉默。,旋轉木馬隨著音樂結束漸漸停了下來，奧古斯塔也陷入了沉默。,やがて音楽が止まり、回転木馬が止まる。\n\nオーガスタも静かに黙り込んだ。,,"The carousel stops along with the music. Augusta stops talking, too."
+sentence_31105,31105,活动剧情,154,N/A,我回想起在凡尔赛宫的卧室她跟我报出的那一连串头衔，然后轻轻拍了拍她的后背。,我回想起她在凡爾賽宮的臥室中向我報出的那一連串頭銜，然後輕輕拍了拍她的後背。,ヴェルサイユ宮殿の部屋で彼女の名乗り口上を\n思い出して、彼女の背中をポンっと叩く。,,All the titles she mentioned in her self introduction flash through my mind. I pat her on the back and ask:
+sentence_31105,31105,活动剧情,155,小怜,你的那个首相……\n现在的头衔已经变成宰相了吧？,妳的那個首相……\n現在的頭銜已經變成宰相了吧？,君の首相……\n今はもう宰相になったんだったっけ？,,"Your minister president...\nNow her title has changed to chancellor, right?"
+sentence_31105,31105,活动剧情,156,奥古斯塔,嗯……,嗯……,……うん。,,Yes...
+sentence_31105,31105,活动剧情,157,小怜,那是因为你现在已经不仅仅是普鲁士的女王，而是德意志全境的皇帝了。,那是因為妳現在不僅僅是普魯士的女王，而是德意志全境的皇帝了。,それは君が、ただのプロイセン女王ではなくて\nドイツ全土を統一する皇帝になったからだよな。,,You're not only the Queen of Prussia anymore—you're die Kaiserin von Deutschland!
+sentence_31105,31105,活动剧情,158,N/A,大战结束之后，迫切希望恢复经济的民众与手握军权的大臣之间是最需要小心制衡的。,大戰結束之後，最需要小心制衡的就是迫切希望恢復經濟的民眾以及手握軍權的大臣。,状況が変わると配慮するべき事は増える。\nそうしなければ、余計な危険を招くから。\n特に戦争が終わった直後なんかは……君に。,,"The war just ended. Between the people who want the economy to bounce back and the ministers who control the military, that's a very thin line for anybody to walk."
+sentence_31105,31105,活动剧情,159,小怜,所以，放心吧~,所以，放心吧～,でも、大丈夫だと思う。,,"Anyway, don't worry."
+sentence_31105,31105,活动剧情,160,小怜,虽然我还不知道自己是怎么来到这个世界的，以及那股控制我的强大力量来自何处……,雖然我還不知道自己是怎麼來到這個世界的，以及那股控制我的強大力量來自何處……,この世界に俺がどうやって来たのか\n「俺」を操る力は何なのか。\nそれは全然、分からないけど……,,Though I still don't know how I traveled to this world and where my mighty power came from...
+sentence_31105,31105,活动剧情,161,小怜,但这次事件应该制造了足够的筹码，来让那个人说服议会，让他们认同你的价值远超他们的想象了。,但這次事件應該製造了足夠的籌碼，讓那個人得以說服議會，也使他們不得不認同妳的價值遠超出他們的想像。,でも今回の事件が巻き起こってさ？\n俺を召喚する事もできて。\n少なくとも自身に高い価値がある事を\n君は証明できたんだろう？,,My presence should've gained you enough leverage for your chancellor to convince the parliament that you're far more valuable than they thought.
+sentence_31105,31105,活动剧情,162,小怜,我说的没错吧──,我說的沒錯吧──,それは議会を説得する材料として\nもう充分なんじゃないかな──,,Am I right?
+sentence_31105,31105,活动剧情,163,小怜,宰相小姐？,宰相小姐？,ねぇ、宰相さん？,,Frau Kanzlerin?
+sentence_31105,31105,活动剧情,164,N/A,我盯着向售票亭上的监控摄像头，从我们来到广场开始，它就一直正对着我们的方向。,我盯著向著售票亭上的監控攝影機。從我們來到廣場開始，它就一直正對著我們的方向。,俺はチケット売り場の監視カメラに向かって\n話しかけた。\nあのカメラは広場に入った瞬間からずっと俺達を\n見ていた。,,I've noticed the camera above the ticket booth. It's been pointing at us since we arrived.
+sentence_31105,31105,活动剧情,165,奥古斯塔,什、什么意思？,什、什麼意思？,ど、どういう事だ？,,Who're you talking to?
+sentence_31105,31105,活动剧情,166,N/A,没等我解释，一辆装饰着金质镶边的白色豪华汽车就从广场远端的拐角缓缓驶出。,我還來不及解釋，一輛裝飾著金質鑲邊的白色豪華汽車就從廣場遠處的轉角緩緩駛出。,金色フレームの白い高級車がゆっくりと\n広場の向こう側の曲がり角から接近してくる。\nそのまま回転木馬の隣で停止した。,,"Before I can explain, a fancy white limo appears, slowly driving toward us..."
+sentence_31105,31105,活动剧情,167,N/A,汽车一直开到旋转木马旁边，司机殷勤的拉开后排车门，毕恭毕敬的邀请我们。,汽車一直開到旋轉木馬旁邊，司機殷勤地拉開後車門，畢恭畢敬地邀請我們。,車から運転手が降りてくると後ろのドアを開けて\n礼儀正しく俺達を乗車に誘う。,,"Until it pulls over next to the carousel. The chauffeur opens the back door, then politely invites us to get in."
+sentence_31105,31105,活动剧情,168,N/A,车里坐着一位身穿白色礼服的女人，从我的角度看不到她的上半身。,車上坐著一位身穿白色禮服的女人，從我的角度看不到她的上半身。,車の中にいたのは白いドレスを着た女性だ。\n俺からだと上半身は見えない。,,"A woman in white is sitting inside. From where I am, I can't see her face."
+sentence_31105,31105,活动剧情,169,N/A,奥古斯塔立刻从座椅上跳下来跑了过去。,奧古斯塔立刻從座椅上跳下來跑了過去。,オーガスタは回転木馬の馬車から降りて\n真っ直ぐ走り出した。,,"Augusta, however, immediately jumps off the carousel and runs toward the limo."
+sentence_31105,31105,活动剧情,170,奥古斯塔,莱昂妮！？,萊昂妮！？,ライオネ！？,,Leonie?!
+sentence_31105,31105,活动剧情,171,N/A,与此同时，广场远端的拐角开出几辆装甲车，对面房顶上也有数个黑影在攒动。,在此同時，廣場遠處的轉角又開出幾輛裝甲車，對面屋頂上也有幾個黑影在攢動。,同時に曲がり角から数台の装甲車が現れる。\n\n向こう側の屋根の上には多くの黒い影が。,,"Meanwhile, several armored vehicles are driving out from around the corner. A few people can be seen moving on the roof of the building across the way, as well."
+sentence_31105,31105,活动剧情,172,小怜,（果然，真像那个人呢……）,（果然，真像那個人呢……）,（やっぱ似ている気がするな……）,,(I've become a lot like her...)
+sentence_31105,31105,活动剧情,173,N/A,我能看出这些手段，也是因为一直在她身边耳濡目染吧~,我能看出這些手段，也是因為一直在她身邊耳濡目染吧～,俺が気付けたのも、あの人のおかげ……かな？,,"If I didn't spend that much time with her, I wouldn't have been able to make any of these observations."
+sentence_31105,31105,活动剧情,174,N/A,奥古斯塔开心的回头叫我一起上车，我笑着对她摆了摆手。,奧古斯塔開心地回頭叫我一起上車，我笑著對她揮了揮手。,オーガスタは嬉しそうにコチラへ振り返り、\n一緒に乗車しようと俺に手招きする。\n対して俺は彼女に手を振った。,,Augusta seems genuinely happy. She turns around and invites me to join her in the limo. I wave my hand at her.
+sentence_31105,31105,活动剧情,175,小怜,下次吧~,下次吧～,それじゃ、また今度。,,Maybe next time.
+sentence_31105,31105,活动剧情,176,N/A,从刚才我就已经感觉到……,從剛才我就已經感覺到……,うん……この感覚がきっとそうだ。,,I felt it just now...
+sentence_31105,31105,活动剧情,177,N/A,──是时候了。,──是時候了。,────時間が来た。,,It's time!
+sentence_31105,31105,活动剧情,178,N/A,我靠在旋转木马的座椅上，慢慢闭上了眼睛。,我靠在旋轉木馬的座椅上，慢慢閉上了眼睛。,──回転木馬の座席に背を預けて。\n\n俺はゆっくりと目を閉じた──,,"I lean against my seat, slowly closing my eyes..."
+sentence_31105,31105,活动剧情,179,N/A,……,……,……,,...
+sentence_31105,31105,活动剧情,180,N/A,………………,………………,………………,,...
+sentence_31105,31105,活动剧情,181,N/A,黑暗中，强烈的眩晕向我袭来。,黑暗中，強烈的暈眩感向我襲來。,暗闇の中、強烈な眩暈が襲ってくる。,,Dizziness strikes me in the dark.
+sentence_31105,31105,活动剧情,182,N/A,接着是一阵刺眼的亮光和强烈的坠落感，我不禁大叫了起来──,接著是一陣刺眼的亮光和強烈的墜落感，我不禁大叫了起來──,それから眩しい光と、墜落しているような感覚。\n俺は堪えられず大声で叫んだ──,,"Then, followed by blinding light, I feel like I'm falling quickly. I can't help but scream..."
+sentence_31105,31105,活动剧情,183,N/A,当坠落感突然消失时，我感觉自己好像正趴在柔软的纺织品上。,墜落感突然消失時，我感覺自己好像趴在柔軟的紡織品上。,墜落感が消えると、代わりに柔軟な織物の感触がする。,,"Finally, the fall stops. I've landed on some soft fabric."
+sentence_31105,31105,活动剧情,184,N/A,同时耳边传来了安妮的欢呼和拉斐尔的尖叫声。,同時耳邊傳來了安妮的歡呼和拉斐爾的尖叫聲。,アニーの歓喜の声と、ラファエルの絶叫の声が\n傍で響いた。,,And I hear Annie's cheering and Raphilia's scream.
+sentence_31105,31105,活动剧情,185,安妮,小怜回来啦？！,小憐回來啦？！,レンちゃん！！帰ってきたの！？,,Ren's back!
+sentence_31105,31105,活动剧情,186,N/A,安妮打开卧室的灯，我发现自己正以一种奇怪的姿势跪在床上──上半身紧贴床面，屁股高高翘起。,安妮打開臥室的燈，我發現自己正以一種奇怪的姿勢跪在床上──上半身緊貼床面，屁股高高翹起。,アニーが部屋の電気をつけると俺は奇妙な姿勢で\nベッドの上に転がっていた。\n上半身が寝そべっている状態でお尻だけを\n高々と上げている。,,"Annie turns on the bedroom light. There I am—in a position most awkward. I'm on all fours, butt raised high."
+sentence_31105,31105,活动剧情,187,N/A,而我的脸正对着的是……,而我的臉正對著的是……,そして俺の顔の先には……,,And my face is...
+sentence_31105,31105,活动剧情,188,N/A,──坐在床上的拉斐尔岔开的两腿之间？！,──坐在床上的拉斐爾岔開的兩腿之間？！,ベッドの上に座るラファエルの……\n\n……開いた両足！？,,"right between the legs of Raphilia, who's casually sitting on the bed."
+sentence_31105,31105,活动剧情,189,N/A,还没等我看清，就被她一脚蹬中面门，从床上踹了下去。,我都還沒看清楚，就被她一腳踹中臉部，從床上滾了下去。,反応するまでもなくラファエルの蹴りが顔面へと\n炸裂し、俺はベッドから蹴り落とされた。,,"It gets worse. Before I have the chance to take a closer look, I'm hit in my face and fall off the bed."
+sentence_31105,31105,活动剧情,190,小怜,啊啊！！屁股疼疼疼……,啊啊！！屁股痛痛痛……,ぶっぁぁぉぉ――！ い、痛い……！,,Ouch! My butt hurts!
+sentence_31105,31105,活动剧情,191,N/A,我刚想揉，发现自己手里攥着那枚湿乎乎的彩蛋。,我才想要伸手揉，卻發現手裡握著那顆濕答答的彩蛋。,蹴られた場所を押さえとするとなぜか手の中\nに濡れている例のイースター・エッグがあった。,,And what's this in my hand? A wet easter egg!
+sentence_31105,31105,活动剧情,192,小怜,怎么……,怎麼……,これ、どう言う事……？,,...
+sentence_31105,31105,活动剧情,193,N/A,安妮手里拿着一个黑色的物体，但完全无法分辨它的形状。,安妮手上拿著一個黑色的物體，但完全無法分辨它的形狀。,アニーが黒い物体を持っている事に気付く。\nその形状は良く分からない。,,Annie is holding a black object whose shape is hard to tell.
+sentence_31105,31105,活动剧情,194,N/A,直到她把它放在桌子上，我才发现那是一个被涂黑的玻璃水杯。,直到她把它放在桌子上，我才發現那是一個被塗黑的玻璃水杯。,しかし、机の上に置かれると黒塗りされた\nガラスであることが把握できた。,,"Until she puts it on the table, that is—it's tinted glass."
+sentence_31105,31105,活动剧情,195,安妮,果然所谓“不透光”指的不仅仅是可见光，还要能屏蔽一切电磁波啊。,果然所謂「不透光」指的不僅僅是可見光，還要能遮蔽所有電磁波啊。,やっぱり「光の不透過」は可視光だけじゃなくて\n電磁波も遮断しないといけなかったみたいだね。,,"Just like what I thought! It has to block not only visible light, but also electromagnetic waves of all kinds."
+sentence_31105,31105,活动剧情,196,安妮,虽然我也不知道什么叫电磁波，不过还好拉斐尔的画室里有这种反光率超低的碳纳米管材料。,雖然我也不知道什麼叫電磁波，不過還好拉斐爾的畫室裡有這種反光率超低的碳奈米管材料。,細かい事はイマイチ分からないけど、\nラファエルの部屋にあったのは幸いかな？\n超低反射のカーボンナノマテリアルなんて\n便利アイテムが！,,"Though I don't know what electromagnetic waves are, I was able to find the carbon nanotube material with ultra-low reflectivity."
+sentence_31105,31105,活动剧情,197,小怜,……哈？\n你说什么呢？,……嗄？\n妳說什麼？,……はい？\nえーと、全然話が見えないけど……？,,"??\nEnglish, please!"
+sentence_31105,31105,活动剧情,198,安妮,……可是刚才拉斐尔为什么要叫我关了灯在门外等着啊？,……可是，剛才拉斐爾為什麼要叫我關了燈在門外等啊？,だけどラファエル、なんで電気を消した上に\n私を部屋の外に待たせたの？,,There's just one thing I don't get. Why did Raphilia ask me to turn off the light and wait outside the bedroom?
+sentence_31105,31105,活动剧情,199,N/A,我正被安妮的话搞得摸不着头脑，接着就被拉斐尔丢过来的枕头击中，失去了知觉。,我正被安妮的話搞得摸不著頭緒，就被拉斐爾丟過來的枕頭擊中，失去了知覺。,アニーの話で余計チンプンカンプンになった俺は\nラファエルの繰り出した枕での追加攻撃により\n顔面アウトで気絶した。,,"I get more and more confused by Annie's words. Before I can ask any questions, I get hit by the pillow Raphilia throws and lose consciousness."
+sentence_31105,31105,活动剧情,200,N/A,一段时间之后。,一段時間之後。,しばらくした後。,,Some time later...
+sentence_31105,31105,活动剧情,201,N/A,第五学园都市，新丰洲境内。,第五學園都市，新豐洲境內。,第五学園都市、新豊洲境内。,,"Fifth Academy City, New Opulentia"
+sentence_31105,31105,活动剧情,202,N/A,莉琉揉着还在发胀的脑袋，蓬头垢面的从洗手间走出来，手机收到了情报组发来的简报。,莉琉揉著還在發脹的腦袋，蓬頭垢面地從洗手間走出來，手機收到了情報組傳來的簡報。,乱れた髪のマリルがトイレから出てくる。\n\nズキズキする頭を押さえながら情報チームから\n受信した速報を携帯で確認する。,,Mariru still has a hangover. She receives a brief on her phone as she walks out the bathroom.
+sentence_31105,31105,活动剧情,203,N/A@莉琉,安妮把那个小笨蛋找回来了？,安妮把那個小笨蛋找回來了？,アニーがあのバカを見つけたのか？,,Annie has found Ren?
+sentence_31105,31105,活动剧情,204,N/A@莉琉,我就说没什么事儿吧……,我就說不會有事吧……,だから大丈夫と言っただろう……うん？,,I told you it'd be all right.
+sentence_31105,31105,活动剧情,205,N/A,莉琉随意的向下刷着简报，却看到了完全意料之外的内容──,莉琉隨意地向下刷著簡報，卻看到了完全意料之外的內容──,速報の続きを読んでいくとそこには\n目を疑うような内容が書かれていた──,,Mariru casually reads the brief until she sees something unexpected.
+sentence_31105,31105,活动剧情,206,N/A@莉琉,1871年……德意志帝国？？,1871年……德意志帝國？？,1871年……ドイツ帝国？,,1871? The German Empire?
+sentence_31105,31105,活动剧情,207,N/A,如果不排除记忆植入，或许只能解释为观测到了异世界或另一维度的宇宙……,如果不排除記憶植入，或許只能解釋為觀測到了異世界或另一個維度的宇宙……,記憶改竄の可能性を取り除くとすれば……\n\n異世界の観測？ または平行世界への旅行？,,"If we rule out memory implants, there's only one possible explanation—the Otherworld, or a parallel universe, does exist..."
+sentence_31105,31105,活动剧情,208,N/A@莉琉,钻进了兔子洞吗……,鑽進了兔子洞嗎……,……うさぎの穴にでも飛び込んだのかアイツは。,,Like a rabbit hole...
+sentence_31105,31105,活动剧情,209,N/A,……,……,……,,...
+sentence_31105,31105,活动剧情,210,N/A,…………,…………,…………,,...
+sentence_31105,31105,活动剧情,211,N/A,当夜，奥古斯塔回到卧室，侍卫已经换回了自己熟悉的那几个人。,當晚，奧古斯塔回到臥室，侍衛已經換回了自己熟悉的那幾個人。,レンと奇妙な出会いを果たした夜。\n\n寝室に戻ったオーガスタは見慣れた衛兵達が\n帰ってきた事に気が付いた。,,"On the same night, Augusta returns to her bedroom. Her old guards have returned."
+sentence_31105,31105,活动剧情,212,N/A,女仆早就将卧室重新整理好，桌上还摆着宰相差人送来的一盘马卡龙。,女僕早就將臥室重新整理好，桌上還擺著宰相派人送來的一盤馬卡龍。,部屋はメイドによって綺麗に片付けられており\n机の上には宰相から贈られた品である、\nマカロンが置かれている。,,"The maids have already cleaned the room. A plate of macarons is sitting on the table, courtesy of the chancellor."
+sentence_31105,31105,活动剧情,213,奥古斯塔,可恶，又在晚上给我送甜食……,可惡，又在晚上送甜食給我吃……,おのれ……\nまた夜分にスイーツを送り付けるとは……,,I hate her! Always sending me sweet snacks at night...
+sentence_31105,31105,活动剧情,214,N/A,奥古斯塔摸了摸自己的小肚子，然后从盘子上偷偷抽走一块。,奧古斯塔摸了摸自己的小肚子，然後從盤子上偷偷抽走一塊。,オーガスタは自分のお腹を撫でた後、\n秘かに皿から1個だけ取った。,,"Augusta touches her belly, then takes one macaron despite what she just said."
+sentence_31105,31105,活动剧情,215,N/A,刚刚在款待魏玛大公及其家人的晚宴上，宰相以一份炼钢产业联营的合约替代了先前提出的婚约。,剛剛在款待魏瑪大公及其家人的晚宴上，宰相以一份煉鋼產業聯營的合約替代了先前提出的婚約。,宰相は先ほどのヴァイマル大公らを歓迎する宴で\n鉄鋼業共同経営の契約を婚約の代案として、\n強気の姿勢を見せつけるがまま提案していた。,,"During the dinner earlier, the chancellor offered the Grand Duke a steelmaking contract to replace the marriage deal."
+sentence_31105,31105,活动剧情,216,奥古斯塔,那份合约明明早就拟定好了吧……,那份合約明明早就擬定好了吧……,あの契約はそもそも最初から婚約と関係なしに\n用意されていた話だろうけどな……,,She must've drafted that contract a long time ago...
+sentence_31105,31105,活动剧情,217,N/A,奥古斯塔走到阳台上，看着漫天的繁星，做了个深呼吸。,奧古斯塔走到陽台上，看著滿天的繁星，做了個深呼吸。,オーガスタはバルコニーに移動する。\n\n──そして星空に向かって深呼吸した。,,Augusta walks to the balcony. She takes a deep breath as she looks at the starry night skies.
+sentence_31105,31105,活动剧情,218,N/A@奥古斯塔,月色真美啊……,月色真美啊……,今宵は……\n\n月が綺麗だ……,,If this isn't love...

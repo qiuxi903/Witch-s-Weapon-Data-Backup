@@ -1,0 +1,4 @@
+﻿1	小怜	这兵器……似乎并没有看起来那么重嘛。	這些兵器……似乎並沒有看起來那麼重嘛。	この兵器とか、思ったより軽いな。	이 무기……보기보다 무겁지 않은 걸.	These weapons… seem to be lighter than they look.	
+2	安妮	只有你会这么感觉，因为是与你确定了羁绊的魔女的兵器嘛~	只有妳會覺得很輕唷，因為這是與妳有了羈絆的魔女的兵器嘛～	そう感じるのは、あなたと絆を結んでいる魔女の兵器だからだよ。	너한테만 그래. 네가 이미 마녀의 무기와 인연을 맺었기 때문이지~	They are light only in your hands, because they are bound to you!	
+3	敌人	咕嘎啊啊啊啊！！！！	咕嘎啊啊啊啊！ ！！ ！	くぎゃああああああッッ！！！！	크아아아아아！！！！	Gurr-ahh!	
+4	安妮	看来有人等不及了\n我会教你如何用多把兵器战斗的！	唉啊，看來有人等不及了。 \n放心！ 我會教妳如何使用多把兵器戰鬥的！	待ちきれない連中のようね。\n複数の兵器の戦い方を教えるわ！	못 기다리겠는 사람이 있는 것 같으니\n이제 어떻게 무기를 사용하는지 알려줄게!	Looks like someone just can't wait to die! \nLet me show you how to use multiple weapons to fight!	

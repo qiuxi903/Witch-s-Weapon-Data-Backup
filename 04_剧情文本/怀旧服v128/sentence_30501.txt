@@ -1,0 +1,116 @@
+﻿1	N/A	几十年前，医生在研究针对抑郁症的疗法时，偶然发现以特定的频率电击可以消除患者的记忆。	幾十年前，醫生在研究針對憂鬱症的療法時，偶然發現以特定的頻率電擊可以消除患者的記憶。			A few decades ago, some doctor accidentally discovered that electric shocks could erase memory. They thought that could be the cure for depression.	
+2	N/A	高强度正弦电流的刺激，会打断大脑扣带皮层的蛋白质合成，从而改变神经传递系统。	高強度正弦電流的刺激會打斷大腦扣帶皮層的蛋白質合成，從而改變神經傳遞系統。			By altering neurotransmitters via the so called "electroshock therapy,"	
+3	N/A	被消除记忆的人会失去所有的『经历记忆』：包括父母、爱人、自己的过往和身份等等。	被消除記憶的人會失去所有的「經歷記憶」：包括父母、愛人、自己的過往和身分等等。			it's possible to erase memories of experience: including loved ones, own past and identity, etc.	
+4	N/A	但他们仍会保留已习得的技能：比如说话、走路、甚至会记得如何驾驶汽车和使用武器。	但他們仍會保留已學會的技能：比如說話、走路、甚至會記得如何駕駛汽車和使用武器。			But at the same time, procedural memories will be kept. For instance, how to walk, talk, drive a car, or use weapons.	
+5	N/A	如果某天你从一张陌生的床上醒来，忘记了一切。	如果某天你從一張陌生的床上醒來，忘記了一切。			Imagine you wake up one day and don't remember anything.	
+6	N/A	一群陌生人围在你身边，声称自己是你最重要的亲人或朋友，而其他人都在欺骗你──	一群陌生人圍在你身邊，聲稱自己是你最重要的親人或朋友，而其他人都在欺騙你──			You're surrounded by strangers. Everyone claims to be your family or close friend and warns you that all the others are lying to you.	
+7	N/A	你会选择相信谁？	你會選擇相信誰？			Who do you choose to believe?	
+8	N/A	……	……			...	
+9	N/A	第二学园都市──纽摩利达斯。	第二學園都市──紐摩利達斯。			Second Academy City—Newmoridas	
+10	N/A	某高层公寓内，一个女孩正坐在地毯上，透过高脚杯中的红酒眺望窗外的夜景。	某高樓公寓內，一個女孩正坐在地毯上，透過高腳杯中的紅酒眺望窗外的夜景。			Inside a tall apartment building, a girl sits on the carpet, looking at the view outside through her wine glass.	
+11	N/A	灯火辉煌的大都会被液体滤镜染成一片血红，随着酒杯的微微摇晃，不断被拉伸、扭曲、变形……	燈火輝煌的大都會被液體濾鏡染成一片血紅，隨著酒杯的微微搖晃，不斷被拉伸、扭曲、變形……			The metropolis's night view is as bright as day, though the red wine has cast a scarlet shadow on everything within its frame.	
+12	N/A	女孩出神的看了一会，随后把酒杯放在地板上，哼着歌拿起一根像马克笔似的东西开始写字。	女孩出神地看了一會，隨後把酒杯放在地板上，哼著歌拿起一根像麥克筆似的東西開始寫字。			After staring at the view for a while, the girl puts her wine glass on the floor and picks up a "marker pen" to write something.	
+13	N/A	忽然她的手机响了起来，女孩立刻戴上耳机，清了清嗓子，随后按下接听键──	忽然她的手機響了起來，女孩立刻戴上耳機，清了清嗓子，然後按下接聽鍵──			Suddenly, her phone rings. She puts on her headphones, then clears her throat and picks up the phone.	
+14	N/A@女孩	对不起，您拨打的用户不在服务区，请稍后再拨。	對不起，您撥打的用戶不在服務區，請稍後再撥。			Sorry. The number...	
+15	N/A@女孩	Sorry,The number you dialed is out of...	Sorry,The number you dialed is out of...			Sorry. The number you dialed is out of...	
+16	N/A@男性的声音	伊娜拉，别闹了!	伊娜拉，別鬧了!			Cut it out, Inara!	
+17	N/A	电话中一个低沉的男性声音打断了女孩的恶作剧。	電話中一個低沉的男性聲音打斷了女孩的惡作劇。			A low male voice interrupts the girl's prank.	
+18	伊娜拉	嘁，没劲……	呿，真無趣……			You're no fun...	
+19	伊娜拉	什么事啊，我这周很忙哦~	什麼事啊，我這週很忙哦～			You need something? I have a busy schedule this week.	
+20	N/A@男性的声音	纽摩利达斯时装周？	紐摩利達斯時裝週？			Newmoridas Fashion Week?	
+21	伊娜拉	喲？还挺懂的嘛，是不是你老婆她……	喲？還挺懂的嘛，是不是你老婆她……			Oh? I'm impressed! You know this cuz of your wife?	
+22	N/A@男性的声音	不谈论家人，这是规矩。	不談論家人，這是規矩。			We don't discuss family. That's the rule.	
+23	N/A	男人斩钉截铁的打断对话。	男人斬釘截鐵地打斷對話。			The man stops the girl immediately.	
+24	N/A	伊娜拉翻了翻白眼，接着朝空气做了个鬼脸。	伊娜拉翻了翻白眼，接著朝空氣做了個鬼臉。			Inara rolls her eyes and makes a funny face.	
+25	N/A@男性的声音	你听好，我刚得到情报，由于你上次的过火行为，开普敦警方已经向联合议会提出援助调查的申请。	妳聽好，我剛得到情報，由於妳上次的過火行為，開普敦警方已經向聯合議會提出援助調查的申請。			Listen, I was just informed. What you did last time has had consequences. The Cape Town Police Department has officially filed a request to the United Council for a joint investigation.	
+26	伊娜拉	开普敦？联合议会连那种地方都管啊~	開普敦？聯合議會連那種地方都管啊～			Cape Town? No places are out of the United Council's reach, huh?	
+27	伊娜拉	而且……你怎么知道“那个”是人家做的呀？	而且……你怎麼知道「那個」是人家做的呀？			But... How did you know it was me?	
+28	N/A	伊娜拉故意用小女孩的声音和口吻，一幅天真的语气问道。	伊娜拉故意用小女孩的聲音和口吻，一副天真的語氣問著。			Inara plays innocent by using her small girl's voice and tone.	
+29	N/A@男性的声音	除了你还有谁会接那种送命又没多少报酬的工作，而且有必要做的那么夸张吗？	除了妳，還有誰會接那種玩命又沒多少報酬的工作，而且有必要做得那麼誇張嗎？			You tell me! Who else would accept a job with low pay and high risk? Besides, the job was done in the most dramatic way!	
+30	伊娜拉	很、很夸张吗？	很、很誇張嗎？			Dramatic?	
+31	N/A	伊娜拉用很意外的语气反问道。	伊娜拉用很意外的語氣反問。			Inara intentionally sounds surprised.	
+32	伊娜拉	把暴君的脑袋挂在教堂的尖顶上难道不是传统吗？	把暴君的腦袋掛在教堂的尖頂上難道不是傳統嗎？			Isn't it a tradition to hang the tyrant's head on the top of a church building?	
+33	N/A@男性的声音	传统个屁！！	傳統個屁！！			Only your tradition!	
+34	N/A@男性的声音	现在大众都喜欢看这种有政治隐喻的东西，你知道这事儿上了多少媒体的头条吗！？	現在大眾都喜歡看這種有政治隱喻的東西，妳知道這上了多少媒體的頭條嗎！？			The public nowadays loves political metaphors. It's been on every major headline everywhere!	
+35	N/A	电话另一头的男性有些控制不住自己情绪的嚷起来，但很快再次压低声音，并迅速调整呼吸。	電話另一頭的男性有點控制不住自己情緒地提高了音量，但很快再次壓低嗓門，並迅速調整呼吸。			The man starts to lose his composure. But quickly, he lowers his voice again and adjusts his breath.	
+36	N/A@男性的声音	总而言之，现在联合议会怀疑这件事涉及到异质物滥用，已经派遣了特别调查员。	總而言之，現在聯合議會懷疑這件事涉及到異質物濫用，已經派遣了特別調查員。			Long story short—now the United Council suspects the incident is connected to Substance H and has sent a special investigator.	
+37	伊娜拉	异质物？噗哈哈哈哈~~！	異質物？噗哈哈哈哈～～！			Substance H? Hahaha.	
+38	N/A	伊娜拉大笑着锤着地板。	伊娜拉大笑著搥起地板。			Inara can't stop laughing.	
+39	伊娜拉	果然那群家伙只是关心异质物而已，那他们要失望了，因为我完全没有用什么异质物啊~	果然那群傢伙只關心異質物而已，那他們要失望了，因為我完全沒有用什麼異質物啊～			So, Substance H is all they care about, huh? I'm afraid they'll be disappointed. I didn't use any Substance H.	
+40	N/A@男性的声音	那你是怎么……\n算了，我还是不知道的好。	那妳是怎麼……\n算了，我還是不要知道比較好。			Then how did you...\nNever mind. It's best I don't know.	
+41	N/A@男性的声音	我提醒你，据说这次的调查员是个死脑筋，就算与异质物无关的事件也都会查到底。	我提醒妳，據說這次的調查員是個死腦筋，就算與異質物無關的事件也都會查到底。			I have to warn you, though. The special investigator is quite stubborn. She'll get to the bottom of this even if it's not connected to Substance H.	
+42	N/A@男性的声音	那人的资料我发给你了，你这一阵最好低调点。	那人的資料我傳給妳了，妳這一陣最好低調點。			I've sent you her file. Lie low these days, you hear?	
+43	伊娜拉	嗯嗯，低调低调，特别低调行了吧？	嗯嗯，低調低調，我會特別低調，這樣可以吧？			Lying low is what I'll do, then!	
+44	N/A@男性的声音	伊娜拉心不在焉的附和着，同时加快了手里写字的速度。	伊娜拉心不在焉地附和著，同時加快了手裡寫字的速度。			Inara doesn't take it too seriously and keeps writing—only faster now.	
+45	N/A@男性的声音	下个月我们和萨蒙顿做稀土贸易谈判，到时候还有工作给你。	下個月我們和薩蒙頓要進行稀土貿易談判，到時候還有工作給妳。			We'll negotiate with Salmonton on rare earth element trade next month. Free your calendar—we'll have work for you.	
+46	伊娜拉	嘿嘿，是你们自己不方便还是做不来啊？	嘿嘿，是你們自己不方便還是做不來啊？			What, you guys need to distance yourselves? Or is that you just can't do it?	
+47	N/A	电话另一头沉默不语。	電話另一頭沉默不語。			The man doesn't reply.	
+48	伊娜拉	反正只要按时付账就行，我可不会给『帕兰蒂尔』打折哦！	反正只要準時付錢就行，我可不會給「帕蘭蒂爾」打折哦！			Anyway, just pay me on time. And no discount—even for Ritnalap.	
+49	N/A	伊娜拉拿起酒杯做了个干杯的姿势，喝了一口。	伊娜拉拿起酒杯做了個乾杯的動作，喝了一口。			Inara picks up her glass and takes another sip.	
+50	伊娜拉	噗呸，什么啊，还以为这酒有多好喝呢……	噗呸，什麼啊，還以為這酒有多好喝呢……			Yuck! I thought this wine was supposed to be tasty...	
+51	N/A@男性的声音	你什么时候开始喝酒了？	妳什麼時候開始喝酒了？			When did you start drinking?	
+52	伊娜拉	刚刚开始──\n我找到一瓶09年的玛歌~	剛剛開始──\n我找到一瓶09年的瑪歌～			Just.\nI found a bottle of Chateau Margaux 2009.	
+53	N/A@男性的声音	什么！？	什麼！？			What?!	
+54	N/A	电话另一头的声音又激动起来。	電話另一頭的聲音又激動起來。			The voice on the other end gets agitated again.	
+55	伊娜拉	我就是上网搜了一下，发现酒柜里就这瓶最贵，你说这么酸的东西凭什么卖好几万啊？	我就是上網搜尋了一下，發現酒櫃裡這瓶最貴。不過你說說，這麼酸的東西憑什麼賣好幾萬啊？			I searched the Internet—this is the most expensive bottle in the wine cabinet. Why on earth would anyone pay that much for something so sour?	
+56	N/A@男性的声音	……酒柜？\n等等！你不会正在“工作”吧？	……酒櫃？\n等等！妳不會正在「工作」吧？			Wine cabinet?...\nAre you in the middle of a heist?	
+57	伊娜拉	哼哼，你猜~	哼哼，你猜啊～			Take your gueeeeess!	
+58	N/A	伊娜拉说话的尾音故意扬起，右手“马克笔”的笔锋顺势上挑画了个勾，发出『嗞』的一声。	伊娜拉說話的尾音故意揚起，右手「麥克筆」的筆尖順勢上挑畫了個勾，發出「嗞」的一聲。			Inara replies as she draws a heavy stroke with her "marker pen."	
+59	N/A@男性的声音	什么声音……你到底干嘛呢？	什麼聲音……妳到底在幹嘛？			What's that sound? What exactly are you doing?	
+60	伊娜拉	纹身~	紋身～			Making a tattoo.	
+61	N/A@男性的声音	什么？！	什麼？！			What?!	
+62	伊娜拉	没有啦，总之多谢提醒咯。	沒有啦，總之多謝提醒囉。			Joking! Anyway, thanks for the warning.	
+63	伊娜拉	还有你平时少喝点酒，一点都不好喝，而且你那个血压难道不怕便秘的时候脑血管忽然爆……	還有你平時少喝點酒，一點都不好喝，而且你那個血壓難道不怕便祕的時候腦血管忽然爆……			And don't drink too much. Alcohol doesn't taste good. Your blood pressure, too. Aren't you afraid your veins might burst while you're on the toilet?	
+64	N/A	没等少女念叨完，对方就挂断了电话。	沒等少女唸完，對方就掛斷了電話。			Before Inara finishes, the man hangs up...	
+65	伊娜拉	老东西，就知道说我。	老傢伙，就知道說我。			That old man always tries to lecture me...	
+66	N/A	伊娜拉站起身，关掉了“马克笔”上的开关，接着从挎包里拿出一节新电池换好。	伊娜拉站起身，關掉了「麥克筆」上的開關，接著從斜背包裡拿出一顆新電池換上。			Inara stands up, then turns off the "marker pen" before she changes its battery.	
+67	伊娜拉	来，小猪猪，翻面咯~	來，小豬豬，翻面囉～			Okay! It's time for the other side, little piggy!	
+68	N/A	她看着地毯上自己的“画布”：一个被扒得只剩内裤，塞着口球，身材有些发福的中年男性白人。	她看著地毯上自己的「畫布」：一個被扒得只剩內褲，塞著口球，身材有些發福的中年男性白人。			There it is—her canvas: an overweight, middle-aged white man in his underwear with a gag in his mouth.	
+69	N/A	男人此时已经失去意识，胸口、腹部、手臂和大腿都被纹上了字，胸口和腹部的字还是反写的。	男人此時已經失去意識，胸口、腹部、手臂和大腿都被紋上了字，胸口和腹部的字還是反寫的。			The man has already lost his consciousness. Words have been tattooed all over his chest, stomach, arms, and legs. The words on his chest and stomach are even written backwards.	
+70	N/A	伊娜拉踩着男人的胯用力一蹬，将那个肥胖的身躯侧翻了90度，卡在沙发边缘。	伊娜拉踩著男人的胯部用力一蹬，將那個肥胖的身軀側翻了90度，卡在沙發邊緣。			Inara kicks the man in the crotch and turns the man sideways, stuck on the edge of the couch.	
+71	N/A	但少女并没有立刻继续“创作”，而是目不转睛的盯着自己手机的屏幕──	但少女並沒有立刻繼續「創作」，而是目不轉睛地盯著自己手機的螢幕──			But something on her phone interrupts her "creation." 	
+72	伊娜拉	调查员叫……九月？\n好奇怪的名字。	調查員叫……九月？\n好奇怪的名字。			The investigator's name... September?\nWhat an odd name!	
+73	伊娜拉	啊，是女孩子啊？\n嘿嘿……	啊，是女孩子啊？\n嘿嘿……			And a girl.\nHehe...	
+74	N/A	……	……			...	
+75	N/A	几天后，新丰洲市。	幾天後，新豐洲市。			A few days later. New Opulentia	
+76	N/A@新闻	几日前，发生在第二学园都市纽摩利达斯的举世瞩目的枪击案有了最新进展。	幾天前，發生在第二學園都市紐摩利達斯舉世矚目的槍擊案有了最新進展。			Latest news on the high-profile shooting happened in Newmoridas a few days ago.	
+77	N/A@新闻	军工生产商格鲁门工业的主席塔尔斯·科赫被认为是第一目标，被击中三枪当场死亡。	軍工生產商格魯門工業的主席塔爾斯·科赫被認為是第一目標，被擊中三槍當場死亡。			Tails Koch, the chairman of the military manufacturer Grumman Industries, has been identified as the primary target of the shooting. He was shot three times and died on the spot.	
+78	N/A@新闻	嫌犯为一名会计师，据其声称自己曾是科赫的同性恋人。	嫌犯為一名會計師，據說聲稱自己曾是科赫的同性戀人。			The suspect is an accountant. He claims he was the victim's male lover.	
+79	N/A@新闻	嫌犯称对方在分手后袭击自己导致大脑受损，丧失了以前的记忆，他这么做是为了复仇。	嫌犯聲稱對方在分手後襲擊自己導致大腦受損，喪失了以前的記憶，他這麼做是為了復仇。			According to the suspect's story, the victim attacked him after an unpleasant breakup and caused him head injuries. The victim claims to have suffered memory loss and he killed the victim as revenge.	
+80	N/A@新闻	科赫的妻子表示嫌犯的指控纯属无稽之谈，随后警方透露嫌犯身上有大量纹身。	科赫的妻子表示嫌犯的指控純屬無稽之談。隨後警方透露嫌犯身上有大量紋身。			Koch's wife said the suspect's allegation was "pure nonsense." The police has revealed that the suspect has many tattoos.	
+81	N/A@新闻	纹身内容指出格鲁门工业与西亚和非洲存在大量地下交易，帕兰蒂尔已宣布接管此次调查……	紋身內容指出格魯門工業與西亞和非洲存在大量地下交易，帕蘭蒂爾已宣佈接管此次調查……			The tattoos indicate the frequent illegal transactions between Grumman Industries and Western Asia and Africa. Ritnalap has taken over the investigation...	
+82	小怜	这个新闻……	這個新聞……			This news...	
+83	N/A	大脑受损，纹身……不会是那个电影的影迷吧。	大腦受損、紋身……不會是那部電影的影迷吧。			Brain damage, tattoo... Sounds a lot like that movie.	
+84	小怜	（不对不对，同性恋人和妻子又是什么鬼！）	（不對不對，同性戀人和妻子又是什麼鬼！）			(But not the married gay man part...)	
+85	N/A	我收起了手机，百无聊赖的倚着路边的栏杆，看着来来往往的行人和车辆。	我收起了手機，百無聊賴地倚著路邊的欄杆，看著來來往往的行人和車輛。			Bored, I lean against the fence on the side of the road and look at the people and cars passing by.	
+86	小怜	唔……下周就要考试了啊……	唔……下週就要考試了啊……			Exams start next week...	
+87	N/A	每次大考之前，我都会有一段放空大脑的时间──	每次大考之前，我都會有一段放空大腦的時間──			I try to "clear" my mind before exams every time.	
+88	N/A	比如想象着自己不过是由几十万亿个细胞组成的有机体，所谓的“自我”只是一种错觉。	比如想像著自己不過是由幾十萬億個細胞組成的有機體，所謂的「自我」只是一種錯覺。			For instance, picturing myself as nothing but an organism consisting of trillions of cells. There's no "me," not really.	
+89	N/A	构成我身体的所有原子在几十年前曾散布在地球各个角落，一百年后也会尘归尘土归土。	構成我身體的所有原子在幾十年前曾散佈在地球各個角落，一百年後也會塵歸塵土歸土。			All the atoms in my body were somewhere else in the world a couple of decades ago. And in a few decades, they'll be spread all over the world again.	
+90	N/A	所以说考试什么的，在如此广袤浩瀚的宇宙中，在地球几十亿年的历史里，还有什么意义吗？	所以說考試什麼的，在如此廣大浩瀚的宇宙中，在地球幾十億年的歷史裡，還有什麼意義嗎？			Things like exams are so trivial and meaningless in this vast universe.	
+91	小怜	有意义啊！！！\	有意義啊！！！\			Except they're not!!	
+92	N/A	考砸了的话会被莉琉弄死啊！！！	考砸了的話會被莉琉痛扁的！！！			If I fail my exams, Mariru will kill me!	
+93	N/A	我两手抓着脑袋用力晃了晃，试图通过想象将考试化为虚无的努力很快宣告失败。\n	我兩手抓著腦袋用力晃了晃，試圖透過想像將考試化為虛無的努力很快宣告失敗。\n			My attempt failed. I can't convince myself that the exams aren't a big deal.	
+94	伊娜拉	嘿！小可爱~	嘿！小可愛～			Hello!	
+95	N/A	一个姐姐从我身后气喘吁吁的跑过来，大声叫住了我。	一個姐姐從我背後氣喘吁吁地跑過來，大聲叫住了我。			A girl runs to me.	
+96	小怜	诶？	欸？			Huh?	
+97	伊娜拉	啊啊抱歉，是不是吓到你了~	啊啊抱歉，是不是嚇到妳了～			I hope I didn't startle you.	
+98	伊娜拉	我是时尚杂志的编辑，刚刚在马路对面看到你就赶忙跑过来，想给你拍张照片。	我是時尚雜誌的編輯，剛剛在馬路對面看到妳就連忙跑過來，想幫妳拍張照片。			I'm an editor working for a fashion magazine. I saw you from across the road. Do you mind me taking a photo of you?	
+99	伊娜拉	因为你有一种……嗯……未经尘世的天真感嘛！\n现在的读者最喜欢你这种类型了！	因為妳有一種……嗯……未經塵世的天真感嘛！\n現在的讀者最喜歡妳這種類型了！			You have a... special vibe. Innocent and then something else.\nOur readers love your type!	
+100	N/A	她一边说一边笑着对我抛了个媚眼。	她一邊說一邊笑著對我拋了個媚眼。			She winks at me as she explains.	
+101	小怜	啊……\n是、是吗？	啊……\n是、是嗎？			Oh?...\nThey do?	
+102	N/A	我有些不好意思的捋了捋头发，这个打扮帅气的姐姐拍了拍我，叫我别害羞。	我有點不好意思地玩弄了一下頭髮。這個打扮帥氣的姐姐拍了拍我，叫我別害羞。			I feel a bit embarrassed. The girl pats me and tells me not to be shy.	
+103	N/A	随后她掏出手机，不由分说的把我拉到一旁，自己端着手机退到路边商店的招牌后面。	隨後她掏出手機，不由分說地把我拉到一旁，然後自己拿著手機退到路邊商店的招牌後面。			Then, she takes out her phone and drags me to the side while she steps back behind a shop sign.	
+104	伊娜拉	来来来，看着我这边哦~	來來來，看著我這邊哦～			Look this way!	
+105	小怜	（这、这难道就是杂志上的“街拍”吗？）\n（可我今天穿的只是校服啊……）	（這、這難道就是雜誌上的「街拍」嗎？）\n（但我今天穿的只是校服啊……）			(I suppose this is the so-called street snap?)\n(But I'm wearing the school uniform today...)	
+106	N/A	我还在犹豫要不要比个“V”的手势，身后忽然跑过去几个穿着西装的男人差点把我撞倒。	我還在猶豫要不要比個「V」的手勢時，背後忽然跑過幾個穿著西裝的男人，差點把我撞倒。			Just as I'm deciding if I should pose with a V-sign, a few men in suits run past me, almost running me over.	
+107	N/A	那几个人一路风风火火的跑出去几十米远，其中一个盯着手机的人发现不对，又折返回来。	那幾個人一路浩浩蕩蕩地跑出去幾十公尺遠，然後其中一個盯著手機的人發現不對，又折返回來。			Then they return after one man notices something wrong with his phone.	
+108	小怜	什么人啊！真过分……	什麼人啊！真過分……			Barbarians! So rude...	
+109	小怜	欸？那个姐姐呢？	欸？那個姐姐呢？			Huh? Where's that girl?	
+110	N/A	刚才的女生所在的招牌后面已经没了人影，我上前几步左右观望，她就好像忽然蒸发了一样。	剛才的女生所在的招牌後面已經沒了人影，我上前幾步左右觀望，她就好像忽然蒸發了一樣。			The girl has disappeared. I move toward the shop sign she was standing behind, but there's no sign of her.	
+111	小怜	奇怪……	奇怪……			Weird...	
+112	N/A@穿西装的男性	喂，小姑娘──	喂，小妹妹──			Hey! You!	
+113	N/A	此时，那几个撞到我的男人已经整齐的围在了我身后。	此時，那幾個撞到我的男人已經在我背後整齊地圍住。			Those men stand in one line and start to question me.	
+114	N/A	领头的家伙右手拿着手机，左手从我校服的袖子上摘下来一个药片大小的金属颗粒。	帶頭的傢伙右手拿著手機，左手從我校服的袖子上摘下來一個藥片大小的金屬顆粒。			One man, looking like their leader, pulls a pill-sized metal pellet off the sleeve of my uniform.	
+115	N/A	他的手机立刻发出急促的“嘟嘟嘟”的声音……	他的手機立刻發出急促的「嘟嘟嘟」聲音……			And almost immediately, his phone starts to make a sharp beeping sound...	
+116	N/A@穿西装的男性	你刚才，有没有遇到什么人？	妳剛才有沒有遇到什麼人？			Did you run into anyone earlier?	

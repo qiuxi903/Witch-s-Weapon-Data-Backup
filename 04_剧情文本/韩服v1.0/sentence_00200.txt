@@ -1,0 +1,4 @@
+﻿1	引导精灵	在继续冒险之前，有事情要教导你做一下	繼續冒險之前，我想教妳完成一些事	捜査を続ける前に、教えたい事があるよ。	모험을 계속하기 전에 너에게 알려줘야 할 일이 있어. 	Before continuing your adventure, there's something you need to know.	
+2	引导精灵	这里应该是一张图	這裡應該是一張圖	ここは画像があるはず。	여기 그림이 있지?	Check this picture here.	
+3	引导精灵	在这里展示的是引导教学相关的任务，完成任务可以帮助更好的了解游戏规则	這裡展示的是與引導教學相關的任務。完成任務有助於更瞭解遊戲規則	ここに展示されているのはチュートリアル関連のクエストだよ。完成すれば、このゲームの博士号が取れるかも。	여기에 튜토리얼 관련 임무가 표시돼. 임무를 완료하면 게임 규칙을 더욱 더 잘 이해할 수 있어. 	Tutorial quests are listed here. Complete them to know more about this game.	
+4	引导精灵	点击任务后，再点击前往，即可到达任务相对应的页面	點擊任務後，再點擊前往，即可到達任務所對應的頁面	クエストをタップして、『進む』を選択すれば、関連の画面へアクセスできるよ。	임무를 터치한 후 이동을 누르면, 임무에 상응하는 화면을 볼 수 있어.	Tap a quest, then tap GO to reach the corresponding quest interface.	

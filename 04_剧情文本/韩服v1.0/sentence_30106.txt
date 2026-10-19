@@ -1,0 +1,105 @@
+﻿1	N/A	──轰！！！！！	──轟！ ！！ ！！	――ドドォォーーンッッ！！！！！	──쾅！！！！！	—Boom!	
+2	N/A	随着一声巨响，车头猛然抬起，我被重重的甩到了地板上。	隨著一聲巨響，車頭猛然被抬起，我被重重甩到了地板上。	巨大な音と共に車の前部が荒々しく持ち上がり、\nその反動で俺は床へと叩き付けられた。	굉음과 함께 차 앞부분이 번쩍 들렸고, 난 뭔가에 부딪혀 바닥으로 쓰러졌다.	Yet another blast. The head of our truck is lifted abruptly, and I am tossed onto the ground.	
+3	N/A	异质物特种加固的车体装甲几乎没有什么形变，所有冲击都原封不动的传到了车厢内部。	異質物加固的特種車體裝甲幾乎沒有什麼變形，所有衝擊全都原封不動地傳到了車內。	異質物によって特殊補強されているため\n車体のダメージは軽微。\nだが、衝撃はそのまま車体内部へと伝わる。	이물질 특종 보강 장갑차는 어떠한 변형없이 모든 충격을 고스란히 내부로 전달했다. 	The exterior of the truck, fortified with the magical Substance H, is barely affected, but we can still feel the crushing force from the inside.	
+4	N/A	随着车辆翻滚倒地，我感到小腹一阵痉挛，好像能把半个胃给吐出来。	隨著車輛倒地翻滾，我感到小腹一陣痙攣，好像能把半個胃給吐出來。	車体が転がると、まるで胃の半分を\n吐き出すかのような痙攣が腹部に襲い掛かった。	차량이 구르자 위장을 토할 것 처럼 복부에 경련이 일어났다.	As the truck rolls onto its side, my stomach twists. Feels like I could puke out my guts then and there.	
+5	N/A	是啊，如果无法攻破装甲，只要炸飞地面一样可以将这种运兵车瘫痪掉。	是啊，如果無法攻破裝甲，只要炸飛地面一樣可以癱瘓這種運兵車。	そうか…この輸送車の装甲が無敵だとしても……\n\n走行不能の状態にさえすれば、\n結局は使い物にならなくなる……	맞아，부술 수 없는 장갑차라면 지면을 날리는 것처럼 무력화할 수 밖에 없을 것이다.	Right... the truck’s armor may be invincible, but the ground certainly isn’t. Just blast the ground and the truck will be rendered immobile.	
+6	N/A	真是昂贵而愚蠢的设计──	真是昂貴而愚蠢的設計──	高価なくせに頭の悪い設計だな、この車──	비싸기만 하고 전혀 쓸모없는 설계잖아──	What a foolish, pointlessly expensive design...	
+7	N/A	……	……	…………	……	...	
+8	N/A	头痛……	頭痛……	……頭が痛い。	머리 아파……	A headache...	
+9	N/A	耳畔嗡嗡作响，视线完全无法对焦。	耳畔嗡嗡作響，視線完全無法對焦。	……耳元でガンガンと音が鳴り、視線のピントが\n全く合わない。	귓가가 웅웅 거린다. 시선은 초점을 맞출 수가 없다.	My ears are ringing, eyes barely able to focus.	
+10	N/A	好在穿着那种有非牛顿流体填充物的战术夹克，我才没在刚才那下冲击中散了架。	好在有這件填充著非牛頓流體的戰術夾克，我全身骨頭才沒被剛剛那波衝擊打散。	幸いにも着ていた戦術ジャケットには、\n非ニュートン流体が仕込まれていたみたいだ。\nおかげで身体がバラバラにならずに済んだ。	비뉴턴 유체 충전물이 있는 전술 자켓 덕분에 그 충격에도 분해되지 않았다. 	Luckily I’m wearing a combat jacket filled with non-Newtonian fluid, or else I’d probably have broken most of my bones during the previous mess.	
+11	N/A	虽然不知是谁给我选的装备，真是谢天谢地……	雖然不知道這是誰幫我選的裝備，但真是謝天謝地……	誰が選んでくれた装備かは知らないけど、\n本当にありがとう……	누가 골라준 장비인지는 모르겠지만 하늘이 도왔어……	I don’t know who chose the equipment for me, but I guess I should be grateful.	
+12	小怜	（但我为什么下面穿的是丝袜啊……）\n（已经破洞洞了啊！！）	（不過為什麼下面穿的是絲襪……）\n（我靠，都破了啦！ ！）	（でも下はストッキングなんだよな……）\n\n（あッ！もう穴が開いたじゃんかッ！！）	（그런데 난 왜 스타킹을 입고 있는 거야…）\n（구멍이 나버렸잖아！！）	(Still, did they have to make me wear silk stockings?)\n(And there are holes in them now!)	
+13	N/A	砰！砰！砰！砰！砰！砰！砰！砰！	砰！ 砰！ 砰！ 砰！ 砰！ 砰！ 砰！ 砰！	バンッ！　バンッ！バンッ！バンッ────	쾅！쾅！쾅！쾅！쾅！쾅！쾅！쾅！	Bam! Bam! Bam! Bam! Bam!	
+14	N/A	法贝拉一拳敲碎了车内紧急脱出钮的保护罩，车顶的两条爆炸索依次炸开。	法貝拉一拳敲碎了車內緊急逃生按鈕的保護罩，車頂的兩條引線一一炸開。	ファビオラが車内にある非常用脱出ボタンの\nガードカバーを拳で叩き割った。\nすると車の上部に装設されていた2本の爆導索が\n次々と爆発する。	파비올라가 주먹으로 차 내부 비상 탈출 버튼의 보호막을 부수자 지오플랙스가 폭발한다.	Fabella punches open the cover over the emergency exit button in the car. The detonation cords on the truck’s roof blow up one after another.	
+15	N/A	翻倒在一侧的车顶瞬间被炸开个大洞，刺鼻的浓烟伴随着火光立刻涌入了车厢内。	翻倒在側的車頂瞬間開了個大洞，刺鼻的濃煙伴隨著火光立刻湧入車廂內。	瞬間、横転した車の天井に大きな穴が開く。\n\n鼻を突く濃煙が火花と共に車内に押し寄せた。	뒤집힌 차 상단에 구멍이 생기자 코를 찌르는 연기가 불빛을 따라 내부로 흘러들어온다.	A gaping hole appears on the roof, now positioned towards the side. Acrid smoke and flames invade my nose and the interior of the vehicle.	
+16	法贝拉	该死……！都给我下车！！！	該死……！ 都給我下車！ ！！	くそ……っ！　すぐに降りなさいっ！！！	젠장……！다들 어서 내려！！！	Dammit... everyone out!	
+17	法贝拉	咳咳──喂！！新人还活着吗？	咳咳──喂！ ！新人！ 妳還活著嗎？	ごほっごほっ──\nおいっ！！ 新入りはまだ生きてるっ？	컥컥──이봐！！신입은 아직 살아있나？	*Coughing* Hey, is the newbie okay?	
+18	N/A	还在恍惚中游离的我，被法贝拉一把揪起来丢出了车外……	還在恍神的我，被法貝拉一把揪起來丟出車外……	呆然としていた俺はファビオラに掴まれると、\nそのまま車外へと放り出された……	파비올라가 당황하는 나를 집어끌어 차 밖으로 던졌다……	Still barely clinging onto consciousness, I am picked up by Fabella and tossed outside the truck.	
+19	N/A	浓烟刺激着我的眼睛，眼泪止不住的涌出，完全遮蔽了视线。	濃煙刺激著我的眼睛，眼淚止不住的湧出，完全遮蔽了視線。	濃煙が俺の目に染み込み、涙が止まらない。\n\nあふれ出る涙で視界は完全に塞がれている。	연기가 눈을 찔러 눈물이 계속해서 흘러나온다. 시선이 완전히 가려졌다.	The smoke burns my eyes, making me tear up uncontrollably and blocking my vision.	
+20	N/A	由于不小心吸了两大口，我感觉气管好像要从里面烧起来似的……	由於不小心吸了兩大口，我感覺自己的氣管快要燒起來了……	不注意にも二息ほど煙を吸ってしまい、\n気管を焼かれたような感覚がした……	모르고 연기를 마신 탓에 호흡기관이 타버리는 것 같다……	I take two big gulps of air but get only smoke. My lungs are about to combust...	
+21	N/A	连续神经反射式的干咳让人完全喘不上来气。	連續不停的乾咳讓人完全喘不過氣。	咳が止まらなくなり、息が全くできない。	연속 신경 반사적인 기침 때문에 숨이 턱 막힌다.	I begin coughing and dry-heaving by reflex, unable to catch my breath.	
+22	N/A	我被呛得弓起身子，忽然看到了垂在脖子上的那个面罩，立刻用手将它紧紧按到了鼻子上。	我被嗆到弓起身子，忽然看到垂在脖子上的那個面罩，立刻用手將它緊緊按到了鼻子上。	咽せながら身を丸くすると、\nふと自分の首から垂れ下るマスクに気付いた。\nすぐにマスクを手に取り、鼻にギュッと\n押さえ付ける。	나는 몸을 말고 목에 걸려있는 마스크로 코를 꽉 막았다. 	My body bucks as I choke, my eyes finally meeting the mask hanging from my neck. I quickly press it over my nose and mouth with one hand.	
+23	N/A	呼──	呼──終於──	ふっ──	후──	Whew...	
+24	N/A	……	……	…………	……	...	
+25	N/A	播磨脑研，实验医疗部。	播磨腦研，實驗醫療部。	──播磨脳研、実験医療部門。	하리마 뇌 연구, 실험 의료팀.	<Experimental Medication Department, Harima Tech>	
+26	N/A	莉琉和爱衣给我介绍完法贝拉的基本情况，就说要先去楼下调试设备，让我在这里待命。	莉琉和愛衣介紹完法貝拉的基本情況後，就說要先去樓下調一下設備，要我在這裡待命。	マリルと愛衣がファビオラの現状を\n説明してくれた。\nこれから下の階で設備の調整に取り掛かるらしく\n俺はここで待機となった。	마리루와 아이가 파비올라의 기본 정보를 알려준 후 아래층에서 대기하라고 했다. 	After going through the basic details regarding Fabella with me, Mariru and Aya head downstairs to tune some equipment, leaving me sitting there all alone.	
+27	小怜	她们两……就这么走掉了？	她們兩個……就這麼走掉了？	2人とも……そのまま行っちゃったのか？	너희 둘…정말 이렇게 가버린 거야？	So they just... left? Just like that?	
+28	N/A	半夜里空无一人的医院走廊有种莫名的压迫感。	半夜裡空無一人的醫院走廊有種莫名的壓迫感。	夜中の誰もいない病院の廊下は、何とも言えない\n「圧迫感」がある。	늦은 밤 아무도 없는 병원 복도에서 알 수 없는 압박감이 흐른다. 	The silent hospital corridors seem oppressive all of a sudden.	
+29	N/A	我穿着与环境完全不搭调的女仆装坐在靠墙的座椅上。	我穿著與四周完全不搭的女僕裝，坐在靠牆的座椅上。	この場に似つかわしくないメイド服姿の俺は、\nとりあえず壁際の座席に座った。	나는 상황과 전혀 어울리지 않는 메이드복을 입은 채 벽에 붙은 의자에 앉았다.	I sit there on a chair by the wall, dressed in a totally out-of-place maid outfit.	
+30	小怜	怎么有点像某个R级的僵尸游戏……	怎麼有點像某個R級的殭屍遊戲……	何だかR指定のゾンビゲームみたいだ……	어째 무서운 좀비 게임 같은 걸……	Feels like I’m in an R-rated zombie shooter game...	
+31	N/A@？？？	怎么会有僵尸呢，一般都是闹鬼吧~	醫院怎麼會有殭屍呢，通常是鬧鬼吧～	どうしてゾンビなの？\n普通は幽霊じゃないかな～～？	어떻게 좀비가 나타나겠어. 보통은 다 귀신이 나오잖아~?	Nah. Zombies don’t exist. Ghosts, on the other hand...	
+32	小怜	哈哈哈哈~~是啊僵尸什么的也太──	哈哈哈哈～～說的也是，殭屍什麼的也太──	アハハハ。そうだよな、ゾンビなんて──	하하하하~~그렇지, 좀비가 있을리가──	Yeah, haha. Zombies don’t—	
+33	小怜	──诶啊啊？	──咦啊啊啊啊啊啊！ ！！	──はぇぇぇぇ……ッッッッ！！！！？	──으아아？	Wait, who was that?	
+34	N/A	空荡荡的楼道突然冒出一个接话的声音，我吓得腾的一下从椅子上跳了起来。	空蕩蕩的樓梯間突然冒出一個接話聲，我嚇得咚一聲從椅子上跳了起來。	俺は驚いて椅子から飛び上がる。\n\n誰もいないはずの廊下から突如として、\n声が聞こえてきた。	한산한 복도에 갑자기 목소리가 들려 깜짝 놀란 나는 의자에서 점프했다.	I leap to my feet at the sudden voice coming from the stairs.	
+35	斯库尔德	啊啊~~非常抱歉，吓到你了吗？	啊啊～非常抱歉，嚇到妳了嗎？	あら、ごめんなさい。ビックリさせちゃった？	아아~~미안해. 많이 놀랐어?	I’m sorry, did I scare you?	
+36	N/A	一个身姿娇小的少女从拐角处探出头来。	一個嬌小的少女從轉彎處探出頭來。	小柄な少女が廊下の角から顔を出した。	아주 작은 소녀가 모퉁이에서 모습을 드러냈다.	A petite girl peeks out from the corner.	
+37	斯库尔德	我们……又见面了呢，小怜姐姐~	又見面了呢，小憐姐姐～	また……会えたねっ！　レンお姉ちゃ～ん！	우리……또 만났네，렌 언니~	And we meet again, Miss Ren!	
+38	N/A	少女一头金发编成的辫子乖巧的垂落到腰间，那种散发着灵气的超然气质只要见到一次就无法忘掉。	少女金髮編成的辮子乖巧地垂落到腰間，那種散發著靈氣的超然氣質，只要見過一次就忘不了。	……太陽のような髪に、編み込みのおさげが\n腰まで伸びていて……\n……彼女の発するオーラと雰囲気は、\n一度体験すれば忘れられない。	소녀의 금발머리가 축 늘어지는 순간, 그 초연한 기질은 한 번 보면 잊을 수 없다.	The girl’s blond hair falls to her waist in a delicate braid. She looks ethereal, like something out of this world. Not an aura I could ever forget.	
+39	小怜	你是……斯库尔德？	妳是……斯庫爾德？	君は……スクルド？	너는……스쿨드？	Oh, Skurd?	
+40	小怜	（她刚才……叫我姐姐吗？）	（她剛才……叫我姐姐嗎？ ）	（今、俺の事…お姉ちゃんって呼んだよな？）	（방금 날……언니라고 부른 건가?）	(Did she call me... Miss?)	
+41	N/A	斯库尔德有些羞涩的笑了一下向我走来，神情中似乎透露着焦虑与不安。	斯庫爾德羞澀地笑了一下，便朝著我走來，神情似乎透露著焦慮與不安。	スクルドは少し恥ずかしがりながら笑顔で\n俺に近付いてきたが、\nその顔には焦燥と不安を浮かべていた。	스쿨드가 수줍게 웃으며 날 향해 걸어온다. 그녀의 표정에 조급함과 불안함이 드러난다. 	Skuld smiles at me shyly. She seems anxious, uneasy.	
+42	N/A	与上次在天空酒店的酒会上见到她时那种优雅大方的感觉不一样──	與上次在天空酒店的酒會上見到她時，那種優雅大方的感覺完全不同──	以前スカイホテルのパーティーで会った時の\n優雅な感じとは違う──	지난번 스카이 호텔의 파티에서 봤던 우아한 모습과는 다른 느낌이다──	Not at all elegant and gracious, like back when we met in Sky Hotel.	
+43	N/A	啊对了！法贝拉……就是她的女仆。	啊對了！ 法貝拉……就是她的女僕。	ああ！\nそもそもファビオラは……彼女のメイドだ。	아참！파비올라가 그녀의 메이드였지.	Oh, right! Fabella is her maid. Of course she’ll be worried...	
+44	斯库尔德	虽然这是莉琉的要求……\n但我本来就想亲自拜托你……	雖然這是莉琉的要求……\n但我本來就想親自拜託妳……	これはマリルに頼まれた事なんだけど……\n\nでも、元々あたしは直接あなたに\n頼みたかったの……	마리루가 시키긴 했지만……\n그래도 직접 부탁하고 싶었어……	I know you’re here because Mariru made you come...\nBut I would have asked you anyway...	
+45	N/A	她有些犹豫，娇小的身躯微微颤抖着，说话时好像在强忍着不哭出来。	她有點猶豫，嬌小的身軀微微顫抖著，說話時好像在強忍著不哭出來。	彼女は少し何かを言い淀んでいる。\n\n小さな身体を震わせ、熱くなる目から\n涙が零れないように我慢しているようだ。	머뭇거리는 작은 체구가 미세하게 떨린다. 그녀가 울음을 참으며 말한다. 	She seems hesitant, shivering a little, valiantly holding in tears as she speaks.	
+46	斯库尔德	拜托你……救救法贝拉……	拜託妳……救救法貝拉……	どうかお願い……ファビオラを助けて……	부탁이야……파비올라를 구해줘……	Please... save Fabella...	
+47	斯库尔德	要不是我缠着她想偷跑出来……	要不是我纏著她想要偷跑出來……	あたしが彼女に、大使館を抜け出そうなんて\n言わなければ……	내가 몰래 나오자고 꼬시지만 않았어도……	It was all my fault for making her sneak out with me...	
+48	斯库尔德	我也没想到会变成这样……	她也不會變成這樣……	こ、こんなことになるなんて思わなかったの……	이렇게 될 줄은 상상도 못했어……	I didn’t expect this to happen...	
+49	小怜	你、你别着急……	妳、妳別著急……	お、落ち着いて……っ！	우, 울지마……	Hey, calm down!	
+50	小怜	（诶诶诶她好像快哭了~~）\n（怎、怎么办！！）	（欸欸欸她好像快哭了啊啊啊啊～）\n（怎、怎麼辦！ ！我真的不會安慰人啊！ ）	（ど、どどどどうしよう～～っ！？）\n\n（なんか泣き出しそうなんだけど！！）	（으아아 울 것 같잖아~~）\n（어, 어떡하지！！）	(Oh no, she’s gonna cry!)\n(What do I do?)	
+51	N/A	我情不自禁的想要伸手安慰一下她，但又觉得穿着吊带袜女仆装在半夜的医院走廊抱小萝莉的话……	我情不自禁地伸手想安慰她，但又覺得穿著吊帶襪女僕裝在半夜的醫院走廊抱小蘿莉……那畫面……	思わず手を伸ばして彼女を慰めようとした。\n\n真夜中の病院の廊下、ガーターベルトを履いて\nメイド服姿で少女を抱きしめようとする……\n……なんだこの状況は。	그녀를 위로하고 싶었지만 한밤중에 메이드복을 입고 어린 아이를 안으면……	I almost extend a hand to comfort her, but it just doesn’t seem right for me to hug a little girl... in the corridor of a hospital at midnight... wearing garters and a maid outfit.	
+52	N/A	我的胳膊还僵在半空，她突然一把抱住了我。	我的手臂僵在半空，進退兩難，斯庫爾德突然一把抱住了我。	宙に固まって動けない腕を、\nどの位置に持っていけばいいのか分からない。\nそんな俺の思考に追い打ちをかけるかのように、\n急に彼女の方から抱きしめてきた。	나의 팔이 공중에서 멈췄다. 그녀가 갑자기 날 끌어안는다. 	I pause, arms in the air, and she flings herself into my chest.	
+53	N/A	一头柔软的金发散在我的胳膊上，有一股淡淡的奶香，我的心跳止不住的加快，大脑嗡的一下──	一頭柔軟的金髮散在我的手臂上，散發一股淡淡的奶香，我的心跳止不住地加快，大腦嗡的一下──	柔らかな髪が俺の腕に触れると、ふんわりとした\nミルクの香りが鼻をくすぐる。\n急加速する心臓に思考が追い付かない──	부드러운 금발이 흩어지자 옅은 우유 냄새가 난다. 심장이 진정되지 않는다.	Her soft blond hair falls over my elbows. The girl smells a little bit like milk. My heartbeat quickens, brain buzzing.	
+54	小怜	（啊啊啊啊好小只啊──！！）\n（好、好可爱……）	（啊啊啊啊好嬌小啊──！ ！）\n（怎麼這麼可愛啦，我的天啊……）	（あぁぁぁぁち、小さいぃぃぃーーっ！！）\n\n（しかも可愛いぃぃ……っ！）	（아아아아아 엄청 작아──！！）\n（귀, 귀여워……）	(She’s so tiny!)\n(What a cutie!)	
+55	N/A	她比看起来还要瘦小，将脸埋在我的胸前，身体像小动物一样微微发抖。	她比看起來還要瘦小，將臉埋在我的胸前，身體像脆弱的小動物一樣微微發抖。	見た目以上に彼女は小さく、俺の胸に顔を埋め\n小動物のように小刻みに震えている。	그녀는 보기보다 더 작았다. 볼을 내 가슴에 묻고 작은 동물처럼 떨고 있다.	Here, with her face buried in my chest, she seems smaller than she looked. Her frail body trembles, like a cornered animal.	
+56	N/A	刚才爱衣解释了一大通的大脑潜入之类的东西是什么来着？不管了──	剛才愛衣解釋了老半天的蝦咪大腦潛入是什麼來著？ 不管了──	さっき愛衣が説明していた、脳のリスクが潜入で\nなんだっけ？　\nハハッ！構うものかよッ──	아이가 대뇌 잠입 어쩌고 설명했었는데? 에라 모르겠다──	Hm. Did Aya mention something about hacking brains? Can’t remember. Don’t care.	
+57	小怜	我、我一定会帮你的！！\n放心吧！！	我、我一定會幫妳的！ ！\n放心，交給我吧！ ！	お、俺が絶対助けるからッ！！\n安心してくれ！！	널 꼭 도와줄게！！\n걱정하지마！！	I’ll help you! I’ll definitely help you!\nLeave it all to me!	
+58	N/A	啊啊啊啊，大脑要无法思考了！！就算她拜托我去炸元老院我都会一口应下来吧……	啊啊啊啊，大腦快要無法思考了！ ！就算她拜託我去炸元老院我都會一口答應吧……	ああっ、もう頭が働かない……！\n\nもし今、彼女に元老院を爆破せよって頼まれても\n二つ返事で引き受けてしまいそう……ッ！！	아아아아，뇌가 멈춰버릴 것 같아！！원로원을 폭발해달라고 부탁해도 들어줬을 거야……	Ren.exe has stopped working. I’d say yes to anything she asks me to do. Even bombing the Senate...	
+59	小怜	没、没事的、有我在……	沒事啊，沒事的，有我在，不要擔心……	だ、大丈夫だ、俺がいるから……！！	아무 일도 없을 거야. 내가 있잖아……	It’s okay. I’m right here.	
+60	N/A	我安慰人的功夫真是蹩脚到家了……其实我也不知道我有什么用，但好像气氛上都会这么说吧？	唉，我安慰人的功夫真是遜斃了，其實我也不知道要怎麼做，但在這種氣氛下，一般人都會這麼說吧？	俺って人を慰めるスキルが本当に皆無だ……\n\n大口を叩いた割には、俺に何ができるのかを\n実際には分かっていない。\nでも、場の雰囲気的に男ならこう言うでしょ？	나는 사람을 위로하는데 서툴다……보통 이런 분위기에서는 이런 얘기를 하겠지?	I’m horrible at comforting others. What good will me being “right here” even do her? Who knows, but don’t people usually say things like that in this kind of situation?	
+61	斯库尔德	嗯。	嗯。	……うん。	응.	Mm.	
+62	N/A	怀中的斯库尔德轻轻的点了点头。	懷中的斯庫爾德輕輕點了點頭。	胸元のスクルドが軽く頷いた。	품에 안긴 스쿨드가 천천히 고개를 끄덕인다.	In my embrace, Skuld nods gently.	
+63	斯库尔德	如果是你的话，一定可以。	如果是妳的話，一定可以。	あなたなら、きっとできる……	너라면 분명 해낼 거야.	I believe in you. You can do it.	
+64	N/A	诶？我真的可以吗？	欸？ 真的嗎？	え？　俺、本当にできるの？	엣？내가 정말 해낼 수 있을까？	Really? I can?	
+65	斯库尔德	因为你是我记忆中……最特别的那个人。	因為妳是我記憶中……最特別的那個人。	だってあなたは、あたしの記憶の中で……\n\n……最も特別な存在だから。	넌 내 기억 속에……가장 특별한 사람이니까.	Because... you’re that special person... in my memories.	
+66	小怜	嗯嗯……昂？	嗯嗯……咦？ ？	うんうん……んんんっ？	으응……앙？	Okay... wait, what?	
+67	小怜	（我的女仆装给你留下了这么深刻的印象吗？）	（我的女僕裝讓妳印象這麼深刻嗎？ 好想哭……）	（俺のメイド姿って……）\n\n（そんなにも深い印象を与えていたのか？）	（내 메이드복이 너에게 깊은 인상을 남긴 거야?）	(Me, special? Did my maid outfit leave that big of an impression on her?)	
+68	N/A	斯库尔德稍稍平复了一下情绪，擦干眼泪之后用十分确信的眼神看着我。	斯庫爾德稍微平復了一下情緒，擦乾眼淚之後用十分確信的眼神看著我。	スクルドは気分を落ち着かせたのか、\n涙を拭い確信に満ちたまなざしで俺を見つめる。	스쿨드가 조금 진정이 된 듯 눈물을 닦고 확신이 가득한 눈빛으로 날 바라본다. 	Skuld calms herself a little, dries her tears, and looks up at me with eyes full of trust.	
+69	斯库尔德	所以，我的秘密全都可以告诉你。	所以，我的祕密全都可以告訴妳。	──だから、あたしの秘密を全て教えるわ。	그러니가 내 비밀을 너에게 모두 알려줄 수 있어. 	I can tell you all my secrets.	
+70	N/A	出人意料的展开，让我一时不知怎么应对。	出人意料的展開，讓我一時不知該怎麼應對。	思いも寄らない展開に、どう対応すれば良いのか\n分からない。	예상치 못한 전개에 어떻게 대답해야 할지 모르겠다.	How... unexpected. I have no idea how to react.	
+71	斯库尔德	虽然你可能觉得难以置信，但请务必听我说。	雖然妳可能會覺得難以置信，但請務必聽我說完。	信じられないかもしれないけど、\nまずはあたしの話を聞いて欲しいの。	믿기 힘들겠지만 내 얘기를 들어줘.	You might find it hard to believe, but please listen.	
+72	N/A	面前这个瘦小的女生忽然严肃起来的口气，让我不得不认真起来。	面前這個瘦弱的小女孩忽然嚴肅起來的口氣，讓我不得不認真起來。	少女の口調が厳粛なものに変わった。\n\n俺も釣られて襟を正す。	눈 앞에 작은 소녀가 엄숙한 목소리로 얘기하니 나도 모르게 진지해졌다.	The small, fragile girl in front of me suddenly sobers up, and I can’t help leaning in, feeling all serious.	
+73	斯库尔德	我有一种……很特殊的能力。	我有一種……很特殊的能力。	あたしには……とても特別な能力があるわ。	나는 특별한 능력이 있어……	I have a... really special ability.	
+74	斯库尔德	我能记得一些并未发生过的事，或者说未来才会发生的事，但对我而言却像是回忆一样……	我能記得一些並未發生過的事，或者說未來才會發生的事，但對我而言卻像是回憶一樣……	覚えているの。\n\n起きてない出来事というか、\n未来に起きる出来事といえばいいのか。\nそんな出来事をまるで記憶のようにあたしは\n持っている……	나는 일어나지 않은 일이나 미래에 발생할 일을 기억할 수 있어. 마치 기억같은……	I can remember things that haven’t happened yet... or should I say... there are some things that haven’t happened yet, but I can already see them, like memories.	
+75	小怜	回忆……未来？	回憶……未來？	未来の……出来事……記憶？	기억……미래？	Memories... that haven’t happened yet?	
+76	斯库尔德	那些片段一开始就在我的记忆中，所以我也无法分辨哪些是过去的回忆，哪些是还未发生的未来。	那些片段一開始就在我的記憶中，所以我也無法分辨哪些是過去的回憶，哪些是還未發生的未來。	そう。\n断片的で、見分けはつかないけどね。\n頭の中にそんな記憶があるだけで、\nどれが過去で、どれが未来なのか……	과거의 기억인지 미래의 일인지 분별할 수 없는 기억이 내 머릿속에 있어.	Those fragments have existed in my memories ever since the very beginning, so I can’t even tell what memories are from the past and what’s from the future.	
+77	斯库尔德	直到终于亲眼看到熟悉的那一幕发生了，我才能确认。	直到親眼看到熟悉的那一幕發生了，我才能確認。	その記憶の光景を実際にこの目で見てから、\nようやく確信する事ができる。	그 익숙한 장면을 직접 두 눈으로 보는 순간이 와야 분별할 수 있어.	I have to see it happen to be sure.	
+78	小怜	感觉像预言之类的能力？	感覺像是預言之類的能力？	予言のような能力って事か？	예언 같은 능력인가？	So it’s kind of like prophecy?	
+79	N/A	这几个月来发生的事，让我已经习惯了对看起来不可思议的事抱着“姑且先接受”的态度。	這幾個月來發生的種種，讓我已經習慣了對不可思議的事情抱持著「姑且先接受」的態度。	ここ数か月間の出来事によってか、\nいつのまにか俺は不可解な事に対しても、\n「ひとまず受け入れる」耐性ができていた。	이제 불가사의한 일이 발생하면 "우선은 받아들이자"하는 습관이 생겨버렸다.	This does sound incredible, but I’ve been through so much craziness these few months that I’ve already gotten used to believing six impossible things before breakfast.	
+80	斯库尔德	就好像给你形容某种糖，不是太甜、有恰到好处的酸味、并且在口中化开的时候感觉凉凉的。	就好像形容某種糖，不會太甜、有恰到好處的酸味、在口中化開的時候感覺涼涼的。	例えば最近、\nこんなキャンディーを食べた覚えはない？\n甘過ぎず、ほど良い酸味があって\n口の中で溶けていく時は爽やかな感じがする。	어떤 사탕인데, 많이 달지 않고 적당히 신 맛이 나. 녹을 때 시원한 느낌이 들어. 	It’s kind of like... a candy. A little bit sweet, a little bit sour, leaves a minty taste in your mouth when it melts.	
+81	小怜	似乎我吃过那种，但记不清了……	我好像吃過，但記不得了……	うーん、食べた事あるような気はするけど\n最近だったかな…正直良く覚えてないや……	먹어본 적이 있는 것 같은데 기억이 나지 않아……	Hm, I’ve had that kind of candy before, but I’m not sure when...	
+82	斯库尔德	就是那种感觉！	就是那種感覺！	そう、そんな感じ！	바로 그런 느낌이야!	That’s right!	
+83	斯库尔德	你能生动的形容出那种糖的口感和味道，但就是说不上来在哪吃到的。	妳能生動地形容出那種糖的口感和味道，但就是說不上來在哪裡吃過。	その食感と味はハッキリと覚えているのに、\nどこで何を食べたのかが思い出せない。	사탕의 식감과 느낌을 생생하게 설명할 수 있지만 어디서 먹었는지 말할 수 없어.	You can describe in detail how that candy tastes like, but you can’t tell when or where you tasted it.	
+84	斯库尔德	只有某天你真的吃到了，才会恍然大悟就是它！	直到某天妳真的吃到了，才會恍然大悟：就是它！	そしてある日、ふとした時に食べるタイミングが\n来て──\nようやく明確に「記憶の中にあるやつだ！」\nって事が分かるの。	그 사탕을 진짜로 먹는 순간에서야 깨닫게 되는 거야!	You’ll only realize “oh, this is it” when you really do get to taste it one day.	
+85	N/A	我好像有点懂了，如果记忆中存在不知是不是未来才会发生的片段，是根本无法表达的。	我好像有點懂了，如果難以辨別記憶中存在的片段究竟是不是未來才會發生，就根本無法好好表達。	なんだか理解できたような気がする。\n起こるかもしれない出来事が頭にあるとして、\nふんわりとした記憶だけじゃ言い表す事さえ\n難しいのだろう。	만약 기억 속에 미래의 일이 존재한다고 해도 절대 설명할 수 없을 것이다.	I think I’m beginning to understand. If fragments that can be from the past or the future both exist in your memories, it’d be hard to tell which is which.	
+86	N/A	与预知未来并不一样，因为无法分辨什么是未来。	與預知未來並不一樣，因為無法分辨哪些是未來。	未来予知とは違い、未来か過去かすらも\n分からないのだから。	예지와는 다르다. 어떤 것이 미래인지 분별할 수 없으니까.	It’s not seeing the future, to be exact. Because she can’t tell which memories are from the future.	
+87	小怜	（等等……但时间总会留下一些痕迹吧？）	（……但時間總會留下一些痕跡吧？ ）	（待てよ……？）\n\n（それが遠い過去や未来の話ならどうだろう？）\n\n時代の流れで大きく景色や人は変わるし、\n断片な記憶でも、印象にさえ残っていれば──\nある程度は過去か未来かを判断できるかも？	（잠깐……하지만 시간은 언제나 흔적을 남기잖아?）	(Wait... but surely she’d be able to figure it out with some clues in the environment?)	
+88	N/A	斯库尔德像是读懂了我的想法，继续说道──	斯庫爾德像是讀出了我的想法，繼續說道──	そんな俺の考えを読み取ったかのように、\nスクルドは言葉を続ける。	스쿨드가 내 생각을 읽은 것처럼 이어서 얘기한다──	It’s as if Skuld reads my mind. She explains:	
+89	斯库尔德	可能你会觉得，下个月的情景或许无法分辨，但十年后的环境总会有明显的差别吧？	可能妳會覺得，或許無法分辨這個月與下個月的情景，但十年後的環境總會有明顯的差別吧？	断片的な記憶から印象を感じた事を手掛かりに\n予測しようと私も思ったわ。	다음달의 미래는 분별할 수 없지만 10년후 미래는 확실한 차이가 있다고 생각하지? 	You might be thinking: it’s true you might not be able to tell if something happened in the next month or the last, but the environment ten years in the future will surely look very different from what it does now, right?	
+90	斯库尔德	但记忆并不是像录像一样的东西……其实我们只会记住一些关键的碎片──	但記憶並不是錄影……其實我們只會記住一些關鍵的片段──	でも、記憶というのは録画とは違うの……\n\n主体となる部分しか正確じゃなくて、\n残りの細かい情報は脳が完璧に模写できない。	기억은 비디오 테잎과 같지 않아……사실 우리는 중요한 조각만 기억할 수 있어──	But memories... they’re not like video footage. All we get is fragments...	
+91	斯库尔德	当刻意去回想的时候，才会在大脑中重新组建起那时的情景。	只有刻意去回想的時候，才會在大腦中重新組合起那時的情景。	人間の記憶は、自分の脳内で再構築された\n元と似て非なるものを思い出すの。\nだから細かい部分は実際と違ったり、\nぼんやりだったりで……	억지로 생각하려고 할 때 뇌가 그 상황을 다시 만들어낼 거야. 	Our brains can only rebuild the whole scene of a memory when we focus very hard on it, you know?	
+92	N/A	我忽然想起来，似乎曾经在某部电影里看到过──	我忽然想起來，似乎曾經在某部電影中看到過──	ある映画で見たセリフを、ふと思い出した──	어떤 영화 속에서 본 것이 갑자기 생각난다──	It makes sense. I remember this line from a movie:	
+93	N/A	“记忆只是一种演绎，而非记录。”	「記憶只是一種演繹，而非記錄。 」	「記憶は思い込みだ、記録じゃない」	“기억은 추론일 뿐，기록이 아니다.”	“Memories are interpretations, not recordings.”	
+94	斯库尔德	所以，回忆中能标识时间特征的碎片其实很少。\n而且更麻烦的是──	所以，回憶中能夠清楚標示出時間的碎片其實很少，\n而且更麻煩的是──	結局あたしの記憶だけじゃ、時間軸を決定付ける\n痕跡が限りなく少ないわ。\nさらに厄介なのは──	기억 속에 시간의 특징을 나타내는 조각은 아주 적어. 게다가 더 곤란한 것은──	Therefore, it’s actually not that easy to find fragments in my memories that allow me to pinpoint the time frame.\nBesides...	
+95	斯库尔德	你是不会没来由的去回忆某些事情的。	我們之所以會回憶，都是有原因的。	えっと、普通は特に理由もなく特定の何かを\n思い出そうとは思わないよね？	사람은 아무런 이유 없이 어떤 일을 회상하지 않아.	You don’t usually delve into your memories for no reason at all, right?	
+96	小怜	嗯？	嗯？	うん？	응？	Huh?	
+97	斯库尔德	比如你不会突然去回想小学某节数学课上老师讲了满黑板的一道题具体是什么样的……	比如說，妳不會突然回想起小學某節數學課上，老師寫滿黑板的那題詳細內容……	嫌いな先生が教える数学の授業があるとして。\n\nその先生が黒板に何を書いていたかを、\n具体的に思い出そうとはしないよね……？	어렸을 때 선생님이 칠판에 빼곡히 적었던 문제들을 갑자기 떠올리진 않을 거야……	For example, you won’t reminisce about your elementary school math class and what the teacher wrote on the blackboard, just for fun, right?	
+98	N/A	抱歉，这种记忆通常在老师刚开始讲时就断掉了。	抱歉，通常這種記憶在老師剛開始講解時就斷片了。	俺は黒板どころか、先生が口を開いた途端に\n記憶を失っていると思う。	미안，선생님의 말씀 같은 건 처음부터 기억하지 않는 타입이라. 	Of course. Math class... teachers... certainly not fun.	
+99	小怜	还是觉得……很不可思议。	總覺得很不可思議。	確かに……不思議だ。	아직……무슨 말인지 잘 모르겠어.	I believe you, it’s just... wow. That’s incredible.	
+100	小怜	等等，你刚才说记忆的我，难道是──	等等，妳剛才說記憶中的我，難道是──	でも待って！ 記憶の中での俺が特別！？ \n特別って言うぐらいだから……\nまさか見たものって──	잠깐，날 기억한다고 했었지? 설마──	Wait. So, the “me” in your memories that you just mentioned...	
+101	N/A	斯库尔德点了点头。	斯庫爾德點了點頭。	スクルドは頷いた。	스쿨드가 고개를 끄덕인다.	Skuld nods.	
+102	斯库尔德	但在我的记忆中，只有一件我能确信是最后才发生的事情……	但在我的記憶中，只有一件我能確信是最後才發生的事情……	あたしの記憶の中で最も特別で、 \n決して忘れてはいけないもの。 \n最終的に起きてしまうと、\n唯一確信が持てる出来事があるの……	하지만 내 기억 속에 한가지 확실한 사실은……	Anyway, there’s only one thing in my memories that I’m sure happened in the future.	
+103	N/A	我屏住了呼吸，忽然猜到她想到的是哪件事──	我屏住了呼吸，忽然猜到她想到的是哪件事──	俺は息を飲んだ。\n\n彼女が告げようとしている出来事の\n見当が付いたからだ。	나는 숨을 참았다. 그녀의 기억 속에 그 사건이 갑자기 떠오른다──	I hold my breath. I suddenly have a feeling that I can guess what she’s referring to...	
+104	N/A@斯库尔德	──那是世界终结之时的记忆。	──那是世界終結時的記憶。	──それは『世界が終焉を迎えた時』の記憶。	──그것은 세계 종말 기억이다.	... It’s a memory of the moment the world ends.	
+105	N/A@斯库尔德	只不过那段记忆中，你是男孩子。	只不過，在那段記憶裡，小憐姐姐，妳是男孩子。	でもその記憶では、あなたは男の子だった──	기억 속에 언니는 남자였어.	But in that memory, you’re a boy.	

@@ -1,0 +1,34 @@
+﻿1	N/A	这是哪里？\n周围弥漫着厚重的浓雾，远方似乎站着一个人。	這是哪裡？ \n周圍彌漫著厚重的濃霧，遠方似乎站著一個人。	ここは一体どこだ？\n辺りには濃い霧が漂っていて、\n誰かが遠いところに立っているように見える。	여긴 어디지?\n주위에 짙은 연기가 가득하다.\n멀리 한 사람이 서있는 것 같다.	Where am I? \nI'm in a thick fog. There seems to be someone there in the distance.	
+2	黑影	怜……	憐……	レン…………	렌……	Ren…	
+3	N/A	……是谁？	……是誰？	…………誰だ？	……누구지?	… Who's there?	
+4	N/A	那道身影逐渐向我走来……	那道身影逐漸向我走來……	その影はだんだん俺に近付いてきた……	그 인영이 천천히 내게 걸어온다……	Slowly, the person comes near…	
+5	N/A	那是一名穿着黑色奇怪装束的家伙，一双冷淡的浅红色眸子……	是一名穿著黑色奇怪衣著的傢伙，一雙冷淡的淺紅色眼睛……	それは奇妙な黒装束を着た人物。\n冷淡な薄赤い瞳でこちらを見つめている……	이상한 검은색 옷을 입은 녀석은 차가운 붉은색 눈동자를 가지고 있다……	It’s a strange man in black. His eyes are pinkish and cold…	
+6	黑影	在那股眼神之中，似是一丝狡猾的笑意。	那股眼神之中彷彿帶有一絲狡猾的笑意。	まなざしの奥では、\n狡猾な笑みを浮かべているかのように感じた。	그 눈빛 속에 교활한 조롱기가 담겨있다.	He hides a foxy smile in his eyes.	
+7	黑影	——那个人，令我有一种非常熟悉的感受。	——那個人，讓我有一種非常熟悉的感受。	──アイツを俺は、すごく知っている気がする。	——저 사람，왠지 익숙한 느낌이 들어.	—He gives me a familiar feeling.	
+8	黑影	直到……之时……终将……	直到……之時……終將……	まで…………その時…………やがて…………	그 날이…되면…결국……	Not until… when … finally…	
+9	N/A	你说什么？\n喂——！等等！	你說什麼？ \n喂——！ 等等！	何を言っているんだ？\n\nおい──！　待って！	뭐라고？\n이봐——！기다려！	What are you saying? \nHey—! Wait!	
+10	N/A	……	……	…………	……	…	
+11	N/A@小怜	啊——！	啊——！	あ──！	아——！	Aah—!	
+12	N/A	窗外还是凌晨，太阳还未升起。天边只有一抹柔和的红光。	窗外還是凌晨，太陽還沒升起。 天邊只有一抹柔和的紅光。	窓の外はほの暗く、まだ日も昇っていない。\n空には一抹の柔らかな光だけ。	창밖을 보니 아직 새벽이다. 해가 곧 뜨려는지 하늘가에 부드러운 붉은빛이 엿보인다.	It's still before dawn. The sun hasn't come up. There's only a beam of soft red light on the horizon.	
+13	N/A	昨天太过劳累，我没换衣服就睡倒在床上。所以才做了那个梦吗……	昨天太過勞累，我沒換衣服就在床上睡死了。 所以才做了那個夢嗎……	昨日は疲れすぎて、パジャマに着替えた後、\nそのまま直ぐにベッドに倒れこんでしまった。\n……だからあんな夢を見たのか？	어제 너무 피곤한 나머지 옷도 못 갈아입고 잠이 들었는데，그래서 그런 꿈을 꾼 걸까?	I was dead tired last night, and didn't get changed before falling asleep. Is that why I had this dream?	
+14	N/A	我睁开眼试图回忆起梦里的场景，却无论如何都想不起他究竟说了什么。	我睜開眼試圖回憶起夢裡的場景，卻無論如何都想不起那個人究竟說了什麼。	夢の中のシーンを思い出そうとしたが、\nどうしても、アイツの発した言葉が思い出せない	눈을 뜨고 꿈 속 장면을 떠올려봤지만 그 사람의 말이 기억나지 않는다.	I open my eyes and try to recall the dream. But I just can't remember what he said.	
+15	N/A@小怜	怎么会做这种梦，总有种不好的预感。	怎麼會做這種夢，總有種不好的預感。	どうしてあんな夢を見たんだろう……\nなんだか嫌な予感がする。	이런 꿈을 꾸다니，불길한 느낌이 든다.	Why did I have that dream? Something bodes ill.	
+16	安妮	啊！你已经醒了吗？	啊！ 妳已經醒了嗎？	あっ！　もう起きてたのねっ？	아！일어났구나?	Ah! You're awake.	
+17	小怜	安妮……你起来的好早呢。	安妮……妳起來的好早呢。	アニー……起きるの早いね。	앤……일찍 일어났네?	Annie… You're up so early.	
+18	安妮	出事了！莉琉刚才打电话来叫我们看邮件里的新闻！	出事了！ 莉琉剛才打電話來叫我們看郵件裡的新聞！	大変なのっ！\nさっきマリルさんから急ぎの電話があって、\nメールの中のニュースを見てみろって……	큰일이야！마리루가 방금 전화로 이메일을 확인하라고 했어！	Something is wrong. Mariru just called in and asked us to read the news in her email!	
+19	小怜	嗯，好的！\n真是不让人休息啊……	嗯，好的！ \n真是不讓人休息啊……	分かったよ……\n全く、少しも休めやしないな……	응，알았어！\n정말 한시도 못 쉬게 한다니까……	Uh, fine! \nCan’s she give us a break…	
+20	小怜	（太好了，安妮还是和平时一样）\n（那果然只是个普通的梦。）	（太好了，安妮還是和平時一樣，）\n（那果然只是普通的夢。 ）	（アニーはいつも通り……良かった）\n\n（あれはやっぱり、ただの夢だったんだな）	（다행이다. 앤은 평소와 똑같아.）\n（역시 꿈일 뿐이였어.）	(Great, Annie is the same as usual) \n(That was just a dream for sure.)	
+21	N/A	我松了口气，匆匆换上衣服坐到电脑旁，点开莉琉发到邮件里的新闻链接。	我鬆了一口氣，匆匆換上衣服坐到電腦旁，點開莉琉寄到郵件裡的新聞連結。	ほっと一息も束の間、\n俺は急いで着替えてパソコンの前に座った。\nマリルから届いたメールに添付されている、\nニュースのリンクをクリックしてみた。	나는 한숨을 쉬고 옷을 갈아입은 뒤 컴퓨터에 앉아 이메일 링크를 클릭했다.	I let out a sigh of relief, and hurriedly get changed. Sitting in front of the computer, I open the link Mariru sent me.	
+22	小怜	又有『异质物』失窃啦，真是不太平……	又有「異質物」失竊啦，真是一波未平一波又起……	ま～た『異質物』の盗難か、\n本当に世の中、穏やかじゃないな……	또 『이물질』 도난 사건인가. 정말 평온한 날이 없군……	Another Substance H stolen! What a troubled world…	
+23	小怜	不过这不是第二学园都市嘛，关SID什么事嘛\n而且……	不過這不是第二學園都市嘛，關SID什麼事嘛？ \n而且……	でもこれって第二学園都市の事じゃないか、\nSIDと全然関係ないし……\nそれに……	이번엔 제2학원도시잖아? SID와 무슨 상관이라고…… 게다가……	But it happened in the Second Academy City. What's it with SID? \nBesides…	
+24	小怜	……等等，这是什么？！	……等等，這是什麼？ ！	……待ってよ！？　何だよこれッ！？！？	……잠깐，이건？！	… Wait. What's this?!	
+25	N/A	虽然是凌晨，但世界各地的网站的头条全部更新了同样内容新闻。	雖然是凌晨，但世界各地網站的頭條全都更新了同樣的新聞內容。	早朝だけど、世界各地のウェブサイトのトップは全て同じ内容のニュースに更新されている。	세계 각지의 인터넷에 똑같은 헤드라인의 뉴스가 업데이트 되고 있다.	Though in the early morning, the news grabbed the headlines on almost all the news websites across the world.	
+26	N/A	神秘男性闯入阿卡特拉兹收容基地，夺走该基地收容的EX级古代『异质物』	神祕男性闖入阿卡特拉茲收容基地，奪走該基地收容的EX級古代「異質物」。	謎の男がアルカトラズ収容基地に侵入、同基地に\n保管されていた古代のEX級『異質物』を強奪。	신비한 남성이 알카트라즈 수용 기지에 침입해 EX급 고대 『이물질』을 훔치다.	Ancient EX-class Substance H Taken by Mysterious Man Burgling Akatraz's Collection and Research Center	
+27	N/A	发布通缉信息如下─性别：男性 年龄：15-18岁\n目前只有一张照片。	以下發布通緝資訊───性別：男性。 年齡：15-18歲。 \n目前只有一張照片。	指名手配の情報は以下の通り──\n性別：男性　年齢：15-18歳。\n現時点での情報はたった1枚の写真のみ。	지명수배 정보는 성별:남성，나이:15-18세\n현재 사진 한 장밖에 없음.	The wanted notice describes a man aged between 15 and 18. \nThere's only a picture of the suspect.	
+28	N/A	……	……	…………	……	…	
+29	N/A	通缉令中嫌疑犯的长相，我再熟悉不过了。	通緝令中嫌疑犯的長相，我再熟悉不過了。	この指名手配されている容疑者の顔は、\n俺が一番よく知っている……	지명수배 속 용의자의 얼굴이 너무나도 익숙하다. 	No one is more familiar with this face than I am.	
+30	N/A@小怜	这是……我？	這是……我？	……これは……俺？	이건…나잖아?	This is… me?	
+31	N/A	确切来说，那是我还是男生时的样子。	確切來說，那是我還是男生時的樣子。	正確に言えば、俺がまだ男だった時の姿だ。	확실히 말하면 내가 남자였을 때 모습이다.	To be exact, it's me when I was a boy.	
+32	N/A	通缉令中，该男子抢走的异质物并未公开，只是将他的危险等级定为AAA。	通緝令中，該男子搶走的異質物並未公開，只是將它的危險等級定為AAA。	この男に奪われた異質物は未だ公表されていない\nだが、指名手配上は危険レベルがAAAと\n判定されている。	지명수배 속 남자가 훔친 이물질은 공개되지 않았다. 그의 위험 등급은 AAA.	The notice doesn't disclose any details of the Substance H. He’s been given a danger rating of AAA.	
+33	N/A	……为什么会这样？	……為什麼會這樣？	……なんでこんな事に？	……어떻게 이런 일이?	… How is this possible?	
+34	小怜	到底……发生了什么？	到底……發生了什麼事？	一体……何が起きてる……？	도대체…무슨 일이 일어난 거야?	What the heck is going on?	

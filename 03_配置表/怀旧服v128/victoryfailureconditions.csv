@@ -1,0 +1,12 @@
+ID,condition_icon,description
+long,string,long
+ID,类型图标,类型描述
+0,Instance_Type_Kill,10014
+1,Instance_Type_Kill,10015
+2,Instance_Type_Time,10016
+3,Instance_Type_Damage,10017
+4,Instance_Type_Save,10018
+5,Instance_Type_Save,10019
+6,Instance_Type_Kill,10035
+7,Instance_Type_Kill,10128
+8,Instance_Type_Escort,10125

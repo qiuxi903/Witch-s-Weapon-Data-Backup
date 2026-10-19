@@ -1,0 +1,161 @@
+﻿1	N/A	如果这个装束奇怪的女生刚才那番发言不是中二病发作的话，状况就很严重了。	如果這個裝扮奇怪的女生剛才那番言論不是中二病發作，狀況就很嚴重了。	奇妙な衣装を着ている少女が発した言葉は、\nにわかには信じがたい。\n中二病的なアレじゃなければ俺は非常にまずい\n状況なんだろうけど……		If the strangely dressed girl is actually telling the truth, then I'm in big trouble.	
+2	小怜	你刚才说第四学园都市？\n还有这到底是哪啊？我刚才明明在……	妳剛才說第四學園都市？\n還有這到底是哪啊？我剛才明明在……	ここはどこなんだ？\n\n第四学園都市って言ってたけど、\n俺さっきまで……		Did you mention "the Fourth Academic City?"\nAnd what's this place? I was in...	
+3	奥古斯塔	还轮不到你来发问！	還輪不到妳來發問！	──無礼者め！！		I'm the one who asks questions here!	
+4	N/A	少女用权杖指着我的鼻尖斩钉截铁得说道。	少女用權杖指著我的鼻尖斬釘截鐵地說道。	少女は王笏を俺の鼻に向けてきっぱりと言った。		The blond girl points her scepter at my nose.	
+5	奥古斯塔	身为召唤兽，先要恭顺的向自己即将效忠之人报上真名，这是基本常识吧！	身為召喚獸，先要恭順地向自己即將效忠之人報上真名，這是基本常識吧！	召喚獣たるもの、まずは忠誠を誓う相手に\n真名を伝える！\nこの世の基本的な常識だろうが！		As my summoned beast, you shall announce your real name to your master for life. This is common sense.	
+6	N/A	你这句话里有哪个词像常识啊！	妳這句話裡有哪個詞像常識啊！	……俺に召喚獣の基本的な常識を問われても\n困るぞ。		Summoned beast? Master for life? What kind of common sense is that?	
+7	小怜	你是说名字吗？\n我叫怜……	妳是說名字嗎？\n我叫憐……	一応、俺の名前はレンだけど……		My name?\nI'm Ren...	
+8	N/A	虽然不知算不算是“真名”……	雖然不知算不算是「真名」……	「真名」になるかどうかは分からないな……		Not sure if "Ren" qualifies for "real name"...	
+9	奥古斯塔	『怜』什么？	「憐」什麼？	レン……なに？		Ren what?	
+10	小怜	就是怜啊，叫我小怜就可以~	就是憐啊，叫我小憐就可以～	いや、だからレンって名前なんだ。\n\n皆からはそう呼ばれてるんだって。		Just Ren. Ren is my name.	
+11	N/A	奥古斯塔有些难以置信的盯着我。	奧古斯塔一臉難以置信地盯著我。	「信じられない」と言わんばかりのような表情で\nオーガスタは俺を見つめてくる。		Augusta stares at me in disbelief.	
+12	奥古斯塔	只、只有……一个音节？\n居然存在如此没气势的名字吗！？	只、只有……一個音節？\n居然有這種如此沒氣勢的名字！？	たった……二文字！？\n\nこれほど魅力を感じない名前が世の中に\n存在しているというのか！？		Only one syllable?\nLame names like this do exist?	
+13	小怜	哈？	嗄？	……はい？		Lame?	
+14	奥古斯塔	（小声）我还以为会叫圣安福塔斯或者齐格弗里德之类的呢……	（小聲）我還以為會叫聖安福塔斯或者齊格弗里德之類的呢……	アンフォルタスとかジークフリートとかを\n期待してたのに……（ぶつぶつ）		(whispering) I thought it'd be Ren St. Amfortas or Ren Siegfried...	
+15	N/A	哪有叫齐格弗里德的女高中生啊！	哪有叫齊格弗里德的女高中生啊！	ジークフリートって名前の女子高生が\nいる訳ないだろ！		It'd be weird for a highschoolder to be called Siegfried nowadays...	
+16	N/A	奥古斯塔似乎备受打击，一拳打在墙边的柜子上自言自语的说道。	奧古斯塔似乎備受打擊，一拳打在牆邊的櫃子上自言自語地說道。	なぜか相当なショックを受けたみたいで、\nオーガスタは壁際のタンスを叩きながら呟いた。		Augusta is beyond disappointed. She mumbles to herself as she punches the cabinet by the wall.	
+17	奥古斯塔	可恶，是因为我的资质太差吗……	可惡，是因為我的資質太差嗎……	ぐぬぬ……やはり私には才能がないみたいだ……		Am I not cut out for this...?	
+18	奥古斯塔	按书上的方法失败了那么多次，还每天都在想象第一次召唤成功会是什么样的。	按照書上的方法失敗了那麼多次，還每天都在想像第一次召喚成功會是什麼情景。	書物に習って執り行えど失敗ばかりだし、\n常に召喚に成功する時を思い描いていたが……		I followed the instructions on the book and tried so many times. I dreamed about my first successful summon every day...	
+19	奥古斯塔	我真是个笨蛋……\n瓦格纳老师也会失望吧……	我真是個笨蛋……\n華格納老師也會失望吧……	しょせん私も凡俗……\nワーグナー先生も私に失望するだろうな……		I'm useless...\nTeacher Wagner would be disappointed in me, as well...	
+20	N/A	嗯，听起来确实是中二病才有的发言。	嗯，聽起來確實是中二病才有的發言。	良かった。\nやっぱりただの中二病患者だ。		She does sound like she's talking nonsense...	
+21	N/A	她无精打采的抬起头，像看乞丐一样打量着我。	她無精打采地抬起頭，像看乞丐一樣打量著我。	落胆した様子の彼女は、物乞いを見るような\n蔑んだ目で俺を見下す。		She raises her head and looks at me.	
+22	奥古斯塔	你大概只是个低等魅魔吧……\n嘁，男人会喜欢这种装束吗？	你大概只是個低等魅魔吧……\n呿，男人會喜歡這種裝扮嗎？	結局、私が召喚できたのはレッサーサキュバスの\n類だけ……\n\nはぁ…そんな服装に男性は惹かれるモノなのか？		You're probably a low-level succubus...\nStill, do men like this type of outfit?	
+23	小怜	厄……\n（这个问题你叫我怎么回答……）	呃……\n（這個問題是要我怎麼回答……）	えっと……\n（そんな事を聞かれても困るって……）		Err...\n(That's impossible to answer...)	
+24	小怜	“喜欢，而且有些人还会自己穿”？	「喜歡，而且有些人還會自己穿」？	「そうね、中には好んで自分で着る人もいるわ」\nとでも言えばいいのか？		"They do? And some of them will even wear it?"	
+25	小怜	另外魅魔又是什么设定！\n召唤兽种类这么丰富的吗？	還有，魅魔又是什麼設定！\n召喚獸種類這麼豐富啊？	というか、サキュバスってなんだよ！？\n俺はそんなのじゃないぞ！\nそもそも召喚獣って何――		And a succubus?\nDo summoned beasts have many different types?	
+26	奥古斯塔	嘘！	噓！	――――――！ 静かに……！		Shh!	
+27	N/A	我脑中还在盘算接下来的问题，奥古斯塔突然警觉得望向门外。	我腦中還在盤算接下來的問題，奧古斯塔突然警覺地望向門外。	頭の中で色々な反論や質問が錯綜していたが、\n突然オーガスタがドアの方向を警戒し始める。		I still have many questions to ask, but Augusta turns and looks at the door.	
+28	N/A	我顺着她的目光看去，一个身穿黑色军服、头盔上印着皇家徽记的卫兵正颤巍巍的站在门口。	我順著她的視線看過去，一個身穿黑色軍服、頭盔上印著皇家徽章的衛兵正顫顫巍巍地站在門口。	彼女の目線をたどると、黒い軍服を着た衛兵が\nドアの近くに立っていた。\n皇族を象徴する記章が彼のヘルメットに\n施されている。		Following her glance, I see a royal guard in his uniform standing by the door.	
+29	N/A	他环视着屋里横七竖八躺倒的女官和侍卫长，然后满脸惊恐的将目光落在了我的身上。	他的視線掃過房內七橫八豎躺倒的女官和侍衛長，然後滿臉驚恐地將目光落在我的身上。	彼は部屋内に倒れている女官や近衛隊長官を\n見渡すと、驚愕した目で俺を見つめた。		He looks at the Chief Guard and other officers lying on the floor, then fixes his eyes on me, panicked.	
+30	N/A	等等，不是我干的！！	等等，不是我幹的！！	待って待って！ 俺じゃないッ！！		Wait! I've got nothing to do with this!	
+31	N/A@卫兵	有……	有……	しっ…………		As-	
+32	N/A@卫兵	──有刺客！！！	──有刺客！！！	――侵入者だあああぁッ！！！		Assassin!	
+33	N/A	那个卫兵按住肩头像对讲机一样的东西大喊，同时哆哆嗦嗦的从腰间掏出武器。	那個衛兵按住肩頭對著像對講機一樣的東西大喊，同時哆囉哆嗦地從腰間掏出武器。	肩にあるトランシーバーのような物に向かって\n大声で叫んだ後、\n衛兵は震えながら武器を取り出した。		The guard starts yelling over a walkie talkie as he takes out his weapon.	
+34	N/A	虽然武器侧面装饰的银质雕纹护板很抢眼，但那东西的结构很明显是某种左轮手枪。	雖然武器側面裝飾的銀質雕紋護板很搶眼，但那東西的結構很明顯是某種左輪手槍。	銀色のエングレーブが美しい拳銃。\n構造的にはリボルバーで間違いない。		It's a revolver with fine silver patterns on the sides.	
+35	小怜	诶？！	欸？！	――う、うわ！？		Holy...	
+36	N/A	见到枪口忽然对准自己，我本能的想后退，却被地毯绊得一屁股坐到了地上。	看到槍口忽然對準自己，我本能地想後退，卻被地毯絆得一屁股坐到了地上。	銃口を向けられた俺は本能的に後ずさる。\n\nそのせいで、足が絨毯に引っかかって床に尻もちをついてしまった。		He's pointing at me! I follow my instincts and try to move backwards, but instead I trip and end up sitting on the floor.	
+37	N/A	看着马上就要扣动的扳机的士兵和愚蠢到想要伸手去挡子弹的我，奥古斯塔立刻挥动起权杖。	看著馬上就要扣動扳機的士兵和愚蠢到想要伸手去擋子彈的我，奧古斯塔立刻揮動起權杖。	トリガーに指をかけて射撃しそうな衛兵と\nバカみたいに手で防ごうとする俺。\nオーガスタは王笏を振るって止めに入る。		Augusta picks up her scepter as I'm foolish enough trying to block the bullets with my bare hands.	
+38	奥古斯塔	住手！！	住手！！	や、止めろッ！！		Stop!	
+39	N/A	嘭──！嘭──！嘭──！\n嘭──！嘭──！嘭──！	砰──！砰──！砰──！\n砰──！砰──！砰──！	ダァンッ！！ ダァンッ！！ ダァンッ！！\nダァンッ！！ ダァンッ！！ ダァンッ！！		Bang! Bang! Bang! Bang! Bang! Bang!	
+40	N/A	随着六声炸响，卫兵将弹仓里的子弹被倾泻而出。	隨著六聲炸響，衛兵迅速地射出彈匣中的子彈。	──オーガスタの制止も聞かず6回の炸裂音が\n室内に響き渡る。\nそれはシリンダーに込められた弾丸の全てが\n飛び出した音だった。		Six bullets are fired in an instant.	
+41	N/A	……	……	俺は目を瞑ってうずくまり、撃たれる覚悟を\n決めた…………\n……………………\n\n…………んん？ おかしいぞ？		...	
+42	N/A	我闭着眼睛蜷在地上，浑身上下摸了摸，似乎没有受伤？	我閉著眼睛蜷在地上，渾身上下摸了摸，似乎沒有受傷？	身体を触って確かめても、痛みはないし……\n\n……どこにも命中して……いない？		I curl up on the floor, eyes closed. Then I check myself—I'm not wounded?	
+43	小怜	（一枪都没打中？）\n（……人体描边大师？！）	（一槍都沒打中？）\n（……是人體描邊大師嗎？！）	（ひょ、ひょっとしてクソエイム？）\n\n（全弾外れて……た、助かった？）		(Zero for six?)\n(The worst aim ever!)	
+44	N/A	那卫兵看我挨了六枪居然还在地上扭来扭去也懵了，想了好久才反应过来要换弹。	那衛兵看我挨了六槍居然還能在地上扭動也傻了，想了好久才反應過來準備換子彈。	まさかの出来事に撃った側も、撃たれた側も\n放心状態だった。\nだがしばらく経ち、先に衛兵側が我に返って\n弾丸の再装填を始める。		The guard is surprised seeing me still moving after taking six bullets. It takes him a while before he reloads his ammo.	
+45	奥古斯塔	你这召唤兽……别在那儿丢人现眼了！！\n快给我起来反击啊！！	你這召喚獸……別在那裡丟人現眼了！！\n快給我起來反擊啊！！	おい、何をしている召喚獣！\nぼけっと座ってる場合か！\nすぐに反撃するんだ！		Don't embarrass me, my summoned beast!\nStand up and fight back!	
+46	N/A	奥古斯塔气得将权杖戳到了地上，金属撞击发出的嗡嗡声好像能穿透我的灵魂，一直在我耳边回荡。	奧古斯塔氣得將權杖戳到了地上，金屬撞擊發出的嗡嗡聲好像能穿透我的靈魂，一直在我耳邊迴盪。	焦りを見せるオーガスタは王笏で床を叩いた。\n\nすると、その音は俺の魂を通過するかのように\n鼓膜へ反響し続ける。		Augusta slams her scepter on the floor angrily. The clacking sound keeps echoing in my ears.	
+47	N/A	一股强烈的“必须要反击”念头瞬间涌入了我的大脑，驱使我的身体自己动了起来。	一股強烈的「必須要反擊」念頭瞬間湧入了我的大腦，驅使我的身體自己動了起來。	ホッとしたのも束の間、俺の脳内が「反撃しろ」\nと言う思考で埋め尽くされた。\nそして自意識でもあるかのように身体が\n勝手に動き出す。		A very determined thought, "I must fight back," comes across my mind, driving my body to move.	
+48	小怜	怎么回事！？	怎麼回事！？	な、な、なんで、どうして――！？		What's happening?	
+49	N/A	我眼看着自己干净利落的站起来，径直冲向那个刚换好子弹准备开始第二轮射击的卫兵。	我眼看著自己乾淨俐落地站起來，直接衝向那個剛換好子彈準備開始第二輪射擊的衛兵。	勝手に立ち上がった「俺」は、リロードが終わり\n再発砲を始めようとしている衛兵に突撃する。		I rush to my feet, then charge at the guard who's just reloaded and is ready to fire again.	
+50	小怜	（这是送死吗！？给我停下来啊！！）	（這是送死嗎！？給我停下來啊！！）	（おいおいおい、こんなの自殺行為だろ！？） \n\n（と、止まってくれぇ――！）		(I don't have a death wish! Stop!)	
+51	N/A	在奥古斯塔的视角，那只不中用的召唤兽眨眼间就起身闪到了卫兵面前，侧身轻松躲过了一枪。	在奧古斯塔的視角，那隻不中用的召喚獸眨眼間就起身閃到了衛兵面前，側身輕鬆躲過了一槍。	などと思ってたが、予想に反する動きを「俺」は\n見せる。\n「俺」は一瞬で衛兵の正面へ移動した直後、\n身を翻して容易く銃弾を躱した。		Augusta can't read my mind. The way she sees it, her useless summoned beast has turned into a superhero.	
+52	N/A	她趁重心下移顺势一掌打中对方腹部，卫兵的黑色军服在猛烈的冲击下顿时崩裂成一条条布片。	她趁重心下移，順勢一掌打中對方腹部，衛兵的黑色軍服在猛烈的衝擊下頓時崩裂成一條條碎布。	重心を下へ移動させた勢いに乗っかり、\n相手の腹部に猛烈な掌打を放つ。\n穿たれた衛兵が着る黒色の軍服は、\n四散して無数の布切れと化して中空に舞った。		I arrive at the guard, dodge another bullet, then punch him in the stomach. The power of my punch... His uniform is shattered into pieces.	
+53	N/A	只见那个身高近一米八左右的卫兵随着一声巨响飞出了足足六、七米远。	只見那個身高近180的衛兵隨著一聲巨響飛出了足足六、七公尺遠。	身長180センチにも及ぶ衛兵の体は凄まじい音と\n共に、数メートル先まで吹き飛んでいった。		The tall guard is sent flying with a mighty whomp.	
+54	N/A	在落地后，还在惯性驱使下滑了一段距离，随后便陷入了沉默。	落地後，還因為慣性而滑行了一段距離，隨後便陷入了沉默。	吹き飛ぶ勢いは尋常ではなく、床に転がっても\n一定距離を滑っていく衛兵。		The blow is so powerful that he slides back further even after he lands.	
+55	N/A	………………	………………	………………そして長い沈黙。\n\n役に立たない召喚獣などとは到底思えない\n動きだった。		...	
+56	N/A	感觉身体再度恢复控制的我张大着嘴巴盯着躺在远处的卫兵，又扭头看了看奥古斯塔。	感覺身體再度恢復控制的我，張大著嘴巴盯著躺在遠處的衛兵，又轉頭看了看奧古斯塔。	身体の制御を「取り戻した」俺は\n( ﾟдﾟ)と遠くで倒れている衛兵を見た後、\n振り返ってオーガスタに話しかけた。		I regain control of my body. I'm still in disbelief, unable to close my mouth. I turn around and look at Augusta.	
+57	小怜	刚才……是你？	剛才……是妳？	こ、これって、君の仕業なのか……？		Did you do something to me?	
+58	N/A	绝对是这个女孩在搞鬼吧？！	絕對是這個女孩在搞鬼吧？！	この子、これほどの力を持っているなんて……		It must be this girl's doing, no doubt.	
+59	N/A	没想到奥古斯塔比我还要惊讶，声音有些颤抖。	沒想到奧古斯塔比我還要驚訝，聲音有些顫抖。	しかしオーガスタは俺よりも驚いている様子で、\n動揺のあまり声が震えていた。		Augusta's more surprised than I am, her voice shaking.	
+60	奥古斯塔	好、好强……！	好、好強……！	な、な、何たる…つ、強さ……！		Im- Impressive...	
+61	N/A	原来你也没数的吗！	原來妳也搞不清楚狀況嗎！	……君じゃなかったのかよ。		You have no clue, either?!	
+62	N/A	我刚才那套动作风格很像安妮的体术，但即使是她也没有那么大的力量吧……	我剛才那套動作風格很像安妮的體術，但即使是她也沒有那麼大的力量吧……	さっきの動きはアニーの体術と似ている。\nいや、アニーよりも凄まじい動きで戦えていた。\nもちろん普段の俺が出来る動きじゃない。\n\nそれがなぜ「俺」に出来たのか。		My moves were similar to Annie's, but even she doesn't have that kind of strength...	
+63	N/A	而且仔细想想，黑色金边军服、镶着徽记的头盔还有枪上的银质雕纹，这些都是一战前的风格。	而且仔細想想，黑色金邊軍服、鑲著徽章的頭盔，還有槍上的銀質雕紋，都是一戰前的風格。	そもそも話は変わるが、黒と金色の軍服に\nヘルメットのシンボル、銃身のエングレーブ……\nすべてが第一次世界大戦以前のスタイルだ。		Now that I think about it—the uniform style of the guard and the silver patterns on his weapon were consistent with the era before World War I.	
+64	N/A	但那个类似对讲机的通信装置，还有可以六发子弹同时装填的新式左轮，肯定不是那个年代的技术。	但那個類似對講機的通訊裝置，還有可以六發子彈同時裝填的新式左輪，一定不是那個年代的技術。	だけど弾丸6発を同時に装填可能な\nオートマチックリボルバーや、\nトランシーバーみたいな通信装置なんて、\nそんな時代には存在していなかったはず。		But that walkie talkie? And the revolver that can fire six bullets? They don't belong to that era!	
+65	小怜	所以这不是什么时间穿越……	所以，這不是什麼穿越時空……	ということは……\n\n俺はタイムスリップしたのではなく……		So it's not time travel...	
+66	N/A	这里是……异世界！？	這裡是……異世界！？	もしかして……ここは異世界だったりして！？		This is... the Otherworld?!	
+67	N/A	来异世界不是应该有个笨蛋女神或者贤者爷爷什么的吗！？这和书上写的不一样啊！！	異世界不是應該有個笨蛋女神或者賢者爺爺什麼的來迎接嗎！？這和書上寫的不一樣啊！！	だけど異世界なら賢者の爺さんとか駄女神とか\n封印されたドラゴンとかがいるはずだ……！\n書籍から学んだ知識では少なくとも展開的に\nそうなっていた……！！		But this Otherworld is nothing like what's described in the light novel I read.	
+68	N/A	而且手机也因为昨晚看动画时睡着而没电了……这简直是最糟糕的状况了吧！？	而且手機也因為昨晚看動畫時睡著而沒電了……這簡直是最糟糕的狀況了吧！？	昨晩、動画漁りをしながら寝落ちしていたから\nスマホの電源が切れてるし……\nこれが本当に異世界転生だとしたら嫌──		My phone died cuz I fell asleep last night watching anime... Could my situation get any worse?	
+69	N/A	咚──！！	咚──！！	──ゴチンッ！！		Bang—!!	
+70	N/A	奥古斯塔用权杖敲了一下我的后脑勺，我头上瞬间鼓起一个大包。	奧古斯塔用權杖敲了一下我的後腦杓，我頭上瞬間鼓起一個大包。	俺の後頭部を王笏で殴るオーガスタ。\n頭にタンコブが出来てしまう。		Augusta knocks the back of my head with her scepter hard enough to cause a bump.	
+71	小怜	你干嘛啊──！	妳幹嘛啊──！	な、なにすんだよ――！？		What're you doing?	
+72	奥古斯塔	肉体强度这么弱，是怎么做出那种力度的攻击的？	肉體強度這麼弱，是怎麼做出那種力道的攻擊的？	肉体は脆弱だと言うのに、どうやってあの攻撃を\n耐え抜いたのか……？		You can't even withstand such a weak strike. How did you pull off those fierce attacks earlier?	
+73	N/A	奥古斯塔全然无视我的抗议，托起下巴认真思考着。	奧古斯塔完全忽略我的抗議，托著下巴認真思考著。	オーガスタは俺の抗議を無視して、手を顎に\n当てながら真剣に考えている様子だ。		Augusta ignores my question/objection, deep in thought.	
+74	小怜	……什么意思？	……什麼意思？	た、耐え抜いた……と言うと？		... What do you mean?	
+75	奥古斯塔	牛顿第三定律没学过吗？\n果然低等召唤兽都没什么文化……	牛頓第三定律沒學過嗎？\n果然低等召喚獸都沒什麼知識……	運動の第3法則を学んでいないのか？\n\nかのニュートンを知らないとは、\nやはり知識レベルの低い召喚獣だな……		Do you not know Newton's third law of motion?\nLow-level summoned beasts are uneducated, no surprise...	
+76	N/A	这里也有那个家伙吗？果然去哪都要学物理吗？！\n这个异世界也太奇怪了吧！！！	這裡也有那個傢伙嗎？果然去哪都要學物理嗎？！\n這個異世界也太奇怪了吧！！！	アイツこの世界にもいるのかよ！？ \n\n異世界でも物理学を勉強する羽目になるとか\n俺は嫌だぞ！？		That type of person exists in the Otherworld, too? I just gotta learn physics no matter where I go?!\nI don't like this Otherworld!	
+77	N/A	奥古斯塔走到我刚才摔到的地方，从地上捡起一枚被压扁变形的弹头。	奧古斯塔走到我剛才摔到的地方，從地上撿起一枚壓扁變形的彈頭。	オーガスタは俺が転がっていた場所へ移動して、\n床に落ちていた弾頭を拾った。\n確認した弾頭は歪な形に潰れている。		Augusta walks to where I fell earlier and picks up a flattened bullet.	
+78	奥古斯塔	难道瓦格纳老师教的那个术式……	難道華格納老師教的那個術式……	ふむ……ワーグナー先生のあの術式……		Could this be the move Teacher Wagner mentioned?	
+79	N/A	奥古斯塔回头看着蹲在那委屈的揉脑袋的小怜，将弹头在手里攥紧。	奧古斯塔回頭看著蹲在那委屈地揉腦袋的小憐，將彈頭緊握在手中。	弾頭を手に収めて振り返るオーガスタ。\n\n視線の先ではレンが殴られた頭をさすりながら\nうずくまっている。		Augusta turns around and looks at Ren, who's still scratching the bump on her head.	
+80	奥古斯塔	『莱茵的黄金守护』……能够在她身上生效？	「萊茵的黃金守護」……能夠在她身上生效？	『ラインの黄金守護』は……彼女の身に\n適用できるのか？		"Rhine's Golden Protection" could work on her?	
+81	N/A	突然，外面传出一阵尖锐的金属断裂的响声。	突然，外面傳出一陣尖銳的金屬斷裂聲。	考えを巡らせるオーガスタだったが、外から\n金属を断裂したような音が突如として響き、\n思考を中断させられた。		All of a sudden, there's a sharp metal scraping sound.	
+82	N/A	奥古斯塔从卧室门口望出去，走廊尽头的铁闸正缓缓打开，门后是数十名严阵以待的卫戍军。	奧古斯塔從臥室門口望出去，走廊盡頭的鐵閘正緩緩打開，門後是數十名嚴陣以待的衛戍軍。	部屋の入口から外を見ると、廊下の向こう側に\n設置された金属ゲートが徐々に開かれていた。\nゲートには数十人にも及ぶ戦闘準備を終えた\n近衛兵達が待機している。		Augusta looks out of the bedroom. The gate at the end of the hallway is slowly being opened. Behind it are dozens of heavily armed soldiers.	
+83	N/A	一个军官模样的人正在指挥士兵分小队前进，每队前进几米就架好武器掩护后面的小队。	一個軍官模樣的人正在指揮士兵分小隊前進，每隊前進幾公尺就架好武器掩護後面的小隊。	指揮官らしき1人が指示をすると、近衛兵達は\n小隊に分かれて前進を始めた。\n小隊は数メートルごとに銃を構え、後続部隊が\n進むためのカバーを行っている。		A man that looks like an officer is commanding the soldiers to advance in small groups. Each group reaches its position, then stands by to provide cover for the groups behind.	
+84	N/A	与此同时，窗外也传来一阵躁动，不知从哪冒出来的几十名士兵此时已经瞄准了卧室的窗口。	在此同時，窗外也傳來一陣騷動，不知從哪冒出來的幾十名士兵此時已經瞄準了臥室的窗口。	窓の外も何やら騒がしい。\nどうやら別働隊も沢山いる様子だ。\n彼らはこちらの部屋の窓に向けて\n狙いを定めながら様子をうかがっている。		Meanwhile, there's a commotion outside the window. Another team of soldiers has the bedroom in its crosshairs.	
+85	N/A	远处还陆陆续续不断有士兵聚集到楼下的广场，将整栋建筑物围了个水泄不通。	遠處還陸陸續續有士兵聚集到樓下的廣場，將整棟建築物包圍得水洩不通。	遠方を眺めるとさらに無数の近衛兵達が続々と\n下の広場に集合しており、\n建築物全体の包囲を開始していた。		More soldiers are gathered downstairs. They've surrounded the entire building—not even a fly can escape.	
+86	奥古斯塔	糟，被她知道了！	糟糕，被她發現了！	不味い、彼女に気付かれた……！		She's been notified. That's not good!	
+87	小怜	她……？\n咱们怎么办？！	她……？\n那我們要怎麼辦？！	か、彼女……？\nやばい感じか、その人？		She?\nWhat should we do now?	
+88	N/A	现、现在道歉还来得及吗？	現、現在道歉還來得及嗎？	い、今から土下座すればまだ間に合うかな？		It's a bit late for an apology.	
+89	N/A	奥古斯塔把卧室门关上，并马上将我从窗口拉开推向墙角。	奧古斯塔把臥室門關上，並馬上將我從窗口拉開推向牆角。	オーガスタは寝室の扉を閉じ、\n俺を窓から引き離して部屋の角へと押し込んだ。		Augusta closes the bedroom door and quickly pushes me away from the window.	
+90	奥古斯塔	别靠近窗户，小心狙击！	別靠近窗戶，小心狙擊！	窓に近付くな、狙撃されるぞ！		Don't go near the window. They have snipers!	
+91	奥古斯塔	刚才你没被打死可能只是侥幸……\n一会记得离我近点！	剛才妳沒被打死可能只是僥倖……\n等會兒記得離我近一點！	さっき殺されなかったのは運が良かった\nだけかもしれない。\n私から離れるなよ……		It was sheer luck you didn't get killed earlier.\nStay right next to me now, you hear?	
+92	N/A	看她严肃的表情，我乖乖的点了点头，走廊的脚步声离这里越来越近。	看她嚴肅的表情，我乖乖地點了點頭，走廊的腳步聲離這裡越來越近。	緊張した面持ちをしているオーガスタの前に、\n大人しく俺は頷いた。\n同時に廊下から足音が一歩一歩と近付いてくる。		She isn't joking. I nod my head as I hear the footsteps outside drawing near.	
+93	N/A	奥古斯塔用身体护住我，双眼紧盯着大门，防止一会冲进来的士兵二话不说直接将我射杀。	奧古斯塔用身體護住我，雙眼緊盯著大門，防止一會衝進來的士兵二話不說直接將我射殺。	オーガスタは扉を見つめながら俺と扉の間に\n移動した。\n突入した兵士が俺を即射殺しないように、\n自ら庇ってくれているのか……		Augusta gazes at the door, using her body to shield me in case the soldiers shoot me dead as soon as they rush in.	
+94	奥古斯塔	还是这么不留余地吗……	還是這麼不留餘地嗎……	相変わらず容赦のない……		Merciless as always, huh?	
+95	N/A	奥古斯塔紧握住权杖，回头扫了一眼自己身后那只快要缩成蘑菇的低等魅魔。	奧古斯塔緊握住權杖，回頭瞄了一眼背後那隻快要縮成蘑菇的低等魅魔。	オーガスタは王笏を握り締め、後ろで丸く\n縮こまるレッサーサキュバスを横目で確認する。		Augusta holds her scepter tightly as she turns around for a quick glance of her low-level "succubus."	
+96	奥古斯塔	只能赌一赌了……	只能賭一賭了……	賭けるしかないか……		I have no other choices now...	
+97	N/A	她将权杖抬起，重重的戳到地上，发出“当”的一声巨响。	她將權杖抬起，重重地戳到地上，發出「噹」的一聲巨響。	その直後、彼女は高らかに持ち上げた王笏で\n力強く床を叩いた。\n「ドンッ！！」と、大きな音が室内に響く。		She lifts her scepter, then slams it on the floor!	
+98	奥古斯塔	我命令你──	我命令你──	我が命じる──		I order you...	
+99	奥古斯塔	带我离开这！	帶我離開這！	ここから我を連れ出すのだッ！！		To get me out of here!	
+100	N/A	那种熟悉的感觉再度出现，犹如大钟在山谷中回荡的余韵，萦绕着我的全身。	那種熟悉的感覺再度出現，猶如大鐘在山谷中迴盪的餘音，縈繞著我的全身。	すると彼女の声が谷底から木霊する\n鐘の音のように俺の全身に纏わりついた。\nああ、またあの感覚だ……！		The same feeling strikes again, the echoing of her order filling my ears.	
+101	N/A	怎么离开？这个世界有传送门？	怎麼離開？這個世界有傳送門？	って言っても、どうやって逃げるんだよ！？\n\nど●でもドアでも使うとかか！？		Leave how? Is there a teleportation portal hidden somewhere?	
+102	N/A	不对，有牛顿的地方怎么可能有传送门！	不對，有牛頓的地方怎麼可能有傳送門！	ニュートンがいる世界にそんな便利道具が\nある訳ないだろうし……		There can't be. Where there's Newton, there's no teleportation!	
+103	N/A	还是说这个女生是我的Master，我能带她一起瞬移到别的地方？	還是說，這個女生是我的Master，我能帶她一起瞬移到別的地方？	それとも、この娘は俺のマスターらしいから、\n\n3回までしか使えない命令権を使えば彼女と\n一緒にテレポートでも出来たりするのか！？		Or, because this girl is my "master," I automatically gain the power to teleport her?	
+104	N/A	我的脑子开始胡思乱想。	我的腦子開始胡思亂想。	支離滅裂な思考を暴走させるが、それすら彼女の\n声の反響で掻き消えてしまう。		The wildest thoughts run through my mind.	
+105	小怜	（带她离开这里……）\n（嗯……离开……）	（帶她離開這裡……）\n（嗯……離開……）	（駄目だ……身体が勝手に……）\n（彼女を……連れ出さないとって……）		(Get her out of here...)\n(Leave... here...)	
+106	N/A	然而，身体纹丝不动。	然而，身體紋風不動。	身体の制御が奪われ、そして……\n\n…………「俺」はピクリとも動かない。		My body doesn't move one bit.	
+107	N/A	我就像看着主人把飞盘丢下悬崖的狗狗，一脸茫然的看着她。	我就像看著主人把飛盤丟下懸崖的狗狗，一臉茫然地看著她。	まるで飼い主の投げたフリスビーが崖の下へ\n落ちていくのを目撃した犬のように──\n俺は呆然とオーガスタを見つめ続けていた。		All I can do is stare at her like a confused puppy staring at its owner.	
+108	小怜	……怎、怎么离开？	……怎、怎麼離開？	……あの……身体が動かなくなったんだけど。\n\nど、どうしよう？		Leave how?	
+109	N/A	奥古斯塔红着脸把头扭了过去。	奧古斯塔紅著臉把頭轉了過去。	顔を赤くするオーガスタ。		Augusta turns her face around, a bit embarrassed.	
+110	奥古斯塔	我哪知道啊！！	我哪知道啊！！	し、知らんわ！		I don't know...	
+111	N/A	此时，门外的脚步声消失了。	此時，門外的腳步聲消失了。	そうこうしている内に、扉の外の足音が\n止まった事に気付いた。		Suddenly, the footsteps have disappeared.	
+112	N/A	在一片死寂中，我几乎能想象门外那些士兵摆好阵势，随时准备破门而入的画面。	在一片死寂中，我幾乎能想像門外那些士兵擺好陣勢，隨時準備破門而入的畫面。	この静寂は……扉の前で突入準備をしている\n兵士達の姿を容易く想像できる。		They're ready to charge! I can see them coming.	
+113	N/A	奥古斯塔的呼吸也变得急促，似乎做好了顽抗到底的准备。	奧古斯塔的呼吸也變得急促，似乎做好了頑抗到底的準備。	オーガスタの呼吸もペースが早くなっている。\n\nどうやら彼女は最後まで抗うつもりだ。		Augusta is breathing heavily, ready to put up her last fight.	
+114	N/A	我的身体突然动了起来，只见我单膝跪地，右手扶住她的后背，左手隔着披风揽住她的大腿。	我的身體突然動了起來，只見我單膝跪地，右手扶住她的後背，左手隔著披風攬住她的大腿。	その様子を見ている最中、\n突然「俺」は動き始めた。\n片膝を床につけ、右手は彼女の背中に、\n左手は彼女の太ももをマント越しに掴む。		In this most crucial moment, my body starts moving. One knee on the ground, I use my right hand to lift her back and my left hand to grab her legs.	
+115	奥古斯塔	你、你干嘛！？	妳、妳幹嘛！？	ぶ、無礼な、一体何をするつもりだ！？		What're you doing?	
+116	N/A	说实话，我也很好奇！	老實說，我也很好奇自己在幹嘛！	奇遇だな、俺も聞きたいぜッ！！		Her guess is as good as mine...	
+117	N/A	随后我双臂上钩，将她整个横着抱了起来。	接著，我雙臂上勾，將她整個公主抱了起來。	その体勢のまま、「俺」は彼女を抱き上げる。		The next thing I know, I'm carrying her in my arms!	
+118	小怜	（……公主抱？）\n（不过好像并不觉得沉……）	（……公主抱？）\n（不過好像並不覺得重……）	（……お姫様抱っこ？）\n\n（思ったより軽いな……）		(...Is this some romantic trope?)/n(She doesn't feel heavy, though...)	
+119	N/A	她本想挣脱，但很快就明白这大概是我对她命令的回应。	她本想掙脫，但很快就意識到這大概是我對她命令的回應。	最初は暴れていたオーガスタも、すぐ「俺」が\n彼女の「命令」に応えているのだと気付く。		She first wants to break free, then realizes I'm following her order.	
+120	N/A	奥古斯塔不再抵抗，还很配合的搂住了我的脖子。	奧古斯塔不再抵抗，還很配合地摟住了我的脖子。	彼女はもがくのを止めて俺の首筋に腕を回した。		So, instead of fighting my "inappropriate" behavior, she puts her arms around my neck.	
+121	N/A	我抱着她走到房门左侧，贴墙站好，我们都默契的屏住了呼吸，静静的等着那个时刻──	我抱著她走到房門左側，貼牆站好。我們有默契地屏住呼吸，靜靜地等著那個時刻──	彼女をしっかりと抱きながら、「俺」は\n扉の左側へと移動してタイミングを見計らう──		I carry her to the left side of the door and stand with my back against the wall. We both hold our breath, waiting for the moment.	
+122	N/A	几秒之后，木质大门“轰”的被炸开，同时一枚冒着蓝烟的黑色金属物体被丢了进来。	幾秒之後，木質大門「轟」地被炸開，同時一枚冒著藍煙的黑色金屬物體被丟了進來。	数秒後「バキィッ！！」と音が炸裂して\n木製の扉は破壊された。\nそれと同時に青い煙を発する黒色の金属の物体が\n部屋内に投げ込まれる。		A few seconds later, the door is kicked open. Then, a black metal object with blue smoke gets thrown inside.	
+123	小怜	（什么东西？！）	（什麼東西？！）	（なんだこれは！？）		(What's this thing?)	
+124	N/A	我的身体比意识更快一步，一脚就把那东西踢出了窗外，楼下的广场传来一阵骚动。	我的身體比意識更快一步，一腳就把那東西踢出了窗外，樓下的廣場傳來一陣騷動。	俺の思考よりも数秒早く身体の方が反応する。\n\nその金属の物体を窓の外へ蹴っ飛ばすと、\n下の広場が大騒ぎと化した。		My body reacts faster. I kick that thing right out of the window. A commotion follows downstairs.	
+125	N/A	回头看向门口，几个端着武器、头戴防毒面具的士兵还没理解刚才发生的一幕。	回頭看向門口，幾個拿著武器、頭戴防毒面具的士兵還沒理解剛才發生的一幕。	──木製の扉の方に視線を戻す。\n\n武器を構えてガスマスクを着用した近衛兵達は、\nどうやらまだ状況を掴めていない様子だ。		I look back at the door—the armed soldiers haven't realized what just happened.	
+126	N/A	我快步上前对着中间那个倒霉蛋的面门就是一脚。	我快步上前對著中間那個倒楣鬼的門面就是一腳。	すぐさま突進を敢行して、真正面にいた\n不幸なヤツの顔面に蹴りを放った。		I charge at them and kick the soldier right in the middle of his face.	
+127	N/A	那家伙顿时像橄榄球一样飞了出去，还撞倒了后面几名士兵。	那傢伙頓時像橄欖球一樣飛了出去，還撞倒了後面幾名士兵。	強烈な威力で吹き飛んだ近衛兵は、後ろにいた\n奴らを巻き込みドミノ倒しで倒れていく。\nまるでボーリングのボールとピンみたいだ。		I punt him into the air like a football. A few other soldiers are knocked down together with him from the heavy impact.	
+128	N/A	我抱紧奥古斯塔，抓住这短暂的空档冲向走廊，然后迈开大步就开始飞奔──	我抱緊奧古斯塔，抓住這短暫的空檔衝向走廊，然後邁開大步開始狂奔──	ひるんだ隙を見逃さない「俺」は、オーガスタを\n抱えながら廊下へと全速力でダッシュする。		This is our chance. I hold Augusta tightly and rush to the hallway, then start running for my life.	
+129	小怜	（不会是要一路跑出去吧？！）	（不會是要一路跑出去吧？！）	（このまま外まで走るつもりか！？）		(Will I run all the way until we're safe?)	
+130	N/A	可这速度也……	可這速度也……	だけど、このスピード……		But this speed...	
+131	N/A	太快了啊啊啊啊啊啊啊啊啊啊！！！！！！！！	太快了啊啊啊啊啊啊啊啊啊啊！！！！！！！！	速すぎだってえええぇぇぇ――――！！！		I'm faaaaast!	
+132	N/A	与此同时，在另一侧。	在此同時，另一側。	――同時刻 アニーとラファエル。		Meanwhile, in the parallel world...	
+133	N/A	安妮正用手机搜索着任何能将『永恒』和『彩蛋』联系起来的线索。	安妮正用手機搜尋著任何能將「永恆」和「彩蛋」連結起來的線索。	アニーは「永遠」と「イースター・エッグ」に\n繋がる手掛かりを携帯で検索している。		Annie is using her phone to find out possible connections between ÄON and the Fabergé Eggs.	
+134	N/A	即使在SID和新丰洲科学院的数据库中也找不到什么有价值的信息。	即使在SID和新豐洲科學院的資料庫中也找不到什麼有價值的資訊。	しかしSIDと新豊洲科学院のデータベースを\n調べ尽くしても、\n有用であろう情報は一切発見できなかった。		Unfortunately, there's no valuable information in the databases of SID and the New Opulentia Academy of Sciences.	
+135	N/A	拉斐尔给萨蒙顿境内对沙皇时期艺术品有过研究的教授挨个打了电话，但同样所获甚少。	拉斐爾一一撥了電話給薩蒙頓境內對沙皇時期藝術品有過研究的教授，但同樣所獲甚少。	ラファエルもツァーリ時代の芸術品を\n熟知している知人の教授に電話したが、\n特には収穫を得ることができなかった。		Raphilia has also called all the professors in Salmonton. They're supposed to be experts in ancient Russian arts, but so far, no one has been able to provide anything useful.	
+136	拉斐尔	三十分钟……	三十分鐘……	30分……		Thirty minutes...	
+137	拉斐尔	三十分钟内再找不到线索，我就向爷爷求助。	三十分鐘內再找不到線索，我就向爺爺求助。	あと30分以内に手掛かりを掴めなければ、\nお爺様に助けを求めるわ。		If we still don't have any clues after thirty minutes, I'll ask my grandpa for help.	
+138	安妮	那样就算能把小怜找回来，戴克斯博士也不会轻易放过她吧……	那樣就算能把小憐找回來，戴克斯博士也不會輕易放過她吧……	それでレンちゃんを見つけ出せても、\nデックス博士は簡単に帰してくれないと思う。		But if you do that, Dr. Deckers will become another problem...	
+139	N/A	安妮头也没抬的回道。	安妮頭也沒抬地回道。	アニーは顔を上げすに返答する。		Annie replies.	
+140	安妮	毕竟他也知道小怜的价值。	畢竟他也知道小憐的價值。	博士はレンちゃんの価値を知っているから。		He knows the value of Ren, too.	
+141	拉斐尔	有我在就不允许──	有我在就不允許──	私がそんな事させないわよ……		Not under my watch...	
+142	N/A	拉斐尔并没有底气把话说完，她的记忆中，爷爷总有办法达成自己的目的。	拉斐爾沒有自信把話說完。在她的記憶中，爺爺總有辦法達成自己的目的。	ラファエルの言葉にはいつもの覇気がない。\n\n彼女の知る祖父はあらゆる手段で自分の目的を\n達成する人だ。		Raphilia doesn't finish her sentence. She isn't certain, either. Her grandpa always has ways to get what he wants, after all.	
+143	N/A	她刚刚甚至想过，这次事件会不会就是爷爷一手设计的，但很快就打消了这个念头。	她剛剛甚至想過，這次事件會不會就是爺爺一手設計的，但很快就打消了這個念頭。	今回の件も実は、祖父の計画の一端ではないか\nと……思ったが、\nラファエルはすぐさま心の中で否定する。		For a moment, she even suspects her grandpa is behind all this. But then, she quickly denies her own thought.	
+144	拉斐尔	（爷爷是不会用我做诱饵的。）	（爺爺是不會用我做誘餌的。）	（お爺様が、私を囮にするなんて絶対に……）		(My grandpa would never put me in danger.)	
+145	安妮	对了，你刚才说这枚彩蛋是二战期间德军从巴黎撤退时留在这的？	對了，你剛才說這顆彩蛋是二戰期間德軍從巴黎撤退時留下來的？	さっきのラファエルの話を整理すると。\n\n第二次大戦中、ドイツ軍がパリから撤退する際\nこの場所に置いていった物。\nそれが、このイースター・エッグって事だよね？		You were saying the egg was left here after the German troops retreated from Paris?	
+146	拉斐尔	没错，在此之前彩蛋一直保存在慕尼黑。	沒錯，在那之前，彩蛋一直保存在慕尼黑。	その通り。\n\nそれ以前はずっとミュンヘンで保管されていた\nようね。		Yep. It used to be stored in Munich.	
+147	拉斐尔	当时把彩蛋带过来的是一个叫『祖先遗产学会』的组织，专门为纳粹搜寻各种传说中的圣物。	當時把彩蛋帶過來的是一個叫「祖先遺產學會」的組織，專門為納粹搜尋各種傳說中的聖物。	当時このエッグをこの場所まで持って来たのは\n『祖先遺産学会』という組織よ。\n話によると、彼らは伝説で語られている聖物を\nナチスのために色々と探していたらしいわ。		Ahnenerbe brought this egg here. It was an organization dedicated to collecting all kinds of legendary artifacts for the Nazis.	
+148	安妮	就是收集『EX级异质物』吧？	就是收集「EX級異質物」吧？	つまり『EX級異質物』を集めてたって感じ？		As in Substance H?	
+149	拉斐尔	可以这么说……但当时人们对异质物的认识还很粗浅，也没有相应的探查手段。	可以這麼說……但當時人們對異質物的認識還很粗淺，也沒有相應的探查方式。	間違ってないけど……あの時代だと\n異質物に対する知識が少ない上、\n有効な捜索手段も人々は持っていないのよ。		You could say that. Only then people didn't know much about Substance H and lacked the means to detect it.	
+150	安妮	他们是希望用这枚彩蛋获取某种EX级异质物吗？	他們是希望用這顆彩蛋獲取某種EX級異質物嗎？	このエッグを利用して、何かの『EX級異質物』\nを彼らが手に入れようとしていたとかは？		Were they hoping this egg could lead them to EX level Substance H?	
+151	N/A	拉斐尔无奈的摇了摇头。	拉斐爾無奈地搖了搖頭。	ラファエルは残念そうに頭を振った。		Raphilia shakes her head.	
+152	拉斐尔	那个组织在1944年因为某个事件被完全抹杀了，没有留下任何文件，甚至连活口都没有……	那個組織在1944年因為某個事件被完全消滅了，沒有留下任何文件，甚至連活口都沒有……	その組織は1944年のとある事件で完全に\n抹消された。\n文書どころかメンバーまで1人残らずに……		That organization was completely wiped out after an incident in 1944. No documents were left behind, and no members survived...	
+153	安妮	……啊！	……啊！	……あっ！！！		Ahh!	
+154	N/A	安妮眼睛一亮，好像找到了什么。	安妮眼睛一亮，好像找到了什麼。	何かに気付いたのか、唐突に声を上げるアニー。		Her eyes widen. Annie seems to have found something.	
+155	拉斐尔	怎么？	怎麼？	な、なによ突然？		What is it?	
+156	安妮	我刚才忽然想到可以试试在神话传说中搜索──	我剛才忽然想到，可以試試在神話傳說中搜尋──	さっき神話とか伝説の関連で検索しようと\n思ったんだけど──		I was searching mythologies.	
+157	安妮	『永恒』是俄耳甫斯神话中表时间的神明埃安，埃安创造了宇宙的银蛋，又被称作俄耳甫斯蛋……	「永恆」是奧菲斯神話中代表時間的神明埃安，埃安創造了宇宙的銀蛋，又被稱作奧菲斯蛋……	「永遠」ってもしかしてオルペウス教の伝承に\n出てくる時間の神「アイオーン」かな？ \n「オルペウスの卵」とも呼ばれている、\nアイオーンが創造した「宇宙卵」の話……		ÄON is the God of Time in the mythology of Orpheus. He created the cosmic egg also known as the Orphic Egg...	
+158	拉斐尔	埃安确实和『ÄON』的发音接近……	埃安確實和「ÄON」的發音接近……	確かに「アイオーン」と「ÄON」の発音は\n近いと思うけど……		I think you're onto something.	
+159	拉斐尔	不过那个神话系和希腊以及罗马神话之间本来就有很多互相借鉴的东西。	不過，那個神話系列和希臘以及羅馬神話之間，本來就有很多互相參考的東西。	あの伝承は元々、ギリシャ神話やローマ神話との\n間に共通点が多いものよ？		But there are areas that overlap in different mythology systems.	
+160	拉斐尔	而且那些神话传说和小怜有什么关系？	而且，那些神話傳說和小憐有什麼關係？	それに神話や伝承に関して、女装癖と何の\n関連性が――		Besides, how's the mythology connected to Ren?	
+161	N/A	安妮微笑着将手机递给了拉斐尔。	安妮微笑著將手機遞給了拉斐爾。	アニーは何も言わず、微笑みながら携帯を\nラファエルに渡した。		Annie hands over her phone to Raphilia, a smile on her face.	

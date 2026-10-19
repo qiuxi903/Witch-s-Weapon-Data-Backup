@@ -1,0 +1,33 @@
+﻿1	引导精灵	刚才真是惊险呢……\n不过只是暂时击退了敌人。	剛才真是驚險呢……\n不過，現在只是暫時擊退了敵人。	さっきは危なかったね…\n一時的に敵を撃退出来たけど…	방금 정말 위험했어……\n하지만 잠시 적을 격퇴시켰을 \n뿐이야.	That was close...\nThere'll be more enemies, though.	
+2	引导精灵	虽然不知你是怎么做到的，不过居然可以从[ff9c00]『因果的裂缝』[-]中将我拉出来。	雖然不知道妳是怎麼做到的，不過居然可以從[ff9c00]「因果的裂縫」[-]中把我拉出來。	でも一体、どうやったの？\n私を[ff9c00]『因果の狭間』[-]から\n救い出してくれるなんて。	어떻게 한 건지 모르겠지만, \n어쨌든 네가 날 [ff9c00]『인과의 틈』[-]에서 꺼내줬어.	I'm not sure how you managed to do it, but you did pull me out of the [ff9c00]Rift of Correspondences[-]...	
+3	引导精灵	你手上拿着的这根球棒，可是我最喜欢的决战球棒哦！上面还保留着我的[ff9c00]魔法刻印[-]呢~	妳手上拿的這根球棒，可是我最喜歡的決戰球棒哦！上面還保留著我的[ff9c00]魔法刻印[-]呢～	あなたが持ってるバットは、\n私の一番好きな勝負バット\nだよ！\n表面には私の[ff9c00]魔法刻印[-]が、\nまだ残されてるようね。	네가 들고있는 야구 방망이는 \n내가 가장 좋아하는 \n결전의 방망이야! \n나의 [ff9c00]마법 각인[-]도 남아있어~	The baseball bat you're holding is my favorite—I use it in all my important games. It even has my [ff9c00]magic engravings[-]!	
+4	引导精灵	毕竟魔法会给身体带来很大的负担，所以我才在球棒上……\n\n等等，难道这才是原因！？	畢竟魔法會給身體帶來很大的負擔，所以我才在球棒上……\n\n等等，難道這才是原因！？	魔法は身体に大きな負担が掛かるから……\nもしかして、このバットを通して私を救ってくれたの？	마법을 견뎌내려면 몸에 부담이 \n가니까 야구 배트에……\n\n잠깐, 설마 이게 원인인가！？	After all, magic power can be a burden to my body, so I stored some in this bat...\n\nWait a minute... Maybe that's exactly why you could get me out of there!	
+5	引导精灵	我们去[ff9c00]观星台[-]搜索下，如果是你的话，说不定以可以遇到更多的魔女。	我們去[ff9c00]觀星台[-]搜索一下，如果是妳的話，說不定以可以遇到更多的魔女。	それじゃあまずは[ff9c00]観星台[-]に行って仲間を探してみよう！あなたなら、もっとたくさんの魔女と出会えるかも。	[ff9c00]천문대[-]를 살펴보자. 너라면 더 많은 마녀들을 만날 수 있을 거야. 	If that's the case, let's head to the [ff9c00]Observatory[-]. Something tells me you'll meet more Witches...	
+6	FocusTrigger	
+7	引导精灵	黯淡幽远的群星中，隐藏着所有魔法的起源……	黯淡幽遠的群星中，隱藏著所有魔法的起源……	ここにある[ff9900]ソトースの目[-]と[ff9900]ルルイエの謎[-]という二つの星雲水晶は、代々グレーズ家が管理をしているわ。	조용히 표류하는 별들 속에 \n모든 마법의 기원이 숨겨져 있어\n……	Amongst dim, distant stars... hide the origins of all of magic...	
+8	引导精灵	[ff9900]星云水晶[-]能与魔法产生共鸣，或许能找到更多有魔法刻印的道具或兵器。\n	[ff9900]星雲水晶[-]能與魔法產生共鳴，或許能找到更多有魔法刻印的道具或兵器。\n	薄暗き幽遠の星の群れには、\n全ての魔法の起源が隠されて\nいるよ……	[ff9900]성운 수정[-]은 마법과 공명하니까 \n어쩌면 마법 각인이 있는 아이템이나 병기를 찾을 수 있을지도 몰라.\n	[ff9900]Nebula crystals[-] resonate with magic. One can find items or weapons with magic engravings using these crystals.	
+9	引导精灵	这些道具寄宿着魔女的力量，伴随着强烈的思念和羁绊。	魔女的力量寄宿在這些道具上，還伴隨強烈的思念與羈絆。	[ff9900]星雲水晶[-]は魔法と共鳴して[ff9900]観測[-]できるの。より多く魔法刻印を持つ道具や兵器が見つかるかもね。	이 아이템들 안에 마녀의 힘이 깃들어 있어. \n강한 그리움과 인연이 수반되지. 	More importantly, these items radiate strong Witch power—they're basically Witch hosts!	
+10	引导精灵	这里的[ff9900]索托斯之眼[-]、[ff9900]拉莱耶之谜[-]这两块星云水晶，一直是由格蕾丝家族收藏和守护的。	這裡的[ff9900]索托斯之眼[-]、[ff9900]拉萊耶之謎[-]兩塊星雲水晶，一直是由格蕾絲家族收藏和守護的。	観測で見つかる道具には魔女の力が宿っていて、秘めたる想いと絆が込められてるわ。	이곳의 [ff9900]소토스의 눈[-], [ff9900]르리에의 수수께끼[-] 이 두 성운 수정은 그레이스 가문이 수호해왔어. 	These two nebula crystals, [ff9900]Sothoth's Eye[-] and [ff9900]R'lyeh's Mystery[-], are the House Gracia's heirlooms.	
+11	引导精灵	来试着向星云水晶祈愿吧~	來試著向星雲水晶祈願吧～	それじゃあ星雲水晶で[ff9900]観測[-]をしてみよう！	성운 수정을 향해 \n소원을 빌어보자~	Try and pray to a crystal!	
+12	FocusTrigger	
+13	FocusTrigger	
+14	B_speak	[ff9900]自由选择一颗星星祈愿[-]	[ff9900]自由選擇一顆星星祈願[-]	[ff9900]画面の好きな所をタップ！[-]	[ff9900]별을 선택해 소원을 빌어요~[-]	[ff9900]Select a star to pray to.[-]	
+15	FocusTrigger	
+16	引导精灵	再试试另一块星云水晶。	再試試另一塊星雲水晶。	続けてもう1つの星雲水晶も\n試してみよう！	다른 성운 수정에도 소원을 빌어보자.	Now, pray to another one.	
+17	FocusTrigger	
+18	FocusTrigger	
+19	FocusTrigger	
+20	FocusTrigger	
+21	引导精灵	你果然很特别呢！先看一下刚刚召唤的魔女吧	妳果然很特別呢！先看一下剛剛召喚的魔女吧	あなたはやっぱり特別だね！\nさっき召喚した魔女を見てみましょう？	넌 역시 특별해! 소환한 마녀를 확인해 보자.	Aren't you the special one! Now, check out the Witches you just obtained.	
+22	FocusTrigger	
+23	FocusTrigger	选择魔女	選擇魔女	魔女を選択	마녀선택	Select Witch	
+24	FocusTrigger	查看兵器	查看兵器	兵器を選択	병기확인	View Weapon	
+25	FocusTrigger	查看兵器技能	查看兵器技能	スキルを確認	병기스킬 확인	View Weapon Skills	
+26	引导精灵	熟悉兵器的特性可以百战不殆，每把兵器都拥有独特的[ff9c00]刻印技[-]	熟悉兵器的特性可以百戰百勝，每把兵器都擁有獨特的[ff9c00]刻印技[-]	兵器の特性を熟知すれば、\n百戦危うからず。\n兵器はそれぞれの[ff9c00]刻印スキル[-]\nという特性を持っているの。	병기의 특성을 이해하면 백전백승할 수 있어. 모든 병기는 독특한 \n[ff9c00]각인 스킬[-]을 보유하고 있어.	Know your weapons—each weapon has its own unique [ff9c00]Power Skill[-].	
+27	引导精灵	[ff9c00]天国之扉[-]的刻印技就可造成沉默效果，具体效果详见右侧说明	[ff9c00]天國之扉[-]的刻印技能可造成沉默效果，詳細效果請見右側說明	[ff9c00]天国の扉[-]の刻印スキルは敵を\n沈黙状態にできるよ。\nスキルの詳細は右側の説明を\n見てね。	[ff9c00]천국의 문[-]의 각인 스킬은 침묵 효과가 있어. 구체적인 효과는 우측 \n설명을 확인해봐. 	The Power Skill of [ff9c00]Heaven's Gate[-], for example, can silence enemies. You can check more details on the right side.	
+28	FocusTrigger	请返回	請返回	戻る	뒤로 가기	Back	
+29	FocusTrigger	请返回	請返回	戻る	뒤로 가기	Back	
+30	FocusTrigger	请返回	請返回	戻る	뒤로 가기	Back	
+31	FocusTrigger	
+32	FocusTrigger	
+33	FocusTrigger	

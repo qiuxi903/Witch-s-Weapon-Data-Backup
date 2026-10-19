@@ -1,0 +1,4 @@
+﻿1	引导精灵	测试用文本1123	測試用文字1123	テスト用テキスト1123	테스트용 텍스트1123	Test	
+2	引导精灵	asdadsfsdfdsfsdf	asdadsfsdfdsfsdf	asdadsfsdfdsfsdf	asdadsfsdfdsfsdf	asdadsfsdfdsfsdf	
+3	引导精灵	测试用文本3	測試用文字3	テスト用テキスト3	테스트용 텍스트3	Test	
+4	引导精灵	测试用文本4	測試用文字4	テスト用テキスト4	테스트용 텍스트4	Test	

@@ -1,0 +1,137 @@
+﻿1	N/A	在莉琉的许可下，我、拉斐尔、还有早已恢复元气的安妮一起去探望白烛。	在莉琉的許可下，我、拉斐爾，還有早已恢復元氣的安妮，三人一同去探望白燭。	マリルから許可を得て、俺とラファエル\nそして元気を取り戻したアニーと一緒に\nバイジュウのお見舞いに行く事にした。	마리루의 허락을 받은 나，라파엘，진작에 원기를 회복한 앤이 함께 바이츄의 병문안을 간다.	With Mariru’s permission, I join Raphilia and Annie, who’s back to her usual lively self, on a visit to the New Opulentia Oosumi Memorial Hospital.	
+2	N/A	集合地点是新丰洲大隅纪念医院，白烛已经在那里进行了半个月的恢复性训练。	集合地點是新豐洲大隅紀念醫院，白燭已經在那裡進行了半個月的恢復訓練。	集合地点は新豊洲大隅記念病院。\nバイジュウはそこで半月のリハビリ中である。	집합 장소는 신토요스 오스미 기념 병원이다. 바이츄가 거기서 벌써 보름 동안이나 재활치료를 받고 있다.	Beth has been undergoing rehab here for two weeks already.	
+3	N/A@安妮	据说莉琉小姐为了避开运营白皇后基地的组织，用离岸公司匿名买下了那所医院大半的股份哦。	據說莉琉小姐為了避開經營白皇后基地的組織，特地用境外公司的名義匿名買下那間醫院的多數股份哦。	スノークイーン基地の運営組織にバレないよう\nマリルさんがオフショアカンパニー経由で、\n病院の大半の株を匿名購入したらしいよ～	마리루 아가씨가 화이트퀸 기지의 조직 운영을 피하려고 익명으로 병원의 주식을 절반이나 샀다고 들었어.	I heard that Ms. Mariru bought more than half of this hospital’s shares anonymously under the name of an offshore company, in order not to draw attention from the organization that runs Snedronningen Base.	
+4	N/A	安妮大步走在前面，漫不经心的说道。	安妮大步走在前面，漫不經心地說道。	前を歩いてるアニーは、さり気なく言った。	앤이 큰 보폭으로 걸어가며 대수롭지 않게 얘기한다. 	Annie informs us casually as she strides forward.	
+5	N/A@小怜	哈哈哈，还真有她的风格……	哈哈哈，這種花錢方式還真有她的風格……	はははっ、マリルらしいな……	하하하. 마리루 스타일이네……	Ha. Sounds like something she’d do.	
+6	N/A	虽然同时也能脱离元老院的视野\n但这样的手笔未免还是太夸张了吧……	雖然同時也能擺脫元老院的監視，\n但這種手筆還是太誇張了吧……	同時に元老院の目からも逃げられるとはいえ、\nさすがに金遣いが荒すぎるだろ……	원로원의 시야에서 벗어나긴 했지만\n돈 쓰는 스케일이 어마어마하군……	It’s a good way to keep a low profile so that the Senate wouldn’t notice.\nBut that’s still a lot of money...	
+7	N/A@拉斐尔	笨蛋──	哼，笨蛋──	バカね。	바보──	Idiot.	
+8	N/A@拉斐尔	那所医院在细胞学方面的研究一直都是世界一流水准，而且坐落在寺上公园这种地段。	那所醫院在細胞學方面的研究一直都是世界頂尖的，而且還位在寺上公園這種地段。	あの病院は細胞学分野の研究において\n世界でもトップクラスよ。\nしかも寺上公園近辺という立地ときている。	그 병원은 세포학 방면 연구에서 세계 일류 수준이야. 게다가 시상 공원 근처잖아~	It’s a hospital famed for its world-class cytology research. And it’s in the Teragami Park area, an optimal location.	
+9	N/A@拉斐尔	就算仅仅作为投资，也是明智的选择。	就算僅僅作為投資，也是很明智的選擇。	投資という意味だけでも、賢明な選択だわ。	투자자의 시선에서도 아주 현명한 선택이야. 	It’s the perfect hospital to invest in.	
+10	N/A@小怜	哦……\n（怎么好像你也想买似的！）	哦……\n（看起來妳也很想買下來喔！ ）	なるほど……\n（なんか君も買いたいかのような言い方だな！）	오……\n（어째 너도 사고 싶은 것처럼 보이는 걸!）	Ooh...\n(Do you want to buy shares too or something?)	
+11	N/A	算了，还是不问了……	算了，還是別問了……	まあ、いいけどさ……	됐어，물어보지 않는 게 좋을 것 같다……	Ah, whatever...	
+12	N/A	她真的买了也很有可能……	差點忘了這可是拉斐爾耶，她真的想買也不會買不起……	彼女なら本当に買ってしまうかもしれないし……	정말 샀을 수도 있으니……	Maybe she already bought some shares, I just didn’t know...	
+13	小怜	请问……\n白烛是在这个房间吗？	請問……\n白燭在嗎？	あの……\nバイジュウさんはこの部屋ですか？	저기……\n바이츄，여기 있어~?	Excuse me...\nIs Beth in this room?	
+14	N/A	病房门虚掩着，我有些忐忑的推门进去。	病房的門虛掩著，我有些忐忑地推門而入。	病室の扉は少し開いており\n間違ってないかちょっぴり不安だったけど、\nそのまま押して入ってみた。	병실 문이 닫혀있어 안절부절 못하며 문을 밀고 들어갔다.	The door to the ward has been left ajar. I enter, a little bit nervous.	
+15	白烛	皮肤白皙的少女正穿着一身纯白的连衣裙，半坐在病床上，安静的翻着一本书。	皮膚白皙的少女穿著一身純白的連身裙，半坐在病床上，安靜地翻著一本書。	真っ白なワンピースを着た白い肌の少女は、\nベッドで上半身を起こして静かに本をめくる。	하얀 피부의 소녀가 순백의 원피스를 입고 병상에 앉아 조용히 책을 보고 있다. 	The fair-skinned girl is sitting on her bed, clad in a plain white dress, quietly flipping through a book.	
+16	白烛	微风拂过她的面颊，远处是新丰洲漂亮的城景，偶尔传来楼下公园的鸟鸣和小孩子玩耍的声音。	微風拂過她的面頰，遠處是新豐洲漂亮的城景，偶爾傳來樓下公園的鳥鳴和小孩子玩耍的嘻笑聲。	そよ風が彼女の頬を撫でる。\n\n窓の遠くに新豊洲の美しい景色が望め、\n下の公園から鳥と子供達の声が聞こえてくる。	작은 바람이 그녀의 볼을 스친다. 멀리 신토요스의 아름다운 시티뷰가 펼쳐지고 건물 아래서 새소리와 아이들이 떠는 소리가 들린다.	A breeze comes in from the window, lifting a few strands of her silky hair. Sprawled out there in the distance is the beautiful city of New Opulentia. The chirping of birds and sounds of children playing drift in through the curtains.	
+17	小怜	（果然很漂亮啊……）	（果然很漂亮啊……）	（やはり、キレイだ……）	（역시，예쁘다아…）	(How pretty...)	
+18	N/A	——我很不争气的呆在了原地。	——我很不爭氣地呆在了原地。	──俺はその場に立ち尽くした。	——나는 멍하니 제자리에 서있었다.	I stand rooted to the spot, mind completely blank.	
+19	N/A	这种感觉，能理解吧……	這種感覺，能理解吧……	この感覚、例えるならば……	이런 느낌，다들 이해할 것이다.	You get why I’m feeling this way, right?	
+20	N/A	就是之前在游戏里攻略过的那种──	就是之前在遊戲裡攻略過的那種──	以前ゲームの中で攻略したキャラと同じ──	예전에 게임 속에서 해봤던──	You know, it’s like the kind of thing that happens in a romance game...	
+21	N/A	“美丽病弱的邻家少女在安静的午后读着诗集，等待着那个如诗中描述般与她邂逅的男……”	「美麗體弱的鄰家少女在安靜的午後讀著詩集，等待著如詩中描述般與她邂逅的男……」	「病弱の美少女が、静かな昼下がりに詩集を\n　読んでいた。」\n「彼女はその詩に描かれているかのような\n　出会いを待っているのだ……」	“병악한 이웃집 소녀가 평화로운 오후에 시를 읽으며 시 속의 남자를 기다리는…”	“On a serene afternoon, the beautiful, fragile girl next door is reading a poetry anthology, waiting for her Prince Charming to appear, just like in the fairy tales...”	
+22	小怜	（恩……女孩子？）	（呃……女孩子？ ）	（あれ……作中の詩だと男の子だったけど……）\n\n（この場合は女の子？）	（아니……여자를 기다리는？）	(Or... perhaps she’s waiting for her Princess Charming?)	
+23	拉斐尔	咳咳──	咳咳──	コホン――ッ	크흠──	Ahem.	
+24	N/A	拉斐尔轻咳着从后面掐了我一把，也提示白烛我们的到来。	拉斐爾輕咳著從後面掐了我一把，也提示著白燭我們到了。	ラファエルは咳払いをしながら後ろから俺の事を\n軽くつねり、バイジュウに到着を知らせた。	라파엘이 헛기침을 하며 내 등 뒤를 꼬집어，인기척을 낸다.	Raphilia coughs and pinches me on the back, alerting Beth to our arrival.	
+25	白烛	小怜，你们来啦。	小憐，妳們來啦。	レンさん！　来てくれたのですね。	렌，왔구나.	Ah, Ren. You’re here.	
+26	N/A	看到我们，白烛合上手中的书。	看到我們，白燭合上手中的書。	俺達を見ると、バイジュウは本を閉じた。	우리를 본 바이츄가 책을 덮는다.	Beth closes her book and smiles at us.	
+27	N/A	偷瞄了一下书名…叫做《拓扑绝缘体和低维凝聚态物理》。	我偷瞄了一下書名……嗯，《拓撲絕緣體和低維固體物理學》……	タイトルをチラっと確認する……\n《トポロジー絶縁体と低次元凝縮系物理学》	책 이름을 몰래 훔쳐보니… 《망 형태 절연체와 저차원 응집형 물리》	I sneak a glance at the title: Topological Insulators and Low-Dimensional Physics of Condensed Matter.	
+28	小怜	（哈哈哈哈……我刚才在乱想什么啊笨蛋！）	（……哈哈哈哈……我剛才在亂想什麼啊笨蛋！ ）	（ははははっ……）\n\n（何を妄想してたんだ俺のバカっ！）	（하하하하……내가 방금 무슨 망상을，바보!）	(Haha... not at all like the poetry anthology I imagined.)	
+29	小怜	你还记得我的名字吗？	妳還記得我的名字？ ！	俺の名前、まだ憶えてくれていたんだ。	내 이름을 기억해?	Oh, you still remember my name?	
+30	N/A	白烛露出理所当然的微笑。	白燭露出理所當然的微笑。	バイジュウは当然だと言わんばかりの微笑みを\n浮かべる。	바이츄가 당연하다는 웃음을 짓는다.	Beth flashes me a smile that says “of course”.	
+31	白烛	如果没认错的话……另外两位是拉斐尔和安妮？	如果沒記錯的話……另外兩位是拉斐爾和安妮？	もし間違っていなければですが……\nそちらの方々はラファエルさんとアニーさん？	내가 잘못 알아본 게 아니라면…두 사람은 라파엘과 앤?	And if I remember correctly, the other two are... Raphilia and Annie?	
+32	安妮	恩？你也认识我？	欸？ 妳也認識我？	あれ？　私も知ってるの？	응? 나를 알아?	Hm? You recognize me?	
+33	白烛	前阵子莉琉有向我介绍过南极行动的相关成员。	前陣子莉琉向我介紹過南極行動的相關成員。	先日、マリルさんが南極に来ていたメンバーを\n紹介してくれました。	얼마 전 마리루가 남극 행동의 관련 멤버들을 소개해줬어. 	Mariru introduced me to the members involved in the Antarctica operation.	
+34	白烛	似乎给你们添了不少麻烦……	我似乎給妳們添了不少麻煩……	どうやら、大変ご迷惑をおかけしたようで……	너희들에게 폐를 많이 끼친 것 같아……	I’ve brought you a lot of trouble...	
+35	N/A	白烛脸上略过一丝悲伤的表情，但立刻转到了下一个话题。	白燭臉上似乎閃過一絲悲傷的表情，但立刻就轉到了下一個話題。	バイジュウは僅かな悲しみを表情に見せたが、\nすぐ次の話題に移った。	바이츄가 슬픈 표정을 했다가 곧바로 화제를 돌린다. 	Beth looks a bit rueful, but she immediately switches the topic.	
+36	白烛	对了，海因里希没来吗？	對了，海因里希沒跟著妳們一起來嗎？	そう言えば、\nハインリッヒさんは来ていないのでしょうか？	아참，하인리히는 안 왔어?	Oh, right, where’s Henriette?	
+37	拉斐尔	小怜现在是元老院关注的焦点人物，海因里希暂时不方便和她一起行动。	小憐現在是元老院關注的焦點，海因里希暫時不方便和她一起行動。	今は元老院に目を付けられているからね。当分、\nこいつとハインリッヒは一緒に行動できないわ。	렌은 원로원이 주시하는 요주인물이라 하인리히와 따로 움직이고 있어. 	The Senate’s got their eyes on Ren right now. It wouldn’t be wise for her to be seen with Henriette.	
+38	拉斐尔	不过她拜托我到了医院之后──	不過她有拜託我，到了醫院之後──	だけど病院に到着したらお願いと、\n頼まれた事があるのよ──	그치만 한 가지 부탁한 게 있지──	But she did tell me to contact her once I’m here.	
+39	N/A	拉斐尔走到病床旁边的操作台，输入了一串地址。	拉斐爾走到病床旁邊的控制台，輸入了一串位址。	ラファエルはベッドの横にあるコンソールに、\nアドレスを入力した。	라파엘이 침대 옆의 조작대로 걸어와 주소를 입력한다. 	Raphilia plods over to the operation table by the bed and types in an address.	
+40	N/A	接着海因里希的半身图像就出现在了白烛病床小桌上的屏幕中。	接著，海因里希的半身像就出現在白燭病床小桌上的螢幕中。	するとハインリッヒの上半身が、ベッドの上の\n小さいモニターに映りだした。	하인리히의 상반신이 바이츄의 테이블 위 스크린에 나타난다.	Henriette’s face immediately appears in the screen on Beth’s bedside table.	
+41	海因里希	嘿──你好呀~	嘿──妳好呀～	ごきげんよう。	헤──안녕~	Hey! How’s it going?	
+42	白烛	你好，上次还没跟你好好道谢呢。	妳好，還沒跟妳好好道謝呢。	こんにちは。\nまだ……お礼を言っていませんでしたね。	안녕，지난 번에는 고맙다는 인사를 못 했어.	Not bad. I haven’t gotten a chance to thank you yet.	
+43	海因里希	不用谢。某种意义上，应该是我谢你才对……	不用謝。 某種意義上，應該是我謝妳才對……	いえいえ、お礼など不要です。\nむしろわたくしが、貴方に感謝をするべきで……	고맙기는. 다른 의미에선 내가 고맙다고 해야지……	There’s no need. Actually, I should be the one thanking you to some degree...	
+44	海因里希	嘛，你恢复的很快嘛！现在的医疗设备真是厉害~	嘛，看起來妳恢復的很好呢！ 現在的醫療設備真是厲害～	まぁ、近代の医療設備は本当に素晴らしい……\n回復も順調そうで何よりですわ！	회복이 꽤 빠른 걸! 요즘 병원 시설이 많이 좋아졌다니까~	Anyway, you’ve recovered quite speedily! The medical technology these days really is impressive.	
+45	小怜	你的身体好些了吗？	妳的身體好些了嗎？	身体の調子はどう？	몸은 좀 괜찮아?	How are you feeling?	
+46	白烛	还不错。	還不錯。	悪くない感じですね。	응. 나쁘지 않아.	Not too bad.	
+47	白烛	小时候父亲每天都会给我安排训练，所以我的身体可能恢复得比普通人快一些。	小時候父親每天都會訓練我，所以我的身體可能恢復得比普通人快一些。	小さい頃、お父さんが毎日訓練してくれたので、\n普通の人より回復が早いのかもしれません。	난 어렸을 때부터 훈련을 받아서 일반 사람보다 회복력이 빨라. 	I had a lot of training as a kid. My body probably just... heals fast.	
+48	小怜	嗯嗯，那就好~	嗯嗯，那就好～	うんうん、なら良かったよ～～	으응，다행이다~	That’s good.	
+49	小怜	诶……好多书啊！	欸……好多書啊！	って……本が山のようにっ！	으아…책 정말 많다!	Wow, you’ve got a lot of books here!	
+50	N/A	我看向堆满书本的床头柜，完全不知该把带来探病的礼物放在哪。	我看向堆滿書本的床頭櫃，完全不知該把帶來探病的禮物放在哪裡。	お見舞い品を持ってきたけど枕元が本のタワーに\nよって占領されており、どこに置こうか悩む。	협탁에 책이 가득 쌓여 병문안 선물을 어디에 놓아야 할지 모르겠다. 	I notice the stack of books piled up all over the bedside counter. Barely any space left for me to put down the gift I brought.	
+51	N/A	而且——	而且——	それに──	게다가——	And...	
+52	N/A	和那些书相比，我送的颜文字抱枕好像太蠢了……	和那些書相比，我送的顏文字抱枕好像太蠢了……	本と比べると俺が贈ろうとしている\n顔文字抱き枕はアホっぽい……	저 책들과 비교하니，내가 들고 온 이모티콘 베개가 너무 바보같은 걸……	Compared to those books, the emoji cushion I got her just seems... childish.	
+53	白烛	我比较喜欢纸质书的触感，拜托莉琉给我送来了不少，刚好可以补一下这些年错过的知识。	我比較喜歡紙本書的觸感，所以拜託莉琉幫我找了些書，剛好可以補一下這些年錯過的知識。	私は紙の触感が好きなので、\nマリルさんに頼んで色々と届けてもらいました。\nこれなら何年間も抜け落ちていた知識の補完にも\nなりますので。	종이책의 촉감을 좋아해서 그동안 놓친 지식들도 보충할 겸 마리루에게 부탁했어. 	I like paperback books, so I asked Mariru to send me some. I’ve been out of commission for nineteen years, there’s a lot I need to catch up on.	
+54	小怜	……有什么有趣的书推荐吗？	……這樣啊，那有什麼有趣的書可以推薦嗎？	……オススメの面白い本とかある？	……뭐 추천해줄 책이 있어?	... Any books you recommend?	
+55	N/A	我一边随口搭着话，一遍四处寻觅着适合放抱枕的地方。	我一邊隨口搭著話，一遍尋找適合放抱枕的地方。	適当に相槌しながら、抱き枕を置く場所を探す。	나는 말을 하면서 베개를 놓을 적당한 위치를 찾고 있다.	I ask, as I wander around the room seeking a place to set the cushion down.	
+56	小怜	（嗯，先放在床对面的茶几上吧~）\n（趁那里还没被堆满……）	（嗯，先放在床對面的茶几上吧，）\n（趁那裡還有空位……）	（うん、向こうのサイドテーブルにしようか）\n\n（本に占領される前に……）	（음，우선 티테이블 위에 올려놓는 게 좋겠어~）\n（여기도 책이 쌓이기 전에……）	(Hm, how about on the coffee table across the bed?)\n(Before someone else starts stacking books there too...)	
+57	白烛	最近觉得比较有趣的——	最近覺得比較有趣的啊——	最近面白いと思ったものでしたら──	요즘 재밌게 읽고 있는 건——	Ah, I’ve got a few books I really like!	
+58	N/A	将抱枕上表情调整到合适位置的我，转身发现白烛正在书堆里翻着什么。	將抱枕上表情調整到合適位置的我，轉身發現白燭正在書堆裡翻著什麼。	抱き枕の表情をピッタリの位置に調整し終えた。\n\n俺が振り返ると、バイジュウは積んだ本の中から\n何かを探している様子だ。	베개 표정을 적당한 위치로 맞춘 후 고개를 돌리니 바이츄가 책더미 속에서 뭔가를 찾고 있다.	After placing the cushion in position, I turn around to see Beth rummaging excitedly through her stack of books.	
+59	N/A	她脸上洋溢着喜悦，似乎早就想找人分享了。	她臉上洋溢著喜悅，似乎早就想找人分享了。	多分ずっと誰かと話したかったのだろうか、\n彼女の顔は喜びに満ちている。	공유할 사람이 생긴 그녀의 얼굴에 즐거움이 가득하다.	Looks like she can’t wait to share her love for her books with someone!	
+60	白烛	比如这本《异质物量子相变研究》，和这个《时空非对称异场论》──	比如這本《異質物量子相變研究》，和這個《時空非對稱異場論》──	例えばこの《異質物量子相転移研究》とか\nもしくはこの《時空非対称異場論》など──	예를 들면，《이물질 양자 상변화 연구》랑 《시공 비대칭 이장론》──	For example, I really like this one called On the Phase Change of Substance H Quantum and this one called Asymmetric Metafield Theory of Time and Space—	
+61	白烛	看到人类正在用科学的方法，一点一点解析异质物的原理，真是令人振奋。	看到人類正在用科學的方法，一點一點地解析異質物的原理，真是令人振奮。	人類が科学的な方法で、異質物の原理を少しずつ\n解明しているのを見ていると心が躍ります。	인간이 과학적 방법으로 이물질이 원리를 분석하는 건 정말 흥미로워!	Isn’t it fascinating? To read about how humans analyze the principles of Substance H in a scientific way?	
+62	白烛	恩……还有这本《帕兰蒂尔收容日记》，是一部科幻恐怖小说，作者的物理学分析非常精彩。	……還有這本《帕蘭蒂爾收容日記》，是一部科幻恐怖小說，作者的物理學分析非常精采。	それと……この《パランティア収容日記》は\nSFホラー小説なのですが、\n作者の物理学に対する分析が\nとても素晴らしいものだと思いました。	음…그리고 《파란티어 수용 일기》! 공상과학 소설인데，작가의 물리학 분석이 훌륭해.	Oh, there’s also this sci-fi horror novel called Ritnalap’s Containment Diaries. The author’s understanding of physics is mind-blowing.	
+63	小怜	……	……	……………………	……	...	
+64	小怜	啊、啊哈哈哈……	啊、啊哈哈哈……	あっ、あははははぁ……	아，아하하하하……	Uh, ha... haha...	
+65	小怜	对不起！完全不能理解你的有趣点！\n左右手法则已经是我的极限了！！	對不起，我完全無法理解哪裡有趣……\n左右手定則已經是我的極限了！ ！	すみません！面白い点が全然わかりません！\n物理は右手か左手の法則がすでに俺の限界！！	미안! 네 흥미를 전혀 이해 못하겠어!\n왼손법칙과 오른손법칙 만으로도 한계야!!	Sorry, I don’t really know what you’re talking about...\nI barely remember how the right-hand rule works...	
+66	白烛	啊，我似乎有点唐突了，小怜最近在看什么书呢？	啊，我似乎有點失禮了，那小憐呢？ 最近在看什麼書？	あっ、私とした事が……\nレンさんは最近どんな本を読んでいますか？	아，내가 좀 느닷없었나. 렌은 요즘 어떤 책을 즐겨봐?	Oops, I got carried away. So Ren, what books have you been reading lately?	
+67	N/A	《主角魔女的养成办法》、《魔女的工作》之类的……	《主角魔女的養成辦法》、《魔女的工作》之類的……	《冴えない魔女の育てかた》とか……\n《ウィッチ工芸ワークス》とか……	《주인 마녀의 육성법》，《마녀의 일》 같은……?	Witchery 101... A Witch’s Purpose... stuff like that...	
+68	小怜	（不，不能说！）	（不能說！ 打死都不能說！ ）	（この流れでは……い、言えないっ！）	（마，말할 수 없어！）	(No way I can tell her that!)	
+69	小怜	一些……恩……关于“成长”方面的书。	一些……嗯……關於「成長」的書。	え、えっと……あの……\n「育成」に関する本を読んでいます。	일종의…음……“성장” 방면의 책이랄까?	Uh, I’ve been reading some books about... growth.	
+70	N/A	呜呜呜……有种智商被碾压的感觉。	嗚嗚嗚……有種智商被碾壓的感覺，學霸真是可怕啊！	ううっ……知能指数で圧倒されてる感じがする。	흑흑흑……지능 지수가 뭉개져버린 느낌이야. 	I feel so shallow...	
+71	拉斐尔	哼，笨蛋就是笨蛋。	哼，笨蛋就是笨蛋。	ふんっ、餅は餅屋でバカはバカね。	흥，역시 바보는 바보군.	Eh, as expected from an idiot.	
+72	安妮	稍微有点能理解小怜……\n物理什么的太可怕了。	小憐，放心，我懂妳！ ！\n物理學真的太可怕了。	レンちゃんの気持ちが少し分かるかも……\n物理学は恐ろしい……	렌을 조금 이해할 수 있을 것 같아…\n물리 같은 건 너무 무서워.	I understand how Ren’s feeling, though...\nPhysics is just so hard!	
+73	N/A	安妮似乎回想起了物理教导主任锋利的目光，下意识的躲在了我的身后。	安妮似乎回想起物理老師銳利的目光，下意識地躲到我的身後。	どうもアニーは鋭い目をした物理の先生を\n思い出したらしく、\n本能的に俺の後ろに隠れてしまった。	앤이 물리 선생님의 날카로운 눈빛이 생각났는지 반사적으로 나의 등 뒤에 숨는다.	Annie scoots backward and moves behind me in slight fear. Maybe Beth reminds her of her high school physics teacher.	
+74	海因里希	我最近也在研究，但相比『化学』这种去掉神秘成分只探讨可知部分的分类法──	我最近也在研究，但是和「化學」這種去掉未知成分、只探討已知部分的分類法相比──	わたくしも最近また研究に従事しておりますが、\n『科学』と言う神秘の部分を省いて\n既知の部分のみを追究する分類法より──	나도 최근 연구 중이야. 하지만 신비 영역이 제거된 『화학』은 분류법 탐구에 불과해. 	I’ve been doing some research these days too, but I don’t really like how chemistry disregards all unknown factors and focuses solely on what is known.	
+75	海因里希	我还是更喜欢『炼金』这种毫不回避人类的未知部分，只想一心追求真理的称呼~	我比較喜歡「煉金」這種毫不迴避未知的神祕，一心追求真理的稱呼～	『錬金』という未知の部分を避けずに、真理を\n求め続ける呼称の方が好ましく思いますわ。	나는 여전히 『연금』같이 미지의 영역을 탐구하는 게 좋아~ 진리의 부름을 쫓아간다고~	Alchemy is more my thing. It doesn’t shy away from what humans do not know, and devotes only to the pursuit of truth.	
+76	白烛	确实“科学”就是分科的学问，将复杂的问题拆分简化，为的是让普通人也能研究──	確實「科學」就是分科的學問，將複雜的問題拆分簡化，為的是讓普通人也能研究──	確かに『科学』とは分科の学問ですし。\n\n複雑な問題を分断する事によって簡素化し、\n一般の人でも研究できるようになりましたが──	 “과학”은 분류된 학문이야. 일반 사람들이 연구할 수 있도록 복잡한 문제를 간략화하지.	“Science” is the categorization of knowledge into subjects, simplifying complicated issues so that even the common person could study it.	
+77	白烛	但绝大多数时候，我们都是在不明白原理的情况下就先利用起来呢。	但絕大多數的時候，我們都是在不明白原理的情況下將用就用呢。	その研究の大半が、\n原理の全てを解明する前に終わります。\n結局、原理よりも利用価値の方が\n今の人々にとっては大事ですから。	하지만 절대 다수는 우리가 원리를 모르는 상황에서 우선 이용하려고 들지.	But, most of the time, aren’t we applying all kinds of principles to our daily lives without even knowing what they do?	
+78	小怜	（我还以为神秘学和科学完全搭不上界呢……）	（我還以為神祕學和科學完全搭不上邊呢……）	（神秘学と科学は……）\n\n（完全に関係ないものと思ってたなぁ……）	（신비학과 과학은 절대 어울릴 수 없다고 생각했는데……）	(Does she mean that occult studies and science are related? I didn’t know that.)	
+79	拉斐尔	（因为你自以为知道的太多了，笨蛋──）	（那是因為妳太自以為是啦，笨蛋──）	（……なんて思っているようだけど）\n\n（本当はちっとも理解してないのでしょう？）	（스스로 충분히 알고 있다고 생각하니까 그렇지. 바보──）	(You know much less than you think you do, idiot.)	
+80	N/A	等等，现在我已经能从拉斐尔嘴角挑起的弧度中读取出她想表达的内容了吗？	嗯？ 她有說話嗎？ 等等，我已經能從拉斐爾嘴角上揚的弧度讀出她的心聲了嗎？	……ちょっと待て、俺はもう口元を見るだけで\nラファエルの意志を読み取れるまでに\nレベルアップしてしまったのかっ！？	잠깐! 이제 파발라의 입꼬리 각도만 보고 심리를 읽을 수 있게 된 거야?	Wait, I can read Raphilia’s mind just by looking at the corners of her lips now?	
+81	小怜	（并、并不想要这种能力！……）	（我並不想要這種能力！ 拜託收回去！ ）	（そ、そんなスキルいらなぃ……っっ！！！）	（그，그런 능력따위 갖고 싶지 않아！……）	(That’s not a superpower I need!)	
+82	N/A	注意到我的表情，白烛轻轻一笑，收回了自己的推荐。	白燭注意到我的表情後輕輕一笑，收回了自己推薦的書籍。	俺の表情に気付いたのか、バイジュウは軽く笑い\n自分が勧めたものを下げた。	내 표정을 본 바이츄가 자신의 추천을 무른다.	Noticing the look of utter horror on my face, Beth smiles and puts her books back to the pile.	
+83	白烛	小怜是不是觉得，身边大多数事物的运作原理早已经被研究透彻了？	小憐是不是覺得，身邊大多數事物的運作原理早已被研究透徹了？	レンさんは、身近な物事の原理が\n全て解明されていると思いますか？	렌은 주위 사물의 작동 원리가 이미 연구에 의해 완벽히 밝혀졌다고 생각하지?	So, Ren, you think most of the principles in life have already been explored in scientific studies, huh?	
+84	小怜	不、不是这样的吗……	難、難道不是嗎……	ちっ、違うの……？	아，아니야…?	Uh... yeah?	
+85	N/A	看我傻乎乎的样子，白烛露出了一个狡猾的笑容。	看我傻乎乎的樣子，白燭露出了一個狡猾的笑容。	俺の呆けた様子を見て、\nバイジュウは意地悪な笑みを浮かべた。	바보같은 내 모습을 보고 바이츄가 의미심장한 미소를 짓는다. 	Beth simply smirks.	
+86	白烛	提问：为什么自行车骑起来不会倒？	那我問妳喔，為什麼腳踏車騎起來不會倒？	では質問です。なぜ自転車に乗っている時は\n転ばないのでしょうか？	질문：자전거를 탈 때 왜 넘어지지 않을까?	Okay, then riddle me this: why can we ride bikes without them falling over?	
+87	小怜	恩……因为车轴……力矩……平衡……\n什么的吧？	呃……大概是因為車軸……力矩……平衡……\n什麼有的沒的吧？	えっと、車軸……トルク……バランス……\n……とかですかね？	음……자축……모멘트……평형……때문에?	Uh... because of the axle... torque... balance...\nSomething like that?	
+88	N/A	我胡乱的扯着觉得可能有关的专业名词，但这么简单的问题，肯定一百年前就被研究明白了吧？	我胡扯著內心覺得可能有關的專業名詞，但這麼簡單的問題，一定一百年前就被研究透徹了吧？	関連しそうな専門用語をとりあえず列挙した。\n\nでもこんな身近な話なら、100年前ぐらいには\n研究され尽くして解明されているんじゃ？	알고 있는 전문용어를 얼버부렸지만 이런 간단한 문제는 백년 전에 이미 밝혀지지 않았을까?	I throw out random jargon that I think might be the answer. But... this question sounds so... basic. I bet someone’s already done research on it decades ago, right?	
+89	N/A	白烛、拉斐尔和视频中的海因里希看着我，不约而同的笑了起来。	白燭、拉斐爾和視訊中的海因里希看著我，不約而同地笑了起來。	バイジュウとラファエル、映像のハインリッヒが\n俺の言葉を聞き一斉に笑い始めた。	바이츄，라파엘 그리고 스크린 속의 하인리히가 약속이나 한 듯 웃기 시작한다.	Beth, Raphilia and even Henriette from inside the screen all burst out laughing at my answer.	
+90	N/A	有一种被大佬围观的感觉……	有一種被高手圍觀的感覺……	なんか見世物にされている感じ……	두목에게 관찰당하는 느낌이다…	I feel like a zoo animal being ogled at...	
+91	白烛	在我上大学的时候，这就是科学界一直悬而未决的问题，《Science》上还有一篇论文讨论过。	我上大學的時候，這就是科學界一直懸而未決的問題，《Science》上還有一篇論文討論過。	私が大学に入った時は、この問題は科学界で\n未解決の懸案事項でした。\n《Science》にも関連論文が載っていましたね。	내가 대학에 있을 때 과학계도 밝혀내지 못한 문제야. 《Science》의 논문에도 다룬 적 있어.	This was in fact a question that no one’s ever been able to answer since back when I was in college. It’s been discussed in the Science magazine once too.	
+92	拉斐尔	直到今天也没有被科学界完全认可的解释。	直到今天，也還沒有科學界完全認可的解釋唷。	そして未だ、科学界公認となった説明はないわ。	지금까지 과학계에서 인정할만 한 해석이 없어. 	Even today, there is still no widely accepted explanation in the field.	
+93	安妮	自行车这么简单的东西……都没研究明白吗？	腳踏車欸！ 這麼簡單的東西……都沒研究出來嗎？	自転車なんて簡単そうな感じがするけど……\n研究しても分からないの？	자전거 같이 간단한 것도……연구로 밝혀내지 못한 거야?	So... even something as common as bikes... no one knows how they really work?	
+94	N/A	我也有点懵，她们不会在联手骗我吧。	我不太懂，她們該不會聯手騙我吧。	信じられない。\nまさかグルになって俺を騙そうとしてるのか？	조금 얼떨떨해진다. 다 같이 손을 잡고 날 속이는 건가…?	I’m a bit confounded. They must be kidding, right?	
+95	白烛	所以呢……不用那么害怕的。	所以呢，妳們其實不用那麼害怕。	もう……そんなに頭を抱えないでください。\n別に知らなくても、悪い事ではありませんから。	그러니까……그렇게 겁낼 필요 없어.	So... there’s no need to be so afraid.	
+96	白烛	在科学家看来，我们每天的日常，都是万亿分之一概率的奇迹。	在科學家看來，即便是如此普通的日常，都是億萬分之一概率的奇蹟呢。	科学者からすれば、そう言った自転車の事象とか\nただの日常すらも何兆分の1の奇跡なのです。	과학자의 입장에서 우리의 일상은 만억 분의 일 확률의 기적이니까. 	To scientists, our everyday lives are in fact one-in-a-trillion miracles.	
+97	海因里希	确实，昨天我一口气补完了关于分子机器和热能驱动的知识。	確實，昨天我一口氣補完了關於奈米機器和熱能驅動的知識。	確かに……わたくしは昨日、分子機械と熱駆動の\n知識を一手に補完しましたが。	어제 내가 분자 기기와 열에너지 가동에 대한 지식을 한 번에 보완하긴 했지.	Yeah. I managed to catch up on all the newest developments concerning molecular machines and thermal drive yesterday.	
+98	海因里希	世界上居然曾经存在着一群和我的思路如此一致的家伙……真是不可思议。	世界上居然有著一群和我的思路如此一致的傢伙……真是不可思議。	この世界にわたくしの思考と同じ事を考えた人が\n歴史を超えて存在する……本当に不思議ですわ。	세상에 나의 사고와 일치하는 사람이 존재하다니……정말 불가사의해.	It’s heartwarming to know that I’m not the only one in the world who thinks about these things.	
+99	拉斐尔	生物学中也有这种状况呢，虽然不知道一段基因的具体原理，但只要它的表达能对抗『黑缕病』──	生物學中也有這種狀況呢，雖然不知道某段基因的具體原理，但只要它能對抗「黑縷病」──	生物学だって同じよ。\n遺伝子の具体的な原理は未だ解明に至ってないが\n目下に欲しいのは完全なる理解よりも\n『黒糸病』の対策だから──	생물학도 마찬가지야. 유전자의 구체적인 원리는 모르지만，그 생김새만으로 『흑사병』에 대항할 수 있어.	It’s something that occurs in biology too. Though we don’t know exactly just why genes are the way they are, as long as the expression enables them to fight the Black Plague for plants—	
+100	N/A	拉斐尔望着窗外繁荣的新丰洲市区。	拉斐爾望著窗外繁榮的新豐洲市區。	ラファエルは窓の外、賑わっている新豊洲の\n市街地を眺める。	파비올라가 창밖의 화려한 신토요스 도시를 바라본다. 	Raphilia glances outside at the thriving downtown New Opulentia.	
+101	拉斐尔	就能保证足够的粮食产量，让这个世界继续运转下去……	就能夠有足夠的糧食產量，讓這個世界繼續運轉下去……	食料生産の保証や人々の生活の維持が、\n最優先であるのは分かっているけど……	충분한 식량 생산량만 있다면 이 세계가 계속해서 돌아갈텐데…	—It would ensure that there is enough food production to keep the world going...	
+102	N/A	白烛似乎看出了拉斐尔的担心。	白燭似乎看出了拉斐爾的憂心。	バイジュウはラファエルの考えている懸念を\n分かっているようだ。	바이츄가 파비올라의 걱정을 읽은 듯 하다.	Beth seems to understand Raphilia’s concern.	
+103	白烛	就算不明白运作原理，也可以成为“机器”最重要组成部分，关键是设计机器的灵魂。	就算不明白運作原理，也可以成為「機器」最重要的組成部分，關鍵在於設計者的靈魂。	たとえ原理が分からなくても「機械」の核となる\n構成パーツにはなります。\n大切な事は『機械の魂』を設計するという事。	운영의 원리를 몰라도 기계의 중요한 부분이 될 수 있어. 중요한 건 기계의 영혼을 설계하는 거야. 	Even if a machine’s designer doesn’t know the principles behind it, they can still create major components as long as they put their heart and soul in it.	
+104	安妮	机器……灵魂？	靈魂？	機械の……魂？	기계…영혼?	Machine... soul...?	
+105	白烛	小到病毒、大到国家城市、其实都是按照某种规则设计运转的机器。	小至病毒、大到國家城市、其實都是按照某種規則設計的機器。	例えば都市や国、小さなウイルスまでも、\nいわば特定の規則に従って運転している\n『機械』と考えられます。	바이러스만큼 작고，도시보다 큰，사실 모두 일종의 규칙에 의해 설계된 기계야. 	Viruses, cities, nations... in fact, they’re all machines that are designed and run following certain principles.	
+106	白烛	虽然机器本身是中立无感情的，但我始终认为，可以从机器的形态，看到设计者的灵魂。	雖然機器本身是毫無感情的，但我始終認為，可以從機器的形態中感受到設計者的靈魂。	機械自体は中立で無感情ですが、その形質には\n想いが込められていて\n必ず設計者の魂を映し出す……\n私はずっとそう信じています。	기계는 감정이 없지만，난 기계의 형태에서 설계자의 영혼을 볼 수 있다고 생각해.	Though the machines themselves are neutral, emotionless, I believe we can still catch a glimpse of the designer’s soul from the machines.	
+107	N/A	拉菲尔微微点了点头，露出一个欣慰的笑容。	拉菲爾微微點了點頭，露出一個欣慰的笑容。	ラファエルは軽く頷いて、嬉しそうな笑顔を\n浮かべた。	라파엘이 작게 고개를 끄덕이고 안심의 미소를 짓는다.	Raphilia nods and smiles, as if gratified.	
+108	海因里希	我喜欢这个想法──	我喜歡這個想法──	その考え方、わたくしは好ましく思いますわ──	그 생각 맘에 든다.	I like your point of view.	
+109	海因里希	从这个意义上来说……无论是人类，还是更高位的存在，灵魂都是对等的。	從這個意義上來說，無論是人類或是更高位的存在，靈魂都是平等的。	その考え方を更に紐解けば……\n\n人類のみならず、より高位な存在ですら\n魂は対等ということですもの。	그런 의미에서 보면…인간이든 더 높은 존재든，영혼은 모두 동등해. 	It means that humans, animals, machines, other existences above us... our souls are all equal.	
+110	N/A	听着她们三人似懂非懂的对话，我和安妮安静的坐在沙发上。	聽著她們三人的對話，我和安妮似懂非懂地安靜坐在沙發上。	3人の分かるようで分からない会話を聞きつつ、\n俺とアニーは静かにソファーに座った。	세 사람의 알 듯 말 듯한 대화를 들으며 나와 앤은 조용히 소파 위에 앉았다. 	Annie and I sit on the sofa, remaining silent as we listen to the other three discuss a subject we don’t know the least thing about.	
+111	N/A	白烛看着我们，轻轻笑了起来。	白燭看著我們，輕輕笑了起來。	バイジュウは俺達を見て、ふと笑顔になった。	바이츄가 우리를 보고 조용히 웃는다.	Beth peers at us and smiles softly.	
+112	小怜	怎么了吗？	怎麼了嗎？	どうしたの？	왜 그래?	Is something the matter?	
+113	白烛	没什么……	沒什麼……	何でもありません……	아무 것도 아니야…	No...	
+114	N/A	少女顿了顿，似乎在回忆过去。	少女頓了頓，似乎在回憶過去。	少女はゆっくりと、昔を思い出しているようだ。	소녀가 예전 기억이 떠오른 듯 머뭇거린다.	The girl pauses, a faraway look in her eyes.	
+115	白烛	只是看着你们天真的样子，我会忍不住想起──	只是看著妳們這麼天真的樣子，我就會忍不住想起──	あなた達の無邪気な姿を見ていると、\n不意に思い出してしまいました。	너희들의 밝은 모습을 보니 누가 좀 생각나서…	It’s just that, seeing you girls with your innocent, fresh faces...	
+116	白烛	我也有过这样无忧无虑的日子呢……	我也曾經有過這種無憂無慮的日子呢……	私にもこんな煩いも心配もない日が、\n存在した事を……	나도 너희들처럼 아무런 걱정 없는 날이 있었는데……	It reminds me of how carefree I used to be...	
+117	小怜	诶？这……	欸？ 這個……	えっ？　それって……	앗？아……	Uh...	
+118	N/A	糟糕，我最棘手的场景——安慰突然陷入回忆的少女。	大危機！ 我最棘手的場景——安慰突然陷入回憶的少女──出現了！	ヤバい。俺の最も苦手なシチュエーション\n「思い出にふける少女を慰める」が来た。	이런，갑자기 추억에 빠진 소녀를 위로하는 건 내가 가장 못하는 건데.	Oh, no. This is the worst situation I could imagine. I’m hopeless at comforting sentimental girls.	
+119	拉斐尔	倒不如直说，这家伙是缺乏思考能力只会耍小聪明的笨蛋。	倒不如說，這傢伙是缺乏思考能力只會耍小聰明的笨蛋。	思考能力がおサルさんレベルの相手は\n頭を使わずに済みますって、\nこいつになら直接言っても構わないわよ。	이 녀석은 사고 능력이 부족해서 잔꾀만 쓰는 바보라서 그래.	Innocent? You could just say that this idiot is brainless and relies mainly on cheats to get through life.	
+120	小怜	……是这个意思吗？	……呃，是這樣嗎？	……え、マジでそういう意味だったり？	……그 뜻이였어?	... Right?	
+121	N/A	白烛摇了摇头，非常诚恳的说道。	白燭搖了搖頭，非常誠懇地說道。	バイジュウは頭を横に振って、\nとても誠実に告げる。	바이츄가 고개를 젓고 진심으로 얘기한다.	Beth shakes her head. When she speaks again, she sounds sincere.	
+122	白烛	我是真心的羡慕你们啦。	我是發自內心的羡慕妳們喔。	私は本当にあなた達が羨ましいのです。	난 정말 너희들이 부러워.	Come on, I was honestly praising you girls. I kind of envy you, in fact.	
+123	安妮	嗯~	嗯～	う～～ん。	응~	Mm...	
+124	安妮	能相信一些简单的东西……感觉也不错呢。	能相信一些簡單的東西……感覺也挺不錯的呢。	シンプルなものを信じる事ができる……\n割といいかもね。	작은 것을 믿을 수 있다는 건……꽤 좋아.	Isn’t it nice, to still be able to believe in the simple things in life?	
+125	N/A	安妮看了看我，又对着白烛露出一个灿烂的笑容。	安妮看了看我，又對著白燭露出一個燦爛的笑容。	アニーはそんな事を言って俺を見た後、\nバイジュウにまぶしい笑顔を見せた。	앤이 날 쳐다본 후 바이츄를 향해 밝은 미소를 짓는다. 	Annie glances at me, and flashes a bright smile at Beth.	
+126	N/A	然后海因里希抓住机会和白烛聊了半天很具体的学术问题，拉斐尔也时不时的参与其中。	然後海因里希把握機會和白燭聊了半天具體的學術問題，拉斐爾也不時加入討論。	そこから、ハインリッヒとバイジュウは\n非常に難しい学術的話題を交わし、\n隣にいるラファエルも時々参加していた。	하인리히는 바이츄와 하루종일 학술 얘기를 나눴고 라파엘도 가끔 대화에 참여했다. 	Henriette takes the opportunity to bring up some very specific academic questions. It soon turns into a full-blown debate with Beth, with Raphilia pitching in now and then.	
+127	N/A	三人的词汇完全超越了我和安妮的常用辞典范围。	三人所使用的詞彙完全超越了我和安妮的常用辭典範圍。	3人が使っている言葉は、もはや俺とアニーの\n日常会話の範囲を完全に超えている。	세 사람의 어휘는 나와 앤의 지식 범위를 완전히 초월했다. 	The terms they use are way beyond my vocabulary and Annie’s.	
+128	N/A	而更令我无法相信的是，她们可以轻松的将科学和神学放在一起探讨。	更令我無法相信的是，她們可以輕鬆地將科學和神學放在一起探討。	特に信じがたいのは、彼らは科学と神学を\n気軽に混在させつつ討論するのだ。	게다가 더 믿기 어려운 것은 그들이 과학과 신학을 함께 토론하고 있다는 것이다.	What’s even crazier to me is that they’re discussing science and theology together, like they were the same thing.	
+129	N/A	某处的教宗大人听到这样的对话可能会喷血吧。	某處的教宗大人聽到這樣的對話可能會吐血吧。	どこかの教皇様とかが聞いていたら\n多分、血を噴いて倒れるかもしれない。	교황님이 그들의 대화를 듣는다면 피를 뿜을 것이다. 	If the Pope heard about this, he’d probably cry.	
+130	小怜	我现在……真心觉得自己像个笨蛋诶……	安妮，我第一次……真心覺得自己像個笨蛋欸……	俺は今……\n自分がバカだという事を痛いほど感じている。	나 지금……진짜 바보가 된 느낌이야……	I really feel like an idiot right now...	
+131	安妮	……同感。	……我也一樣。	……右に同じ。	……동감이야	... Same.	
+132	小怜	为什么一个物理学家、一个神秘学的炼金术士和一个把生物学和神学掺和到一起的家伙。	為什麼一個物理學家、一個神祕學的煉金術士和一個把生物學和神學攪和在一起的傢伙……	物理学の専門家と、神秘学の錬金術士と、\n生物学と神学を混ぜたハイブリット人間とが、\nそれぞれ話したとして……	물리학자，신비학의 연금술사 그리고 생물학과 신학을 함께 다루는 녀석이	Why are a physicist, an alchemist who specializes in the arcane and some random girl who mixes up biology and theology—	
+133	小怜	能聊得那么火热啊……	能聊得那麼火熱啊……	なんであんなに盛り上がっているのだろう……	어떻게 즐겁게 대화할 수 있을까……	—chatting like great friends?	
+134	安妮	……大概她们三个能聚在一起，从某种意义上来说就已经很不科学了吧？	不知道，但是這三個人能聚在一起，某個層面來說就已經很不科學了吧？ ！	……多分彼女3人が集まっている事自体が、\n非科学的な現象の1つなのじゃないかな？	……세 사람이 함께 모인 것도 어떤 의미에선 이미 비과학적라고 할 수 있지.	... Actually, the fact that the three of them are even here, together, is already a scientific miracle...	
+135	小怜	是哦……	對啊！	それね……	그러네…	You think so?	
+136	N/A	可我们不也是──	不過，我們不也是──	だけど、よくよく考えたら俺達も────	하지만 우리 역시──	But, in fact, we ourselves...	
+137	N/A	不科学的存在吗？	不科學的存在嗎？	非科学的な存在じゃないか？　アニー？	비과학적인 존재가 아닐까?	We’re scientific miracles ourselves too, aren’t we?	

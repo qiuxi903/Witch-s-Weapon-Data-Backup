@@ -1,0 +1,95 @@
+﻿1	N/A@白烛	阿嚏……	哈啾……	くしゅん……っ！	에취……	Ah-choo…	
+2	N/A	独自趴在桌前昏昏欲睡的少女打了个喷嚏，一下子清醒过来。	獨自趴在桌前昏昏欲睡的少女打了個噴嚏，一下子清醒過來。	机の前で1人、ウトウトとうつ伏せの少女は\nくしゃみによって目を覚ました。	혼자 테이블에 엎드려 잠을 자던 소녀가 재채기를 한다. 순식간에 잠이 깬다. 	Resting her head on the desk, the girl could have dozed off had it not been for this sneeze.	
+3	N/A	潜艇所处的海域内正处于极夜后期，仅凭天色无法分辨出时间。	潛艇所在的海域正處於永夜後期，僅憑天色無法分辨出時間。	潜水艦が渡航している海域は極夜であるため、\n空模様からは時間を判別できない。	잠수함이 위치한 해역은 마침 극야 후기였기 때문에，하늘의 색으로는 시간을 분별할 수 없다.	Outside the submarine window is the polar night, and she can't tell the time by the color of the sky.	
+4	N/A	看了看屏幕上的信息，白烛才意识到，距离她在深海见到那个怪物，仅仅过去几个小时。	看了看螢幕上的訊息，白燭才意識到，距離她在深海見到那個怪物，僅僅過了幾個小時。	モニターの情報を確認して、バイジュウは\nようやく気付いた。\n深海であの巨大な怪物と会ってから、\nまだわずか数時間しか経ってない事に。	바이츄는 스크린을 보고서야 심해에서 괴물을 보았던 때로부터 몇 시간밖에 지나지 않았음을 깨달았다.	Beth looks at the screen and realizes it's only a few hours after her encounter with the deep-sea monster.	
+5	白烛	……这样，真的好吗？	……這樣，真的好嗎？	……本当に、これでいいのでしょうか？	……정말 이래도 되는 걸까?	… Am I doing the right thing?	
+6	白烛	（为了寻找真相……而利用她）	（為了尋找真相……而利用她。 ）	（真相を探るために……）\n\n（あの子を利用するなんて……）	（진상을 찾기 위해……그녀를 이용했다.）	(Using her to find the truth for myself…)	
+7	N/A	少女不自觉地望向手中摊开的笔记本。	少女不自覺地望向手中攤開的筆記本。	少女は思わず、広げたノートに目を向けた。	소녀는 자신도 모르게 손에 펼쳐진 노트를 바라봤다.	Without noticing, Beth takes a glance at the notebook in her hand.	
+8	白烛	（如果是父亲的话……）	（如果是父親的話……）	（お父さんでしたら……）	（만약 아버지라면…）	(If father were here…)	
+9	N/A	——如果是那个男人的话，根本不会为了这种情感而动摇吧。	——如果是那個男人的話，根本不會為了這種情感而動搖吧。	──あの人でしたら、\nこんな感情で動揺する事なんてないでしょう。	——만약 그 남자였다면 이런 감정 때문에 동요하지 않았겠지.	—He would never waver because of such kind of emotions.	
+10	N/A	回想起父亲宽厚的手掌，少女渐渐握紧了拳头。	回想起父親寬厚的手掌，少女漸漸握緊了拳頭。	父の厚い手を思い出し、少女は拳を握りしめた。	아버지의 넓은 손바닥을 생각하며 주먹을 꽉 쥐었다.	Thinking of her father's strong hands, Beth slowly clenches her fist.	
+11	N/A	这本记录了大量晦涩难懂文字的笔记，原本属于她的养父。	這本記錄了大量艱深文字的筆記，原本屬於她的養父。	難解な文字列が大量に記されたこのノートは、\n元々は彼女の養父の物だ。	난해한 문자들이 잔뜩 기록된 이 노트는 원래 그녀의 양아버지 것이였다.	The notebook, full of obscure texts, once belonged to her adoptive father.	
+12	N/A	那是一个身材高大、沉默而认真的生物学家，无论对自己还是对白烛都很严格。	他是個身材高大、沉默而認真的生物學家，無論對自己還是對白燭都很嚴格。	彼は背が高く、寡黙で真面目な生物学者だった。\n\n自分自身に対しても、バイジュウに対しても\n彼はとても厳しかった。	큰 키，조용하고 진지한 성격의 생물학자는 자기 자신과 바이츄 둘 다에게 엄격했다.	He was a tall, silent and devoted biologist who was strict with both Beth and himself.	
+13	N/A	由于白烛特异的体质，父亲从小就要求她在学习之余还要进行严格的训练。	由於白燭體質特殊，父親從小就要求她在學習之餘還得接受嚴格的訓練。	特異体質を持っていたバイジュウは、幼い頃から\n勉強の他にも厳しい訓練が課せられていた。	바이츄의 특이 체질 때문에 아버지는 그녀를 엄격하게 훈련시켰다.	Because of Beth's special ability, he arranged rigorous trainings for her apart from her schoolwork.	
+14	N/A	少女还记得，小时候为了达到父亲所设定的目标，自己每天都要拼命努力。	少女還記得，小時候為了達到父親所設定的目標，自己每天都拼了命努力練習。	父が設定した目標を達成するため\n毎日一生懸命ずっと頑張っていた日々を、\n彼女は未だに覚えている。	소녀는 아버지의 기대에 부흥하기 위해 매일 죽도록 노력했던 어린 시절을 기억했다. 	Beth remembers that she had to work extra hard every day to reach the goals set by her father.	
+15	N/A	而她最期待的，就是父亲偶尔卸下严肃的表情，对自己露出认同的微笑。	而她最期待的，就是父親偶爾卸下嚴肅的表情，對自己露出認同的微笑。	厳しい訓練を頑張っていた理由は、誉める時に\n見せてくれる父の笑顔が嬉しかったから……	그녀가 바라던 것은 가끔 아버지가 보여주던 인정의 미소였다.	What she expected most was the occasional smile of recognition on his serious face.	
+16	N/A	或许没有太多温情，但这个寡言少语的男人一直在默默的训练并保护着她……	或許沒有太多溫情，但這個沉默寡言的男人一直默默地訓練並保護著她……	あまり暖かい家庭の話ではないが、寡黙な男は\n粛々と彼女に訓練を行い、見守り続けてきた。	그다지 큰 온정은 없었더라도 그 말없는 남자는 묵묵히 그녀를 훈련시키고 지켜왔었다.	Without much tenderness, the reserved man had been protecting her in his own way…	
+17	N/A	──就像是在为某种必定到来的命运做着准备。	──就像是在為了某種必定到來的命運做好準備。	──いつか必ず来るであろう、\n運命に備えるかのように。	──마치 언젠가 맞닥들일 운명에 대비하는 것처럼.	—As if preparing her for some inescapable fate…	
+18	N/A	在白烛十二岁生日那天，她收到了装有这本笔记的匿名包裹──以及自己父亲的死讯。	在白燭十二歲生日那天，她收到了裝有這本筆記的匿名包裹──以及自己父親的死訊。	バイジュウが12歳の誕生日を迎えた時、\nこのノートが入っていた匿名の小包と\n父の死の知らせを受けた。	바이츄의 12살 생일날，이 노트가 담긴 익명의 소포를 받았다. 아버지의 비보와 함께.	On her 12th birthday, Beth received an anonymous package. Inside it was this notebook—and the news of her father's death.	
+19	N/A	一次城区内的瓦斯爆炸，让少女唯一的亲人与另外三十多个生命瞬间消逝。	一次市區內的瓦斯爆炸，讓少女唯一的親人與另外三十多條生命瞬間消逝。	市街地内のガス爆発によって、この少女の唯一の\n家族は30人以上の命と共に失われたのだ。	성 안의 가스 폭팔이 소녀의 유일한 가족과 다른 세 사람의 생명을 순식간에 앗아갔다. 	A gas explosion killed more than 30 people, including Beth's only remaining family member in the world.	
+20	白烛	……。	……。	…………	……	…	
+21	N/A	少女嘴唇微张，无声的念出那个名字。	少女嘴唇微張，無聲地念出那個名字。	少女は唇を微かに動かし、声を出さずに\nその名前を呼んだ。	소녀는 입을 살짝 벌리고 소리없이 그 이름을 읽었다.	Lips trembling, Beth mouths a silent name.	
+22	N/A	那名字背后的线索让她意识到，父亲的死绝非官方定性的意外事故。	那名字背後的線索讓她意識到，父親的死絕非官方認定的意外事故。	その名に隠された手がかりが、\n彼女を揺り動かす。\n父の死は決して世間が思うような\n不慮の事故ではない。	그 이름 뒤 단서로 아버지가 의외의 사고로 죽은 것이 아니라는 걸 알았다.	The clues behind this name made her realize that her father's death was not an accident as officially reported.	
+23	N/A	只身一人的小女孩必须擦干泪水快速成长起来，以躲避不知何时降临的危险。	隻身一人的小女孩必須擦乾淚水並快快長大，以躲避不知何時降臨的危險。	いつ来るか分からない危険を避けるため\nたった1人となった少女は涙を拭き、\n早く成長しなければならなかった。	언제 닥칠지 모를 위험을 피하기 위해 혼자가 된 소녀는 빨리 성장해야만 했다.	The lonely girl had to dry her tears and grow up quickly to survive the unknown dangers.	
+24	N/A	——父亲笔记中留下的信息表明，拥有特殊能力的白烛，一定会成为那群家伙的目标。	——父親筆記中留下的訊息表示，擁有特殊能力的白燭，一定會成為那群傢伙的目標。	──父がノートに残したメッセージ\n\n「特殊能力を持っているバイジュウは………」\n「必ずあの連中の標的になる」	——아버지의 노트에는 특수 능력을 보유한 바이츄가 그들의 표적이 될 것이라고 적혀 있다.	—Her father said in the notebook that her special ability would expose her to danger and make her the target of the gang.	
+25	N/A	而如果这个包裹被寄出，就说明自己无法继续保护她了……	如果這個包裹被寄出，就代表自己無法繼續保護她了……	小包がバイジュウに届いたという事は、\n\n父がもうバイジュウを守る事が\nできなくなってしまったという意味であった……	그리고 이 소포가 배달된다면 더 이상 그녀를 보호할 수 없을 것이라고……	The package would only be sent out when he could no longer protect her…	
+26	白烛	（人们就这么在意……这种能力吗……）	（人們就這麼在意……這種能力嗎……）	（そんなに特別なものでしょうか、この能力…）	（사람들은 이 능력을 그렇게나 신경쓰는 걸까…?）	(Why would people crave for… such kind of ability…)	
+27	白烛	（这，难道不是诅咒吗……）	（這，難道不是詛咒嗎……）	（これは、呪いではないのでしょうか……）	（설마 이건 저주가 아닐까……?）	(Isn't this more of a curse…)	
+28	N/A	白烛看了看自己的手心，几个银色的小光团在她的指缝间跳动。	白燭看了看自己的手心，幾個銀色的小光團在她的指縫間跳動。	バイジュウは自分の手のひらを見た。\n\n銀色の光の粒子が、彼女の指の間で動いている。	바이츄가 자신의 손바닥을 바라본다. 은색의 빛들이 손가락 사이에서 움직이고 있다.	Beth looks at her palm. Several balls of silver lights are bouncing over her fingers.	
+29	N/A	自从有记忆起，白烛就知道自己是不同的──但并非由于她的异常体质。	自從有記憶起，白燭就知道自己與眾不同──但並非因為她的異常體質。	物心付いた時から、自分が他人と違うのを\nバイジュウは知っていた──\n特異体質になった原因は、本人にも分からない。	바이츄는 기억이 있던 순간부터 자신이 다르다는 걸 알았다. 그녀의 이상 체질 때문만은 아니였다.	Beth knows she is different ever since she could remember things—but not because of her special ability.	
+30	N/A	她从小就对数字有过目不忘的能力，心算速度远超常人，同时对机械也有浓厚的兴趣。	她從小就對數字過目不忘，心算速度遠遠超乎常人，同時對機械也有濃厚的興趣。	幼い頃から数字に対する完全記憶能力と\n超人的な暗算速度を会得していた。\nまた、機械に対しても並々ならぬ興味があった。	어렸을 때부터 숫자를 잊지 않는 능력，남다른 암산 능력，기계에 농후한 취미까지	She has an eidetic memory for numbers even as a child. She can do mental math much faster than others and is keenly interested in machinery.	
+31	N/A	但由于身体的原因，父亲要求她必须保持收敛，时刻伪装成一个“普通人”。	由於這些特殊能力，父親從小就要求她必須低調收斂，並且偽裝成一個「普通人」。	しかし体質を理由に、父は抑制を求める。\n常に「普通の人」のように振舞いなさいと。	신체상의 이유로 아버지는 늘 그녀에게 "일반인"으로 위장할 것을 요구했다.	But her father asked her to keep a low profile and act as an ordinary kid so as to cover up her special ability.	
+32	N/A	父亲死后，白烛决定不再隐藏自己。	自從父親死後，白燭決定不再隱藏自己。	父が亡くなった後、\nバイジュウは自分を隠す事をやめた。	아버지가 죽은 후 바이츄는 더 이상 자신을 숨기지 않기로 결심했다.	After he died, Beth decided not to hide herself anymore.	
+33	N/A	一年后，她成为一所历史悠久大学多年来首次破例特招的新生。	一年後，她成為一所歷史悠久的大學多年來首次破例特招的新生。	1年後……とある名門大学が史上初の特例で、\n彼女を新入生として招き入れた。	1년 후 그녀는 역사가 유구한 대학의 전례를 깨트린 신입생이 되었다. 	A year later, she was admitted to a prestigious university under special permission, an exception made for the first time in years.	
+34	N/A	但就算沉入书海，却依旧没有一本书或一门课能够解答她心中的疑问。	但就算埋首書堆，依舊沒有任何書本或課程能解答她心中的疑問。	しかし、いくら本の海に沈んでも\n彼女の心底に隠された疑問に答えてくれた本や\n授業は1つもなかった。	하지만 어떤 책도，그 어떤 수업도 그녀의 마음 속 의문을 풀 수 없었다.	She studied hard and read a lot, but couldn't find the answer in either books or classes.	
+35	白烛	（为什么，我是“不一样”的……）	（為什麼，我是「不一樣」的……）	（なぜ、私は「違う」のでしょう……）	（왜，나는 “다를까”……）	(Why am I different…)	
+36	N/A	少女不断的思考和学习，好像要一口气把压抑多年的好奇心都释放出来。	少女不斷地思考和學習，好像要把壓抑多年的好奇心一口氣全釋放出來。	少女は思考と勉学に励み続けた。\n\n今まで抑えていた好奇心を\nまるで一気に吐き出すかのように。	소녀는 끊임없이 사고하고 학습했다. 마치 수 년 간 억눌러 왔던 호기심을 해방하는 것처럼. 	She kept learning and thinking, as if trying to satisfy her long-suppressed curiosity all at once.	
+37	N/A	她没有意识到，这样的自己会被贴上“高傲”“冷淡”和“难相处”的标签。	她沒有意識到，這樣的自己會被貼上「高傲」、「冷淡」和「難相處」的標籤。	たとえ自分が\n「高慢」「冷淡」「付き合いづらい」\nと他人からレッテルを貼られても、\n彼女は特に意識しなかった。	그녀는 이런 자신에게 "거만，냉담，다가가기 어려운"이라는 꼬리표가 붙을 줄은 몰랐다.	She didn't realize that she was thus labeled as arrogant, indifferent and unapproachable.	
+38	N/A	虽然渐渐被孤立，但她并不在意。	雖然漸漸被孤立，但她並不在意。	もちろん徐々に孤立していったが、\nそんな事を彼女は気にも留めなかった。	그녀는 천천히 고립되어 갔지만 전혀 신경쓰지 않았다. 	Gradually, people turned their back on her, but she didn't care.	
+39	白烛	（不然，我也不会遇见你……）	（不然，我也不會遇見你……）	（そうでなければ……）\n\n（あなたに出会う事はありませんでした……）	（그렇지 않았다면 널 만나지 못했겠지……）	(Otherwise, I wouldn't have met you…)	
+40	N/A	思仪，她在一场意外中结识的好友。	思儀，她在一場意外中結識的好友。	ミルク……\n思いがけない経緯で知り合い、親友となった人。	시어，한 차례 소동으로 사귀게 된 내 친구.	She met Silvia in an accident.	
+41	N/A	仅用了几分钟，白烛就推理出对方是伪装成学生来调查校园内非法异质物研究的调查员。	只花了幾分鐘，白燭就推理出對方是偽裝成學生進入校園調查非法異質物研究的調查員。	出会って数分足らずでバイジュウは推理できた。\n\nこの人は生徒を装い、キャンパス内の違法な\n異質物研究を調べにきた調査員だと。	바이츄는 몇 분만에 상대가 학생으로 위장해 교내 불법이물질을 조사하러 온 조사원이라는 것을 알아챘다.	It took Beth just minutes to figure out that Silvia was an investigator disguised as a student. Her mission was to search for illegal Substance H on campus.	
+42	N/A	明知对方可能从名字到经历全是伪造的，自己却被她那种大大咧咧的性格所吸引。	明知對方可能從名字到經歷全是偽造的，卻被她那種大剌剌的性格所吸引。	相手は名前から経歴まで、\n全てを偽装していると分かっているのに\nその大らかな性格に惹かれてしまった。	이름부터 이력까지 모든 것이 위조된 사람이였지만 그녀의 활발한 성격에 빨려들었다.	She knew that Silvia's name and experiences could all be fake, but was still attracted by her careless and cheerful personality.	
+43	白烛	（她是……“不一样”的。）	（她是……「不一樣」的。 ）	（彼女は……「違う」）	（그녀는……“달라”）	(She is… different.)	
+44	N/A	比任何人更加理解自己……	比任何人更加瞭解自己……	誰より自分の事を理解してくれている……	누구보다 자신을 잘 알고 있다……	She knows me better than anyone else…	
+45	白烛	（明明就是习惯了伪装的家伙……）	（明明就是習慣了偽裝的傢伙……）	（偽る事に、慣れている人なのに……）	（위장이 습관이 된 녀석이니까……）	(Although she is used to disguising herself to others…)	
+46	N/A	却毫无保留的对自己敞开了心扉。	卻毫無保留地對自己敞開了心扉。	むしろ遠慮をする事なく、\n自分に対して心を開いてくれた。	망설임 없이 자신에게 마음의 문을 활짝 열었다.	She has truly opened her heart to me without any reservation.	
+47	N/A	只是她们俩都未曾料到，私下里的交往，会引起牛奶身后组织的注意。	只是，她們倆都沒料到，單純的私下來往會引起牛奶背後組織的注意。	だが、プライベートな付き合いが\nミルクの背後にいる組織の注意を引いてしまう\n結果になってしまうとは……	하지만 그 둘은 그들의 개인적인 교류가 밀크가 속한 조직의 주의를 끌게 될 것이라곤 생각지 못했다.	But neither of them had expected that their friendship would cause the attention of the organization behind Milk.	
+48	N/A	得知白烛是那位生物学家的养女，牛奶的上级很快向她发出了南极深海考察项目的邀请。	牛奶的上級得知白燭是那位生物學家的養女後，很快就向她提出南極深海考察專案的邀請。	「バイジュウがあの生物学者の養女である」\n\nと知ったミルクの上司はすぐさま彼女を\n南極深海視察プロジェクトに誘った。	바이츄가 그 생물학자의 양녀라는 걸 알고 밀크의 상사는 곧바로 그녀를 남극심해 조사요원으로 요청했다.	Knowing she was the adoptive daughter of the famous biologist, Milk's boss invited her to join the Antarctic mission.	
+49	N/A@白烛	（本来是打算拒绝的……）	（本來是打算拒絕的……）	（本当は、断るつもりたったのに……）	（원래는 거절할 생각이였지만……）	(I intended to decline…)	
+50	N/A	在特遣队的某个地下站点。	在特遣隊的某個地下站點。	とあるタスクフォースの地下拠点。	기동대의 어느 지하 지점.	In an underground base of the Squad.	
+51	N/A	最终让我下定决心的，是在任务简述上看到的那个标志──	最終讓我下定決心的，是在任務簡述上看到的那個標誌──	最終的に私を決心させたのは、\nあのブリーフィングで見た印──	내가 결심하게 만든 것은 임무 설명 중 본 마크 때문이였다──	What made her change her mind and decide to join was a symbol on the mission guide—	
+52	N/A	那个在父亲的笔记中曾经出现的标志。	那個在父親的筆記中曾經出現的標誌。	──父のノートの中にもあったアノ印だ。	그건 아버지의 노트 안에 있는 마크다.	A symbol that she saw in her father's notebook.	
+53	N/A	一个代表着秘密宗教组织的，令人毛骨悚然的黑色眼球符号。	一個代表著祕密宗教組織、令人毛骨悚然的黑色眼球符號。	とある秘密の宗教組織を表す、\n不気味な黒い眼球のシンボル。	신비한 종교 조직을 의미하는，등골이 서늘하게 만드는 검은색 눈 부호. 	A creepy black eyeball representing a secret religious organization.	
+54	N/A	在笔记的记录中，父亲与那个组织接触过，对方曾经流露出想要组建异质能力者武装的意向。	筆記中記載著，父親曾與那個組織接觸過，當時對方流露出想要組織異質能力者武裝部隊的想法。	父はその宗教組織と接触した事があり、\n奴らは武装した異質能力者の組織を作りたい。\nという意向を漏らしていたと、ノートには\n記載されていた。	아버지와 그 조직은 접촉한 적이 있다. 조직은 이질능력자 무기를 만들려고 했었다.	Her father recorded his contact with people from that organization. They had shown the intention of mobilizing people with special ability and creating a militant group.	
+55	N/A	相应的计划被命名为“Ningen”。	相關的計劃被命名為「Ningen」。	その計画は『Ningen』という名前が\n名付けられていた。	계획명은 “Ningen”으로 명명됐다.	The plan was named Project Ningen.	
+56	N/A	由于白烛在孤儿院时留下的记录，她的名字当时就在“Ningen”计划I类目标的名单上。	根據白燭在孤兒院時留下的記錄，她的名字當時就在「Ningen」計劃I類目標的名單上。	孤児院にいた頃の記録のせいで\nバイジュウは『Ningen』計画I類に指定され、\n狙われる事となってしまう。	바이츄의 고아원 기록 때문에 당시 그녀의 이름이 “Ningen”명단에 있었다.	After documents from her orphanage fell into their hands, Beth had been on the top wanted list of Project Ningen.	
+57	N/A	父亲也因此成为了这个危险组织的眼中钉。	父親也因此成為這個危險組織的眼中釘。	あの危険な組織が父に目を付けたのは、\nそれが原因に違いない。	이 때문에 아버지도 이 위험한 조직의 눈엣가시가 됐다.	As a result, her father became a target of this dangerous organization.	
+58	白烛	（“Ningen”……南极）	（「Ningen」……南極。 ）	（『Ningen』……南極 ）	（“Ningen”……남극）	(Ningen… the Antarctic.)	
+59	白烛	（我记得南极的白皇后基地……）\n（命名取自《安徒生童话》中的冰雪女王。）	（我記得南極的白皇后基地……）\n（命名取自《安徒生童話》中的冰雪女王。 ）	（南極基地『スノークイーン』……）\n（『アンデルセン童話』の雪の女王……）	（남극의 화이트퀸 기지를 기억한다……）\n（《안데르센 동화》 속 눈의 여왕에서 이름을 땄다.）	(The Snow Queen Base in the Antarctic…) \n(It's named after a story in Andersen's Fairy Tales.)	
+60	白烛	丹麦语：Snedronningen\n或者是：Snedron-Ningen	丹麥語：Snedronningen，\n或者是：Snedron-Ningen。	デンマーク語ではSnedronningen。\n\nもしくは、Snedron-Ningen。	덴마크어：Snedronningen\n 혹은：Snedron-Ningen	In Danish it's Snedronningen \nOr Snedron-Ningen	
+61	白烛	（不会是巧合。）	（這絕對不是巧合。 ）	（……ただの偶然のはずがない）	（우연일 리 없다.）	(Not a coincidence.)	
+62	白烛	你的Boss，和那群家伙看上了同样的东西吗？	妳的Boss和那群傢伙看上了同樣的東西嗎？	あなたのBossは、あの連中と同じものに\n目を付けたのでしょうか？	너의 보스와 그 녀석들이 같은 물건을 마음에 둔 걸까?	So your Boss and the gang are going after the same thing…	
+63	牛奶	看你的表情，这个组织似乎比『黑名单』上的其他家伙麻烦一些啊……	看妳的表情，這個組織似乎比「黑名單」上的其他傢伙還麻煩啊……	あんたの顔を見た感じ、その組織は\n『ブラックリスト』に載ってる他の奴らより\n厄介そうだね……	네 표정을 보니 이 조직이 『블랙리스트』에 오른 다른 녀석들보다 더 귀찮은 존재 같은데……	By the look on your face… this gang seems to be tougher than others on the Blacklist…	
+64	N/A	白烛点了点头，但并不想深谈。	白燭點了點頭，但並不想深談。	バイジュウは頷いたが、この話題に関して\n多くは語りたくなかった。	바이츄는 고개를 끄덕였지만 깊은 대화를 나누고 싶지 않았다.	Beth nods, but she doesn’t want to talk further.	
+65	白烛	抱歉，就算我参与这个项目，也是出于私心。	抱歉，就算我參與這個專案，也是出於私心。	ごめんなさい。\n\nこのプロジェクトに参加するのは、\n私的な目的もあるからです。	미안. 이 프로젝트에 참여한 건 내 사심 때문이야.	Sorry. I joined this mission out of selfish motives.	
+66	牛奶	我知道啊~	我知道啊～	分かってるって～～	알고 있어~	Well, I know that.	
+67	牛奶	可对老大来说，只要你能继续你父亲对海洋生物的研究就可以了。	可對我家Boss來說，只要妳能延續妳父親對海洋生物的研究就可以了。	Bossからしてみると、バイジュウちゃんが\n親父さんの海洋生物研究を続けてくれるなら\n問題ないだろうしね。	보스 입장에선 네가 네 아버지의 해양 생물 연구를 계속해주면 그만이야.	But Boss just wants you to carry on your father's research on marine life.	
+68	牛奶	互利互惠、互利互惠～	魚幫水，水幫魚嘛～	ウィンウィンだよ。win-winっ！	누이 좋고 매부 좋고～	So it's a win-win.	
+69	牛奶	小白烛的私心……该不会是因为被我迷倒，才决定上了这艘贼船吧？	小白燭的私心……該不會是因為被我迷倒，才決定上了這艘賊船吧？	とは言え、バイジュウちゃんの私的な目的って…\n\nまさか私に惚れちゃって、この泥舟に乗り込んだ\nとかじゃ～～？	바이츄의 사심이란 게…… 설마 나한테 홀딱 빠져서 이 해적선에 오르기로 한 건 아니지? 	As for your selfish motives… I know you're so charmed by me that you decide to stay here.	
+70	牛奶	那我可会非常非常有压力的~	唉啊～如果是這樣，那我可是非常非常有壓力的唷～	だったら～私、すごくすごぉ～～く責任を\n感じちゃうなぁ～～！	그럼 엄청 엄청 부담스러운데~	Oh, that's too much pressure for me!	
+71	N/A	牛奶说着朝着白烛抛了个飞吻，白烛被逗得扑哧一笑。	牛奶說著朝著白燭拋了個飛吻，白燭被逗得撲哧一笑。	ミルクがバイジュウに投げキッスすると\nバイジュウは我慢できずに笑いを零した。	밀크가 바이츄에게 손키스를 날린다. 바이츄가 풉 하고 웃음을 터트린다.	Milk blows Beth a kiss, making her snort with laughter.	
+72	N/A	但白烛并没有注意到，当时她好友清澈的眼神中闪过的一丝阴霾。	但白燭並沒有注意到，當時她好友清澈的眼神中閃過了一絲陰霾。	しかし、その時バイジュウは気付かなかった。\n\n──親友の澄んだ目が、微かに曇っていた事を。	바이츄는 몰랐다. 그 때 친구의 맑은 눈빛에 한 줄기 먹구름이 지나갔다는 것을.	What she doesn't notice is a fleeting gloom in her friend's clear eyes.	
+73	N/A	回想起签约时的情形，白烛还是一阵自责。	回想起簽約時的情形，白燭還是一陣自責。	バイジュウは契約を交わした時の事を思い出し、\n未だに自分を責めていた。	계약했을 때를 떠올리면 바이츄는 여전히 자책감이 들었다.	She still feels guilty when she thinks of the moment she signed the paperwork.	
+74	白烛	（我……在利用她。）	（我……在利用她。 ）	（私……彼女を利用してる）	（나는……그녀를 이용하고 있어.）	(I was… using her.)	
+75	N/A	白烛坐到桌前抽出笔，盯着摊开的笔记本。	白燭坐在桌前抽出筆，盯著攤開的筆記本。	バイジュウは机の前に座ってペンを取り出し、\n広げたノートを見つめた。	바이츄는 테이블 앞에 앉아 펜을 들고 펼쳐진 노트를 본다.	Beth sits down at the desk, draws out a pen, and stares at the open notebook.	
+76	N/A	“能够被利用的人，才有价值。”	「能夠被利用的人，才有價值。 」	「利用できる人間こそ、価値がある」	“이용당한다는 건 가치가 있다는 뜻이다.”	Valuable are the useful ones.	
+77	N/A	——少女这样写道。	——少女這樣寫道。	──少女はこう書いた。	——소녀는 이렇게 적었다.	—She jots down her thought.	
+78	N/A	“您曾经这么说过，我也一直是如此认为的……”	「您曾經這麼說過，我也一直是如此認為的……」	「あなたはかつてそう言った。」\n\n「そして私もずっとそう思ってた……」	“당신이 이렇게 얘기한 적 있었죠. 나도 줄곧 이렇게 생각했어요……”	You told me this… And I've always agreed with you…	
+79	N/A	“毫无压力的利用别人，或者被利用”\n“在您看来，应该是一件理所当然的事情……”	「毫無壓力地利用別人，或者被利用，」\n「在您看來，是一件理所當然的事情……」	「遠慮なく他人を利用し、利用される……」\n\n「あなたから見れば、それは当然の事……」	“다른 사람을 이용하거나 이용당하는 것” \n“아마 당신에게는 당연한 일이였겠죠……”	Use others or be used unscrupulously \n“This is something you take for granted…"	
+80	N/A	“区别只在于，谁的价值更高。”	「區別只在於，誰的價值更高。 」	「唯一の違いは、誰の価値が、より高いか」	“누가 더 가치 있느냐의 차이만 있을 뿐.”	It only depends on who has a higher value.	
+81	N/A	“无需解释，无需说明，只要关注目标。”	「無須解釋、無須說明，只要鎖定目標。 」	「解釈も説明も不要。ただ目標を見つめるのみ」	“변명도 설명도 없이，그저 목표에만 집중해라.”	There's no need to explain. Just focus on your goal.	
+82	N/A	“只有这样单纯的关系，才能和大多数人保持安全的距离。”	「只有這樣單純的關係，才能和大多數人保持安全的距離。 」	「こんな単純な関係であるからこそ」\n\n「多くの人と安全な距離を保つ事ができる」	“이렇게 단순한 관계만 있다면 대다수 사람들이 안전한 거리를 유지할 수 있다.”	Only such a simple relationship can keep you safe from most people.	
+83	N/A	白烛顿住了。	白燭頓住了。	バイジュウは動きを少し止めた。	바이츄가 멈췄다.	Beth pauses.	
+84	N/A	可是，正如您所说，世界上还是存在有那种——	可是，正如您所說，世界上還是有那種——	しかし、あなたが言った通り、\nこの世界には確かに存在している──	하지만，당신이 말씀한 것처럼 세상에는 이런 존재가 있어요	But you also told me that there are still—	
+85	N/A	“无论如何也希望被我利用的存在。”\n“无论如何也不愿意利用她的存在。”	「無論如何也希望被我利用的存在。 」\n以及「無論如何也不願意利用她的存在。 」	「私に利用されたい彼女」\n「彼女を利用したくない私」	“뭐가 어쨌든 나에게 이용당하길 바라는 존재.”\n“뭐가 어쨌든 그녀를 이용하고 싶지 않은 존재.”	Someone who wants to be used by you no matter what. \n"And someone whom you don't want to use under any circumstances."	
+86	N/A	少女想到这里，嘴角微微扬起。	少女想到這裡，嘴角微微揚起。	──少女は口元を噛みしめた。	소녀의 입꼬리가 조금 올라간다.	Thinking of this, a faint smile tugs on her lips.	
+87	白烛	（愧疚吗？明明应该是被舍弃的情绪。）	（愧疚嗎？ 明明應該是被捨棄的情緒。 ）	（後ろめたい？）\n（そんな感情はとっくに捨てたはず）	（양심의 가책인가？분명 버려질 감정인데.）	(Guilt? It's a feeling that must be discarded.)	
+88	白烛	（那是……喜欢吗？）	（那是……喜歡嗎？ ）	（それは……好きだからでしょうか？）	（이건……좋아하는 감정인가？）	(Then is it… affection?)	
+89	N/A	少女合上了日记。	少女闔上了日記。	少女は日記を閉じた。	소녀가 일기를 덮는다.	Beth closes her diary.	
+90	N/A	她已经找到了自己的答案。	她已經找到了自己的答案。	彼女は自分なりの答えを見つけたのだろうか。	그녀는 이미 스스로의 답을 찾았다.	Now she has found her answer.	
+91	N/A	白烛望向窗外，深蓝暗淡的天空变得更加深邃，几乎和漫无边际的海水融为一体。	白燭望向窗外，深藍黯淡的天空變得更加深邃，幾乎和漫無邊際的海水融為一體。	バイジュウは窓の外を眺めた。\n\n深い藍色の空は、より一層の闇に覆われ、\n果てのない海と一体化しているように見える。	어두웠던 하늘이 더욱 캄캄해졌다. 바다와 일체가 된 것 같다.	She looks out of the window and finds the dark blue sky grows deeper, almost merging into the infinite sea.	
+92	N/A	忽然，全舰响起了紧急通知。	忽然，全艦響起了緊急警報。	──突然、艦内全域に緊急通知が鳴り響いた。	갑자기，선함 전체에 긴급 통보가 울린다. 	Suddenly, an emergency alarm goes off across the vessel.	
+93	N/A@系统	指令变更！中控呼叫全体成员，十分钟后会议室集合。	指令變更！ 控制中心呼叫全體成員，十分鐘後會議室集合。	緊急命令！緊急命令！　中央制御室から全員へ、\n10分後に会議室に集合せよ！	지령 변경！중앙 통제실이 전원을 호출합니다. 10분 후 회의실로 집합하세요.	Attention, all crew. Directive changed. Report to the meeting room in ten minutes.	
+94	N/A@系统	重复，指令变更……	重複，指令變更……	繰り返す、緊急命令……	중복，지령 변경……	Repeat. Directive changed…	
+95	N/A	白烛深深的呼了一口气，收好笔记本，大步朝外走去。	白燭深深地呼了一口氣，收好筆記本，大步朝外走去。	バイジュウは深く息を吐き、ノートを収めた後。\n大きく外へと一歩を踏み出す。	깊은 한숨을 쉰 바이츄가 일기장을 정리하고 큰 보폭으로 걸어나간다.	Beth takes a deep breath, puts away the notebook, and hurries out of the room.	

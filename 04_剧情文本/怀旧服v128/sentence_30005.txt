@@ -1,0 +1,129 @@
+﻿1	N/A	莉琉站在基台对岸高处的控制台上，可以同时看到一层的我们和元老院的观察室。	莉琉站在基台對岸高處的控制台上，可以同時看到下層的我們和元老院的觀察室。	マリルは対岸の高所にある制御台に立っている。\n\nあの場所は、1階にいる俺達と元老院がいる\nモニタールームが同時に見える場所だ。	마리루가 우리와 원로원의 관찰실이 한눈에 보이는 기단 맞은편 제어대에 서있다. 	Standing at the control station atop the bank opposite to the platform, Mariru can see us on the first floor and the Senators' observation room.	
+2	N/A	空旷的大厅接连传来三声低沉的提示警报，是莉琉已经做好准备的讯号。	空曠的大廳接連傳來三聲低沉的提示警報，是莉琉已經做好準備的訊號。	広々としたホール内に、低い警報音が連続で\n3回鳴った。\nマリルによる準備完了の合図だ。	넓은 로비에 알림 경보가 연속으로 3번 울린다. 마리루가 준비를 끝냈다는 신호다.	Three deep, low warnings come from the hall, indicating Mariru's readiness.	
+3	N/A	拉斐尔朝莉琉挥挥手，我和安妮则严阵以待地站在她身旁。	拉斐爾朝莉琉揮揮手，我和安妮則嚴陣以待地站在她身旁。	ラファエルはマリルに軽く手を振り、\n俺とアニーは始まるのを待ち構えている。	라파엘이 마리루를 향해 손을 흔들고 나와 앤은 옆에서 만전의 태세를 갖추고 있다.	Raphilia waves at Mariru. Annie and I vigilantly stand next to her.	
+4	N/A@莉琉	方舟计划，第一次实验开始。	方舟計劃，第一次實驗開始。	──『方舟計画』　第一次実験開始。	방주 계획，첫번째 테스트 시작.	Project Ark, experiment number one.	
+5	N/A@莉琉	十秒后解除防壁！	十秒後解除防壁！	10秒後に防壁を解除する！	10초 후 방벽 해제！	The shield will be deactivated in ten seconds.	
+6	N/A	操作台的底座上，出现了红色的倒计时。	控制台的底座上，出現了紅色的倒數計時。	コンソールの台座に、赤いカウントダウンが\n出現した。	조작대의 받침대에 빨간색 카운트다운 표시가 나타났다.	On the base of the operation desk appears a countdown with red numbers.	
+7	N/A	入口的闸门关闭，通道桥收回到墙体内。	入口的閘門關閉，通道橋收回到牆體內。	入口のゲートが重々しく閉まり、可変通路の橋も\n壁の中に収納される。	입구의 문이 닫히고，연결 다리가 벽 안으로 되돌아갔다.	The sluice is shut, and the steps retract into the wall.	
+8	N/A	大厅顶部传出机械齿轮咬合的声音，隐蔽在天花板的自动武器阵列瞄向操作台，进入待命状态。	大廳頂部傳出機械齒輪咬合的聲音，隱蔽在天花板的自動武器瞄準我們所在的控制台，進入待命狀態。	ホールの天井から歯車の噛み合う音が聞こえ\n天井に隠蔽されていた自動銃器の隊列が、\nコンソールに照準を合わせて待機状態に入る。	로비 꼭대기에서 톱니바퀴가 맞물리는 소리가 들리고，천장에 은폐된 자동 무기가 조작대를 조준한 뒤，대기 상태에 진입한다.	Sounds of gears grinding come from the top of the hall, and the automatic array of weapons hidden in the ceiling are aimed at the desk, ready to shoot at any moment.	
+9	N/A	我仿佛置身深海的游鱼，悬在黑暗的半空。	我彷彿置身深海的游魚，懸在黑暗的半空。	光の照らされていない場所で立っている俺は、\n\nまるで深海魚みたいに、\n黒い深海に浮いているかのようだった。	마치 심해의 물고기처럼 어두운 공중에 걸려있는 것 같다.	I, like a fish in the deep ocean, stand in the middle of darkness.	
+10	小怜	感觉像重刑犯一样……	感覺像重刑犯一樣……	気分は重罪人だな……	왠지 중죄자가 된 것 같은 느낌……	I feel like a condemned criminal…	
+11	N/A	被那么多武器指着，我感到浑身不自在。	被那麼多武器指著，我感到渾身不自在。	多くの武器を向けられて、全身が落ち着かない。	많은 무기가 날 향하니 온몸이 부자연스러워진다. 	With so many weapons pointing at me, I feel extremely tense.	
+12	安妮	没关系，我会保护好小怜的！	沒關係，放心吧，我會保護好小憐的！	大丈夫、私がレンちゃんを守るから！	괜찮아. 내가 렌을 지켜줄게!	Relax, Ren. I'll protect you!	
+13	N/A	安妮也很紧张吧……她紧握着球棒的双手指甲都没了血色，却还在安慰我。	安妮也很緊張吧……她緊握球棒的雙手指甲都沒了血色，卻還在安慰我。	アニーも緊張しているのだろう……\n\nバットを強く握る彼女の手の爪に血の気がない。\nそれにも関わらず、俺を慰めようとしてくれる。	앤도 긴장했구나…방망이를 쥔 두 손의 손톱에 혈색이 없을 정도인데，날 위로하다니.	Annie seems nervous, too… Her fingers press on the baseball bat so hard that the nails become pale, but she’s comforting me still.	
+14	拉斐尔	哼，胆小鬼。	哼，膽小鬼。	ふん、怯えている場合？	흥，겁쟁이.	Humph, coward.	
+15	N/A	倒计时归零的同时，拉斐尔毫不犹豫地拉下拉杆。	倒數計時歸零的同時，拉斐爾毫不猶豫地拉下拉桿。	カウントダウンがゼロになったと同時に、\nラファエルが迷いなくレバーを倒した。	카운트다운이 0이 됨과 동시에 라파엘이 주저없이 레버를 잡아내린다. 	The moment the timer counts down to zero, Raphilia swiftly pulls the lever.	
+16	N/A	基台周围的透明防壁迅速向底部收束并消失。	基台周圍的透明防壁迅速收回底部並消失。	台座の周囲の透明な防壁が素早く底に消える。	기단 주위의 투명 방벽이 빠른 속도로 사라진다. 	The transparent shield circling the platform rapidly shrinks towards the bottom before it disappears.	
+17	N/A	青金石柱的本体被微微抬高，比刚才更加强烈的感觉向我袭来。	青金石柱的本體被微微抬高，比剛才更加強烈的感覺向我襲來。	そして青金石柱の本体が微かに上昇し、\n落ち着かない感覚がさらに強烈になる。	청금석주의 본체가 살짝 올라온다. 아까보다 더 강렬한 느낌이 날 덮친다.	As the Lapis Pillar is slightly lifted, a stronger feeling strikes me.	
+18	N/A	体内的血液开始躁动，内心升起一种莫名的冲动。	體內的血液開始躁動，內心升起一種莫名的衝動。	体内の血液が騒ぎ出し、心の底から不可解な\n衝動が昇ってきた。	체내의 혈액이 빠르게 움직이기 시작하고 마음속에 알 수 없는 충동이 일어난다.	I feel like my blood starts to boil, and suddenly have an inexplicable impulse.	
+19	小怜	（厄……肚子更疼了……）	（呃……肚子更痛了……）	（うっ……お腹がもっと痛くなった……）	（윽……배가 더 아파……）	(Ouch… My tummy hurts more…)	
+20	小怜	（如果现在申请去洗手间，会不会被打死啊……）	（如果現在申請去洗手間，會不會被打死啊……）	（今トイレに行きたいと言ったら……）\n\n（きっと袋叩きにされちゃうよね……）	（지금 화장실에 간다고 하면 맞아죽겠지?）	(If I ask for a bathroom break, they probably wanna kill me…)	
+21	N/A	突然，上方的空间抖动了一下，一道闪光快速扫过我们头顶并一直延伸到大厅尽头。	突然，上方的空間抖動了一下，一道閃光快速掃過我們頭頂，並一直延伸到大廳盡頭。	突然、上方の空間が震える。\n\n一筋の閃光が俺達の頭上を通り抜けると、\nその筋はホールの果てまで伸びていった。	갑자기 윗쪽 공간이 흔들리고 빛이 빠른 속도로 머리 위를 지나 로비 끝으로 뻗어간다.	The space above suddenly trembles, and a beam of light quickly sweeps over our heads and races to the end of the hall.	
+22	N/A	胸部随之传来两下短促的震动，这是伪装系统启动完毕的信号。	胸部隨之傳來兩下短促震動，這是偽裝系統啟動完畢的信號。	──胸元から短い振動が2回。\nこれは偽装システムが起動した合図だ。	가슴에서 두번의 짧은 진동이 느껴졌다. 이건 위장 시스템 기동 완료 신호다.	Then, two short buzzes strike my chest, signaling that the fake system is initiated.	
+23	N/A	大厅上空的光学迷彩和观察室的玻璃隔层作为两重保险，连同声音也一并隔绝。	大廳上方的光學迷彩和觀察室的玻璃隔層作為雙重保險，連聲音也一併隔絕了。	ホール上空の光学迷彩とモニタールームの\nガラスの仕切りは、二重の保険で音声も遮断。	로비 상공의 광학 위장 도색과 관찰실의 유리 장벽은 2중 보안이 되어，소리까지 차단한다.	The layer of optical camouflage high in the hall and the specially treated glass of the observation room ensure that no sound is leaked to Senators.	
+24	N/A	在他们的视野中，我们三人还有青金石柱应该在那一瞬间突然消失了。	在他們的視線範圍中，我們三人還有青金石柱應該在那一瞬間突然消失了。	彼らの視界では俺達3人、そして青金石柱も\n今の一瞬で消えたはずだ。	우리 셋과 청금 석주는 그 순간 그들의 시야에서 갑자기 사라졌을 것이다. 	In their eyes, Raphilia, Annie and I should be instantly gone together with the Lapis Pillar.	
+25	N/A	取而代之的是事先伪造的画面。	取而代之的是事先偽造的畫面。	代わりとして見せるのは、事前に用意した\n偽造の画面。	그리고 사전 위조된 화면으로 대체됐겠지.	After that, they'll see the images we faked.	
+26	N/A	大戏已经开幕，舞台中央的我已然没有退路。	好戲上場，站在舞台中央的我已然沒有退路。	すでに大芝居は始まっている。\n舞台の真ん中の俺に、もう逃げ場はない。	연극이 막이 올랐다. 무대 중앙에 선 나는 더 이상 물러날 길이 없다. 	The show is on. Right at the center of the stage, I have no other way out.	
+27	小怜	没办法了……	沒辦法了……	やるしかない……	방법이 없어……	Have to brave it out…	
+28	N/A	我硬着头皮走上前，小心翼翼的伸出手。	我硬著頭皮走上前，小心翼翼地伸出手。	俺は腹を括って前に出て、慎重に手を伸ばした。	나는 할 수 없이 앞으로 걸어나가 조심스럽게 손을 뻗었다.	I step forward and carefully reach out my hand.	
+29	N/A	随着手一点点前移，我紧张地闭上眼睛屏住呼吸\n直到指尖触到柱石的表面。	隨著手一點點前移，我緊張地閉上眼睛屏住呼吸，\n直到指尖觸到柱石表面。	手を少しずつ前へと伸ばす。\n\n緊張して目を瞑り、俺は息を止めて……\nそして指先が柱に触れるまで……	손가락 끝이 석주의 표면에 닿을 때까지 \n두 눈을 꼭 감고 호흡을 멈췄다.	As my hand approaches the pillar, I nervously close my eyes and hold my breath \nUntil my fingertips touch the pillar.	
+30	N/A	……	……	……	……	…	
+31	N/A	…………？	…………？	…………？	…………？	… ?	
+32	N/A	我慢慢睁开眼。	我慢慢睜開眼。	ゆっくりと目を開いてみる。	나는 천천히 눈을 떴다.	I slowly open my eyes.	
+33	小怜	好像……并没有什么变化	好像……沒有什麼變化。	特に変化がない……みたい。	아무런… 변화가 없어	Looks like… nothing happened.	
+34	N/A	我试着将手掌整个贴上去，触感有些像大理石。	我試著將手掌整個貼上去，觸感有點像大理石。	試しに手のひらを全部くっ付けてみた。\n大理石のような感触だ。	나는 손바닥을 모두 갖다댔다. 대리석 같은 촉감이다.	I place my entire palm on the pillar. It feels like marble.	
+35	小怜	唔……	唔……	うっ……	음……	Hm…	
+36	N/A	我又换了个角度，用力推了推\n七吨多重的石柱纹丝不动稳如泰山	我又換了個角度，用力推了推，\n七噸多重的石柱動也不動，穩如泰山。	今度は角度を変えて、力強く押してみた。\n\n 7トンにもなる石柱は山の如く微動だにしない。	또 한 번 각도를 바꿔 석주를 힘껏 밀었다\n7톤 이상의 석주는 태산처럼 꿋꿋하다.	I try another angle, and give it a hard push \nThe pillar, weighing over fifteen thousand pounds, remains motionless.	
+37	拉斐尔	嘁~	嘖！	ははっ――	쯧~	Tsk!	
+38	N/A	身后拉斐尔发出不屑的声音。	身後的拉斐爾發出不屑聲。	後ろから、ラファエルの呆れた声が聞こえた。	뒤에 있던 라파엘이 어이없다는 소리를 낸다. 	Raphilia pours scorn on me.	
+39	N/A	虽然之前开会准备的各种预案中，什么事都没发生是我最期待的结果──	雖然之前的各種備案中，什麼事都沒發生是我最期待的結果──	事前の作戦会議で様々な対応策は用意したけど、何も起こらないのが俺の一番望ましい結果。	회의에서 준비한 여러 대안 중 아무 일도 일어나지 않는 것이 내가 가장 바랐던 결과였다	That nothing happens has been the result I want the most among all the assumptions we made during the prep meeting—	
+40	小怜	（但为什么……感觉有点丢人……）	（但為什麼……真的什麼都沒發生時，卻感覺有點丟人……）	（だけどなぜか……ちょっと情けない……）	（하지만 왜……부끄러운 느낌이지……）	(But why… am I feeling a bit embarrassed…)	
+41	N/A	我的手按在石柱上，气氛有些尴尬，正当我想再用点力的时候，心脏猛然抽动了一下。	我的手還按在石柱上，氣氛有些尷尬，正當我想再用點力的時候，心臟猛然抽動了一下。	俺の手はまだ石柱に触れたままであるが、\n雰囲気は少し気まずい。\nもう少し力を入れようと思った瞬間──\n心臓が急に激しく脈打った。	어색해진 분위기에서 손에 더욱 힘을 주자 심장이 맹렬하게 뛴다. 	While my hand is still on the pillar, the atmosphere is awkward. Just as I'm thinking to press it harder, my heart suddenly twitches sharply.	
+42	N/A	几乎同时，石柱似乎也震了一下。	幾乎同時，石柱似乎也震了一下。	ほぼ同時に、石柱が振動し始める。	동시에 석주도 진동한다.	Almost at the same time, the pillar trembles.	
+43	N/A	然后我看着石柱缓缓的脱离了我的手，并且越离越远。	然後，我看著石柱緩緩脫離我的手，並且越退越遠、越退越遠……	そして、石柱が徐々に俺の手から離れ、\n目の前から遠ざかっていく光景を目にした。	석주가 천천히 내 손에서 점점 멀어진다. 	Then, the pillar eases away from my hand, leaving a small gap that’s slowly widening.	
+44	小怜	──诶？	——欸？ ！什麼？ 不會吧！	────えっ？	──앗？	—Eh?	
+45	N/A	升起的基台与石柱底部接触的部分发出低沉的摩擦声……	升起的基台與石柱底部接觸的部分發出低沉的摩擦聲……	上昇した台座と石柱が接触する部分から、\n嫌な予感を連想させる低い摩擦音が聞こえる……	올라온 기단과 석주 아래 접촉 부분에서 낮은 마찰음이 울린다……	The high platform and the bottom of the pillar are grinding, making deep, low noises…	
+46	N/A	萨蒙顿的国宝级文物，象征着文艺复兴时期人类启蒙与觉醒的伟大艺术品──『特斯海姆青金石柱』	薩蒙頓的國寶級文物，象徵著文藝復興時期人類啟蒙與覺醒的偉大藝術品──「特斯海姆青金石柱」，	ルネサンス時代の人類啓蒙と覚醒を象徴する\n偉大なる芸術品──\nそして現在サモントンの国宝級文化財でもある\n『トスハイム青金石柱』──	문예 부흥 시대 계몽과 각성을 상징하는 위대한 예술품이자 살몬톤의 국보급 문물，『테스하임 청금석주』	Salmonton's national treasure, an artifact symbolizing the enlightenment of human beings during the Renaissance—The Tesheim Lapis Pillar…	
+47	N/A	正顺着我推的方向慢慢倾倒……	正順著我推的方向慢慢向後傾倒……	そんな物が押した方向へゆっくり倒れていく……	내가 민 방향으로 천천히 기울어진다…	… is slowly collapsing towards the direction I'm pressing…	
+48	N/A	而且越来越快。	而且越來越快、越來越快！	しかも倒れるスピードがますます速くなる。	게다가 점점 빨리.	And it's falling faster and faster.	
+49	N/A	咚──！！！	轟──！ ！！	ズドォォォォォォォォォン――ッッ！！！	퉁──！！！	Bang—!!	
+50	N/A	随着一声巨响，青金石柱重重地砸在金属基台上直接碎成两块，前面的那一块还往前滑动了十几厘米。	隨著一聲巨響，青金石柱重重地砸在金屬基台上直接碎成兩塊，前面的那一塊還往前滑動了十幾公分。	……………………大きな音がした。\n\n青金石柱が思いっきり金属製の台座に倒れ、\nそのまま真っ二つに砕け散った。\n砕けた先端が、前方へ何センチか滑っていく。	굉음이 울리고 청금석주가 금속기단 위에서 떨어져 두 동강이 났다. 	The enormous bang comes as the pillar clashes with the metal platform and breaks into two pieces. The farther piece even slides a few inches forward.	
+51	N/A	裂口处散落出很多碎块，最远的一块直接滚进了前方的水池中。	裂口處散落很多碎片，最遠的一塊甚至直滾進了前方的水池中。	割れた場所から、たくさんの破片が散らばり\n一番遠くの物はそのまま前方の池に落ちる。	갈라진 부분에서 조각들이 떨어진다. 가장 멀리 있는 것은 저수지 밑으로 굴러떨어진다. 	Small fragments scatter around, and the farthest piece even rolls into the pool in front.	
+52	N/A	长久的沉默……	接下來是好長一段時間的沉默……	…………………………………………………………\n…………………………………………………………\n…………………………そして長い沈黙。	길고 긴 침묵……	There is a long silence…	
+53	N/A	即使是一向高傲的拉斐尔，惊愕的表情也凝固在脸上许久。	即使是一向高傲的拉斐爾，錯愕的表情也凝固在臉上許久。	それまで傲慢な態度だったラファエルも、\n唖然とした顔で立ち尽くしている。	거만한 라파엘도 한참동안 굳은 얼굴을 하고 있다. 	For quite some time, even Raphilia has lost her usual arrogance, looking extremely shocked.	
+54	N/A	然后她缓缓的转向我。	然後她緩緩的轉向我。	そして彼女はゆっくりと俺の方を向いた。	그녀가 날 향해 천천히 몸을 돌린다.	She then slowly turns to me.	
+55	N/A	眼中射出足以撕碎钢板的怒火。	眼中射出足以撕碎鋼板的怒火。	目から鋼鉄板を寸断できそうな、\n怒りの火炎を射出しているように見える。	눈빛으로 강철도 부숴버릴 것 같은 분노를 발사한다. 	I can see fire burning in her eyes.	
+56	小怜	不、我不是，我没有……	不、我不是，我沒有，妳聽我解釋……	ち、ち、違う、お、俺じゃない……	아니、난 그냥，그게 아니라……	No, I… I didn't…	
+57	N/A	正当我思考如何才能保住性命的时候，虚空之中响起一阵风铃般的声音。	正當我煩惱如何才能保住小命時，虛空之中響起一陣風鈴般的清脆聲。	どうすれば命が助かるかを考えている最中、\n虚空の中から風鈴のような音が聞こえてきた。	어떻게 목숨을 부지해야 할까 생각하고 있을 때，허공에서 작은 종소리 같은 소리가 울린다.	When I struggle to think of ways to save my own butt, the sound of a wind chime comes from nowhere.	
+58	N/A	地上的碎块随着声音分裂成更小的碎片，像被风吹起的纸片一样开始飘散。	地上的碎石隨著聲音分裂成更小的碎片，像被風吹起的紙片一樣開始飄散。	地面に散らばった破片が音に合わせて、\nさらに小さな破片に分裂していく……\nそして、風に吹かれた紙片のように舞い始めた。	바닥 위 조각들이 소리를 따라 더 작은 조각으로 분열되어 공중에 흩날리기 시작한다.	The fragments lying on the floor split into even smaller pieces, and start drifting like sheets of paper blown away by a gust of wind.	
+59	N/A	碎片折射出彩色的弧光，渐渐在空中形成了数个圆环，流动着向上爬升。	碎片折射出彩色的弧光，漸漸在空中形成了數個圓環，流動著向上爬升。	破片は多彩な光を屈折させ、次第に空中に複数の\n円環を形成すると、上へ上へと昇っていく。	조각이 찬란한 빛을 발산하며 공중에서 여러 개의 고리를 만든 뒤，위로 떠오른다. 	Reflecting colorful arcs of light, the pillar fragments form several rings and float upward.	
+60	N/A	直到地上碎开的石块完全风化消散在空中，大厅被散布着的无数流动光片照耀得五彩斑斓。	直到地上碎開的石塊完全消散在空中，大廳被散布著的無數流動光片照耀得五彩斑斕。	砕けた石柱が、完全に風化して空中に散るまで\n無数の流動的な光の破片に照らされる。\nホール内は色彩豊かな輝きに包まれた。	바닥에 떨어져 부숴진 돌맹이가 완전히 풍화되어 공중에서 사라지고，로비에는 오색찬란한 빛조각이 번진다.	Finally, all the broken pieces dissipate into the air, leaving numerous floating rings of light that illuminate the entire hall.	
+61	安妮	哇……	哇……	うわぁ……	와……	Wow…	
+62	N/A	我的指尖不由自主触摸向碎片构成的一个圆环——	我忍不住伸手摸了其中一個圓環——	俺は思わず指先で、破片の円環の1つに触れた。	내 손가락이 참지 못하고 조각으로 구성된 링을 만진다	I can't help touching a ring formed by small fragments—	
+63	N/A	一触即碎的圆环，化作金色光沙。	一觸即碎的圓環，化作金色光沙。	触れると円環は砕け、金色の光の砂に変わる。	부서진 링을 접촉하자마자 금색빛 모래알로 변한다. 	The ring immediately breaks into golden dots of light.	
+64	N/A	流动的光，如尘土一样散落。	流動的光，如塵土一樣散落。	流れる光が埃のように散っていく。	흐르는 빛이 먼지와 같이 흩어진다.	The floating dots scatter like dust.	
+65	N/A	然后光斑逐渐向中心汇聚，越来越亮……	然後光斑逐漸朝某一點匯聚，那裡越來越亮……	そして光は中心へと集まり、\nますます明るくなって……	빛의 무늬가 천천히 중앙으로 모아져 점점 더 밝아진다……	Then, they concentrate and create an increasingly dazzling light…	
+66	N/A	在刺眼的强光中，一名金色长发的少女，出现在我面前。	最後，在刺眼的強光中，憑空出現了一名金色長髮的少女。	眩しい光の中から──────\n\n長い金髪の少女が俺の前に現れた。	눈부신 빛 안에서 금발소녀가 나타났다.	From the eye-hurting brightness, a golden-hair teenage girl appears in front of me.	
+67	小怜	……！！！	……！ ！！	……ッ！？！？！？	……！！！	… !!!	
+68	N/A	少女张开双臂，坦然的站在我面前……但这样奇异绚烂的景象却让我无法移开视线。	少女張開雙臂，坦然地站在我面前……這樣奇異絢爛的景象讓我無法移開視線。	少女は両腕を広げ平然と俺の前に立っている……\n\n眼前に広がる不思議で絢爛とした景色から、\n俺は目を離せなかった。	소녀가 두 팔을 벌리고 평온한 모습으로 서있다……기이한 광경에 눈을 뗄 수가 없다.	With arms wide open, she stands calmly in front of me… But I just can't move my eyes away from this glamorous scene.	
+69	N/A	空气中飘散着一股淡淡的橙花和紫罗兰的香气。	空氣中飄散著一股淡淡的橙花和紫羅蘭的香氣。	──薄いオレンジの花とストックの香りがする。	공기 중에 옅은 오렌지꽃과 비단향꽃무의 향기가 풍긴다.	There is a faint scent of orange blossom and violet in the air.	
+70	N/A	少女缓缓睁开了双眸。	少女緩緩睜開了雙眼。	少女はゆっくりと目を開けた。	소녀가 천천히 두눈을 뜬다.	The girl slowly opens her eyes.	
+71	金发少女	奇妙而华丽的“炼成”……	奇妙而華麗的「煉成」……	奇妙で華麗なる『錬成』……	기묘하고 화려한 “연금”……	What an intriguing, fabulous "result"…	
+72	N/A	她环顾了一下四周。	她環顧了一下四周。	彼女は辺りを見渡した。	그녀가 주위를 둘러본다.	She looks around.	
+73	金发少女	这里……是现世！？	這裡……是現世！ ？	ここは……現世ッ！？	여긴……현실！？	Is this… modern time!?	
+74	N/A	少女的眼神瞬间从迷茫变得兴奋。	少女的眼神瞬間從迷茫變得興奮。	少女の目の色は一瞬で、茫然から興奮へ転じた。	그녀의 눈빛이 순식간에 흥분으로 변한다.	In her eyes, increasing excitement is replacing the blank confusion.	
+75	金发少女	水与碳，盐与硫，硅与铁……	水與碳，鹽與硫，硅與鐵……	水と炭素、塩と硫黄、ケイ素と鉄……	물과 탄소，소금과 유황，규소와 철……	Water and carbon, sodium chloride and sulphur, silicon and iron…	
+76	金发少女	居然成就了如此完美的……	居然構成了如此完美的……	これほど完璧なまでに成し遂げるとは……	이렇게 완벽하게 이뤄내다니……	They have created such a beautiful…	
+77	N/A	她难以置信的打量着自己颤抖的双手。	她難以置信地注視著自己顫抖的雙手。	彼女は未だに信じられないように、\n震える自らの手を見つめた。	그녀가 믿을 수 없다는 듯 자신의 떨리는 두 손을 바라본다.	She looks incredulously at her trembling hands.	
+78	金发少女	这种肉体的触感……	這種肉體的觸感……	この肉体の感触は……	이 육체의 촉감…	The touch of the body…	
+79	N/A	少女自上而下缓慢地拂过自己的身体。	少女由上而下緩慢地拂過自己的身體。	少女は上から下までゆっくりと自分の身体を\n舐めるように撫でる。	그녀가 위에서 아래로 자신의 몸을 천천히 만진다. 	The girl slowly feels her body from top to bottom.	
+80	N/A	我忽然意识到有什么问题，连忙扭过头去。	我忽然意識到有點問題，連忙轉過頭去。	俺はマズいと思い、慌てて顔を背けた。	나는 문제가 생겼다는 걸 느끼고 황급히 고개를 돌렸다. 	I suddenly realize I shouldn't look, so I immediately turn away.	
+81	N/A	然后禁不住用余光继续打量着对方……	但還是忍不住用餘光繼續打量著對方……	そして尻目遣いに、少女を見る……	참지 못하고 곁눈질로 상대를 계속 관찰한다……	But I can't help stealing a glance at her…	
+82	N/A	那、那双手竟然还、还摸了……！！	那、那雙手竟然還、還摸了……！ ！	その手、手が、触れているところは……！！	그，두손이 거，거길 만지고 있어……！！	She… is even touching her… her…!!	
+83	拉斐尔	……	……	……	……	…	
+84	安妮	……	……	……	……	…	
+85	金发少女	这里……竟然也复原了吗？	這裡……竟然也復原了嗎？	まさかここも……復元されたのかしら？	여기도……복원된 것인가? 	Even this… is recreated?	
+86	小怜	……好刺眼的圣光，完全看不清楚！	啊！ 光線好刺眼啊，我完全看不清楚，什麼都看不到！ ！	……眩しい謎の光で、全然見えないッ！！	……너무 눈부셔서 아무것도 볼 수 없어!	… The light was so strong that I saw nothing!	
+87	N/A	虽然准备了各种预案，但面对这样的情形，我们三人竟一时不知所措。	雖然準備了各種備案，但面對這樣的情形，我們三人竟一時不知所措。	いくつもの対応策は事前に用意していたが、\nこの状況に俺達3人は戸惑いを隠せない。	여러 대안을 준비하긴 했지만，막상 상황을 맞닥뜨리니，셋은 어떻게 해야 할지 알 수가 없었다.	We have all kinds of emergency plans, but for a while, none of the three of us knows what to do next.	
+88	金发少女	那么……	那麼……	では……	그럼……	So…	
+89	N/A	金发少女扫过精神依旧紧绷的安妮和拉斐尔，目光落在了表情呆滞的我身上。	金髮少女的眼神掃過精神依舊緊繃的安妮和拉斐爾，目光落在了表情呆滯的我身上。	少女は緊張の糸を結ぶアニーとラファエルを\n意にも解さず、呆然とする俺に視線を向けた。	금발소녀가 여전히 정신이 아득한 앤과 라파엘을 훑은 후，멍하니 서 있는 날 바라본다.	The golden-hair girl glances at Annie and Raphilia, who are still nervous, and then turns to me, who is looking at her in blank amazement.	
+90	金发少女	您就是成就奇迹的人吗？	您就是成就奇蹟的人嗎？	貴方が……貴方が、\nこの奇跡を成し遂げた方でいらっしゃいますか？	당신이 기적을 만든 분이신가요?	Did you make this miracle happen?	
+91	N/A	缓缓下落的金发少女足尖触及到地面，面向我恭敬地后退了一步。	緩緩下落的金髮少女足尖觸及地面，面向我恭敬地後退了一步。	ゆっくりと降りてきた金髪の少女の足先が\n地面に触れ、俺に向かって恭しく一歩退いた。	금발소녀의 발끝이 천천히 지면에 닿는다.  예의를 갖춰 뒤로 한발 물러난다.	The girl slowly lands on the floor, and takes a step back respectfully.	
+92	小怜	……哎？\n（全不知道应该把眼睛放在哪里啊！！）	……哎？ \n（完全不知道應該看哪裡……）	……えっ？\n（俺は目線をどっちに向ければいいの！？）\n（全然分からないのだけどっ！？）	……엣？\n（눈을 어디에 두어야 할지 모르겠어！！）	… Eh? \n(I don't know where to look!!)	
+93	金发少女	或者说，是您为我的灵魂制造了这个容器吗？	或者說，是您為我的靈魂製造了這個容器嗎？	あるいは貴方が、わたくしの魂のために\n器を創造して下さったのでしょうか？ 	아니면，제 영혼을 위해 이 그릇을 만드셨나요?	Or, did you make this container for my soul?	
+94	小怜	哈……应该……算是？	嗯……應該……算是……吧？	はあ……まぁ……そうなるの？	하……그렇다고……봐야겠지？	Ha… Maybe… Yes?	
+95	小怜	对不起，我只是轻轻的推了一下！	對不起，我只是輕輕的推了一下！	ごめんなさい。ただ軽く押しただけなんです！	미안，난 그냥 살살 밀었을 뿐이야!	Sorry, I just gave the pillar a teeny-weeny push!	
+96	N/A	金发少女的单手放在胸前，向我微微鞠躬。	金髮少女將單手放在胸前，向我微微鞠躬。	金髪の少女は片手を胸元に置き、\n俺に向かって軽くお辞儀をする。	금발소녀가 한손을 가슴 위에 얹고 날 향해 살짝 허리를 숙인다. 	The girl puts her hand over her chest and bows slightly to me.	
+97	金发少女	那么，如果您愿意的话……	那麼，如果您願意的話……	では、よろしければ……	당신이 원하신다면……	So, if you like…	
+98	N/A	金发少女抬起头，眼神直勾勾地盯着我\n湛蓝色的眸子之中仿佛有无尽的渴求。	金髮少女抬起頭，眼神直勾勾地盯著我，\n湛藍色的眼珠中彷彿有無盡的渴求。	金髪の少女は顔を上げ、真っ直ぐ俺を見つめた。\n紺碧の瞳の中に無限の渇望を潜めるかの如く。	금발소녀가 고개를 들고 날 응시한다.\n푸른색의 눈동자에 끝없는 갈망이 있다.	She gazes up into my eyes. \nI read strong desire in her blue eyes.	
+99	金发少女	请将您的精华，尽数授予我吧……	請將您的精華，盡數授予我吧……	どうか、貴方の精気をわたくしに\n授けてください……	당신의 정수 모두 제게 주세요……	Please bestow all your essence on me…	
+100	金发少女	“主人”。	「主人」。	『マスター』	“주인님”	Master.	
+101	N/A@拉斐尔&安妮	主人？	主人？	マスター？	주인님?	Master?	
+102	小怜	精精精精华？！？！？	精精精精華？ ！？ ！？	精、精、精、精気ッッ？！？！？	저저저저정수？！？！？	Eeeeessence?!	
+103	N/A	打住——！	打住——！	待て待て、落ち着け――ッ！！	멈춰——！	Stop—!	
+104	N/A	不能进行奇怪的想象！！！	不能有奇怪的想像！ ！！	変な想像をしちゃダメだッ！！	이상한 상상은 멈추란 말이다！！！	Stop the weird imagination!!!	
+105	金发少女	“炼金术，探索元素与生命之理的智慧。”	「煉金術，探索元素與生命之理的智慧。 」	「錬金術、元素と生命の理を求める知恵」	“연금술，원소와 생명의 이론을 탐색하는 지혜.”	“Alchemy, the search for wisdom of elements and life.”	
+106	金发少女	能将躯体重新构造，唤回仿徨灵魂的人，必然掌握着我所不能企及的真理。	能夠重新構造軀體，喚回徬徨靈魂之人，必然掌握著我所不能企及的真理。	肉体を再構成し、彷徨う魂を呼び戻せる者は、\n\n必然的にわたくしの及ばぬ真理を把握している\nお方に違いありません。	몸을 만들어 방황하는 영혼을 소환하는 사람이라면，분명 제가 가지지 못한 진리를 파악하고 있겠죠.	The man able to rebuild a body and summon a soul must hold the truth I do not possess.	
+107	金发少女	而我…海因里希·昆哈特，愿为真理的奴……	而我……海因里希·昆哈特，願為真理的奴……	そしてわたくし……\nハインリッヒ・クンラートは真理の奴隷……	그리고 저…하인리히·쿤라드는 진리의 노예가……	I… Henriette Kunhardt, am ready to be a servant of truth…	
+108	N/A	名为海因里希的少女话没说完就突然顿住，站起身神色凝重的望着大厅一个空旷的方向。	名為海因里希的少女話沒說完就突然頓住，起身並面色凝重地望著大廳一個空曠的地方。	ハインリッヒと名乗った少女は、\n全ての言葉を終えない内に止まった。\n急に立ち上がり、ホールの広々としている方角を\n真剣に見つめている。	하인리히라는 소녀가 갑자기 말을 멈추고 몸을 일으켜 엄숙한 표정으로 로비의 넓은 방향을 응시한다.	Heinrich suddenly stops, and solemnly gazes at an open space in the hall.	
+109	N/A	我也顺着她的目光看去，但除了柱子什么都没有。	我也順著她的目光看去，但除了柱子什麼都沒有。	俺も彼女の視線を追ったが、柱以外は何もない。	나도 그녀의 눈빛을 따라 쳐다보니 기둥 말고 아무것도 없다. 	Following her glance, I see nothing but pillars.	
+110	小怜	（等等，她刚才说奴……奴什么？）	（等等，她剛才說奴……奴什麼？ ）	（それより彼女さっき「奴隷」って言ったよね）\n\n（……ど……何？）	（잠깐，방금 노……노예라고 했어？）	(Wait. Did she say something about s…servant?	
+111	N/A	金发少女叹了口气。	金髮少女嘆了口氣。	──金髪の少女が溜め息を吐いた。	금발소녀가 한숨을 쉰다.	The girl sighs.	
+112	海因里希	这么快就被发现了。	這麼快就被發現了。	こんなに早くも見つかってしまいましたか。	이렇게 빨리 들켜버리다니.	Found so quickly.	
+113	海因里希	就算是新的身体，也不能免除那个“契约”吗……	就算是新的身體，也不能免除那個「契約」嗎……	たとえ新しい肉体になっても、\nあの『契約』からは逃れられないのですね……	새로운 몸이라도 그 "계약"을 피할 수 없는 건가?	Even with a new body, I'm still bound by the contract…	
+114	N/A	海因里希的话音未落，大厅的空间突然开始剧烈扭曲。	海因里希的話才剛說完，大廳的空間突然開始劇烈扭曲。	ハインリッヒの声がまだ終らない内に、\nホールの空間が突然大きく歪み始めた。	하인리히의 음성이 떨어지기도 전에 로비의 공간이 갑자기 격렬하게 비틀리기 시작한다.	She’s barely finished speaking when the hall suddenly starts distorting heavily.	
+115	N/A	隔离箱内的传感器同时爆发了临界警报，检测状态灯瞬间切换为红色。	隔離箱內的感測器同時爆發了臨界警報，檢測狀態燈瞬間切換為紅色。	隔離ボックス内のセンサーが臨界警報を発し、\n検測状態のランプが一瞬で赤色に切り替わる。	격리 상자 안 센서의 한계 경보가 터져 나오고，상태 탐측등이 순식간에 붉은색으로 바꼈다.	Sensors in the shielded case send out threshold alarms all at once, and the status indicators immediately turn red.	
+116	N/A	上空传来一声巨响，是玻璃碎裂的声音。	上空傳來一聲巨響，是玻璃碎裂的聲音。	上空から巨大な音……ガラスの割れる音がする。	공중에서 유리가 깨지는 굉음이 들린다.	A deafening sound of glass cracking comes from above.	
+117	拉斐尔	糟糕……这个时空波动……	糟糕……這個時空波動……	まずい……これは時空波動……	젠장……이 시공 파동……	Shoot… A Spacetime Flux…	
+118	N/A	海因里希的身后，出现了波纹般的逆时针镜面。	海因里希的身後，出現了波紋般的逆時針鏡面。	ハインリッヒの背後に現れたのは、\n波紋のような反時計回りの鏡面。	하인리히의 뒤에 물결무늬 같은 반시계 방향 거울이 나타났다.	Behind Heinrich appears a mirror, which is rotating counterclockwise, looking like waves.	
+119	N/A	少女向后倒去，缓缓融入虚空。	少女向後倒去，緩緩融入虛空。	少女は後ろへと倒れ、ゆっくりと虚空に\n溶け込んでいく。	소녀가 몸을 뒤로 눕히고 천천히 허공에 융합되어 간다. 	The girl falls back, and gradually submerges into the void.	
+120	安妮	小怜，快离开！	小憐，快走！	レンちゃん、離れてッ！！！	렌，어서 여길 떠나자！	Ren, run!	
+121	N/A	然而已经迟了——	但是已經來不及了——	だが、遅かった────	이미 늦었다——	But it's too late—	
+122	N/A	周围的空间被无数的镜面带动着扭曲旋转。	周圍的空間被無數鏡面帶動著扭曲旋轉。	周りの空間は無数の鏡面と共に歪み、\n既に回転を始めている。	주위의 공간이 수많은 거울에 의해 회전하고 있다.	The space surrounding us is distorted and rotates along numerous mirror surfaces.	
+123	N/A	——紧接着，是一股昏天暗地的失重感。	——緊接著，是一股昏天暗地的失重感。	──そして訪れたのは、全身を襲う無重力感。	——이어서 눈앞이 노래지며 중력이 사라진다. 	—Then I'm overwhelmed by the feeling of weightlessness.	
+124	N/A	回过神来的时候，我们已经开始了下坠。	回過神時，我們已經開始下墜。	気が付いた時には、俺達はすでに落下していた。	정신을 차렸을 때 우리는 이미 추락하고 있었다.	When I finally come to myself, I realize we have been falling.	
+125	N/A@小怜	啊啊啊啊啊────！！	嗚啊啊啊啊────！ ！！	うああああぁぁぁぁ――――ッ！！？	아아아아아아────！！	Aaaah—!!	
+126	N/A	在失去知觉之前，我最后记得的感觉是……	在失去知覺之前，我最後的記憶是……	気を失う前に最後に覚えていた事は……	정신을 잃기 전 마지막 느낌은……	The only thing I remember before I pass out is…	
+127	N/A	屁股被风吹过凉飕飕的，肚子更痛了！	屁股被風吹得涼颼颼的，肚子更痛了！	お尻が風で冷やされて、更にお腹が痛くなった！	엉덩이가 바람을 맞아 싸늘하고，배가 너무 아프다! 	My butt feels chilly in the wind and my stomach hurts more!	
+128	N/A	今天真的是……	今天真的是……	今日は本当に……………………	오늘은 정말……	This is…	
+129	N/A	糟透了！！！	糟透了！ ！！	めちゃくちゃだッッ！！！	최악이야！！！	The worst day ever!!!	

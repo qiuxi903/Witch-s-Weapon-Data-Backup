@@ -1,0 +1,21 @@
+ID,channel_group,paraVal1,paraVal2,paraVal3
+string,int,string,string,string
+序号,渠道分组,参数1, 参数2,参数3
+Loading_Bg,22,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23,0,0
+Loading_Bg,25,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23,0,0
+Loading_Bg,70,2|3|6|7|8|9|10|11|13|14|15|16|17|24,0,0
+Loading_Bg,80,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|21,0,0
+Login_Bg,22,23,0,0
+Login_Bg,25,23,0,0
+Login_Bg,70,18,0,0
+Login_Bg,80,21,0,0
+MoneyGameCostLeve1,70,100,0,0
+MoneyGameCostLeve2,70,200,0,0
+MoneyGameCostLeve3,70,300,0,0
+MoneyGameCostSpeed,70,150,0,0
+MoneyGameCostTime,70,2,0,0
+ClothCurrencyShopSetID,22,44000097,4502990033,45030506
+ClothCurrencyShopSetID,25,44000097,4502990033,45030506
+ClothCurrencyShopSetID,70,44000081,4502990029,45030510
+ClothCurrencyShopSetID,80,44000097,4502990033,45030506
+JPMailTitle2Guide,70,10連招待チケット,,

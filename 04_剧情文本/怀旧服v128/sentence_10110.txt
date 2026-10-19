@@ -1,0 +1,32 @@
+﻿1	莉琉	……	……	…………	……	…	
+2	N/A	在小怜离开后，莉琉神色凝重的盯着手持设备。	小憐離開後，莉琉神色凝重地盯著手持裝置。	レンが去った後、マリルは神妙な面持ちで\nタブレットを見つめている。	렌이 자리를 떠난 후 마리루가 굳은 표정으로 휴대 기기를 응시한다. 	After Ren leaves the room, Mariru looks gravely at her handheld device.	
+3	N/A	在莉琉的眼前展现的，是一长串变化的数据流。	在莉琉眼前展現的，是一長串不停變化的數據。	目の前に広がるのは、長きに遷移する\nデータの流動。	마리루의 눈 앞에 펼쳐진 것은 일련의 변경된 데이터 스트림이다.	Strings of data flash on the screen.	
+4	N/A	屏幕上那份处于『锁定』状态的档案，正发生着改变。	螢幕上那份處於「鎖定」狀態的檔案，正在發生變化。	画面上で『ロック』になっていたはずの\nプロファイルが、突如として変化を始めた。	스크린 위 『잠금』 상태인 파일이 \n현재 변경되고 있다. 	Ren’s locked profile is being modified.	
+5	莉琉	(怎么会！埃癸斯应该可以防御任何网络攻击)\n(难道是元老院的人……）	（怎麼會！ 埃癸斯應該可以防禦任何網路攻擊啊！ )\n(難道是元老院的人……）	（バカなッ！　イージスは全てのサイバー攻撃を　防御できるはず！）\n（まさか、元老院の奴らが……）	(이럴 수가! 아이기스가 네트워크 공격을 차단했을 텐데)\n(설마 원로원의 사람인가…）	(How come? Aegis should be able to defend against all forms of cyber attacks.) \n(Or is it a Senator…?)	
+6	N/A	『怜』的历史记录全都变成了乱码，随着屏幕的闪烁，乱码逐渐被修正为有意义的信息。	「憐」的歷史記錄全都變成了亂碼，隨著螢幕的閃爍，亂碼逐漸被修改為有意義的資訊。	『レン』の履歴は読み取れない文字らしきモノの羅列と化しているが、画面の点滅と共に、\n意味のある文章に修正されていく。	『렌』의 과거 기록이 전부 깨진 글자가 되었다. 스크린이 깜박이며 깨진 글자가 정보로 바뀐다. 	Everything turns into garbled text all at once, and then slowly becomes legible as the screen flickers.	
+7	N/A	从无法解析到逐渐完善，埃癸斯主机外部的攻击性防火墙始终没有任何警告。	從無法解析到逐漸完善，埃癸斯主機外部的攻擊性防火牆始終沒有發出任何警告。	不明な文字は徐々に改善してきており、その間も攻性ファイアウォールは何の警告も発令しない。	깨진 상태에서 완전해지기까지 아이기스 본체의 공격성 방화벽에는 어떠한 경고도 없다.	Throughout this process, the aggressive firewall that guards the Aegis host hasn’t sent out any warning.	
+8	N/A	莉琉的手表表盘，一个红色的字母“T”在闪烁。	莉琉的手錶錶面上有一個紅色的字母「T」在閃爍。	マリルの腕時計の盤面には、\n赤いアルファベットの「T」が点滅している。	마리루의 손목시계에 붉은색 글자 "T"가 반짝거린다. 	A red letter "T" is flashing on Mariru's watch.	
+9	莉琉	（埃癸斯主机上发生这种规模的数据篡改，只有『Themis』注意到了异常吗……）	（埃癸斯主機上發生這種規模的數據篡改，只有「Themis」注意到了異常嗎……）	（イージスのメインサーバー上で超規模の改竄が　発生しているというのに……）\n（『Themis』しか異常に気付いていない……\n　だと？）	（아이기스 본체에서 이 정도의 데이터 왜곡이 일어났는데 『Themis』만 이상을 감지한 걸까……）	(Only Themis has noticed such a high-profile tampering on the Aegis host?)	
+10	N/A	手持设备上，『怜』的历史记录被完全更新了\n从幼儿园、小学到中学都就读于私立学校。	螢幕上顯示，「憐」的歷史記錄已完全更新了，\n從幼稚園、小學到中學都就讀於私立學校。	タブレット上では『レン』の生涯が、\n全て更新されていた。\nデータでは幼稚園から、小学校、中学校まで\nずっと私立学校に通っていた。	『렌』의 과거 기록이 모두 갱신되었다. 유치원，초등학교，중학교를 모두 사립학교를 졸업했다.	As displayed on the device, Ren’s identity has been swapped. \nPrivate schooling from kindergarten to high school.	
+11	N/A	成绩单、毕业证、获奖记录、医疗和保险记录……处处都体现着优越富足的家境。	成績單、畢業證書、得獎記錄、醫療和保險記錄……處處都展現著她來自優越富足的家庭。	成績表、卒業証書、表彰状、医療と保険履歴まで……至るところが裕福な家柄を示している。	성적표，졸업장，수상 이력，치료와 보험 기록까지…풍족한 가정 환경이 엿보인다.	Transcripts, diplomas, awards, medical and insurance records… all her documents reveal a wealthy family background.	
+12	N/A	但是前不久少女的双亲和哥哥在海外遭遇事故坠机身亡。	但是前不久少女的雙親和哥哥在海外遭遇事故墜機身亡。	ところが往日、少女の両親と兄が海外の墜落事故に巻き込まれて死去。	소녀의 부모와 친오빠는 얼마 전 해외에서 비행기 추락사고로 사망했다.	But not long ago, the girl's parents and brother were killed in a plane crash overseas.	
+13	莉琉	根据《战后儿童保育法》，曾登记为志愿者的SS级科学家被分配成为了少女的监护人……	根據《戰後兒童保育法》，曾登記為志願者的SS級科學家被分配成為了少女的監護人……	『戦後児童保育法』により、ボランティアとして登録されていたSS級科学者が、\n少女の保護者として赴任した……	《전쟁 후 아동 보육법》에 따라 SS급 과학자가 소녀의 후견인이 되었다…	According to the Post-War Child Care Act, a registered volunteer—an SS-level scientist—now becomes her guardian…	
+14	莉琉	（不会连我的记录都！）\n（果然……这是在挑衅吗？）	（連我的記錄都……）\n（這是在挑釁嗎？ ）	（私の来歴までも……！）\n\n（やはり……これは挑発なのか？）	（설마 내 기록도 전부！）\n（역시……도발하는 건가?）	(Wait, not my records!) \n(What is this, a provocation?)	
+15	N/A	教师评语中有这样的内容“总是喜欢模仿哥哥的动作，缺乏作为女孩子的矜持……”	教師評語上還寫著「總是喜歡模仿哥哥的動作，缺乏作為女孩子的矜持……」	教師からのコメントの中に「お兄さんの動きを真似るのが好きで、女の子としての自覚に欠ける」と、このような内容が書かれている。	교사 평가 중 이런 내용이 있다. “오빠를 따라하길 좋아하고 조신함이 부족하다……”	A teacher's comment reads, “Far from demure, always her elder brother wannabe…”	
+16	莉琉	（伪造到这种程度，真该让信息部门的人好好学学）	（偽造到這種程度，真該讓資訊部門的人好好學學！ ）	（これほどまでの偽装を行えるとは、情報部門の　奴らも交えてご教授願いたいものだ）	（이 정도까지 위조되다니，정보부 사람들에게 잘 배워두라고 해야겠어）	(Looks perfectly real! Those in the information department should watch and learn!)	
+17	莉琉	（如果换别的监护人，就连我也无法分辨真伪了）\n（……是移植了别人的资料吗？）	（如果換成別的監護人，大概連我都無法分辨真偽了。 ）\n（……是移植了別人的資料嗎？ ）	（保護者の情報すら変更がなされると、当事者の　私でも真偽の判別を下せない）\n（……他人の情報を移植したのか？）	（후견인을 바꾼다면 나도 진위 분별은 못했겠지…) \n（……다른 사람의 자료를 이식한 건가?）	(Even I'd be fooled if I were not her guardian!) \n(… Have they copied someone else's files?)	
+18	莉琉	（看来总部要好好做一次反窃听扫描了。）	（看來總部要好好做一次反竊聽的掃描行動了。 ）	（どうやら本部に今一度、念入りな盗聴防止\n　スキャンを実施しなくてはな）	（보아하니 본부가 반도청 스캔을 해야할 것 같군.）	(Seems the headquarters should launch an anti-eavesdropping scan.)	
+19	莉琉	（下面还有张照片？……）	（嗯？ 下面還有張照片？ ……）	（………下に写真が？）	（사진도 있잖아？……）	(And there's a photo below…?)	
+20	莉琉	……！！	……！ ！	……ッ！！	……！！	…!	
+21	N/A	记录中有一张照片作为附件，是少女双亲的遗物。	記錄中有一張照片附件，是少女雙親的遺物。	履歴の中に添付ファイルとして1枚の写真が、\n存在した。少女の両親の遺品とされていた物だ。	기록 중 한 장의 사진이 첨부되어 있다. 소녀의 부모님이 남긴 유품이다.	A photo is attached to the record as a belonging of the deceased parents.	
+22	N/A	照片上，幼时的小怜一头短发，正在得意地展示着她的画作。	照片上，幼時的小憐一頭短髮，正在得意地展示著她的畫作。	写真には、ショートカットの髪形をした幼い頃のレンが、得意げに自分の絵を披露している。	사진 속 어린 렌은 짧은 머리를 하고 자신의 그림을 자랑하고 있다.	In the photo, a baby girl with short hair is showing off her drawing.	
+23	N/A	女孩画的是小美人鱼，右下角用稚气的字体写着一行英文“I have red hair too”	女孩畫的是小美人魚，右下角用稚氣的字體寫著一行英文「I have red hair too」。	女の子が描いたのは小さなマーメイドで、\n右下に幼い字で1行の英文を書いている。\n「I have red hair too\n　（私も赤い髪を持っている）」	아이가 그린 그림은 인어，오른쪽 밑에 아이 글자체로 “I have red hair too”라고 적혀 있다.	A drawing of a little mermaid, and at the lower right corner, some childlike handwriting that reads "I have red hair too".	
+24	N/A@莉琉	……	……	…………	……	…	
+25	N/A@莉琉	呵呵呵呵，原来是这样吗……	呵呵呵呵，原來是這樣……	ふふふ、そういう事か……	하하하하，그렇구나……	Hehe, in this case…	
+26	N/A@莉琉	虽然是合成的照片，但小时候的样子还真可爱~	雖然是合成照片，但這傢伙小時候的樣子還真可愛～	合成の写真とは言え、\n幼い頃の姿もキュートだな～～	합성 사진이지만 어렸을 때 모습도 정말 귀엽네~	I know it's forged, but this young Ren looks soooo cute.	
+27	N/A@莉琉	既给她制造了天衣无缝的历史记录。	既然特別在我面前為她打造了天衣無縫的歷史記錄，	いかにも自然で現実味のある、\n完璧な履歴を彼女に作りあげた。	그 아이를 위해 완벽한 과거 기록을 만들었구나.	Now you've made up a perfect history for her.	
+28	N/A@莉琉	同时是想提醒我，这个小家伙很特别吧？	是想提醒我，這個小傢伙很特別吧？	それと同時に、この子は「特別」なんだ　と\n私に注意を促した。	이 아이가 특별하다고 내게 알려주려는 거지? 	Are you also trying to remind me she’s special?	
+29	N/A@莉琉	你一开始就不打算向我隐瞒。	你一開始就不打算隱瞞我。	──お前は最初から私に隠すつもりなどない。	처음부터 날 속일 생각이 없었던 거야.	You didn't intend to hide anything in the first place.	
+30	N/A@莉琉	所以才特意选了这张我小时候画的画──	所以故意選了這張我小時候畫的畫──	だから、私が小さい頃に描いたこのマーメイドの絵を選んだのか──	그러니까 내가 어렸을 때 그린 그림을 선택했겠지──	As you've deliberately chosen my childhood drawing—	
+31	莉琉	你要传达信息的就是这些吗……	你想傳達給我的資訊就是這些嗎……	中身はフィクションと言えど、\nメッセージは伝えたいという訳か……？	네가 전달하고 싶은 정보는 이것뿐이야?……	This is all you want to tell me, isn’t it…	
+32	莉琉	埃癸斯……	埃癸斯……	イージス……	아이기스…	Aegis…	

@@ -1,0 +1,104 @@
+﻿1	N/A	根据莉琉的指引，我们一路来到地下停车场的指定位置汇合。	根據莉琉的指引，我們一路來到地下停車場的指定位置會合。	マリルの指示に従って、俺達は地下駐車場の\n指定された合流地点へとたどり着いた。	마리루의 안내에 따라 우리는 지하 주차장의 지정 위치에 왔다.	We rush all the way down to the underground parking lot as directed by Mariru.	
+2	小怜	莉琉刚才通知我，那些人并没有追来，已经从另一个通道撤离了。	莉琉剛才通知我，那些人並沒有追來，反而是從另一個通道撤離了。	追手はもう来てないよ。\n\nさっきマリルが通信で教えてくれたんだけど、\nもう1つの通路から撤退したみたい。	그 사람들은 우릴 쫓아오지 않고 다른 통로에서 철수했다고 한다. 	Mariru told me that the Administrator's men has pulled out from another exit instead of running after us.	
+3	拉斐尔	我看看她的伤势……我学过一些急救。	讓我看看她的傷勢，我學過一些急救。	彼女の傷を見せなさい……\n応急手当は一通り学んでいるわ。	상처를 보여줘……응급치료를 배운 적 있어.	Let me check her wound… I've learned first aid before.	
+4	N/A	拉斐尔示意我让安妮平躺在一旁的台子上，开始检查她的脉搏和呼吸。	拉斐爾示意我讓安妮平躺在一旁的台子上，開始檢查她的脈搏和呼吸。	ラファエルは付近の台にアニーを寝かせるよう\n合図をする。\nそして、すぐに脈拍と呼吸を確認し始めた。	라파엘이 앤을 난간 위에 눕히라고 한 뒤 맥박과 호흡을 살핀다.	Raphilia signals me to lay Annie flat on a flat surface. Then she checks Annie's pulse and breathing.	
+5	拉斐尔	还好没造成室颤，不过她现在呼吸很微弱，身上有多处灼伤，不知道内脏的损伤程度……	還好沒造成室顫，不過她現在呼吸很微弱，身上多處灼傷，還不知道內臟的損傷程度……	心室細動になっていないのは幸いだが、\n今の彼女の呼吸は余りにも微弱……\n身体には複数の火傷跡があって、\n内臓の損傷状態はまだ分からないわ……	다행히 심실세동 증상은 없지만，호흡이 약하고 화상이 많아서，내장의 손상 정도가 어떨지 알 수 없어……	Luckily, there is no v-fib, although her breath is quite shallow and the burns are severe. No idea if the’s any internal injury …	
+6	拉斐尔	那群疯子，居然对一个女孩子做这种事！	那群瘋子，居然對一個女孩子做這種事！	あの狂人達め、女の子一人を相手にこんな……ッ	그 미친 녀석들！ 여자아이에게 이런 짓을 하다니！	That's brutal! Treating a girl like this!	
+7	贝阿特丽切	呐，这位小姐──	吶，這位小姐──	──ねぇ、お嬢さん	이봐요，아가씨──	Hmm… Miss?	
+8	贝阿特丽切	你身边是不是经常出现一些小动物？\n比如──	妳身邊是不是經常出現一些小動物？ \n譬如──	いきなりで悪いんだけど、あなたの身の回りに、\n良く小動物が現れたりしないかしら？\n例えば──	아가씨 옆에 작은 동물이 자주 나타나나요？\n예를 들면──	Do you often attract small animals? \nFor example—	
+9	N/A	我们循着贝阿特丽切指的方向看过去，有两只鸽子在附近围着我们。	我們循著貝阿特麗切指的方向看過去，有兩隻鴿子在附近歪頭看著我們。	俺達はベアトリーチェが指差した方向を見る。\n2羽のハトが俺達の近くを飛び回っていた。	베아트리체가 가리킨 방향으로 돌아보니，비둘기 두 마리가 우리 주위를 맴돌고 있다.	We turn and look over. There are two pigeons near us.	
+10	N/A@鸽子	咕咕──	咕咕──	クルックッ──	구구구	Coo— Coo—	
+11	拉斐尔	这有什么奇怪的，各种地方不都有这些动物吗？	這有什麼奇怪的，鴿子到處都很常見啊！	それの何がおかしいの？\nこんな動物なんて、どこにでもいるじゃない？	그게 뭐가 어때서. 어딜 가나 이런 동물은 있잖아?	What's strange about this? Pigeons are found everywhere.	
+12	小怜	不不，这里是地下3层的停车场……	可是，這裡是地下3層的停車場啊……	いやいや、ここは地下3階の駐車場だぞ……	아니，여긴 지하 3층 주차장인데……	Nope, it's Basement Three in here!	
+13	拉斐尔	所以呢？\n也很常见啊~	所以呢？ \n也很常見啊～	だから何よ？\n普通でしょ？	그래서?\n흔한 일이야~	So what? \nThey're not endangered animals.	
+14	N/A@鸽子	咕咕咕──	咕咕咕──	クルッポ─クックッ──	구구구구	Coo— Coo— Coo—	
+15	小怜	（…难道这位大小姐偏偏在这种事情上没有常识吗？）	（……難道這位大小姐在這種事情上反而沒有基本常識嗎？ ）	（……まさかこのお嬢様）\n\n（……こういう事に限っては常識がない？）	（…설마 이 아가씨는 이런 쪽에 상식이 없는 건가?）	(… Nobility, hah. No common sense at all.)	
+16	贝阿特丽切	治愈类的魔法确实会吸引小动物，如果本人并不自知的话……	治癒類的魔法確實會吸引小動物，如果本人沒有自覺的話……	たしか治癒系の魔法は小動物を惹きつける力が\nあったはず。\nもし、本人に自覚がないのであれば……	치유계열 마법은 작은 동물을 끌어들이죠. 만약 본인이 자각하지 못했다면……	Healing magic does attract small animals. But if she's not aware of that…	
+17	N/A	贝阿特丽切将我拉到拉斐尔身边，分别拉着我们两人的手腕。	貝阿特麗切將我拉到拉斐爾身邊，分別拉著我們兩人的手腕。	ベアトリーチェが俺の事をラファエルの傍まで\n引き寄せると、俺達2人の腕をそれぞれ掴んだ。	베아트리체가 나를 라파엘 옆으로 끌어당긴 후，각각 우리 두 사람의 손목을 잡는다.	Beatrice pulls me nearer to Raphilia, taking her hands and mine.	
+18	贝阿特丽切	来，试试看──	來，試試看──	さあ、試してみて──	자，시도해보죠──	Come, try this—	
+19	小怜	嗯？	嗯？	え？	응?	Hmm?	
+20	N/A	贝阿特丽切将我和拉斐尔的手扣在一起，并用自己的手掌牢牢的在外侧按住。	貝阿特麗切將我和拉斐爾的手扣在一起，並用自己的手掌牢牢地從外側按住。	ベアトリーチェがラファエルと俺の手を\n重ね合わせる。\nそして外側から自らの手でしっかりと押さえた。	베아트리체가 나와 라파엘의 손을 모으고 자신의 손바닥으로 감싼다.	Beatrice puts my hand on Raphilia's, and presses our hands hard with her palm.	
+21	拉斐尔	你做什么──？	妳在做什麼──？	一体何を──？	뭐하는 거야──？	What are you doing—?	
+22	N/A	想不到这位大小姐的手意外的柔软\n而且还很温暖……	想不到這位大小姐的手這麼柔軟，\n而且還很溫暖……	このお嬢様の手は意外と柔らかかった。\nそれに暖かくて……	이 아가씨，손이 의외로 부드럽다.\n게다가 따뜻해……	I don't expect…  \nRaphilia's hand to be so soft and warm…	
+23	N/A	不对，等等！\n我们这是在──	不對，等等！ \n我們這是在──	いや、待ってくれよおいっ！\n俺達は今──	아니，잠깐！\n우리 지금──	No, wait! \nAm I—	
+24	小怜	牵手……	手牽手……	手を、繋いでますね……	손을 잡고 있어……	Holding her hands…	
+25	N/A	拉斐尔满脸意外和愤怒的表情，瞪着我的眼睛简直可以喷出火来。	拉斐爾滿臉又驚又怒，瞪著我的眼睛簡直可以噴出火來。	ラファエルは驚いた後、憤怒の表情をしながら、\n火炎を放射しそうな目で俺を睨んだ。	놀람과 분노가 섞인 표정의 라파엘이 눈에서 레이저를 쏘듯 날 노려본다.	I see surprise and anger in Raphilia's face. She is glaring at me, almost breathing fire.	
+26	N/A	我脑海中已经浮现出自己被她一边骂着死变态一边打得鼻青脸肿的情景了。	我腦海中已經浮現出自己被她一邊罵著死變態一邊打得鼻青臉腫的情景了。	俺の脳内予想図が、この行為が終わった後、\n彼女に「変態」と罵倒されながら、\nボロボロに殴られるシーンを描き始めている。	그녀가 날 변태라고 욕하며 흠씬 두드려 패는 장면이 머릿속을 스친다. 	I shudder at the thought of being called a pervert and beaten up black and blue.	
+27	N/A	突然拉斐尔好像感觉到什么，疑惑的看向了贝阿特丽切，而后者则朝她轻轻点了点头。	突然間，拉斐爾好像感覺到什麼，疑惑地看向貝阿特麗切，而後者則朝她輕輕點了頭。	だがその瞬間、ラファエルも何か感じたようで、\n戸惑いながらもベアトリーチェを見た。\n彼女は改めてラファエルに軽く頷く。	라파엘이 뭔가를 느낀 듯 베아트리체를 바라보자 그녀가 라파엘을 향해 고개를 끄떡인다.	Suddenly, Raphilia turns to look at Beatrice, as if coming to realize something. Beatrice nods slightly.	
+28	小怜	？	？	────？	？	?	
+29	N/A	拉斐尔认真的闭起了眼睛，贝阿特丽切按住我俩的手也逐渐松开。	拉斐爾專注地閉上眼睛，貝阿特麗切按住我倆的手也逐漸鬆開。	ラファエルは真剣に目を閉じた。\n\n俺達2人を押さえていたベアトリーチェの手が、\nだんだん離れていく。	라파엘이 진지하게 눈을 감고，베아트리체가 우리 둘의 손을 잡은 손을 천천히 놓는다. 	Raphilia closes her eyes, with an intense look on her face. And Beatrice slowly moves her palm away.	
+30	小怜	（诶？难道我的手很好拉吗？）	（為什麼？ 難道我的手很好拉嗎？ ）	（え？）\n（ラファエル、俺の手を離したいはずじゃ──）	（엣？설마 내 손이 잡아당기기 좋은 손인가？）	(What? Does she enjoy holding my hand?)	
+31	N/A	突然间，我感觉一阵轻松，仿佛全身都被一团温暖的光包围着。	突然間，我感覺一陣輕鬆，彷彿全身被一團溫暖的光包裹著。	──突然、全身から安心感が湧き上がってくる。\n同時に身体が温かい光のようなモノに包まれた。	갑자기 따뜻한 빛이 온 몸을 감싸는 것처럼 몸이 가벼워진다.	All of a sudden, a pleasant warmth flows through my body, and I feel more relaxed than ever.	
+32	N/A	呼──\n第一次觉得地下停车场的空气也这么清新~	呼──\n第一次覺得地下停車場的空氣如此清新～	す――は――……す――は――……\n\n地下駐車場の空気が爽やかに感じるなんて、\n人生で初めてだ。	후──\n지하 주차장의 공기도 이렇게 맑을 수 있다는 걸 처음 알았어~	Phew— It suddenly dawns on me that the air is so fresh, even in his underground parking lot.	
+33	N/A	而且不知为何，刚才那恐怖的情景在我心里造成的阴霾似乎也瞬间消散了。	而剛才那恐怖情景在我心裡造成的陰霾，似乎也瞬間消散了。	先ほどの恐ろしい情景がもたらした心の曇りも、\n蹴散らかすかのように、たちまち一瞬で消えた。	왠지 모르겠지만 방금 그 공포스러운 장면이 마음 속에서 연기처럼 사라졌다.	And somehow the horrible scene stops haunting me.	
+34	N/A@安妮	咳，咳──	咳，咳──	こほっ、こほっ──	콜록，콜록──	Ah-em…	
+35	小怜	安妮？	安妮？	ア、アニー？	앤？	Annie?	
+36	N/A	在我的注视下，安妮身上的灼烧伤痕正在以不可思议的速度变淡并消退着。	在我的注視下，安妮身上的灼燒傷痕正在以不可思議的速度變淡並消退。	俺の目の前で、アニーの身体に残された火傷跡が\n常軌を逸脱した早さで消えていく。	앤의 몸 위에 있떤 화상이 불가사의한 속도로 옅어지더니 완전히 사라졌다.	I see the burn scars on Annie's body fading away at an incredible speed.	
+37	N/A	那种温暖的感觉渐渐消散，然后拉斐尔长出了一口气，睁开眼看着我们。	溫暖的感覺逐漸消退後，拉斐爾深吐一口氣，睜開眼看著我們。	身体を覆う温もりはだんだんと消えていき……\n\nラファエルは大きく息を吐くと、目を開いて\n俺達に視線を向けた。	따스한 느낌이 점점 사라지고 라파엘이 긴 숨을 쉰 후 눈을 뜨고 우리를 바라본다.	The warmth gradually subsides. Raphilia heaves a sigh of relief and opens her eyes.	
+38	安妮	小怜，这是哪……	小憐，這是哪……	レンちゃん、ここは……	렌，여긴 어디야……?	Ren, where are we…	
+39	N/A	安妮好像刚睡醒一样，迷迷糊糊的看着我。	安妮好像剛睡醒一樣，迷迷糊糊地看著我。	アニーは朝の寝起きのように、\nぼんやりと俺を見つめる。	앤이 마치 방금 잠에서 깬 것처럼 몽롱한 눈빛으로 날 쳐다본다.	Annie looks at me sleepily, as if just waking up.	
+40	小怜	我们安全的逃出来了，正在等莉琉汇合。	我們安全逃出來了，正在等莉琉來跟我們會合。	俺達は無事に脱出したんだ！\n今はマリルの合流を待っている。	안전하게 빠져나왔어. 지금 마리루를 기다리고 있는 중이야.	We're safe now. Just waiting for Mariru.	
+41	拉斐尔	……	……	…………	……	…	
+42	拉斐尔	为什么……	為什麼……	どうして……	왜……	Why…	
+43	贝阿特丽切	你……从没发现过吗？	妳之前從沒發現過嗎？	あなたは……気付いていなかったの？	모르셨군요？	Haven't you… noticed this before?	
+44	贝阿特丽切	拥有如此美妙治愈能力的魔女大小姐\n真是让人心动不已呢~	擁有如此美妙治癒能力的魔女大小姐，\n真是讓人心動不已呢～	こんなに素晴らしい、癒しの能力を持っている\n魔女のお嬢様なんて。\nドキドキしちゃうわね。	이토록 아름다운 치유 능력을 보유한 마녀 아가씨는\n정말 절 설레게 한다니까요~	A witch with such a wonderful healing magic… \nYou're amazing!	
+45	小怜	真的呢拉斐尔，我也感觉到了！	真的，拉斐爾，我也感覺到了！	本当だよラファエル！　俺も感じたっ！	정말이야. 라파엘，나도 느꼈어！	Yeah, really! I've also felt the magic!	
+46	拉斐尔	…什么魔女……你们都在胡说些什么！	…什麼治癒能力，什麼魔女！ 你們都在胡說八道！	……何が魔女よ……\nあんた達はふざけているのか！？	…마녀라니……너희들 무슨 헛소리를 하는 거야！	… Witch? Magic? What nonsense!	
+47	N/A	拉斐尔依然眉头紧锁。	拉斐爾依然眉頭深鎖。	ラファエルは相変わらず眉をひそめている。	라파엘이 미간을 찌푸린다.	Raphilia frowns sternly.	
+48	拉斐尔	你刚才对我做了什么！\n她的伤怎么突然恢复了？	妳剛才對我做了什麼！ \n她的傷怎麼突然就恢復了？	私に何をしたの！\nどうして彼女の傷は急に治ったのよ！？	방금 나한테 무슨 짓을 한 거야?\n앤의 상처가 어떻게 갑자기 회복됐지?	What have you done to me? \nWhy do her wounds heal so quickly?	
+49	N/A	这位贵族大小姐的世界观正面临着巨大的冲击，我一时也不知该如何跟她解释。	這位貴族大小姐的世界觀正面臨著巨大衝擊，我一時也不知該如何跟她解釋。	どうやら、この貴族のお嬢様の世界観に、\n過去にない程の、大きな衝撃が激突したようだ。\n俺もどう彼女に説明すればいいか分からない。	이 귀족 아가씨의 세계관이 거대한 충격을 받은 것 같다. 어떻게 설명하지…?	I know it's hard to assimilate so much information all at once. So I remain silent.	
+50	拉斐尔	还有，那群攻击保安军的家伙是什么人？\n居然敢在这种地方使用异质物武器……	還有，那群攻擊保安警察的傢伙是什麼人？ \n膽敢在這種地方使用異質物武器……	それに、あの保安軍を襲った連中は何者なのよ？\nこんな場所で異質物武器を使うなんて……	그리고 보안군을 공격한 놈들은 누구지?\n감히 이런 곳에서 이물질 무기를 사용하다니…	Who are those attacking our security soldiers? \nHow dare they use Substance H weapon here…	
+51	拉斐尔	一个已经死了几百年的人突然活过来，而我居然还戴着她的遗物。	一個已經死了幾百年的人突然出現在我面前，而我居然還戴著她的遺物。	何百年も前に亡くなっている人が突如復活して、\n私がそいつの遺品を持っていて、	몇 백 년 전에 죽은 사람이 갑자기 살아나고，난 아직도 그녀의 유물을 착용하고 있어.	Why did a person dead for hundreds of years suddenly come to life? And I'm wearing her necklace!	
+52	拉斐尔	而且我还看到了……\n那种东西……	而且我還看到了……\n那種東西……	それに……\nあんなものまで見た……	게다가 그런 것까지 보다니……	And I've seen… \nThe nightmare…	
+53	N/A	回想起刚才的情景，拉斐尔的声音还有些颤抖。	回想起剛才的情景，拉斐爾的聲音還有些顫抖。	あの闇深き情景を思い出したラファエルの声は、\n少し震えている。	방금 화면이 생각났는지 라파엘의 목소리가 조금 떨린다. 	Raphilia's voice trembles as she thinks of the horrible scene.	
+54	N/A	我又看向贝阿特丽切的脸，无暇精致的面容露出从容淡定的微笑。	我又看向貝阿特麗切的臉，那無暇精緻的面容露出從容的微笑。	俺はベアトリーチェに視線を向ける。だが、\nその精緻な顔は余裕の微笑みを浮かべるだけだ。	다시 베아트리체의 얼굴을 쳐다보니，티 없이 정교한 얼굴에 침착하고 여유로운 미소가 떠오른다.	I turn to Beatrice. A calm smile appears on her beautiful face.	
+55	N/A	绿宝石又恢复了原样，贝阿特丽切将它交还给了拉斐尔\n似乎刚才那恐怖的一幕与她毫无关连	綠寶石又恢復了原樣，貝阿特麗切將它交還給拉斐爾，\n似乎剛才那恐怖的一幕與她毫無關連。	エメラルドが元通りに戻る。\nベアトリーチェはそれをラファエルに返した。\nまるであの恐怖の一幕は、\n彼女とは関係がないような振る舞いで。	마치 아까의 그 공포스러운 장면은 그녀와 전혀 관련이 없다는 듯\n베아트리체가 원래 모습을 회복한 에메랄드를 라파엘에게 건넨다.	She returns the necklace to Raphilia. \nThe emerald looks normal again, as if has nothing to do with the horror just now.	
+56	贝阿特丽切	《七哲人书》上的魔法会影响人的心灵……\n第一次看到，会感到恐惧也是正常。	《七哲人書》上的魔法會影響人的心靈……\n第一次看到時，會感到恐懼也是正常。	『七賢者の書』の魔法は人の心に影響するの……\n初めて見た時は、恐怖を感じるのが当然だわ。	《칠현자의 서》의 마법은 사람의 마음에 영향을 미치죠…\n처음 보았을 땐 무서울 수 있어요.	The magic on the Book of Seven Philosophers does disturb the mind… \nIt's perfectly normal to feel fear at your first encounter.	
+57	贝阿特丽切	不过恐惧是人类很重要的情感，了解自己的弱小才能在危机四伏的环境中生存。	不過恐懼是人類很重要的情感，要先瞭解自己的弱小，才能在危機四伏的環境中生存。	でも恐怖は人間の重要な感情よ。\n\n自分の弱さを知っている人間だからこそ、\n危機が迫る環境下でも生き抜くことができるの。	공포는 인간의 가장 중요한 감정이에요. 자신의 약점을 알아야 위기에서 살아남을 수 있어요.	But fear is an important emotion. Knowing your weakness helps you survive crises.	
+58	贝阿特丽切	真正可怕的，是被恐惧所支配内心的人们……	真正可怕的，是內心被恐懼所支配的人們……	本当に恐ろしいのは、恐怖に心を支配されて\nしまった人々……	정말 무서운 것은 공포에 마음을 지배당한 사람들이에요……	What's really horrible is those dominated by fear…	
+59	N/A	贝阿特丽切像是回想起了往事，露出非常悲伤的神色。	貝阿特麗切像是回想起了往事，露出非常悲傷的神情。	ベアトリーチェは昔の事を思い出したかのように\nとても悲しい表情を浮かべた。	베아트리체가 과거 일을 회상하는 듯 아주 슬픈 눈빛을 한다.	Beatrice seems to be drawn into memories, with a sad look in her eyes.	
+60	贝阿特丽切	话虽如此，我还是希望自己从没打开过那本书，没许过那样的愿望。	話雖如此，我還是希望自己從沒打開過那本書，沒許過那樣的願望。	とは言っても私は、あの本を手にしなければ……\n\nあんな願望を持たなければ良かった……	전 여전히 제가 그 책을 열지 않았길，그 소원을 빌지 않았길 소망한답니다.	Be that as it may, I'd rather never have opened that book, and never have made that wish…	
+61	贝阿特丽切	没有得到过那诅咒般的能力……	沒有得到過那詛咒般的能力……	あの呪いのような力を、手に入れたばかりに……	그 저주 같은 능력을 얻지 않았다면……	And never… have gained the cursed power…	
+62	小怜	诅咒？	詛咒？	呪い？	저주？	Cursed?	
+63	贝阿特丽切	魔导书赋予了我一种……\n我自己也无法控制的『吸引异性』的魔法。	魔導書賦予了我一種……\n我自己也無法控制的「吸引異性」的魔法。	魔導書は私に、自分自身でも制御できない\n能力を1つ与えたの。\n「異性を惹きつける」魔法を……	마도서는 내게……\n스스로도 제어할 수 없는『이성 유혹』 마법을 줬어요.	The Grimoire has endowed me with a magic… \nI can't control myself from exuding a charm that draws men.	
+64	安妮	（原来……！）	（原來……！ ）	（なるほどぉ……ッ！！！）	（어쩐지……！）	(That's why…!)	
+65	N/A	贝阿特丽切说着转头望向我，用食指指尖轻触了一下我的喉咙。	貝阿特麗切說完後轉頭看著我，用食指指尖輕觸了一下我的喉嚨。	ベアトリーチェは俺の方を振り返ると、\n人差し指で、俺の喉に軽く触れた。	베아트리체가 날 바라보며  집게손가락 끝을 내 목에 갖다 댄다. 	Beatrice turns to me and taps my throat with the tip of her finger.	
+66	贝阿特丽切	呐，可以问你个问题吗？	吶，可以問妳個問題嗎？	……ねぇ、1つ聞いてもいいかしら？	하나만 물어봐도 돼요？	May I ask a question?	
+67	小怜	是……请说！	是……請說！	はい！……どうぞっ！	네… 말씀하세요！	Yes… Please!	
+68	贝阿特丽切	你叫小怜对吧？\n你很特别呢……	妳叫小憐對吧？ \n妳很特別呢……	レンちゃんって言うのよね？\nあなたはとても、特別だわ……	렌，맞죠？\n정말 특별하군요……	Your name is Ren, right? \nYou're special…	
+69	贝阿特丽切	你明明是女孩子，应该完全不受这种魔法的影响才对，但为什么……你总会偷看我呢？	妳明明是女孩子，應該不會受到這種魔法的影響才對，但為什麼……妳一直在偷看我啊？	女の子であれば、この魔法の影響は全く受けない\nはずなのに。\nどうして……\nあなたはいつもこっそり私を見ているのかしら？	여자는 이 마법의 영향을 받지 않는데，어째서 당신은....날 몰래 쳐다보고 있죠?	As a girl, you should be immune to my charm. But why did you…  keep peeking at me?	
+70	小怜	被戳穿了！\n啊啊啊啊不要说出来啊！！！	被看穿了嗎？ \n啊啊啊啊不要說出來啊！ ！！	バレてるっ！\nあぁぁあああ言わないでくれっ！！！	들켰다！\n아아아아아，얘기하지 마！！！	She's noticed! \nSoooooo ashamed!	
+71	贝阿特丽切	不过……你又不会像那些男人一样陷入疯狂般的…完全失控。	不過……妳不會像那些男人一樣陷入瘋狂般地……完全失控。	でも………ほかの男達みたいに狂気に陥って\n……完全に制御不能となるわけでもないわね。	하지만……당신은 그 남자들처럼 완전히 이성을 잃지는 않는군요.	But… unlike men, you don't completely lose control… or behave like mad.	
+72	小怜	（是魔法的关系吗……）\n（不不不，刚才我已经完全失控了啊！！）	（所以那些都是魔法的關係嗎……）\n（不不不，剛才我已經完全失控了啊！ ！）	（魔法のせいだったのか……）\n\n（って　いやいやいや）\n（俺はさっき完全に制御不能だったぞッ！！）	（마법 때문일까……?）\n（아니，나도 방금 이성을 잃었는 걸！！）	(Is it because of my magic?…) \n(No no no, I did lose control completely!)	
+73	N/A	贝阿特丽切又用食指慢慢的勾起了我的下巴，然后轻轻的点了一下我的鼻尖。	貝阿特麗切又用食指慢慢地勾起我的下巴，然後輕輕點了一下我的鼻尖。	再びベアトリーチェが、ゆっくりと人差し指で\n俺の顎を持ち上げ、軽く俺の鼻先に触れた。	베아트리체가 손가락으로 내 턱을 들어올리고 코 끝을 누른다. 	Beatrice slowly lifts my jaw with one finger, and then gently touches my nose.	
+74	贝阿特丽切	我并不讨厌……不，应该说是，很可爱呢~	我並不討厭喔～不，應該說，這樣很可愛呢～	私は嫌いじゃないわ……\nいいえ、むしろ、可愛いわね……	싫지 않아요……아니，사랑스럽다고 해야겠죠~	I don't mind…  Honestly, I have to say… you're cute.	
+75	N/A	我反射性的吞了吞口水。	我下意識地吞了吞口水。	……俺は反射的に唾を飲んだ。	나는 반사적으로 침을 꼴딱 삼켰다.	I gulp unconsciously.	
+76	N/A	真的只是……魔法吗？！	真的只是……魔法嗎？ ！	本当に……魔法のせいだったのかッ？！	정말……마법 때문일까？！	Is that…  merely the effect of magic?	
+77	N/A	很快，一辆疾驰而来的黑色加长SUV停在了我们面前。	很快地，一輛疾馳而來的黑色加長SUV停在我們面前。	まもなく、猛スピードで走りこんできた黒色の\nフルサイズSUVが俺達の前に止まった。	빠른 속도로 주차장에 들어온 검은색 SUV리무진이 우리 앞에 멈춘다.	A short while later, a black SUV limo whizzed to a stop in front of us.	
+78	莉琉	小怜、安妮，快上车！	小憐、安妮，快上車！	レン、アニー、早く乗れッ！	렌，앤，어서 타！	Ren, Annie, get in!	
+79	莉琉	你是叫贝阿特丽切吧？希望你也能跟我们一起走。	妳是貝阿特麗切吧？ 希望妳也能跟我們一起走。	お前はベアトリーチェと言ったな？\n私達と共に来て欲しい。	당신이 베아트리체지? 우리와 함께 가줬으면 좋겠어.	Beatrice, right? I hope you'll go with us.	
+80	莉琉	如果自己对当年认识的人的经历感兴趣，我已经让人备好了全部可以查到的资料。	如果妳對當時認識的人的經歷感興趣，我已經請人準備好所查到的所有資料了。	お前の当時の知り合いに関する『その後』\nに興味があるのなら、\nこちらとしては既に調査可能な全人物の資料を\n全て用意している。	당시 알던 사람들의 이력이 궁금하다면，우리가 이미 모든 자료를 준비해놨어.	I've found all the documents available… In case you're interested in the life of those you know.	
+81	莉琉	那个暗恋你的诗人，之后可是写了一些流传至今的东西呢。	至於那個暗戀妳的詩人，之後可是寫了一些流傳至今的東西呢。	お前に秘かに片思いをしていた人物……\n\nあの詩人が後年に書いたものは、\n現在にまで伝わっているぞ。	당신을 짝사랑했던 그 시인의 시가 지금까지 전해져 오고 있어.	Your secret admirer, the poet, has written verses that have been passed down through centuries.	
+82	贝阿特丽切	好吧，我对你们这个小可爱也很感兴趣呢。	好吧，我跟妳走，我對這個小可愛也很感興趣呢。	──いいわ。\nこの可愛い子ちゃんにも興味があるし。	좋아요. 당신들의 이 귀여운 생명체에도 관심이 있으니까요.	Fine. I'm also interested in this cutie here.	
+83	N/A	和贝阿特丽切视线相交，我的脸一下又涨红了……	和貝阿特麗切四目相對，我的臉一下又漲紅了……	ベアトリーチェと再び目が合い、\n俺の顔は真っ赤になる……	베아트리체와 눈이 마주친 내 얼굴이 순식간에 붉어졌다……	Meeting Beatrice's eyes, I blush again…	
+84	N/A	真、真的只是魔法吗？！！	真、真的只是魔法嗎？ ！！	ほ、本当に……魔法のせいだったのかッ！？	지，진짜 단순히 마법 때문일까？！！	Is… Is that really just the effect of her magic?	
+85	莉琉	拉斐尔还是先回酒店吧，那群人已经撤了，现在这里很安全。	拉斐爾小姐還是先回酒店吧，那群人已經撤了，現在這裡很安全。	ラファエル、君はホテルに戻った方がいい。\nあの連中はすでに撤退した。\n現在はホテル内での安全を保証できる。	라파엘은 호텔로 돌아가는 게 좋겠어. 그 녀석들이 모두 철수했으니 이제 안전할 거야.	And Raphilia, you just go back to your room. The gang has already left. It's safe now.	
+86	莉琉	而且考察团要是发现你失踪了非得炸锅不可。	而且要是考察團發現妳失蹤了，這裡一定連屋頂都被掀了。	それに、お前がいなくなったのを視察団が\n気付いてしまったら、騒ぎは余計に大きくなる。	게다가 시찰단이 네가 실종된 걸 알고 난리가 났으니까.	If the delegation finds you missing… You don't want to scare them, you know.	
+87	拉斐尔	我们带来了禁运品……还引起了这么大的骚动。	但，我們帶來了禁運品……還引起了這麼大的騷動。	私達が禁輸品を持ち込んで……\nこんな大きな騒ぎを起こしてしまった……	우리가 금지물품을 들고 와서....이렇게 큰 소란을 피웠군.	We've carried contraband… and caused such turmoil…	
+88	N/A	拉斐尔看了看贝阿特丽切\n你带的禁运品已经变成一个大美女了，可喜可贺。	拉斐爾看了看貝阿特麗切，\n妳帶的禁運品已經變成一個大美女了，可喜可賀。	ラファエルはベアトリーチェの方を見る。\n\n持ち込んだ禁輸品が1人の美人になった。\nめでたしめでたし。	라파엘이 베아트리체를 쳐다본다.\n그 금지물품이 미녀로 변했으니，아주 기쁜 일이지.	Raphilia looks at Beatrice. \nWell, the contraband has turned into a beautiful lady. How sweet!	
+89	拉斐尔	你就这么放我走了？	妳就這樣放我走嗎？ 不需代價？	──このまま私を見逃すの？	이렇게 날 놔주는 거야?	And you're letting me go just like this?	
+90	莉琉	作为交换，戴克斯博士已经同意，未来一年内萨蒙顿的农产品会优先供给我指定的交易商。	呵呵，戴克斯博士已經同意，未來一年內薩蒙頓的農產品將優先提供給我指定的交易商。	安心しろ。\nその代わりと言っては何だが、デックス博士は、\n今後1年間サモントンの農産物を私が指定した\n取引先へ、優先で提供する事を約束してくれた。	덱스 박사와 앞으로 1년간 살몬톤의 농산품을 내가 정한 거래상에게 우선 공급하기로 거래를 했어.	In exchange, Dr. Dekkers has agreed that my designated traders will be first in line for Salmonton's produce in the coming year.	
+91	莉琉	相应的，他老人家也会对我在第二学园都市期货交易所的行为睁一只眼闭一只眼。	相對的，他老人家也會對我在第二學園都市期貨交易所的行為睜一隻眼閉一隻眼。	あと、第二学園都市の金融先物取引所での行動に\n対しても、博士は目を瞑ってくれるのだそうな。	내가 제2학원도시의 선물거래소에 한 행동도 대충 눈감아 주기로 했지. 	And he has also promised to turn a blind eye to my trading activities in Newmoridas Futures Exchange.	
+92	莉琉	相关协议已经躺在我的办公桌上了，你尽管放心，SID可不会做赔本的买卖～	相關協議已經躺在我的辦公桌上了，妳儘管放心，SID可不會做賠本生意～	それらの契約書はすでに私の机に用意してある。\n\nSIDは損するような商売はしないから、\nまあ安心してくれ。	관련 협의서는 내 사무실 책상에 모셔놨어. SID는 밑지는 장사는 하지 않으니 걱정 마~	The agreement is already sitting on my office desk. So, rest assured. SID is not a charity group.	
+93	N/A	等等！你让我们出生入死是为了赚钱吗！？	喂！ 等等！ 妳這傢伙讓我們出生入死就是為了賺錢嗎！ ？	おいおいッ！\n俺達の命の危機を金儲けにしたのか！？	잠깐！우릴 위험에 빠트린 게 돈을 벌기 위해서였어！?	Wait! We've risked our lives only for you to make money!?	
+94	拉斐尔	哼──	哼──	ふん──	흥──	Humph—	
+95	拉斐尔	好吧，我也答应你，在我没弄清楚一些事之前，今天的事情我不会告诉任何人。	好吧，我也答應妳，在我沒弄清楚事情的全貌之前，今天的事我不會告訴任何人。	分かったわ、私も承諾する。\n\n幾つかの事を明確にするまでは、\n私も今日の事を誰にも話さない。	좋아. 내가 이 일을 파악하기 전까지 오늘 일을 아무에게도 알리지 않는다고 약속할게.	Fine. I promise I won't tell anyone about this incident before sorting it all out.	
+96	莉琉	和戴克斯家的人打交道真是愉快~	和戴克斯家族打交道真是愉快～	いや～～、デックス家の人間と付き合うのは、\n本当に楽しいなぁ～～	덱스가의 사람들과 거래하는 건 정말 즐겁다니까~	It's such a pleasure working with the Dekkers.	
+97	拉斐尔	小怜，等回到萨蒙顿，我绝对会把所谓魔力之类的事调查清楚的。	小憐，等回到薩蒙頓，我絕對會把所謂魔力之類的事調查清楚的。	レン！\n\n私はサモントンへ帰ったら、魔女や魔力に関して\n絶対に調べ上げてみせる。	렌，난 살몬톤에 돌아가서 마력에 관한 일을 모두 조사할 거야.	Ren, I'll definitely figure this magic thing out after I'm back to Salmonton!	
+98	小怜	嗯！我觉得拉斐尔身上拥有非常了不起的力量~	嗯！ 我覺得拉斐爾身上擁有非常了不起的力量～	ああっ！俺もラファエルは、とってもすごい力を\n持っていると思うぞ！	응！ 라파엘이 멋진 힘을 가지고 있는 게 느껴져~	Please do! I think you really have wonderful magic power.	
+99	N/A	拉斐尔刚想转身离去，忽然停下来\n将她的绿宝石挂坠取下来扔给了我	拉斐爾剛想轉身離去，忽然又停下來，\n將她的綠寶石吊墜取下來丟向我。	立ち去ろうとしたラファエルが急に止まる。\nペンダントを取り外し、俺に投げ渡した。	라파엘이 몸을 돌리려다 갑자기 멈춘다.\n그녀가 에메랄드 펜던트를 꺼내 내게 던진다.	Raphilia turns away but stops abruptly. \nShe takes off her necklace, and throws it to me.	
+100	小怜	这是你们家族的藏品吧，怎么能……	這是妳們家族的收藏品吧，怎麼能……	これはデックス家の収蔵品だろう？\nそれを……	이건 네 가문의 소장품이잖아? 어떻게……	This is from your family collection, isn't it? How can you…	
+101	拉斐尔	现在是你的了。	現在是你的了。	今は、あんたのよ。	이젠 네 거야.	It's yours now.	
+102	贝阿特丽切	真是个有魄力的小姑娘，长大以后一定会成为出色的女人。	真是個有魄力的小姑娘，長大以後一定會成為了不起的女人。	なんてまあ……勇ましいお嬢さんね。\n大きくなったら素敵な女性になれると思うわ。	정말 박력 있는 아가씨군요. 나중에 멋있는 여인이 되겠어요~	A gallant girl! You'll become an outstanding lady when you grow up.	
+103	拉斐尔	哼，你的底细我也会调查清楚的。	哼，妳的底細我也會調查清楚的。	ふん、あんたの素性も調べ上げてみせるわ。	흥，너의 내막도 철저히 조사할 거야.	Humph, I won't forget to do a background check on you.	
+104	拉斐尔	那么各位，再见了。	再見，各位。	それでは皆さん、ごきげんよう……	그럼 다들，안녕.	Take care, everyone. We will meet again.	

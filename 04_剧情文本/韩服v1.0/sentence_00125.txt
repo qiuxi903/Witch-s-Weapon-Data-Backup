@@ -1,0 +1,8 @@
+﻿1	引导精灵	“以下这段引导是要迎接赫莉加盟”	「以下這段引言是要迎接赫莉加盟」	「このガイドはホリーの加入を迎えるよ」	“이제 호리를 맞이해야 할 때야”	The following tutorial introduces Holly.	
+2	引导精灵	她背着一把饥渴的太刀和一挺不倒的大炮	她背著一把饑渴的太刀和一挺不倒的大炮	彼女は飢餓の太刀と不屈の大砲を背負っているらしいけど。	그녀는 갈망의 대태검과 소멸하지 않는 대포를 등에 메고 있어.	She carries a bloodthirsty tachi and an indestructible cannon.	
+3	小怜	“这里应该是赫莉出场了，似乎它的行李有些超重”	「這裡應該是赫莉出場了，她的行李似乎有些超重」	「ここはホリーが現れるはず。どうやら荷物は重量過多みたいだな」	“이제 호리가 나타날 때다. 짐이 좀 무거워 보이는데”	Give it up to Holly! Her luggage seems to be overweight, though.	
+4	小怜	赫莉bilibili	赫莉bilibili	ホリーbilibili	호리bilibili	Holly Bilibili	
+5	引导精灵	每位魔女都拥有不同的兵器与技能，了解每位魔女的特性，可以左右战局	每位魔女都擁有不同的兵器與技能，瞭解每位魔女的特性即可掌握戰局	魔女はそれぞれの特性を象徴するような兵器とスキルを持っているみたい。魔女達の特性を理解できれば、戦局を左右できるよ。	모든 마녀는 각자의 병기와 스킬을 보유하고 있어. 마녀의 특성을 이해하면 전투를 좌지우지할 수 있어.	Each Witch has her own weapons and skills. It's imperative that you know about them!	
+6	引导精灵	在这里可以查看每位魔女的详细情报，在魔女界面同样可以查看	這裡可以查看每位魔女的詳細資訊，也可以到魔女介面查看	ここでは各魔女の詳細情報を確認できるの。魔女の画面でも確認できるけどね。	이곳에서 마녀의 상세 정보를 확인할 수 있어. 마녀 화면에서도 마찬가지로 확인할 수 있지.	You can check their detailed info here or on the Witch interface.	
+7	引导精灵	知己知彼，百战不殆。清楚每位魔女的能力，可以搭配上阵不同的魔女组合形成联协，这是最简单有效的战术	知己知彼、百戰百勝。清楚瞭解每位魔女的能力，就可以搭配不同的魔女組合串聯上陣，這是最簡單有效的戰術	「敵を知り、自分を知れば、百戦殆うからず！！」って感じで、詳細情報をもとに上手く魔女同士を連携させよう！ 連携は、最も簡単かつ有効な戦術よ。	지피지기면 백전백승! 마녀의 능력을 이해하면, 각기 다른 마녀를 조합하여 협력을 형성할 수 있어. 가장 간단하고 효과적인 전술이지.	Know yourself, know your enemy. Deploying the suitable Witch Squad when facing different enemies is the most basic yet effective tactic.	
+8	引导精灵	现在选择中意的魔女出战吧	現在，選擇喜歡的魔女出戰吧	それでは、好きな魔女を選んで出撃しよう。	이제 마음에 드는 마녀를 출전시켜 봐. 	Deploy your Witches.	

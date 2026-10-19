@@ -1,0 +1,105 @@
+﻿1	莉琉	所以说……为了保证安全，我会抹除你过去的一切档案和痕迹，重写你的身份记录。	總之為了確保妳的安全，我會抹除妳存在過的所有痕跡，重寫妳的身分記錄。	つまり安全を保証するため、お前の過去の\n経歴ファイルや生活の痕跡を全て抹消して、\n全ての身分記録を書き直すのだ。	……안전을 위해 너의 과거 파일과 흔적을 모두 삭제하고 새로운 신분을 기록할 거야.	So… For your safety, I'll erase all your previous records and traces, and rewrite your identity information.	
+2	小怜	竟然能做到这种地步吗？\n果然是传说中的SID……	竟然能做到這種地步？ \n果然是傳說中的SID……	そこまでできるのかよ？\nさすがは伝説の組織、SID……	그런 것도 할 수 있어？\n역시 전설적인 SID이구나……	You guys can even do that? \n The legendary SID…	
+3	莉琉	那当然，而且新丰洲市所有公民的身份信息，都是『异质物』的一部分。	那當然，而且新豐洲市所有公民的身分資訊，都是「異質物」的一部分。	もちろんだ。新豊洲市民全員の身分情報は、\nすでに『異質物』の一部だからな。	물론이지. 신토요스 모든 시민의 신분 정보가 『이물질』의 일부분이야.	Of course, and the personal information of all New Opulentians are part of Substance H.	
+4	小怜	哈？开什么玩笑……	哈？ 開什麼玩笑……	『異質物』？　なにかの冗談……？	어? 농담하지 마…	What? Stop kidding me…	
+5	莉琉	学校的老师没教过你吗？新丰洲的城市管理系统全部建立在『埃癸斯』系统上。	學校老師沒教過嗎？ 新豐洲的城市管理系統全都建立在「埃癸斯」系統上。	学校で教わらなかったのか？　\n\n新豊洲の都市管理システムは『イージス』\nシステムで全て構築されている。	학교에서 안 배웠어? 신토요스 도시 관리 시스템은 모두 아이기스 시스템 상에 수립되어 있어.	Didn't you learn about that in school? The city administration system of New Opulentia is based on Aegis.	
+6	小怜	对哦，『埃癸斯』系统是模因类『异质物』……	對哦，「埃癸斯」系統是迷因類「異質物」……	そうか、『イージス』システムは\nミーム類の『異質物』ってことか……	맞아. 『아이기스』시스템은 밈류 『이물질』이지…	Oh yeah, and Aegis is a meme Substance H…	
+7	N/A	因为太贴近日常生活，大家早就习以为常了\n这个超越人类认知的存在。	因為太貼近日常生活，大家早就對\n這個超越人類認知的存在習以為常了。	人智を超えた存在なのに、日常生活に溶け込み\n過ぎている。\nもはや『イージス』システムの存在が、\n当たり前になっていた……	일상 생활에 너무 근접해 있어서\n다들 인간의 인식을 초월하는 이 존재가 익숙해졌다.	It is so common that people are long used to it. \n What a creation beyond human perception.	
+8	莉琉	『埃癸斯』是一个软件系统，运行后可以展开半径为35公里的防护力场。	「埃癸斯」是一個軟體系統，運作後可以展開半徑35公里的防護力場。	『イージス』はソフトウェアシステムだ。\n\n作動すれば半径35キロに防御フィールドを\n展開できる。	『아이기스』는 소프트웨어 시스템이야. 가동 후 반경 35킬로미터의 방어 역장을 만들어.	Aegis is a software system. When in operation, it generates a protective force field within a 20 miles radius.	
+9	莉琉	力场的外壳可以自动识别并防御任何形式的攻击，甚至能压制很多神迹武器的效果。	它的力場可以自動識別並防禦任何形式的攻擊，甚至能壓制很多神蹟武器的效果。	防御フィールドは、あらゆる攻撃を自動で識別、聖痕武器の効果すらも抑える事が可能。	역장은 공격을 자동 식별하고 방어해. 심지어 기적 무기의 효과를 제압할 수 있지. 	The outer surface of this field is able to identify and avert any attack in any form. It can even contain the impact of many Divine Touch weapons.	
+10	莉琉	这种识别攻击的原理未知，但非常智能，不会阻挡任何非攻击性物质和信息的流动。	這種識別攻擊能力的原理未知，但它非常有智慧，不會阻擋任何非攻擊性物質和資訊的流動。	攻撃を識別する原理は謎。だが知能的で、\n非攻撃的な物質やデータの流れは阻まない。	공격 식별 원리는 알 수 없지만 매우 지능적이어서 비공격성 물질과 정보의 유동은 막지 않아.	The inner workings of such a threat identification mechanism are still unknown, but it is extremely intelligent as it won't stop the harmless flow of substance or information.	
+11	莉琉	它绝对是新丰洲从战争中快速恢复并得以保持中立的根基。	它絕對是新豐洲從戰爭中快速恢復並得以保持中立的根基。	戦後の新豊洲を急速な回復に導き、\n中立の基礎を築いた『イージス』こそが、\n戦後最大の功労者だと言えよう。	신토요스가 전쟁에서 신속히 복구하고 중립을 유지할 수 있었던 토대지.	So, Aegis is absolutely vital for New Opulentia to recover quickly from the war and remain neutral over the years.	
+12	莉琉	而且埃癸斯的主机对网络攻击也可以识别并防御。	不僅如此，埃癸斯主機對網路攻擊也可以迅速識別和防禦。	それに『イージス』のメインサーバーは、\nサイバー攻撃でさえ識別し防御できる。	아이기스의 본체는 사이버 테러도 식별하고 방어할 수 있어.	And the host of the Aegis system can identify and avoid cyberattacks.	
+13	莉琉	因为几乎完美的安全性，元老院决定把市政管理系统整体迁移到埃癸斯的主机上。	因為幾乎完美的安全性，元老院就決定把市政管理系統整個遷移到埃癸斯的主機上。	この理想に近い安全性から、元老院は市政管理\nシステム全体を『イージス』のサーバーに移行。	완벽한 안전성 덕분에 원로원이 정부 관리 시스템을 모두 아이기스의 본체로 옮겼지. 	Thanks to its almost impeccable security, the Senate decided to migrate the entire city administration system to Aegis' host.	
+14	N/A	确实只要把ID卡和手机绑定，埃癸斯就能关联所有的身份户籍和账号信息，连CAPH的学分都查得到。	確實只要把ID卡和手機綁定，埃癸斯就能連結所有人的身分戶籍和帳號資料，連CAPH的學分都查得到。	IDカードと携帯電話を紐付ければ『イージス』が戸籍やアカウント情報までも全てリンクさせ、\nCAPHの単位すら検索できる。	ID카드와 핸드폰을 연동하면 모든 신분 호적，계좌 정보 심지어 CAPH 학점까지 찾아낼 수 있어.	By linking your ID to your phone, you give Aegis access to all your personal and financial data, even your CAPH scores.	
+15	小怜	这些学校确实有学过啦……\n不过考完试就忘的差不多了。	這些學校確實有教過啦……\n不過考完試就忘得差不多了。	学校で勉強した事あったなそれ……\n試験が終わって、ほとんど頭から抜けてたけど。	학교에서 배운 적 있어……\n시험이 끝나고 다 잊어버리긴 했지만.	I did learn about all these at school… \n But I could hardly remember anything after the exams.	
+16	莉琉	但接下来我要说的──是机密事项。	但接下來我要說的──是機密事項。	その上で、これから私が言うことは、\n機密事項だ。	이제부터 내가 얘기하는 건 기밀 사항이야.	What I'm going to say now—is highly confidential.	
+17	N/A	莉琉严肃的盯着我，像是下定了决心。	莉琉嚴肅的盯著我，像是下定了決心。	何か決心をしたかのように、マリルは真剣に\n俺の目を見た。	마리루가 결심을 한 듯 진지하게 날 바라본다. 	Mariru stares at me seriously. She seems to have made a big decision.	
+18	莉琉	『埃癸斯』系统还有一个从未公开的能力。	「埃癸斯」系統還有一個從未公開的能力。	『イージス』システムには、\n一般人には公開されていない別の能力がある。	『아이기스』 시스템에는 공개되지 않은 능력이 있어. 	Aegis has an undisclosed function.	
+19	莉琉	任何人一旦进入防护力场的范围，就会立刻被系统识别。	任何人一旦進入「埃癸斯」的防護力場範圍，就會立刻被系統識別出身分。	何者であれ防御フィールドに入った瞬間に、\n識別行動を開始する能力だ。	누구든 방호 역장 범위에 들어오면 시스템에 의해 식별돼.	Anyone entering the protective field will be identified immediately by the system.	
+20	莉琉	可以说这种识别，是基于灵魂的。	那是因為這種識別方式，是以靈魂作為根據的。	これはそうだな、『魂』の識別を行っていると\n言ってもいい。	이 식별은 영혼을 기반으로 해. 	And this identification works at the soul level.	
+21	小怜	基于……灵魂？	以……靈魂作為根據？	魂……？	영혼을…기반으로?	S… soul?	
+22	莉琉	埃癸斯系统会给范围内的每个人一个电子编号，之后这个人无论是乔装、整容、失忆或者被洗脑……	埃癸斯會給範圍內的每個人一個電子編號，之後無論這個人怎麼喬裝、整容、失憶或者被洗腦……	『イージス』は範囲内の全ての人間に、\nそれぞれ1つの電子番号を与える。\nその後、本人が変装、整形、記憶喪失\nもしくは洗脳されたとしても……	아이기스 시스템은 범위 내 모든 사람들에게 일련번호를 심어. 성형，기억상실，세뇌를 당한다 해도	Yes. Aegis assigns a unique identification code to everyone within its coverage. Once a code is assigned, one would always be recognized by that code…	
+23	莉琉	都会被识别为最初的电子编号。	都會被識別為最初的電子編號。	最初に与えた電子番号を基に、個体を識別する。	초기 일련번호로 식별되지.	… No matter if they put on disguise, undergo cosmetic surgery, suffer memory loss, or get brainwashed.	
+24	莉琉	每个编号只有两个标记状态：在防护范围内，或者不在。	每個編號只有兩個狀態：在防護範圍內，或是不在。	各番号には2つの状態しか表記されない。\n防御範囲内に　いるか、いないか。	모든 번호는 두 가지 표시 상태가 있어. 방호 범위 내 혹은 존재하지 않음. 	Each code has only two states: present or absent.	
+25	莉琉	如果有编号不在范围内，要么是离境了，要么就是去世了。	如果某個編號不在範圍內，要麼是離境了，要麼就是去世了。	識別結果が『いない』なら、そいつは出国したかもしくは死んでしまったかだ。	만약 번호가 범위 안에 없다면 국경을 벗어났거나 죽은 거야.	If a code is absent, it means the person is either out of New Opulentia, or dead.	
+26	N/A	听到这里，我觉得头皮一阵发麻。	聽到這裡，我覺得頭皮一陣發麻。	聞かされる内容に、背筋がゾクリとざわつく。	여기까지 들은 나는 두피가 저릿한 느낌이 든다.	Her words chill me.	
+27	小怜	每个人……都是一个编号？	每個人……都是一個編號？	ひとりひとりに……番号だけを？	모든 사람에게……일련번호를？	Everyone… is a code?	
+28	莉琉	对，除此以外没有任何其他信息，没有名字、没有照片、没有位置信息。	對，除此以外沒有任何其他資訊，沒有名字、沒有照片、沒有位置資訊。	そうだ、それ以外の情報は加えない。\n名前も、写真も、位置情報も。	맞아. 그 외 어떤 정보도 없어. 이름도，사진도，위치 정보도. 	That's right. Nothing else. No name, no picture, no location.	
+29	莉琉	为每个编号建档、对应到现实中的人，更新信息\n并追踪关键目标，这些都是SID的工作了。	為每個編號建檔、對應到現實中的人、更新資訊\n並追蹤關鍵目標，這些就是SID的工作了。	番号にプロフィールを作成し、現実の人々と\n照らし合わせ、情報をアップデートするのが、\n我々SIDの仕事となる。\nそれと重要な目標の追跡もだな。	일련번호를 작성하고 \n현실의 사람과 대응시키고 정보를 갱신하고 \n주요 타겟을 추적하는 것 모두 SID의 일이야.	Documenting each code, updating the information of the person it represents… \n And tracing specific targets, that’s within SID’s purview.	
+30	莉琉	这是一个让其它学园都市都羡慕不已的安保系统。	這是一個讓其他學園都市都羨慕不已的保全系統。	手間はかかるが、それを補って有り余るほどの\n働きがある。\n他の学園都市が喉から手が出るほど、\n羨ましがってるセキュリティシステムだ。	다른 학원도시가 모두 부러워하는 보안 시스템이지.	This security system makes us the envy of other Academy Cities.	
+31	莉琉	它……每时每刻都在监控着它保护的每一个人，每一个编号……	它……無時無刻都在監控著它所保護的每一個人，每一個編號……	彼は……いつでも人々を守っている。\n\n24時間、保護対象となる全ての人間の番号を\n1つずつ監視して……	그것은… 보호해야 할 모든 사람들과 번호들을 항상 감시하고 있어……	It watches over everyone, or every code it protects, all the time…	
+32	N/A	莉琉流露出复杂的表情，虽然只是一瞬，我确清楚地看到了。	莉琉流露出複雜的表情，雖然只是一瞬間，我卻清楚地看到了。	マリルが複雑そうな表情を浮かべた。\nほんの一瞬だけど、そう感じた。	마리루가 복잡한 표정을 짓는다. 순간이였지만 그녀의 표정을 봤다. 	Only fleetingly does Mariru look hesitated, but I did notice it.	
+33	小怜	怪不得你能对其他国家的情报人员进入新丰洲了如指掌。	怪不得妳能對進入新豐洲的他國情報員瞭若指掌。	どおりで新豊洲に潜入してる他国のスパイを\n把握できるわけだ。	어쩐지 다른 국가의 정보요원이 신토요스에 왔다는 것도 다 알고 있더라니. 	No wonder you know everything about all those foreign spies stationed in New Opulentia.	
+34	小怜	等等！那我的……	等等！ 那我的……	でも、ちょっと待って！　それじゃ俺の……	잠깐! 그럼 내…	Wait! Then my…	
+35	莉琉	我让手下排查了今天全部的新增编号──	我請手下查了今天所有新增的編號──	私の部下に本日追加された新番号を、\n洗いざらいデータの中から調べさせた──	부하에게 오늘 추가된 모든 일련번호를 조사라고 했어──	I've already instructed my men to check all incoming codes today—	
+36	莉琉	虽然我也是第一次遇到这种情况……至少在埃癸斯系统看来，你就是[%rolename%]。	雖然我也是第一次遇到這種情況……但至少在埃癸斯系統看來，妳就是[%rolename%]。	私もこんな状況は始めてだが……\n少なくとも『イージス』にとって、\nお前は[%rolename%]だ。	나도 이런 상황은 처음이지만……아이기스에 따르면 넌 [%rolename%](이)야.	I’ve never seen this before… But, at least to Aegis, you are [%rolename%] indeed.	
+37	N/A	我一阵激动，几乎泛出泪花。\n终于……终于可以证明我是男生了！	我一陣激動，幾乎快哭了。 \n終於……終於可以證明我是男生了！	そう言われた瞬間、涙が出そうなほどの感動が。\nやっと……やっと俺が男だと証明できる！	순간 감정이 벅차올라 눈물이 나올 것 같다. 드디어……내가 남자라는 걸 증명했어!	A surge of excitement almost had me in tears. \n Finally… I'm proved a boy!	
+38	莉琉	所以，你不可以再做男生了。	所以，妳不可以再做男生了。	まあ、\nお前はもう男として生きていけないけどな。	그러니까 넌 더 이상 남자여서는 안 돼.	So, you can’t return to a boy any more.	
+39	小怜	啊？	為什麼？	……へっ？	어?	Huh?	
+40	莉琉	既然你已经知道这些机密信息……	既然妳已經知道這些機密資訊……	機密情報を知ってしまったら……\nどうなるかお前でも分かるだろう？	네가 기밀정보들을 알아버리긴 했지만……	Since you have known all the confidential information…	
+41	N/A	莉琉突然走近我，我下意识的后退，才发觉身体已经顶到了墙壁。	莉琉突然走近我，我下意識往後退，才發覺身體已退到了牆邊。	突然近付いてくるマリルに対し、俺は無意識に後ずさりをするが、いつの間にか後ろは壁だった。	마리루가 갑자기 내게 접근한다. 무의식적으로 뒷걸음질 친 내 몸이 벽에 붙는다. 	Mariru suddenly walks up to me. I back up unconsciously, and find myself pushed against the wall.	
+42	N/A	但她并没有停下来的意思，一只手臂撑住墙，把我逼到了墙角。	但她並沒有停下來的意思，一隻手臂撐住牆，把我逼到牆角。	マリルには止まる意志がなく、片手を壁に突き、そのまま俺を壁の隅に押し付けた。	하지만 그녀는 멈출 기미 없이 벽을 손에 대고 날 구석으로 몰아세운다. 	But she doesn't stop. With one hand on the wall, she forces me to the corner.	
+43	小怜	所、所以呢……？	所、所以呢……？	といいますと……？	그，그래서……？	S… so?	
+44	N/A	脸贴的太近了！\n我的心扑通扑通要爆炸了！	臉貼的太近了吧！ \n心跳好快，這樣下去，我的心臟快要爆炸了！	か、顔が近いってっ！\nもう、色んな意味のドキドキが押し寄せて\n心臓が爆発するっ！	너무 가까워！\n심장이 두근두근 터질 것 같아! 	Her face is so close! \n I’m going to explode!	
+45	莉琉	所以从今以后，你就是我的人了~	所以從今以後，妳就是我的人了～	そう　だから今から、\nお前は私のモノになるんだぞ～～？	그러니까 넌 오늘 이후로 내 사람이야~	From now on, you're mine!	
+46	小怜	诶──？？	咦──？？	は、はい──？？	엣──？？	Uh—?	
+47	小怜	什、什么你的人啊！！！	什、什麼妳的人，這是什麼意思？ ！	私のモノって、どういう事だよッ！！！	뭐，뭐가 네 사람이라는 거야！！！	Wh… what do you mean?	
+48	莉琉	呵呵呵~我来看看……\n[%rolename%]，ID是2519G1911，15岁	呵呵呵~我先看看啊……\n[%rolename%]，ID是2519G1911，15歲。	ほほぉ～～どれどれ……？\n[%rolename%]、IDは2519G1911、15歳。	헤에~ 어디 보자……\n[%rolename%]，\nID 2519G1911，15세	Aha! Let me see… \n [%rolename%]. ID 2519G1911. Fifteen years old.	
+49	N/A	莉琉终于放开我，娴熟的掏出一个手持设备，开始划划点点	莉琉終於放開我，嫻熟地掏出一個手持設備，開始劃劃點點。	やっとマリルが俺を解放すると、タブレットを\n取り出し、画面を巧みに操作し始めた。	마리루가 날 풀어주고 능숙하게 휴대 기기를 훑기 시작한다.	Mariru finally lets me loose. She takes out a handset, and scrolls and taps on it.	
+50	莉琉	初中开始回到普通公立学校上学……\n之前是独居的思春期少年啊~	初中開始回到普通公立學校上學……\n看來之前是獨居的思春期少年啊~	中学から普通の公立高校に通う……\n以前は1人暮らしの思春期少年か～～	중학교 때부터 일반 공립 학교에 다녔고……\n혼자 사는 사춘기 소년이었구나~	Spent your middle school years in an ordinary public school… \n So you have been living all alone!	
+51	莉琉	身高165……不对，现在变成161了，体重也轻了不少，更新一下。	身高165……不對，現在變成161了，體重也輕了不少，這可得更新一下。	身長165……いや、今は161か。体重も結構軽くなってるから、こっちも更新しよっと。	키는 165…아니，지금은 161이 되었고，체중도 많이 줄었으니까 갱신해야겠어.	Height, five foot four… Oh, you’re five foot three now, and thinner. I should get this updated.	
+52	N/A	随着莉琉的操作，手持设备发出清脆的确认音效。	隨著莉琉的操作，手持設備發出清脆的確認音效。	マリルの操作と同時に、\nタブレットから軽快な確認音が流れた。	마리루의 조작에 따라 휴대 기기가 경쾌한 확인음을 낸다.	As Mariru taps on her handset, the device beeps to confirm.	
+53	小怜	哎？变矮了吗？	哎？ 變矮了嗎？	あれ？　俺、縮んだの？	응？내가 작아졌나？	Huh? I'm shorter?	
+54	小怜	（也对……之前的衣服都不合身了……）	（也對……之前的衣服都不合身了……）	（それもそうか……前の服のサイズが\n　合わなくなってたし……）	（맞아……예전에 입었던 옷도 커졌으니까……）	(Right… Those clothes don't fit any more…)	
+55	莉琉	还是高崎明良少女后援会的成员？\n啧啧，真是纯情……	還是高崎明良少女後援會的成員？ \n嘖嘖，真是純情……	おや、高崎明良ファンクラブの会員なのか？\nはっはっは、純情だな～～	타카사키 아키라 소녀 후원회 멤버?\n쯧쯧，정말 순정파군……	Member of the Aki Takasaki Fan Club? \n Ooh-la-la! How pure and innocent…	
+56	莉琉	你的网购记录也很有趣啊~《我的妹妹不可能是偶像》、《魔爱H》\n还买了抱枕……特殊版？	妳的網購記錄也很有趣啊~《我的妹妹不可能是偶像》、《魔愛H》。 \n還買了抱枕……喔～特殊版？	ネット通販の履歴も面白いものが揃ってる。\n「俺の妹がアイドルなわけがない」「魔愛Ｈ」\nそれに抱き枕まで購入済み……\nスペシャル版だと？	인터넷 쇼핑 기록도 꽤 재밌는 걸~《내 여동생이 아이돌일 리가 없어》，《마왕사랑 H》，한정판 베개？	Interesting online shopping history… You've got My Sister Couldn't Be An Idol, Magic Love H, \n And a cushion… for adult pleasure?	
+57	小怜	啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！\n不要看！！不要看啊！！！！	啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！ ！！ \n不要看！ ！不要看！ ！！ ！	おっろろろろあああああああぁぁぁぁッッ！！！\n見るなッ！！\nこらぁぁ、見るなああああぁぁぁッッッ！！！！	아아아아아！！！\n안 돼！！보지 말라구！！！！	Aaaah! Noooo! \n Don't read that! Stop it!!	
+58	小怜	（这是公开处刑吧？！\n不不不，被她看到比处刑还要糟糕啊！！）	（這分明是公開處刑吧？ ！\n不不不，被她看到這些還比公開處刑更慘！ ！）	（ある種の公開処刑じゃねえかよッ！？）\n\n（いやいやいやいやいや）\n（彼女に見られるのは処刑されるよりヤバイ！）	（공개처형인가?\n안돼，마리루에게 들키는 건 처형보다 더 싫어！）	(This is almost like a public shaming! \n No, it's even worse than that!	
+59	莉琉	嘛……不欺负你了~	嘛……不欺負妳了～	まぁ……あまりいじめるのも良くないか。	그래……이제 그만 괴롭힐게~	Hay… OK. No more teasing.	
+60	莉琉	虽然一直有5级权限，但是还是第一次做这么有趣的事情呢……	雖然一直有5級權限，但還是第一次做這麼有趣的事情呢……	ずっとレベル5権限を持っていたが、\nこんなに面白い事は初めてだな……	5급 권한이긴 했지만 이렇게 재밌는 일을 해보는 건 처음이야…	Although I've always had Level-5 access, I've never done anything so much fun…	
+61	莉琉	我看看……开始资料修改……\n修改性别『女』！	我看看……開始資料修改……\n性別修改成「女」！	さて……データ編集開始……\n性別を『女性』に変更！	어디 보자……이제 자료를 수정해야겠어……\n성별은 『여자』！	Let’s see… Profile, edit… \n Gender, Female, confirm!	
+62	N/A	清脆的确认音效。	清脆的確認音效。	──はっきりと聞こえる確認音。	확인음이 울린다.	A confirming beep.	
+63	莉琉	啧啧，会留下时间戳吗？\n万一被那帮家伙发现可就不好了……	嘖嘖，不知道這樣會不會留下修改記錄？ \n萬一被那幫傢伙發現就不好了……	ちっ、編集履歴が残るのか？\n万が一あいつらに気付かれたら不味い……	쯧쯧，타임 스탬프가 남으려나?\n그 자식들에게 들키면 안 되는데…	Oops, would there be a timestamp of modification? \n I must not get caught by those guys…	
+64	莉琉	那么……修改记录列为『机密』\n这样就OK了。	那麼……修改記錄全部列為「機密」，\n這樣就OK了。	では……編集履歴を『機密』と設定。\nこれでよし。	그럼……수정 기록을 『기밀』로 하면 OK，됐어!	Then… Let's mark it "confidential". \n Problem solved!	
+65	莉琉	户籍行政档案全部电子化还真是便利。	戶籍行政的檔案全部電子化還真方便～	戸籍や行政のファイルが全て電子化されているとやはり便利だな。	호적 행정 파일이 전부 전자화 되어서 정말 편하다니까~	A fully digitalized household registry is really handy.	
+66	小怜	就……这、这么轻易的？？	就……這、這麼輕易地改掉了？ ？	そ…、そんな簡単に……？	이，이렇게 쉽게??	Th… that’s it?	
+67	莉琉	嗯哼~我刚刚修改了你在所有行政系统记录中的档案。	嗯哼～我剛剛修改了妳在所有行政系統中的記錄喔。	ふぅ～～（いい汗）\n全行政システムにあるお前の記録を修正したぞ。	방금 너의 행정 시스템 기록에 있는 모든 파일을 수정했어. 	Uh-huh! I just revised all your profiles in the administration system.	
+68	莉琉	你现在已经是法律意义上的女孩子了哟。	妳現在已經是法律定義上的女孩子了喲。	これでもう、法律上じゃお前は女・の・子。	이제 넌 법적으로 여자가 됐어.	So you are officially a girl now.	
+69	莉琉	坐电车的时候直接进女士专用车厢也没问题~♥	坐電車的時候直接進入女士專用車廂也沒問題～♥	女性専用車両に乗っても大丈夫だぞ～～♥	전철 탈 때 여자 전용칸에 타도 문제 없다는 말이지~♥	You can use the women-only car of any train.	
+70	小怜	居然！居然就这么轻易的…！！	居然！ 居然就這麼輕易地改掉了…！ ！	なんてッ！　なんて簡単なんだッ！！	이，이렇게 쉽게…！！	Just… just like that!	
+71	N/A	心里一阵萎靡，无法接受……	心裡一陣萎靡，無法接受……	こんなの……納得いかないよ……	맥이 빠진다. 받아들일 수가 없다……	My heart sinks. I still can't accept this change…	
+72	莉琉	另外，你的名字与你男性身份的关联也太多了……	另外，妳的名字與男性身分的關聯也太多了……	機密性を高めるためには、名前の変更も\n行わないとな。	그리고，네 이름과 남자 신분도 관련이 너무 많아……	Besides, your name is too masculine…	
+73	莉琉	给你重新起个什么名字比较可爱呢……？\n让我想想……	得幫妳重新取個名字才行，嗯，什麼名字比較可愛呢……？ \n讓我想想……	今の姿に似合うプリティーな名前が欲しい。\nちょっと考える時間をくれ……	어떤 귀여운 이름을 지어주는 게 좋을까……？\n음……	What should I call you? It must sound cute… \n Let me see…	
+74	N/A	我忽然意识到，莉琉竟然有这么大的权力	我忽然意識到，莉琉竟然有這麼大的權力。	マリルが相当な権力者である事に、\n俺は今さらながら気付いた。	마리루가 엄청난 권력을 쥐고 있다는 사실이 새삼 느껴진다.	It suddenly strikes me that Mariru is really powerful.	
+75	N/A	动动手指就能改变别人的人生……	只是動動手指就能改變別人的人生……	指でタップするだけで、他人の人生を\n変えてしまうなんて。	손가락 몇 번 움직여서 사람의 인생을 바꾸다니…	She can change someone’s life just with a couple of taps…	
+76	N/A	虽然是为了保护我，可是……好不甘心啊！！	雖然是為了保護我，可是……好不甘心啊！ ！	俺を守るためとはいえ、だけど……\nやっぱり悔しい……っ！！	날 보호하기 위해서긴 하지만……왠지 달갑지 않다고！！	For sure, it’s all for me. But still… it’s so hard to accept the fact!	
+77	N/A	我明明是男生啊！！明明还……	我是男生啊！ ！我明明就是男生啊……	俺は男なのに！　なのに……	난 남자라고！！분명 아직……	I'm a boy! A boy…	
+78	N/A	想到这里眼泪就不争气的流了出来……\n呜呜呜呜……	想到這裡眼淚就不爭氣地流下……\n嗚嗚嗚嗚……	なんで涙が勝手に……\nううぅぅぅ……	여기까지 생각하자 눈물이 주체할 수 없이 흐른다……흑흑흑흑……	The thought of this makes me in tears… \n Sniff sniff…	
+79	N/A	可恶，因为身体变成女生的缘故吗？\n居然这么容易掉眼泪……	可惡，因為身體變成女生的緣故嗎？ \n居然這麼容易掉眼淚……	くそっ、女の子の身体になってるせいか？\nこんなにも涙がホロホロと……	이런，몸이 여자가 되서 그런가?\n이렇게 쉽게 눈물이 나오다니…	Darn it! Is it because I have a girl's body now? \n I can't believe I'm crying so easily…	
+80	N/A	明明已经说好了不会再哭的……\n但眼泪就是止不住……	明明說好了不會再哭的……\n但眼淚卻怎麼樣也止不住……	もう泣かないと決めたのに……\n涙が止まらない……	이제 울지 않겠다고 약속했는데……\n눈물이 멈추지 않아…	I've told myself not to cry… \n But I just can't stop it…	
+81	莉琉	哎？你竟然哭了？\n难道是因为彻底改了性别嘛~	哎？ 妳竟然哭了？ \n難道是因為徹底改變性別的關係嗎？	えっ、まさか泣いちゃった？\n完全に女の子になってしまったせいかな？	앗? 울어? \n성별이 완벽하게 바뀌어서 그런가~?	Gee? You are crying? \n For your gender transformation?	
+82	莉琉	哈哈哈，好啦好啦……\n唉，看你哭得梨花带雨的样子，还真是惹人怜爱~	哈哈哈，好啦好啦……\n唉，看妳哭得梨花帶雨，還真是惹人憐愛～	ははは、よしよし……\nあぁ、その泣き顔、可憐で愛おしくて、\n本当いじらしいなぁ。	하하하，그만 울어……\n예쁘게 우니까 너무 사랑스럽잖아~	Hahaha, take it easy… \n Look, when you cry, there's this thing in you that’s just… heart-rending…	
+83	莉琉	惹人怜爱……怜爱……\n怜……	惹人憐愛……憐愛……\n憐……	可憐……かれん……\nカレンはちょっと違うし……レン……	사랑스럽다……사랑……\n렌……	Heart-rending… Rending… \n How about Ren…	
+84	莉琉	嗯……『怜』这个名字倒是不错~\n和你现在的样子很搭哦。	嗯……「憐」這個名字倒是不錯～\n和妳現在的樣子很搭哦。	おお、『レン』は良い名前じゃないか。\nお前の今の姿にベストマッチだ。	응……『렌』이라는 이름 괜찮은 걸~?\n지금 네 모습과 잘 어울려.	Hmmm… "Ren" sounds great! \n What a perfect fit for your look right now.	
+85	莉琉	就这么决定了！\n从今天开始，你就叫『怜』吧！	就這麼決定了！ \n從今天開始，妳就叫「憐」吧！	決まりだ！\n今日から、お前を『レン』と呼ぼう！	그럼 이렇게 결정하자! \n오늘부터 널 『렌』이라고 부를게!	It's official! \n From now on, your name is "Ren"!	
+86	莉琉	设定信息同步权限为……5级。\n这样应该连你游戏记录的姓名板都会被改掉吧？！	設定資訊同步權限為……5級。 \n這樣應該連妳在遊戲記錄裡的姓名都會被改掉喔。	データ同期権限を……レベル5に設定。\n\nこれでお前が登録しているゲームのセーブまで、\n全ての名前が変更されるぞ！	정보 동기화 권한은 5급으로 설정하고…\n이러면 게임 닉네임까지 전부 바뀌겠지?!	Synchronization level… let’s make it 5. \n I guess your name will be synced even in your online game history!	
+87	小怜	怜……\n欸——？？？什么！？？	憐……\n欸——？？？什麼！？？	レン……\nえぇーーっ！？？？　なんだとっ！？	렌……\n응？？？뭐라고！？？	Ren… \n Huh—? What?!	
+88	小怜	（是在逗我吧？！一定是在逗我吧！）	（是在開玩笑吧？ ！一定是在開玩笑吧！ ）	（からかってるんだなっ！？　\n　絶対俺をからかってるんだっ！）	（날 놀리는 거지？！분명 놀리는 거야！）	(Are you kidding me? This must be a trick!)	
+89	莉琉	已经修改好了！从今以后所有识别系统都会认定你叫这个名字了哦……小怜~	好啦～修改完成！ 從今以後所有識別系統都會認定妳叫這個名字了哦……小憐～	編集完了！　お前は今後、全てのシステムから\nこの名前で認証される……レンちゃ～～ん。	수정 완료! 이제부터 식별 시스템이 네 이름을 렌으로 인식할 거야~	Done! You'll be known as "Ren" everywhere… Dear Ren!	
+90	小怜	名字这种东西也能随随便便就改掉吗?\n呜……	名字這種東西也能隨隨便便就改掉嗎？ \n嗚……	名前まで、こんな簡単に……\nぐすっ……	이름이란 게 원래 이렇게 쉽게 바꿀 수 있는 거였어? 흑……	Is it really good to play with a name just like this? \n Sniff…	
+91	莉琉	好了，别哭哭啼啼的了~	好了，別再哭哭啼啼了。	ほらほら、もう泣かないでね～～	알았으니까~ 이제 그만 울어.	OK, OK. No more tears, my dear.	
+92	莉琉	监护人……嗯，设成我好了。	監護人……嗯，設成我好了。	保護者は……うん、私でいいか。	후견인은……그래，나로 설정하는 게 좋겠어.	Guardian… Okay, I can do that.	
+93	小怜	我、我不要！	我、我不要！	い…、いやだッ！	시，싫어!	Uh, no!	
+94	莉琉	哦？想反抗吗──	哦？ 想反抗嗎──	ほう？　反抗期か？	오? 반항하는 거야?──	Huh? You have problems, kid?	
+95	莉琉	是不是我刚才的态度太过温柔，让你产生了我很好说话的错觉？	是不是我剛才太過溫柔，讓妳產生了我很好說話的錯覺？	少し優しくしてやったからといって、\n私が話せば分かってくれる人間と……\n思い違いをしているんじゃないだろうな？	내가 너한테 너무 다정해서 내가 만만한 사람처럼 보이나 봐? 	Have I been too gentle to make you think I'm easy-going?	
+96	N/A	莉琉的语气忽然严肃起来。\n一股巨大的威压感袭来……	莉琉的語氣忽然嚴肅起來。 \n一股巨大的壓迫感襲來……	マリルの口調が突然厳しくなった。\n巨大な威圧感が……	마리루의 말투가 진지해진다.\n큰 위압감이 몰려온다……	Mariru suddenly sounds more serious. \n A pounding pressure washed over me…	
+97	小怜	对不起！监护人大人！！\n我错了！！	對不起！ 監護人大人！ ！\n我錯了！ ！	すみませんっ！　マリル様っ！！\n俺が悪かったですっ！！	죄송합니다! 후견인님! \n제가 잘못했어요！	Sorry, ma'am! \n I'm sorry!	
+98	莉琉	虽说以现在的状况，确实应该把你监禁起来~	雖然說依照現在的狀況，確實應該把妳監禁起來～	あ～あ～今のような態度を考えると～\nやっぱりお前を監禁しておくべきかな～～	역시 널 감금하는 게 좋겠어~	Considering your case, you should've long been locked up.	
+99	小怜	请不要笑着说出这么危险的台词啊！	請、請不要笑著說出這麼危險的台詞！	笑顔で危ないセリフを言わないで下さい！	제발 웃으면서 그렇게 위험한 대사는 하지 말아줘!	Please don't say such horrible things with a smile!	
+100	莉琉	刚才只是修改了你的基本信息，关联的历史记录还需要大量的修饰工作。	剛才只是修改了妳的基本資訊而已，還得修改大量與妳相關的歷史記錄。	さっきのは基本情報を編集しただけで、\n関連する履歴などは大量の修正作業が必要だ。	방금 너의 기본 정보를 수정했어. 과거 기록을 수정하려면 시간이 많이 소요될 거야. 	What I changed was just your basic information. There are still tons of historical records to be fixed.	
+101	莉琉	在完成之前如果你的身份暴露，随时都会有危险。\n你的档案我先锁定──	如果妳的身分在完成修改之前曝光了，就隨時會有生命危險。 \n嗯，我還是先鎖定妳的檔案好了──	編集が完了する前に正体が露呈すれば、\n差し迫った危険をもたらす。\nお前のファイルは一時ロックを掛けよう──	완료 전에 네 신분이 폭로되면 언제든지 위험해질 수 있어. 네 파일은 일단 잠그는 게 좋겠다.	If your secret is leaked any time before that, you'll be in danger. \n I'm gonna lock your profile now.	
+102	N/A	手持设备又传来一声清脆的确认音效。	手持設備又傳來一聲清脆的確認音效。	──端末からまた、はっきりした確認音が鳴る。	휴대 기기에서 확인 효과음이 울린다. 	Her handset sends another beep of confirmation.	
+103	莉琉	……！	……！	……！	……！	…!	
+104	小怜	嗯？	嗯？	うん？	응?	What?	
+105	莉琉	是机密通信，我要处理一下。\n你先去大厅等我吧。	是機密通訊，我得處理一下。 \n妳先去大廳等我吧。	機密通信だ、今から対応をしなくてはならない。\nお前は大広間で待っていてくれ。	기밀 통신이야. 처리하러 가야겠어. \n넌 로비에서 기다려.	A confidential message. I’ve got to deal with it now. \n Go ahead and wait for me at the hall.	

@@ -1,0 +1,6 @@
+﻿1	引导精灵	剧情回顾大成功！	劇情回顧大成功！	シナリオの振り返り完了！	스토리 회상 완료~	Memories watched!	
+	스토리 회상 완료~		
+2	引导精灵	接下来让我们继续冒险吧	接下來讓我們繼續冒險吧	さあ、冒険を続けましょう！	계속 달려 봐요!	Let's continue our adventure!	
+3	FocusTrigger	请点击	請點擊	ココをタップ	클릭하세요	Tap Here	
+4	FocusTrigger	请点击	請點擊	ココをタップ	클릭하세요	Tap Here	
+5	FocusTrigger	请点击	請點擊	ココをタップ	클릭하세요	Tap Here	

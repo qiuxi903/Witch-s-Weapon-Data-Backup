@@ -1,0 +1,59 @@
+﻿1	莉琉	在进入新的学校之前，你的第一个任务就是进行基础知识培训。	在進入新的學校之前，妳的第一個任務就是進行基礎知識的培訓。	新しい学校へ転入する前に、基礎知識に関する\n『訓練』を最初の任務として与えよう。	새로운 학교에 들어가기 전 너의 첫 번째 임무는 기초 지식 훈련이다.	You need some basic training before going to your new school.	
+2	小怜	基础知识？\n我又不像安妮错过了这几年的事……	基礎知識？ \n我又不像安妮錯過了這幾年……	うん？基礎知識？　俺はアニーみたいに数年分の\n知識が欠けているわけじゃないけど……	기초 지식?\n난 앤처럼 몇 년을 놓치지 않았는 걸……	Basic training? \nI'm not Annie, I know what happened all these years!	
+3	莉琉	哼哼，你可是错过了整整十几年做女生的知识啊~	哼哼，妳可是錯過了整整十幾年做女生的知識啊～	んん～～？ お前は女の子としての知識を～～\n十数年分欠いているわけだが～～？	넌 십 몇 년간 여자로서의 지식을 놓쳤잖아~	Humph. But you have no idea how to behave like a girl…	
+4	小怜	那种知识才不需要啦！	我才不需要那種知識咧！	そ、そんな知識は必要ないっ！	그런 지식은 필요 없어!	Oh no, not that kind of training!	
+5	N/A	莉琉完全没理会我的抗议，神采奕奕的走向桌边。\n我才发现她早已经准备了满满一桌子的各式道具。	莉琉完全不管我的抗議，神采奕奕的走向桌邊。 \n我才發現她早準備了滿滿一桌各式各樣的化妝品。	マリルは俺の抗議を無視し、生き生きと机の方へ\n移動する。\n机の上には、色々な道具が用意されてる事に\n気が付いた。	마리루가 나의 항의는 무시하고 늠름하게 테이블로 걸어간다. 이미 테이블 위에 각종 도구를 준비해 놓았다.	Mariru ignores my protest and walks to the table beamingly. \nI notice that the table is filled with all kinds of tools.	
+6	莉琉	首先，你要能分辨口红的12种典型色号，并记住前20名的品牌。	首先，妳要能分辨口紅的12種經典色號，並記住前20名的品牌名稱。	まずは、口紅12種類の基本色を見分けて、\n人気TOP20のブランドを全部覚えろ。	우선，12종의 립스틱 색깔을 분별하고 상위 20개의 브랜드를 외워야 해.	First, you should learn to tell at least 12 typical lipstick shades and remember the top 20 cosmetic brands.	
+7	小怜	这么多种啊……\n颜色不是差不多吗？	12種？ \n這些顏色不都差不多嗎？	こんなにあるのか……\nどれも色同じじゃないのコレ？	그렇게나 많이……?\n다 비슷한 색깔 아냐?	So many… \nAren't those colors the same?	
+8	莉琉	太天真了！这只是总量的不到十分之一。	妳太天真了！ 這還不到總量的十分之一。	甘いわっ！\nこれは全体の10分の1にも満たない！！	순진하긴! 이건 10분의 1밖에 되지 않아.	Naive! This is less than one-tenth of all shades.	
+9	莉琉	然后这里给你准备了全套的化妆道具——里面有粉底、眼影、唇彩、高光、修容……	我還幫妳準備了全套的化妝用品——裡面有粉底、眼影、唇彩、打亮、修容……	本日は化粧セットを一通り用意した──\nファンデーション、アイシャドウ、リップ、\nハイライト、シェーディング……	그리고 널 위해 화장품 세트를 준비했어. 섀도우，파운데이션，립스틱，하이라이트，컨투어링…	And then here's a full set of makeup tools for you— foundation, eye shadow, lip gloss, highlighter, bronzer…	
+10	小怜	欸？要往脸上涂这么多东西吗？！\n又不是在画画…做女生到底有多复杂……	欸？ 要往臉上塗這麼多東西？ ！\n又不是在畫畫…我的天啊，當女生怎麼這麼複雜……	えっ？　それ全部を顔の上に塗るのっ！？\n\n絵を描くわけじゃあるまいし……\n女の子ってどれだけ面倒な事を……	엣? 얼굴에 뭘 그렇게 많이 발라? 그림도 아니고…여자는 정말 복잡하구나…	What? Smearing all these stuff on my face?! \nIs this a painting session or what? Being a girl is a difficult task…	
+11	莉琉	不用担心，从今天开始会有专人教你化妆。	不用擔心，從今天開始會有專人教妳化妝。	な～に心配はいらん。\n今日からお前専属の先生が化粧を教えるからな。	걱정 마. 오늘부터 너에게 화장을 가르쳐 줄 전문가를 모셨어.	No worries. From now on, you'll learn how to do it.	
+12	小怜	高中生不是不允许化妆……	可是，高中生不是不允許化妝……	そもそも、高校生って化粧禁止じゃ……	고등학생은 화장을 하면 안 되는데…	But high school students are not allowed to wear makeup!	
+13	莉琉	你啊，太不了解女高中生的世界了……\n这种大大咧咧的样子用不了两天就会引起怀疑的。	唉，妳真是太不瞭解女高中生的世界了……\n這種大剌剌的樣子用不著兩天就會引起懷疑的。	お前はね、女子高生の世界を知らなさ過ぎる……\n\nそんないい加減な態度じゃ、半日も経たずに\n疑われるぞ。	여고생의 세계를 몰라도 너무 모르는구나…? 이런 어리숙한 모습으론 곧장 의심을 받을 거야.	You know nothing about high school girls… \nYou don't want to look grubby and cause suspicion, do you?	
+14	莉琉	而且除了上学，作为SID的探员还需要执行各种任务，化妆是女性特工的必备技能之一。	而且除了上學以外，SID的探員還必須執行各種任務，化妝是女性特務的必備技能之一。	それに普通に登校する以外にも、SIDの捜査員\nとして様々な任務をこなさなくてはならない。\n化粧は女性エージェントの必須スキルの1つだ。	학교뿐만 아니라 SID요원으로서 수행해야 할 임무에 화장은 필수 스킬 중 하나라고. 	Besides, as an SID agent, you'll find makeup skills quite useful.	
+15	莉琉	尤其是你这样的小脸蛋──	尤其是像妳這樣的小臉蛋──	特にお前のような可愛らしい顔となると──	특히 너 같은 얼굴은──	Especially useful for your cute face—	
+16	N/A	莉琉伸出食指，挑起我的下巴	莉琉伸出食指，挑起我的下巴	マリルは人差し指を伸ばし、\n俺の顎の上をなぞって支える。	마리루가 손가락으로 내 턱을 들어올린다. 	She puts her finger under my chin and lifts my head.	
+17	N/A	我后退一步躲开了她的手，总觉得自己的男性尊严无法接受。	我後退一步躲開了她的手，總覺得自己的男性尊嚴受到嚴重挑戰。	彼女の手から逃げるように、俺は身を翻した。\n\nこれを許すと、男の尊厳が完全に奪われてしまう気がする。	난 뒤로 물러나 그녀의 손을 피했다. 남자로서의 존엄성이 무시당한 것 같다.	I step back to avoid her touch, feeling my male ego bruised.	
+18	小怜	虽然之前确实是自告奋勇\n但我可没想到要学这些东西啊……	雖然我確實是自告奮勇加入SID，\n但可沒想到要學這些東西啊……	志願はしたけどさぁ、こんな事を学ばないと\nいけないなんて聞いてないよ……	내가 자발적으로 나서긴 했지만\n이런 걸 배워야 하는 줄은 생각도 못했어…	I did volunteer to help… \nBut I didn't expect to have to learn such things…	
+19	莉琉	SID的学员考核可是非常严格的，每次都会筛选掉一大批人。	SID的學員考核可是非常嚴格的，每次都會刷掉一大批人。	SIDの採用審査は非常に厳しく、\n毎回大勢の受験者をふるいに落としている。	SID 후보생 시험은 아주 엄격해. 매번 많은 사람들이 떨어지지.	SID has a strict assessment process for trainees. Very few people get through.	
+20	莉琉	你既然说了那样的大话，就证明一下自己吧。	妳既然說了那樣的大話，就證明一下自己的能耐吧。	あれだけの大口を叩いたんだ、\n自分で実力を証明してみせろ。	그렇게 큰소리를 쳤으니 스스로를 증명해 봐.	Since you've put out the word, show us what you’ve got.	
+21	莉琉	而且如果通过最终考核就可以被纳入正式编制，还会有不菲的薪水哦~	如果能通過最終考核的話，就會被納入正式編制中，薪水不少哦～	最終審査さえ合格して正式な配属が決まれば、\n相応の給料も出るぞ～～	마지막 시험을 통과하면 정식 부대에 들어갈 수 있어. 월급도 어마어마하다구~	Besides, you'll get a fat paycheck if you pass the final assessment and become an agent.	
+22	小怜	欸？还能有钱拿啊！？\n（那，那我的Gfat购物车……）	欸？ 還有錢拿啊！ ？\n（那，那我的Gfat購物車……）	えっ？　給料出るの！？\n\n（そ、それじゃ俺のGfatショッピングカートに\n　入ってるモノを全部買える……！）	엣？돈도 벌 수 있단 말이야！？\n（그，그렇다면 Gfat장바구니를……）	What? A paycheck?! \n(If so, my Gfat shopping cart…)	
+23	N/A	好，男性尊严先放到一边。	好，那就先暫時不管我的男性尊嚴了！	よし、男の尊厳とやらは、一旦保留としよう。	좋아. 남자의 존엄성은 우선 내려놓자.	Well, forget about the male ego.	
+24	莉琉	（呵呵呵，真是单纯的小鬼）	（呵呵呵，真是單純的小鬼。 ）	（フハハハ、単純なガキめ）	（하하하. 정말 단순한 꼬맹이야）	(Huh, simple-minded kid.)	
+25	莉琉	但是相应的，你也要明白──作为你的长官，我的命令是绝对的，必须无条件服从！	但是妳也得明白──我，身為妳的長官，我的命令是絕對的，妳必須無條件服從！	しかしだな、給料が出るからには理解しておけ？\n\nお前達の長官である私の命令は絶・対ッ！\n無条件で服従する事を誓え！	명심해. 난 너의 장관이니까 나의 명령에 절대 복종해야 돼!	But at the same time, remember I'm your boss, and you should obey my orders unconditionally.	
+26	小怜	到底要怎样……	所以到底要怎樣……	それで結局……何をすれば……	도대체 어떻게 해야 하는 거야……	What am I going to do…?	
+27	莉琉	先给你介绍一个人——自告奋勇教你化妆的老师。	我先給妳介紹一個人——一個自告奮勇教妳化妝的老師。	先にお前に紹介するべき人物がいる──\n\nお前の化粧の先生にと、自ら名乗り出てくれた。	우선 너에게 화장을 가르쳐 주겠다고 자진해서 나선 선생님을 소개시켜 줄게.	Let me introduce your makeup tutor. She volunteers to teach.	
+28	莉琉	虽然平时负责的是试验性药品和特种装备研发……	雖然她平時負責的是試驗性藥品和特種裝備研發啦……	普段は試験薬や特殊装備の開発研究などを\n担当しているんだが……	원래는 실험성 약품과 특수 전투 준비 개발을 맡고 있지만……	Though her main job is to test drugs and develop special equipment…	
+29	戴眼镜的女生	哦……小怜是吧？\n嘿嘿~这份档案真是有趣~	哦……妳就是小憐吧？ \n嘿嘿~妳的檔案真是有趣～	あぁ………これが本物のレンちゃんね？\nふふふ、このプロフィールは本当に面白いわ～～	오……렌이지?\n헤헤~정말 흥미로워~	Hey, Ren I suppose? \nHehe, interesting files!	
+30	戴眼镜的女生	你好~我是SID战研部的主任，既然咱们的档案都被修改过，你叫我爱衣就可以了。	妳好啊，我是SID戰研部的主任，既然我們的檔案都被修改過，那妳叫我愛衣就可以了。	こんにちは、私がSID戦術研究部の主任よ。\nお互いプロフィールを編集された者同士、\n仲良くしましょ？\n私の事は愛衣って呼んで。	안녕~난 SID전투 개발부의 책임자야. 우리 파일은 모두 수정됐으니，아이라 불러줘.	I am the director of the SID Research Department. My files have been modified too. Just call me Aya.	
+31	小怜	你好……\n（她的档案……也被修改过？）	妳好……\n（她的檔案……也被修改過？ ）	ど、どうも……\n（彼女のプロフィールも……編集されたのっ？）	안녕……\n（그녀의 파일도 수정된 건가?）	Hello… \n(Her files… have been modified as well?)	
+32	爱衣	莉琉啊，小怜这么好的研究素材，真的不能……\n借给我用用吗~！？	莉琉啊，小憐這麼好的研究素材，真的不能……\n借我用一下嗎？ ！	マ～リ～ル～、こんなにも素晴らしい研究素材\nであるレンちゃんを、なんで……\nなんで貸してくれないの～～！？	마리루，이렇게 좋은 연구 소재라니，나에게 빌려줄 수 없어~!?	Mariru, can I borrow Ren? \nSuch a perfect research subject!	
+33	小怜	（？？？研究素材？用用……？）	（？ ？？ 研究素材？ 用一下……？ ）	（？？？？？　研究……素材？　貸す……？）	（？？？연，연구 소재……？）	(? Research subject? Borrow…?)	
+34	小怜	（为、为什么后背有点发凉……）	（為、為什麼我的背後開始發涼……）	（な、なんだか背筋が寒くなってきたぞ……）	（어째 등골이 서늘해지는 걸……）	(This is getting a little bit creepy…)	
+35	莉琉	我怎么也算监护人，你不可以对她出手哦~	我好歹也是她的監護人，所以妳不能隨便對她出手哦～	この子の保護者は私だからな～～\n勝手に手を出すなよ～～	내가 후견인이니까 넘볼 생각은 하지도 마~	Don't give it another thought. Her guardian's here!	
+36	爱衣	哼，好吧……	哼，好吧……	ちぇっ、分かったわよ……	흥，알았어……	Humph, all right…	
+37	爱衣	虽然我也难得化妆，不过那些东西很简单，我看了10分钟就全记下来了。\n你应该也能很快学会的。	雖然我也難得化妝，不過那些東西很簡單，我看了10分鐘就全記下來了。 \n妳應該也能很快學會的。	私も滅多に化粧しないけど、\nこんなの超簡単だって。\n10分ぐらいで全部覚えられたし。\nレンちゃんもすぐに覚えられるよ。	나도 화장은 잘 안 하지만 너무 간단해서 10분만에 외웠어. 너도 금방 할 수 있을 거야.	I don't often wear makeup, but it's not hard. I've got the hang of it within 10 minutes. \nYou'll learn it fast.	
+38	小怜	这么快？\n好像程序很复杂来的……	這麼快？ \n看起來好像很複雜……	10分でっ！？\n手順とか複雑そうなんだけど……	이렇게 빨리？\n엄청 복잡한 프로그램 같은데……	Ten minutes? \nBut it seems so complicated…	
+39	莉琉	爱衣记什么都很快，以后多跟她学学吧~	愛衣記什麼都很快，以後妳多跟她學學~	愛衣は何でもすぐ覚えられるからな。\nこれからは彼女から色々学んでくれ。	아이는 뭐든 빨리 기억하니까 앞으로 잘 배워놔~	Aya is a fast learner. Follow her lead, will you?	
+40	小怜	是……\n（记忆力这种东西要怎么学嘛！）	喔，好……\n（妳倒是告訴我記憶力這種東西要怎麼學！ ）	はぁ……\n（言ったって記憶力の良し悪しは無理じゃん！）	응……\n（기억력 같은 걸 어떻게 배우라는 거야!）	Sure… \n(But how can I copy her memory!)	
+41	小怜	啊呜~~\n跟爱衣记了一天化妆品的牌子和颜色头大死了。	啊嗚～～\n記了一天化妝品的牌子和顏色，我頭快痛死了……	あ～～う～～\n\n一日中愛衣と化粧品のブランドやら色やらを\n勉強し続けて、頭が痛い……	아흑~~\n하루종일 아이와 화장품 브랜드와 색깔을 외우느라 머리가 터질 지경이다. 	Such a headache… \nA whole day with Aya trying to remember all those brands and colors… I’ve had enough!	
+42	小怜	……莉琉！你怎么在这？！	……莉琉！ 妳怎麼在這？ ！	………ってマリル！?　なんでここにいるの！？	……마리루！어떻게 여기에？！	… Mariru! Why are you here?	
+43	莉琉	怎么？这公寓本来就是我在新丰洲的住所之一。\n不仅如此，这整栋大楼都是SID的资产~	怎麼這麼說？ 這裡本來就是我在新豐洲的住所之一啊。 \n不僅如此，整棟大樓都是SID的資產唷～	うん？　この部屋は元々、私が新豊洲に\n所持している住居の1つだ。\nというか、このビル自体がSIDの資産だぞ？	이 아파트는 원래 내 신토요스 숙소 중 하나야. 게다가 이 아파트는 SID자산이지~	What's wrong? This is one of my residences here in New Opulentia. \nActually, this whole mansion belongs to SID.	
+44	小怜	我说怎么这么夸张！\n等等，难道你要跟我和安妮住在一起……	難怪……我就說這裡的裝潢怎麼會這麼誇張！ \n等等，難道妳要跟我和安妮住在一起……	すごいなおい！\n\nってちょっと待って、まさかここで\n俺とアニーと一緒に暮らすとかじゃ……	농담하지 마! \n잠깐，설마 나와 앤이랑 함께 여기에 사는 건 아니지…?	That explains it. \nWait, don't tell me you're going to live with us…	
+45	莉琉	只是偶尔回来，并不会经常住在这~\n这里的冰箱都没有啤酒了，下次记得帮我买两箱。	妳放心，我只是偶爾回來，不會經常住在這裡的～\n對了，冰箱裡都沒啤酒了，下次記得幫我買兩箱。	たまに帰って来るぐらいだ、\n常に住むわけじゃない。\nあと冷蔵庫のビールが切れてるから、\n今度2箱ぐらい買っておけよ？	가끔 올 거야. 여기 자주 오지 않거든. 냉장고에 맥주가 없던데，다음에 사다 놔.	Take it easy, it's just an occasional visit. \nBut you haven't got any beer in the fridge! Remember to buy me some.	
+46	莉琉	不过今天是特意过来作为监护人……哼哼~♪	身為監護人，偶爾還是得出現一下……哼哼～♪	とか言いつつ、\n今日のところはただの保護者として、\n寄ってやったんだけどな……ふふふ～～ん♪	하지만 오늘은 후견인으로서 특별히 온 거야……흐흥~♪	Anyway, today I'm here as your guardian… Hehe♪	
+47	小怜	不、不祥的感觉！！	不、不祥的感覺！ ！	い、いやな予感っ！！	부，불길한 느낌！！	Oh, I don't like where this is going…	
+48	莉琉	来试试，这是小怜的校服、这是连衣裙~	來試試看，這是小憐的校服，這是連身裙～	ほ～れほれ、これがレンちゃんの制服だぞ～～\nそしてこれが～～ワンピース～～	자，이건 렌의 교복，이건 원피스~	Come here. Try on this school uniform, and this dress.	
+49	小怜	为什么……这个裙子这么短……	為什麼這裙子這麼短？ ！	なんで……こんなにスカート短いの……	치마가…왜 이렇게 짧은 거야…	Why… The skirt is too short…	
+50	莉琉	裙子的长度果然还是这样好啊。	裙子長度這樣才好啊。	やっぱスカートはこれぐらいの長さがいいなぁ。	치마 길이는 이 정도가 딱 좋아.	Ha, this length looks perfect.	
+51	小怜	这个裙子果然被改过长度了吧！	果然被改過長度了！	スカートの丈、絶対変えたなッ！！	길이가 수선된 치마잖아!	You've cut it shorter, haven't you!	
+52	莉琉	不要在意那种细节~	唉啊，不要在意那種細節啦～	細かい事をいちいち気にするな！	그런 사소한 건 신경쓰지 마~	Ah, never mind…	
+53	莉琉	这边还有短筒袜、中筒袜、长筒袜、连裤袜……\n哦哦，还有这条吊带袜！	這邊還有短統襪、中統襪、長統襪、褲襪……\n哦哦，還有這條吊帶襪！	こちらはショートにハイソックス、ええと…\nニーハイ、タイツと……\nおお！　ガーターまであるぞぉ！	숏 스타킹，미들 스타킹，롱 스타킹，팬티 스타킹……오오，그리고 가터벨트까지!	And here are crew socks, knee high socks, thigh high socks, pantyhose… \nOh, and garter belt lingerie!	
+54	小怜	袜子怎么也有这么多种类……	怎麼連襪子也有這麼多種……	なんで靴下だけでこんなに種類あるんだ……	스타킹 종류도 이렇게 많다니…	Why there're so many kinds of socks…	
+55	莉琉	还有不同类型的条纹、拼接、图案、波点……\n对了，要不要试试网袜？	不只種類，還有不同類型的條紋、拼接、圖案、圓點……\n對了，妳要不要試試網襪？	パターンも色々用意しているぞぉ。\nストライプ、パッチワーク、ドットなどなど！！\nなるほど！　網タイツも試してみたいか？	다른 무늬，소재，도안，디자인도 있어…아참，망사스타킹을 신어보는 건 어때?	And there're different patterns. Stripes, mosaic print, floral print, Polka dot… \nOh, how about fishnet stockings?	
+56	小怜	才不要呢！!！	不要！ !！	誰が試すかぁッ！！！	싫어！!！	Never!!	
+57	小怜	不对！重点是！\n这种东西我才不要穿啦！！	我才不要穿這種東西咧！ ！	違うっ！　色々あり過ぎて呆れてたのっ！\n要するにっ！！　こんなもの着ないっ！！	아니！중요한 건！\n난 절대 이런 걸 입지 않을 거야！！	Oh no, I mean… \nEww, I don't want to wear such things!	
+58	莉琉	任务需要的时候也由不得你，不如趁早……\n要不要我来帮你？	任務需要的時候也由不得妳，不如趁早接受吧……\n要不要我來幫妳？	いざ任務の時に駄々こねられても困るからな……\nそれこそ早いうちに観念なさいなぁ……\nそれとも……長官権限で、\n私が直々に手伝ってあげようか？	임무에 필요하면 어쩔 수 없어. 차라리 이 참에……\n내가 좀 도와줄까?	Sometimes on mission, you would have no choice. Better get used to it now. \nNeed a hand?	
+59	小怜	你……你……！！	妳……妳……！ ！	な……な……っ！！	너……너……！！	Ugh!	

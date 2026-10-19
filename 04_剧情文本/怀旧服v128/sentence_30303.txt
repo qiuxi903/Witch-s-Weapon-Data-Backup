@@ -1,0 +1,90 @@
+﻿1	N/A	我坐在学姐豪华大床的一角，听着她的讲述。	我坐在學姐豪華大床的一角，聽著她的述說。	俺は豪華なベッドの隅っこに座って先輩達の話を\n他人事のように聞いている。		I sit by the corner of Nix's luxurious bed and listen to her story.	
+2	倪克斯	监视我的人每半年会更换一批，这次的两个人刚刚调来不到三个月。	監視我的人每半年會更換一批，這次的兩個人剛調來不到三個月。	監視役は半年ごとに交代するわ。\n\n今いる2人は3ヶ月目かしらね。	날 감시하는 사람은 반년마다 한 번씩 바껴. 이번에 저 두 사람은 삼개월 밖에 안 됐어.	They change my guards every six months. Those two guys outside were just transferred here less than three months ago.	
+3	N/A@莉琉	一会你就跟门口的人说，要亲自送小怜回家，车我已经安排好了。	等一下你就跟門口的人說要親自送小憐回家，車我已經安排好了。	レンを家まで送りたいと、あの2人に伝えろ。\nこちらは車をすでに用意している。	잠시 후 저들에게 직접 렌을 집에 데려다 주겠다고 얘기해. 차는 이미 준비해뒀어. 	You tell the guards later that you'll personally escort Ren home. I've already sent the car.	
+4	N/A@莉琉	只要那两个保镖一上车，就会立刻被麻醉。	那兩個保鏢只要一上車，就會立刻被麻醉。	2人が車へ近寄って来た瞬間を見計らい、\n麻酔で無力化する手筈だ。	저 두 사람이 차에 타면 바로 마취시킬거야.	As soon as those guards get into the car, they'll be taken care of.	
+5	倪克斯	可监视人员要定期汇报，想不引起怀疑的话，还需要他俩的配合吧？	可是監視人員要定期回報，如果不想引起懷疑，也需要他們兩個配合吧？	監視役は定期報告をする役目を担っているの。\n\n安全に事を進めたいのであれば、あの2人の\n協力は必要不可欠よ。	하지만 감시요원들은 정기적으로 보고해야 돼. 의심을 사고 싶지 않다면 저들의 협조가 필요하지 않을까?	But, they're supposed to report their status on a regular basis. If we don't want to raise any suspicion, maybe we need their cooperation?	
+6	N/A	学姐显然对这个临时制定的逃脱计划有些担心。	學姐顯然對這個臨時擬定的逃脫計劃有點擔心。	唐突に決められた逃走計画に、先輩は明らかな\n不安を感じている。	선배가 임시로 정한 탈출 계획에 걱정을 드러낸다.	Nix is apparently not convinced by the current escape plan.	
+7	倪克斯	虽然派来监视我的只是外围成员，但『对外安全委员会』的人都受过严格的抗审讯训练。	雖然派來監視我的只是外圍成員，但「對外安全委員會」的人都受過嚴格的抗審訊訓練。	それに『対外安全委員会』の方達は全員が、\n厳しい尋問対処訓練を乗り越えているわ。	날 감시하러 온 사람들은 외부인들이긴 하지만 모두 대외 안전 위원회의 엄격한 훈련을 받았어.	All the guards sent here to spy on me have received strict anti-interrogation training from the external intelligence agency.	
+8	倪克斯	恐怕他们不会轻易合作吧……	恐怕他們不會輕易配合吧……	監視の2人が委員会の下役だったとしても、\nそう簡単に無力化できるものでは……	그들이 쉽게 협조해주지 않을 것 같아……	I don't think they'll cooperate willingly...	
+9	小怜	是那个…对外安全委员会？	是那個……對外安全委員會？	それって、あの噂の……対外安全委員会？	그…대외 안전 위원회？	THE external intelligence agency?	
+10	N/A	那个组织又称『七诫』，是莱博娜的情报机构，最早由欧洲黑手党内部的整肃部门发展而来。	那個組織又稱「七誡」，是萊博娜的情報機構，最早由歐洲黑手黨內部的整肅部門發展而來。	『七戒』とも呼ばれるリバーナの情報機関だ。\n\n元はヨーロッパのマフィアが編成した粛清部隊を\n起源として、そこから発足されたんだとか。	그 조직은 『칠계』라고도 불리는 레보나의 정보 기관이다. 유럽 마피아 내부의 숙청부에서 발전해 온 것이다.	Yes, it's also known as the "Seven Commandments." Lebona runs the agency now, but it originated from the mafia in Europe.	
+11	N/A	他们以匪夷所思的暗杀能力和对黑色西装的执着闻名于世，任何被盯上的人都很难逃脱。	他們以匪夷所思的暗殺能力和對黑色西裝的執著聞名於世，任何被盯上的人都很難逃脫。	黒スーツに拘りを持ちながらも、その凄まじき\n標的暗殺能力によって世界中で名を馳せている。\n彼らの標的になった場合、何者であっても、\n逃げる事は難しいと考えて置いた方が良い。	그들은 뛰어난 암살 능력과 검은 양복에 대한 집착으로 유명세를 떨쳤다. 그들의 눈에 띄면 벗어나기가 어렵다.	The agency is known for pulling impossible assassinations and its obsession for black suits.	
+12	N/A	最具传奇色彩的是，那是一个以维护《莱博娜诫条》为宗旨的独立组织。	最具傳奇色彩的是，那是一個以維護《萊博娜誡條》為宗旨的獨立組織。	彼らの特徴としては《リバーナ戒禁》の維持を\n信条とした独立組織である点が挙げられる。	더욱 특징적인 것은 그들은 《레보나 금령》 유지를 취지로 하는 독립 조직이다.	But what makes this agency a true legend is that it's an independent organization that only answers to the "Creed of Lebona."	
+13	N/A	通过遍布全球的数百家赌场的固定股份获取运作资金，不听命于任何政府……	他們透過遍佈全球數百家賭場的固定股份獲取運作資金，因此不聽命於任何政府……	全世界に点在するカジノの固定株式を持つため\n資金源は潤沢。\nあらゆる政府に属そうとしない姿勢はまさに……	전세계에 분포된 수백개 도박장의 고정 주식으로 운영 자금을 충당하고 어떤 정부도 따르지 않는다……	It's not controlled by any government and has unlimited funds thanks to the hundreds of casinos it operates across the globe.	
+14	小怜	（简直……太硬核了！！！）	（實在……太誇張了！！！）	（本当に……ハードボイルドすぎる……！）	（완전…하드코어야！！！）	(Talk about hardcore...)	
+15	N/A	与那个组织相关的几款游戏我都打到了白金。	和那個組織相關的幾款遊戲我都打到了白金。	ちなみに俺は彼らが出てくるゲームの何個かで、\nプラチナトロフィーを獲得済である。	게다가 난 몇몇 관련 게임의 플래티넘을 달성했다.	I've reached platinum tier in all the games based on this agency!	
+16	小怜	所以想要安全脱离的话，问题不在于如何出逃，而是如何不引起他们的警觉吧？	所以想要安全脫離的話，問題不在於方式為何，而是怎樣才不會引起他們的警覺吧？	事を安全に進めるなら、どう逃げるとかじゃなく\n『七戒』にバレないためにはどうするべきか……\nそれを考えなきゃいけないって事か？	안전하게 탈출하려면 어떻게 도망가느냐가 아니라 어떻게 칠계의 경계를 끌지 않느냐군.	So, if we were to pull the extraction plan safely, we'd not only need to rescue Nix, but also do so without them knowing.	
+17	N/A	搞不好学姐会被加入暗杀名单，即使是SID也很难保护……	搞不好學姐會被加入暗殺名單，即使是SID也很難保護……	もし先輩が暗殺リストに載ってしまったら、\n流石のSIDでも守り切れないだろう……		What if they add Nix to their kill list? I'm not sure if the SID will be able to protect her...	
+18	N/A@莉琉	呵呵呵，放心好了。	呵呵呵，放心好了。	くくく……心配はいらんさ。	하하하, 걱정하지마.	You don't have to worry about that.	
+19	N/A	莉琉得意的笑道──	莉琉得意地笑道──	俺の心配を尻目にマリルがニヤリと笑った。	마리루가 득의양양하게 웃는다──	Mariru smiles proudly.	
+20	N/A@莉琉	战研部对付这种人的方法多得是~	戰研部對付這種人的方法多得是～	あいつらへの対策など戦研部にいくらでも\nあるからな～～	전투 연구부에 그들을 대응하는 방법이 아주 많거든~	We always have special plans for special targets.	
+21	N/A	我脑海中浮现出爱衣一脸兴奋地拿着审讯道具的样子，不禁打了个冷颤。	我腦海中浮現出愛衣一臉興奮地拿著審訊道具的樣子，不禁打了個冷顫。	なるほど、笑うのも理解できる。\n\n拷問道具を片手に興奮しまくっている愛衣の姿が\n俺の頭の中に浮かんだ。\n……それなら大丈夫……なのか？	들뜬 아이가 취조 도구를 들고 있는 모습이 머릿속을 스치자 나도 모르게 한기가 느껴진다.	I can't help but picture Aya holding torturing tools and how much she enjoys the process...	
+22	N/A@莉琉	你们俩先准备一下，随时可以行动。	你們倆先準備一下，隨時可以行動。	私も色々と行動を開始する。\n\nお前達2人は準備をしておけよ？\nいつでも動けるようにな。	두 사람은 먼저 준비하고 있어. 언제든지 행동해도 좋아.	One last check, you two. Then, you're a go!	
+23	N/A	说罢，莉琉便断开了通信。	語畢，莉琉便切斷了通訊。	とにかく、俺達2人はマリルの言葉に対して\n頷きながら了解と告げた。\n俺達の快諾を聞いたマリルは少し息を吐くと\n「じゃあな」と、その流れのまま通信を切る。	말을 마친 마리루가 통신을 끊는다.	Mariru is over and out.	
+24	N/A	忽然安静下来的氛围让我有些尴尬，而学姐却还不依不饶的盯着我的胸部。	忽然安靜下來的氛圍讓我有些尷尬，而學姐卻還目不轉睛地盯著我的胸部。	……………………\n\nマリルがいなくなった途端に静かになって\n気まずい空気が流れる。\n先輩は未だ俺の胸元を見つめ続けていて、\n正直どんな反応をすれば良いのか分からない。	갑자기 조용해진 분위기에 조금 어색해졌다. 선배는 여전히 나의 가슴을 응시하고 있다.	The sudden silence makes me feel awkward. Nix, on the other hand, is still staring at my ample chest.	
+25	倪克斯	音质……不错呢。	音質……不錯呢。	音質は……良いかと思います。	음질이……괜찮네.	Your voice... could've fooled me.	
+26	N/A	我有点不好意思的低下了头。	我有點不好意思地低下了頭。	俺は気詰まりした感じに頭を下げた。	조금 부끄러워진 나는 고개를 숙였다.	I lower my head, embarrassed.	
+27	小怜	还、还行吧……	還、還可以啦……	で、ですかね……	괘, 괜찮죠……	Err... Thank you?...	
+28	N/A	我们在聊什么啊？？	我們在聊什麼啊？？	…………\n\nお、俺達は一体……何の話をしてるんだ……	우리 무슨 얘기를 하고 있는 거야?!	What're we talking about, exactly?	
+29	N/A	上次爱衣说做了个升级，似乎音质确实变好了…？	上次愛衣說做了個升級，音質好像真的變好了……？	前に愛衣がアップグレードしたとか言ってたから\n確かに音質は良くなっている気はするけど……？	지난번에 아이가 업그레이드를 한 이후로 음질이 확실히 좋아진 것 같다…？	Aya talked about an upgrade. Seems like you do sound more feminine.	
+30	小怜	（不对，干嘛要升级那种没用的东西啊？！）	（不過，沒事幹嘛升級那種沒用的東西啊？！）	（違うって、そもそも何でこんな意味ない部分を\n　アップグレードするんだよ！！？）	（아니, 어째서 쓸데 없는 걸 업그레이드 하는 거야？！）	(Why did she even bother upgrading something like that?...)	
+31	N/A	倪克斯忽然凑近我身边，右手也顺势伸到了我背后。	倪克斯忽然湊近我身邊，右手也順勢伸到了我背後。	──などと考えている最中、突然ニュクス先輩が\n近寄って来た。\nごく自然な感じで右手を俺の背中へ回してくる。	닉스가 갑자기 다가와 오른손을 내 등 뒤로 뻗는다.	Nix suddenly approaches, her right hand reaching behind my back.	
+32	小怜	学、学姐……？	學、學姐……？	せ、先輩……？	서, 선배…？	What're you doing?...	
+33	N/A	她的手在我后背上隔着衣服轻轻拉了一下，我顿时感到一阵松脱。	她的手在我背上隔著衣服輕輕拉了一下，我頓時感到一陣鬆脫。	彼女が服の上を軽く引っ張った瞬間、\n俺は何かから解放された感じがした。	선배가 나의 등 뒤를 천천히 잡아당기자 가슴이 탁 트인 느낌이 든다.	I feel her pull something over my clothes and let out a small sigh of relief...	
+34	小怜	──！	──！	──え、えっ！？	──！	!!!	
+35	N/A	不会是把那个扣子给……	不會是把那個扣子給……	ま、まさか、ホックが……	설마 그 단추를……	Don't tell me it's the buckle of that...	
+36	N/A	接着，学姐左手伸进我礼服的前襟，缓缓的抽出了黑色胸垫……	接著，學姐左手伸進我禮服的前襟，緩緩地抽出了黑色胸墊……	そのまま先輩は俺のドレスの中に左手を\n突っ込んで……\nゆっくりと黒い胸パッドを抜き出した。	이어서 선배의 왼손이 나의 앞섬으로 들어오고 천천히 검은색 가슴패드를 꺼낸다……	Before I have the time to figure out what just happened, she reaches her hand inside my clothes... And takes out my black bra!!!	
+37	小怜	……	……	……	……	...	
+38	小怜	…………	…………	…………	…………	...	
+39	N/A	……………………	……………………	……………………	……………………	...	
+40	N/A	啊啊啊啊啊啊啊啊啊啊啊啊啊啊──！！！！！！	啊啊啊啊啊啊啊啊啊啊啊啊啊啊──！！！！！！	いひゃあああああぁぁぁぁぁぁ――！？！？！？	아아아아아아아아──！！！！！！	Aaaaaaaah!	
+41	N/A	她把玩着胸垫捏来捏去，发现没有扬声器后，又狐疑的望向一旁早已凌乱的我。	她將胸墊捏來捏去地把玩著，發現裡面沒有喇叭之後，又狐疑地看向一旁早已衣衫不整的我。	先輩は胸パッドを色々と弄ってスピーカーが\n存在しない事を確認すると、\n訝しげな表情で俺の方を見てくる。	그녀가 가슴패드를 이리저리 만져보다 스피커가 없는 걸 확인하고 당황하는 날 바라본다. 	She squeezes my bra here and there for quite some time, then looks at me doubtfully after failing to find any voice changer device.	
+42	N/A	我的脸已经红到了脖子根，一把夺过胸垫后冲进洗手间。	我的臉一路漲紅到脖子，一把搶過胸墊後衝進洗手間。	俺は真っ赤になりながらパッドをもぎ取って、\n瞬時にトイレへと飛び込んだ。	얼굴부터 목까지 달아오른 나는 가슴패드를 뺏은 후 화장실로 달려갔다.	Face beet red, I grab my bra back from her and rush to the bathroom.	
+43	倪克斯	嗯？小怜肚子不舒服吗？	嗯？小憐肚子不舒服嗎？	あら？ お腹の調子が悪くなったのかしら？	응? 렌, 배가 아파?	Are you all right, Ren? Something wrong with your tummy?	
+44	倪克斯	如果需要“那个”的话，壁橱里就有哦~	如果需要「那個」的話，壁櫥裡就有哦～	もし「あれ」が必要でしたら、壁棚にストックが\nありますよ。	“그게” 필요하면 수납장 안에 있어~	If it's that time of the month, you'll find what you need in the medicine cabinet.	
+45	N/A	学姐在洗手间外用关切的声音说道。	學姐在洗手間外用關切的聲音說道。	……トイレの外から先輩の気遣う声が聞こえる。	선배가 화장실 밖에서 다정한 목소리로 말한다.	Nix sounds genuinely concerned.	
+46	小怜	不、不是啦──！！	不、不是啦──！！	ち、違いますから、大丈夫ですぅぅ！	아, 아니에요──！！	It's not that!!!	
+47	小怜	（呜呜呜呜呜~~）	（嗚嗚嗚嗚嗚～～）	（うううぅぅ……）	（흑흑흑흑흑~~）	(Boo-hoo!)	
+48	N/A	……	……	…………	……	...	
+49	N/A	与此同时，SID作战指挥室。	在此同時，SID作戰指揮室。	──同刻、SID作戦指令室	이 시각. SID 작전 지휘실.	Meanwhile... SID Command Room	
+50	N/A	爱衣坐在指挥台上翻阅着一摞纸质文件，她面前的大屏幕里跳动着四五个分析窗口。	愛衣坐在指揮台上翻閱著一疊紙本文件，她面前的大螢幕上跳動著四五個分析視窗。	オペレーションデスクの座席で愛衣がパラパラと\n書類を捲っている。\n彼女の目の前にある大スクリーンには、\n分析ウィンドウが4、5個ほど表示されていた。	아이가 지휘대에 앉아 종이 문서를 살펴보고 있다. 앞에 있는 스크린에 네다섯개 분석 화면이 떠있다.	Aya is going through a pile of documents on her desk. Five windows are open, quickly changing on the big screen in front of her.	
+51	爱衣	呐……	喏……	ねぇねぇ？	저기……	Hey...	
+52	N/A	爱衣仰过头来看向身后穿着笔挺军装的女性。	愛衣仰過頭看向身後穿著筆挺軍裝的女性。	愛衣は座席の背もたれに深く身を預けながら、\n背後に立っている軍服を着た女性を眺める。	아이가 고개를 들어 반듯한 군복을 입고 있는 여자를 쳐다본다.	Aya turns around and looks at the woman in uniform.	
+53	爱衣	要从那个土包子身上窃取文件的话，应该有无数种方法吧……	要從那個土包子身上竊取文件的話，應該有無數種方法吧……	あんなどんくさい奴からデータを盗む方法なんて\n他に幾らでもあったでしょ？	그 촌뜨기의 몸에서 가져온 문서가 필요하면 다른 방법도 많을 텐데……	There must be a million ways to extract information from that hillbilly...	
+54	爱衣	但你却偏偏派小怜去冒这种不必要的风险，她和安妮不会起疑心吗？	但妳卻偏偏派小憐去冒這種不必要的風險，她和安妮不會起疑心嗎？	わざわざレンちゃんを不必要なリスクに\n晒すなんてさ～～\nレンちゃんとアニーに色々と疑問なり何なり\n言われなかったのかい？	왜 굳이 렌을 위험한 곳에 보내는 거야? 렌과 앤이 의심하지 않을까?	Why did you have to send Ren? It causes unnecessary risk. And you're not afraid she and Annie will suspect anything?	
+55	N/A	莉琉看着手持设备上的数据笑了笑。	莉琉看著手持裝置上的數據笑了笑。	マリルは手元にあるデバイスのデータを\n見ながら笑った。	마리루가 휴대 기기의 수치를 보며 웃는다. 	Mariru checks the data on her mobile device and smiles.	
+56	莉琉	那家伙应该还处在进入学姐闺房的兴奋中吧~	那傢伙應該還處在進入學姐閨房的興奮中吧～	あいつはまだ、あの先輩の部屋で色々と\nお楽しみ中だろうさ。	그 녀석, 분명 선배의 방에서 흥분하고 있겠지~	Ren's too excited to suspect anything now that she's in Nix's bedroom.	
+57	莉琉	而且……这本来是安妮的主意。	而且……這本來是安妮的主意。	それに……元々これはアニーの提案だ。	그리고……이건 원래 앤의 아이디어야.	Besides... This was Annie's idea to begin with.	
+58	爱衣	咦？	咦？	……そうなの？	뭐?	What?	
+59	莉琉	你还记得吧──	你還記得吧──	覚えているよな？	아직 기억하지──?	I'm sure you remember.	
+60	N/A@莉琉	十几天前，小怜从异空间带回索娅的时候，在全球范围内引起了5秒左右的巨幅时空相位波动。	十幾天前，小憐從異空間帶回索婭的時候，在全球範圍內引起了5秒左右的巨幅時空相位波動。	10数日前、レンが異空間からソヤを\n救助した時──\n世界的な範囲で約5秒間の巨大時空位相波動を\n観測した。	십일 전, 렌이 이공간에서 소야를 데리고 왔을 때 전세계 범위 안에 5초간 대형 시공 상위 파동이 일어났어.	About two weeks ago, after Ren brought Sonya back from the flux area, where a Spacetime Flux occurred globally and lasted about 5 seconds.	
+61	N/A@莉琉	虽然信号剧烈，但因为很快就消失了，各国都没能探测出信号源。	雖然訊號劇烈，但因為很快就消失了，各國都沒能探測出訊號來源。	非常に強烈な信号であったが、即時消失したため\n未だ各国は発信源を特定するに至っていない。	신호는 강했지만 바로 사라져 버렸고 각국도 신호의 출처를 탐측하지 못했어. 	The signal was strong but didn't last long. Therefore, no countries were able to trace its source.	
+62	N/A@爱衣	似乎目前最被接受的解释是，当时太阳系正好扫过银河中一束伽玛射线暴的边缘。	目前似乎最能被接受的解釋是，當時太陽系正好掃過銀河中一束伽瑪射線暴的邊緣。	現在で最も有力とされている解釈は、ちょうど\n太陽系が銀河中のGRB（ガンマ線バースト）の\n外側に接触したって説なんだよね。	현재로서 가장 설득력 있는 변명은 태양계가 은하의 간마선 폭발 경계를 지나갔다는 거야.	The official story now is that a gamma-ray burst occurred near the solar system.	
+63	N/A@爱衣	虽然是胡扯，但在某种意义上，人类确实又一次与世界末日擦肩而过了呢~	雖然是胡扯，但在某種意義上，人類確實又一次與世界末日擦肩而過了呢～	その実は全くのデタラメだって言うのに……\n\nまあ、別の意味で人類は世界の滅亡と\nすれ違ってたけどね～♪	헛소리이긴 하지만 어떤 의미에선 인간은 확실히 세계 종말의 어깨를 스쳐지나갔다고 볼 수 있지~	While it's made up, it's true on one thing—humanity was this close to extinction.	
+64	莉琉	但只要世界还没毁灭，我们就要避免有人怀疑到新丰洲头上。	但只要世界還沒毀滅，我們就得防止有人懷疑到新豐洲頭上。	だが、その通り「すれ違った」だけだ。\n\n世界が存続してしまったのであれば、\n新豊洲としては疑われる事を避けねばなるまい。	하지만 세계가 멸망하지 않은 한 신툐오스를 의심하는 사람이 없어야 한다는 거야.	But, the world didn't end. So we must make sure no one connects New Opulentia to that incident.	
+65	莉琉	从那次事件之后，SID一直在执行最高级别的舆论与情报监控。	從那次事件之後，SID一直在執行最高級別的輿論和情報監控。	あの事件以来、SIDは輿論を含め、\nあらゆる情報流通に対して監視を行ってる。	그 사건 이후 SID가 최고 등급의 어론과 정보 제어를 실행하고 있어. 	The SID has been tracking all news reports and communications.	
+66	莉琉	虽然信息部一无所获，但安妮在爬取社交网络内容的时候发现了有趣的东西。	雖然資訊部一無所獲，但安妮在瀏覽社群網絡內容的時候發現了有趣的東西。	情報部の担当分野からは目ぼしい収穫を\n得られなかったが──\n一方でアニーがSNSから面白い情報を掴んだ。	정보부에서 수확이 없었지만 앤이 소셜 네트워크에서 재밌는 사실을 발견했어.	Nothing pans out so far, but Annie has found something interesting on social media via web crawling.	
+67	爱衣	安妮都会做这种分析了？教官说她在体能训练的时候也特别努力呢~	連安妮都會做這種分析了？教官說她在體能訓練時也特別努力呢～	え、アニーは情報分析とかもできるように\nなったんだ？\n体力訓練でも著しい成果を上げているって\n担当教官が言ってたよ。	앤이 그런 분속도 할 줄 알아？체력 훈련에서도 꽤 열심히 라고 교관이 얘기하던 걸~	Annie has become that good, huh? Her instructor also mentions she's always working hard during her physical training.	
+68	莉琉	那孩子也有自己的理由吧……	那孩子也有自己的理由吧……	あの子はあの子なりに努力する理由が\nあるんだろう。	그 아이도 자신만의 이유가 있겠지……	She has her own reasons, that kid.	
+69	莉琉	倒是小怜，一直都悠闲过头了。	倒是小憐，一直都悠閒過頭了。	それに引き換え、あのぐうたらちゃんは……	반대로 렌은 항상 여유만만이고.	Ren, however, is a whole different story...	
+70	N/A	莉琉调出一长串小怜最近通关的游戏列表，像发现了自己的小孩是笨蛋的家长般无奈的摇了摇头。	莉琉調出一長串小憐最近破關的遊戲清單，像發現自己的小孩是笨蛋的家長般，無奈地搖了搖頭。	レンが最近クリアしたゲームの長々しいリストを\nマリルは呼び出した。\n自分の子供の馬鹿さ加減に気付いた親のように、\nもはや頭を左右に振るしかできない。	마리루가 렌이 최근 클리어한 게임 리스트를 찾아낸다. 자신의 아이가 바보라는 걸 알아낸 가장처럼 고개를 젓는다.	Mariru pulls out a list of all the games Ren cleared recently.	
+71	莉琉	总之，安妮发现小怜把索娅带回来的那天，有几十个人在网上描述了自己下午睡觉时的奇怪的梦境。	總之，安妮發現，小憐把索婭帶回來的那天，有幾十個人在網上描述了自己下午睡覺時的奇怪夢境。	とにかくレンがソヤを救助したあの日、\n奇妙な書き込みをアニーは見つけている。	어쨌든 렌이 소야를 데려온 그 날, 몇몇 사람들이 낮잠을 자다가 이상한 꿈을 꿨다고 인터넷에 올렸어.	Anyway, Annie found dozens of posts published on the same day Ren brought Sonya back. They're from different people who had the same weird dream during their afternoon naps.	
+72	莉琉	“在梦中坠入一片黑暗，还见到了去世的亲人。”	「在夢中墜入一片黑暗，還見到了去世的親人。」	複数人が昼寝中におかしな夢を見たらしい。\n\n「夢の中で真っ暗な空間へ落ちて行くと、\n　亡くなった親族に会えた」とか言う話だ。	“꿈 속에서 어두운 공간에 갇혔고 흐릿한 환경 속에서 죽은 가족을 봤다.”	"I dreamed about falling into a dark abyss and meeting my relatives who'd passed away."	
+73	莉琉	发布信息的都是没什么关注者的普通人，所以很快就被信息流淹没了。	發佈訊息的都是沒什麼關注者的普通人，所以很快就被資訊河道淹沒了。	フォロワーの少ない一般人ばかりが書き込みを\nしてたため情報はすぐに埋もれてしまったがな。	그 글을 쓴 사람들 모두 특별히 관심 갖는 이가 없는 일반인이여서 그 글은 빠르게 묻혔어.	None of those people had many followers, so their posts didn't attract much attention.	
+74	爱衣	下午睡觉时的梦……	下午睡覺時的夢……	昼寝中に見た夢かぁ……	낮잠을 잘 때 꾼 꿈…	Dreams during afternoon naps...	
+75	爱衣	等等，那次剧烈的波动是在新丰洲时间下午四点左右出现的！	等等，那次劇烈的波動是在新豐洲時間下午四點左右出現的！	あの日の強烈な時空位相は新豊洲の時間で言うと\n午後4時頃に発生したから……\n……もしかして！？	잠깐, 그 격렬한 파동은 신토요스 시간으로 오후 4시 쯤에 발생했어！	Wait! The Spacetime Flux happed around 4 p.m., New Opulentia time!	
+76	莉琉	下午那个时间在睡觉的人本来就不多，会把自己的梦发到网上的家伙更是少之又少。	那個時間在睡覺的人本來就不多，會把自己的夢發佈到網上的傢伙更是少之又少。	その時間に寝ている人間は少ない。\n\nそして、自分の夢をネット上に書き込む人間は\n更に少ない。	그 시간에 잠을 자는 사람들은 원래 많지 않아. 자신의 꿈 내용을 인터넷에 올리는 녀석도 극소수야.	Not many people take naps at that time, and fewer would post their dreams online.	
+77	莉琉	进一步分析发现，那些账号的物理地址全都位于新丰洲，且分布在一个半径不到五公里的区域内。	進一步分析發現，那些帳號的實體地址全都位在新豐洲，且都分佈在一個半徑不到五公里的區域內。	彼らのアカウントを詳しく分析した結果、\n物理アドレスは全て新豊洲からだった。\nしかも全アドレスが半径5キロ圏内の区域で\n収まっている。	한단계 더 분석한 결과, 그 계정의 물리 주소가 모두 신토요스, 반경 50킬로도 떨어지지 않은 구역이였어.	We did more analyses. All those accounts' physical addresses are inside New Opulentia—within a 5-mile radius.	
+78	N/A	听到这里，爱衣的两眼放光。	聽到這裡，愛衣的兩眼發出亮光。	ここまで聞いて、愛衣の両目が輝きだした。	여기까지 들은 아이의 두 눈이 반짝인다.	Aya listens on, eyes bright.	
+79	莉琉	──而那个区域的中心就是倪克斯的庄园。	──而那個區域的中心，就是倪克斯的莊園。	もう分かっただろう？\n\nその区域の中心を調べて、行き着いたのが\nニュクスの荘園と言う訳だ。	──그리고 그 구역의 중심이 바로 닉스의 장원이야. 	And the center of that region is Nix's villa.	
+80	爱衣	难道是这座庄园里的某种存在，在天堂之门打开的时候被激发，从而引发了大规模的梦境？	難道是這座莊園裡的某種存在，在天堂之門打開時被啟動了，從而引發大規模的夢境？	あの荘園には「何か」が存在しているんだね！\n\nそれが天国の扉の開いた瞬間に活性化して、\n大規模な夢を引き起こした！？	그 장원 안의 어떤 존재가 천국의 문이 열리는 순간 활성됐고 대규모의 꿈을 만들어냈다?	So, there might be something special in that villa. When Heaven's Door was opened, that thing triggered a dream for people who were asleep?	
+81	N/A	爱衣的声音中传递出难以压抑的兴奋。	愛衣說話的音調中帶著難以壓抑的興奮。	愛衣の声から抑えきれない興奮が伝わってくる。	아이의 목소리에서 억누르기 힘든 흥분이 느껴진다.	Aya sounds excited.	
+82	莉琉	本来我也不确定，所以让安妮在庄园的监控上安装了玻尔兹曼探测器……	本來我也不確定，所以請安妮在莊園的監視系統上安裝了玻爾茲曼探測器……	まぁ、まだ確定的だとは言えないな。\n\nだからこそ荘園の監視カメラにボルツマン探針を\n設置させたのだが……	나도 확신할 수 없었어. 그래서 앤이 장원의 감시 시스템에 볼츠만 탐측기를 설치했어……	At first, I couldn't be sure, so I had Annie install a Boltzmann sensor to the security system in the villa.	
+83	N/A	爱衣满脸写着“给我看”的表情向莉琉扑过去，被莉琉一把糊在脸上。	愛衣滿臉寫著「給我看」的表情向莉琉撲過去，被莉琉用手掌按在臉上擋開了。	「だったら見せて」と言わんばかりの表情で\n愛衣がマリルへ飛びついた。\nしかし顔を片手で掴まれてしまう。	아이가 “보여줘”라는 표정으로 마리루에게 달려갔지만 마리루의 손에 저지당했다.	"I want to see it." Aya quickly comes to Mariru, but Mariru puts her hand on Aya's face to stop her.	
+84	N/A	身形娇小的银发少女两只手完全够不到莉琉，却不依不饶的在空中胡乱挥舞着。	身形嬌小的銀髮少女兩隻手完全搆不到莉琉，卻依然鍥而不捨地在空中胡亂揮舞著。	銀髪少女の小柄な身体ではマリルに対して\n届きもしないが、\nそれでも両手を空中でグルグルしながら\n好奇心を爆発させる。	왜소한 은발소녀가 마리루에게 닿지 않는 두손을 공중에서 허우적 거린다.	The silver-haired girl, unfortunately, has short arms—she can't reach Mariru, her hands waving in the air.	
+85	爱衣	咕（给）~呜（我）~罐（看）~rua（啦）~~~	咕（給）～嗚（我）～罐（看）～rua（啦）～～～	ふぃ（み）～ふぇ（せ）～ふぇ（て）～\nふぉ（よ）～～！！	브여저(보여줘)~~~	"Wu wut see ut!" (I want to see it!)	
+86	莉琉	等设备回收之后会给你的啦，现在快点给我做完施教授那份情报的分析！	等裝置回收之後會給你的啦，現在快點給我做完施教授那份情報分析！	デバイスを回収できたらすぐに見せてやるさ。\n\nそれよりも今は施教授の情報分析を\nさっさと済ませろ。	기기를 회수한 후 보여줄게. 지금 빨리 시교수의 정보를 분석해! 	I'll show it to you after we've gotten the sensor back. Now, go finish your assignment from Professor Shih!	
+87	N/A	把爱衣按回去之后，莉琉走出指挥室，一言不发的盯着手持设备上卫星传来的数据。	把愛衣按回去之後，莉琉走出指揮室，一言不發地盯著手持裝置上衛星傳來的數據。	──そうして愛衣は片付けられたのであった。\n\n愛衣が指令室を出ると、マリルはタブレットに\n届いた衛星からのデータを無言で見つめる。	아이를 제자리에 앉힌 마리루가 지휘실을 걸어나가 아무 말 없이 휴대 기기 위 위성 데이터를 쳐다본다.	Then, Mariru walks out of the command room, staring at the satellite data she's been receiving on her device.	
+88	N/A@莉琉	（刚才小怜和倪克斯额头接触的一瞬间，爆发出了强度极高的低频电波。）	（剛才小憐和倪克斯額頭接觸的一瞬間，爆發出了強度極高的低頻電波。）	（先ほどレンがニュクスと額を合わせた時）\n\n（あの時も極めて強烈な低周波が発生した）	（방금 렌과 닉스가 이마를 맞댄 순간, 아주 강한 저주파 전파가 폭발했어.）	(A burst of low frequency radio waves occurred when the foreheads of Ren and Nix touched earlier.)	
+89	N/A@莉琉	（电波类型与人类快速眼动睡眠时的脑电波在模式上高度匹配）	（電波類型與人類睡眠時快速動眼期的腦電波模式非常相似）	（あの電波のタイプは、レム睡眠時の人間の\n　脳波パターンと酷似している……）	（전파 유형이 인간이 빠른 렘 수면에 빠졌을 때의 뇌파와 높은 수준으로 일치해.）	(It had the same pattern as brainwaves do during human REM sleep...)	
+90	N/A	简直，就像是南极那次……	簡直，就像是南極那次……	まるで、あの南極で起きた事象のように……	남극에서 그 때와 비슷하다……	Almost identical to what happened in the Antarctic...	

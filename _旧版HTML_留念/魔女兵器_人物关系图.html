@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>《魔女兵器》人物关系图</title>
+<style>
+:root{--bg:#0f1116;--panel:#171a21;--line:#2a2f3a;--fg:#e6e3de;--dim:#8f96a3;
+--accent:#c9a227;--accent2:#7fb3d5}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);line-height:1.7;
+font-family:"Noto Sans SC","Microsoft YaHei",sans-serif;overflow:hidden}
+header{padding:20px 28px 14px;border-bottom:1px solid var(--line);
+background:linear-gradient(160deg,#1a1d26,#0f1116 70%)}
+.eyebrow{font-size:10.5px;letter-spacing:.34em;color:var(--accent);margin-bottom:8px;
+font-family:ui-monospace,monospace}
+h1{font-size:24px;margin:0 0 4px;letter-spacing:.06em;font-weight:600}
+.meta{font-size:11.5px;color:var(--dim);font-family:ui-monospace,monospace}
+.meta b{color:var(--fg)}
+.bar{display:flex;gap:14px;align-items:center;padding:9px 28px;border-bottom:1px solid var(--line);
+background:var(--panel);font-size:11.5px;flex-wrap:wrap}
+.bar label{color:var(--dim);font-family:ui-monospace,monospace}
+.bar input[type=range]{width:130px;vertical-align:middle}
+.bar button{padding:4px 10px;background:#1e222b;border:1px solid var(--line);border-radius:4px;
+color:#c3c8d1;cursor:pointer;font-size:11.5px}
+.bar button:hover{border-color:var(--accent);color:var(--fg)}
+.bar .v{color:var(--accent2);font-family:ui-monospace,monospace;min-width:34px;display:inline-block}
+#cv{display:block;width:100vw;height:calc(100vh - 168px);cursor:grab}
+#cv:active{cursor:grabbing}
+#tip{position:fixed;pointer-events:none;background:#1c2029;border:1px solid var(--accent);
+border-radius:5px;padding:8px 11px;font-size:12px;display:none;z-index:9;max-width:280px;
+box-shadow:0 4px 20px rgba(0,0,0,.6)}
+#tip b{color:var(--accent);font-size:13px}
+#tip .r{color:var(--dim);font-family:ui-monospace,monospace;font-size:11px;margin-top:3px}
+footer{padding:8px 28px;border-top:1px solid var(--line);color:var(--dim);font-size:10.5px;
+font-family:ui-monospace,monospace}
+</style></head><body>
+<header>
+<div class="eyebrow">WITCH'S WEAPON / CHARACTER NETWORK</div>
+<h1>《魔女兵器》人物关系图</h1>
+<div class="meta">说话人 <b>151</b> 种 · 主要角色 <b>40</b> 名 · 关系 <b>220</b> 条 · 数据源：解密剧情 16,687 行</div>
+</header>
+<div class="bar">
+  <label>关系强度阈值</label>
+  <input type="range" id="thr" min="1" max="1043" value="8">
+  <span class="v" id="thrv">8</span>
+  <label>节点大小</label>
+  <button onclick="setSize('line')">按台词数</button>
+  <button onclick="setSize('even')">统一</button>
+  <button onclick="reset()">重置视图</button>
+  <span style="color:#5f6674">拖拽移动 · 滚轮缩放 · 悬停查看</span>
+</div>
+<canvas id="cv"></canvas>
+<div id="tip"></div>
+<footer>配置表解密：XOR 0xFF · 游戏开发：北京水琴铃（WaterBell）· 国服已于 2024-08-17 停服</footer>
+<script>
+const D = {"nodes":[{"id":"小怜","n":2667,"zh":"","ch":{"第三章":1465,"第一章":898,"支线":145,"活动":90,"第二章":67,"序章":2}},{"id":"莉琉","n":1795,"zh":"","ch":{"第三章":1011,"第一章":724,"支线":34,"活动":14,"第二章":12}},{"id":"安妮","n":581,"zh":"安妮","ch":{"第一章":272,"第三章":154,"支线":96,"活动":38,"第二章":12,"序章":9}},{"id":"拉斐尔","n":528,"zh":"拉斐尔","ch":{"第三章":219,"支线":137,"第一章":118,"活动":53,"序章":1}},{"id":"爱衣","n":491,"zh":"","ch":{"第三章":346,"第一章":83,"支线":51,"第二章":11}},{"id":"索娅","n":337,"zh":"索娅","ch":{"第三章":337}},{"id":"海因里希","n":240,"zh":"海因里希","ch":{"第三章":239,"支线":1}},{"id":"艾米莉欧","n":223,"zh":"艾米莉欧","ch":{"第三章":217,"支线":6}},{"id":"白烛","n":212,"zh":"白烛","ch":{"第三章":212}},{"id":"斯库尔德","n":183,"zh":"斯库尔德","ch":{"第三章":177,"支线":4,"第一章":2}},{"id":"牛奶","n":172,"zh":"","ch":{"第三章":172}},{"id":"引导精灵","n":158,"zh":"","ch":{"序章":151,"其它":7}},{"id":"法贝拉","n":151,"zh":"法贝拉","ch":{"第三章":149,"第一章":2}},{"id":"倪克斯","n":148,"zh":"倪克斯","ch":{"第三章":90,"第一章":36,"支线":21,"序章":1}},{"id":"贝阿特丽切","n":140,"zh":"贝阿特丽切","ch":{"第三章":97,"第一章":41,"支线":2}},{"id":"伦伯特","n":138,"zh":"","ch":{"第三章":138}},{"id":"奥古斯塔","n":113,"zh":"","ch":{"活动":113}},{"id":"伊露卡","n":98,"zh":"伊露卡","ch":{"第一章":50,"支线":22,"第三章":19,"第二章":7}},{"id":"艾尔加纳","n":75,"zh":"","ch":{"第三章":75}},{"id":"薇拉","n":69,"zh":"薇拉","ch":{"第三章":64,"支线":5}},{"id":"罗素","n":61,"zh":"","ch":{"第三章":61}},{"id":"布莱特","n":57,"zh":"","ch":{"第三章":35,"第一章":22}},{"id":"瑟蕾莎","n":57,"zh":"瑟蕾莎","ch":{"第三章":54,"支线":3}},{"id":"讲解员","n":52,"zh":"","ch":{"第三章":52}},{"id":"role11","n":43,"zh":"","ch":{"第三章":43}},{"id":"基尔斯","n":42,"zh":"","ch":{"第一章":34,"第三章":8}},{"id":"卡塞尔","n":40,"zh":"","ch":{"第三章":40}},{"id":"秋子","n":35,"zh":"","ch":{"第三章":35}},{"id":"小星尘","n":34,"zh":"","ch":{"第三章":34}},{"id":"施教授","n":34,"zh":"","ch":{"第三章":34}},{"id":"莉娜","n":33,"zh":"","ch":{"第三章":33}},{"id":"role15","n":32,"zh":"","ch":{"第三章":32}},{"id":"新闻","n":31,"zh":"","ch":{"第三章":25,"第一章":6}},{"id":"伊娜拉","n":28,"zh":"","ch":{"第三章":28}},{"id":"少女","n":27,"zh":"","ch":{"第三章":27}},{"id":"培尔纳德","n":25,"zh":"","ch":{"第三章":25}},{"id":"海法","n":25,"zh":"","ch":{"第三章":25}},{"id":"SID探员","n":24,"zh":"","ch":{"第三章":15,"第一章":9}},{"id":"男性的声音","n":22,"zh":"","ch":{"第三章":21,"第一章":1}},{"id":"金发少女","n":21,"zh":"","ch":{"第三章":21}}],"edges":[{"a":"小怜","b":"莉琉","w":1043},{"a":"安妮","b":"小怜","w":548},{"a":"小怜","b":"拉斐尔","w":470},{"a":"爱衣","b":"莉琉","w":337},{"a":"小怜","b":"爱衣","w":337},{"a":"小怜","b":"索娅","w":280},{"a":"小怜","b":"海因里希","w":201},{"a":"安妮","b":"莉琉","w":199},{"a":"安妮","b":"拉斐尔","w":198},{"a":"拉斐尔","b":"莉琉","w":159},{"a":"小怜","b":"艾米莉欧","w":156},{"a":"海因里希","b":"莉琉","w":131},{"a":"小怜","b":"贝阿特丽切","w":130},{"a":"倪克斯","b":"小怜","w":127},{"a":"拉斐尔","b":"海因里希","w":125},{"a":"小怜","b":"法贝拉","w":115},{"a":"索娅","b":"莉琉","w":113},{"a":"牛奶","b":"白烛","w":110},{"a":"伊露卡","b":"小怜","w":94},{"a":"小怜","b":"斯库尔德","w":92},{"a":"索娅","b":"贝阿特丽切","w":80},{"a":"安妮","b":"爱衣","w":78},{"a":"斯库尔德","b":"莉琉","w":76},{"a":"斯库尔德","b":"法贝拉","w":76},{"a":"爱衣","b":"索娅","w":73},{"a":"伊露卡","b":"安妮","w":72},{"a":"奥古斯塔","b":"小怜","w":70},{"a":"小怜","b":"薇拉","w":67},{"a":"伦伯特","b":"小怜","w":65},{"a":"伦伯特","b":"莉琉","w":65},{"a":"艾米莉欧","b":"莉琉","w":65},{"a":"法贝拉","b":"罗素","w":61},{"a":"小怜","b":"艾尔加纳","w":61},{"a":"艾尔加纳","b":"莉琉","w":60},{"a":"小怜","b":"罗素","w":58},{"a":"艾米莉欧","b":"薇拉","w":56},{"a":"海因里希","b":"爱衣","w":51},{"a":"小怜","b":"白烛","w":51},{"a":"拉斐尔","b":"爱衣","w":50},{"a":"布莱特","b":"莉琉","w":48},{"a":"莉琉","b":"薇拉","w":47},{"a":"拉斐尔","b":"索娅","w":46},{"a":"小怜","b":"瑟蕾莎","w":44},{"a":"倪克斯","b":"安妮","w":41},{"a":"莉琉","b":"贝阿特丽切","w":41},{"a":"倪克斯","b":"莉琉","w":41},{"a":"基尔斯","b":"莉琉","w":40},{"a":"法贝拉","b":"莉琉","w":40},{"a":"卡塞尔","b":"小怜","w":39},{"a":"爱衣","b":"瑟蕾莎","w":39},{"a":"卡塞尔","b":"法贝拉","w":38},{"a":"拉斐尔","b":"贝阿特丽切","w":36},{"a":"倪克斯","b":"爱衣","w":35},{"a":"卡塞尔","b":"罗素","w":35},{"a":"伦伯特","b":"索娅","w":35},{"a":"倪克斯","b":"拉斐尔","w":34},{"a":"小怜","b":"布莱特","w":34},{"a":"小怜","b":"牛奶","w":34},{"a":"小星尘","b":"爱衣","w":34},{"a":"伦伯特","b":"艾尔加纳","w":33},{"a":"斯库尔德","b":"罗素","w":32},{"a":"小怜","b":"小星尘","w":32},{"a":"role15","b":"莉琉","w":32},{"a":"小怜","b":"秋子","w":31},{"a":"布莱特","b":"艾尔加纳","w":31},{"a":"小星尘","b":"莉琉","w":31},{"a":"安妮","b":"海因里希","w":30},{"a":"奥古斯塔","b":"拉斐尔","w":29},{"a":"爱衣","b":"艾米莉欧","w":28},{"a":"小怜","b":"莉娜","w":27},{"a":"伊露卡","b":"拉斐尔","w":27},{"a":"瑟蕾莎","b":"索娅","w":27},{"a":"role11","b":"莉琉","w":27},{"a":"奥古斯塔","b":"安妮","w":27},{"a":"伊露卡","b":"莉琉","w":26},{"a":"瑟蕾莎","b":"莉琉","w":26},{"a":"安妮","b":"贝阿特丽切","w":25},{"a":"培尔纳德","b":"小怜","w":25},{"a":"索娅","b":"艾尔加纳","w":25},{"a":"安妮","b":"艾米莉欧","w":25},{"a":"海法","b":"莉琉","w":25},{"a":"法贝拉","b":"莉娜","w":24},{"a":"秋子","b":"莉琉","w":24},{"a":"小怜","b":"讲解员","w":24},{"a":"小怜","b":"海法","w":24},{"a":"罗素","b":"莉琉","w":23},{"a":"培尔纳德","b":"法贝拉","w":23},{"a":"安妮","b":"小星尘","w":23},{"a":"小怜","b":"施教授","w":23},{"a":"基尔斯","b":"布莱特","w":22},{"a":"少女","b":"艾米莉欧","w":22},{"a":"小怜","b":"金发少女","w":21},{"a":"卡塞尔","b":"斯库尔德","w":21},{"a":"小怜","b":"少女","w":21},{"a":"施教授","b":"艾米莉欧","w":21},{"a":"小怜","b":"新闻","w":20},{"a":"施教授","b":"莉琉","w":20},{"a":"施教授","b":"薇拉","w":20},{"a":"role11","b":"role15","w":20},{"a":"培尔纳德","b":"斯库尔德","w":19},{"a":"伦伯特","b":"爱衣","w":19},{"a":"role15","b":"小怜","w":19},{"a":"role15","b":"秋子","w":19},{"a":"斯库尔德","b":"爱衣","w":18},{"a":"培尔纳德","b":"罗素","w":18},{"a":"莉娜","b":"莉琉","w":18},{"a":"斯库尔德","b":"贝阿特丽切","w":18},{"a":"伦伯特","b":"拉斐尔","w":18},{"a":"伊娜拉","b":"男性的声音","w":18},{"a":"罗素","b":"莉娜","w":17},{"a":"爱衣","b":"艾尔加纳","w":17},{"a":"SID探员","b":"小怜","w":16},{"a":"拉斐尔","b":"白烛","w":16},{"a":"伦伯特","b":"秋子","w":16},{"a":"爱衣","b":"薇拉","w":16},{"a":"海法","b":"艾米莉欧","w":16},{"a":"伊露卡","b":"倪克斯","w":15},{"a":"爱衣","b":"秋子","w":15},{"a":"role15","b":"爱衣","w":14},{"a":"奥古斯塔","b":"莉琉","w":14},{"a":"SID探员","b":"安妮","w":13},{"a":"海因里希","b":"白烛","w":13},{"a":"卡塞尔","b":"莉琉","w":13},{"a":"拉斐尔","b":"瑟蕾莎","w":13},{"a":"海因里希","b":"索娅","w":13},{"a":"小怜","b":"男性的声音","w":13},{"a":"卡塞尔","b":"培尔纳德","w":12},{"a":"卡塞尔","b":"莉娜","w":12},{"a":"斯库尔德","b":"莉娜","w":12},{"a":"秋子","b":"索娅","w":12},{"a":"role15","b":"安妮","w":12},{"a":"倪克斯","b":"艾米莉欧","w":12},{"a":"SID探员","b":"莉琉","w":11},{"a":"伦伯特","b":"新闻","w":11},{"a":"伊露卡","b":"索娅","w":11},{"a":"拉斐尔","b":"秋子","w":11},{"a":"小星尘","b":"薇拉","w":11},{"a":"倪克斯","b":"薇拉","w":11},{"a":"海法","b":"爱衣","w":11},{"a":"role11","b":"秋子","w":11},{"a":"安妮","b":"斯库尔德","w":10},{"a":"拉斐尔","b":"金发少女","w":10},{"a":"培尔纳德","b":"莉娜","w":10},{"a":"布莱特","b":"索娅","w":10},{"a":"小星尘","b":"艾米莉欧","w":10},{"a":"安妮","b":"牛奶","w":10},{"a":"牛奶","b":"莉琉","w":10},{"a":"伊娜拉","b":"小怜","w":10},{"a":"安妮","b":"白烛","w":9},{"a":"卡塞尔","b":"爱衣","w":9},{"a":"法贝拉","b":"爱衣","w":9},{"a":"安妮","b":"薇拉","w":9},{"a":"海法","b":"薇拉","w":9},{"a":"爱衣","b":"牛奶","w":9},{"a":"安妮","b":"法贝拉","w":8},{"a":"海因里希","b":"金发少女","w":8},{"a":"爱衣","b":"罗素","w":8},{"a":"伊露卡","b":"爱衣","w":8},{"a":"伊露卡","b":"斯库尔德","w":8},{"a":"伊露卡","b":"贝阿特丽切","w":8},{"a":"新闻","b":"索娅","w":8},{"a":"伦伯特","b":"瑟蕾莎","w":8},{"a":"安妮","b":"秋子","w":8},{"a":"少女","b":"莉琉","w":8},{"a":"少女","b":"爱衣","w":8},{"a":"安妮","b":"金发少女","w":7},{"a":"SID探员","b":"爱衣","w":7},{"a":"SID探员","b":"索娅","w":7},{"a":"小星尘","b":"施教授","w":7},{"a":"施教授","b":"爱衣","w":7},{"a":"role11","b":"小怜","w":7},{"a":"安妮","b":"罗素","w":6},{"a":"卡塞尔","b":"安妮","w":6},{"a":"新闻","b":"爱衣","w":6},{"a":"斯库尔德","b":"索娅","w":6},{"a":"小星尘","b":"秋子","w":6},{"a":"role15","b":"小星尘","w":6},{"a":"新闻","b":"男性的声音","w":6},{"a":"伊娜拉","b":"新闻","w":6},{"a":"伊露卡","b":"艾米莉欧","w":6},{"a":"拉斐尔","b":"艾米莉欧","w":6},{"a":"罗素","b":"贝阿特丽切","w":5},{"a":"法贝拉","b":"贝阿特丽切","w":5},{"a":"卡塞尔","b":"贝阿特丽切","w":5},{"a":"伊露卡","b":"伦伯特","w":5},{"a":"安妮","b":"索娅","w":5},{"a":"秋子","b":"艾尔加纳","w":5},{"a":"伊露卡","b":"薇拉","w":5},{"a":"拉斐尔","b":"薇拉","w":5},{"a":"安妮","b":"新闻","w":4},{"a":"少女","b":"白烛","w":4},{"a":"爱衣","b":"贝阿特丽切","w":4},{"a":"伊露卡","b":"罗素","w":4},{"a":"伊露卡","b":"法贝拉","w":4},{"a":"伊露卡","b":"卡塞尔","w":4},{"a":"SID探员","b":"伊露卡","w":4},{"a":"瑟蕾莎","b":"秋子","w":4},{"a":"瑟蕾莎","b":"艾尔加纳","w":4},{"a":"新闻","b":"莉琉","w":4},{"a":"新闻","b":"海因里希","w":4},{"a":"莉琉","b":"讲解员","w":4},{"a":"斯库尔德","b":"艾米莉欧","w":4},{"a":"斯库尔德","b":"薇拉","w":4},{"a":"拉斐尔","b":"斯库尔德","w":4},{"a":"安妮","b":"引导精灵","w":3},{"a":"布莱特","b":"海因里希","w":3},{"a":"布莱特","b":"拉斐尔","w":3},{"a":"安妮","b":"布莱特","w":3},{"a":"布莱特","b":"爱衣","w":3},{"a":"SID探员","b":"斯库尔德","w":3},{"a":"伦伯特","b":"安妮","w":3},{"a":"SID探员","b":"伦伯特","w":3},{"a":"SID探员","b":"瑟蕾莎","w":3},{"a":"SID探员","b":"拉斐尔","w":3},{"a":"男性的声音","b":"艾米莉欧","w":3},{"a":"男性的声音","b":"薇拉","w":3},{"a":"瑟蕾莎","b":"艾米莉欧","w":3},{"a":"伊露卡","b":"瑟蕾莎","w":3},{"a":"斯库尔德","b":"瑟蕾莎","w":3},{"a":"瑟蕾莎","b":"薇拉","w":3}],"maxw":1043,"total":151};
+const cv = document.getElementById('cv'), ctx = cv.getContext('2d');
+const tip = document.getElementById('tip');
+let W=0, H=0, scale=1, ox=0, oy=0, sizeMode='line', thr=8;
+
+function resize(){
+  const r = cv.getBoundingClientRect();
+  W = cv.width = r.width * devicePixelRatio;
+  H = cv.height = r.height * devicePixelRatio;
+  cv.style.width = r.width+'px'; cv.style.height = r.height+'px';
+  draw();
+}
+window.addEventListener('resize', resize);
+
+// 布局：力导向（简化版）
+const N = D.nodes.map((n, i) => ({
+  ...n, i,
+  x: Math.cos(i / D.nodes.length * Math.PI * 2) * 300 + (Math.random()-.5)*60,
+  y: Math.sin(i / D.nodes.length * Math.PI * 2) * 300 + (Math.random()-.5)*60,
+  vx: 0, vy: 0,
+  r: 0
+}));
+const idx = {}; N.forEach(n => idx[n.id] = n);
+
+function radius(n){
+  if (sizeMode === 'even') return 9;
+  const mx = Math.max(...N.map(x => x.n));
+  return 5 + Math.sqrt(n.n / mx) * 22;
+}
+function layout(){
+  const E = D.edges.filter(e => e.w >= thr);
+  for (let it = 0; it < 320; it++){
+    // 斥力
+    for (let i = 0; i < N.length; i++){
+      for (let j = i+1; j < N.length; j++){
+        const a = N[i], b = N[j];
+        let dx = b.x-a.x, dy = b.y-a.y;
+        let d2 = dx*dx + dy*dy || 1;
+        if (d2 > 160000) continue;
+        const f = 2600 / d2;
+        const d = Math.sqrt(d2);
+        dx /= d; dy /= d;
+        a.vx -= dx*f; a.vy -= dy*f;
+        b.vx += dx*f; b.vy += dy*f;
+      }
+    }
+    // 引力
+    E.forEach(e => {
+      const a = idx[e.a], b = idx[e.b];
+      if (!a || !b) return;
+      let dx = b.x-a.x, dy = b.y-a.y;
+      const d = Math.sqrt(dx*dx + dy*dy) || 1;
+      const f = (d - 90) * 0.0022 * Math.min(3, Math.log(1+e.w));
+      dx /= d; dy /= d;
+      a.vx += dx*f; a.vy += dy*f;
+      b.vx -= dx*f; b.vy -= dy*f;
+    });
+    // 向心
+    N.forEach(n => {
+      n.vx -= n.x * 0.0016; n.vy -= n.y * 0.0016;
+      n.vx *= 0.82; n.vy *= 0.82;
+      n.x += n.vx; n.y += n.vy;
+    });
+  }
+  N.forEach(n => n.r = radius(n));
+}
+
+function draw(){
+  const E = D.edges.filter(e => e.w >= thr);
+  ctx.setTransform(1,0,0,1,0,0);
+  ctx.clearRect(0,0,W,H);
+  ctx.save();
+  ctx.translate(W/2 + ox*devicePixelRatio, H/2 + oy*devicePixelRatio);
+  ctx.scale(scale*devicePixelRatio, scale*devicePixelRatio);
+
+  // 边
+  const mx = D.maxw;
+  E.forEach(e => {
+    const a = idx[e.a], b = idx[e.b];
+    if (!a || !b) return;
+    const t = Math.min(1, e.w / (mx * 0.5));
+    ctx.strokeStyle = 'rgba(127,179,213,' + (0.10 + t*0.55) + ')';
+    ctx.lineWidth = 0.5 + t*4.5;
+    ctx.beginPath(); ctx.moveTo(a.x,a.y); ctx.lineTo(b.x,b.y); ctx.stroke();
+  });
+  // 节点
+  N.forEach(n => {
+    const g = ctx.createRadialGradient(n.x,n.y,0,n.x,n.y,n.r*1.8);
+    g.addColorStop(0,'#ffe9a8'); g.addColorStop(.55,'#c9a227'); g.addColorStop(1,'rgba(201,162,39,0)');
+    ctx.fillStyle = g;
+    ctx.beginPath(); ctx.arc(n.x,n.y,n.r*1.8,0,7); ctx.fill();
+    ctx.fillStyle = '#e8d9a0';
+    ctx.beginPath(); ctx.arc(n.x,n.y,n.r*0.55,0,7); ctx.fill();
+    // 标签
+    ctx.fillStyle = 'rgba(230,227,222,.92)';
+    ctx.font = (11 + Math.min(5, n.n/900)) + 'px "Noto Sans SC",sans-serif';
+    ctx.textAlign = 'center';
+    ctx.fillText(n.id, n.x, n.y + n.r*1.8 + 13);
+  });
+  ctx.restore();
+}
+
+// 交互
+let drag = false, lx = 0, ly = 0;
+cv.addEventListener('mousedown', e => { drag = true; lx = e.clientX; ly = e.clientY; });
+window.addEventListener('mouseup', () => drag = false);
+cv.addEventListener('mousemove', e => {
+  if (drag){ ox += e.clientX - lx; oy += e.clientY - ly; lx = e.clientX; ly = e.clientY; draw(); return; }
+  const r = cv.getBoundingClientRect();
+  const mx = (e.clientX - r.left - r.width/2 - ox) / scale;
+  const my = (e.clientY - r.top - r.height/2 - oy) / scale;
+  let hit = null;
+  for (const n of N){
+    if ((n.x-mx)**2 + (n.y-my)**2 < (n.r*1.6)**2){ hit = n; break; }
+  }
+  if (hit){
+    const chs = Object.entries(hit.ch).map(([k,v]) => k+' '+v).join(' · ');
+    tip.innerHTML = '<b>' + hit.id + '</b><div class="r">台词 ' + hit.n + ' 句</div>'
+      + (chs ? '<div class="r">' + chs + '</div>' : '');
+    tip.style.display = 'block';
+    tip.style.left = (e.clientX + 14) + 'px';
+    tip.style.top = (e.clientY + 14) + 'px';
+  } else tip.style.display = 'none';
+});
+cv.addEventListener('wheel', e => {
+  e.preventDefault();
+  scale *= e.deltaY < 0 ? 1.12 : 0.89;
+  scale = Math.max(0.2, Math.min(6, scale));
+  draw();
+}, {passive:false});
+
+document.getElementById('thr').oninput = e => {
+  thr = +e.target.value;
+  document.getElementById('thrv').textContent = thr;
+  draw();
+};
+function setSize(m){ sizeMode = m; N.forEach(n => n.r = radius(n)); draw(); }
+function reset(){ scale = 1; ox = 0; oy = 0; layout(); draw(); }
+
+layout();
+resize();
+</script></body></html>

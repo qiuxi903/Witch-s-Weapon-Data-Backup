@@ -1,0 +1,69 @@
+﻿1	安妮	雅各·施密特\n伊露卡的管理员……	雅各·施密特。 \n伊露卡的管理員……	ヤコブ・シュミット\nイルカの管理人……	야곱 슈미트\n이루카의 관리자……	Jacob Smite \nElluka’s Administrator…	
+2	N/A	我看到雅各身后，几个穿着保安军制服的人倒在门口。	我看到雅各身後，幾個穿著保安警察制服的人倒在門口。	ヤコブの後ろには、保安軍の制服を着た人達が\n倒れている。	야곱의 뒤로 보안군 제복을 입은 사람들이 쓰러져 있는 것이 보인다.	Behind him, I see several security soldiers lying on the floor.	
+3	雅各	他们只是晕过去了，我不准备在联合议会的地盘闹出人命。	他們只是暈過去了，我不打算在聯合議會的地盤鬧出人命。	彼らはただ、気絶しているだけですよ。\n\n流石の私も連合議会の管理範囲内で、\n殺傷事件を起こすつもりはありません。	기절한 것 뿐이야. 난 연합회의의 세력에서 생명을 해칠 수 없거든.	They just passed out. Killing in the demilitarized zone is not in my plan.	
+4	雅各	本来只是想回收《七哲人书》那本邪典的书页，这次真是意外的收获啊……	本來只是想回收《七哲人書》那本邪典的書頁，沒想到有意外的收獲……	元々はあの邪悪な経典──『七賢者の書』の\nページを回収するつもりだけでしたが。\nこれはこれは、意外な収穫ですね……	원래 《칠현자의 서》의 페이지를 가지러 왔는데，뜻밖의 수확이 있을 줄이야……	I intended to take back pages of the cult classic Book of Seven Philosophers, and didn't expect such a bonus…	
+5	贝阿特丽切	……	……	…………	……	…	
+6	小怜	（《七哲人书》……）\n（就是『黄金蝴蝶』对应的魔导书吗？）	（《七哲人書》……）\n（就是「黃金蝴蝶」對應的魔導書嗎？ ）	（『七賢者の書』……）\n\n（それが『金色の蝶』と対の魔導書なのか？）	（《칠현자의 서》……）\n（『황금나비』와 상응하는 마도서？）	(Book of Seven Philosophers…) \n(Is this the Grimoire linked to the Golden Butterfly?)	
+7	安妮	小怜…我帮伊露卡洗澡的时候，发现她的身上有非常多已经愈合很久的伤口。	小憐……我幫伊露卡洗澡的時候，發現她的身上有非常多已經癒合的舊傷。	レンちゃん……\n\n私ね、イルカのお風呂を手伝った時に、\nイルカの身体に傷跡が沢山あったのを見たの。	렌…이루카를 씻겨주다가 그녀의 몸에서 오래 전 아문 상처들을 아주 많이 발견했어.	Ren… I found a lot of old wounds on Elluka's body when I helped her to get washed.	
+8	小怜	（帮伊露卡洗澡？）\n（什么时候！？）	（幫伊露卡洗澡？ ）\n（欸？ 什麼時候！ ？）	（イルカのお風呂を手伝ったって！？）\n（一体いつ！？）	（이루카를 씻겨줘？）\n（언제！？）	(You washed Elluka?) \n(When!?)	
+9	小怜	（不对，那不是重点）\n（如果是旧伤，就说明……！！）	（不對，那不是重點）\n（如果是舊傷，就表示……！ ！）	（って違う違う、そんな事はどうでもいいっ）\n（古い傷って事は……っ！！）	（아니，그게 중요한 게 아니지）\n（상처라면，역시……！！）	(No, that's not the point.) \n(Old wounds… That means…!)	
+10	安妮	那种强度的创伤，如果是普通的小孩子，估计身心早就崩溃了。	那種強度的創傷，如果是普通的小孩子，身心應該早就崩潰了。	あんなに酷い傷……普通の子供なら身体も心も、\nとっくに壊れていたはずよ。	평범한 아이가 그 정도의 외상을 입었다면，심신이 벌써 붕괴됐을 거야.	No ordinary child could endure such traumatic experience!	
+11	雅各	哦──\n『那个东西』还没坏掉吗？	哦──\n「那個東西」還沒壞掉喔？	ほう──\n\n貴方たちの話から察するに『あれ』は、\nまだ壊れていないのですか？	아──\n『그것』이 아직 망가지지 않았나 봐?	Oh— \nSeems that thing hasn't broken yet.	
+12	雅各	啧啧，估计用在『那个东西』上面的技术\n已经被SID逆向工程了吧。	嘖！ 本來打算用在「那個東西」上的技術，\n已經被SID逆向分析研究了吧。	だとすると……『あれ』に使われていた技術が、\nSIDの解析で既に筒抜けとなったのは明白。	쯧쯧，『그것』에게 사용한 기술을\n SID가 벌써 다 알아냈겠군.	Tut-tut, I guess SID has already reverse engineered… \nThe technology I used on it.	
+13	雅各	早知道就在『那个东西』身上装个自爆装置，就不会如此麻烦了。	早知道就在「那個東西」上裝個自爆裝置，省得麻煩。	ですが、これは我々のミスですね。\n\n最初から『あれ』に自爆装置を備えておけば、\nこのような面倒にはならなかったのでしょうに。	이럴 줄 알았으면『그것』에게 자폭 장치를 설치하는 건데，성가시게 됐어.	Had I known it would cause so much trouble, I would have installed a self-destruct device on it.	
+14	小怜	你这──！	你這──！	この野郎！	너──！	You—!	
+15	安妮	──你这混蛋！！！	──你這混蛋！ ！！	──コイツ！！！	──이 개자식！！！	— Asshole!	
+16	N/A	没等我反应过来，安妮已经暴起，一个飞身朝着雅各的脸踢了上去。	沒等我反應過來，安妮已經爆氣，一個飛身就朝著雅各的臉踢了過去。	俺が反応するよりも早く、アニーが先に\n飛びかかっていた。\nヤコブの顔面に向けて彼女は飛び蹴りを放つ。	내가 반응하기도 전에 폭주한 앤이 야곱의 얼굴을 향해 발을 날린다.	The next thing I know, Annie bounces up furiously and tries to kick Jacob in the face.	
+17	N/A	呲咔──！！！	呲咻──！！！	カッ──！！	피육──！！！	Squeak—	
+18	N/A	随着一声尖啸，一道巨大的电弧瞬间将整个房间染成了白色，我的视野顿时一片纯白。	隨著一聲尖銳聲，一道巨大的電弧瞬間點亮整個房間，我的眼前頓時一片白。	甲高い音と共に、巨大な放電が部屋全体を\n白く染めた。\n俺の目の前も瞬時に真っ白くなった。	비명소리를 따라 거대한 전기불꽃이 순식간에 방안을 흰색으로 물들이고 시야를 가린다.	With a shriek, the room is lightened by a huge electric arc. For a moment, I'm blinded.	
+19	N/A	随着强光散去，我用了好几秒才慢慢恢复视野，依然觉得眼球刺痛。	隨著強光散去，我花了好幾秒才慢慢恢復視力，眼球依然刺痛不堪。	数秒後、強烈な光は散っていき視界が元に戻る。\nまだ目に刺されるような痛みを感じつつも、\n目の前を確認すると──	강한 빛이 퍼진 후 천천히 시야를 회복했지만，여전히 눈이 따갑다.	It takes seconds for the glare to disappear. A stinging pain lingers in my eyes.	
+20	小怜	安妮──！！	安妮──！ ！	アッ、アニ───ッッ！！	앤──！！	Annie…!	
+21	N/A	安妮失去知觉，重重的摔在了地毯上，身上出现大片的树状的灼烧痕迹。	安妮失去知覺，重重地摔在地毯上，身上出現大片樹枝狀的灼燒痕跡。	──アニーがカーペットに重々しく転げ落ちる。\n\n……身体に大きな樹状の焼け跡を負いながら。	앤이 정신을 잃고 카펫 위에 쓰러진다. 몸에서 나무형태의 연소 흔적이 보인다.	Annie loses her consciousness and falls on the ground. A strip of branch-shaped burning marks appears on her skin.	
+22	N/A	雅各身边的一个士兵枪口还冒着烟……那就是刚才发射的武器吗？	雅各身邊的一個士兵槍口還冒著煙……那就是剛才發射的武器嗎？	ヤコブの近くにいた兵士の銃口より、\n煙が吐かれている……\nあの武器から発射されたのか……？	야곱 옆에 있는 병사의 총구에서 연기가 피어오르고 있다. 저게 방금 발사한 무기인가?	The soldier next to Jacob is holding a smoking gun…  Is that the weapon they used just now?	
+23	N/A	那个士兵熟练的上膛，枪的一侧飞出一枚霰弹大小的电池状物体。	那個士兵熟練地上膛，槍側彈出一枚霰彈大小的電池狀物體。	その兵士は慣れた手付きで次弾を込める。\n\n銃の片側から、散弾銃のショットシェルサイズの\n電池のような物体が飛び出した。	병사가 능숙하게 총을 장전한다. 총 한쪽에 산탄 크기의 배터리 모양 물체가 보인다.	The soldier quickly unloads a battery-like bullet the size of a canister.	
+24	雅各	只要方法得当，魔女也是可以物尽其用的。	只要方法得當，魔女也是可以物盡其用的。	確かに使用方法さえ改めれば、魔女の技術も\n十分に役に立ちますね。	적당한 방법만 있으면 마녀도 재능을 발휘할 수 있지.	We know how to make the best out of witches…	
+25	雅各	啧啧，我希望尽量抓活的，不过SID的那个疯婆娘快要来了。	雖然我希望盡量抓活的，不過SID的那個瘋婆娘快要來了。	……できれば生け捕りにしたかったですが、\nそろそろSIDのあの女が来てしまいますからね。	쯧쯧，산 채로 잡아가고 싶지만，SID의 그 미친 여자가 곧 올 거야.	I prefer to catch them alive. But the SID bitch is coming soon…	
+26	雅各	既然时间不多──	既然時間不多──	申し訳ないですが、コチラには時間がない──	시간이 얼마 없어──	Now that we're running out of time…	
+27	N/A	雅各拿出一个巴掌大小的金属饼状物，灰绿色的金属外壳散发着熟悉的淡蓝色光晕。	雅各拿出一個巴掌大小的餅狀金屬物，灰綠色的金屬外殼散發著熟悉的淡藍色光暈。	ヤコブが手のひらサイズの、金属製の餅みたいな\n物体を取り出した。\n灰緑色の金属ケースから、よく見知った\n薄青い光が放たれている。	야곱이 손바닥 크기의 원반형 금속물을 꺼낸다. 회녹색의 금속 껍데기가 익숙한 파란색 빛을 발산한다.	Jacob takes out a pie-shaped piece of metal. The grayish-green shell gives off a familiar light blue radiance.	
+28	小怜	那个难道是……异质物武器！？	難道是……異質物武器！ ？	あれはまさか……異質物武器！？	저건 설마……이물질 무기！？	Is that… a Substance H weapon?	
+29	贝阿特丽切	能感觉到，魔力的流动……	我感覺到有魔力的流動……	感じるわ、魔力の流れを……	마력의 유동이 느껴져죠……	I feel… the flow of magic power…	
+30	拉斐尔	在中立区用这种东西，你想做什么！	在中立區用這種東西，你想做什麼！	中立エリアでそんなモノを使うなんて、\n一体どういうつもりだッ！	중립구역에서 그런 걸 사용하다니，도대체 무슨 생각이야！	What the hell are you up to? This is demilitarized zone!	
+31	N/A@莉琉	（小怜）	（小憐！ ）	（……レン）	（렌）	(Ren)	
+32	N/A	耳机里突然传来莉琉的声音。	耳機裡突然傳來莉琉的聲音。	突然、イヤホンの方からマリルの声が聞こえる。	이어폰에서 갑자기 마리루의 목소리가 들려온다.	Mariru's voice suddenly comes from the earphones.	
+33	N/A@莉琉	（他拿的是用『自缚纤维』制作的诱捕炸弹）\n（是非致命性『异质物武器』）	（他拿的是用「自縛纖維」製作的誘捕炸彈！ ）\n（是非致命性「異質物武器」。 ）	（奴が持っているのは『自縛繊維』で作られた\n　誘導捕獲爆弾）\n（非致死性『異質物武器』だ）	（그가 꺼낸 것은『자박섬유』로 만든 유도탄이야. ）\n（치명적이지 않은 『이물질 무기』지）	(That's a booby trap made of self-binding fibers.) \n(It's a non-lethal Substance H weapon.)	
+34	N/A@莉琉	（启动后3秒内就会爆炸）\n（炸开的纤维会散布整个楼层，你们逃不掉的）	（啟動後3秒內就會爆炸，）\n（炸開的纖維會佈滿整個樓層，妳們逃不掉的。 ）	（起動後、約3秒で爆発する）\n\n（爆発すれば、繊維がフロア全体に散らばって、\n　お前達は逃げられなくなるだろう）	（가동 후 3초 내 폭발해）\n（폭발한 섬유가 건물 전체에 퍼질 거야. 너희는 도망갈 수 없어）	(It explodes three seconds after detonation.) \n(And the fibers will spread all over the place. It's impossible to escape.)	
+35	小怜	──！？	──？！	──ッ！？	──！？	—!?	
+36	N/A@莉琉	（暂且别做无谓的反抗了）\n（我之后会想办法营救你们……）	（暫且別做無謂的抵抗了，）\n（我會想辦法救妳們出來的……）	（今は無駄な抵抗はしなくていい）\n\n（後で何とかしてやる……）	（우선 반항하지 마）\n（내가 너희를 구할 방법을 생각해낼 테니……）	(So, save your strength for the moment.) \n(I'll figure out how to get you out…)	
+37	N/A	雅各慢慢抬起拿着诱捕炸弹的右手，渐渐浮现出了数条金色的亮线，看来炸弹已经准备好启动了。	雅各慢慢抬起拿著誘捕炸彈的右手，漸漸浮現出數條金色的亮線，看來已經準備啟動了。	ヤコブは捕獲爆弾を持つ右手をゆっくり掲げた。\nすると、金色に光る線が数本浮かび上がる。\nどうやら起爆準備はもう完了しているようだ。	야곱이 유도탄을 든 오른손을 들자，천천히 금색 광선이 나타난다. 폭탄이 가동 준비를 마친 모양이다.	Jacob slowly raises the booby trap in his right hand. Golden lines appear on his palm, as if ready for a fight.	
+38	小怜	那只手是……魔法刻印？	那隻手是……魔法刻印？	あの手は……魔法刻印？	저 손은……마법 각인？	His hand… is that magic inscription?	
+39	小怜	（终于，要体验一下异质物武器的滋味了吗……）	（終於，要體驗一下異質物武器的滋味了嗎？ 我不想這樣體驗啊！ ）	（とうとう異質物武器の威力を体験する時が\n　来てしまったのか……）	（드디어 이물질 무기를 체험할 때인가……）	(Finally… My turn to experience the Substance H weapon…)	
+40	贝阿特丽切	抱歉了……	抱歉了……	ごめんね……	미안해요……	Sorry for this…	
+41	N/A	贝阿特丽切突然拉住我的手，另一只手利落地扯过拉斐尔手中的项链。	貝阿特麗切突然拉住我的手，另一隻手則俐落地扯過拉斐爾手中的項鍊。	ベアトリーチェが突然俺の手を掴み、\n\nもう片方の手でラファエルが持っていた\nエメラルドのペンダントを素早く奪った。	베아트리체가 갑자기 내 손을 잡아 재빨리 라파엘 수중의 목걸이에 가져다 댄다.	Beatrice suddenly grabs me with one hand and snatches the necklace from Raphilia with the other.	
+42	小怜	诶？	什麼？	──えっ？	엣?	What?	
+43	N/A	转瞬间，绿宝石挂坠放出一道强光，在贝阿特丽切的手中变为了一把刻有铭文的大剑。	一瞬間，綠寶石吊墜放出一道強光，在貝阿特麗切的手中變為了一把刻有銘文的大劍。	瞬時にペンダントが強烈な光を放ち──\n\nベアトリーチェの手の中に、銘文が刻まれた\n大剣が生成される。	그 순간，에메랄드 펜던트에서 강렬한 빛이 나왔고，베아트리체의 손에서 글자가 새겨진 대검으로 변한다.	All of a sudden, the emerald pendant emits a glaring beam and turns into a mighty sword with inscriptions on the blade.	
+44	贝阿特丽切	妄图申辩挣扎的罪恶灵魂啊──	妄圖申辯掙扎的罪惡靈魂啊──	──踠き\n──弁明を企む\n────罪悪の魂よ	망령되게 해명하며 발버둥치는 사악한 영혼이여──	Look at these wretched souls imploring to clear their sin—	
+45	雅各	什……	什……	なっ……	뭐……	What…	
+46	贝阿特丽切	闭嘴！！！	閉嘴！！！	黙りなさい！！！	시끄럽다！！！	Shut up!	
+47	N/A	贝阿特丽切将锐利的剑锋深深插入地板。	貝阿特麗切將銳利的劍鋒深深插入地板。	ベアトリーチェは大剣の鋭い切っ先を、\n深々と床へと刺しこんだ。	베아트리체의 날카로운 검 끝이 바닥을 깊이 찌른다	Beatrice shoves the sword heavily into the floor.	
+48	N/A	雅各刚要张嘴，声音就如同被什么吞噬了一般\n房间里顿时只留下让人窒息的寂静。	雅各剛要張嘴，聲音就如同被什麼吞噬了一般，\n房間裡只留下讓人窒息的寂靜。	ヤコブは口を開こうとしたが、その声は何かに\n呑み込まれたかのように消えた。\n部屋に残されたのは、息を呑む静寂のみ。	야곱이 입을 열자마자 목소리가 삼켜진다.\n방 안에는 잠시 질식할 정도의 고요함이 흐른다. 	Jacob opens his mouth, but nothing comes out. \nThe room is filled with a deadly silence.	
+49	N/A	雅各脚下的地面出现了一条裂缝，露出的不是下层的地板或者建筑材料，而是一片漆黑。	他的腳下出現一條裂縫，露出的不是下層的樓板或建築材料，而是一片漆黑。	ヤコブの足元に亀裂が走る。亀裂から覗くのは、\nフロアの床でも建材でもなく……\n────真なる闇だった。	야곱의 발 밑에 틈이 생긴다. 틈 사이로 보이는 것은 아래 층이나 건축 재료가 아닌 칠흑이다. 	The floor beneath Jacob cracks, revealing nothing but thorough darkness.	
+50	N/A	黑暗中传出像是数百万人在同时哀嚎一样凄厉恐怖的声音，有如被撕裂的地狱一角。	黑暗中傳出宛如數百萬人同時哀嚎般凄厲恐怖的聲音，有如被撕裂的地獄一角。	深淵より、甚大な悲痛が叫ばれる。\n数百万人の咆哮めいたモノが聞こえ、\nまるでそこは切り裂かれた地獄の一角の如く。	어둠 속에서 수백 명이 동시에 비명을 지르는 것 같은 무서운 목소리가 들린다. 마치 찢겨 갈라진 지옥의 한 구석 같다.	There comes a creepy sound from the depth of the darkness, as if millions of people are mourning and howling from hell.	
+51	N/A	就像厄运化作了实体，从地面的裂口喷涌而出。黑暗瞬间侵染了目力所及的每一个角落。	就像厄運化成了實體，從裂口噴湧而出。 黑暗瞬間浸染了視力所及的每一個角落。	厄災の具現が地面の裂け目から噴き出す。\n\n闇は刹那も許さず、見渡す限りを染め上げる。	액운이 실체가 되는 것처럼 지면의 틈에서 솟아나온다. 어둠이 순식간에 눈길이 닿는 모든 곳을 물들인다.	Dark smoke spouts out from the crack and takes over every corner of the room, now shrouded in hellish darkness in no time.	
+52	N/A	被彻骨的寒意和无以名状的恐惧包围，我浑身汗毛倒竖，无法动弹……	我被徹骨的寒意和莫可名狀的恐懼包圍，渾身汗毛倒豎，無法動彈……	骨まで響く冷たさと形容し難い恐怖に包まれる。\n\n全身の毛が逆立ち、その場から動けなくなった。	뼈 속까지 느껴지는 한기와 형용할 수 없는 공포에 온 몸의 털이 바짝 선다.	Struck by a chill to my bones and a deep sense of terror, my hair stands on end and I cannot move…	
+53	N/A	然后黑暗迅速的消散，一切都发生在短短几秒内\n那条裂缝像是从来就没有存在过一样。	然後黑暗迅速消散，一切都發生在短短幾秒內，\n那條裂縫像是從來沒有存在過一樣。	────そして闇は素早く消えていった。\n全ては僅か数秒での出来事ごとで、\n先ほどの亀裂など、\nまるで最初から存在などしなかったかのようだ。	어둠이 급속도로 흩어졌고，그 틈은 마치 존재하지 않았던 것처럼 사라졌다.\n이 모든 게 겨우 몇 초만에 일어났다.	But just seconds later, the darkness is dissipated. \nAnd the crack is nowhere to be found.	
+54	N/A	雅各像恐慌症发作一样跪倒在地，如发疯一般，用指甲在自己的脖子挠出了一道道血印。	雅各像恐慌症發作一樣跪倒在地，發瘋似地用指甲在脖子抓出一道道血痕。	ヤコブはパニック発作を起こしたかのように\n狂ったように地面に倒れこんだ。\n自分の首を爪で掻きむしり、\n幾筋もの血の跡を作りあげている。	야곱이 공황장애가 발작한 것처럼 바닥에 꿇어앉는다. 미친 사람처럼 손톱으로 자신의 목을 긁어 혈흔을 남긴다.	As if suffering from a panic attack, Jacob falls to the floor and madly scratches his neck so hard that it bleeds.	
+55	N/A	虽然在满脸通红的拼命倒气，但他的肺部似乎被瞬间抽成了真空，鼻孔传出持续的气鸣声。	他滿臉通紅地拼命喘息，但肺部似乎瞬間被抽成了真空，鼻孔不斷傳出氣鳴聲。	顔を真っ赤にして懸命に息をするが、\n彼の肺は一瞬で真空にでもなったかのようで、\n鼻腔から呼吸音を必死に発している。	얼굴이 새빨개지도록 힘겹게 숨을 헐떡이지만，폐부에 진공이 생긴 것처럼 콧구멍에서 바람소리만 나온다.	His face turns red as he struggles to breathe. But his lungs seem to be vacuumed of air, leaving him gasping nosily in vain.	
+56	N/A	过了好一会，才从声音判断出他终于恢复了微弱的呼吸。	過了好一會兒，才有辦法從聲音判斷出他終於恢復了微弱的呼吸。	しばらくして、微弱ながらもやっと彼の呼吸が\n回復した事を音から判断した。	잠시 후，드디어 호흡을 회복했는지 미약한 호흡소리가 들린다. 	It takes a while before he regains a faint breath.	
+57	N/A	此时这个身材高大的男人正蜷缩在地毯上，双手交叉抱在胸前止不住的颤抖。	此時這個身材高大的男人正蜷縮在地毯上，雙手交叉抱在胸前，身體止不住地顫抖。	地面のカーペットを巻き込み、\n大柄な身体を丸く縮こまらせ、\n両手で胸元を抑えても、止まらない震えに\n今も苛まれている。	이 때，남자가 카펫 위에 몸을 말고 두 손을 가슴에 얹은 채 벌벌 떨기 시작한다.	The tall, well-built man curls up on the carpet, trembling, his arms crossed over his chest.	
+58	N/A	眼神中充满了恐惧，眼睛血丝密布，眼眶里充盈着因体内失压而从泪腺中分泌出的液体。	他的眼神充滿恐懼，眼睛血絲密布，眼眶裡滿是因體內失壓時從淚腺分泌出的液體。	恐怖に満ちた溢れた目は赤く充血し、\n体内機能の失圧の為か、\n分泌された液体が涙腺より溢れ落ちていた。	혈관이 터진 눈에는 공포가 가득하다. 눈가에 눈물샘에서 분비된 액체가 맺혀있다.	His bloodshot eyes are full of fear. Tears come out as a result of decompression.	
+59	N/A	此时他手上的纹路已完全消失，诱捕炸弹也滚落在地毯上失去了光泽。	他手上的金色紋路已經完全消失，連誘捕炸彈也滾落到地毯上，失去光澤。	この時、すでに彼の手に浮かんでいた模様は\n完全に消えていた。\nヤコブの掲げていた誘導捕獲爆弾も\nカーペットに転がり既に光沢を失っている。	그의 손금은 모두 사라졌고，유도탄도 카펫 위에 떨어져 빛을 잃었다.	The lines on his hand have completely disappeared, and the booby trap fallen on the carpet has also lost its luster.	
+60	N/A	屋子里的蒙面士兵都怔在原地──不住的颤抖着。	屋子裡的蒙面士兵都愣在原地──止不住地顫抖著。	部屋中にいる覆面兵士は、全員その場で\n呆然としている。\n──震えを止めずに。	방 안의 복면을 쓴 병사들도 멍하니 제자리에 서서 떨고 있다. 	The masked soldiers are all standing still, trembling.	
+61	N/A	从他们努力想要站稳的行动看来，似乎还沉浸在刚刚那种超乎意识构建的恐怖当中。	從他們努力想要站穩的行為看來，似乎還無法脫離方才那種超乎意識的恐怖。	倒れないように懸命に立とうとしている様子から\n先ほど巻き起こった意識の構築を超える恐怖に、\n未だ彼らが浸ったままであるという事が分かる。	애써 똑바로 서려는 행동으로 볼 때，아직 좀 전의 공포 속에 잠겨 있는 듯 하다.	From their blank faces, they seem to be seized by the horror of seeing a reality beyond any description.	
+62	N/A	当你凝视深渊时…深渊也在凝视着你……	當你凝視深淵時……深淵同時也在凝視著你……	あなたが深淵を覗いている時に……\n\n深淵もまたあなたを覗いている……	니가 심연을 바라볼 때…심연도 너를 바라바고 있다…	If you gaze long into an abyss, the abyss also gazes into you…	
+63	N/A	而面对真正的恐怖，就算仅仅是呼吸…	而面對真正的恐怖，就算僅僅只是呼吸…	本当の恐怖を目の当たりにした時は、\nたとえ呼吸をするだけでも……	진정한 공포를 대면하면，설령 숨을 쉰다 해도…	In the face of real horror, even breathing…	
+64	N/A	也会让你觉得自己被暴露在了那无可理喻的绝望存在面前。	也會讓妳覺得自己暴露在那不可理喻的絕望面前。	形容が不可能な程の絶望的存在の前に、\n晒されていると、理解できてしまう……	형용할 수 없는 절망의 존재 앞에 놓여졌다는 것 느낄 수 있을 것이다.	Makes you feel exposed to an indescribable desperation.	
+65	贝阿特丽切	快走！	快走！	早く、行きなさい！	어서 가요！	Let's go!	
+66	N/A	……	……	…………	……	…	
+67	N/A@莉琉	（小怜！快走啊！）	（小憐！ 快走啊！ ）	（レンッ！　早く！）	（렌！서둘러！）	(Ren, get out of there!)	
+68	N/A	我才回过神来，向贝阿特丽切点了点头，抱起安妮快速离开了房间。	我才回過神來，向貝阿特麗切點了點頭，抱起安妮快速離開了房間。	やっと正気に戻った俺は、ベアトリーチェに頷き\nアニーを抱き上げ素早く部屋を離れた。	나는 그제야 정신을 차리고，베아트리체에게 고개를 끄덕인 후，앤을 안고 빠르게 방을 빠져나왔다.	Not until now have I come to my senses. With a nod at Beatrice, I leave the room with Annie in my arms.	
+69	N/A	贝阿特丽切拉住还处于失神状态的拉斐尔，我们一行四人快速跑向了电梯……	貝阿特麗切拉住還處於失神狀態的拉斐爾，我們一行四人快速跑向了電梯……	未だ呆然としているラファエルを、\nベアトリーチェが引っ張る。\n俺たちはエレベーターに向かって素早く走った。	베아트리체가 아직도 실신 상태인 라파엘을 끌어당겨 붙잡는다. 우리 넷은 신속히 엘리베이터로 뛰어간다……	Beatrice drags Raphilia, who is still in a daze. We dash to the elevator…	

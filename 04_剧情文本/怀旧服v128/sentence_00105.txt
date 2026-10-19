@@ -1,0 +1,23 @@
+﻿1	引导精灵	针对敌人的特点[ff9c00]选择兵器[-]可以获得数倍的效果！！	針對敵人的特點[ff9c00]選擇兵器[-]即可獲得數倍的效果！！	敵に対して有利な[ff9c00]兵器の切り替え[-]を行えば、戦闘の効率が数倍に上がっちゃう！！	적의 특성에 맞춰 [ff9c00]병기를 선택[-]하면 효과가 더욱 커질 거야！！	[ff9c00]Selecting weapons[-] based on your enemies helps you win battles much more easily.	
+2	引导精灵	不过如果拿出不合适的兵器就糟糕了呢……	不過，如果拿出不合適的兵器就糟糕了呢……	でも適切な兵器が無い場合、不味い状況だね……	하지만 쌩뚱맞은 병기를 선택하면 큰일나겠지……	On the other hand, if you don't have suitable weapons...	
+3	FocusTrigger	
+4	赫莉	
+5	赫莉	赫莉的兵器[ff9c00]天蝎[-]，擅长对付大群敌人。合理配置队伍，是轻松取胜的关键。	面對大群密集的敵人，[ff9c00]天蠍[-]是最合適的選擇。\n這傢伙最適合大掃除了！	大勢で固まってる敵を相手するには、\nこの[ff9c00]スコルピオン[-]が最適。\nこいつは大掃除が大得意だ！	머릿수가 많은 적에게는 [ff9c00]스콜피온[-]이 가장 훌륭한 선택이야. \n이 녀석은 큰 범위로 적을 쓸어버릴 수 있거든!	My [ff9c00]Scorpion[-] is the go-to weapon when facing a group of enemies.\nYeah, wipe 'em all out in one go!	
+6	引导精灵	每位魔女都拥有不同的兵器技能与召唤技能，了解技能特典十分重要！	每位魔女都擁有不同的兵器技能與召喚技能，請務必瞭解技能特點！	魔女はそれぞれの兵器スキルと召喚スキルを持ってるの。\nスキルの特性を理解する事は非常に大切よ！	모든 마녀는 각자의 병기 스킬과 소환 스킬을 보유하고 있어. 그러니까 스킬 특성을 이해하는 게 가장 중요해! 	Each Witch has her own weapon skills and active skills. It's imperative that you know about them!	
+7	FocusTrigger	请查看	請查看	チェックしよう	살펴보세요.	Check Here	
+8	T_showPicText	请仔细阅读	請仔細閱讀	説明をしっかり確認。	자세히 읽어보세요.	Read Carefully	
+9	引导精灵	利用兵器特性可以组织更好的战术	利用兵器特性可以組織更好的戰術	兵器の特性を上手く使えば、\n戦術の幅が広がるよ♪	병기의 특성을 이용해서 더 좋은 전술을 만들 수 있어.	Adjust your tactics based on different weapons.	
+10	FocusTrigger	查看技能	查看技能	ココもチェック	스킬 보기	View Skills	
+11	T_showPicText	请仔细阅读	請仔細閱讀	説明をしっかり確認。	자세히 읽어보세요.	Read Carefully	
+12	引导精灵	仔细了解魔女的技能，才能发挥她们的特长	仔細瞭解魔女的技能，才能發揮她們的專長	魔女のスキルを詳しく理解できれば、それぞれの長所を発揮できちゃうってわけ♪	마녀의 스킬을 잘 이해해야만 그녀들의 능력을 발휘할 수 있어. 	You need to know your Witches if you want them to reach their true potentials.	
+13	FocusTrigger	让我们回去吧	讓我們回去吧	準備画面に戻る	돌아가세요.	Let's head back.	
+14	引导精灵	现在选择中意的魔女出战吧	現在，選擇喜歡的魔女出戰吧	それじゃ、好きな魔女を選んで出撃しよう！	이제 다른 마녀들도 출전시켜봐.	Deploy your Witches.	
+15	FocusTrigger	
+16	FocusTrigger	
+17	FocusTrigger	
+18	FocusTrigger	
+19	FocusTrigger	
+20	引导精灵	针对敌人的特点[ff9c00]切换兵器[-]可以获得数倍的效果！！	針對敵人的特點[ff9c00]切換兵器[-]可以獲得數倍的效果！！	敵の特性に対して[ff9c00]兵器の切り替え[-]を行えば、戦闘の効率が数倍に上がっちゃう！！	적의 특성에 맞춰 [ff9c00]병기를 전환[-]하면 효과가 배가 될 거야！！	[ff9c00]Switching weapons[-] based on your enemies helps you win battles much more easily.	
+21	T_showPicText	拥有多把兵器的英灵\n可点击[ff9c00]此处[-]更换兵器	擁有多把兵器的英靈\n可點擊[ff9c00]此處[-]更換兵器	複数の兵器を持つ魔女は\n[ff9c00]ここ[-]をタップして、兵器を変更できる。	많은 무기를 보유한 마녀는 \n[ff9c00]이곳[-]을 터치해 무기를 변경할 수 있습니다.	Tap [ff9c00]here[-] to switch weapons.	
+22	引导精灵	针对敌人的特点[ff9c00]切换兵器[-]可以获得数倍的效果！！	針對敵人的特點[ff9c00]切換兵器[-]可以獲得數倍的效果！！	敵の特性に対して[ff9c00]兵器の切り替え[-]を行えば、戦闘の効率が数倍に上がっちゃう！！	적의 특성에 맞춰 [ff9c00]병기를 전환[-]하면 효과가 배가 될 거야！！	[ff9c00]Switching weapons[-] based on your enemies helps you win battles much more easily.	
+23	T_showPicText	请试一试\n      :)	請試一試\n      :)	試してみよう。\n (゜oﾟ(○=(-_-	시도해 보세요.\n      :)	Give it a try!	

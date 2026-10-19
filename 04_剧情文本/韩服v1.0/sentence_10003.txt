@@ -1,0 +1,42 @@
+﻿1	男性的声音A	这边的哨点一直没有回复，你去那边检查一下——	那邊的哨點一直沒有回覆，你去檢查一下────	ここを見回っていた仲間からの応答が無い。\nお前は向こうの様子を確認しろ──	이쪽 보초에게서 계속 답이 없군. 저쪽 가서 살펴봐	It’s been a while since their last reply. Go check on them—	
+2	男性的声音B	是！	是！	…………了解	네!	Yes, sir!	
+3	男性的声音A	我去拿心跳检测仪来，你盯着点！	我去拿心跳感應器來，你盯著點！	心音センサーを持ってくる、警戒を怠るなよ！	난 심박 측정기를 가지러 갈 테니，잘 지켜보도록!	I'm gonna get a heartbeat detector. Stay vigilant!	
+4	主角	糟了，在这里躲不过的……	糟了，在這裡是躲不過的……	ちくしょう、ここじゃ隠れきれないぞ……	이런，여기에 숨어만 있을 수 없겠어……	Crap! There’s nowhere to hide...	
+5	主角	他们的视线没有死角可以溜走，唯一的机会是趁他们分开偷袭其中一个	感覺沒有辦法可以溜走，唯一的機會是趁他們分開時偷襲其中一個。	奴らの目を盗んで逃げられない今、\n唯一のチャンスは奴らが別行動した時、\nどっちかを襲うしかない……	녀석들의 시선을 벗어날 방법이 없다. \n유일한 기회는 그들이 흩어졌을 때를 노리는 것뿐.	It's impossible to sneak away right under their noses. I have no choice but to take down one of them when they separate.	
+6	主角	大概没问题吧……\n既然那个女人赤手空拳都能撂倒对方……	應該沒問題吧……\n那個女人赤手空拳都能撂倒對方了……	彼女が素手で倒せる相手だ……\nたぶん……俺にだって大丈夫……	괜찮겠지……?\n그 여자도 맨손으로 때려눕혔으니까…	Perhaps I can make it… \n As that woman just did it with bare hands…	
+7	主角	得找个东西作为武器……	不過我還是得找個東西當作武器……	何か武器を見つけないと──	무기가 될만한 물건을 찾자……	I need a weapon…	
+8	N/A	走廊的墙壁上挂着一根金属球棒，底下铭牌的小字上写着“莱博娜 自由光……”	走廊的牆壁上掛著一根金屬球棒，底下銘牌的小字上寫著「萊博娜、自由光……」	廊下の壁に1本の金属バットが掛かっていた。\n小さい文字で銘柄が刻まれている。\n「リバーナ　自由光……」	복도 벽 위에 "레보나 자유의 빛…"이라고 적혀있는 금속 방망이가 걸려있다.	On the wall of the hallway hangs a baseball bat. Under it is a plate saying "Lebona's Light of Freedom”...	
+9	主角	应该是展品吧……\n只是临时借用，嗯嗯，临时借用……\n……\n……	這個應該是展示品吧……\n我只是借用一下，嗯嗯，借用一下而已喔……\n……\n……	展示品かな……？\nちょっと借りるだけ、うん、ちょっとだけ……\n……\n……	전시품이겠지……?\n잠시 빌리는 거니까. 응응，잠시만 빌리자……\n……\n……	Looks like an exhibit… \n Oops, I have to borrow it. Uh, just for a while… \n … \n…	
+10	主角	那么……要上了！\n哈──！	那麼……要上了！ \n啊哈───！	それじゃ……行くぞ！\nはぁぁッ！	그럼……간다！\n얏──！	Now… Go! \n Ahh—!	
+11	N/A	咚！！！	咚！ ！！	ドンッ！！！	깡！！！	Bang!	
+12	N/A	我全力一击，打向蒙面人的后脑勺，发出了一声巨响。欸……声音这么大的吗？	我全力一擊，打向蒙面人的後腦勺，發出了一聲巨響。 欸……這麼大聲嗎？	覆面男の後頭部に全力の一撃をお見舞いすると、\n強烈な音が辺りに響いた。\nえっと……こんなに大きな音がするんだ？	전력을 다해 복면 쓴 남자의 뒷통수를 치자 큰 소리가 울린다. \n엣……원래 소리가 큰가?	With all my strength, I hit the masked man on the back of his head, and hear a loud bang. Damn… This is too loud!	
+13	N/A	但是对方并没有如我期待的那样倒下，而是眼中冒着怒火转过了身。	但是對方並沒有如我預期地倒下，而是眼中冒著怒火轉身面對我。	しかし相手は俺の思惑通りに倒れないどころか、\n瞳に怒りを滲ませながら俺の方を向く。	하지만 상대는 기대와 달리 쓰러지지 않고 분노에 가득 찬 눈으로 날 돌아본다. 	But he doesn't collapse as I expect. Instead, he turns around, and stares at me with fiery eyes.	
+14	主角	这和游戏里不一样啊！！	咦？ 這跟遊戲裡不一樣啊！ ！	ゲ、ゲームと全然違うしッ！！	게임이랑 다르잖아！！	Why doesn't this go like the plot in games?	
+15	蒙面人A	什么人！	什麼人！	誰だっ！	누구냐！	Who the hell are you?	
+16	N/A	蒙面人迅速挥动枪托向这边袭来，我连忙握紧球棒抵挡。	蒙面人迅速揮動槍托向這邊襲來，我連忙握緊球棒抵擋。	素早くグリップを振って殴りかかろうとしてくる\n覆面男に対し、俺はバットをしっかり握って\n抵抗するしか選択肢はない。	복면 쓴 남자가 신속히 총대를 휘두르며 \n돌격해 황급히 방망이로 공격을 막아냈다.	The masked man throws his pistol grip towards me. I hastily parry his attack with my bat.	
+17	主角	不好——	糟糕——	やばい──	아니——	Damn—	
+18	N/A	对方压倒的力量顺着球棒施加在我的双手和肩上，正在我咬牙抵抗时蒙面人突然一记踢击。	對方壓倒性的力量順著球棒施加在我的雙手和肩上，正當我咬緊牙根試圖反抗時，蒙面人突然猛力一踢。	バットを通じて、俺の両手と肩に\n相手の圧倒的な力が迫る。\n歯を食いしばって抵抗する最中、\n覆面男の蹴りがいきなり飛んで来た。	이를 악물고 저항했지만 상대가 압도적인 힘으로 방망이를 내리누른다. 	His mighty strength is pouring through the bat down to my hands and shoulders. Just as I'm gritting my teeth and getting on with it, he suddenly kicks me.	
+19	N/A	脚直接狠狠踢在了我毫无防备的腹部。	他的腳直接用力踹中了我毫無防備的腹部。	容赦の無い一撃が、俺の無防備な腹に直撃する。	갑자기 무방비 상태인 나의 복부를 거칠게 발로 찬다. 	He brutally slams his foot against my unprotected stomach.	
+20	N/A	被踢中的我飞出并撞断了护栏，径直摔到了下一层。	被踢中的我順勢飛開並撞斷了護欄，直接摔到了下一層。	蹴り打たれた俺は吹き飛び、下の階まで\n手すりを壊して転げ落ちた。	나가떨어진 나는 난간에 부딪히고는 힘없이 아래층으로 떨어졌다.	I'm kicked away, crashing the fence and falling onto the floor downstairs.	
+21	N/A	啊！！！！！！	啊！ ！！ ！！ ！	か……は……ッ！！！！！	악！！！！！！	Ahh!	
+22	蒙面人A	妈的，那个偷袭我的小鬼摔到楼下去了。\n我去宰了他！	媽的，那個偷襲我的小鬼摔到樓下去了。 \n我去宰了他！	くそっ、下に落ちやがったか。\nあのガキめ、ぶっ殺してやる。	젠장，꼬맹이가 떨어졌습니다. \n내려가서 처리하겠습니다!	Damn! The little skunk ambushing me fell downstairs. \n I'm gonna finish him!	
+23	主角	……我得快逃……\n……得藏到…那个展品的…阴影里去……	……我得快逃……\n……得藏到……那個展示品的……陰影裡去……	……早く、逃げなきゃ……\n……あの展示品の、影に、隠れなきゃ……	……도망가야 해……\n……전시품…그림자 안에…숨어야 해…	… I have to flee… \n … I must hide… in the… shadow of that exhibit…	
+24	蒙面人B	等等…队长刚发来通知，自爆防盗装置解除成功了。	等等……隊長剛傳來通知，自爆防盜裝置已經成功解除了。	おいっ！待て、隊長からの通信だ。\n自爆防犯装置の解除に成功したそうだ。	기다려…대장이 자폭 장치를 해제했다는군.	Hang on… Boss just sent a message. He said the self-destruct anti-theft system was deactivated.	
+25	蒙面人B	别浪费时间，马上去会议厅集合！\n等他醒来咱们早就撤了。	好，那別浪費時間了，馬上去會議廳集合！ \n等他醒來我們早就撤了。	時間を無駄にできん、すぐに講義室に集合だ！\nガキが目覚める頃には、とっくに撤収時間だ。	시간 낭비하지 말고，회의실로 집합한다!\n깨어나면 우린 벌써 철수했을 거야.	Don't waste time on a kid. Fall in at the Conference Hall, now! \n We’ll be long gone when he comes round.	
+26	蒙面人A	是！	是！	…………了解	네!	Yes, sir!	
+27	主角	意识……渐渐……模糊了\n莉琉……	意識……漸漸……模糊了\n莉琉……	意識が……だんだん……ぼやけていく\n…マリルさん……	의식이……점점……사라진다.\n마리루……	I'm… falling… unconscious\n Mariru…	
+28	N/A	与此同时 在会议厅	同時在會議廳……	一方、講義室では──	그 시각，회의실	Meanwhile, at the Conference Hall	
+29	N/A@莉琉	看来这群人是靠光学伪装混进来的……	看來這群人是靠光學偽裝混進來的……	どうやらあいつら、光学偽装で\n紛れ込んだようだが……	이 녀석들，광학 위장으로 잠입한게 분명한 것 같아.	It looks like these guys have sneaked in with optic disguises…	
+30	N/A@莉琉	竟然利用了收容所反光学侦测设施部分检修的时段，看来内部有人走漏了风声。	竟然利用反光學偵測設施的維修時段溜了進來，看來是有內賊。	収容所の対光学監視センサー部分の点検時期を\n利用するとは、内部から情報が漏れたようだな。	수용소의 반광학 탐측기 점검 시간을 이용한 걸 보니 \n내부에 스파이가 있는 모양이군. 	They knew the anti-optic detectors in the Collection Center were partially shut down for maintenance. Looks like a mole is planted among us.	
+31	N/A@莉琉	还不清楚是什么来头……只能等待机会了。	不過，還不清楚他們是什麼來頭……只能等待機會了。	何者かは分からないが……\nここはチャンスを待つしかない……	정확한 상황을 모르니…우선 기회를 엿보자.	But I can't figure out who they are… For now, I can only wait.	
+32	蒙面人首领	哼哼哼哈哈──	哼哼哼哈哈──	ふっ、はっはっははッ────！	흐흐흐하하하──	Aha! Bravo!	
+33	蒙面人首领	我们终于取回了……！	我們終於拿回來了……！	ついに！　ついに我々は取り戻した……！	드디어 되찾았다……！	Finally back in our hands…	
+34	N/A@莉琉	那是——『洛斯金杯』！？	那是——「洛斯金杯」！？	あれは────『ロス・ゴールド』！？	저건——『로우스 금잔』！？	The Ross Goblet!?	
+35	N/A	考察团从突然出现在太平洋中部的洛斯群岛上找到的『异质物品』，杯子外面镶着四块宝石。	那是考察團從突然浮現在太平洋中部的洛斯群島上找到的「異質物品」，金杯外面鑲著四塊寶石。	太平洋の中央に突如として現れたロス諸島から、視察団が見つけた『異質物』\n杯の周囲に4つの宝石の装飾が施されている。	시찰단이 태평양 중부 로우스 섬에서 발견한 『이물질』이다. 잔에 4개의 보석이 각인되어 있다.	The Ross Goblet is a Substance H discovered by an expedition on the Ross Islands that suddenly emerged in the center of the Pacific Ocean. It is embedded with four gemstones.	
+36	N/A	杯子里有红色的液体状物质，但这些物质既无法倒出又无法触碰，就像幻影一样似乎不存在实体……	杯內有紅色液狀物質，但無法倒出也無法觸碰，就像幻影一樣，實體似乎並不存在……	杯の中には赤い液体状の物質が存在しているが、それを注ぎ出す事も、触れる事もできない。\nまるで実体が存在しない幻影のように……	안에 담긴 붉은 액체는 따라낼 수도，만질 수도 없다.\n마치 환상처럼 실체가 존재하지 않는다.	Inside the Goblet is a red liquid that cannot be poured or touched. It seems to be an illusion, rather than any physical stuff.	
+37	N/A	研究所的老头子们用尽了各种办法没搞明白那是什么东西……	研究所的老頭子們用盡了各種辦法都搞不懂那是什麼東西……	研究所のおっさん達があらゆる手段を尽くしたが\nあれが何なのかを結局は解明できなかった。	연구소의 늙은이들이 각종 방법을 동원해 연구했지만 그것이 무엇인지 밝혀내지 못했다.	The old geeks at the Research Center had tried every possible means, but didn't figure out what the liquid is…	
+38	N/A	一段时间后就将它的威胁等级降到了『Safe』\n允许进行公开研究了……	一段時間後，就將它的威脅等級降到了「Safe」，\n允許進行公開研究了……	しばらくして、アレの脅威レベルが『SAFE』に\n下げられ公開研究の許可が下りたが……	얼마 후 그것의 위협 레벨은 『Safe』로 떨어졌고\n공개 연구 허가가 났다……	In time the risk rating of the Goblet was lowered to "Safe". \n Now it's available for public research…	
+39	N/A@莉琉	嘁，也就那几颗宝石看来还值点钱。	嘖，看起來也就那幾顆寶石還值點錢。	ちっ、宝石だけは無価値じゃないだろうに。	쯧，저 보석만 봐도 꽤 값이 꽤 나가겠군.	Haw, only the gems seem valuable.	
+40	N/A@莉琉	不过宝石与杯身在分子水平上融为一体，是绝不可能……	不過寶石與杯身在分子水平上融為一體，不可能分離……	だが宝石は、杯と分子レベルで\n一体化していたはず……	하지만 보석과 잔은 분자수준으로 융합됐기 때문에 \n절대로……	But the gems and the Goblet body are actually uniform at the molecular level. So, it's impossible to…	
+41	蒙面人首领	就由我来分离，这不洁之物！！	我來分離吧！ 這不潔之物！ ！	我が引き離そう──この不浄な物をっ！！	내가 분리해주마. 이 더러운 물건！！	To split this filthy thing into parts. I shall do it!	
+42	N/A@莉琉	分离？怎么做得到——	分離？怎麼可能——	──引き離す？　どうやって───	분리？그게 되겠냐——	Split? How can it be possible—	

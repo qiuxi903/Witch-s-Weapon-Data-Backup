@@ -1,0 +1,67 @@
+﻿1	N/A	我忐忑地带着拉斐尔参观校园。	我忐忑不安地帶著拉斐爾參觀校園。	不安になりながらも、俺はラファエルに学園を\n案内した。	나는 안절부절 못하며 라파엘을 데리고 학교를 참관하고 있다.	I was feeling restless when touring Raphilia around the campus.	
+2	N/A	没想到接近任务目标的这一步骤进行起来如此顺利。	沒想到接近任務目標的這個步驟如此順利。	まさかこんな簡単に目標人物と接近できるとは、\n思っていなかった。	임무 타겟에게 접근하는 것이 이렇게 순조롭게 진행될 줄은 몰랐다.	I never thought I could approach the target so easily.	
+3	N/A	挖空心思筹备欢迎仪式却被放了鸽子的副校长，正猫在我们身后不远的地方，恨恨的咬着手帕。	挖空心思籌備歡迎儀式卻被放鴿子的副校長，正蹲在我們身後不遠處，牙癢癢地咬著手帕。	全力で歓迎式典を用意していたけど、\n完全にすっぽかされた副校長は、\n俺達の後ろに隠れて、悔しそうにハンカチを\n噛んでいる。	애써 환영회를 준비했다가 바람을 맞은 교감이 우리 뒤에서 손수건을 뜯고 있다.	The vice principal, seeing his long-prepared welcoming ceremony get blown off, nips a handkerchief with resentment somewhere behind us.	
+4	N/A	而这位大小姐，虽然并没有多么满意的样子，但心情似乎比刚才好了不少。	而這位大小姐，雖然並沒有多滿意的樣子，但心情似乎比剛才好了不少。	当のお嬢様は満足してる　とは言い難いが、\n先ほどよりは大分機嫌が良さそうだ。	그리고 이 아가씨는 아직 만족한 것 같지는 않지만 아까보다 기분이 좋아진 듯 하다.	However, the young lady doesn't seem satisfied with our little tour, though she is in a much better mood now.	
+5	拉斐尔	这就没有了吗？	就這樣嗎？	……これで終わりかしら？	이게 끝이야?	Is that it?	
+6	小怜	嗯？你是说参观内容吗？	嗯？ 妳是說參觀內容嗎？	うん？　学校の案内か？	응？참관 내용 말인가요?	Um-hum, if you mean the tour.	
+7	小怜	再往那边就是校园外的商业区了……	再往那邊就是校外的商業區了……	この先は商業地区で、学校の外だしなぁ……	저쪽으로 더 가면 캠퍼스 밖 상업구가 나와요……	If you continue that way, you'll get to the commercial zone.	
+8	拉斐尔	这里很多设计是仿照战前的知名建筑，试图提升自己的文化底蕴。	這裡很多設計是仿照戰前的知名建築，試圖提升自己的文化底蘊。	ここの多くのデザインは、戦前の有名な建築を\n真似ているわね。\nそれでいて、自分達の文化が基礎レベルより高い\nって主張している。	건물 디자인이 전쟁 전 유명한 건축물과 비슷해. 문화 소양을 높이려는 의도겠지.	A lot of buildings here mimic pre-war architectural styles, attempting to bring a sense of culture.	
+9	拉斐尔	然而园区面积太小，各种风格的建筑之间没有缓冲和过度的区域。	但園區面積太小，各種風格的建築之間沒有緩衝和過渡的區域。	だけど、キャンパスの面積が小さすぎて、\n各建築様式の間に緩衝と適度なスペースがない…	학교 면적이 너무 작아서 여러 스타일의 건물들이 충돌하는 느낌이야. 	But, this campus is so small that there’s no buffer between buildings of contrasting styles.	
+10	拉斐尔	在这种地方，你们不会感到郁闷吗？	在這種地方，妳們不會感到鬱悶嗎？	……こんな場所にいて、あんたは鬱陶しく\nならないの？	이런 곳에 있으면 답답하지 않아? 	This makes it all too stifling here, don't you think so?	
+11	N/A	新丰洲是在废墟上重建的城市，本来就没留下多少有历史底蕴的建筑。	新豐洲是在廢墟上重建的城市，本來就沒留下多少有歷史底蘊的建築。	新豊洲は廃墟の上に再建された都市であり、\n歴史的な建造物なんて残ってはいない。	신토요스는 폐허 위에 세운 도시라서 남아있는 역사 건물이 많이 없다. 	New Opulentia is a city rebuilt on ruins. Most of its historical sites were burnt down.	
+12	N/A	而且在防护力场内这种寸土寸金的地方，如此的占地面积真的是相当奢侈了。	而且在防護力場內這種寸土寸金的地方，有如此規模的占地面積已經相當奢侈了。	しかも防御フィールドの中と言う、\n限られた貴重な土地。\nこの敷地面積だって実は十分に贅沢だ。	게다가 방호 역장 안 금싸라기 땅에 이런 면적을 차지하고 있는 것도 상당한 사치다. 	It’s actually pretty luxurious to have such a stretch of land within the protective shield where land is scarce.	
+13	N/A	突然被这么说，总觉得有些不爽……	突然被這麼說，總覺得有些不爽……	突然そんなこと言われて、カチンときた……	갑자기 그렇게 얘기하니까，기분이 불쾌한 걸……	I somehow feel offended by her words…	
+14	小怜	唔……	唔……	うーん……	음……	Hm…	
+15	小怜	你应该就是来自第四学园都市的拉斐尔·戴克斯小姐吧？	妳應該就是來自第四學園都市的拉斐爾·戴克斯小姐吧？	……君は第四学園都市から来た\nラファエル・デックスさんだよね？	당신은 제4학원도시에서 오신 라파엘 덱스 아가씨죠?	You must be Raphilia Dekkers from the Forth Academic City.	
+16	小怜	既然这么看不上这里，为什么还来参观啊？	既然這麼看不上這裡，為什麼還來參觀啊？	ここがそんなに気に入らないのなら、\nどうして見学になんて来たんだ？	여기가 그렇게나 마음에 안 들면서 왜 참관하러 온 거예요? 	So why do you visit the school if you don’t like it here?	
+17	拉斐尔	哦？你知道我是谁啊。	哦？ 妳知道我是誰啊。	へぇ？　私を知ってるのね？	오？내가 누군지 알고 있구나?	Wow, you know who I am?	
+18	拉斐尔	哼，要不是爷爷想安排我到其它学园都市留学……	哼，要不是爺爺想安排我到其他學園都市留學……	お爺様が、私を他の学園都市に留学させようと\nしているのよ。\nそうでなければ……	흥，할아버지는 날 다른 학원도시로 유학이나 보내려고 해서……	Hm… It's all because of my grandpa. He wants me to study in another Academic City…	
+19	拉斐尔	像这种只知道模仿，没有神髓的地方──我连踏进一步的想法都不会有！	像這種只知道模仿，沒有半點文化精髓的地方──我根本連一步都不想踏進去！	こんな模倣だけの中身が空っぽな場所なんて、\n\n──足を踏み入れる価値さえないわ！	이렇게 모방이나 하고 깊이가 없는 곳은 한 발짝도 들이고 싶지 않아！	But this copycat school with no history at all… I'd never set my foot on it again.	
+20	小怜	……	……	…………	……	…	
+21	小怜	（所以是不满意家里人的安排而心生怨气嘛……)\n（这么简单的事情说清楚不就好了！）	（所以是不滿意家人的安排而心生怨念嘛……)\n（這麼簡單的事情說清楚不就好了！ ）	（要は家族とそりが合わないから、不満が\n　溜まってるわけか……）\n（そんな事はっきり言えばいいじゃないか！）	（집안에서 시킨 것 때문에 화풀이를 하고 있군……)\n（그런 일은 대화로 해결하면 되잖아！?)	(So she is simply unhappy about her grandfather's plan…) \n(Why didn’t she just speak out?!)	
+22	N/A	真是糟糕，被她一说，我也觉得学校里的建筑风格有点开始变得别扭不自然了。	真是糟糕，被她一說，我也開始覺得學校裡的建築風格有點彆扭不自然了。	……まずい、彼女に言われてから、\n俺にも学校のデザインが不自然に見え始めた。	이런. 그녀의 말을 들으니，나까지 학교의 건물 스타일이 갑자기 자연스럽지 않아 보인다. 	Crap! Her words have somehow affected me. All the buildings in the school suddenly seem weird-looking.	
+23	N/A	真是有毒的点评，快点忘掉！！	真是有毒的批評，快點忘掉！ ！	あんな毒舌コメントなんて、忘れるんだ俺！！	정말 해로운 평가다. 빨리 잊어버리자！ ！	Darn it! Forget about those comments! Now!	
+24	倪克斯	哎呀呀，既然对家人的安排这么不满意──	哎呀呀，既然對家人的安排這麼不滿意──	あらあら……\nそんなにご家族の事が不満なのでしたら──	집안의 계획이 그렇게나 마음에 안 든다면	Whoa, since you're so disappointed…	
+25	倪克斯	为什么不直接说出自己的想法呢？	為什麼不直接說出自己的想法呢？	どうして自分の考えを直接、伝えないのかしら？	왜 자신의 생각을 직접 말하지 않는 거죠?	Why don't you just tell your grandpa what you think?	
+26	N/A	倪克斯学姐从我们身后逐渐走过来，身姿还是那么优雅自然。	倪克斯學姐從我們身後逐漸走了過來，姿態還是那麼優雅自然。	相変わらずの優雅さで、ニュクス先輩が\n俺達の後ろから歩いてきた。	닉스 선배가 우아한 자태로 천천히 걸어온다. 	Nix walks up to us, elegant as she always is.	
+27	N/A	学姐和拉斐尔眼神相遇的一瞬，我仿佛听到了高压放电击穿空气的声音。	學姐和拉斐爾眼神相遇的瞬間，我彷彿聽到了高壓放電擊穿空氣的聲音。	先輩とラファエルの目が逢った瞬間、\n空気を裂く電流の音が聞こえた気がする。	선배와 라파엘의 눈이 마주치는 순간，고압 전기가 튀는 소리를 들은 것 같다.	As their eyes meet, I think I hear the crackling sound of a high voltage discharge.	
+28	N/A	是……错觉吧？	是……錯覺吧？	(き、気のせい……だよな？)	……착각이겠지？	It must be… a hallucination, right?	
+29	拉斐尔	你又是谁？	妳又是誰？	──あんた、誰よ？	넌 또 누구야?	Who are you?	
+30	倪克斯	我只是这所学校里，一名普通的学生罢了。	我只是這所學校裡一名普通的學生罷了。	この学校に通う、ごくごく一般の生徒です。	전 이 학교의 평범한 학생이죠.	Well, I’m a just a nobody at this school.	
+31	倪克斯	倒是这位贵族大小姐，从刚才起，就对我们学校充满鄙夷呢。	倒是這位貴族大小姐，從剛才起，就對我們學校充滿鄙視呢。	そこの貴族のお嬢様は、先ほどからずっと私達の\n学校を侮辱してばかりですね。	귀족 아가씨께서 아까부터 우리 학교에 불만이 많으신 것 같길래.	I’m just wondering what brings you here, my lady?	
+32	倪克斯	既然这样，为什么还要纡尊降贵地来这里呢？是家族的压力吗？	既然這樣，為什麼還要紆尊降貴地來這裡呢？ 是家族的壓力嗎？	それでしたら、なぜわざわざこちらにお越しに？\n家族からの圧力かしら？	귀하신 분께서 누추한 여기까지 뭐하러 오셨죠? 가문의 압력 때문에? 	Why did you agree to come here in the first place? Is it because of the family pressure?	
+33	拉斐尔	我和我家里的关系，不用你来指手画脚吧？	我和我家裡的關係，輪不到妳來指手畫腳！	私と家族との関係性について、\nあんたに指図される義理はないわ。	나와 내 가족의 일을 네가 함부로 떠들 필요는 없을 텐데? 	My family matter is none of your business.	
+34	倪克斯	所以说到头，你根本就是不敢违抗父母命令的任性小孩──	所以說到底，妳根本只是不敢違抗父母命令的任性小孩──	あぁ、なるほど。\nつまり、あなたは両親の命令に逆らえない\n『我儘な子供』という事でしょうか──	당신은 부모의 명령을 거역하지 못하는 제멋대로인 어린아이일 뿐이에요──	Let me guess. A self-centered kid who’s never defied her parents' will.	
+35	倪克斯	又凭什么自认为高人一等，对给你免费当向导的人的校园指指点点呢？	憑什麼自認為高人一等，對給妳當免費嚮導的人的校園指指點點呢？	──そんなあなたが、\n他人より優れていると自惚れながら、\n善意で学校案内をしてくれている生徒に対して、\nよくその子の学校の悪口を言えたものね？	뭐가 그리 잘나서 무료로 가이드까지 해주는 사람의 학교를 비난하는 거죠?	Why do you consider yourself higher up? Who gives you the right to judge a school? After all, she volunteered to show you around.	
+36	拉斐尔	哈？！我什么时候说过高人一等的话了？	哈？ ！我什麼時候說過高人一等的話了？	はぁッ？\n私がいつ他人より優れていると言ったのッ？	하？！내가 언제 잘났다고 그랬어?	Pardon?! When did I consider myself superior?	
+37	拉斐尔	喂，女装癖，我有说过那种话吗？	喂，女裝癖，我有說過那種話嗎？	ねえ、女装癖？\n私がそんな事を言った覚えはないわよね？	이봐，여장 변태，내가 그랬어?	Hey, you pervert. Have I ever been so haughty?	
+38	小怜	倒也不算啦……	倒也不算啦……	いや…あの…、言ってなかった……かな……？	그건 아니지만……	Not really…	
+39	小怜	可恶，谁是女装癖啊！	可惡，誰是女裝癖啊！	(誰が女装癖だっ！)	젠장，누가 여장 변태라는 거야！	Wait, I’m not a pervert!	
+40	拉斐尔	你看，我明明没说过。	妳看，我明明沒說過。	ほら見なさい、言っていないでしょう？	봐봐，내가 언제 그랬다고 그래?	See? I didn't say that.	
+41	拉斐尔	而且话说回来，你脖子上戴的那个……	而且話說回來，妳脖子上戴的那個……	ところで、あんたの首に着けているそれ……	그리고，네 목에 차고 있는 그거……	By the way, the thing around your neck…	
+42	拉斐尔	上学还戴着这种东西，真的没问题吗？	上學還戴著這種東西，真的沒問題嗎？	そんなものを着けて学校に来ているなんて、\nあんたこそ、大丈夫なの？	학교에서 그런 걸 차고 있어도 정말 괜찮은 거야?	Is jewelry allowed in this school?	
+43	小怜	其实我们学校没有禁止戴首饰的规定啦……	其實我們學校沒有禁止戴首飾的規定啦……	俺達の学校はアクセサリーを禁止してないし……	사실 우리 학교는 악세서리 착용 금지 규정이 없어요……	Actually, we don't have any restrictions on wearing ornaments…	
+44	N/A	而且学姐的项圈明明很可爱！	而且學姐的項鍊明明很可愛！	それに先輩のチョーカーめちゃ可愛いからOK！	게다가 선배의 목걸이는 아주 귀엽다고！	And Nix's necklace is so cute!	
+45	拉斐尔	虽然故意用低反光材料嵌底……战前从动荡的宫廷流出并碎裂成了三块的『奥尔洛夫黑钻』。	雖然故意鑲嵌在低反光材料上……但那是戰前從動蕩的宮廷流出並碎裂成了三塊的「奧爾洛夫黑鑽」吧。	わざと低反射素材で隠しているようだけど……\nそれ、戦前の動乱で宮廷から流出した挙句……\n3つに割れた『ブラックオルロフ』\nじゃないかしら？	일부러 저반광 소재를 쓴 걸 보니……전쟁 전 궁정에서 유출되어 세 조각이 난 『오를로프 블랙다이아』군.	The band may be low-key, but definitely not the gem on it—the Orlov Black Diamond. This royal gem broke into three pieces and was lost during the turbulence before the war broke out.	
+46	拉斐尔	实际价格能换这里几栋教学楼了吧？	實際價格能換這裡幾棟教學大樓了吧？	それを売ったら、ここの教室数棟分ぐらい容易く\n買えるんじゃない？	이곳의 강의동 몇 채와 맞바꿀 수 있는 가격이라지?	You can probably buy a couple of buildings here with just one piece.	
+47	小怜	──啥！！？	──啥！ ！？	──なんだってッ！？	──뭐！！？	What?!	
+48	拉斐尔	你不会还装出一副替平民发声的样子，想让这个女装笨蛋以为你和她是一边的吧？	妳還裝出一副替平民發聲的樣子，該不會想讓這個女裝笨蛋以為妳和她是同一邊的吧？	庶民の代弁をするフリをしているようだけど、\n\nそこの女装バカに仲間だと\nあんたは思われたい訳ね。	평민을 대변하는 것처럼 굴지 마. 이 여장 바보가 널 같은 편이라고 여길 거라고 생각하는 거야?	Posing as an ordinary student and speaking up for them… What do you want? To fool this cross-dressing pervert that you're on her side?	
+49	倪克斯	……	……	…………	……	…	
+50	N/A	谁是女装笨蛋啊！！	誰是女裝笨蛋啊！ ！	だから、誰が女装バカだよっ！	누가 여장 바보라는 거야！！	Stop calling me a pervert!	
+51	N/A	还有倪克斯学姐为什么突然露出心虚的样子啊？！	還有倪克斯學姐為什麼突然露出心虛的樣子啊？ ！	そして、ニュクス先輩もなんで後ろめたい感じに\nなってるの！？	닉스 선배는 왜 갑자기 도둑이 제 발 저리는 모습을 하는 거야?！	And why does Nix have this subtle, sorry look?	
+52	倪克斯	我只是戴了与自己相称的饰品而已。	我只是戴了與自己相稱的飾品而已。	……私はただ、自分に相応しいアクセサリーを\n付けているだけです。	난 그저 나와 잘 어울리는 악세서리를 한 것뿐이에요.	I'm just wearing something that suits me.	
+53	倪克斯	反而是你，又想表现得自由独立，又在仗着家族蒙荫趾高气昂的样子，真是太可笑了。	反而是妳，既想表現自由獨立，又仗著家族庇蔭趾高氣昂的樣子，真是太可笑了。	むしろあなたこそ、自由と独立を表現したい\nのでしょう？\nなのに家族の権威を笠に着て優越感に浸る姿は、\n正直な所、非常に滑稽と思いますが。	자유롭고 독립적이고 싶어하면서 가문의 그늘에서 거만하고 우쭐대는 당신이야말로 정말 가소롭군요. 	What about you? You try to look independent but take pride in enjoying your family's wealth. That's hilarious.	
+54	拉斐尔	我记得那三块黑钻后来落到了黑手党教父手里，用黑钱买的黑钻，真是和你很相称呢。	我記得那三塊黑鑽後來落到了黑手黨教父手裡，用黑錢買的黑鑽，真的和妳很相稱呢。	確か3つのブラックダイヤはマフィアの\n首領の手に落ちたと聞いたわ。\nドス黒い金で買った黒いダイヤ……\n……確かにあんたに相応しいわよ。	블랙다이아는 마피아 대부의 손에 넘어갔다고 들었는데，검은 돈으로 산 블랙 다이아라니，정말 당신과 잘 어울리는군.	I remember all the three pieces fell into the hands of a mafia boss. A Black Diamond bought with ill-gotten money—it does suit you well.	
+55	倪克斯	不像您的家族，用垄断的粮食贸易带来的财富和贵族地位，连衣服都这么郁郁葱葱的。	不像您的家族，用壟斷糧食貿易獲取龐大財富和貴族地位，連衣服都這麼鬱鬱蔥蔥的。	あなたのご家族とは違うわ。\n\n食糧貿易の独占で得た財産と貴族の地位は、\n服さえも野菜みたいな緑色にするようですね。	당신의 가문이 식량 무역을 독점해서 재물과 귀족 지위를 얻은 것과는 다르죠.  옷 하나도 이렇게 화려하다니.	Well, I have to admit my family is less fortunate. After all, not everyone can earn a fortune and a noble title through the monopoly on grains.	
+56	拉斐尔	谁让只有我们的作物可以预防『黑缕病』呢，总不能像你一样，切开都是黑的。	沒辦法，就是只有我們的作物可以預防「黑縷病」啊，總不能像妳一樣，連切開都是黑的。	そうね。確かに私達の作物は『黒糸病』を\nちゃんと予防しているわ。\nそのお陰で、あんたみたいにどこを切っても\n中身が真っ黒じゃないのよ。	그러게 누가 우리 작물만이 『흑사병』을 예방하라 그랬나. 속까지 새까만 너와는 다르지.	That’s because only our crops could help people prevent the Black Plague. They deserve to live. Unlike you, rotten inside out.	
+57	倪克斯	明明用饥饿威胁着全世界，还宣扬着什么人不能失去信仰，你们平时不探究一下自己的灵魂吗？	明明用飢餓威脅著全世界，還宣揚著什麼人不能失去信仰，妳們平時都不探究一下自己的靈魂嗎？	常に飢餓で世界を脅かし続けているてる人間が、\n信仰心を失うなと吹聴する。\n神道ではなく、人道の方を私が代わりに教えて\n差し上げましょうか？	기아로 전세계를 위협하면서，신앙을 잃어서는 안 된다고 선전하던데，스스로의 영혼은 탐구하지 않나 봐요?	You insist on keeping faith while you threaten the world with hunger. Why don’t you reflect on your own soul first?	
+58	拉斐尔	我的灵魂不需要你这种人来探究，那绝对会成为我人生的污点。	我的靈魂不需要妳這種人來探究，那絕對會成為我人生的污點。	あんたのような人間に、道についてなんて\n聞きたくもないわ。\nそれこそ私の人生の汚点となってしまうもの。	내 영혼은 너 같은 사람의 탐구는 필요 없어. 분명 인생의 오점이 될 거야. 	I don’t need to do that with people like you. It will only bring me shame.	
+59	倪克斯	哎呀真巧，我也不想踩到垃圾堆里研究废物的真实形态呢。	哎呀真巧，我也不想踩到垃圾堆裡研究廢物的真實形態呢。	あら、とても奇遇ね。\nゴミの山に積まれているゴミの形について、\n私も研究したくないもの。	어머，잘 됐네요. 저도 쓰레기통에 있는 폐기물의 실체는 연구하고 싶진 않아서.	Oh, that sounds familiar. I don’t want to get to know about you losers, either.	
+60	N/A	……	……	…………	……	…	
+61	N/A	下午的阳光温暖地洒在我们三人身上。	午後陽光溫暖地灑在我們三人身上。	午後の太陽が俺達3人を暖かく照らす。	오후의 햇볕이 우리 세 사람을 따스하게 비춘다.	The afternoon sun shines gently on us.	
+62	N/A	我站在二人中间，看着两位似乎都很不得了的少女斗嘴，全然不知如何劝架。	我站在她們中間，看著兩位的背景似乎都很不得了的少女鬥嘴，全然不知如何勸架。	俺は2人の間に立っているが、壮絶な罵り合いを\n仲裁できる方法なんてさっぱり浮かばなかった。	나는 가운데 서서，두 아가씨의 대단한 말싸움을 바라보았다. 어떻게 말려야 할지 전혀 모르겠다.	Standing between the two, I have no idea how to settle this fight.	
+63	小怜	（你们两位，真的是第一次见面吗？）	（妳們兩位，真的是第一次見面嗎？ ）	（君ら、本当に初対面かな？）	（두 사람，진짜 처음 만난 것 맞아？）	(Are you sure you haven’t met each other before?)	
+64	小怜	（真的不是从小到大的仇人吗？）	（真的不是從小到大的仇人嗎？ ）	（実は幼い頃からの仇敵とかではなく？）	（어렸을 때부터 원수 사이가 아니고？）	(Are you really not lifelong enemies?)	
+65	N/A	远处的副校长已经紧张的昏厥过去，被抬走了。	遠處的副校長已經緊張得昏厥過去，被抬走了。	…遠くにいた副校長はとっくの昔に泡を吹いて、\nどこかに運ばれていった。	멀리서 지켜보던 교감은 이미 쓰러져서 실려나갔다.	The vice principal in the distance has already freaked out and taken away for emergency treatment.	
+66	N/A	算了，反正莉琉让我打听的情报已经到手了。	算了，反正莉琉要我打聽的情報已經到手了。	まぁ、幸いにもマリルが欲しい情報はすでに\n入手できてるし。	됐어，마리루가 알아보라고 한 정보를 손에 얻었으니까.	Never mind. I've got all the information Mariru wants.	
+67	N/A	……就不要在意了吧？	……就別在意了吧？	……気にしなくていいんじゃね？	……이제 신경쓰지 않아도 되겠지?	It's none of my business anyway.	

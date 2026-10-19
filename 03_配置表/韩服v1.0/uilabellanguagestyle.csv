@@ -1,0 +1,8 @@
+tag,fontSize,fontStyle,color,overflowMethod
+string,long,long,long,long
+标签, 字号, 样式, 颜色, 对齐模式
+,22,22,-16776961,2
+cn-t,22,22,-1,2
+tw-t,22,22,-1,2
+jp-t,22,22,-1,2
+kr-t,22,22,-16776961,2

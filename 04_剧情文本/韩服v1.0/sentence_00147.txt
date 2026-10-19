@@ -1,0 +1,7 @@
+﻿1	引导精灵	开始养成之路领取雾夕引导	開始養成之路領取霧夕引導	新兵訓練で成長させよう。	SID선물에서 키리세키 획득 가능합니다.	Start Road to Fame Tutorial (Kiriyu)	
+2	FocusTrigger	点击	點擊	タップ	터치하세요.	Tap Here	
+3	FocusTrigger	点击	點擊	タップ	터치하세요.	Tap Here	
+4	FocusTrigger	点击	點擊	タップ	터치하세요.	Tap Here	
+5	FocusTrigger	点击	點擊	タップ	터치하세요.	Tap Here	
+6	FocusTrigger	点击	點擊	タップ	터치하세요.	Tap Here	
+7	引导精灵	完成养成之路领取雾夕引导	完成養成之路領取霧夕引導	新兵訓練が全て終わると霧夕が仲間になるよ。	소녀의 모험을 완성해 키리세키 수령하세요.	Complete Road to Fame Tutorial (Kiriyu)	

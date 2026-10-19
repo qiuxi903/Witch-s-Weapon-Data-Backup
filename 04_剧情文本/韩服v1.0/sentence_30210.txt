@@ -1,0 +1,119 @@
+﻿1	N/A	我和索娅赶回了灯火通明的电器街。	我和索婭趕回了燈火依舊通明的電器街。		나와 소야는 등불이 환한 전자상가로 황급히 돌아왔다.	Sonya and I make our way back to the brightly-lit Electronics Street.	
+2	N/A	猫丸电器本店三四层外墙的大屏幕上，正循环播放着赞助商的广告视频。	貓丸電器本店外牆三四層高的大螢幕上，正重複播放著贊助商的廣告影片。		캣볼 전자기기 본점 3층 외벽 스크린에 협찬사의 광고 영상이 반복 플레이되고 있다.	The huge suspended screen on the outer wall of Nekomaru Electronics Flagship Building is looping a commercial from a sponsor.	
+3	N/A	几辆由货车改造而成的巡游花车，在步行街中央整整齐齐排成一列。	幾輛由貨車改造而成的巡迴花車，在行人徒步區中央整齊地排成一列。		트럭을 개조한 퍼레이드 카가 보행도로 중앙에 일렬로 정렬돼있다.	A few mobile billboard trucks are parked neatly in a row in the center of the pedestrian walkway.	
+4	N/A	花车的两侧都印着巨幅广告喷绘，车顶是装饰精致的围栏，一些工作人员正在调试音响设备。	花車兩側都印著巨幅彩繪廣告，車頂是裝飾精緻的圍欄，一些工作人員正在測試音響設備。		퍼레이드 카의 양쪽에 광고 판넬이 걸려있고 윗부분 울타리에 한 직원이 음향기기를 만지고 있다.	On both sides of each truck are gigantic spray-painted ads. On the roof of the vehicles are decorated rails, and some workers are leaning against them, performing sound checks with fancy-looking equipment.	
+5	索娅	这是要举办什么活动吗？	這是要舉辦什麼活動嗎？		이벤트를 열려는 건가？	Are they gonna hold some sort of event here?	
+6	N/A	现在电器街的人比我们刚离开时只多不少，而且游客还在不断涌入。	電器街的人比我們剛剛離開時更多了，還有遊客不斷湧入。		지금 전자상가의 인파가 우리가 떠날 때보다 더 많아졌다. 심지어 여행객들이 끊임없이 몰려오고 있다.	Electronics Street is even more crowded than it had been when we previously left it. More people are still pouring in.	
+7	小怜	啊，今天难道是……	啊，今天難道是……		아, 오늘이 설마……	Oh, today must be...	
+8	N/A	我忽然想起曾在网上见到过类似的场面，迅速拿出手机搜索。	我忽然想起曾在網路上看過類似的場景，便馬上拿出手機搜尋。		인터넷에서 비슷한 장면을 본 것 같아 휴대폰을 꺼내 검색했다. 	I remember seeing something similar online and pull out my phone to run a search.	
+9	N/A	果然──今晚是电器街一年一度的特殊庆典。	果然──今晚是電器街一年一度的特殊慶典。		역시──오늘 저녁이 전자상가의 1년에 한 번 열리는 특별 축제가 열리는 날이다.	That’s right. It’s the annual festival of Electronics Street.	
+10	N/A	五年前，随着新丰洲的局势逐渐稳定，元老院宣布废除了《社会公序法》等多个文化类管制法案。	五年前，隨著新豐洲的局勢逐漸穩定，元老院宣佈廢除了《社會秩序維護法》等多個文化管制法案。		5년 전 신토요스의 정세가 점차 안정되고 원로원이 《사회 질서법》 등 여러 문화 제재 법안을 폐기했다.	Five years ago, as New Opulentia gradually recovered from the war, the Senate announced the abolishment of several laws regulating cultural activities, including the Law of Social Order.	
+11	N/A	决议执行前一晚的午夜，很多人自发聚集在猫丸电器的大屏幕下倒计时，庆祝这一“伟大的胜利”。	決議生效前一晚，很多人自發性地聚集在貓丸電器的大螢幕下倒數計時，慶祝這一個「偉大的勝利」。		결의 실행 전날 밤, 많은 사람들이 캣볼 전자기기의 스크린 아래서 “위대한 승리”를 외쳤다.	The midnight before the decision was made, a huge crowd gathered under this same screen in front of Nekomaru Electronics and counted down the seconds leading to this “great victory”.	
+12	N/A	后来网上有人恶搞，将这一事件改编成了御宅族前辈反抗暴政，奋勇抵抗最终拯救世界的故事。	後來有人在網路上惡搞，將這事件改編成御宅族的前輩反抗暴政，奮勇抵抗最終拯救世界的故事。		이후 인터넷에 이 사건을 오타구족의 폭정 시위로 변질시켰다.	Afterwards, some netizens made funny edits, creating a whole short film telling an epic tale of how brave otaku pioneers stood up against the oppressive government and finally saved the world.	
+13	N/A	不料引发了一群“老战士”的集体创作，众人纷纷用回忆的形式对『那场战争』进行补完。	後續還引發了一群「老戰士」的集體創作，眾人紛紛用回憶的形式補完「那場戰爭」。		이로 인해 “노전사”의 집단 창작을 불러일으켜 많은 사람들이 추억의 형식으로 『그 전쟁』을 보완했다.	This inspired lots of said “pioneers” to make their own hilarious edits, adding bits and pieces to the tale of “that war”, as if it were an actual existing event.	
+14	N/A	还煞有介事的说战后政府决定进行世界范围的记忆消除，仅保留部分战争功臣的记忆……	還煞有介事的說，戰後政府決定對全世界進行記憶消除，只保留部分功臣的記憶……		전쟁 후 정부가 세계인의 기억을 삭제하고 일부 전쟁 공신들의 기억만 남겼다고 그럴 듯하게 꾸몄다……	Some even claimed that, after the incident, the government wiped the memories of everyone in the world, leaving the memories of only a few brave “pioneers” intact.	
+15	N/A	而那次倒计时，就是记忆消除前夜，幸存者们一边读秒一边热泪盈眶的缅怀战争烈士。	而那次倒數計時，就是記憶消除的前一夜，倖存者們一邊讀秒一邊熱淚盈眶地緬懷戰爭烈士。		그리고 그 카운트다운이 기억 삭제의 전야로 생존자들이 눈물을 흘리며 전쟁 열사들을 기억했다고…	And the countdown was in fact a group of survivors gathering to commemorate those brave “pioneers” the night before their memories were wiped.	
+16	小怜	（蠢爆了！谁会信啊！！）	（蠢爆了！ 誰會信啊！ ！）		（바보같아！누가 믿겠어！！）	(What kind of stupid story is that? Who’d buy that anyway?)	
+17	小怜	（亏我当年看得那么燃……）	（虧我當年看得那麼熱血……）		（그때 열심히 찾아봐서 다행이야……）	(I really enjoyed scrolling through the edits though...)	
+18	N/A	不过商家抓住了这个机会，将这一天打造成年度促销庆典，还吸引了大批赞助商。	不過商家倒是把握了這個機會，將這一天打造成年度促銷慶典，還吸引了大批贊助商。		하지만 상가들이 이 기회를 잡아 이날을 연간 판촉 축제로 만들었고 많은 스폰서들의 주목을 끌었다.	Anyhow, the businesses around the area took the opportunity to make the day an annual festival where shoppers get insane discounts. This attracted a lot of sponsors too.	
+19	小怜	怪不得今天下午免费发周边……	難怪今天下午在免費發送周邊商品……		어쩐지 오늘 오후에 굿즈를 무료로 나눠주더라니……	No wonder they were handing out free merch this afternoon...	
+20	N/A	我有些眼红的看着路人手中的黄色小旗子。	我嫉妒地看著路人手中的黃色小旗子。		나는 벌건 눈으로 사람들이 든 노란색 깃발을 쳐다봤다.	I watch enviously as some shoppers pass by, holding their little yellow flags.	
+21	索娅	如果活动要持续到12点的话……这个时间的气氛也过于热烈了吧？	如果活動會持續到12點……現在的氣氛也太熱烈了吧？		이벤트가 12시까지 진행되면…분위기도 엄청 시끌벅적하겠지?	If the event’s going to go on all the way till midnight... isn’t it a bit too early for people to get this excited?	
+22	N/A	我看了看表，还不到8点，但街上的人群似乎异常兴奋。	我看了看手錶，還不到8點，街上的人群卻異常興奮。		시계를 보니 아직 8시도 되지 않았다. 하지만 길가에 사람들이 이상하게 흥분한 것 같다.	I check my watch. It’s not even eight yet, but the crowds on the street seem to be buzzing with anticipation already.	
+23	N/A	由于今年的人数远超预期，现场维持秩序的保安警显得完全力不从心。	由於今年的人數遠遠超過預期，現場維持秩序的保安警察顯得力不從心。		오늘 인파가 예상을 초과해 현장에 질서를 유지하는 보안경찰 인력도 부족하다고 한다.	The number of participants is unexpectedly high today. The poor security police keeping order can barely make themselves heard.	
+24	小怜	话说……咱们应该算逃犯吧？	話說……我們兩個應該算逃犯吧？		우리……탈주범인 거지？	Uh... aren’t we fugitives?	
+25	N/A	我看着附近的几个警员，不知这次他们会被索娅用什么新花样撂倒。	我看著附近的幾個員警，不知這次他們會被索婭用什麼新花招撂倒。		나는 주변의 경찰들을 둘러봤다. 소야가 이번엔 어떤 기술로 그들을 쓰러트릴지 모르겠다.	I sneak a peek at the cops nearby, wondering if Sonya will need to take them down with some other crazy gadget as well.	
+26	索娅	低调点──	低調點──		조용──	Just keep a low profile.	
+27	N/A	索娅掐了一下我，指向街对面。	索婭掐了我一下，指著對街。		소야가 날 꼬집은 후 맞은편 길가를 가리킨다.	Sonya pinches me and points at some vehicles across the street.	
+28	索娅	看见那两辆黑色的装甲车了吗？	看見那兩輛黑色裝甲車了嗎？		저기 검은색 장갑차 두대 보여?	See those two black armored trucks?	
+29	N/A	我朝着她手指的方向看去，那种装甲车应该是待命中的保安军……搞不好是纽摩利达斯攻击队。	我朝著她手指的方向看去，那種裝甲車裡應該是待命的保安警察……搞不好是紐摩利達斯攻擊隊！		그녀가 가리킨 방향을 보니 장갑차에 대기 중인 보안군이 보인다……뉴 모리다스 공격대일지도 모른다.	I see them. They seem to hold security soldiers waiting for orders—from the Newmoridas special ops squad, probably.	
+30	索娅	万一把那群家伙吸引过来，我可没法帮你挡子弹~	萬一把那群傢伙吸引過來，我可沒法幫妳擋子彈～		만일 저 녀석들에게 걸리면 나도 총알을 막아줄 수 없어~	If we attract the attention of those guys, I won’t be shielding you from the bullets!	
+31	N/A	索娅看了看我毫无肌肉的大腿露出鄙视的微笑，不会躲子弹真是抱歉了啊！	索婭看了看我毫無肌肉的大腿後露出鄙視的微笑，不會躲子彈還真抱歉啊！		소야가 나의 근육 하나 없는 허벅지를 보며 웃는다. 총알을 못피해서 미안하네요,쳇!	Sonya glances at my soft, muscle-less thighs with a disdainful grin. She probably thinks I’m a useless kid who doesn’t even know how to dodge bullets. And she’s not wrong.	
+32	小怜	不过这么多人，不知能不能找到伊露卡……	這裡這麼多人，不知能不能找到伊露卡……		하지만 사람이 너무 많아서 이루카를 찾을 수 있을지 모르겠어……	How do we find Elluka among so many people?	
+33	N/A	我不安的环视着四周熙熙攘攘的人群，想到伊露卡在这种环境下迷茫无助的小眼神就一阵揪心。	我煩惱地環視四周熙熙攘攘的人群，一想到伊露卡在這種環境下那迷茫無助的小眼神就一陣揪心。		나는 주변의 인파를 불안하게 둘러봤다. 이런 환경에서 헤매고 있을 이루카를 생각하니 걱정이 앞선다.	I look around at the chattering crowd, feeling a pang in my heart as I imagine little Elluka, lost amidst it all, terrified and helpless.	
+34	索娅	那丫头的话，不就在那儿呢吗~	她不就在那嗎，喏～		그 꼬마라면 저기 있는 걸~	Oh, that girl? She’s right there.	
+35	小怜	啥！？	啥！ ？		뭐라고!?	Huh?	
+36	N/A	索娅用下巴指指前面被装饰成神龛的花车，坐在神位上的那个小萝莉正是伊露卡。	索婭用下巴示意前方被裝飾成神龕的花車，坐在神位上的那個小蘿莉正是伊露卡。		소야가 턱으로 앞에 감실처럼 꾸며진 퍼레이드 카를 가리킨다. 중앙에 이루카가 앉아있다. 	Sonya nods at the billboard truck ahead of us, decorated like a sort of shrine. And the girl sitting in the position of the worshipped god? Elluka.	
+37	N/A	那不知是哪家赞助的花车，前面挂着一个巨大的灯笼，灯笼后还有两个人在敲太鼓。	不知道是哪家贊助廠商的花車，前面掛著一個巨大的燈籠，燈籠後還有兩個人敲擊著太鼓。		어느 스폰서의 퍼레이드 카인지 모르겠지만 거대한 등롱이 달려있고 그 뒤에 두 사람이 태고를 치고 있다.	It’s hard to tell who sponsored this truck. On its head hangs a gigantic lantern, and right behind it are two men playing taiko drums.	
+38	N/A	此时花车下面密密麻麻的围了上百号人，正用朝圣般的眼神注视着车上的大萌神。	花車下密密麻麻的圍了上百個人，正用朝聖般的眼神注視著車上的大萌神。		퍼레이드 카 밑에 백명이 넘는 사람들이 모여 신성한 눈빛으로 작은 신을 쳐다보고 있다.	Hundreds of people are crowded around the truck, pointing at Elluka and cooing over her cuteness.	
+39	N/A	还有十几个人穿着应援服站成一排，每人手中拿着两个黄色的小旗子随着太鼓的节奏打call。	還有十幾個人穿著應援服站成一排，每人手中都拿著兩支黃色的小旗子，隨著太鼓的節奏打call。		어떤 사람들은 응원복을 입고 노란색 깃발을 들고 태고의 박자에 맞춰 응원하고 있다.	A dozen guys dressed in wota wear are standing in a line, waving their yellow flags and doing fanchants to the beat of the drums.	
+40	N/A	只见伊露卡从面前的贡品台上捧起一个巧克力奶油卷，没用几口就吃掉了。	只見伊露卡從面前的貢品台上捧起一個巧克力奶油卷，咬幾口就吃光了。		이루카가 공물대 위에 놓인 초콜릿 버터롤을 빠르게 먹어치운다.	On the offering table in front of Elluka is a chocolate cream roll—which she devours within a few seconds.	
+41	N/A@伊露卡	诶嘿嘿……	欸嘿嘿嘿……		에헤헤……	Hehehe...	
+42	N/A	──随后亮出了一个没心没肺的幸福笑容。	──吃完後還展現出沒心沒肺的幸福笑容。		──그리고 행복한 웃음을 짓는다.	And then she beams, so happy, so heartless.	
+43	N/A	众人看她吃完，立刻一阵欢呼，应援队也掀起一阵高潮。	眾人看她吃完，立刻一陣歡呼，應援隊也掀起一陣高潮。		그녀가 다 먹은 모습을 본 사람들이 환호한다. 응원단도 클라이맥스에 다달았다.	The crowd cheers as she finishes the “offering”, and her “fans” begin chanting harder.	
+44	N/A	接着伊露卡又满眼星星的挑选起下一件“贡品”。	接著伊露卡又滿眼星星地挑選起下一件「貢品」。		이루카가 눈을 반짝이며 다음 “공물”을 고른다.	Eyes full of stars, Elluka chooses her next “offering”.	
+45	小怜	………………………	……		………………………	...	
+46	小怜	这什么情况？！	這是什麼情形啊？ 有那麼餓嗎？ ！		이게 무슨 상황이야？！	What the heck?	
+47	索娅	哦呀呀~似乎完全燃起来了。	哦呀呀～場面相當熱絡喔。		와아아~완전 빠진 것 같은데?	They seem to be having the time of their lives.	
+48	N/A	……	……		……	...	
+49	N/A	我俩绕着花车勘查了一圈。	我們繞著花車勘查了一圈。		우리는 퍼레이드 카 주변을 둘러봤다.	We shove through the crowd, observing the truck from every angle.	
+50	N/A	在那群把花车围得密不透风的“亲卫队”面前，似乎没有任何暴力突入以外的方法。	除了強行穿越那群把花車圍得密不透風的「親衛隊」以外，似乎沒有其他方法可接近依露卡了。		퍼레이드 카를 둘러싼 “친위대”를 뚫으려면 폭력 외엔 다른 방법이 없어보인다. 	The dedicated fans are piled up against the truck, making it impossible for us to get close without resorting to violence.	
+51	小怜	可万一引起保安军的注意……	但這樣一定會引起注意的啦……		만일 보안군의 주의를 끌게 되면……	But we can’t make a commotion, because the cops will come...	
+52	N/A	我们远远看着在花车上大吃特吃的伊露卡，既然确定她没有危险，似乎也不用那么着急了。	我們遠遠看著在花車上大快朵頤的伊露卡，既然確定她沒有危險，似乎也不用那麼著急了。		우리는 멀리서 폭식하는 이루카를 쳐다본다. 위험하지 않을 걸 보니 안심이 된다.	At least Elluka doesn’t seem to be in danger. She’s just sitting there, eating. No point in worrying, then.	
+53	索娅	呐~为什么有人对小萝莉那么狂热呢？在欧洲人们会认为这种行为很变态哦──	吶～為什麼有人對小蘿莉那麼狂熱呢？ 在歐洲，人們認為這種行為很變態哦──		왜 로리에 저렇게 열광하는 걸까? 유럽에서 이런 행위는 변태로 여겨지는데 말이야──	Hey, why do you think those guys worship cute little girls? In Europe, we find that abnormal.	
+54	N/A	索娅一脸坏笑的问我。	索婭一臉賊賊地問我。		그녀가 비웃는 얼굴로 내게 묻는다. 	Sonya asks me, a smirk on her face.	
+55	小怜	变、变态？\n不会吧……	變、變態？ \n想太多了吧……		벼, 변태？\n그럴리가……	Abnormal?\nIt’s not that bad...	
+56	小怜	你看，就像有人喜欢动物的幼崽一样──单纯、认真、又有点笨拙……	妳看，就像有人喜歡動物的幼崽一樣──單純、認真、又有點笨拙……		동물의 새끼를 좋아하는 거랑 똑같아──단순하고 진지하고 조금 서투른……	See, it’s like how people find kittens and puppies cute, right? Little girls are simple, kind of clumsy, and they always try their best...	
+57	小怜	那种美好的、让人不忍伤害想要保护的感觉……	那種美好、純淨，讓人不忍心傷害、想要抱緊，呃，保護……的感覺		그 아름답고 보호해주고 싶은 느낌……	It reminds people of that piece of innocence they’ve lost, and they want to protect it...	
+58	N/A	我极力试图为那些人和我自己辩解，但似乎越说越不妙了。	我試圖辯解，但似乎越描越黑了。		나는 그 사람들과 나의 입장을 변명하려고 했지만 말할수록 점점 이상해지는 것 같다.	I try to explain, but the more I say, the weirder it feels.	
+59	小怜	要论变态，你和他们根本不是一个等级吧！	說到變態，妳和他們根本不是同個等級吧！		변태라면 너야말로 그들과 같은 등급이지！	Besides, when it comes to being abnormal, aren’t you even worse yourself?	
+60	索娅	嘿嘿，变态有什么不好的~	嘿嘿，變態有什麼不好的～		헤헤, 변태가 어디가 나빠~?	Well, as far as I’m concerned, being abnormal is not a bad thing.	
+61	索娅	如果“普通”的定义是特定环境中所有人的平均状态，那么与平均值相差过大的人就会被当做变态。	如果「普通」的定義是特定環境中所有人的平均狀態，那麼與平均值相差過大的人就會被當做變態。		“일반”적인 정의가 특정 환경의 평균 상태라면 평균값과 다른 사람이 변태로 여겨지지.	If “normal” is defined as the average state of the people in a certain environment, then those who aren’t average will be considered “abnormal”.	
+62	索娅	所以变态本身就是出众的意思，完全不需要隐藏。	所以，變態本身就是與眾不同的意思，完全不需要隱藏。		그러니까 변태는 훌륭하다는 뜻이야. 전혀 숨길 필요 없어.	So those who are outstanding are “abnormal” too, right? Not a bad thing at all!	
+63	N/A	索娅一脸自豪的将手放在自己胸前──	索婭一臉自豪地將手放在自己胸前──		소야가 자신만만하게 자신의 가슴 위에 손을 올린다──	Sonya places a hand in front of her chest, looking quite proud.	
+64	索娅	变态就是变态，坦然承认就好，不需要用普通人的逻辑为自己注解。	變態就是變態，坦然承認就好，不需要用普通人的邏輯為自己辯解。		변태는 변태야. 쿨하게 인정하면 돼. 일반사람의 로직으로 자신을 해석할 필요 없어.	Being abnormal is fine, no need to explain your abnormality to those mundane commoners. You can just admit it instead of trying to find excuses for it.	
+65	N/A	索娅拍了拍我的肩，用人生导师的语气说道。	索婭拍了拍我的肩，用人生導師的語氣說道。		소야가 내 어깨를 친 후 인생 선생님 같은 말투로 얘기한다.	Sonya pats me on the shoulder, as if she had just departed with some great wisdom.	
+66	小怜	（还有这种不要脸的自我解读吗？）\n（以及我怎么好像被强行归类了！）	（有這種不要臉的自我解讀嗎？ ）\n（還有，我怎麼好像被強行歸類了！ ）		（이렇게 뻔뻔하게 자신을 설명하다니？）\n（왜 날 같은 취급하는 거냐！）	(What kind of interpretation is that?)\n(And does this mean that she thinks I’m abnormal too?)	
+67	索娅	欧洲人认为萝莉控变态，可能只是因为他们都喜欢丰满的女性而已，比如──	歐洲人認為蘿莉控變態，可能只是因為他們比較喜歡豐滿的女性吧，比如──		유럽인들이 로리를 변태라고 여기는 건 그들이 풍만한 여성을 좋아하기 때문이야. 예를 들어──	The reason Europeans find those with lolicon complexes abnormal is probably that the average European likes women with big breasts better. For example...	
+68	N/A	索娅顺势将手移到我的胸前捏了捏。	索婭順勢將手移到我的胸前捏了捏。		소야가 나의 가슴을 꼬집는 손동작을 한다.	Sonya moves a hand onto my breast and pinches a nipple.	
+69	小怜	欸？	欸？		엣?	Huh?	
+70	N/A@女性的声音	看来还不是很成熟呢。	看來還不是很成熟呢。		성숙해 보이지는 않네.	Not very ripe yet, huh.	
+71	N/A	我们身后传来一个熟悉的声音。	一個熟悉的聲音從我們身後傳來。		우리 뒤에서 익숙한 목소리가 들린다.	A familiar voice comes from behind us.	
+72	小怜	贝、贝阿特丽切？！\n你怎么在这……	貝、貝阿特麗切？ ！\n妳怎麼會在這……		베, 베아트리체？！\n네가 왜 여기에……	B-Beatrice?\nWhat are you doing here?	
+73	贝阿特丽切	好久不见了，小可爱──	好久不見了，小可愛──		오랜만이야. 귀염둥이──	It’s been a while, cutie!	
+74	索娅	哇──！！	哇──！ ！		와──！！	Waah!	
+75	N/A	索娅看着贝阿特丽切的胸部就要扑过去，被我一把薅住。	索婭看著貝阿特麗切的胸部就要撲過去，卻被我一把抓住。		소야가 베아트리체의 가슴을 보고 뛰어가려다 내게 붙잡혔다.	Sonya is about to make a flying leap onto Beatrice’s chest, but I yank her back just in time.	
+76	索娅	放、放开我！	放、放開我！		놔, 놔!	L-let go of me!	
+77	索娅	这个人和小怜的味道一样干净，但是大得多──	這個人和小憐的味道一樣乾淨，但是大很多──		이 사람, 렌처럼 깨끗한 냄새가 나! 그런데 엄청 커──	She smells as pure as Ren, but hers are much bigger...	
+78	N/A	什么大得多啊！！！	妳夠了喔！ ！！		뭐가 크다는 거야！！！	Shut up!	
+79	N/A	贝阿特丽切优雅的理了理头发，顺便调整了一下紧绷的衬衫。	貝阿特麗切優雅地整理了頭髮，順便調整了一下緊繃的襯衫。		베아트리체가 우아하게 머리를 만지고 터질 것 같은 셔츠를 정리한다.	Beatrice simply flips her hair elegantly and adjusts her tight shirt.	
+80	贝阿特丽切	莉琉要我暗中跟踪并保护你们。	因為莉琉要我暗中跟蹤並保護妳們啊。		마리루가 조용히 너희를 감시하라고 했어.	Mariru asked me to trail you in secret and keep you safe.	
+81	贝阿特丽切	其实全程不被发现挺困难的呢，尤其你们还遇到了那个瑟蕾莎……	要全程不被發現還挺困難的呢，尤其妳們還遇到了那個瑟蕾莎……		사실 들키지 않으려고 꽤 애를 먹었어. 특히 세레사를 만났을 때……	It was pretty hard to stay out of sight all afternoon! Especially since you guys ran into that Theresa...	
+82	小怜	跟、跟踪？	跟、跟蹤？		가, 감시?	Trail us? In secret?	
+83	索娅	从什么时候开始的？我都没察觉到……明明是这么甜美的气味！	從什麼時候開始的啊？ 我都沒發現……明明是這麼甜美的氣味！		언제부터? 전혀 몰랐는데……이렇게 달콤한 냄새가 나는데도 말이야！	Since when have you been following us? I didn’t even notice... even though you smell so sweet!	
+84	N/A	索娅被我拉着脖领，像小狗一样拼命将鼻子探向贝阿特丽切。	索婭被我拉著衣領，只能像小狗一樣拚命將鼻子往貝阿特麗切探去。		소야가 뒷목을 붙잡힌 채 강아지처럼 코를 움직여 바이트리체를 탐색한다.	Sonya leans close to Beatrice, sniffing like an eager puppy who’s being held back at the collar (I’m the one holding the collar).	
+85	贝阿特丽切	从今天下午开始，我一直都在你们附近。	今天下午開始，我就一直都在妳們附近。		오늘 오후부터 줄곧 너희들 근처에 있었어.	I’ve been following you since this afternoon.	
+86	N/A	贝阿特丽切妩媚的一笑，我觉得脸颊有些发烫。	貝阿特麗切嫵媚一笑，我覺得臉頰開始發燙。		베아트리체가 사랑스럽게 웃자 두 볼이 타오르는 것 같다.	Beatrice smiles, all refined and classy, and I can’t help but blush.	
+87	N/A	似乎她最近确实在帮SID处理一些“特殊事务”。	她最近似乎都在幫SID處理一些「特殊事務」。		그녀는 요즘 SID을 도와 “특별 임무”를 수행하고 있다.	It’s true that I’ve heard that she’s been helping out with some “special affairs” at the SID.	
+88	N/A	这位自称死于700多年前的姐姐，是我在天空酒店通过拉斐尔家的挂坠召唤出的魔女。	這位自稱死於700多年前的姐姐，是我在天空酒店透過拉斐爾家的墜飾召喚出來的魔女。		700년 전에 죽었다고 자칭하는 이 누나는 스카이 호텔에서 라파엘의 펜던트로 소환된 마녀다.	This lovely lady who claims to have died more than seven hundred years ago is a witch whom I summoned using the pendant from Raphilia’s family in the Sky Hotel.	
+89	N/A	据说贝阿特丽切身上带有会让所有异性迷恋自己的『诅咒』。	據說貝阿特麗切身上帶有會讓所有異性迷戀自己的「詛咒」。		베아트리체의 몸에 이성을 유혹하는 『저주』가 있다고 들었다.	It’s said that Beatrice is victim of a “curse” that makes all humans of the opposite gender fall in love with her.	
+90	N/A	一定是因为那个诅咒的缘故，害我每次见到她都会慌张的不知所措……	一定是因為那個詛咒的關係，害我每次見到她都會慌張到不知所措……		그 저주 때문인지 매번 그녀를 볼 때마다 어떻게 해야 할지 모르겠다……	I feel so nervous every time I see her. Must be because of that curse.	
+91	小怜	等等，那我们俩刚才被拘留──	等等，那我們倆剛才被拘留──		잠깐, 그럼 우리가 유치장에 갇혔을 때도──	Wait... when we were held in the police station—	
+92	贝阿特丽切	你们刚被捕我就联系了莉琉，但她可能在忙别的或者处在信息屏蔽区域，一直没有回复……	妳們一被逮捕我就聯絡了莉琉，但她可能在忙別的或者收不到訊息，一直沒有回覆……		너희들이 잡혀갔을 때 마리루에게 연락했지만 연락이 되지 않았어. 계속 답신도 없었고……	I contacted Mariru as soon as you got arrested, but she seemed to be either busy or in some place with bad signal and didn’t reply to my message.	
+93	贝阿特丽切	我判断有索娅在，你们两个应该很快就能脱身，于是就留在了这边继续监视伊露卡。	我想，既然有索婭在，妳們應該很快就能脫身，所以就留在這邊繼續監視伊露卡。		소야가 있으니까 빨리 탈출할 거라고 생각했어. 그래서 이곳에서 계속 이루카를 감시했어.	I decided that you two should be able to escape soon anyway since Sonya was there, so I stayed here and kept watch on Elluka.	
+94	小怜	那个…伊露卡到底是怎么跑到那上面的？	那……伊露卡到底是怎麼跑到那上面的？		저기…이루카는 도대체 왜 저기 있는 거야?	Uh... so how did Elluka get up there?	
+95	N/A	我和贝阿特丽切对话的时候总是视线游离，实在不知把目光落在哪里好。	我和貝阿特麗切對話時總是視線飄移，實在不知該把目光放在哪裡好。		베아트리체와 얘기할 때 시선을 회피하고 있다. 눈을 어디에 둬야할지 모르겠다.	When talking to Beatrice, I never know where to look—somehow, I’m too flustered to meet her eye.	
+96	N/A	而索娅已经放弃挣扎，开始饶有兴致的观察起我的表情来，真是烦人！	而索婭已經放棄掙扎，開始興致盎然地觀察著我的表情，煩死人了！		소야가 발버둥을 멈추고 흥미롭게 나의 표정을 관찰한다. 귀찮은 녀석!	Sonya, on the other hand, is studying my expressions with much interest. Why is that brat so annoying?	
+97	贝阿特丽切	索娅把你按在墙上的时候，那个小朋友就跟着一个送外卖甜品的人跑了。	索婭把妳按在牆上的時候，那孩子就跟著一個甜點外送員跑了。		소야가 널 벽으로 끌고 갈 때 저 꼬마가 디저트 배달원을 따라 달려갔어.	When Sonya was holding you against the wall, that child sneaked off to follow a guy selling dessert.	
+98	贝阿特丽切	你们啊……唉。	妳們兩個啊……唉。		너희들……에휴.	You two...	
+99	N/A	贝阿特丽切语重心长的叹了口气，怎么说的好像我们在做什么奇怪的事情似的！	貝阿特麗切語重心長地嘆了口氣，這口氣怎麼好像我們做了什麼奇怪的事情啊！		베아트리체가 의미심장하게 한숨을 쉰다. 우리가 이상한 짓이라도 한 것 같잖아! 	Beatrice sighs heavily, as if we’re totally hopeless. Which we aren’t. I didn’t even do anything wrong!	
+100	贝阿特丽切	后来伊露卡去了你们下午去的甜品店，老板不仅免单，还介绍她作今晚宣传活动的演员。	後來伊露卡去了妳們下午去的甜點店，老闆不但請客，還介紹她來今晚的宣傳活動打工。		이루카가 오후에 갔던 디저트 가게에 갔고 사장님이 무료로 디저트를 주면서 이벤트를 소개해줬어.	After that, since Elluka couldn’t find you two, she went to the dessert shop you ate at this afternoon. The shopkeeper not only let her eat for free but also gave her a role in tonight’s promotional event.	
+101	小怜	（没想到那个有点谢顶的老板这么有眼光！）	（沒想到那個微禿的老闆這麼有眼光！ ）		（그 대머리 사장님이 이렇게 안목이 있을 줄이야!）	(Wow, that bald shopkeeper’s got a good eye for potential crowd-favorites!)	
+102	贝阿特丽切	因为不熟悉她，一开始我认为只是小孩子贪吃，但现在看来确实有些不对劲……	因為對她不熟悉，一開始我以為只是小孩子貪吃，但現在看來確實有些不對勁……		난 이루카를 잘 모르니까, 그저 식탐이 많은 아이인 줄 알았는데 확실히 뭔가 이상해……	I wasn’t familiar with Elluka, so I assumed she just really liked sweets. But now that I’m looking at her, something’s indeed not right...	
+103	贝阿特丽切	索娅没有看出什么问题？	索婭沒有看出什麼問題？		소야, 너는 이상한 점 못느꼈어?	You can tell, too, right, Sonya?	
+104	索娅	并没有──	沒有耶──		전혀──	Not really...	
+105	N/A	索娅看向伊露卡的方向。	索婭看向伊露卡。		소야가 이루카가 있는 방향을 쳐다본다.	Sonya looks up in Elluka’s direction.	
+106	索娅	没有被胁迫，没有被下药。	沒有被脅迫，沒有被下藥。		협박을 당하지도 약을 먹지도 않았어.	She doesn’t seem to have been threatened or drugged.	
+107	索娅	没有不适或痛苦的感觉，行为完全符合自身的心智和欲望。	沒有不適或痛苦，她的行為完全符合自身的心智和慾望。		불편하거나 고통스런 느낌도 없고 자신의 마음과 욕망을 따르고 있어.	Doesn’t look hurt anywhere. Just acting upon her desires, in a manner that’s suitable for a child her age.	
+108	索娅	要说有什么问题的话，就是她吃的也太多了吧……	硬要說有什麼問題的話，就是她實在吃太多了……		문제가 있다면 너무 많이 먹는다는 거지……	The only unusual thing is that she’s sure eating a lot, but still...	
+109	贝阿特丽切	从刚才的新闻看，今晚协约非武装区里已经有6个区域的示威游行出现暴力冲突了。	從剛才的新聞看來，今晚協議非武裝區裡已經有6個區域的示威遊行出現暴力衝突了。		방금 뉴스에서 오늘 저녁 협의비무장지대 6개 구역의 시위대가 폭력 충돌이 일어났다고 해.	According the news, there’s already been violent clashes between protesters in six different areas in the Agreed Demilitarized Zone.	
+110	贝阿特丽切	虽然性质不同，但这里很可能会变成第7个。	雖然性質不同，但這裡很可能會變成第7個。		성질이 다르긴 하지만 이곳이 일곱번째 구역이 될 수도 있어. 	And this might become the seventh, even if there’s not really any conflict yet, just way too many people to be considered safe.	
+111	小怜	怪不得连军队都来了……\n那咱们得尽快带伊露卡离开！	難怪連軍隊都來了……\n那要趕快帶伊露卡離開了！		어쩐지 그래서 군대가 다 모였군……\n그럼 어서 이루카를 데리고 여길 떠나자!	No wonder the army’s here.\nWe’ve gotta leave with Elluka as soon as possible, then!	
+112	索娅	但想在那群人眼皮底下把人带走没那么简单吧？	但那群傢伙把她團團包圍，把人帶走沒那麼簡單吧？		하지만 저 많은 인파 속에서 이루카를 데리고 오는 게 그렇게 간단할까?	But how should we get past her crazy fans?	
+113	贝阿特丽切	我可以帮你们分散一下他们的注意力，但在人这么多的场合估计只能坚持30秒……	我倒是能分散一下他們的注意力，但在人這麼多的場合大概只能維持30秒……		내가 그들의 주의력을 분산시킬게. 하지만 이런 곳에선 30초 밖에 버티지 못할 거야……	I can help divert their attention, but there’s so many people around, so I probably won’t be able to keep them occupied for more than thirty seconds.	
+114	小怜	要怎么──	要怎麼──		어떻게──	How will you—	
+115	N/A	我的话还没问出口，就被贝阿特丽切打断。	我的話還沒問完，就被貝阿特麗切打斷。		말이 끝나기도 전에 베아트리체가 이어서 말한다.	Before I can finish my question, Beatrice interrupts.	
+116	贝阿特丽切	你们有没有发现这里的人有什么共通点？	妳們有沒有發現這裡的人有什麼共通點？		이곳에 모인 사람들의 공통점이 뭔지 알아？	There’s something all Elluka’s avid fans have in common.	
+117	索娅	他们都很兴奋？	他們都很興奮？		모두 흥분했다는 거?	They’re all... very excited?	
+118	N/A	贝阿特丽切抬起右手，微微一笑。	貝阿特麗切抬起右手，微微一笑。		베아트리체가 오른손을 들고 미소짓는다.	Beatrice smiles, raises her right arm.	
+119	贝阿特丽切	这群笨蛋，基本上都是男人啊——	這群笨蛋，基本上都是男人啊──		이 바보들이 거의 다 남자라는 거야——	No. These idiots—they’re all men!	

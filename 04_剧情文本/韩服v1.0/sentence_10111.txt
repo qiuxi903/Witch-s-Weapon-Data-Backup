@@ -1,0 +1,82 @@
+﻿1	莉琉	哟~这不是小怜嘛，刚刚成为名正言顺的美少女有什么感想吗？	喲~這不是小憐妹妹嘛，如何？ 成為名正言順的美少女後有什麼感想嗎？	おやおや～～レンちゃんじゃないか？\nどうだ名実共に美少女となったご感想は？	이야~렌이잖아~진정한 미소녀가 된 기분이 어때?	Look who’s here! How does it feel to officially become a girl, Ren?	
+2	小怜	……请不要再拿我开玩笑啦！	……請不要再拿我開玩笑了！	……もう、これ以上俺をからかわないでくれ！	……제발 그만 놀려!	… Stop making fun of me!	
+3	莉琉	嗯哼~对了，刚才看到你在假期结束后准备去另一所公立学校上高中？	嘖，對了，剛才看到妳在假期結束後準備去另一所公立高中上課？	ふふ～～ん、そうだ、休日が終わり次第、\n別の公立高校に編入するのはもう聞いたか？	으흥~아참，방학이 끝나면 다른 공립 학교에 입학한다며?	Alright alright. So, you wanna transfer to another public high school after the break?	
+4	小怜	是的，新学校离我住的地方比较近，还有就是…\n学分要求也没那么严…	嗯，新學校離我住的地方比較近，還有就是…\n對學分的要求也沒那麼嚴…	聞いたよ。新しい学校は俺が住んでいる\n場所からもかなり近いし、それに……\n単位の要求もそんなに厳しくない……	맞아. 내가 사는 곳과 가깝기도 하고…\n학점 조건도 높지 않아서…	Yeah, the new school is closer to my place, and… \n It's easier to earn course credits…	
+5	莉琉	出于安全考虑，我会给你安排一个新的住所。\n至于学校嘛……	為了安全起見，我會替妳安排新的住所。 \n至於學校嘛……	安全面を考慮し、住居は新しく手配する。\n学校に関してはだが……	안전을 고려해서 너에게 새로운 숙소를 제공할게.\n학교는 말이지…	For your safety, I need to arrange a new place for you to live. \n As for school…	
+6	莉琉	（看来要去拜托那个老家伙了）	（看來得去拜託那個老傢伙了。 ）	（ふん、あの老いぼれに頼むしかなさそうだな）	（그 녀석에게 부탁해야겠군）	(Looks like I must ask a favor from that old geek.)	
+7	莉琉	（想想就觉得麻烦……还好信息已经被修正的非常完美了……）	（想到就覺得麻煩……還好跟她有關的資訊已經修正到非常完美了……）	（考えるだけでも面倒くさいが……すでに情報の　完璧な修正が施されているのは幸いか……）	（생각만 해도 골치 아파……그나마 정보가 완벽하게 수정되서 다행이야……）	(Hate it… But at least, we’ve had a perfect makeover…)	
+8	莉琉	御樱川女子中学，这所学校有最高的安保等级，而且离SID总部也不远。	御櫻川女子中學，這所學校有最高的保全等級，而且離SID總部也不遠。	御桜川女子高等学校、あの学校のセキュリティは最高クラスで、SIDの本部からもそう遠くない。	사쿠라가와 여자 고등학교. 보안 등급이 가장 높고 SID본부와도 멀지 않아. 	Gosakuragawa Girls' High School—top security level and quite close to the SID headquarters.	
+9	N/A	莉琉边说边向上指了指。	莉琉邊說邊向上指了指。	マリルはそう言いながら上を指差す。	마리루가 위를 가리킨다.	Mariru points up as she speaks.	
+10	N/A	御樱川，在地下总部上方的繁华商区，据说是一座学费贵得吓死人的高级学校。	御櫻川，位於地下總部上方的繁華商業區，據說是一座學費貴得嚇死人的高級學校。	御桜川は地下本部の上、\n商区繁華街に位置する学校だ。\n特徴としては学費が死ぬほどセレブリティ。	사쿠라가와는 지하 본부 위 번화한 상업지구에 있다. 학비가 어마무시한 고급 학교다. 	Gosakuragawa, a bustling commercial district right above this underground headquarters. This school tuition is said to be a massive rip-off.	
+11	小怜	那、那不是大小姐高校吗！传说中“圣洁的百合与灿烂的樱花盛开的天国”……	那、那不是大小姐高中嗎！ 傳說中「聖潔的百合與燦爛的櫻花盛開的天國」……	そ、そこってお嬢様高校じゃないか！　伝説では\n「聖なる百合と燦爛たる桜が咲く天国」──	아가씨들만 다니는 학교잖아！전설 속 "성결한 백합과 찬란한 벚꽃이 피는 천국"…	Oh, that school for rich girls?! I know it, it's the legendary "paradise of pristine lilies and cherry blossom".	
+12	小怜	这是某个经常宕机的破论坛外野，为讽刺御樱川高昂学费而撰写的广告语。	也就是某個經常當機的破論壇，為諷刺御櫻川高昂學費而寫的廣告詞。	某インターネット掲示板で誰かが、御桜川の高い学費を皮肉るために作ったキャッチコピーだ。	자주가는 사이트의 저질 게시판에서 사쿠라가와의 비싼 학비를 풍자려고 쓴 광고 문구지.	It's a made-up slogan to make fun of the ridiculous tuition, which went viral on a cranky BBS.	
+13	莉琉	你说什么？	妳說什麼？	何か言ったか？	뭐라고?	What are you talking about?	
+14	小怜	没没没没！	沒有，我什麼都沒說！	いいい、いいえっ！	아니，아니야!	Oh, nothing!	
+15	莉琉	不过你这个蠢样，搞不好会成为学姐学妹们的……	不過就妳這蠢樣，搞不好會成為學姐學妹們的……	しかしこのおバカが、\n先輩や後輩になるかもしれないのか……\nお姉様や妹やらに……	하지만 너 같은 바보는 잘못했다간 선후배들 사이에서…	Stop being such an idiot, or else the girls in the school will…	
+16	N/A	莉琉轻轻一笑，并没有说出下文。	莉琉輕輕一笑，並沒有把話說完。	マリルは軽く微笑んだが、それ以上は何も\n語らなかった。	마리루가 웃으며 다음 말을 하지 않는다.	Mariru giggles, without explaining why.	
+17	小怜	会成为什么啊！？	會成為什麼！ ？	一体、何になるんだよっ！？	사이에서 뭐!?	What will they do?!	
+18	莉琉	现在可不是好奇心发作的时间。\n总之明天，你就去乖乖报到。	現在不是好奇心發作的好時間喔。 \n總之，明天妳就乖乖地去報到。	今は好奇心に身を任せる時じゃない。\nとにかく、明日はちゃんと学校に行け。	지금은 호기심을 발산할 때가 아니야.\n어쨌든 내일，얌전히 등교하도록 해.	You'll know very soon. \n You'll report to school tomorrow.	
+19	莉琉	那里可没公立学校那么散漫。	那裡可沒有公立學校那麼散漫。	あそこの気品の高さや厳格さは、\n普通の公立高校と比べ物にならないからな。	그곳은 공립학교처럼 방만하지 않을 거야.	Just a word of advice… don’t expect any free-range like the one you attend.	
+20	小怜	就不能让我悠闲一点吗 _(:3」∠ )_	都突然變成女生了，就不能讓我暫時放鬆一下嗎？ _(:3」∠ )_	少しはのんびりさせてください _(:3」∠ )_	조금만 쉬게 해줄 수 없어? _(:3」∠ )_	Ugh… Can’t you give me a break…_(:3」∠ )_	
+21	小怜	……啊对了，安妮怎么办？	對了，那安妮呢？	……あ、そうだ、アニーはどうするの？	……아참，앤은 어떡해?	… So, what about Annie?	
+22	莉琉	那丫头啊，可是很有趣的身世呢。	那丫頭啊，她的身世也挺有趣的。	あの娘はな……かなり面白い身の上だぞ。	그 꼬맹이 말이야. 꽤 흥미로운 이력이 있더군.	Well, that girl's background is very interesting.	
+23	小怜	她……怎么了？	怎麼說？	彼女が、どうかしたの？	…어떤…?	What's wrong with her?	
+24	莉琉	系统中关于安妮·巴斯的记录，只能追溯到七年以前，也就是她15岁的时候。	關於安妮·巴斯的記錄，只能追溯到七年前，也就是她15歲的時候。	システム上、アニー・バースに関する記録は、\n7年前から以前の物だけ。\nつまり彼女の記録は15歳の時で止まっている。	앤 배스에 관한 기록이 7년 전에 멈췄어. 그녀가 15살 때 말이야.	The record of Annie Bass in the system can only be traced back to seven years ago, when she was 15.	
+25	小怜	七年前是…她已经22岁了？！\n明明看起来跟我差不多大啊。	七年前15歲…所以她已經22歲了？ ！\n欸？ 明明看起來就跟我差不多大啊。	7年前って……アニーは22歳なのか！？\n俺と変わらないように見えるのに。	7년 전이면…지금은 22살이란 말이야？！\n나와 비슷해 보이는데…	Seven years ago… She is 22 now? \n She looks like my age.	
+26	莉琉	是的，她现在的骨龄测定依然是15岁。	是的，但是她現在的骨骼年齡測定依然只有15歲。	そうだ、彼女の骨年齢は依然として15歳だ。	맞아. 하지만 골격 연령은 여전히 15살이야.	Exactly. Bone age assessment also estimates her at 15.	
+27	莉琉	但是这期间她究竟去了哪，为什么突然出现，目前为止没有人弄得清楚，包括她自己。	這七年間她究竟去了哪？ 為什麼突然出現？ 目前為止還沒有人弄得清楚，包括她自己。	この長い年月の間、彼女はどこへ行っていたのか\nなぜ突然現れたのか誰も分からない。\nそれは彼女自身も含めてな。	그동안 어디에 갔는지，어떻게 갑자기 나타났는지 아는 사람이 없어. 스스로조차도.	Where has she been during all these years? Why does she show up now? It’s still a question mark, including to herself.	
+28	小怜	……无论如何，我认为安妮不会是坏人。	……不過，我認為安妮不是壞人。	……どうであっても、\nアニーは悪いヤツじゃないと思う。	……어쨌든 앤은 나쁜 사람이 아니야.	… I don't think Annie is bad anyway.	
+29	莉琉	这倒可以放心。\n毕竟就连SID里，还有她曾经的粉丝呢。	這個妳倒可以安心。 \n畢竟就連SID裡，都還有她過去的粉絲呢。	その点に関して、心配の必要はないな。\n\nSIDの内部にも当時の彼女のファンだった奴が、\nいるからな。	그건 걱정 안 해.\nSID안에도 그녀의 팬이였던 요원이 있으니까.	Of course. \n She even has fans in SID.	
+30	小怜	呃？！安妮是什么偶像吗？	呃？ ！安妮是什麼偶像嗎？	え？！　アニーって何かのアイドルとかなの？	뭐?! 앤이 아이돌이였어?	What? So Annie is a celebrity or something?	
+31	莉琉	……应该属于“多年前的明星”这类范畴吧。	……應該屬於「過氣明星」這個範疇吧。	……まあ「あの有名人は今」のカテゴリーには、\n属するな。	……“몇 년 전 스타” 같은 범주에 속한다고 봐야지?	… Technically, she was a celebrity.	
+32	莉琉	不过比起她以前的身份，我更中意现在她的特别之处。	不過比起她以前的身分，我更中意現在的她。	しかし、私は過去の彼女よりも\n現在の彼女の特別な点を気に入っている。	하지만 이전 신분보다 특별한 점을 발견했어. 	Although compared to who she was, I like her better as she is now.	
+33	莉琉	本来『魔女』的资料就少到让人头疼……真是意外的收获。	本來「魔女」的資料就少得讓人頭疼……她還真是意外的好收獲。	元々『魔女』の資料は数えるほどしかない\nというのに、意外な収穫だ。	『마녀』에 대한 자료가 너무 부족해서 골치가 아팠는데……의외의 수확이야.	We've barely got any information about witches… She is such a pleasant surprise. 	
+34	小怜	魔女……那又是什么？	魔女……那又是什麼？	『魔女』……それって？	마녀…그건 또 뭐야?	A witch… What's that?	
+35	莉琉	嗯…简单说，可以认为是因为感染了某种信息，而获得了一些类似『异质物』特性的人类。	簡單來說，是因為吸收了某種資訊，而獲得了類似「異質物」特性的人類。	……簡単に言うと、ある種の情報に汚染され、\n疑似的な『異質物』の特性を取得した人間だ。	음…간단히 말하자면 어떤 정보에 감염되어서 『이물질』 특성 같은 것을 획득한 인간이야. 	Well… Simply put, any human who receives certain Substance H properties as a result of information contamination.	
+36	莉琉	就像人们对目前的科学无法解释的『异质物』的奇异特性称呼为『神迹』。	就像人們會將目前科學無法解釋的「異質物」特性稱為「神蹟」。	現代科学では解明できない『異質物』の奇妙な\n特性を『聖痕』と呼んでいるように。	인간이 현재 과학으로 설명할 수 없는 『이물질』의 기이한 특성을 『기적』으로 부르는 것과 같아.	People call Substance H the Divine Touch for their peculiar features that have no scientific explanation by far.	
+37	莉琉	在普通人看来，如果有人可以表达这种特性，简直可以称为『魔法』吧。	在普通人眼裡，如果有人可以展現這種特性，就算是「魔法」了吧。	一般人が表現するのならそれを『魔法』とでも\n呼ぶのではないだろうか。	일반인들은 이런 특성을 그냥 간단히 『마법』이라고 부르는 거지.	For ordinary people, these features are like magic. 	
+38	小怜	魔法…应该只是我们还不理解的科学吧……	魔法……應該只是我們還不理解的科學吧……	魔法……俺達が、まだ解明できていない\n科学ってだけの話じゃ……	마법…우리가 아직 이해할 수 없는 과학이겠지……	Magic… I think it’s science. We just can't explain it now. 	
+39	莉琉	你想这样理解也没问题。	妳想這樣理解也沒錯。	そのように理解してもらっても差し支えないな。	그렇게 생각해도 문제 없어.	Maybe.	
+40	N/A@莉琉	本来历史上有很多关于『魔女』的记载，但一直被当做迷信和传说。	本來歷史上就有很多關於「魔女」的記載，但一直被當做迷信和傳說。	『魔女』の記述は歴史上数多く存在していたが、\nいずれも迷信や伝説として扱われ続けてきた。	역사에 『마녀』의 기록이 있지만 줄곧 미신과 전설로 치부됐어.	There are many historical records about witches, but they have always been taken as myths or legends.	
+41	N/A@莉琉	历史上欧洲人曾在三百多年的时间里，以『魔女』的名义处决了近十万名女性。	過去歐洲就曾在長達三百多年的時間裡，以「魔女」的名義處決了近十萬名女性。	例えばヨーロッパでは300年余りの間、\n『魔女狩り』と称して10万人に及ぶ女性達が、\n処刑されてきた歴史が存在する。	유럽인들은 300년이 넘는 시간 동안 『마녀』의 명목으로 십만 명 가까운 여성을 처형했어. 	In Europe, nearly ten thousand women were executed for witchcraft within a period of 300 years.	
+42	N/A@小怜	『魔女狩猎』运动，历史课上有学……	「魔女狩獵」運動，歷史課上有學……	『魔女狩り』…歴史の授業で学んだ事がある……	『마녀 사냥』，역사 수업에서 배운 적 있어……	It's the Witch's Hunt. I learned about it in history class.	
+43	N/A	虽然当时我只是当做无聊的考点，但仔细想来，的确是一场规模庞大到不正常的浩劫……	雖然當時我只是當做無聊的考試內容，但仔細想來，的確是一場規模異常龐大的浩劫……	当時は退屈な歴史問題だと思っていたが、考えてみれば、大規模かつ不自然な災難だった……	당시에는 시시한 내용이라고 생각했지만 자세히 생각해보니 대규모의 비정상적인 재앙이였다.	Although they were just numbers to me back then. But if you think about it, that's really an unthinkable catastrophe…	
+44	莉琉	『异质物』被发现以来，各国都在重新审视那些传说的真实性。	「異質物」被發現以來，各國都在重新審視那些傳說的真實性。	『異質物』が発見されて以来、各国は様々な伝説の真実性を改めて見直している。	『이물질』이 발견되고 나서 각국이 그 이야기 속의 진실성을 다시 살펴보았지.	Ever since the discovery of Substance H, countries have started to re-examine these legends.	
+45	莉琉	最近有传言说某些组织重新制造了魔女，并用于特务活动。	最近甚至傳說某些組織重新製造了魔女，還用在特務活動。	最近とある組織が再び魔女の「生産」に成功し、\nスパイ活動に編入しているという噂もあるな。	최근 어떤 조직이 마녀 제작에 성공해 특수 임무 활동에 이용하고 있다고 들었어.	Recently, there're rumors that some organizations have re-invented witches for spying.	
+46	莉琉	不过好在安妮能爽快的答应加入。	不過好在安妮能爽快地答應加入。	しかし、アニーが快く引き受けてくれて\nよかったよ。	그치만 앤은 흔쾌히 가입하겠다고 하던데.	But luckily, we got Annie on board.	
+47	小怜	加入什么？	加入什麼？	引き受けるって、何を？	어딜 가입해?	On board what?	
+48	莉琉	成为SID探员。	成為SID探員。	SIDの捜査員だ。	SID요원.	The SID, as an agent.	
+49	莉琉	从明天起，她就要开始替我办事了。	從明天起，她就要開始替我辦事了。	明日から、彼女は私の部下になるぞ。	내일부터 날 대신에 일을 처리할 거야.	From tomorrow on, she'll be reporting to me.	
+50	小怜	那怎么行！SID探员的工作想想就知道太危险了！	那怎麼行！ SID探員的工作不用想就知道很危險！	そ、そんなのダメだって！\nSIDの捜査員は危険過ぎる！\n考えれば分かる事じゃないか！	아니! 어떻게 그럴 수가 있어! SID요원의 일은 상상만으로도 너무 위험하다고!	No way! It's too risky for her!	
+51	小怜	而且她和我一样才15岁，不能做什么探员吧……	而且她和我一樣才15歲，不能做什麼探員吧……	それに彼女は俺と同じ15歳だし、\n捜査員の仕事なんてできるわけが……	그리고 앤은 이제 겨우 15살이야. 요원같은 건 할 수 없는 나이라고…!	She's just a 15 year-old kid like me. She can't be an agent.	
+52	莉琉	哼哼，我们目前最小的探员只有13岁。	哼哼，我們目前最小的探員只有13歲唷。	ふん、こちとら最年少の捜査員は13歳だ。	우리 최연소 요원은 13살 밖에 되지 않았어. 	Well… Our youngest agent is only 13 years old.	
+53	小怜	13岁？！非法的吧！！\n那一定是非法的吧！！？	13歲？ ！這是違法的吧！ ！\n那根本就是童工啊！	13歳っ！？　違法だろう！！\n違法に決まってるっ！！	13살？！불법이지?！\n분명 불법일 거야! !	Thirteen? That's illegal! \n Right?!	
+54	莉琉	以后有机会见到她你就不会这么想了。\n那孩子可远比你这个笨蛋要聪明得多。	如果有機會見到她，妳就不會這麼想了。 \n那孩子可比妳這個笨蛋要聰明得多。	会う機会があれば、考えを改めると思うぞ？\nあの子は少なくとも、お前より大分賢いからな。	나중에 만나게 되면 그런 생각은 안 들 걸?\n그 아이는 너 같은 바보보다 훨씬 똑똑하거든. 	You won't say that if you see her later. \n That kid is way smarter than you.	
+55	小怜	……哼	……哼！	……ムゥ…	……흥	… Humph.	
+56	N/A	作为新丰洲市民，我当然知道现在各个学园都市虽然表面上停火，但都在暗中较量。	作為新豐洲市民，我當然知道雖然目前各個學園都市表面上維持和平，其實暗中都在較量。	現在、各学園都市は表面上は停戦しているが、\n本当に表面上だけであると言う事も、\n新豊洲の市民としては、もちろん知っている。	학원도시들이 표면상으로 휴전을 선포했지만 암암리에 겨루고 있다는 걸 알고 있다.	As a New Opulentian, of course I know all Academy Cities have been competing under what appears to be a truce.	
+57	N/A	而且埃癸斯的护盾对生化武器和渗透式的恐怖袭击是无效的。	而且埃癸斯的護盾無法抵抗生化武器和滲透式的恐怖攻擊。	イージスのフィールドは極めて優秀だが、\n万能な道具では決してない。\n例えば生物兵器や浸透式のテロには無力だ。	게다가 아이기스의 쉴드는 생화학 무기와 침투식 테러 습격에는 효과가 없다. 	Aegis's shield is powerless against biochemical weapons or terrorist infiltration.	
+58	N/A	为了维护这座城市，可以想象莉琉与SID在暗中经历了多少殊死的激烈战斗。	為了保護這座城市，可以想像莉琉與SID在暗中經歷了多少激烈的殊死戰。	この都市を守るために、マリルやSIDが\nどれだけ見えない所で死闘を繰り広げて来たか、\n想像に難くない。	이 도시를 지키기 위해 마리루와 SID는 암암리에 목숨을 건 격렬한 전투를 겪었을 것이다. 	Mariru and SID must have undergone so many dreadful battles to protect this city.	
+59	莉琉	哦对了，安妮表面的身份，是和你一起入学的转学生。	哦，對了，安妮的身分是和妳一起入學的轉學生。	あ、そうだ、アニーも表向きはお前と一緒に\n入学する転校生だ。	아참，앤의 표면상 신분은 너와 함께 입학한 전학생이야. 	Oh, remember, Annie will also pose as a transfer student. She will go to the school with you.	
+60	莉琉	我给你们安排在同一个套间，制服和其他日常物品，一小时内都会送达。	我給妳們安排在同一個房間，制服和其他日常物品都會在一小時內送達。	同じスイートルームで生活してもらう。制服や\n日常品その他は1時間以内に全て届けさせよう。	같은 기숙사로 배정해뒀어. 교복과 일상용품은 한 시간 안에 도착할 거야. 	You two will share an apartment. I will send uniforms and other daily items to you in an hour.	
+61	莉琉	不要讨价还价。	不要討價還價。	後の足りない物は、自分で用意してくれ。	더 이상 시시콜콜 따지지 마.	No bargains.	
+62	小怜	我明白……	我明白……	分かった……	알았어…	Got it…	
+63	N/A	我当然明白，这样没有什么不好。\n不，是比以前的生活会舒适太多了。	我當然明白，這樣沒有什麼不好。 \n不，是比以前的生活好太多了。	分かっている、条件は何も悪くない。\nいや、むしろ前の暮らしよりも快適だ。	이러면 나쁠 게 없다는 걸 알고 있다.\n아니，예전 생활보다 더 안락하겠지.	I know it's not a bad idea. \n To be honest, it's much more comfortable than my life in the past.	
+64	N/A	只要让SID解决一切问题就好。\n只要继续浑浑噩噩地在贵族学校混学分就好。	只要讓SID解決一切問題就好。 \n只要繼續渾渾噩噩地在貴族學校混學分就好。	問題なんて、SIDに全て解決してもらえばいい。\n名門学校で楽に単位にありついていればいい。	SID가 모든 걸 해결하게 두자.\n적당히 귀족 학교에서 학점이나 따면 돼.	Let SID fix all these. \n I'll just idle my days away in this expensive private school.	
+65	N/A	然后只要试着习惯这个新身体就好……吗？	然後只要試著習慣這個新身體就好……這樣嗎？	そして、この新しい身体に慣れればいい…のか？	그리고 새로운 몸에 적응만 하면……되는 걸까?	And everything will be fine if I try to get used to this new body… Would that work? 	
+66	小怜	……不。	……不。	……ダメだ。	…아니.	… No.	
+67	莉琉	嗯？	嗯？	ん？	응?	Hm?	
+68	N/A	就算什么也不明白，可我不想让安妮一个人面对这种危险。	就算什麼也不明白，我也不想讓安妮一個人面對這種危險。	現在の状況は不安が募るばかり。\n\nだけど、アニー1人だけが危険に晒されて、\nそれでいいのだろうか？	아무것도 모르지만，앤 혼자서 위험을 감수하게 둘 수는 없다. 	Maybe I know nothing… but I don't want to leave Annie alone to face all the dangers.	
+69	N/A	在相遇的那一刻，出现在我面前的安妮。\n虽然看似镇定，却透露出一丝惶恐。	相遇的那一刻，出現在我面前的安妮\n雖然看似鎮定，卻透露出一絲惶恐。	俺とアニーの突然の出会い。\n彼女は落ち着いた素振りではあったが、\n少しだけ動揺も見せていた。	처음 만난 그 순간 내 눈 앞에 나타난 앤은\n아무렇지 않은 척 했지만 두려워 보였다.	When I first met Annie, \n She appeared calm, but I could see fear in her eyes.	
+70	N/A	她其实……也很害怕吧？	她其實……也很害怕吧？	彼女もきっと……怖かったのでは？	그녀도 사실은…무서운 게 아닐까?	She must be terrified…	
+71	小怜	……莉琉姐，如果你不反对我这么称呼你…\n我也想帮忙！	……莉琉姐，如果妳不反對我這麼稱呼……\n我也想幫忙！	……マリルさん、あなたが反対しないなら\n俺も手伝いたいッ！	……마리루 언니! 이렇게 부르는 걸 반대하지 않는다면! 나도 도울게! 	… Mariru, if you don't mind me calling you like this… \n I would like to help!	
+72	莉琉	哈啊？！	蝦密？ ！	はあッ！？	하아？！	Hah?!	
+73	小怜	……我想…既然我有能力穿越那个飓风，应该也能在SID帮上点其他什么忙！	……我想…既然我有能力穿越那個暴風，也許能幫上點忙！	……俺に……あの台風を乗り越える能力が、\nあるのなら、SIDで何か役に立てるはず！	……그… 허리케인을 통과하는 나의 능력이 SID에게 뭔가 도움이 될 수 있을 거라 생각해!	… Maybe I can help SID since I was able to pass through that hurricane.	
+74	莉琉	那不是飓风，是时空相位波动……	那不是暴風，是時空相位波動……	あれは台風じゃない、時空位相波動だ……	그건 허리케인이 아니라 시공 상위 파동이야…	That’s no hurricane. It's a Spacetime Flux…	
+75	小怜	总之，我不能让安妮独自面对危险。	總之，我不能讓安妮獨自面對危險。	とにかく、アニーを1人で危険に晒すなんて\nできないよ。	어쨌든，앤 혼자서 위험을 감수하게 두고 싶지 않아.	Well, anyway, I just can't let Annie face all the dangers alone.	
+76	小怜	说不定，还能有机会找到变回男孩子的办法……	而且說不定，還有機會找到變回男孩子的方法……	もしかしたら、男に戻る方法だって\n見つかるかもしれないし……	게다가，남자로 돌아갈 수 있는 방법을 찾을지도 모르고……	If I am lucky enough, I might be able to become a boy again…	
+77	莉琉	…但是以你的体质，应该连SID的清洁人员都打不过。	老實說，以妳的體質，應該連SID的清潔工都打不過。	……だがお前の戦闘力では、\nSIDの清掃員にすら勝てないぞ。	…하지만 네 체력으로는 SID의 청소부도 이길 수 없어.	… But you're just too weak. I bet you can’t beat a SID janitor.	
+78	小怜	额……\n（你请了怎样的清洁工啊！扫地僧吗？！）	呃……\n（妳到底請了什麼樣的清潔工啊！ 少林掃地僧嗎？ ！）	えっ……\n（どんな清掃員を雇ってるんだよっ！）\n（違う意味のスイーパーか！？）	윽……\n（어떤 청소부를 고용했길래! 마당 쓰는 스님인가？！）	Uh… \n (Who's your janitor? Kung Fu Panda?)	
+79	莉琉	……这样吧，让你尝试一下SID的学员训练，以后就算遇到什么危险，好歹能提升存活率。	……這樣吧，讓妳嘗試一下SID的學員訓練也行，這樣就算以後遇到什麼危險，好歹也能提高存活率。	……そうだな……こうしよう。今後何か危機が\n迫っても、生存率を上げられるように、\nお前にはSIDの候補生訓練を受講してもらう。	…이렇게 하자. SID 후보생 훈련을 받아봐. 위험이 생겼을 때 생존율을 높일 수 있을 거야.	… Alright, why not try SID cadet training first. It could probably save your life if something goes wrong.	
+80	莉琉	身份的话，就作为四级探员（候选）吧。	身分的話，就從四級探員（候選）開始吧。	それならば身分も四級捜査員（候補）としよう。	신분은 4급 요원(후보생)이야. 	And you will be a Grade 4 agent on probation.	
+81	小怜	好的！我会努力的！	好！ 我會努力的！	ありがとうっ！　頑張るよ！	좋아! 노력할게!	Thank you, ma'am! I'll do my best!	
+82	莉琉	（也好，看看能从这小家伙身上获取什么数据。）	（也好，看看能從這小傢伙身上獲得怎樣的數據。 ）	（まあいい、この子からどのようなデータが得ら　れるか、しばらく確認してみようか）	（그래，이 녀석의 몸에서 어떤 데이터를 얻을 수 있는지 지켜보자.）	(Well, let's see what data we can get from this kid.)	

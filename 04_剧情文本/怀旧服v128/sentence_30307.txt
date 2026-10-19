@@ -1,0 +1,144 @@
+﻿1	N/A	我本能的想要尽快离开这里，偷偷对小星尘使了个眼色，然后一言不发的朝着电梯大门走去。	我本能地想要盡快離開這裡，於是偷偷對小星塵使了個眼色，然後一言不發地朝著電梯大門走去。	本能的にここから離れたくなったので、\n俺はシンチェンに目配せをする。\nそれから一言も喋らないようにして\nエレベーターの扉へと向かった。		At this point, I just want to get out of here as quickly as possible. I signal Stardust, then walk toward the elevator.	
+2	N/A	她马上心领神会的小跑几步跟上来，留下在那里继续审问侍者的艾米莉欧。	她馬上心領神會地小跑步跟上，留下在那裡繼續審問侍者的艾米莉歐。	サインに気付いたシンチェンと共に、係員さんを\n尋問している少尉さんの元を後にする。		She immediately understands my intention and quickly catches up with me.	
+3	N/A	小家伙似乎从我略显僵硬的动作中察觉到了不安的情绪，轻轻蹭了蹭我的手腕。	小傢伙似乎從我略顯僵硬的動作中察覺到了不安的情緒，輕輕蹭了蹭我的手腕。	強張る俺の動作から不安を感じ取ったみたいで、\n彼女は俺の腕に身を寄せていた。		The small girl seems to feel my anxiety, so she rubs my wrist softly.	
+4	小星尘	（小声）呐呐……	（小聲）喏喏……	（小声）ねぇねぇ……		(whisper) Don't worry.	
+5	N/A	感到那从柔软肢体传来的温度，我的心境渐渐平静下来，默默拉住了她的小手。	我感覺到從那柔軟肢體傳來的溫度，心情漸漸平靜下來，默默拉住了她的小手。	柔らかな身体から伝わる温度のおかげか、\n心の乱れは徐々に平穏へと戻っていく。\n不安な顔をする彼女へ「大丈夫だよ」と\n教えるように、\n俺は黙って彼女の小さな手を掴んだ。		Feeling her soft hand and temperature, I gradually calm down, then I hold her hand.	
+6	小星尘	就像达成了某种默契般，她露出一个灿烂的笑容。	就像達成了某種默契般，她露出一個燦爛的笑容。	それが通じたのであろうか、彼女は鮮やかな\n笑顔を見せた。		We seem to have established a special bond between us. She starts to smile.	
+7	小星尘	说来奇怪，虽然是第一次见面，我却对她有种莫名的熟悉和亲切感。	說來奇怪，雖然是第一次見面，我卻對她有種莫名的熟悉和親切感。	不思議な話だ。初対面であるはずの彼女に対して\n言い得も知れない親近感が湧いてくるなんて。		It's uncanny—we just met, after all.	
+8	小星尘	而且刚才那些人，无论侍者还是士兵，为什么全都对她视若无睹呢？	而且剛才那些人，無論侍者還是士兵，為什麼全都對她視若無睹呢？	係員さんも兵士達も、なぜ彼女の事が\n見えないのだろう……？		Also, how come both the waiter and the soldiers completely ignored her?	
+9	N/A	在电梯里，我一边思考一边捏了捏小星尘软乎乎的脸，引起了她一阵抗议。	在電梯裡，我一邊思考一邊捏了捏小星塵軟軟的臉，引起了她一陣抗議。	考え事をしながらシンチェンのプニプニな\n頬を軽く弄り回した。\nエレベーターの中に彼女の抗議の声が響く。		Inside the elevator, I pinch her soft face as I try to figure this whole thing out. She doesn't like it.	
+10	小怜	（不过还好，这让人安心的触感和体温……）	（不過還好，這讓人安心的觸感和體溫……）	（なんか安心する感触と体温なんだよなぁ……）		(Her skin somehow calms me down...)	
+11	N/A	或许这孩子和贝阿特丽切的情况类似，有着某种自己无法控制的特殊能力吧？	或許這孩子和貝阿特麗切的情況類似，有著某種自己無法控制的特殊能力吧？	ベアトリーチェのような自分で制御できない\n特殊能力とかだったりして……		Maybe she's like Beatrice? They both have a special power they themselves don't even realize?	
+12	N/A	正当我胡乱猜测着种种可能性，电梯已经带我们回到了赌船的VIP区。	正當我胡亂猜測著種種可能，電梯已經帶我們回到了賭船的VIP區。	そんな可能性を頭の中に浮かべたところで、\nエレベーターはVIPゾーンへと到着した。		As I'm trying to sort out all the possibilities, the elevator takes us back to the VIP room.	
+13	N/A	随着厚重的电梯大门缓缓打开，我才意识到事态的严重性──	隨著厚重的電梯大門緩緩打開，我才意識到事態的嚴重性──	重厚なエレベーターの扉がゆっくりと開かれると\n俺はようやく事態の重大さを理解する。		As soon as the door opens, I realize how serious things have gotten.	
+14	N/A	几十名乘客和工作人员被装备自动武器的马萨达士兵控制在大厅，分成四人一组正接受安检。	幾十名乘客和工作人員被裝備自動武器的馬薩達士兵控制在大廳，分成四人一組正在接受安檢。	ロビーでは多くの乗客とスタッフ達が自動火器を\n持つマサダブルク兵士に見張られていた。\nどうやら強制的なセキュリティーチェックが\n4人1組で行われているみたいだ。		Dozens of guests and employees on the ship have been in the custody of Masada Ford soldiers. They're divided into four groups and waiting in line for the security check.	
+15	N/A	记录员拿着军用的平板设备，无视客人们的抗议挨个给他们拍照建档。	記錄員拿著軍用的平板裝置，逐一為乘客拍照建檔，完全無視乘客的抗議聲浪。	記録係であろう人間が乗客の抗議を無視して、\nタブレットで1人ずつ写真を撮影している。		A clerk is using a military tablet to take photos of all the guests despite their objections.	
+16	N/A	大厅的墙壁上挂着定向信号干扰装置，那些想打电话联系高层关系的客人们纷纷拿着手机一筹莫展。	大廳的牆壁上掛著定向訊號干擾裝置，那些想打電話聯繫高層關係的客人們，只能拿著手機一籌莫展。	壁には指向性の信号妨害装置が設置されていた。\n\n懇意の有力者に電話を掛けようとしても、\n電波が入らず客達は戸惑うばかり。		A jammer has been set up in the room to prevent the guests from making phone calls and pulling strings.	
+17	N/A	我的手机和耳机此时也收不到任何信号，小星尘看到这幅阵仗，本能的缩到了我身后。	我的手機和耳機此時也收不到任何訊號。小星塵看到這陣仗，本能地縮到了我背後。	確認したら俺の携帯とイヤホンも通じなく\nなっている。\nシンチェンは深刻な局面だと感じたのか、\n反射的に俺の後ろへと身を縮こませた。		My phone and earpiece can't receive any signals, either. Stardust is scared by what she sees and hides behind me.	
+18	N/A	大厅出口处，一个军官样子的人用扩音器宣读着接受安检时的注意事项。	大廳出口處，一個軍官模樣的人用擴音器宣讀著接受安檢時的注意事項。	そっとシンチェンを隠すように移動して、\n俺はロビーの出口を伺う。\nそこには軍官っぽい女性が通せんぼを\nするかのように、立ちはだかっていた。\nセキュリティーチェックに関する注意事項を、\n彼女は拡声器を使って読み上げている。		By the lobby exit, a officer is using a loudspeaker to announce the rules for the security check.	
+19	军官	全部手表、首饰和金属物品都要摘下来接受检查。	所有手錶、首飾和金屬物品都要取下以接受檢查。	腕時計、アクセサリー、などの金属類は\n全て外して検査を受けろ！		Remove your watches, jewelries, and any other metal objects.	
+20	军官	个人包裹和行李箱要在建档后贴上识别码，集中在这边进行扫描。	個人包裹和行李箱必須在建檔後貼上識別碼，集中到這邊進行掃描。	荷物類は登録後に識別コードを貼り、\nこちらに集めてからスキャンだ！		Stick an identification code to all your bags and suitcases, then bring them here for scanning.	
+21	军官	全部检查通过后会得到一个蓝色手环，戴着手环的人才可以离开大厅！	全部檢查通過後就會得到一個藍色手環，戴著手環的人才可以離開大廳！	チェックをクリアした人間には、\n青色のリストバンドを渡す！\nそいつを装着したらロビーから出ても良いぞ！		If everything checks out, you'll get a blue wristband. Only those with the wristband can leave here.	
+22	小怜	这么严格的吗？！	這麼嚴格嗎？！	そ、そんなに厳しいのか！？		This security check is no joke...	
+23	N/A	我看了看手腕上的蓝色手环。	我看了看手腕上的藍色手環。	自分の手首に付けている青色のリストバンドを\n二度見した。		I check to make sure I still have my wristband.	
+24	小怜	（这说明我……已经通过检查了？）	（這表示我……已經通過檢查了？）	（これって……俺はすでにクリアって事で\n　いいんだよな？）		(This wristband here means I'm in the clear now?)	
+25	小怜	（还、还是先看看情况吧……）	（還、還是先看看情況吧……）	（と、とりあえず様子を見よう……）		(I'll wait and see just to be sure.)	
+26	N/A	环视四周，我发现这一层的军人中只有那个军官是女生，而且她和刚才的艾米莉欧一样都很年轻。	環視四周，我發現這一層的軍人中只有那個軍官是女生，而且她和剛才的艾米莉歐一樣都很年輕。	出て良い条件は揃っているみたいだけど、\nまずはその場に溶け込む事を優先した。\n出口にいる彼女は、さっき会った少尉さんと\n同い年ぐらいだろうか。\n血気盛んで男臭い軍人達の中、紅一点の彼女は\n非常に目立っている。		I look around. Of all the soldiers on this floor, only the officer with the loudspeaker is a girl. And just like Emily, she's very young, too.	
+27	N/A	让我有些不解的是，那些穿着蓝色迷彩作战服的海军士兵们似乎都很服从这个人。	讓我有點不解的是，那些穿著藍色迷彩作戰服的海軍士兵們，似乎都對她很服從。	青い迷彩服を着た屈強な海軍兵士達が従順に、\nあの子の命令を聞き入れている様子は、\n何とも不思議な光景だ。		All the other soldiers seem to genuinely respect her, though.	
+28	小怜	（看起来也就是高中生或者刚上大学的年纪吧……）	（看起來也不過才高中生或者剛上大學的年紀……）	（見た目は高校生か大学1年ぐらいなのに……）		(She looks like a highschooler...)	
+29	N/A	突然，一个硕大的身影不顾阻拦冲到大厅门口并朝军官大喊起来。	突然，一個碩大的身影不顧阻攔衝到大廳門口，並朝軍官大喊起來。	そんな感じに見学していると、突然1人の巨漢が\n制止を振り切ってロビーの出口へと飛び出した。\n巨体を揺らしながら軍人に向かって大声で叫ぶ。		Suddenly, some hefty man breaks free and rushes to the exit. He yells at the female officer.	
+30	米勒	我是南印度圣公会的米勒总主教，你们无权盘查神职人员！	我是南印度聖公會的米勒總主教，你們無權盤查神職人員！	わしは南インド聖公会のミラー大主教である！ \n\n貴様らは聖職者に対して、尋問する権利など\n持たぬはずだ。		I'm Archbishop Miller from the Anglican Church of Southern India. You don't have the right to question servants of God!	
+31	米勒	而且你这身根本不是马萨达国防军的军服吧？	而且妳這身根本不是馬薩達國防軍的軍服吧？	そもそもお前の服装は、マサダ国防軍の装備と\n全く違うではないかッ！		Besides, your uniform... It's different than the Masada Ford Defense Army uniform!	
+32	米勒	你到底是什么人？这次行动是谁授权的？	妳到底是什麼人？這次行動是誰授權的？	お前は一体何者だ！ \nこの騒動は一体、誰に許可を得たのだ！？		Who're you, really? Who authorized this operation?	
+33	米勒	我要求和你的长官谈话！	我要求和妳的長官談話！	まずは、君の長官に話を通したまえ！！		I demand to talk to your supervisor!	
+34	N/A	总主教大人像座小山一样站在那个女生面前，气势咄咄逼人。	總主教大人像座小山一樣站在那個女生面前，氣勢咄咄逼人。	大主教さんが小山のように軍官の子の前に\n立ちはだかり、物凄い剣幕で迫っていく。		The aggressive archbishop stands in front of the young girl like a small mountain.	
+35	军官	啊？这身当然不是国防军的军服了……我是临时指挥准尉薇拉·瓦尔基里。	嗄？這身當然不是國防軍的軍服了……我是臨時指揮准尉薇拉·瓦爾基麗。	何者だと聞かれて答えるならば、\nヴィラ・ヴァルキューレ准尉と名乗るが。\n私の立場は臨時指揮者に過ぎないし、\n国防軍の軍服でないのは当然だろう？		Oh, I never said our uniforms were from the Masada Ford Defense Army. I'm warrant officer Vera Valkyrie, temporary commander in charge.	
+36	薇拉	你刚说你是南……南印度的什么玩意儿？\n啊！是税务官之类的吧~	你剛說你是南……南印度的什麼玩意兒？\n啊！是稅務官之類的吧～	……あんたこそ一体何なんだ？\n\nあんたは南……南インドの何だったか？\n\nああ～～っ！ 税務官とかそんなとこだな？		Who're you again? Someone from Southern India?\nAre you some kinda tax inspector?	
+37	N/A	薇拉好似恍然大悟的打量着面前的男人，自言自语的说道。	薇拉像是恍然大悟地打量著面前的男人，自言自語地說道。	軍官は目の前の男に対して何かを唐突に閃き、\nジロジロと観察しながら独り言を呟く。		Vera seems to have realized something.	
+38	薇拉	怪不得吃成这样……	怪不得吃成這樣……	ど～～りで。こんなにもまぁブクブクと……		No wonder you're large... It comes with the territory of your job, I suppose.	
+39	薇拉	不过那破地方不是一直在打仗吗？能收上税来？	不過那鳥地方不是一直在打仗嗎？還收得到稅嗎？	あんな戦争＝日常のデコピンひとつで壊れそうな\n地区が、税金なんかを納められるのか？		Last time I checked, though, that region was at war. People still pay their taxes during war?	
+40	N/A	她全然不顾主教大人已涨红的脸，心不在焉地接过记录员递来的平板设备。	她全然不顧主教大人漲紅的臉，心不在焉地接過記錄員遞來的平板裝置。	大主教の顔が真っ赤になっている事も気にせず\n彼女は記録係からタブレットを乱雑に受け取る。		She completely ignores the archbishop's red face as she picks up the tablet a clerk hands to her.	
+41	薇拉	哦~神职人员签证啊……	哦～神職人員簽證啊……	ふん、聖職者ビザねぇ……		Well, well, well... Who'd have thought. You're holding a religious worker visa.	
+42	N/A	薇拉不屑的笑了笑，接着看向不远处的轮盘赌桌。	薇拉不屑地笑了笑，接著看向不遠處的輪盤賭桌。	軍官は軽蔑的に笑うと、少し離れたルーレットの\nテーブルへ視線を向けた。		Vera laughs in contempt, then looks at the roulette table.	
+43	薇拉	呵呵，原来是教廷的人，怪不得白白胖胖的，您老人家刚才玩的尽兴吗？	呵呵，原來是教廷的人，怪不得白白胖胖的，您老人家剛才玩得盡興嗎？	色白で肉々しい理由が分かったよ。\nあんた教皇庁の人間か。\nご老人は今日という今日を『さぞかし』\nお楽しみだったようですな？		A servant of God. I see... Someone like you does have the time and means to eat all the delicious food. Did you have fun in the casino?	
+44	薇拉	我还以为上帝不会掷骰子呢~	我還以為上帝不會擲骰子呢～	神はサイコロを振らないと聞いていたのだが……\n\nありがとう、お陰でまたひとつ賢くなれた。		And here I thought "God does not play dice."	
+45	米勒	你说什么！！？	妳說什麼！！？	き、貴様ぁ……ッッ！！！		That's blasphemy!	
+46	N/A	总主教大人终于绷不住了，大叫着上前两步一副要打人的样子，却被薇拉一手薅住了领子。	總主教大人終於忍不住了，大叫著上前兩步，露出一副要打人的樣子，卻被薇拉一手揪住了領子。	怒りを抑えられなくなった様子の大主教さんは、\n大声で叫びながら軍官に殴りかかろうとする。\n煽った代償として彼女は手酷い一撃を受ける事に\nなると思ったが……\n顔色ひとつ変えずに彼を待ち構え、\n襟を掴むと瞬時に持ち上げてしまった。		The archbishop can't take it anymore. He starts shouting as he approaches Vera, ready to get physical. But before he can reach Vera, she grabs him by his collar.	
+47	N/A	我不由倒抽一口凉气──	我不由得倒抽一口氣──	──俺は思わず息を呑む。		I'm shocked by what I see.	
+48	N/A	那个身材肥硕的总主教被薇拉用一只手卡住脖子时，双脚稍稍的离开了地面。	那個身材肥碩的總主教被薇拉用一手卡住脖子時，雙腳居然稍稍地離開了地面。	片手で大主教さん首を押さえる軍人。\n\n巨体を誇る大主教さんの両足が地面から\n少し浮いていた。		With only one hand, Vera lifts the heavy archbishop into air.	
+49	小怜	（那是什么怪力啊！！）	（那是什麼怪力啊！！）	（す、凄い怪力……！）		(What strength!)	
+50	薇拉	啊……你要是没听清楚我就再说一遍──	啊……你要是沒聽清楚，我就再說一遍──	チッ……あんた耳が遠いようだな。\n\nそのご老体に免じて、もう一度だけ言ってやる。		In case you didn't hear me the first time...	
+51	薇拉	我可不是什么士兵，而是被临时分配来处理这种破事的『塔楼计划』学员。	我可不是什麼士兵，而是被臨時分配來處理這種無聊事的「塔樓計劃」學員。	私は兵士ではない。\n\nこんなクソ面倒事を処理するために配置された\n「タルピオットプログラム」の学生だ。		I'm no soldier. I'm a cadet of the "Talpiot Program" who got assigned here last minute.	
+52	薇拉	军事委员会的那群混蛋，觉得随便安一个临时军衔就能对我们呼来喝去。	軍事委員會的那群混蛋，覺得隨便指派一個臨時軍銜就能對我們呼來喚去。	軍事委員会の連中め……\n\n一時的な階級を適当に押し付けさえすれば、\n何でも私達に指図できると思いやがって……		I don't want any of this, but people in the Committee on Armed Services think they can boss us around.	
+53	薇拉	我已经忍耐好几天了，你若是想惹事，我马上就把你丢海里喂鲨鱼！	我已經忍耐好幾天了。你若是想惹事，我馬上就把你丟海裡餵鯊魚！	こっちだってもう何日も我慢しているのだぞ！？ \n\nああ！もう！これ以上私を苛立たせるなら、\nあんたを海に投げ込んでサメの餌にしてやる！！		And they can! I've been pissed about this these days. If you cross me again, I'll throw you into the ocean and feed you to sharks!	
+54	薇拉	听清楚了吗！？	聽清楚了嗎！？	分かったかッ！！！？		Are we clear?!	
+55	N/A	此时男人的脸颊已经涨得发紫，无法发出声音的他忙不迭的点了点头。	此時男人的臉頰已經漲得發紫，無法發出聲音的他忙不迭地點了點頭。	大主教さんは慌てて頷いた。\n\n首を押さえられているせいで声も出せない\n様子だ。		The archbishop's face has turned purple. Unable to speak, he nods his head hurriedly.	
+56	薇拉	滚那边排队去！	滾那邊排隊去！	大人しくあっちに並んでろッ！！		Get back in your line!	
+57	N/A	终于被松开的总主教大人踉跄后退几步，捏着脖子喘了几口粗气，然后悻悻的走向安检队伍。	終於被鬆開的總主教大人踉蹌後退幾步，捏著脖子大口喘了幾下，然後悻悻然地走向安檢隊伍。	頷いた事に彼女は納得したようで大主教さんの\n首から手を離す。\n彼は咳き込みながら数歩後ずさりすると、\n落ち着いて荒い息を吐いた。\n表情は激怒しているが、それ以上は何もせず\n渋々セキュリティーチェックの列へと向かった。\n……リストバンドがあれば大丈夫なんだよね？		As soon as he's let go, the archbishop rushes back to his line as he catches his breath.	
+58	小怜	那个，请问……	那個，請問……	あ、う、あ、あの、すみません……		Uh, excuse me...	
+59	N/A	我小心翼翼的凑过去，晃了晃腕上的手环。	我小心翼翼地湊過去，晃了晃腕上的手環。	一連の出来事に怯えながらも下にいた少尉さんの\n言葉を信じて手首のバンドを振り動かす。		I carefully walk closer and show her my wristband.	
+60	小怜	拿到这个就可以出去了是吗？	拿到這個就可以出去了是嗎？	こ、これで外に……出られるって……		I already have my wristband. Can I leave now?	
+61	N/A	薇拉似乎有些意外，用平板对着我手环上的条形码扫了一下，随后露出一个微笑。	薇拉似乎有些意外，用平板對著我手環上的條碼掃了一下，隨後露出一個微笑。	タブレットで俺のリストバンドのバーコードを\nスキャンした後、軍官は微笑みを浮かべた。\n何かを納得したかのような表情を俺に見せる。		Vera is a little surprised. She scans the barcode on my wristband, then smiles.	
+62	薇拉	嗯，没问题，你可以离开了。	嗯，沒問題，妳可以離開了。	ああ、問題ない。あんたは行っていいぞ。		Yes, you can leave.	
+63	N/A	我稍稍松一口气，同时暗自庆幸这层的人也看不到小星尘。	我稍稍鬆了一口氣，同時暗自慶幸這層的人也看不到小星塵。	……よ、よし。\n\nどうにかこうにか困りの種だったシンチェンも\nこの場の全員が見えていないようだ。\n彼女の言葉にホッと胸を撫で下ろす。\n\n許可が下りたのだから、何も起きない内に\nこの場を離れよう……		I feel relived. I'm also glad that people on this floor can't see Stardust, either.	
+64	N/A	刚走出门，大厅外的一位赌船工作人员就走过来对我再三表示抱歉。	剛走出門，大廳外的一位賭船工作人員就走過來對我再三表示抱歉。	そして扉を開けて外に出ると、目の前で\nスタッフが何度も頭を下げ始めた。		As soon as I get out of the room, a casino staffer approaches to apologize.	
+65	N/A	他说关于今天的事莱博娜会与马萨达进行交涉，绝对确保客人资料的保密性。	他說，關於今天的情況，萊博娜會與馬薩達進行交涉，絕對確保客人資料的保密性。	今日の事については、後日リバーナがマサダに\n交渉し、乗客の秘匿性は絶対に確保するとの事。		According to him, Lebona will negotiate with Masada Ford to make sure no customer information will be leaked.	
+66	N/A	现在船舱内全部处于信号屏蔽状态，他说我想要打电话的话可以用有线线路或者去船尾甲板。	他說現在船艙內完全處於訊號遮蔽狀態，因此如果我想要打電話，可以使用有線線路或者到船尾甲板。	また現在は船室の全ての信号が遮断されている\n状態だと言う事も教えてくれた。\n電話をかけたい場合は有線を使用するか、\n船尾甲板に行かないと駄目みたいだ。		The signals in the entire cabin are jammed. He tells me if I need to make a phone call, I can use their land line or go to the afterdeck.	
+67	N/A	我拉着小星尘一路来到甲板上。	我拉著小星塵一路來到甲板上。	言われた通り、俺はシンチェンを引き連れて\n甲板に出てきた。		I drag Stardust and walk all the way to the deck.	
+68	N/A	船舷的一侧停靠着最新型的超级德沃拉巡逻艇，旗杆上挂着马萨达标志性的蓝白两色国旗。	船舷的一側停靠著最新型的超級德沃拉巡邏艇，旗杆上掛著象徵馬薩達的藍白兩色國旗。	船舷には最新級のスーパードヴォラ哨戒艇が\n横付けされている。\n旗竿はマサダを象徴する青と白の2色国旗が\n掲げられていた。		A Super Dvora Mk patrol boat is docked next to the gambling ship, the blue-and-white national flag hanging on the boat.	
+69	小怜	啊──总算能出来透透气~	啊──總算能出來透透氣～	はぁぁ――！　\nや～っと新鮮な空気が吸えた～～		Finally, some fresh air!	
+70	小怜	（赌场里所有窗户都是封闭的，快闷死我了。）	（賭場裡所有窗戶都是密閉式，快悶死我了。）	（カジノ船の中は窓が全部閉まってたから、\n　マジで息苦しかったよ……）		(After all, all the windows inside the casino are closed.)	
+71	N/A	我看着横跨运河的大桥舒展了一下双臂，这条人工河道的两岸一直延展到视野的尽头。	我看著橫跨運河的大橋伸展了一下雙臂。這條人工河道的兩岸一路延展到視野的盡頭。	運河にまたがる橋を見ながら、俺は両腕を\n上空に向けて広げる。\nこの人工河道の両岸は視界の果てまで\nずっと伸びていた。		I stretch my arms as I look at the bridge across the canal.	
+72	小怜	这就是苏伊士运河吧？	這就是蘇伊士運河吧？	これがスエズ運河か！		Is this the Suez Canal?	
+73	小星尘	哇──！	哇──！	うっは～～～い！！		Whoa!	
+74	N/A	小星尘比我还兴奋，蹦蹦跳跳的跑到了栏杆前。	小星塵比我還興奮，蹦蹦跳跳地跑到了欄杆前。	シンチェンはピョンピョンと跳ね回りながら\n手すりの前まで走っていく。\n壮大な景色によって興奮も一入な様子だ。		Stardust is more excited than I am. She hops all the way to the ship fence.	
+75	小怜	（不过怎么是船尾对着这边……？）	（不過怎麼是船尾對著這邊……？）	（それにしても……）\n\n（なんで船尾がこっちを向いているんだ……？）		(Is it just a coincidence? Stardust is heading toward the stern of the ship.)	
+76	N/A	突然手机响起，我赶忙接通，听筒中传来了久违的声音。	突然間手機響起，我趕忙接通，聽筒中傳來了久違的聲音。	そんな事を考えていたら、直ぐに俺の携帯が\n鳴り響く。\n急いで回線を繋げると、懐かしいとも思えて\nしまう声が聞こえてきた。		Suddenly, my phone rings—a familiar voice awaits.	
+77	N/A@安妮	小怜！你没事吧？	小憐！你沒事吧？	──レンちゃん！　大丈夫なの！？		Ren? Are you OK?	
+78	N/A@莉琉	她没事，正对着大海做扩胸运动呢。	她沒事，正對著大海做擴胸運動呢。	どうやら、杞憂だったようだ……\n海に向かって胸を張る運動でもしてるのか？		She's fine. She's doing some stretching facing the ocean.	
+79	N/A@爱衣	哦呀呀，真是充满青春的气息~是想让身体吸满养料再发育一下吗？~	哦呀呀，真是充滿青春的氣息～是想讓身體吸滿養分再發育一下嗎～？	青春の空気をたっぷり吸い込んでるの？\n身体に栄養が巡って再発育しちゃうねぇ……		Ah, the sweet smell of youth! Is this your way of getting an even bigger pair?	
+80	N/A@安妮	这是多方通话，莉琉她们也在线上……	這是多方通話，莉琉她們也在線上……	あっ、ホントだ。\n甲板にいるレンちゃんの様子が丸分かり！		It turns out to be a conference call—Mariru and some others are also on the line...	
+81	小怜	诶？！	欸？！	──えっ！？		They're spying on me?	
+82	N/A	我立刻四下环视，并没发现监控之类的设备，才想起她们大概是从高空观察到的。	我立刻四下環視，並沒發現監視器之類的設備，才想起她們大概是從高空觀察到的。	辺りを見回すが、監視装置などは見つからない。\n上空から俺の事を見ているのだろうか……？		I look around and fail to spot any surveillance device. Then I realize it's probably from way above.	
+83	小怜	（天上有双眼睛盯着自己总觉得怪怪的……）	（天上有雙眼睛盯著自己，總覺得怪怪的……）	（こんな何もない甲板上でも見られてるって\n　何か変な感じ……）		(It feels weird knowing that a pair of eyes is watching my every move...)	
+84	N/A@莉琉	你就别捂了，先做个简报。	你就別捂了，先做個簡報。	発育と言われたからって胸を隠している\n場合じゃないぞ？\nとにかく、早く状況を報告しろ。		Let's get to the point—what happened earlier?	
+85	小怜	呜呜……	嗚嗚……	うぅぅぅ……		Where do I start?...	
+86	N/A	我清清嗓子，汇报了在保险库发现小星尘的全过程，特别强调别人都看不到她这件事。	我清清嗓子，彙報了在保險庫發現小星塵的完整過程，特別強調別人都看不到她這件事。	わざわざ口に出さなくても良いじゃないか……\n\n俺は金庫で巻き起こったシンチェンとの出会いを\n事細かに報告した。\n特に彼女が他人には見えない点を強調する。		I clear my throat, then tell them everything that's happened. I specifically point out that no one can see Stardust.	
+87	N/A@安妮	那孩子现在就在你身边？我在监控里确实只看到你一个人穿过大厅……	那孩子現在就在妳身邊？我在監視器裡確實只看到妳一個人穿過大廳……	その子って今もレンちゃんの傍にいるの？\n\nハッキングした監視映像を見ている限り、\nレンちゃんは一人でロビーを通ってるよ……？		She's right next to you? From what saw, you walked out of the lobby by yourself...	
+88	N/A@安妮	当时我还在想你怎么这么快就做完安检了，你可是第一个出来的！	當時我還在想，妳怎麼這麼快就做完安檢了，妳可是第一個出來的！	それとセキュリティーチェックが終わるの\n早過ぎないかな？\n話し通りの状況だったらレンちゃんが一番に\nロビーから出られるはずないし。		I was wondering how you passed the security check so quickly—you were the first person who walked out!	
+89	小怜	是去保险库检查的一个海军少尉，她只读取我身份卡上面的内容就把通过的手环给我了。	是去保險庫檢查的一個海軍少尉，她只讀取我身分證上面的內容就把代表通過的手環給我了。	SIDが俺の身分証を完璧に偽造してくれたから\nこのリストバンドをくれたんじゃないのか？\n金庫室に来た少尉さんはスキャンしただけで\n合格って言ってくれたけど……		It's the second lieutenant I met in the vault. She scanned my fake ID card, then gave me my wristband.	
+90	N/A@莉琉	马萨达的海防部队不应该这么松懈……	馬薩達的海防部隊不應該這麼鬆懈……	マサダの海防部隊がそこまで緩いわけがない。		Masada Ford soldiers shouldn't have been so careless...	
+91	小怜	还有，好像赌场大厅的军官和保险库的少尉都是不到二十岁的女孩子……	還有，好像賭場大廳的軍官和保險庫的少尉都是未滿二十歲的女孩子……	でも、ロビーにいた軍官も金庫室の少尉も\nどうみても20歳未満の女の子で……		Oh, one more thing. Both the commanding officer in the lobby and the second lieutenant in the vault are young girls, no more than 20.	
+92	N/A@安妮	怎么会？虽然马萨达的女性也要服强制兵役，但这个年纪也……	怎麼會？雖然馬薩達的女性也要強制服兵役，但這個年紀也……	嘘でしょ？ マサダでは女性にも徴兵制度が\n適用されるけど、流石にその年齢でなんて……		What? I know that girls are also subject to the mandatory military service in Masada Ford, but at such a young age?	
+93	小怜	对了，我听到大厅的那个军官说自己是什么“塔楼计划”学员，这是被临时分配的任务。	對了，我聽到大廳的那個軍官說自己是什麼「塔樓計劃」學員，這是被臨時分配的任務。	そう言えば『タルピオットプログラム』の学生だ\nってロビーにいた軍人は名乗ってたぞ。\nあと、これは一時的に割り当てられた\n任務なんだってさ。		The officer in the lobby mentioned she was a cadet of the "Talpiot Program." She got assigned here last minute.	
+94	N/A@莉琉	那就难怪了──	那就難怪了──	なるほど、それなら説明が付くな……		That explains it...	
+95	N/A@莉琉	塔楼（Talpiot）是直属于马萨达国防总参谋部的精英军校，有几十年的历史了。	塔樓（Talpiot）是直屬馬薩達國防總參謀部的精英軍校，有幾十年的歷史了。	タルピオット（Talpiot）は数十年の歴史を誇る\nマサダ国防総参謀部直属のエリート軍事学校だ。\nそちらで得たノウハウを更に改良したのが\nタルピオットプログラムと言うわけだな。		Talpiot was an elite military school directly under the General Staff Department of Masada Ford. It had a history of several decades.	
+96	N/A@莉琉	马萨达军方后来将其升级为塔楼计划，只从中学生和一般军校招收前1%的顶尖学员参与选拔。	馬薩達軍方後來將其升級為塔樓計劃，只從中學生和一般軍校招收前1%的頂尖學員參與選拔。	入学選抜は中学生と一般軍学校から上位1%の\n学生のみが招待される。		The Masada Ford military later upgraded it to the "Talpiot Program." It only invites the top 1% students from normal mid schools and military Schools for their tryouts.	
+97	N/A@莉琉	然后在心理、体能和智力测试中严格筛选，每年只有几十人能被正式录取。	然後透過心理、體能和智力測試嚴格篩選，每年只有幾十人能正式錄取。	そこからメンタル、体力や知能のテストによって\n更に厳格な選別を受け、\n毎年の入学者は指で数えられる程度だ。		Only several dozens of people can pass their strict mental, physical, and IQ tests and join the program every year.	
+98	N/A@莉琉	是个专门培养高级军官和军事科技人才的地方，课程中确实会参与指挥小规模的军事行动。	是個專門培養高級軍官和軍事科技人才的地方，課程中確實會參與指揮小規模的軍事行動。	上級士官や軍事科学技術者の育成に特化しており\n小規模な軍事作戦を指揮する授業内容もある。		It's a place to train future military elites. Their courses, indeed, involve some small-scale field operations.	
+99	N/A@莉琉	『摩诺拉』里也有不少塔楼计划的学员，从那里出来的家伙虽然都是精英，但很难被策反。	「摩諾拉」裡也有不少塔樓計劃的學員，從那裡出來的傢伙雖然都是精英，但很難被策反。	勿論だが『マノーラ』に所属する奴の中にも、\nタルピオットプログラムの学生がいるわけだ。\nそこから生まれた連中は全員が精鋭で、\n離反工作を行うのも困難を極めるな。		Monola has recruited many graduates from the "Talpiot Program." They're known for being professional and loyal.	
+100	小怜	就是某种精英学校吧……	就是某種精英學校吧……	ある種のエリート学校ってやつか……		An elite military school, yeah?	
+101	N/A@安妮	总觉得……我和小怜都不可能考上呢。	總覺得……我和小憐都不可能考上呢。	私とレンちゃんは合格できなさそうだね。		I don't think Ren and I would be able to get in...	
+102	N/A@爱衣	呐，小怜。	欸，小憐。	──ねぇ、レンちゃん？		Poor Ren...	
+103	N/A	爱衣的语气带着些许迟疑。	愛衣的語氣帶著些許遲疑。	愛衣が発した声に少々のためらいを感じる。		Aya is hesitant to finish her sentence.	
+104	N/A@爱衣	你说的那个小孩子，此刻正跟你一起在甲板上吗？	妳說的那個小孩子，現在正和妳一起在甲板上嗎？	君の言ってた子供って、今も一緒に甲板に\nいるのかい？		The girl you talked about. Is she on the deck with you right now?	
+105	小怜	对啊，怎么？	對啊，怎麼了？	そうだけど、どうしたの？		Yes. Why?	
+106	N/A@爱衣	可是热成像显示，现在甲板上的确只有你一个人……	可是熱像儀顯示，現在甲板上的確只有妳一個人……	今サーモグラフィーを使っているんだけど、\n本当に君以外、何も見えないんだよね……		But even the thermal sensor indicates that you're alone on the deck...	
+107	N/A	我心中一惊，扭头看看蹲在栏杆前的小家伙，一直在出神的盯着某个方向。	我心中一驚，轉頭看看蹲在欄杆前的小傢伙，一直出神地盯著某個方向。	その結果を聞いて俺の心臓が少し跳ねた。\n\n振り返って、手すりの場所でうずくまっている\n彼女の方を見る。\n先程と打って変わってキョロキョロする事もなく\n彼女は一点の方向をずっと眺めていた。		Now even I can't be sure, but there she is, squatting in front of the fence and staring in one direction.	
+108	N/A	她忽然站起来，耳机上的金光快速闪烁，指向自己刚才盯着的方向。	她忽然站起來，耳機上的金光快速閃爍，指向自己剛才盯著的方向。	突然立ち上がると、金色の光を放つヘッドホンを\n彼女は点滅させる。\nそして見つめていた方向を指差した。		Suddenly, she stands up and points me towards the direction she was looking.	
+109	小星尘	我们……要去那边！	我們……要去那邊！	私達……「あっち」に行かないとだ！		We... will go there!	
+110	小星尘	虽然忘记了为什么，但感觉必须去那个方向的什么地方不可。	雖然不記得原因，但感覺必須去那個方向的什麼地方不可。	理由は忘れちゃったけど、あの方向のどこかに\n行かなきゃ駄目だって感じたの！		I can't remember why, but something tells me that's where we're going.	
+111	小星尘	不然就……不然就糟糕了……！	不然就……不然就糟糕了……！	じゃないと……そうじゃないとヤバババだよ！！		Otherwise... Otherwise there'll be a disaster...	
+112	小星尘	呐呐呐！我们一起去……好不好嘛？	欸欸欸！我們一起去……好不好嘛？	ねぇねぇねぇ！一緒に行こうよ！！\n良いでしょ～！？		Please! We go together, please!	
+113	N/A	小星尘拉住我的手来回摇晃，眨巴着大眼睛，就像耍赖想要妈妈给自己买玩具的小孩子一样。	小星塵拉住我的手來回搖晃，眨著大眼睛，就像耍賴想要媽媽買玩具的小孩一樣。	シンチェンは俺の手を掴んで揺らしながら、\n大きな目をパチパチとさせている。\nまるで母親にオモチャをねだる子供みたいだ。		Stardust grabs my head and stares at me with her big eyes, just a small child begging her mom for toys.	
+114	小怜	你们……听到她说的了吗？	妳們……聽到她說的嗎？	みんな……彼女が言ってた事が聞こえたか？		Did you... hear what she said to me just now?	
+115	N/A@安妮	我一直只听到你的声音啊…	我一直只聽到妳的聲音啊…	いや、レンちゃんの声しか聞こえないよ……		I only heard you...	
+116	N/A@爱衣	如果没有实体的话，是无法震动空气发出声音的。	如果沒有實體的話，是無法震動空氣發出聲音的。	実体がないと、音の源となる空気の振動を\n起こす事は不可能だからね。		Sound is produced by vocal fold vibration. If there's no physical body, there can be no sound.	
+117	小怜	可、可我明明能感觉到！她的触感和温度……	可、可是我明明能感覺到！她的觸感和溫度……	だ、だけど俺は感じるんだって！ \n彼女の感触や温度だって……		But... But I can see her, touch her, and feel her body temperature...	
+118	N/A@爱衣	从你的描述看来，很可能是你的大脑被某种东西影响，产生了只有你能体验到的神经反馈。	從妳的描述看來，很可能是妳的大腦被某種東西影響，產生了只有妳能體驗到的神經反饋。	ん～む、レンちゃんの説明から考えると、\n脳が何らかの影響を受けて──\n神経線維にインパルスが引き起これされて\nいるんだと思うよ。		Based on what you described, your brain was probably affected by something. And after that, it's been sending you neural feedback that only you can perceive.	
+119	小怜	不是吧……我连她的影子都能看到！	不會吧……我連她的影子都能看到！	嘘だろ、だって俺には彼女の影まで\n見えてるんだぞ！？		But I can even see her shadow!	
+120	N/A	我试着辩解，实在无法接受这个与自己的感知完全矛盾的解释。	我試著辯解，實在無法接受這個與自己的感知完全矛盾的解釋。	自分の感覚に完全な矛盾が生じていて、\nそれを受け入れることができない。\n俺は本能的に弁解を続けてしまう。		I try to argue, unable to accept her explanation.	
+121	N/A@莉琉	……你用手机的摄像模式试试看。	……妳用手機的拍照模式試試看。	……試しに携帯のカメラで撮ってみろ。		... Try with the camera on your phone.	
+122	N/A	我立刻照做，可当我用镜头对准她的时候，顿时感觉头皮一阵发麻──	我立刻照做，可是當我用鏡頭對準她的時候，頓時頭皮一陣發麻──	マリルの言う通りにカメラを彼女に向けた。\n\nすると頭が急に痺れを感じて──		That's a good idea! But when I aim my camera at her...	
+123	N/A	屏幕上的取景框内空空如也，全然没有她的身影。	螢幕上的取景框內空空如也，全然沒有她的身影。	画面に映ったのは景色だけ。\n\n彼女の姿はどこにもない。		There's no one in the camera frame!	
+124	N/A	可当我将手机挪开，又能看到她鼓着小脸央求的样子。	但當我將手機挪開，又能看到她鼓著小臉央求的樣子。	しかし携帯をズラせば、膨れ面でせがむ\n彼女の小さな顔が見える。		As soon as I move my phone away, though, I see her again, still begging me.	
+125	小星尘	好~~不~~好~~嘛~~	好～～不～～好～～嘛～～	行～こ～う～よ～！！		Please!	
+126	N/A	我不死心的在手包里寻找，翻出那个从她手腕取下写着她名字的粉色小纸条。	我不死心地在手拿包裡尋找，翻出那張從她手腕取下，寫著她名字的粉色小紙條。	諦めずに彼女の名前が書かれていた\nピンク色の紙切れをバッグから取り出す。		I still don't believe the girl is only an illusion. I search her purse and find the pink note with her name written on it.	
+127	N/A	但当我将手机对准那个纸条时，却发现自己手上什么都没有。	但當我將手機對準那張紙條時，卻發現自己手上什麼都沒有。	そして紙切れに携帯を向けるが、\n……何も映らない。\n元より手の中には何も存在しない事を\n俺は理解してしまう。		Still the same—I can't see the note in my camera frame.	
+128	N/A	手机挪开后，那个小纸条也消失不见了。	手機挪開後，那張小紙條也消失不見了。	携帯越しに見ずとも、幻だったかのように\n紙切れは消え失せた……		And this time, after I move my phone away, the note has disappeared!	
+129	N/A	我伸出有些颤抖的手，把手机放在小星尘的头顶。	我伸出有點顫抖的手，把手機放在小星塵的頭頂。	次に震える手を伸ばし携帯をシンチェンの\n頭の上へと置いてみる──		I reach out my shaking hand and place my phone above Stardust.	
+130	N/A	“啪嗒”一声，手机直接掉落在她脚下的甲板上。	「啪嗒」一聲，手機直接掉落在她腳下的甲板上。	「カツンッ」という無機質な音を立てて、\n携帯は彼女の足元に落ちた。		!!! My phone falls right on the floor!	
+131	小星尘	？	？	……………………？		?	
+132	N/A	我只觉耳边嗡嗡直响，四肢忽然变得沉重起来。	我只覺耳邊嗡嗡響，四肢忽然變得沉重起來。	思わず息が荒くなってしまう。\n\n動揺が身体を蝕むと、羽虫のようなノイズが\n耳の中で響き、手足すらも重たくなってきた。		My ears are ringing, limbs becoming heavy all of a sudden.	
+133	N/A	过了一小会儿，我的耳机中传来了爱衣的声音。	過了不久，我的耳機傳來了愛衣的聲音。	──しばらくすると、愛衣が呟いた。		After a while, I hear Aya's voice over the phone.	
+134	N/A@爱衣	我有一个理论，或者说是猜测……	我有一個理論，或者說是猜測……	理論……いや、推論と呼ぶべきかな……		I have a theory—more like a guess, really.	
+135	小怜	什、什么猜测？	什、什麼猜測？	す、推論？		Tell me.	
+136	N/A@爱衣	你之前唤回的魔女，不仅能为她们制造出实体，而且都保留着完整的记忆。	妳之前喚回的魔女，不僅能為她們製造出實體，還能保留著完整的記憶。	レンちゃんが呼び戻した数々の魔女達は、\n身体だけじゃなく記憶も完全に保存されていた。		Think about all the witches you summoned before. They weren't "ghosts" like this one, and they all had their complete memories.	
+137	N/A@爱衣	但根据你描述她的失忆情况，再加上没有实体，或许是缺失了某些条件？	但根據妳描述她的失憶情況，再加上沒有實體，或許是缺少了某些條件？	実体が存在しない上に記憶喪失なんてケースは\n今までになかったからさ。\nもしかすると何かの条件が欠けているせいで、\n中途半端な状態で生成されちゃったのかも？		Based on what you told us, she suffers from memory loss and can't be seen. Maybe, the requirements for summoning her haven't been completely met?	
+138	N/A@爱衣	她有表达什么诉求吗？或许是某种提示？	她有表達什麼訴求嗎？或許是某種提示？	その子が求めている事は何かあるかな？\n\nそれが条件のヒントになるかもしれない。		Did she ask for anything? Or give you any hint at all?	
+139	小怜	诉求……有的！	訴求……有！	求めている事……あるぞ！		About that... Yes!	
+140	N/A	我像是抓住什么救命稻草般，指向了她刚才说的方向。	我像是抓住什麼浮木一樣，指向了她剛才說的方向。	俺は彼女の言っていた方向を指差した。		I suddenly find hope. I point in the direction Stardust wants to go.	
+141	小怜	她说她要去那边，但不知道具体是哪，就是我手指的方向。	她說她要去那邊，但不知道具體的位置，就是我手指的方向。	俺が今指してる方向に行きたいらしい。\n\n具体的な場所は分かってないみたいだけど……		She wants to go there. Not the exact location, but somewhere over there.	
+142	N/A	听筒中立刻传来一阵敲打键盘的声音。	聽筒中立刻傳來一陣敲打鍵盤的聲音。	電話からキーボードを叩く音が聞こえた。		I hear the sound of a keyboard over the phone.	
+143	N/A@莉琉	那个方向前方318公里……	那個方向前方318公里……	その方向から318キロ先には……		318 miles in that direction...	
+144	N/A@爱衣	就是马萨达堡。	就是馬薩達堡。	うん……マサダブルクだね。		It's Masada Ford!	

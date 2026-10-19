@@ -1,0 +1,14 @@
+* text=auto eol=lf
+
+# 配置表 CSV 要保留 CRLF + BOM，Excel 直接双击才能正确分列
+*.csv text eol=crlf
+
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.webp binary
+*.gif  binary
+*.ico  binary
+*.zip  binary
+*.xlsx binary
+*.shader binary

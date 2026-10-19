@@ -1,0 +1,3 @@
+ID,channel_group,icon,name,desc,activity_game,can_see
+long,int,string,long,long,long,int
+ID,渠道

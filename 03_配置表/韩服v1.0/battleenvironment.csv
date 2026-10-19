@@ -1,0 +1,3 @@
+ID,channel_group,name,description,icon
+long,int,long,long,string
+ID,渠道分组,环境名称,环境描述,环境

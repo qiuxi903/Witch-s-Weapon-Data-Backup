@@ -1,0 +1,9 @@
+﻿1	引导精灵	通过[ff9c00]原质突破[-]，魔女的能力将得到[ff9c00]大幅提升[-]	藉由[ff9c00]原質突破[-]，魔女的能力將得到[ff9c00]大幅提升[-]	[ff9c00]セフィロス突破[-]により、魔女の能力を[ff9c00]飛躍的に上昇[-]する事が可能なの。	[ff9c00]본질 돌파[-]를 통해 마녀의 능력을 [ff9c00]대폭 향상[-]시킬 수 있어.	Your Witches' BR will be [ff9c00]greatly boosted[-] via [ff9c00]Sephira Augmentation[-].	
+2	FocusTrigger	
+3	FocusTrigger	选择魔女	選擇魔女	魔女を選択	마녀 선택	Select Witch	
+4	FocusTrigger	
+5	引导精灵	每[ff9c00]赋予[-]一件装备都会提升魔女的战斗力\n[ff9c00]赋予[-]全部6件装备可进行[ff9c00]突破[-]	每[ff9c00]賦予[-]一件裝備都會提升魔女的戰鬥力\n[ff9c00]賦予[-]全部6件裝備可進行[ff9c00]突破[-]	[ff9c00]付与[-]されたそれぞれのアイテムは、魔女の戦闘力を増加できるよ。アイテムを全6か所に[ff9c00]付与[-]すれば、[ff9c00]突破[-]が可能に！	장비 1개를 [ff9c00]부여[-]할 때마다 마녀의 전투력이 증가해\n장비 6개를 모두 [ff9c00]부여[-]하면 [ff9c00]돌파[-]할 수 있어.	[ff9c00]Gift[-] Sephirot to Witches in order to increase their BR.\n[ff9c00]Gift[-] all 6 of the required Sephirot to [ff9c00]augment[-] a Witch.	
+6	引导精灵	突破到下一阶不仅能获得属性加成，到达指定阶段后还将解锁技能	突破到下一階不僅能獲得屬性加成，到達指定階段後還能解鎖技能	ステータスは突破する度に増加される他、特定のランクまで上げるとスキルを開放できるみたい。	다음 단계로 돌파하면 속성 보너스를 획득할 수 있고, 지정 단계를 달성하면 스킬 잠금해제 할 수 있어.	Augment a Witch to the next rank to increase her attributes. Augment a Witch to the required rank to unlock new skills.	
+7	引导精灵	有针对性的[ff9900]收集原质道具[-]是突破魔女的关键	有針對性地[ff9900]收集原質道具[-]是突破魔女的關鍵	計画的に[ff9900]神秘アイテムを集める[-]のが、魔女を突破する鍵となるね。	[ff9900]본질아이템을 수집[-]하는 게 마녀를 돌파하는 키포인트야. 	It's imperative that you [ff9900]collect the required Sephirot[-] if you want to augment your Witches.	
+8	T_showPicText	点击[ff9c00]这里[-]可以单独赋予某样原质	點擊[ff9c00]這裡[-]可以單獨賦予某樣原質	[ff9c00]ここ[-]をタップで、神秘アイテムを選択して付与できる。	[ff9c00]여기[-]를 터치하면 본질을 1개 부여할 수 있어.	Tap [ff9c00]here[-] to gift the corresponding Sephira.	
+9	T_showPicText	点击[ff9c00]这里[-]可以赋予[ff9c00]全部原质[-]	點擊[ff9c00]這裡[-]可以賦予[ff9c00]全部原質[-]	[ff9c00]ここ[-]をタップで、[ff9c00]まとめて[-]付与することができる。	[ff9c00]여기[-]를 터치하면 [ff9c00]전체 원질[-]을 부여할 수 있어.	Tap [ff9c00]here[-] to gift [ff9c00]all the required Sephirot[-].	

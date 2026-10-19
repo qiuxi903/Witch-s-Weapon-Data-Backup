@@ -1,0 +1,133 @@
+﻿1	N/A	我们顺着向下的阶梯，缓缓步入一间展览室。	我們順著階梯向下，緩緩步入一間展覽室。	下へと続く階段を伝って、ゆっくりと室内に\n入った。	아래로 향하는 계단을 따라 전시실로 들어왔다.	We follow the stairs downward and end up in an exhibition room.	
+2	N/A	出乎意料的是，这里的电力设备和换气系统一直在运作，空气中并没有什么灰尘。	出乎意料的是，這裡的電力設備和換氣系統一直在運作，空氣中並沒有什麼灰塵。	意外なことに電力設備と換気システムは作動して\nおり、空気はそれほど淀んでいない。	이곳의 전력 설비와 환기 시스템은 여전히 작동 중이고 공기 중에 먼지 하나 없다.	Surprisingly, the power and ventilation systems still seem to be working all right. The air quality here seems fine.	
+3	拉斐尔	这么大的建筑里，居然连个人影都没有吗？	偌大的建築裡，居然連個人影都沒有？	こんなに広い建物なのに、人影が1つも\n見当たらないなんて。	이렇게 큰 건물 안에 어떻게 사람이 하나도 없지?	It’s such a big building... but why does it feel so empty?	
+4	小怜	但是系统还在运转……	但是系統還在運轉……	それなのにシステムは作動している……	시스템은 계속 작동하고 있어……	Everything seems to be running just fine though...	
+5	N/A	展厅内整齐排列的展台发出幽幽的灯光，远处来传来换气扇转动的声音。	展示廳內整齊排列的展示台發出幽幽的燈光，遠處來傳來換氣扇轉動的聲音。	遠くから換気扇の音。\n\n室内では展示台のようなものが薄い光を放ち、\n整然と並んでいる。	전시실 안 전시대에 약한 불빛이 비추고 멀리서 통풍기가 돌아가는 소리가 들려온다.	The exhibitions are lit in an eerie glow. The sound of ventilation fans working can be heard from a distance.	
+6	N/A	在这种昏暗的环境中，总觉得有未知的危险正潜伏在角落窥探着我们……	在這種昏暗的環境裡，總覺得有未知的危險正潛伏在角落窺探著我們……	こんな薄暗い環境の中だと、何か未知なる危険が\n俺達を覗いているような気がしてくる……	어두운 곳 모서리에서 알 수 없는 위험이 우리를 엿보고 있는 느낌이 든다……	It’s dark, dark enough to conceal any potential predators, hiding in the corners, watching our every move...	
+7	N/A	我们小心的观察着周遭的环境，过了好久才将注意力落在那些展品上。	我們小心地觀察著周遭環境，過了好久才將注意力轉到那些展示品上。	俺達は用心深く周囲の様子を観察して、\nそこから展示品に着目した。	우리는 조심히 주위 환경을 관찰했다. 얼마 지나지 않아 전시품에게 시선이 집중됐다.	We observe our surroundings carefully before finally directing our attention to the exhibit items.	
+8	小怜	这是……标本吗？	這些是……標本嗎？	これは……標本なのか？	이건……표본인가？	Are these... specimens?	
+9	N/A	我看到玻璃展柜中，有机玻璃的支架正支撑着某种外形类似海洋生物的展品。	玻璃展示櫃中，壓克力支架正支撐著某種外形類似海洋生物的展示品。	ガラスの展示ケースの中には、何かの海洋生物\nのような展示品がアクリル樹脂のスタンドにより\n支えられている。	유리 전시대의 유리 받침대가 해양 생물 같은 전시품을 받치고 있다.	An exhibit in the transparent case, supported by an organic glass rack, catches my eye. It resembles some kind of marine animal.	
+10	N/A	这种生物的外壳光滑，呈半透明的白色，还有一根光滑的尾巴，看起来像是某种奇特的深海生物。	這生物的外殼光滑，呈現半透明白色，還有一根光滑的尾巴，看起來像是奇特的深海生物。	その生物の外殻は白く半透明で艶やかだった。\n\nすべすべした尻尾もあり、\nなんとなく奇妙な深海生物の類を思い出す。	매끄러운 껍질은 반투명 백색을 띄고 반들반들한 꼬리까지 있어서 괴상한 심해 생물처럼 보인다.	It’s got a slippery, shiny body in a translucent white color. The tail is sleek as well. It looks like the kind of animal that could only survive in the depths of the ocean.	
+11	N/A	有些好奇这种后背光滑透亮的生物，正面看起来是什么样子的……	有點好奇，這種後背光滑透亮的生物，正面看起來會是什麼樣子……	こんな背中が透明でつるつるの生き物なんて、\n正面から見たらどんなだろうと気になるが……	매끄럽고 투명한 등을 가진 생물의 정면은 어떻게 생겼는지 궁금해진다……	If its back looks like this, I wonder how it looks from the front...	
+12	小怜	──！！	──？！	──────────ッ！！	──！！	...!	
+13	N/A	我绕到展台的另一侧，不禁倒抽了一口冷气。	我繞到展示台的另一側，不禁倒抽了一口氣。	俺は展示台の向こう側に回ると、\n思わず狼狽えてしまう。	전시대의 반대편으로 돌아간 나는 헉 하고 숨을 들이켰다.	I wander over to the other side to take a look, and gasp in surprise and disgust.	
+14	N/A	这个生物正面伸出八只粗大丑陋的爪子，每只爪子都像人类的手指一样有两个关节。	這個生物正面伸出八隻粗大醜陋的爪子，每隻爪子都像人類手指一樣有兩個關節。	生物の正面には、8本の太くて醜い爪が生え、\nそれぞれが人の指みたいな関節をしている。	생물의 정면에 흉직한 발톱 8개가 자라나 있다. 발톱마다 손가락처럼 두 개의 관절이 있다.	The creature has eight thick, unbecoming claws, each with two joints, much like human fingers.	
+15	N/A	在八只爪子中间，是纵向裂开的口器，里面密布着细小的倒钩，口器周围是类似肌肉的红色组织。	八隻爪子中間是縱向裂開的口器，裡面是密密麻麻的細小倒鉤，口器周圍則是類似肌肉的紅色組織。	8本の爪の中心には、縦に裂けた口器があった。\n\n筋肉のような赤い組織が目立ち、\n口の中は細かい牙で隙間なく覆われている。	8개 발톱 사이 세로로 갈라진 입 안에 아주 작은 갈고리가 밀집해 있고 주위에는 근육처럼 보이는 붉은 조직이 있다.	And on its palms are what look like little mouths that contain miniscule, barbed teeth. In the place of lips is red, muscly tissue.	
+16	N/A	这个造型让我不禁想起恐怖片里看过的会扑在人脸上抱住不放的外星生物。	這種造型，讓我不禁想起恐怖片裡那種會撲向人臉抱住不放的外星生物。	思わず有名なホラー映画の中に出てくる\n人の顔にくっ付いて離れない宇宙生物を、\n連想してしまった。	공포 영화 속 사람의 얼굴에 달라붙어 떨어지지 않는 외계 생물이 생각난다.	Reminds me of those aliens that latch onto your face and never let go, the kind you see in B-grade horror movies.	
+17	拉斐尔	真是变态的艺术品啊……	真是變態的藝術品啊……	本当、悪趣味な芸術品ね……	변태의 예술품이군……	Why would something like this be on exhibit...?	
+18	小怜	诶──这是像电影道具一样制作出来的吗？	欸──藝術品？ 這是電影道具嗎？	え――――っ？\nこ、これって映画のセットみたいな作り物なの？	앗──이건 영화 도구처럼 제작한 걸까? 	Is this some kind of movie prop?	
+19	拉斐尔	不，这确实是生物标本……	不，這確實是生物標本……	いいえ、それは本物の生物標本……	아니，이건 생물의 표본이야……	No. This is a specimen of a real, existing creature.	
+20	拉斐尔	这是战争时期基因改造的失败品，我小时候在萨蒙顿的研究所里见过很多。	這是戰爭時期基因改造的失敗品，我小時候在薩蒙頓的研究所裡見過很多。	戦争時に行われた、遺伝子改造技術の失敗作よ。\n私が幼い頃、サモントンの研究所で良く見たわ。	이건 전쟁 시기 유전자 개조의 실패물이야. 어렸을 때 살몬톤의 연구소에서 많이 봤었어. 	It was the result of a failed genetic experiment during the war. I’ve seen a lot of those in the Salmonton Research Institute.	
+21	拉斐尔	后来这些东西被证明没什么价值，某个时间点之后就被大规模废弃了。	後來因為這些東西沒什麼價值，某個時間點之後就大量廢棄了。	後に価値のない物と判断されて、\nある時期に大規模な廃棄が実行されたはず。	이후 이 물건들이 가치가 없다는 것이 증명되고 대규모로 폐기됐어.	They were later proven to be worthless and abandoned after a while.	
+22	拉斐尔	不过这种东西一般都会作为生物废料处理。	但通常都會當作生物廢棄物處理。	しかし、このようなモノは生体廃棄物として\n処理するのが一般的だけど……	하지만 이런 물건은 보통 생물 폐기물로 처리해. 	Still, people usually treat them as biological waste...	
+23	拉斐尔	像这样如艺术品般，堂而皇之的展览……	像這樣當作藝術品一樣，堂而皇之地展示……	こんな芸術品みたいに堂々と展示するとはね……	이렇게 예술품처럼 버젓이 전시해놓지는 않아……	It’s rare to see something like this on display, as if it were a piece of artwork.	
+24	拉斐尔	这里的主人可是高出你好几个量级的变态啊~	這裡的主人一定比妳變態好幾個等級啊～	ここの持ち主、あんたよりレベルの高い変態ね。	이곳의 주인은 널 뛰어넘는 변태인 것 같은데~?	The owner of this facility must be a creep. Even bigger of a creep than you!	
+25	小怜	──我才不是变态啦！	──我才不是變態啦！	──俺は変態じゃないって！	──난 변태가 아니야!	I’m not a creep! Geez!	
+26	N/A	只是这东西，长得确实有点……	只是這東西，長得確實有點……	ただこの展示品は……確かにちょっと……	하지만 이 물건들，생김새가 조금……	Anyway, this thing really does look a bit... you know... disturbing.	
+27	海因里希	这里也是一个人都没有……	很奇怪，這裡也都沒人……	ここには誰もいませんわね……	여기도 사람이  없어……	And what’s worse, there’s no one here.	
+28	拉斐尔	是啊，整个基地就像一座空城，有些地方还有年久失修的痕迹。	是啊，整個基地就像一座空城，有些地方還有年久失修的痕跡。	そのようね。基地全体がもぬけの殻だわ。\n長年メンテをしてない形跡が所々確認できるし。	맞아. 전체 기지가 텅 빈 성 같아. 어떤 곳은 오랫동안 방치된 흔적이 보여. 	It’s like a whole empty city. You can tell that some corners are getting rusty from disuse.	
+29	海因里希	注意脚下！	注意腳下！	足元にお気を付けを！	발 밑을 조심해！	Hey! Watch your step!	
+30	小怜	哎？！	哎？ ！	えっ！？	으악？！	Huh?	
+31	N/A	我一脚踩到了弹壳上，身体向展柜的方向滑倒，眼看头就要磕在柜台的尖角上──	我一腳踩到了彈殼上，身體向展示櫃的方向滑倒，就在頭快就要撞倒櫃台的尖角時──	薬莢を踏み付けた滑った俺は、\n展示ケースの方へ転びそうになってしまう。\n頭が展示ケースの角にあたる寸前──	탄피를 밟은 몸이 전시대 방향으로 미끄러지며 머리가 전시대 모서리에 부딪히려 할 때	I trip on a cartridge and fall forward in the direction of the display case. Right as I’m about to hit my head on the sharp corner—	
+32	N/A	拉斐尔一个箭步上前及时的扶住了我。	拉斐爾一個箭步上前，及時扶住了我。	ラファエルが駆け寄って、タイミング良く俺を\n支えてくれた。	라파엘이 단숨에 나를 부축했다.	Raphilia steps forward and pulls me back in time.	
+33	拉斐尔	真是个麻烦的笨蛋……	真是個麻煩的笨蛋……	まったく、世話が焼けるわね……	정말 성가신 바보라니까……	What a klutz...	
+34	小怜	──好、好险！	──好、好險！	──あ、危なかったっ！	──와，완전 위험했어!	Whew! That was close!	
+35	小怜	谢谢……拉斐尔。	謝謝妳……拉斐爾。	ありがとう……ラファエル。	고마워……라파엘	Thanks, Raphilia.	
+36	N/A	拉斐尔用类似交谊舞的姿势抱住我，不得不承认这个动作真的好帅！	拉斐爾用類似國標舞的姿勢抱住我，不得不承認這個動作真的好帥！	社交ダンスのような姿勢で俺を抱きしめている\nラファエル。\nその動作は男の俺でも格好良かったと認めざるを\n得ない。	사교댄스 같은 자세로 날 안고 있는 라파엘의 동작이 꽤 멋지다고 느껴졌다. 	I open my eyes to find myself in Raphilia’s arms, as if we were performing a ballroom dance. I have to admit she looks... nice, like this. Total boyfriend material.	
+37	N/A	拉斐尔松开揽在怀里的我，有点不好意思的咳嗽了一声。	拉斐爾鬆開懷裡的我，有點不好意思地咳了一聲。	ラファエルは胸に抱いた俺を放してから、\n少し恥ずかしそうに咳払いをした。	라파엘이 품에 안긴 날 밀어내고 조금 부끄러운듯 헛기침을 한다. 	Raphilia coughs awkwardly, releasing me from her grasp.	
+38	N/A	离开展厅，我们来到一条金属甲板覆盖的走廊。	離開展示廳，我們來到一條被金屬甲板覆蓋的走廊。	先ほどの部屋を出て、金属甲板で覆われている\n長い廊下に着く。	전시 로비를 지나 금속 갑판으로 덮힌 복도에 왔다. 	We leave the exhibition room to find a corridor, with its ground covered by metal boards.	
+39	N/A	这里的灯光明显更明亮，安静的气氛也更加诡异。	這裡的燈光更為明亮，寧靜的氣氛也更加詭異。	ここの照明は先ほどの部屋よりは明るいが、\n並び立つ扉と静かな雰囲気も相まって、\n不気味さが増している。	이곳의 불빛은 더 밝았다. 조용한 분위기가 더욱 이질감을 준다. 	The lights are significantly brighter here. The atmosphere is also significantly more eerie. Too quiet. I don’t like it.	
+40	N/A	但远处机械运转的白噪音说明了一点──	但遠處機械運轉的白噪音說明了一點──	だが、深々と響く機械駆動のホワイトノイズは\n1点の事実を説明している──	하지만 멀리서 들리는 기계 작동의 백색 소음이 뜻하는 건──	Still, the white noise of machines running can be heard. Which means—	
+41	N/A	这个基地并未陷入完全的沉睡。	這個基地並未完全休眠。	……この基地は、完全な眠りにはついていない。	이 기지가 완전한 침묵 상태는 아니라는 거다.	This base is not, well, completely dead.	
+42	小怜	如果有人维持着系统的运作，那他为什么会对我们几个置之不理呢？	如果有人在維持系統運作，為什麼會對我們幾個置之不理呢？	もし誰かがシステムを維持しているのであれば、\nなんで俺達をずっと放置しているんだ？	만약 누군가 시스템을 작동하고 있다면 왜 우리를 모른 척 하는 걸까?	If someone’s still around to man the machines, shouldn’t they have already come out to greet us?	
+43	拉斐尔	如果对方抱有敌意的话，早就可以动手了……	如果對方抱有敵意的話，早就可以動手了……	そいつが敵意を持っているとすれば、\nとっくに手を下しているでしょうね……	만약 상대가 적의가 있었다면 벌써 움직였겠지……	Or, if they’re not the friendly type, they could have launched attack already, too.	
+44	N/A	突然我发现有个光点在黑暗中移动，仔细一看才发现，是不远处的一只监控摄像头转向了我们。	突然我發現有個光點在黑暗中移動，仔細一看才發現，是不遠處的一個監控攝影機轉向了我們。	ふと、薄暗い中で光が動いている事に気付いた。\n\n目を凝らして良く見ると、監視カメラが\n俺達の方を向いている。	어둠 속에서 불빛이 움직이는 것이 보인다. 근처 감시 카메라가 우리를 향했다.	Suddenly, I notice a red dot moving about in the darkness. I follow it with my eyes, and realize that it’s from a surveillance camera, currently pointing at us.	
+45	N/A	我朝着监控器挥了挥手。	我朝著監視器揮了揮手。	俺はカメラに向かって手を振った。	나는 카메라를 향해 손을 흔들었다.	I wave at it.	
+46	小怜	不好意思──那个，请问……	不好意思──那個，請問……	すみません──あの、少し聞きたいんですが……	실례합니다─저기，혹시……	Uh, excuse me...	
+47	拉斐尔	你的姿势也太少女了吧。	妳現在的姿勢也太少女了吧。	乙女かあんたは。\n挨拶と振る舞いが女々しい。	네 자세가 너무 여성스러워.	You look so girly doing this.	
+48	N/A	拉斐尔突然打断了我。	拉斐爾突然打斷了我。	ラファエルが急に口を挟んできた。	라파엘이 갑자기 내 말을 끊는다.	Raphilia comments.	
+49	拉斐尔	喂，我说你们，别再这么鬼鬼祟祟的了！	喂，我說妳們，別再這麼鬼鬼祟祟的了！	ちょっとそこで隠れているあんた達、\nいつまでコソコソしてるつもりよッ！	이봐，너희들! 수상한 짓은 그만 둬!	Come on, whoever’s in there, can’t you just come out and talk to us?	
+50	海因里希	不对，并没有被窥视的感觉……	不對，我並沒有被窺視的感覺。	いえ……これは、覗かれてる感じがしません……	아니야，감시당하는 느낌은 없어……	Still, I don’t feel like someone’s watching us...	
+51	小怜	（只是声音感应的监控装置吗？）	（所以，這只是聲音感測的監控設備嗎？ ）	（ただの音に反応する監視装置かな？）	（음성 센서 장치인가? ）	(Perhaps the surveillance camera had turned towards us because it sensed our footsteps? Perhaps no one’s controlling it?)	
+52	N/A	这种根据声音锁定设备，已经被淘汰很多年了吧……只要一个小型的超声发生器就能使其瘫痪。	這種設備已經淘汰很多年了吧……只要一個小型的超音波發射器就能讓它癱瘓。	この手の音声認識の装置って\n小型の超音波発生器だけで壊せるから、\nもう何年も前に淘汰されたはずなんだけど……	음성 잠금 기기는 벌써 사라진 지 오래였다. 소형 초음파 기기로 정지시킬 수 있기 때문이다.	Sound-activated devices hasn’t been in use since decades ago, though. Too weak. Even a tiny ultrasonic generator could paralyze them.	
+53	N/A	监控装置还在运作，但它的背后却无法感受到任何“人类”的动作。	監控設備還在運作，但總覺得它的背後沒有任何「人類」的存在。	監視装置は動作しているが、その背後に『人間』\nらしい気配がまったく感じられない。	센서 장치가 여전히 작동했지만 "인간"의 움직임을 느낄 수 없었다. 	The surveillance camera is still running—yet it doesn’t seem like someone’s manning it.	
+54	N/A	我有些失望，发现拉斐尔还蒙在鼓里，于是用故作恐怖的语气幽幽说道──	我有些失望，卻發現拉斐爾還蒙在鼓裡，於是故作恐怖的語氣幽幽說道──	つまりは誰もいない状況に変わりはなく、\n俺はがっかりした。\nラファエルがまだ困惑中だったので、ついでに\nわざとらしい口調でオドロオドロしく喋る──	아무것도 모르는 라파엘을 발견한 나는 일부러 공포스런 목소리로 조용히 말했다──	I’m kind of disappointed, and decide to spook poor Raphilia a bit. In a pretentious, sinister tone, I tell her:	
+55	小怜	说直觉……可能有些好笑……	憑我的直覺……可能有些好笑……	率直に言うと……笑われるかもしれないけど……	직감이라고 하긴……조금 웃긴데……	See, you might not believe me, but actually...	
+56	小怜	但我觉得，这里可能……有人类之外的……	但我覺得，這裡可能……有人類以外的……	でも俺は感じてしまったよ……\nきっとここには……恐らく人間以外の何かが……	여기에 인간이 아닌……다른 것이 있는 것 같아……	I can see dead people...	
+57	拉斐尔	──你、你想说有鬼吗！！	──妳、妳想說有鬼嗎！ ！	──ゆゆゆ、ゆ、幽霊がいるとでも言いたいのか\nあんたはッ！？ 	─귀，귀신이라도 있다는 거야!?	You... you mean there are ghosts here?	
+58	N/A	拉斐尔突然用异常升高的语调打断了我。	拉斐爾突然用異常升高的語調打斷了我。	ラファエルは異常に高いトーンで俺の話を遮る。	라파엘이 갑자기 높은 목소리로 내 말을 끊는다. 	Raphilia screeches in an uncharacteristically high-pitched voice.	
+59	N/A	发现我在故意吓人，拉斐尔有些气急败坏的想冲过来敲我的脑袋。	在發現我是故意嚇她之後，拉斐爾有點氣急敗壞地衝過來敲我的腦袋。	俺がわざと怖がらせようとしている事に気付き\nラファエルは血相を変えて駆け寄って来て、\n容赦なく俺の頭を叩こうとした。	내가 일부러 겁주었다는 걸 알아차린 라파엘이 달려와 내 머리를 때린다. 	She then realizes that I’m just clowning and dashes over to whack me on the head.	
+60	N/A	躲避中我跌倒在地上，身上的温玉也掉了出来。	我在閃躲當中跌到地上，身上的溫玉也掉了出來。	彼女の一撃を避けようとした最中、\n持っていた暖玉をポケットから落としてしまう。	공격을 피하려던 나는 바닥에 쓰러져 온옥을 바닥에 떨어뜨렸다. 	In attempt to back away, I fall to the ground, my Fire Jade rolling out of my shirt.	
+61	小怜	不不不拉斐尔我不是这个意思——啊——阿嚏！\n我不知道你怕鬼……	不不不拉斐爾我不是這個意思——啊——哈啾！ \n我不知道妳怕鬼……	ち、違うってラファエル。そういう意味で\n言ったわけじゃ──は──はっくしょんッ！\nラファエルがそこまで幽霊が苦手なんて、\n知らなかったんだ……	아니，라파엘! 그런 뜻이 아니라——아——엣취！\n네가 귀신을 무서워하는지 몰랐어……	Raphilia, I didn’t mean to—ah... achoo!\nSorry, I didn’t know you were such a scaredy cat...	
+62	小怜	好、好冷！！！	哈啾，好、好冷！ ！！	さ、寒！！！	추，추워！！！	Ugh, so cold...	
+63	拉斐尔	哼！	哼！ 活該。	ふんっ。	흥!	Hmph!	
+64	N/A	看到失去温玉的保护被冻得缩成一团的我，拉斐尔才算有些消气。	看到失去溫玉的暖度而凍得縮成一團的我，拉斐爾才算有些消氣。	暖玉の加護を失い凍え縮み上がった俺の様子を\n見て、やっとラファエルの怒りが収まった。	온옥의 보호를 잃어 몸을 웅크린 나를 본 라파엘이 그제서야 화가 풀렸다.	Raphilia calms down somewhat when she sees me huddled on the ground, trembling from the cold without the jade’s protection.	
+65	N/A	明明都到了基地内部，为什么还这么冷冷冷冷……	明明都到了基地內部，為什麼還這麼冷冷冷冷……	それよりも基地の奥まで入っているはずなのに、\nどうしてまだこんなに寒いいいいい……	기지 내부에 들어왔는데 어째서 이렇게 추운 거야아아아……	Why is it so cold even though we’re indoors...?	
+66	N/A	我连忙拾起了温玉。	我趕緊撿起溫玉。	俺は慌てて暖玉を拾い上げた。	나는 황급히 온옥을 집어 들었다.	I hurry to pick up my Fire Jade.	
+67	小怜	奇怪，这个温度是不打算让基地里的人活动吗？	奇怪，這種溫度是不打算讓基地裡的人活動嗎？	おかしくないか？こんな寒さで基地内の人は\nどうやって暮らしているんだよ？	이상해. 도저히 기지 안에서 활동할 수 없는 온도잖아. 	Isn’t this a bit too cold? How do the people in the base even live like this?	
+68	N/A	仔细观察发现墙角很多地方已经结冰，让我恍惚间回想起某个在冰天雪地里求生的游戏……	仔細觀察後，我發現牆角很多地方已經結冰，讓我恍惚間回想起某個在冰天雪地裡求生的遊戲……	よく観察すると、廊下の隅々が凍っている。\n極寒の中で街作りするゲームを思い出した。	자세히 둘러보니 벽 가장자리가 이미 얼어있다. 갑자기 어느 설원 생존 게임이 떠오른다.	After careful observation, I notice that some corners are actually frozen over. It somehow reminds me of this videogame I once played, in which players had to survive in a world of ice and snow...	
+69	N/A	抓革命，促生产，搞好生产大自救……什么的，虽然游戏的结局很莫名其妙啦。	揪出搗亂者、想辦法生產糧食、絕地求生什麼的，雖然遊戲的結局很莫名其妙。	技術革新に力を入れ、生産を促し、人々を導き、\n自分の統率力で滅亡を防いでいく………\nゲームのラストはわけ分かんなかったけど。	혁명을 바로 잡고 생산을 촉진한다  ……같은，게임 결말이 좀 뜬금없었는데.	That game was about producing resources or something. And it had a pretty bizarre ending.	
+70	海因里希	（不对劲。）	（不對勁。 ）	（おかしい）	（이상해.）	(Wait...)	
+71	N/A	海因里希把掌心贴在了墙壁上。	海因里希把掌心貼到牆壁上。	ハインリッヒは手のひらを壁に当てた。	하인리히가 손바닥을 벽에 붙인다.	Henriette places her palm on the wall once again.	
+72	小怜	别、别又在人家的地盘上搞破坏啊——	別、別又在人家的地盤上搞破壞啊——	ま、また人の家のモノを壊したりしないでね──	다，다른 사람의 공간을 함부로 부수면 안 돼——	Hey, d-don’t wreck that wall too...	
+73	N/A	真怕她顺手把承重立柱给拆出来……	真怕她順手又把承重柱給拆了……	彼女が壁を触ると、そのまま支柱とかを丸ごと\n取り外しそうで怖い……	그녀가 기둥을 뽑아낼까 걱정된다……	She’s the kind of person who’d totally yank out a whole pillar if she weren’t being careful.	
+74	海因里希	不对。	不對。	違いますわ。	아니야.	Something doesn’t feel right.	
+75	N/A	金发的炼金术士表情严肃。	金髮的煉金術士表情嚴肅。	金髪の錬金術士は真剣な顔つきだ。	금발의 연금술사가 진지한 표정을 짓는다.	The blonde alchemist frowns, face solemn.	
+76	N/A	从她手掌按着的区域，一道波纹般的气流顺着墙壁向四周扩散。	從她手掌按著的區域為起點，一道波紋般的氣流順著牆壁向四周擴散。	彼女が手のひらを当てた場所から壁に沿って\n周囲へ波紋のような気流が広がる。	그녀의 손바닥이 벽을 누르자 물결 같은 기류가 벽을 따라 주위에 퍼진다. 	A ripple of air seems to be flowing in all directions, starting from where her palm is pressed down.	
+77	海因里希	……	……	…………	……	...	
+78	小怜	怎么？	怎麼了？	どうしたの？	왜 그래？	What?	
+79	海因里希	……我们好像，被困住了。	……我們好像，被困住了。	……わたくし達、閉じ込められましたわ。	……우리，갇힌 것 같아.	... We’re trapped.	
+80	拉斐尔	什么？	什麼？	何だと？	뭐？	Huh?	
+81	N/A	我连忙跑到走廊尽头，发现来时展览室的门并没有上锁。	我連忙跑到走廊盡頭，發現先前經過展覽室的門並沒有上鎖。	慌てて廊下の突き当りまで走って確認したが、\nさっきの部屋はロックされていなかった。	나는 서둘러 복도 끝으로 갔다. 전시실의 문은 잠겨 있지 않았다. 	I sprint to the end of the corridor. The door to the exhibition room isn’t locked. Nah, we’re fine. Totally not trapped.	
+82	小怜	不要随便吓人嘛……	不要隨便嚇人嘛……	驚かさないでくれよ……	사람 놀래키지 마……	Stop scaring me, geez...	
+83	N/A	我一边捂着自己惊魂未定跳个不停的心脏，一边往刚才路过开着门的资料室走去。	我一邊拍拍自己驚魂未定、心跳100的胸口，一邊往剛剛路過、門開著的資料室走去。	ホッと溜め息を吐きつつ元の場所へ戻り、\n先ほど扉が開いている事を\n確認していたプレートに「資料室」と\n貼ってあった部屋へと向かった。	나는 놀란 심장을 진정시키며 문이 열려있는 자료실로 걸어 들어갔다. 	One hand over my heart, I stalk off towards the archive room we just passed by. The door is open.	
+84	N/A	我来到了一间灯光明亮的资料室，这里的氛围比刚才的走廊好了很多。	我來到了一間燈光明亮的資料室，這裡的氛圍比剛才的走廊好很多。	資料室の雰囲気は廊下よりもずっと良い。	불빛이 밝게 비추는 자료실에 오니 분위기가 방금 그 복도보다 훨씬 낫다. 	The room is brightly lit, feels much cozier than the corridor.	
+85	N/A	只顾着观察四周，完全没注意到地砖上裂缝的我又一下绊了个趔趄。	我只顧著觀察四周，完全沒注意到地磚上有裂縫，於是又絆了個踉蹌。	周囲を見渡していたら、床のヒビ割れに気付かず\nまた少し転びそうになる。	주위를 관찰하는데 정신이 팔린 나는 바닥의 틈이 있다는 걸 깜빡하고 또 휘청거렸다.	Too busy looking around, I nearly trip over a crack in the floor tiles.	
+86	拉斐尔	你这家伙，注意点啊……	喂！ 妳這傢伙，小心點好不好！	あんたねぇ、気を付けなさいよ……	너 ，조심하라니까……	Watch your step, klutz.	
+87	N/A	拉斐尔站在资料室门口，一边看着我，一边盯着还在对走廊墙壁若有所思的海因里希。	拉斐爾站在資料室門口，一邊看著我，一邊盯著對走廊牆壁若有所思的海因里希。	ラファエルは資料室の外で俺を見つつも、\n\n廊下の壁の事に対して考えを巡らせている\nハインリッヒの方にも視線を向けている。	라파엘이 자료실 입구에 서서 나와 벽을 마주보고 생각에 잠긴 하인리히를 번갈아 쳐다본다.	Raphilia stands in the doorway of the archive room, keeping an eye on me on one hand, and watching over Henriette on another. The alchemist still seems to be puzzling over the corridor wall.	
+88	小怜	等等，这间资料室里……有风？	等等，這間資料室裡……有風？	ん？　待って、\nこの資料室……風が吹いている？	잠깐，이 자료실 안에……바람이 부네？	Wait. Why do I feel a draft in this room?	
+89	小怜	难道……	難道……	もしかして……	설마…	Could it be...	
+90	N/A	我试着把温玉放在桌子上，感受室内的温度。	我試著把溫玉放在桌上，感受室內的實際溫度。	俺は試しに暖玉を前の机に置き、室内の温度を\n感じてみた。	온옥을 테이블 위에 올려놓고 실내 온도를 느껴보았다. 	I take out my Fire Jade and place it on the table, so that I can better feel the temperature in the room.	
+91	N/A	果然，这里和走廊完全不同……充足的暖气完全能让人忘记自己身处南极。	果然！ 這裡和走廊完全不同，溫暖的溫度完全能讓人忘記自己身處南極。	やっぱり、ここは廊下と全然違う……\n\n暖房が十分に効いていて、今南極にいるって事を\n忘れてしまいそうだ。	역시 이곳은 복도와 전혀 다르다…따뜻한 온도가 남극에 있다는 사실을 잊게 만든다. 	Sure enough, the temperature here is much higher than in the frigid corridor. There’s heating—so warm it’s hard to believe we’re in Antarctica.	
+92	小怜	哎……？	咦……？	あれっ……？	엣……？	Huh...?	
+93	N/A	可是，刚才路过的时候，书架上的陈列好像……\n好像不是这样的？	可是，剛才路過的時候，書架上的東西好像……\n不是這樣陳列的？	でもさっき……扉が開いてるのを確認するため、\n部屋の様子を見た時は……\n本棚の配列が、こんなんじゃなかったような？	하지만 방금 지나갈 때 진열대 위 물건이…\n이렇게 진열되어 있지 않았는데？	Wait. Back when we passed by this room, I remember glancing at the shelf.\nSomething looks different...	
+94	小怜	（……是我记错了吗？）	（……是我記錯了嗎？ ）	（…………俺の記憶違いか…？）	（……내가 잘못 기억했나？）	(... Or is it just my memory playing tricks on me?)	
+95	N/A	我挠了挠头，向门外走去。	我抓了抓頭，向門外走去。	俺は頭をかいて、部屋の外へ出ようとした。	나는 고개를 저으며 문 밖을 향해 걸어갔다. 	Scratching my head, I walk towards the door.	
+96	拉斐尔	小心脚下——	小心腳下——	足元注意よ。	발 밑을 조심해——	Watch your feet.	
+97	小怜	知道知道，刚才我还在想呢，地上裂了那么大的一道缝居然也没人修……	知道知道，剛才我還在想呢，地上有那麼大的裂縫居然也沒人修……	分かってる分かってる。まったく、床がこんなに\n割れているのに誰も修理しないなんて……	알아，알아. 바닥에 이렇게 커다란 틈이 생겼는데 왜 수리하는 사람이 없나 생각하고 있었어……	Gotcha. I almost tripped over that gigantic crack on the ground just now. I won’t make the same mistake again—	
+98	N/A	一边说着，我一边留意着地面──	一邊說著，我一邊看向地面──	そう言いながらも、床を注視する──	나는 이렇게 얘기하며 지면을 주의했다──	I say, gesturing towards the floor to make my point clear. But wait...	
+99	N/A	地砖上没有任何破损和缝隙。	地磚上沒有任何破損和縫隙。	床には、破損も亀裂もない。	바닥에 어떠한 틈도 없다. 	There is no crack. The tiles are all intact.	
+100	N/A	光洁平整如镜面一般的大理石地砖，甚至连我的蓝白……	光潔平整如鏡面般的大理石地磚，甚至連我的藍白……	鏡のようにピカピカな大理石の床が、\n俺の縞パンを映す……	거울처럼 평평한 대리석 바닥이다. 심지어 내…	Smooth, sleek, marble tiles. Almost like a mirror. It even reflects my blue-and-white panties—	
+101	N/A	发现了问题的我，立刻并拢了双腿。	突然發現問題的我，立刻併攏雙腿。	とりあえず、まずは両足を閉じて考える。	문제를 알아차린 나는 즉시 두 다리를 모았다.	Oops. I immediately close my legs.	
+102	小怜	……	……	…………	……	...	
+103	N/A	果然不对劲。	果然不對勁。	……やっぱりおかしい。	역시 이상해.	Something really isn’t right.	
+104	海因里希	……怎么了小怜。	……怎麼了，小憐？	……どうされましたか、マスター？	……왜 그래요，렌?	... Anything wrong, Ren?	
+105	拉斐尔	呆在那里做什么？	妳還呆在那裡做什麼？	そこでぼーっと何をしてるのよ？	거기서 멍하니 뭐하고 있어？	What are you doing there?	
+106	小怜	刚刚这里的裂缝……自己消失了？	剛剛這裡的裂縫……不見了？	さっきまでにここにあったヒビが……消えた？	방금 여기 있던 균열이……저절로 사라졌어.	There was a crack right here just now. But it’s gone...	
+107	N/A	我很确信，刚才是踢在一道裂缝边缘差点绊倒。	我很確定，我剛剛是在這裡踢到一道裂縫邊緣而差點絆倒。	さっきヒビにつまずいて、転びそうになった事を\nはっきりと覚えている。	확실히 난 방금 그 균열의 가장자리를 밟아 넘어질 뻔 했었다. 	I couldn’t have remembered wrong, because I almost tripped over it.	
+108	N/A	原本应该有裂痕的地面。	原本應該有裂痕的地面。	亀裂があったはずの地面。	원래 균열이 있어야 할 지면.	The ground, where there should have been a crack...	
+109	N/A	唯一开着暖风的资料室。	唯一開著暖氣的資料室。	唯一暖房が作動している資料室。	유일하게 온풍이 작동된 자료실.	The archive room, the only place that’s heated...	
+110	N/A	书架上变换的物品摆放方式……	書架上變換的物品擺放方式……	変化した本棚の配列。	진열대 위 위치가 바뀐 물건들……	The shelf, on which the objects seem to have changed order...	
+111	N/A	我的心扑通扑通扑通直跳。	我的心撲通撲通撲通直跳。	心臓の音が加速する。	심장이 쿵쾅쿵쾅하고 뛰기 시작한다.	I can feel my heart thumping madly in my chest.	
+112	N/A	我小心翼翼的向前迈了一步。	我小心翼翼地向前邁了一步。	俺は慎重に一歩を、前へと踏み出した。	나는 조심스럽게 앞으로 한 발짝 내디뎠다.	Cautiously, I take a step forward.	
+113	拉斐尔	哎，你往裂缝里踩是什么意思，是不是还想让我扶你……	哎，妳踩到裂縫裡是什麼意思，是不是還要麻煩我扶妳……	なに神妙な面持ちでヒビを踏もうとしてるのよ？\nまた私に支えて欲しいのかしら……	균열을 왜 밟고 있어? 설마 또 내게 안기고 싶은 거야……?	Hey, what are you doing? Watch it, there’s a crack right there. If you trip again I’m not saving you.	
+114	N/A	拉斐尔的态度让我差点产生错觉。	拉斐爾的態度讓我差點產生錯覺。	ラファエルの態度が俺を錯覚させる。	라파엘의 태도에 순간 착각할 뻔 했다.	Raphilia sounds annoyed. She’s definitely not kidding around—she really does see a crack on the floor.	
+115	N/A	但是身体却明确地告诉我，我脚下踩着的，是一片完整的地面。	但是身體卻明確地告訴我，我腳下踩著的，是一片完整的地面。	だけど身体は嘘を吐かない──\n今踏んでいるのは、平坦な地面だ。	하지만 내가 밟은 곳이 완벽한 지면이라는 걸 몸이 알려준다.	But as far as I can see (and feel), there’s no crack.	
+116	小怜	……	……	…………	……	...	
+117	拉斐尔	……	……	…………	……	...	
+118	海因里希	……我想，我们所能观察到的恐怕不太一样。	……我想，我們觀察到的恐怕不太一樣。	……どうやら、それぞれ違う物をわたくし達は\n見ているようですね。	……우리가 보이는 것과는 다른 것 같군. 	... Something’s not right. What you see and what I see... they’re different.	
+119	N/A	为什么会这样……	為什麼會這樣……	どうしてこんな事が……	어째서 이런 일이……	How could that be...?	
+120	N/A	我不安地拿出对讲机，希望能联系上安妮和莉琉寻回一些安全感。	我不安地拿出對講機，希望能聯繫上安妮和莉琉，尋求一些安全感。	俺は無線機でアニーとマリルに連絡をして、\n不安な気持ちを取り除こうとした。	난 불안한 마음으로 앤과 마리루에게 연락이 닿길 바라며 무전기를 들었다. 	Unnerved, I grab my walkie-talkie in an attempt to contact Annie or Mariru. That would at least give me a semblance of security.	
+121	小怜	——喂喂，安妮，安妮？	——喂喂，安妮，安妮？	──もしもし、アニー、アニー？	——여보세요，앤，앤？	Hello? Annie? You there?	
+122	N/A	对讲机中并没有回应，可能在地下没有信号了。	對講機沒有回應，可能因為在地下室而沒有訊號。	無線機から何の返事もない。\n地下だから電波が届かないのかもしれない。	무전기는 대답이 없었다. 아마 지하라서 신호를 못 받는 듯 하다.	There’s no reply. We’re underground after all, the signal probably doesn’t reach that far.	
+123	N/A	注意到我奇怪的神情，拉斐尔和海因里希也进入了资料室。	拉斐爾和海因里希都注意到我奇怪的表情，也跟著進入了資料室。	俺の妙な表情に気付き、\nラファエルとハインリッヒも部屋に入ってきた。	나의 이상한 표정을 본 라파엘과 하인리히도 자료실로 들어온다. 	Noticing the confusion on my face, Raphilia and Henriette enter the archive room as well.	
+124	N/A	——这间，和刚刚路过时完全不同的资料室。	——這間，和剛剛路過時完全不同的資料室。	───違和感で埋め尽くされた、謎の資料室に。	——이 자료실은 방금 지나갈 때 봤던 것과 완전히 다르다. 	The archive room that looks completely different from the one we just passed by.	
+125	拉斐尔	……	……	…………	……	...	
+126	小怜	不是我的错觉……	不是我的錯覺……	俺の気のせいじゃない……	착각이 아니야……	Feels like I’m dreaming, but I know I’m not.	
+127	海因里希	这，不是刚才那个房间。	這，不是剛才那個房間。	……ここは、先ほどとは別の部屋ですわね。	이건 아까 그 방이 아니야.	This room, and the one we passed... they’re not the same room.	
+128	N/A	忽然，走廊外面传来了咯咯咯咯的怪声。	忽然，外面走廊傳來咯咯咯咯的怪聲。	突然、廊下からケラケラと奇妙な声がした。	갑자기 복도 밖에서 구구구구하는 괴성이 들려온다.	Suddenly, we hear weird, disturbing clacking sounds, coming from the corridor outside.	
+129	拉斐尔	──什么人！	──什麼人！	──何者だ？！	──누구냐！	Who’s there?	
+130	N/A	拉斐尔和海因里希立刻做出了迎战的准备。	拉斐爾和海因里希立刻做出迎戰準備。	ラファエルとハインリッヒはすぐに迎撃準備に\n入った。	라파엘과 하인리히가 즉시 전투 상태에 돌입한다. 	Raphilia and Henriette get into battle mode right away.	
+131	N/A	在我回头的瞬间，背后冲出一群手持冷兵器，神色诡异的人。	在我回頭的瞬間，背後衝出一群手持冷兵器、神情詭異的人。	俺が振り向いた瞬間、RPGとかで登場しそうな\n武器を装備した不気味な連中が飛び出してくる。	고개를 돌리는 순간 등 뒤에서 병장기를 든 괴이한 사람이 돌진해 온다.	Right behind me comes running a whole horde of enemies with sinister looks on their faces and blades in their hands.	
+132	N/A	而对方无神的双眼中露出的，是单纯的敌意──	而對方無神的雙眼中露出的，是單純的殺意──	相手の虚ろな目から見えるのは、\n単純な敵意。	풀린 두 눈에 담긴 것은 단순한 적의다──	There is nothing in their eyes except pure hostility.	
+133	N/A	我握紧了手中的球棒……	我握緊了手中的球棒……	俺は手に持つバットを強く握った……	나는 손에 든 방망이를 꽉 쥐었다……	I grip my baseball bat tight...	

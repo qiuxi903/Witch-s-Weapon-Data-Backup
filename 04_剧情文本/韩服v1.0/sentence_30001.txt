@@ -1,0 +1,101 @@
+﻿1	N/A	『灵魂』是什么？	「靈魂」是什麼？	『魂』とは何か？	『영혼』이란 무엇일까？	What is the Soul?	
+2	N/A	是记录着意识的某种能量，还是无法观测的量子态存在？	是記錄著意識的某種能量，還是無法觀測的量子存在？	意識を記録した、ある種のエネルギーか。\nそれとも観測できない量子状態的な存在か？	의식이 기록되어 있는 에너지 혹은 측정 불가능한 양자 상태의 존재일까?	A form of energy that preserves consciousness? Or an unobservable quantum state?	
+3	N/A	或许『灵魂』仅仅是一种概念。	或許，「靈魂」只是一種概念。	あるいは『魂』とは単なる概念の1つに過ぎないのかもしれない。	어쩌면 『영혼』은 그저 일종의 개념일 수도 있다.	Or just a concept… 	
+4	N/A	就像物理学中『时间』的概念一样──	就像物理學中「時間」的概念一樣──	物理学における『時間』の概念と同じく──	마치 물리학에서 말하는 『시간』이라는 개념처럼──	Just like the concept of time in physics—	
+5	N/A	只是一种幻觉……一场梦。	只是一種幻覺……或者，一場夢。	ただの幻覚……夢。	단순한 환각이나……꿈일 수도 있다.	Maybe it's just an illusion… a dream.	
+6	N/A	那么唯一的问题是──	那麼唯一的問題只有──	ならば唯一の問題は──	그렇다면 남은 문제는──	Then the question is—	
+7	N/A	做梦的人是谁？	做夢的人是誰？	夢を見ているのは──誰なのか？	꿈의 주인은 누구일까?	Who is the dreamer?	
+8	N/A	南极辐合带区域，冰冷刺骨的寒意似乎拒绝着外界的一切的探究。	南極輻合帶，冰冷刺骨的寒意似乎阻擋著外界所有進一步的探究。	南極収束線区域。骨身まで刺すような寒さは、\n外界からの探究を拒絶しているかのようだ。	남극 수렴대 구역，뼈를 찌르는 추위가 외부의 모든 것을 배척하는 것 같다.	The biting chill in the Antarctic Convergence shuts out all the noise from the outside world.	
+9	N/A	海平面下6100米，深渊水层。	海平面下6100公尺，深淵水層。	海面下6100m、超深海層。	해수면 6100미터 아래，심연의 바다.	At 20,000 ft below sea level lies the abyssal zone.	
+10	N/A	在钛合金耐压外壳包裹下的深潜舱正在缓慢沉降。	以鈦合金耐壓外殼包裹的深潛艙正緩緩地沉降。	チタン合金の耐圧外殻に包まれた潜水艦が、\nゆっくりと沈下していた。	티타늄합금 장갑으로 둘러싸인 잠수함이 천천히 가라앉고 있다.	Wrapped in a titanium pressure hull, a deep-sea submarine is descending slowly.	
+11	N/A	舱体的状态灯发出的微弱光线，射出不到10厘米就被周围的黑暗吞噬殆尽。	艙體狀態燈所發出的微弱光線，不出10公分就被黑暗吞噬殆盡。	船室のステータスランプから発せられた\n微弱な光は、10cm弱を照らす事しかできず、\n周囲の暗闇に飲み込まれてしまっている。	선체의 상태표시등이 미약한 빛이 10센티미터 밖을 나가지 못하고 어둠에 삼켜진다.	The faint light emitted from its status indicator is quickly engulfed in the abysmal darkness.	
+12	N/A	毫无光线之处，空间也变得无法感知。	光線以外，盡是無法感知的空間。	光の存在しない場所では、空間も正しく感知\nできないであろう。	한 줄기 빛조차 없는 곳，아무것도 감지할 수 없는 공간이 되어버린다.	Without light, it is unable to perceive space.	
+13	N/A	一只色彩诡异的尖牙鱼试着撞击舱身，但没有收到任何回应。	一隻色彩詭異的尖牙魚試著撞擊艙身，但沒有收到任何回應。	尖った牙と奇妙な色を持つ1匹の魚が、船体に\nぶつかったが潜水艦はビクともしない。	괴이한 색채의 귀신고기가 선체에 충돌했지만 어떠한 반응도 없다.	A creepy fangtooth tries to hit the hull, but it receives no response.	
+14	N/A	60兆帕的巨大水压时刻考验着深潜舱的极限强度。	60兆帕的巨大水壓不斷考驗著深潛艙的極限。	60MPaの巨大な水圧が、\n潜水艦の限界強度を試し続けている。	60Mpa의 거대한 수압이 잠수함의 한계를 시험하고 있다.	The water pressure of 60 MPa puts the hull's compressive stress limit to test.	
+15	N/A	突然，深潜舱的8组探照灯按照预设程序同时打开，笔直的射出八条狭长光柱。	突然，深潛艙的8組探照燈按照預設順序同時打開，筆直射出八道狹長光柱。	──突然、潜水艦の8組のサーチライトが\n予めプログラムされていたかように起動し、\n8本の光柱を真っ直ぐ放った。	갑자기 잠수정에 장착된 8개의 탐조등이 동시에 켜지면서 여덟 개의 기다란 빛기둥을 형성한다.	Suddenly, eight pre-programmed searchlights are turned on simultaneously, casting eight straight narrow beams of light.	
+16	N/A	像刺入黑暗的长剑，突然爆发出灼目的光芒。	像刺入黑暗的長劍，瞬間爆發出炫目光芒。	暗闇を突き刺す長剣のように、\n目を灼くような光が爆発的に広がる。	어둠을 꿰뚫는 장검처럼 갑자기 눈부신 빛을 뿜는다.	Like sharp swords, the searchlights burst into a dazzling glare and pierce through the darkness.	
+17	N/A	一缕光线从几十厘米厚的观察窗射入，照亮了舱内沉睡着的少女。	一縷光線從幾十公分厚的觀察窗射入，照亮了艙內沉睡中的少女。	厚さ数10cmの観察窓から一筋の光が差し、\n船室内で眠っている少女を照らした。	한줄기 빛이 두꺼운 창을 뚫고 선체에 잠들어있는 소녀를 비춘다. 	A beam of light passes through the thick windowpanes of the control room and falls on the face of a sleeping girl.	
+18	N/A	黑灰色的长发反射着淡蓝色的光泽，柔顺的披散在少女冰玉般透彻无暇的脸上。	黑灰色的長髮反射出淡藍色的光澤，柔順地披散在少女冰玉般透亮無暇的臉上。	鈍色の長髪は淡青色の光を反射し、\n氷のように透き通った少女の顔に沿って\nしなやかに伸び散っている。	잿빛의 긴 머리카락에 하늘색이 반사되어 옥처럼 맑고 깨끗한 소녀의 얼굴에 부드럽게 흩어진다.	Her long dark-gray hair, shining with blue luster, scatters on her pale but pure face.	
+19	N/A	在她面前，操作台上的深度探测仪已经失效，深度显示还停留在1247M。	在她面前，控制台上的深度探測儀已經失效，深度顯示還停留在1247公尺。	彼女の前にあるコントロールパネル上の深度計は\nすでに意味を成しておらず。\n深海1247mの時点で計測を停止していた。	그녀 앞 조작대 위의 깊이 탐측기는 이미 고장이 나，여전히 1247M에 멈춰 있다.	The depth gauge on the dashboard in front of the girl stops working at 4091 ft.	
+20	N/A	外部探照灯的光芒逐渐暗淡，少女的身体周围却闪烁着一层不易察觉的银白微光。	外部探照燈的光芒逐漸暗淡，少女周圍卻閃耀著一層隱晦的銀白微光。	外部サーチライトの光が次第に暗くなると、\n銀色の光が少女の周囲に漂っているのが分かる。\n……それはほんの微かに。	외부 탐조등의 빛이 천천히 어두워지고 소녀의 몸 주위에 미세한 은백색 빛이 반짝인다.	The searchlights outside the room fade gradually. But a faint, silver gleam starts flickering around the girl's body.	
+21	N/A	在足以承载人类任何恐惧想象的海洋深处，传来了一阵低沉悠远的声音。	在足以喚醒人類最恐懼事物的海洋深處，傳來了一陣低沉悠遠的聲音。	……低く、悠遠な声が聞こえてくる。\n\n人類の想像の果て、恐怖を包んだ深海の奥から。	인간의 무서운 상상을 불러일으키기 충분한 바다 깊은 곳，저 멀리서 은은한 목소리가 들린다.	From the depths of the ocean much feared by humans, comes a deep and distant voice.	
+22	N/A	如同来自远古的召唤。	如同來自遠古的召喚。	──まるで太古からの召喚のように。	마치 고대의 부름인 것처럼.	Like the calling of an ancient monster.	
+23	N/A	沉睡的少女仿佛从母体中被唤醒。	沉睡的少女彷彿從母體中被喚醒。	眠っていた少女は、母の身体から……\n\n生れ出づるかのように呼び起こされた。	깊이 잠들었던 소녀가 깨어난 것 같다.	The sleeping girl seems to be awakened from her mother's womb.	
+24	N/A	随之被唤醒的，是被压迫的眩晕感和无法克制的想要呕吐的欲望……	隨之而來的，是被壓迫的眩暈感和無法克制的嘔吐欲望……	圧迫感からの眩暈と抑えられない嘔吐の欲求が、\n目覚めたばかりの身体を苛む。	잠에서 깨어나자 현기증과 참을 수 없는 구토감이 몰려온다……	Also awakened is the uncontrollable dizziness and nausea… 	
+25	N/A	这个深度已经远超4500米的设计安全线，潜水舱的金属外壳开始发出异响。	現在深度已經遠超過4500公尺的安全限制，深潛艙的金屬外殼開始發出怪聲。	すでに深さは、潜水艇の設計上にて\n安全ラインである4500mを超えている。\n潜水艇の金属外殻からは異音が鳴り始めていた。	깊이 4500M의 설계 안전선을 초과한 잠수함의 금속 장갑이 괴음을 내기 시작한다.	Far below the safety depth of 15,000 ft, the metal hull begins to make an abnormal cracking sound.	
+26	N/A	少女的肺部迸发出压抑着的呛咳。	少女發出壓抑著的嗆咳。	少女の肺から抑圧されたような咳が出る。	소녀가 폐부가 억눌리는 기침을 쏟아낸다.	A suppressed cough heaves out from the girl's throat.	
+27	N/A	起初有些呼吸困难，但在几次呼吸调整之后，她很快适应并稳定了下来。	起初有些呼吸困難，但在調整幾次呼吸後，她很快適應並穩定了下來。	最初は少し呼吸困難に陥ったが、\n数回整えると呼吸はすぐに適応し、安定した。	몇 번의 호흡 후 호흡이 안정되기 시작했다.	She has some difficulties in breathing at first, but quickly adapts to the underwater pressure and steadies her breath.	
+28	N/A@少女	刚才的撞击……我好像晕过去了。	剛才撞擊的關係嗎？ 我好像暈過去了。	さっきの衝撃……私、気を失っていたのかしら。	방금 충돌로…정신을 잃은 것 같아.	The collision just now… Seems to have knocked me out.	
+29	N/A@少女	还能正常呼吸，说明含氧量正常。	目前還能正常呼吸，代表含氧量正常。	まともに呼吸できるという事は、\n酸素はまだ正常レベル……	호흡과 산소 함량도 정상이다.	But I can still breathe… There must be enough oxygen.	
+30	N/A@少女	从哈气看来……果然\n舱内已经接近0度了吗。	從呼氣會產生白霧看來……果然，\n艙內已經接近0度了嗎……	吐く息からして……おそらく船室内は、\n0℃近くでしょう。	입김이 서리는 걸 보니…역시\n선내는 이미 0도에 가까워진 걸까?	I can see my breath… \n Close to 32 °F, sure enough…   	
+31	N/A@少女	主系统检查，准备冷启动\n识别信息：白烛。	主系統檢查，準備冷啟動。 \n身分訊息：白燭。	メインシステムチェック……\nコールドスタート……スタンバイ……\n情報識別：バイジュウ	메인 시스템 점검，콜드 부팅 준비\n식별 정보: 바이츄.	System check. Ready for a cold boot. \n Identification information: Beth.	
+32	N/A	名为白烛的少女似乎并不担心低温可能对身体产生的影响，只是认真的检查着各个系统。	名為白燭的少女似乎不擔心低溫可能對身體產生的影響，只是認真地檢查各個系統。	バイジュウと識別された少女は、\n低温が身体に及ぼす影響などは一切気にせず、\n船内の各システムを丁寧にチェックしている。	바이츄는 저온으로 몸이 상하는 것은 아랑곳하지 않고 각 시스템을 점검하기 시작한다.	The girl named Beth doesn't seem to worry about the freezing temperature. She checks the system attentively.	
+33	N/A	这是她生来就具备的能力，最初还是婴儿的她被发现时，已经在冬日冰封的深山中过了一整夜。	這是她與生俱來的能力；當初還是嬰兒的她，被發現時，已經在冬日冰封的深山中過了一整夜。	彼女は生まれついた能力を持っていた。\n\n冬の氷に閉ざされた山奥で発見された時は、\nまだ彼女が赤子の頃の話だ。	이것은 그녀의 타고난 능력으로，\n아직 아기였던 그녀를 처음 발견했을 때，\n얼음으로 뒤덮힌 산에서 밤을 보낸 적도 있다.	She was born with the ability to sustain extreme cold. When baby Beth was found in the winter mountains, she had already spent a whole night on the ice.	
+34	N/A	后来一系列的检查发现，这个奇迹般的小女孩能适应各种寒冷环境。	經過後來一系列的檢查，發現這個小女孩奇蹟般地能適應各種寒冷環境。	その後の一連の検査の結果で、この奇跡の少女があらゆる極寒環境に適応できる事が判明した。	이후 한 차례 검사를 통해 이 기적 같은 소녀가 혹한의 환경에 적응할 수 있다는 것을 발견했다.	A number of physical examinations have proved that the miraculous girl can adapt to various cold environments.	
+35	N/A	成年人30秒内就会丧失意识的极端低温下，她可以始终保持正常体温，而且手掌还很温暖。	在成年人30秒內就會失去意識的極端低溫下，她始終能保持正常體溫，手掌還很溫暖。	成人が30秒で意識を失うほどの極寒でも、\n彼女は終始正常な体温を保つ事ができる。\nしかも手のひらは暖かいまま──	성인이 30초 안에 의식을 잃는 극한 저온에서도 그녀는 정상 체온을 유지할 수 있으며，심지어 손이 따듯하기까지 하다.	Under the intense cold which could render an adult unconscious within 30 seconds, her body temperature is still normal and her hands warm.	
+36	N/A	直到养父将小白烛从孤儿院接走为止，那些医生也没能搞清楚原因。	直到養父將小白燭從孤兒院接走為止，那些醫生也沒能搞清楚原因。	原因は不明であり、医者達の手を以てしても\n未だに解明はできていない。\nそのまま彼女は孤児院から養父によって\n引き取られる事となった。	양부모가 바이츄를 고아원에서 거둬들일 때까지 병원조차 원인을 찾아내지 못했다.	Doctors were unable to figure out why before she was taken away from the orphanage by her adoptive father.	
+37	N/A@白烛	照明动力系统正常，传感器重启后也OK。	照明動力系統正常，感測器重啟後也OK。	照明動力システム正常。センサー再起動もOK。	조명 동력 시스템 정상，센서 장치도 OK.	Lighting and propulsion systems… normal boot. Sensor restart… all good.	
+38	N/A@白烛	居然沉到6000米了……『那个东西』不可能在水压这么大的地方吧。	居然沉到6000公尺了……「那個東西」不可能會在壓力這麼大的地方吧。	6000mまで潜っているなんて……ここまでの\n水圧の場所に『アレ』がいるとは思えません…	6000미터 아래로 가라앉다니…『그것』이 이렇게 수압이 높은 곳에 있지는 않겠지?	Is it 20,000 ft deep already? "That thing" can't exist under such high water pressure.	
+39	N/A@白烛	要节省电池返航……探照灯先关掉──	要節省電力返航……先關掉探照燈好了──	帰航のための電力は節約して\n確保しておかないと……\nとりあえずサーチライトは消して──	돌아가려면 전기를 아껴야해…우선 탐조등을 모두 끄자──	I’ve got to save power for the return trip… Searchlights off—	
+40	N/A	在探照灯熄灭前一刻，白烛用余光扫到观察窗外。	在探照燈熄滅前一刻，白燭用餘光掃到觀察窗外。	サーチライトが消える直前、バイジュウは\n観察窓の外に見える異様な景色に気付いた。	탐조등이 꺼지기 직전，바이츄는 잔광으로 창문 밖을 관찰했다.	Just as the searchlights are turned off, Beth glances outside the window. 	
+41	N/A@白烛	什……	什……	な……っ！	뭐지…	Wh…	
+42	N/A	那令人惊异一幕，让少女瞬间寒毛倒竖僵在那里。	那令人驚悚的畫面，讓少女瞬間寒毛倒豎僵在那裡。	その光景を見た少女は、\n慄然のあまりに固まってしまう。	그 놀라운 장면은 순식간의 소녀를 바짝 굳게 만들었다.	A creepy scene makes her hair stand on end. 	
+43	N/A@白烛	那是……什么……	那是……什麼……	アレは……なに……？	저건…뭐야…?	What's… that… 	
+44	N/A	探照灯熄灭前的瞬间，照亮了观察窗外一片巨型珊瑚状组织。	探照燈熄滅前一秒，照亮了觀察窗外一片巨型珊瑚狀組織。	サーチライトが消える直前、観察窓の外に\n巨大なサンゴ状の『何か』が映し出された。	탐조등이 꺼지기 직전 창문 밖에 거대한 산호형 조직을 비췄다.	Right before the searchlights went off, a gigantic coral-like structure appears outside the observation window.	
+45	N/A	一圈崎岖不平的血红色组织像瀑布般向中心点凹陷进去，形成巨大深邃的黑洞。	一圈崎嶇不平的血紅色組織像瀑布般往中心點凹陷，形成巨大深邃的黑洞。	不均一に構成された鮮紅色の物体。\n\n中心が滝つぼのように陥没し、\n黒く深い大穴と化している。	울툴불퉁한 선홍색 조직은 \n마치 폭포처럼 중앙이 움푹 파여，\n거대하고도 깊은 동굴이 형성됐다.	It is a centripetal tissue-like structure. On it, irregular vessels look like a scarlet cascade falling into a huge black hole.	
+46	N/A	可刚才扫描周围的区域，没有发现任何生物或地形构造。	可是，剛才掃描周圍的區域時，並沒有發現任何生物或地形構造。	先ほど周辺のエリアをスキャンした際には、異常な生命体や地形構造などは一切発見していない。	하지만 방금 주위 지역을 스캔했을 때 생물이나 지형 구조를 발견하지 못했다.	But no biological or topographical structures were found during the scanning just now.	
+47	N/A	白烛立刻打开舱外的广角镜头，试图看清全景──	白燭立刻打開艙外的廣角鏡頭，試圖看清全景──	バイジュウはすぐに船外の広角レンズを開き、\n物体の全体像を確かめようとした──	바이츄는 더 자세히 보기 위해 즉시 선체 밖의 광각 렌즈를 열었다.	Beth immediately turns on the wide-angle lens on the hull, trying to take a broader view—	
+48	N/A	屏幕上，白烛看到黑暗中一个横展开超过90米，长着触须的巨大而模糊的影子。	螢幕上，白燭看到黑暗中一個橫向展開超過90公尺、長著觸鬚、巨大而模糊的影子。	モニターに映し出されたのは、\n暗闇の中に浮かぶ90メートルはくだらない──\n触手であろうモノが生えたおぼろげな影──	스크린에 가로 길이 90미터 이상의 촉수가 자란 거대하고도 모호한 그림자가 보인다.	On the screen, there is a huge and foggy shadow. It spans more than 300 ft and has tentacles.	
+49	N/A@白烛	怎么可能……	怎麼可能……	そ、そんな、馬鹿な事が……	어떻게 이럴수가…	This can't be… 	
+50	N/A	可以肯定那不是地形构造而是某种生物，在黑暗中可以观察到上面流动着的红色光斑。	可以確定的是，這絕對不是地形而是某種生物，在黑暗中可以觀察到上面流動著的紅色光斑。	無機物でなく、これが生命体なのは確かである。物体の表面にうごめく、赤く光る斑点が見えた。	저건 지형 구조가 아니라 생물이 확실하다. 어둠 속에서 움직이는 붉은색 광반이 보인다.	It is not part of the landscape, but some kind of creature for sure. Red flecks of light are shining in the darkness.	
+51	N/A@白烛	那是……眼球吗？	那是……眼球嗎？	あれは……目玉……でしょうか？	저건…눈인가?	Is that… an eyeball?	
+52	N/A	──如果，那种夸张的东西能被称作是“眼球”的话。	──如果，那種誇張的東西能稱作是「眼球」的話，	──もし、あの大きなものが\n「目玉」と形容できるのであれば。	──만약 저 말도 안되는 물건이 "눈"이라면.	—If that weird thing can be called an "eyeball".	
+53	N/A	观察窗正对着的凹陷黑洞正是眼球的瞳孔。	那麼，觀察窗正對著的凹陷黑洞就是瞳孔。	観察窓の正面にある黒い大穴は、\nおそらく眼球の瞳孔。	관찰창 맞은편의 움푹 들어간 동굴은 눈동자일 것이다.	The black hole facing the window is the pupil of the eyeball.	
+54	N/A	因为太靠近巨大的物体而无法判断距离，好像随时会被吸进去一般。	因為太過接近反而無法判斷距離，好像隨時都會被吸進去一樣。	巨大ゆえに近すぎると、距離感の判別がつかず、\n今にも吸い込まれてしまいそうだ。	거대한 물체와 밀접한 나머지 거리를 판단할 수 없다. \n언제든지 빨려들어갈 것만 같다.	It's too close to determine the distance. The hull seems likely to be sucked into the pupil at any moment.	
+55	N/A	随着流动的光斑渐渐消失，在沉默的黑暗中，少女与不可名状之物对峙着。	流動的光斑漸漸消失，在沉默的黑暗中，少女與不知名的物體對峙著。	うごめく斑点が徐々に消えていくと共に、\n闇の静けさの中。\n少女は名状しがたいモノと対峙する。	움직이던 광반이 점점 사라지자，\n조용한 어둠 속에서 소녀와 말로 설명할 수 없는 물체가 대치하게 되었다.	Red flecks fade away. The girl is now facing off against the unknown object in the silent darkness.	
+56	N/A	待渐渐适应黑暗环境，能看到屏幕上那个巨大的眼球本身发出的微弱红光，仿佛不透明的水母。	慢慢適應黑暗環境後，能看到螢幕上那個巨大的眼球本身發出的微弱紅光，彷彿不透明的水母。	視界が暗闇に慣れると、想像が実像へと\n映り替わる。\nモニターに映るのは「目玉」とも呼べるが、\nまるで不透明なクラゲとも言えよう。	어두운 환경에 적응하니，거대한 눈이 발하는 미약한 붉은 빛이 보인다. 마치 불투명한 해파리 같다.	When her eyes adapt to the darkness, she sees on the screen the huge eyeball giving off faint red light, as if it's an opaque jellyfish.	
+57	N/A	眼球内充斥着似乎随时都会鼓动而出的组织物\n而每次鼓动都与少女的心跳重合。	眼球內充斥著似乎隨時都會傾巢而出的組織物，\n而每次鼓動都與少女的心跳合拍。	中身が溢れ出すかのように、目玉は鼓動を打つ。\nその鼓動は少女の心臓の脈動と重なり合う。	눈 안에 언제든 튀어나올 것 같은 조직물이 가득 차 있다.\n움직일 때마다 소녀의 심장소리와 겹친다. 	The eyeball is filled with lumps of squirmy tissues. \n It is beating together with her heart.	
+58	N/A@白烛	（冷静……要冷静！）\n（仔细想想……）	（冷靜……冷靜！ ）\n（仔細想想……）	（落ち着いて……落ち着きなさい！）\n\n（よく……考えなければ……）	（진정……진정해야 해！）\n（잘 생각해보자……）	(Chill… chill out!) \n (Think about it…)	
+59	N/A	如果那真的是眼球的话，晶状体的位置应该对光线非常敏感。	如果那真的是眼球的話，水晶體應該對光線非常敏感。	もしあれが本当に目玉ならば、水晶体の部分は\n光に敏感なはず。	저게 정말 눈이라면 수정제 위치는 광선에 굉장히 민감할 것이다.	If that is an eyeball, its crystalline lens should be sensitive to light.	
+60	N/A	眼球之下，脉络膜结构的位置，在黑暗中闪烁着密密麻麻的白色光点。	眼球之下，脈絡膜結構的位置，在黑暗中閃爍著密密麻麻的白色光點。	眼球の奥にある脈絡膜の部分。\nそこから隙間なく多くの白い光の点在が伺える。	안구 아래，맥락막 구조의 위치에서 촘촘한 하얀 빛이 어둠 속에서도 빛나고 있다.	On the outer layer of the eyeball where the choroid should exist, swarms of white spots are flickering.	
+61	N/A	白烛注意到，屏幕中眼球的后方，连接着枝丫一般的触须。	白燭注意到螢幕中眼球的後方，連接著枝枒一般的觸鬚。	バイジュウはモニターに映る眼球の後方に、\n枝のような触手が伸びている事に気が付いた。	안구 뒤에 나뭇가지 같은 촉수가 연결된 것이 보인다.	Beth notices that branch-like tentacles are attached to the back side of the eyeball.	
+62	N/A	灰黑色的触须浸没在海洋深处，无法看到尽头。	灰黑色的觸鬚浸沒在海洋深處，似乎沒有盡頭。	鈍色の触手は海の底へと続き、根元は遥か深淵に\n沈んでいる。	밝은 검정색의 촉수가 바다 깊은 곳에 잠겨 끝이 보이지 않는다.	The dark-gray tentacles are immersed in the depth of the ocean, without any end in sight.	
+63	N/A@白烛	（……身体……动不了……）	（……身體……動不了……）	（……身体が……動かない……）	（……몸을……움직일 수 없어……）	(… I can't… move…)	
+64	N/A	——与其说是对峙，不如说是“那个东西”在单方面观察着少女。	——與其說是對峙，不如說是「那個東西」在單方面觀察著少女。	──対峙というより『アレ』が少女を\n一方的に観察してるとも言えようか。	——대치라기 보다는，"그 물건"이 일방적으로 소녀를 관찰하고 있다고 해야 할 것이다.	—Beth is more like being watched by, instead of facing off That Thing.	
+65	N/A	这种极具压迫感的审视而造成的恐慌，正在慢慢消磨少女的理智。	這種極具壓迫感的觀察而造成的恐慌，正在慢慢消磨少女的理智。	凝視による圧迫感が恐怖を煽り、少女の理性を\n徐々に侵食していく。	극심한 압박감에 당황한 소녀의 의식이 점점 흐려지고 있다.	The intrusive gaze erodes her calmness and makes her frightened.	
+66	N/A@白烛	哈……	哈……	は……っ！	하…	Help… 	
+67	N/A	——会被吞噬吗？	——我……會被吞噬嗎？	──飲み込まれてしまうの？	——삼켜질까?	—Will it swallow up everything?	
+68	N/A	深海带来的奇异感受，令她开始怀疑自己的存在。	這深海中的奇異景象，讓她懷疑起自己的存在。	深海がもたらした異様な感覚によって、少女は\n自分の存在すら疑うまでになってしまう。	심해가 주는 이상한 느낌이 그녀가 스스로의 존재를 의심하게 만든다.	The strange feeling of being deep down in the ocean makes her doubt her very existence.	
+69	N/A@白烛	（是梦吗……）\n（是的话就快点醒来啊……）	（是夢嗎……）\n（是的話就快點醒來啊……）	（これが、夢なら……）\n\n（そうでしたら、早く目覚めて……っ！）	（꿈일까……）\n（꿈이라면 빨리 깨어나고 싶어……）	(Is it a dream…?) \n (Wake up, quick…)	
+70	N/A	然而身体依靠本能比意识先一步挣脱了枷锁。	然而本能卻比意識快一步掙脫了枷鎖。	──彼女の身体は本能に従い動いた。\n\n本能は自意識よりも先に、意識の束縛から\n抜け出していた。	몸이 본능에 의지해 의식보다 빨리 구속에서 벗어났다.	The body brakes free instinctively before her consciousness.	
+71	N/A	随着少女左手拉动操纵杆，潜水仓继续向眼球前进了一段距离。	少女左手拉動操縱桿，深潛艙又向眼球前進了一段距離。	少女の左手がレバーを引っ張ると、潜水艦は\n眼球に向かって前進を始める。	소녀가 왼손으로 레버를 당기자 잠수함이 안구를 향해 전진한다.	She pulls the joystick with one hand, getting the hull closer to the eyeball.	
+72	N/A	水流传来的波动显示“那个东西”似乎被惊动了。	水流傳來的波動顯示「那個東西」似乎被驚動了。	水流の波動が伝わってきた。\nまるで『アレ』が驚いてるかのようだ。	물의 파동이 "그것"이 깜짝 놀랐다는 것을 보여준다.	The water gets rough as if That Thing is being disturbed.	
+73	N/A	眼球紧缩了一下，观察着少女的下一步举动。	眼球緊縮了一下，觀察著少女的下一步動作。	眼球が瞳孔を縮めて、少女の動きを逐一\n観察している。	안구가 수축되며 소녀의 다음 행동을 관찰한다.	The pupil contracts, waiting to see the girl's next move.	
+74	N/A@白烛	喂？喂喂？	喂？ 喂喂？	あの……？　もしもし？	저기요? 저기요?	Hello? Hello?	
+75	N/A	白烛摸到了自己佩戴的耳麦，尝试与信息台另一边的人沟通。	白燭摸到了自己佩戴的耳機，嘗試與控制中心的人通訊。	バイジュウは自分が着けているヘッドセットを\n触り、通信を試みる。	바이츄가 끼고 있던 헤드셋을 만지며 안내 카운터 너머의 사람과 소통을 시도한다.	Beth grabs her headset and tries to connect with the control desk.	
+76	N/A	然而这个深度的海水足以屏蔽任何电磁波，现在又不能去尝试水声通信。	但是這個深度的海水足以屏蔽任何電磁波，現在又不能嘗試水下通訊。	しかし、この水深ではあらゆる電磁波は遮断され\n水中音響通信を試みる事も敵わない。	깊은 바다는 그 어떤 전자파도 차단하기에 충분했다. 또 다시 수중 통신이 끊어졌다.	But no electromagnetic wave can escape this depth, and underwater acoustic communication is not viable for the moment.	
+77	N/A@白烛	……	……	…………	……	… 	
+78	N/A	如果是她的话，一定会在耳机里拼命对我喊——\n“别再继续靠近了！”	如果是她的話，一定會在耳機裡拼命對我喊——\n「別再繼續靠近了！ 」	彼女でしたら、きっとヘッドホンへ必死に\n叫んでいるでしょう──\n「これ以上は近付くなッ！」と。	만약 그녀라면 꼭 내게 외쳤을 것이다——\n“더 이상 가지 마！”	If she were there… She would have shouted at me— \n "Stop getting any closer!"	
+79	N/A@白烛	哈哈…为什么我会想这些……	哈哈……為什麼我會想這些……	はは……なんでこんな事を、\n今思い出しているのでしょうか……	하하…왜 이런 생각을 하고 있는 거야…	Ha… why would I think of this… 	
+80	N/A@白烛	“她”……又是谁？	「她」……又是誰？	そして「彼女」とは……誰なのか……	그녀는 또 누구지?	Who is… "She"?	
+81	N/A@白烛	这是……哪里……	這是……哪裡……	ここは……どこ……	여긴…어디야…?	Where… am I… 	
+82	N/A	在眼球注视的压力下，白烛的神志变得恍惚，真实和虚幻的边界逐渐模糊。	在眼球注視的壓力下，白燭的神智開始恍惚，真實和虛幻的邊界逐漸模糊。	眼球が凝視する圧迫感の中で、\nバイジュウの意識は緩やかに霞み。\n次第に現実と幻の境界線も曖昧と化してきた。	안구가 주시하고 있다는 압박에 바이츄의 정신이 흐려지고 진실과 허구의 경계가 애매해져 간다.	Stared at by the giant eyeball, Beth is lost in a daze. The boundary between reality and illusion is slowly blurring out.	
+83	N/A	少女的手紧张的在控制台上摸索着。	少女的手慌亂地在控制台上摸索著。	緊張状態が身を苛む。だが、それでも少女の手は\nコントロールパネル上の模索を続ける。	소녀의 손이 긴장한 듯 콘솔 위를 훑는다.	She runs her hand all over the dashboard. 	
+84	N/A	很快，她找到了采样机械臂的操作器。	很快，她找到了採樣機械臂的操作器。	少女の手はサンプル採取用機械アームの\n操作機器を素早く発見した。	그녀가 빠르게 표본 기계팔의 조작기기를 찾아냈다.	She soon locates the robot arm controller.	
+85	N/A@白烛	（真的要……这么做吗……）	（真的要……這麼做嗎……）	（本当に……やるのですか……？）	(정말 이렇게 해야 하는 걸까…?)	(Do I really have to…)	
+86	N/A	白烛逐渐稳住自己的心神，但依然有幻觉一般的光斑在她眼前出现。	白燭逐漸穩住自己的心神，但依然有幻覺似的光斑在她眼前晃蕩。	依然として幻覚のような光の斑点がうごめき、\n脈数は早まるばかり。\nバイジュウは少しずつ自分の心を落ち着かせる。	바이츄는 정신을 붙잡았다. 하지만 환각같은 광반이 전과 같이 그녀의 눈앞에 나타났다.	She gathers her breath, but the illusionary light continues to flash in front of her eyes.	
+87	N/A@白烛	取样……然后，马上离开……	好，取樣……然後馬上離開……	サンプルを採取して……\nその後、すぐに離れるだけ……	샘플을 추출해서 빨리 떠나야해…	Take some samples… And then withdraw right away… 	
+88	N/A	首先把探照灯都调往正前方	先把探照燈都調往正前方……	まずは全てのサーチライトを前方に移す。	우선 탐조등을 정면 방향으로 모두 조정한다.	First, point the searchlights to the front… 	
+89	N/A	动力系统设置到最大航速，方向是……后退。	動力系統設定到最大航速，方向……往後。	動力システムを最大航速に設定。\n方向は……後退。	동력 시스템을 최대 항속으로，방향은…후퇴로 설정한다.	Then, set up the propulsion system… maximum speed. Direction… reverse.	
+90	N/A	少女光是强撑着精神一步步的做完这些前置步骤，就已经快要晕倒过去。	少女光是強打精神一步步做完這些前置步驟，就已經快要暈過去了。	いつ失神してもおかしくないような状態だが、\n少女は踏ん張った。\n……そして一連の準備作業を完了させる。	소녀가 정신을 억지로 다잡고 모든 사전 설정을 마치자，곧 기절할 지경이다.	Struggling to finish pre-configuration, the girl is almost on the verge of losing her consciousness.	
+91	N/A@白烛	父亲，这就是……精神污染吗……\n就快要……	父親，這就是……精神污染嗎……\n我快要……	お父さん、これが……精神汚染でしょうか……\n後…もう少し……	아버지 이게 바로…정신 오염일까요…\n곧…	Father, is this… spiritual pollution… \n I am almost… 	
+92	N/A	白烛慢慢的调整着操作器，机械臂逐渐展开，露出一个巨大的针头──	白燭慢慢地調整著操作器，機械臂逐漸展開，露出一個巨大的針頭──	バイジュウの操作に応じて、機械アームが\nゆっくりと巨大な針を展開する。	바이츄가 천천히 조작기를 조정한다. 기계팔을 천천히 뻗어 거대한 주사 바늘을 꺼냈다.	Beth operates the manipulator slowly to release the robot arm. A huge needle is revealed.	
+93	N/A@白烛	抽吸模式……这种压强下只要一下……	抽吸模式……這種壓力只要壓一下……	サクションモード……この圧力なら1度で十分…	샘플 추출 모드…이 정도 압력이라면…	Suction mode on… Under such pressure, one quick draw will be sufficient… 	
+94	N/A	机械臂一直向前伸出，直到针头刺入了眼球的玻璃体内。	機械臂一直向前伸出，直到針頭刺入了眼球的玻璃體內。	機械アームが前方へ伸びて、\n針が眼球の硝子体まで差し込まれる。	주사 바늘이 기계팔 이동을 따라 안구의 유리체를 찔렀다.	The robot arm stretches forward until the needle is inserted into the vitreous.	
+95	N/A	一瞬间，采样容器的饱和值就由0%升到了100%。	一瞬間，採樣容器的飽和值就從0%飆升到100%。	サンプリング容器の飽和度は、\n0％から一瞬で100％に到達した。	표본 용기의 함유량이\n 순식간에 0%에서 100%으로 올라갔다.	The concentration level of the container jumps from 0 to 100% in an instant.	
+96	N/A	眼球瞳孔的位置开始扭曲变形，如果声音能传递过来的话，应该会是刺骨的尖叫声……	眼球瞳孔的位置開始扭曲變形，如果現在能聽到聲音的話，應該會是刺骨的尖叫聲吧……	眼球の瞳孔らしき部位が歪み始める。\n\nもし声が聞こえるのならば、骨を刺すような\n悲鳴を上げているのだろうか……	안구의 동공이 변형되기 시작한다. 소리가 있다면 분명 뼈를 찌르는 비명소리일 것이다.	For a moment, the pupil is distorted. If sound were able to penetrate the hull, she must have heard a harsh scream… 	
+97	N/A@白烛	（是幻听吗……）	（是幻聽嗎……）	（幻……聴……？）	(환청인가…?)	(I'm hearing things…)	
+98	N/A	少女用尽最后一点力气，按下了序列执行按钮。	少女用盡最後一點力氣，按下了序列執行按鈕。	少女は最後の力を振り絞り、\nシーケンス実行ボタンを押した。	소녀가 마지막 힘을 다해 시스템 실행 버튼을 누른다.	With her last effort, the girl presses the programmed execution button.	
+99	N/A	根据刚才预设的程序，深潜舱的8个探照灯同时向眼球的瞳孔射出强光，螺旋桨也开始快速转动。	依照剛才預設的順序，深潛艙的8個探照燈同時向眼球瞳孔射出強光，螺旋槳也開始快速轉動。	先ほど設定したシーケンスに従い、8つの\nサーチライトが一斉に眼球の瞳孔へと照射され、\n同時にスクリューも高速回転を始める。	방금 전의 설정에 따라 \n잠수함의 8개 전조등이 동시에 안구의 동공에 강한 빛을 쏘며，프로펠러가 빠른 속도로 회전한다.	According to the preset program, the searchlights project eight intense beams of light into the pupil, and the propeller begins to rotate wildly.	
+100	N/A	随着刺激和强光，眼球向后退却，深潜舱逐渐远离并上浮……	隨著刺激和強光，眼球向後退卻，深潛艙逐漸遠離並上浮……	刺激と強烈な光で怯えるように眼球は後退。\n\n徐々に遠ざかっていく潜水艦も浮上を始める。	자극과 강한 빛에 안구가 뒤로 물러나고 잠수함은 유유히 떠오른다…	The eyeball recedes at the stimulation of the light, and the hull begins to pull back and rise… 	
+101	N/A	少女的心神终于耗尽，眼前一黑倒了下去。	少女終於耗盡了心神，眼前一黑倒了下去。	やがて、その場に立てなくなり、\n目の前が暗闇の帳に包まれると……\n遂に少女の精神は尽き果てた…………	기력을 모두 소진한 소녀는 눈 앞이 깜깜해지며 그대로 쓰러졌다.	Totally exhausted, the girl blacks out and falls to the ground.	

@@ -1,0 +1,6 @@
+﻿1	引导精灵	《魔女兵器》的游戏剧情是随着你的冒险进度而知晓的	《魔女兵器》的遊戲劇情是隨著你的冒險進度而揭曉的	《魔女兵器》のシナリオは、\nあなたの冒険の進行具合により\n解禁されるよ	렌의 스토리는 작전 진행에 따라 해재되는 거예요 	In Witch Weapon, stories unlock as your adventure progress increases.	
+2	引导精灵	想要了解故事的全貌，就需要不断的攻略关卡。\n现在来看看解锁了什么[ff9c00]新剧情[-]	想要瞭解故事的全貌，就需要不斷的攻略關卡。\n現在來看看解鎖了什麼[ff9c00]新劇情[-]。	シナリオの続きが読みたいなら\nステージを沢山クリアしよう！\nさて、今回はどんな[ff9c00]新シナリオ[-]が解禁されたのかな？	더 많은 스토리를 듣고 싶다면，다음 스테이지로 달려가자!\n어떤 [ff9c00]이야기[-]가 해제되었는지 확인해 보자	If you want to know the full story, you have to keep clearing stages.\nNow, let's see what [ff9c00]new story[-] you've just unlocked.	
+3	FocusTrigger	请点击	請點擊	ココをタップ	클릭하세요	Tap Here	
+4	FocusTrigger	请点击	請點擊	ココをタップ	클릭하세요	Tap Here	
+5	T_showPicText	点击观看剧情并领取对应奖励	點擊觀看劇情並領取對應獎勵	タップしてシナリオを読み、報酬を受領しましょう	스토리 오픈 후 보상 수령	Tap to see story and collect corresponding rewards.	
+6	FocusTrigger	请点击	請點擊	ココをタップ	클릭하세요	Tap Here	

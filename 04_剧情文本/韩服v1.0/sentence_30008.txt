@@ -1,0 +1,138 @@
+﻿1	海因里希	当然，我也不能完全确定『那位』的身份，就算他说谎我也无力分辨。	當然，我也不能完全確定「那位」的身分，就算他說謊我也無力分辨。	もちろん、わたくしには『あの方』の正体を\nはっきりと識別できませんわ。\nたとえ嘘をつかれても、わたくしには\n見分けようがありません。	나도 『그 분』의 신분을 확신할 수 없어. 거짓말을 한다고 해도 내게는 분별할 능력이 없거든.	To be honest, I'm not sure about the true identity of The One, because even if he lies to me, I can't tell.	
+2	海因里希	而且我总在想，就算一切属实……	而且我總在想，就算一切屬實……	それに、いつも考えております。\n全てが真実であるとしても……	설령 모든 게 사실이라고 해도……	And I always wonder, even if it's all true… 	
+3	海因里希	真正高阶的存在，应该是不会如此在意人类这么弱小的物种的。	真正高階的存在，應該不會在意人類這麼弱小的物種。	真なる上位存在は人間のような矮小な種族など\n気にもかけてはくれないのです。	진정 높은 존재는 아마 인간처럼 약한 생물체를 신경쓰지 않을 거야. 	He must be a creature far superior to humans. So, why does he bother caring about us?	
+4	海因里希	从另一个尺度思考，『那位』很可能只是自己族群中一个喜欢用放大镜烧蚂蚁的小孩。	換另一個角度思考，「那位」很可能只是他們族群中一個喜歡用放大鏡燒螞蟻的小孩。	もう1つの角度から考えますと、人間は\n『あの方』にとってアリのような存在であり、\n彼はただ虫眼鏡を使ってアリを燃やすような事を\n好む子供なのかもしれません。	 『그 분』은 자기 종족에서 돋보기로 개미를 태우는 걸 즐기는 한 어린아이에 불과할지도 몰라.	Think about it. Maybe The One is no more than a naughty child of his kind, who enjoys using a magnifying glass to burn ants.	
+5	海因里希	而蚂蚁们则认为这是神的惩戒，从此便对那束强光背后的黑影顶礼膜拜。	但螞蟻們認為這是神的懲戒，從此便對那束強光背後的黑影頂禮膜拜。	アリからすればそれは神の戒めであり、\nその背後に潜む黒い影にひれ伏す事となります。	개미들은 이걸 신의 벌이라고 여기며 강렬한 빛 뒤 그림자에게 무릎을 꿇겠지. 	However, the ants have no idea of what's going on. They take it as a punishment from god and prostrate themselves before the shadow behind the dazzling light.	
+6	拉斐尔	哈，哈哈……	哈，哈哈……	はっ、ははっ……	하，하하……	Ha-haha…	
+7	N/A	拉斐尔意味深长的笑了笑。	拉斐爾意味深長地笑了笑。	ラファエルは意味深く笑った。	라파엘이 의미심장하게 웃는다.	Raphilia gives a perplexing laugh.	
+8	拉斐尔	这么说的话，我倒是很认同。	我倒是很認同這段話。	そういう話なら、納得したわ。	그 말엔 나도 동의해.	I wouldn’t disagree.	
+9	拉斐尔	人们俯首跪拜祈求祷告的对象……所定制的第一条戒规就像小孩子一样任性呢。	人們俯首跪拜祈求禱告的對象……所制訂的第一條戒規就像小孩子一樣任性呢。	人間よ、跪いて私に祈りを捧げなさい──\n\n神によって作られた最初のルールは、\n子供のようなワガママだものね。	인간이 무릎 꿇고 애걸하는 대상이 정한 첫 번째 계율은 어린아이처럼 제멋대로야.	The god people believe in and prostrate before… His first commandment does seem like being given by a naughty, stubborn child.	
+10	海因里希	虽然并没有清晰的表明意志，但以『那位』的恶劣个性来看，故意将她们卷入也不是不可能——	雖然並沒有清楚表態，但以「那位」的惡劣個性來看，故意將她們捲入也不是不可能——	はっきりとした意志は表明されておりませんが、\n『あの方』の性格の劣悪さを考えますと、\n故意にあなた達を巻き込んだのも、\n有り得なくはないんです。	『그 분』의 짓궂은 성격으로 봤을 때，너희를 일부러 이곳에 끌어들였을 가능성도 있어	His intentions are still unknown, but judging from all The One's evil-doing, it's possible that he deliberately got the girls involved.	
+11	N/A	海因里希对拉斐尔说这句话的时候，视线指向了我和安妮。	海因里希對拉斐爾說這句話的時候，視線轉向了我和安妮。	ハインリッヒはラファエルに話しながら、\n俺とアニーの方へ視線を向けた。	하인리히가 라파엘에게 이 말을 할 때 시선이 나와 앤을 향한다.	As she responds to Raphilia, Heinrich turns her eyes to Annie and me.	
+12	小怜	……我们？	……我們？	……俺達？	……우리？	You mean… us?	
+13	拉斐尔	安妮曾经来过这里，并且她消失的那段时间，很有可能就是在这个空间里吗……	難道安妮曾經來過這裡，她消失的那幾年很可能就是在這個空間裡嗎……	アニーはかつてここに来た事がある。\nそして彼女が消えていた空白の時間は、\nこの場所にいた事で生み出されたモノ……\nという事かしら？	앤은 이곳에 온 적 있어. 앤이 사라진 동안 이 공간에 있었을 가능성이 커.	Annie has been here before, and during the period she went missing, she was probably trapped in this space…	
+14	拉斐尔	天空酒店事件之后，『十字玫瑰』的情报组很快就查出了安妮的身份，但当时还判断是复制体。	天空酒店事件之後，「十字玫瑰」的情報組很快就查出了安妮的身分，但當時的判斷是複製體。	スカイホテルの事件後『十字薔薇』の情報班が、\nすぐに彼女の身元を調べ上げたわ。\n当初はクローン体と判断されていたけど……	스카이 호텔 사건 이후 『십자장미』의 정보 조직이 앤의 신분을 조사했는데，당시엔 클론이라고 판단했지.	Annie's identity was discovered by Rose Cross shortly after the Sky Hotel incident. Yet they presumed that she was merely a duplicate.	
+15	拉斐尔	后来与SID共享的情报交叉比对才知道……她消失了7年之久。	後來與SID共享情報後交叉比對才知道……她消失了7年之久。	だけどその後、SIDと情報共有をして知ったわ。\n……彼女が7年間消えていた事を。	이후 SID가 공유한 정보와 비교하고 나서 알게 됐어…그녀는 7년간 실종됐다는 걸.	They were only able to confirm her identity after the cross-checking with SID… She had gone missing for seven years.	
+16	海因里希	『十字玫瑰』……Rosenkreuzer？	「十字玫瑰」……Rosenkreuzer？	『十字薔薇』……Rosenkreuzer？	『십자장미』……Rosenkreuzer？	Rose Cross… You mean Rosenkreutz?	
+17	海因里希	那不是我和几个女炼金术士讨论交流研究成果的秘密结社吗，现在成为情报组织了？	那不是我和幾個女煉金術士討論交流研究成果的祕密結社嗎，現在成為情報組織了？	わたくしが女性の錬金術士達と、研究成果の\n交流を行っていた秘密結社ではありませんか？\n今は情報組織になりましたの？	나와 몇몇 여성 연금술사들이 연구 성과를 교류하던 비밀 단체가 아니던가? 지금은 정보 조직이 된 건가?	The secret society that I founded for academic exchange among female alchemists? It has become an intelligence agency now?	
+18	海因里希	看来我还是留下了一些有趣的“遗产”嘛。	看來我還是留下了一些有趣的「遺產」嘛。	どうやらわたくしは、面白い「遺産」を\n残せたようですね。	보아하니 내가 재밌는 "유산"을 남긴 모양이군.	So, it seems that I've left some interesting "legacy".	
+19	N/A	海因里希露出得意的笑容，一旁的拉斐尔则似乎突然想通了什么。	海因里希露出得意的笑容，一旁的拉斐爾則突然想通了什麼。	ハインリッヒは誇らしげに微笑んだ。隣にいる\nラファエルも突然何かを納得したようだった。	하인리히가 만족스런 미소를 짓는다. 옆에 있던 라파엘이 갑자기 뭔가 깨달은 것 같다.	Heinrich lets out a preening smile and Raphilia seems to have an epiphany about something.	
+20	拉斐尔	怪不得……『十字玫瑰』那句传承至今的问候语，在当年的环境下显得对教会太过不敬了。	難怪……「十字玫瑰」那句傳承至今的問候語，不管怎麼想，在當年的環境下都對教會太不敬了。	そういう事ね……\n今まで受け継がれてる『十字薔薇』のあの挨拶。\n当時であればあまりにも教会に不敬だもの。	어쩐지…… 『십자장미』에는 지금까지 내려오는 인사말이 있더라니. 당시 교회에는 굉장히 무례한 인사말인데	It all makes sense now… The greeting of Rosenkreutz, which is quite popular today, was actually a blasphemy at that time.	
+21	海因里希	──“愿玫瑰在你的十字上绽放”	──「願玫瑰在你的十字上綻放」。	『薔薇があなたの十字に咲きますように』	──“장미가 당신의 십자가 위에 피어나길”	May the Roses Bloom upon Your Cross.	
+22	拉斐尔	“玫瑰”指的是女炼金术士……不，仅仅是代表女性吧？	「玫瑰」指的是女煉金術士……不，是代表所有女性吧？	「薔薇」は女性の錬金術士を指している……\n……いいえ、単に女性を意味するのかしら？	“장미”는 여자 연금술사를 의미해…아니，여성을 대표하는 거겠지?	Roses refer to female alchemists… No, not exactly. Roses stand for all females, right?	
+23	小怜	虽然不明白，但感觉好厉害……	雖然不太明白，但感覺好厲害……	良く分かんないけど、なんかすごい感じだな……	이해는 안 되지만 굉장한 느낌이네……	I don't quite get it, but it seems incredibly awesome…	
+24	小怜	总之你们说的『那位』，是个很糟糕的家伙吧？	總之妳們說的「那位」，其實是個很糟糕的傢伙吧？	とにかく2人が言っている『あの方』ってのが、\nやばい奴なんだろ？	어쨌든 너희들이 얘기하는 『그분』은 아주 최악인 녀석이란 말이지?	Anyway, The One you've been talking about… He is really a bad guy, isn't it?	
+25	N/A	看到被吓坏的安妮，我的内心升起一股愤怒。	看到被嚇壞的安妮，我的內心升起一股憤怒。	怯えたアニーを見て、心の底から怒りが湧く。	놀란 앤을 보니 마음 속에 분노가 일어난다.	Seeing Annie totally freaked out, I feel an upsurge of rage inside me.	
+26	小怜	随随便便强迫别人签订契约，还把我们带到这种奇怪的地方。	隨隨便便強迫別人簽訂契約，還把我們帶到這種奇怪的地方。	勝手に契約を迫って、俺達をこんな変な場所まで\n連れて来やがって。	멋대로 강제 계약을 맺게 하고 우리를 이런 이상한 곳에 데려오다니. 	How could he coerce someone into signing a contract and bring us to this strange place?	
+27	小怜	更过分的是，不知道那家伙做过什么过分的事，给安妮留下了这样的阴影……	更過分的是，不知道那傢伙還做過什麼糟糕事，讓安妮留下了這麼大的陰影……	もっとムカツクのは、あいつが何か酷い事をして\nアニーにこんなトラウマを植え付けた事だ……	더 최악인 건 그 자식이 앤에게 어떤 짓을 해서 트라우마를 남겼는지 모른다는 거야…	And he must have done something even more terrible to Annie…	
+28	小怜	被我遇到的话，一定打扁他！	要是被我遇到的話，一定揍扁他！	俺が会ったら、ぶん殴ってやる！！	만나기만 하면 때려눕혀주겠어!	If I see him in person, I'm gonna kick the crap out of him!	
+29	拉斐尔	……	……	…………	……	…	
+30	海因里希	……	……	…………	……	…	
+31	N/A	她们突然安静下来，像看笨蛋一样看着我。	……她們突然安靜下來，像看笨蛋一樣看著我……	彼女達は急に静かになって、\n馬とか鹿とかを見るような目で俺を見た。	두 사람이 갑자기 조용해지더니 바보를 바라보듯 날 쳐다본다. 	In a sudden, a silence falls among them and they all look at me as if I were an idiot.	
+32	小怜	你、你们这么盯着我干嘛……？	妳、妳們這麼看著我幹嘛……？	な、なんでそんな目で俺を見つめるの……？	너，너희들 뭘 그렇게 쳐다봐…?	What? Why are you staring at me?	
+33	拉斐尔	……还真像你这个笨蛋会说出的话呢。	……還真像妳這個笨蛋會說出的話呢。	……本当にあんたって、バカが言いそうな言葉を\n泉のように吐き出すわね。	……정말 너 같은 바보나 할 수 있는 말이다.	… Nothing. You just sound like an idiot.	
+34	海因里希	如果是主人的话，我倒是十分期待。	如果是主人的話，我倒是十分期待。	マスターのお言葉であれば、\nわたくしは期待していますわ。	만약 주인님이라면 전 정말 기대했을 거예요.	If you say so, Master. 	
+35	小怜	唔…所以说，我们现在要怎么回去啊……	唔……先不管那個，重點是我們現在要怎麼回去啊……	うっ……そ、そのためにもだ！\nどうやって、俺達は帰ればいいのかな……？	음…그나저나 우리 어떻게 돌아가지……	Hmm… Now, how can we go back?	
+36	海因里希	现在恐怕不行了，虽然在这个空间内没有感觉，但我们正在被转移至契约的任务地点。	現在恐怕不行了，雖然在這個空間內沒有感覺，但我們正在被轉移至契約的任務地點。	おそらく帰るのは無理でしょう。\nこの空間内では感じられませんが、\n今わたくし達は契約による『任務地点』へ\n転送されています。	지금은 아마 안 될 거에요. 별 느낌은 없지만，우리는 지금 계약 임무지점으로 이동하고 있어요.	I'm afraid we can't. Maybe you don't feel a thing in this space, but we're now being transferred to the location of our assignment.	
+37	小怜	任务……什么任务？我可以拒绝吗！	任務……什麼任務？ 我可以拒絕嗎！	任務……何の任務？\nそれって断ってもいいのかな！？	임무……무슨 임무？난 거절해도 될까?	What kind of assignment? Can I quit?	
+38	海因里希	简而言之，我的契约是要守护地球上十个特定的区域。	簡單地說，我的契約是要守護地球上十個特定的區域。	簡単に言いますと、わたくしの契約は地球上の\n特定エリアである10か所を守り抜く事です。	간단히 얘기하면 저의 계약은 지구의 특정 구역 10개를 수호하는 것이에요.	Simply put, I'm obliged to protect ten designated areas in the world according to the contract.	
+39	海因里希	虽然不情愿，但不得不承认……如果没人去做的话往往会引发无法挽回的灾难。	雖然很不甘願，但不得不承認……如果沒人去做的話往往會引發無法挽回的大災難。	嫌ですけど、やらざるを得ません……\n\n誰もやらなければ、取り返しのつかない災難を\n招いてしまいます。	원하지 않았지만 수락할 수 밖에 없었죠. 가지 않는다면 걷잡을 수 없는 재난이 일어날 거예요.	Although it's not my choice, I have to admit that… if no one does the work, there would be devastated.	
+40	拉斐尔	十个区域对应的是『生命之树』的十个圆环吗？	十個區域對應的是「生命之樹」的十個圓環嗎？	その10のエリアに相当するものが、\n『セフィロトの樹』の10個の円環というわけ？	그 10개 구역이 『생명의 나무』의 10개 링인가?	The ten areas—do they correspond to the ten circles on the "Tree of Life"?	
+41	N/A	拉斐尔抬头看着天上的树状图腾，唯一发出红光的那个圆环。	拉斐爾抬頭看著天上的樹狀圖騰中，唯一發出紅光的那個圓環。	ラファエルは上空にある樹状の紋章の中で、\n唯一赤く光を放っている輪を見つめた。	라파엘이 고개를 들어 나무 형태의 토템，거기서 유일하게 붉은 빛을 내는 링을 쳐다본다.	Raphilia looks up at the tree-like totem in the sky. Among all the circles, one shines red.	
+42	拉斐尔	那个位置是……Yesod，代表万物的基础、神的创造力，也可能是『生命的基础』。	那個位置是……Yesod，代表萬物的基礎、神的創造力，也可能是「生命的本質」。	あの位置は……Yesod\n万物の基礎、神の創造力。\nもしくは『生命の基礎』だったかしら。	저 위치는……Yesod，만물의 기초，신의 창조력을 의미해. 『생명의 기초』일 수도 있고.	That location is… Yesod. It stands for the origin of all species and god's creative power. It can be seen as the "Origin of Life”.	
+43	海因里希	我也没去过那个位置，但一旦进入这个领域，我们的目的地就是不可改变的。	我也沒去過那裡，但一旦進入這個領域，我們的目的地就無法改變了。	あの位置には、わたくしもまだ行った事が\nありませんわ。\n一度でもその領域に踏み入れば、\nわたくし達の目的地は変更できません。	나도 저곳은 가보지 않았어. 하지만 일단 이 영역에 들어오면，목적지는 바꿀 수 없어. 	I've never been there before. But once we get into this space, our destination is non-negotiable.	
+44	N/A	这种根本不容拒绝的风格，突然令我想到了一个熟悉的家伙……	這種根本不容拒絕的風格，突然令我想到了一個熟悉的傢伙……	こういう拒否を許さないスタイル。\nあぁ……急に知っている奴を思い出した……	거절을 받아들이지 않는 스타일，갑자기 익숙한 녀석이 떠오른다…	I guess there's no way to quit then, which suddenly reminds me of our old friend…	
+45	N/A	我摸了摸胸口。	我摸了摸胸口。	俺は胸元を触ってみる。	나는 가슴께를 만졌다.	I feel my chest for the speaker.	
+46	小怜	（奇怪，莉琉居然到现在都没有联络我……）	（奇怪，莉琉居然到現在都沒有聯絡我……）	（おかしいな……）\n\n（マリルから全然連絡がないなんて……）	（이상해. 마리루가 아직까지 연락이 없다니……）	(Weird. It has been a long time since Mariru last contacted me…)	
+47	N/A	听到我们的对话，安妮似乎更加慌张了。	聽到我們的對話，安妮似乎更加慌張了。	狼狽えるアニーの様子も、俺達の話を聞いてから\nさらに悪化している。	우리를 대화를 들은 앤이 더욱 안절부절하지 못한다.	Hearing what we said, Annie seems more nervous now.	
+48	安妮	不可以……不可以一直在这里……	不可以……不行！ 一直在這裡的話……	ダメ……ずっとここにいちゃいけない……	안 돼…이곳에 있으면 안 돼…	No… No, we can't stay here…	
+49	安妮	『那家伙』会把每个人都吞噬掉……	「那傢伙」會把每個人都吞掉的……	『あいつ』が何もかもを飲み込んでしまう……	『그 자식』이 모두를 삼킬 거야…	The One would swallow all of us up…	
+50	安妮	永远都无法离开……	會永遠都無法離開的……	永遠に逃れられない……	영원히 떠날 수 없도록…	We'll never get a chance to escape…	
+51	安妮	不要、不要——！	不要、不要待在這裡了——！	いや、いや――ッ！	안 돼，안 돼——！	No… Don’t!	
+52	N/A	安妮紧紧抱紧了我，我有些手足无措。	安妮用力抱緊我，我有些手足無措。	アニーが強く俺を抱きしめる。\nこの状況、俺はどうすればいいのか。	앤이 날 꽉 안자 나는 어찌할 바를 몰랐다.	Annie clutches me tight in despair, but I have no idea what to do.	
+53	安妮	我不要一个人……	不要、不要、我不要再一個人了……	1人は、いや……	혼자는 싫어…	Don't leave me alone…	
+54	小怜	（再这样下去不行……）	（再這樣下去不行……）	（このままじゃダメだ……）	（이대로 두면 안 될 것 같아……）	(We can't go on like this…)	
+55	N/A	安妮现在，像极了我以前在医院里见过守卫埃癸斯边境的士兵创伤后应激障碍发病的样子。	安妮現在，像極了我以前在醫院裡見過，守衛埃癸斯邊境的士兵創傷後壓力症候群發病的樣子。	今のアニーは俺が昔、病院で見た\nイージスの境界線を守る兵士と同じだ。\n心的外傷後ストレス障害ってやつの様子と非常に\n似ている。	앤의 상태는 예전에 병원에서 봤던 아이기스 변방 병사의 외상 후 스트레스 증상과 똑같다. 	Annie is acting like a patient with PTSD. I've seen these symptoms before in hospitalized soldiers who used to guard the border of Ageis.	
+56	N/A	等等，医院……\n我……住过医院……？	等等，醫院……\n我……住過醫院……？	ん？まってよ……病院？ \n\n俺は……入院した事がある……？	잠깐，병원이라니……\n내가……병원에 입원했었던가……？	Wait… Hospital… \n I've been… hospitalized?	
+57	小怜	（不、现在不是想这些的时候……）	（不、現在不是想這些的時候……）	（いや、今はそんな事を考えてる時じゃない…）	（아니，지금은 그런 걸 생각할 때가 아니야……）	(Never mind. I have no time for this now…)	
+58	小怜	我们有办法离开这里吗？	我們有辦法離開這裡嗎？	ここから脱出する方法はあるのか？	이곳을 나갈 방법이 있을까?	Is there any way out?	
+59	N/A	海因里希摊开手摇了摇头。	海因里希雙手一攤，搖了搖頭。	ハインリッヒは手を広げ、首を横に振った。	하인리히가 손을 펴고 고개를 흔든다.	Heinrich shakes her head with palms raised. 	
+60	海因里希	不可能，某种意义上人类只是『那位』的奴隶……	不可能，某種意義上人類只是「那位」的奴隸……	脱出は不可能です。\n\nある意味人類は『あの方』の\nただの奴隷にすぎませんから。	불가능해요. 어떤 의미에서 인간은 그저 『그 분』의 노예일 뿐이니까요……	No. To some degree, humans are no more than slaves to The One.	
+61	N/A@安妮	带我出去，小怜——！	帶我出去，小憐——！	ここから出して、レンちゃん──ッ！	날 데리고 나가줘，렌——！	Take me out of here… Ren!	
+62	N/A	安妮大叫着抓紧我胸前的衣服，面颊上满是泪水。	安妮大叫著抓緊我胸前的衣服，臉頰上滿是淚水。	アニーは叫びながら俺の胸を掴み、\n頬からは涙が零れ落ちていた。	앤이 소리를 지르며 내 가슴 앞섬을 쥔다. 얼굴이 눈물로 범벅이다. 	Annie cries and grabs my clothes tightly. Her face is already bathed in tears.	
+63	小怜	不行，必须快点离开——！！！	好！ 我們走——！ ！！	ダメだ───！！早くここを出なきゃッ！！	안 돼，당장 여길 떠나야만 해——！！！	We gotta leave here now!!!	
+64	N/A	随着我爆发出的喊叫，四周的金色图腾开始崩裂。	隨著我爆發出的喊叫，四周的金色圖騰開始崩裂。	アニーの様子に気持ちが昂って、\n俺は割れんばかりの大声を上げた。\nすると、周囲を囲む金色の紋章が崩壊を始める。	폭발같은 비명에 따라 사방의 금색 토템이 갈라지기 시작한다.	As I roar with rage, the golden totem around us begins to crack.	
+65	N/A	咔——咔——咔——	轟——轟——轟——	ガシャン──ガシャン──ガシャン──	탁——탁——탁——	Krrr… Krrr… Krrr…	
+66	N/A	仿佛玻璃一般在虚空中破碎。	彷彿玻璃一般在虛空中破碎。	ガラスのように虚空の中で砕けていく。	유리처럼 허공에서 조각난다. 	It sounds like glass cracking in the void.	
+67	小怜	诶？	什麼？	え？	으아?	What the hell?	
+68	海因里希	——？？	——？？	──？？	——？？	??	
+69	N/A	在海因里希眼中，如多米诺骨牌一般碎裂的图腾，不住地向虚空中的四人身上坠落。	在海因里希眼中，如西洋骨牌效應一般碎裂的圖騰，不停地向虛空中的四人身上墜落。	ドミノ倒しのように砕けた紋章が、\n虚空の中の4人に落下していく。\nそんな光景がハインリッヒの目には映った。	도미노처럼 갈라지는 토템이 우리 네 사람의 몸 위로 쉬지 않고 추락한다. 	In the eyes of Heinrich, the totem fragments keep falling, like falling dominoes, upon the four girls standing in the void.	
+70	N/A	触碰到黑发少女的瞬间，化成了轻飘飘的雾气。	觸碰到黑髮少女的瞬間，化成了輕飄飄的霧氣。	その破片は黒髪の少女に触れた瞬間、\nふわふわとした霧となった。	흑발소녀에게 닿는 순간 흩날리는 안개로 변해버린다.	All the fragments vaporize as they reach the black-haired girl.	
+71	N/A	周围的空间开始折叠扭曲成细碎的矩形，矩形再次分裂，形成一条条分形的立体空间。	周圍的空間開始折疊扭曲成細碎的矩形，矩形再次分裂，形成一條條碎形的立體空間。	周囲は捩じられて、\n幾つもの空間が長方形型に折り畳まれた。\nその後も長方形は分裂を続け、\nヒモ状の立体空間が形成される。	주위 공간이 비틀리며 직사각형으로 변하고 다시 분열되어 프랙탈 입체 공간을 형성한다.	The surrounding space begins to twist into fine rectangles, and then split again to form three-dimensional stripes of space.	
+72	N/A	平静的空间瞬间充满了大量的几何图形，似是卷起狂风，众人脚下唯一“地面”也不再稳定。	寧靜的四周瞬間充滿了大量的幾何圖形，像是捲起狂風，眾人腳下唯一的「地面」也不再穩定。	静かな空間が一瞬で、幾何学模様に満ちていく。\nまるで暴風が巻き起こっているかのように。\nそして、全員の足元にある唯一の「地面」も\n不安定になっていく。	조용한 공간에 일순 기하학적 도형이 가득하다. 광풍이 휩쓸 듯 "지면"도 더 이상 안정적이지 않다. 	In the blink of an eye, the absolute stillness is filled with geometric shapes and the only "ground" under everyone's feet feels shaky as if a strong gale is blowing.	
+73	海因里希	这是……	這是……	これは……	이건……	What’s…	
+74	N/A	海因里希的话还未说完，最后一块金色图腾也出现了裂缝。	海因里希的話還沒說完，最後一塊金色圖騰也出現了裂縫。	ハインリッヒがその言葉を発し切る前に、\n最後の金色の紋章に亀裂が生じた。	하인리히의 말이 끝나기도 전 마지막 금색 토템도 균열이 일어난다.	Before Heinrich finishes, the last piece of the totem begins to crack.	
+75	N/A	众人在虚空中向下坠落。	眾人在虛空中向下墜落。	全てが、虚空の中に落ちていく。	모두가 허공에서 아래로 추락한다.	All the girls fall into the depth of the void.	
+76	N/A	金发少女惊讶的瞳孔之中，映射出了另一种白色。	金髮少女驚訝的瞳孔之中，映射出了另一種白色。	金髪の少女の驚く瞳には、空虚とは違う\nもう1つの色が映る。	금발소녀의 놀란 눈동자에 또 다른 흰색이 비친다.	The sudden fall has obviously startled the blonde girl. In her dilated pupils is an uncanny color—white.	
+77	N/A	——一片纯白的光。	——一片純白的光。	──それは純白の光。	——순백의 빛.	Pure white light.	
+78	N/A	小怜等人消失瞬间，监控室前据称可以阻绝电磁狙击步枪冲击的防弹玻璃出现了裂痕。	小憐等人消失瞬間，監控室前據稱可以阻絕電磁狙擊步槍衝擊的防彈玻璃出現了裂痕。	レン達が消えた瞬間のモニタールーム前。\n\n狙撃用レールガンの衝撃さえ防ぐ、防弾ガラスに\nヒビが入った。	렌이 사라지는 순간 제어실 앞 전자 저격총의 충격을 버틴다는 방탄 유리에 균열이 일어난다.	At the moment when the girls disappeared, cracks appear in the almighty bullet-proof glass in front of the monitoring room. It is supposed to be able to shake off electromagnetic sniper rifle attacks.	
+79	N/A	根据安保协议，特勤队立刻安排元老院成员从预备通道撤离了现场。	依照安保協議，特勤隊立刻安排元老院成員從預備通道撤離了現場。	安保条約により特務隊は元老院のメンバーを、\n予備通路でただちに現場から退避させた。	안보 협의에 따라 기동대원이 원로원 멤버들을 예비 통로로 안내해 현장을 빠져나간다.	As per security protocol, the SWAT team immediately assists Senate members in evacuating the area from the backup passage they prepared in advance.	
+80	N/A	电子屏幕前，依然深处方舟基地的莉琉正在接受元老院的问话。	電子螢幕前，依然處於方舟基地的莉琉正在接受元老院的問話。	モニターの前。依然、方舟基地にいるマリルは\n元老院からの尋問を受けている。	전자 스크린 앞 방주 기지의 깊은 곳에 있는 마리루가 원로원의 질문을 받고 있다.	Mariru, who still stays at the Ark Base, is being questioned by the Senate in front of a digital screen.	
+81	华音泷	实验品和实验对象全部消失……	實驗品和實驗對象全部消失……	実験品と実験対象が全て消えてしまった……	실험물과 실험 대상이 완전히 사라졌어요…	The relic and the human subjects have all gone missing…	
+82	莉琉	怎么，诸位似乎很吃惊？	怎麼，諸位似乎很吃驚？	おや皆様、驚いているご様子ですね？	왜요? 모두 놀라셨나요?	Well, does that surprise you?	
+83	N/A	莉琉的声音不疾不徐地从通讯器中传出。	莉琉的聲音不疾不徐地從通訊器中傳出。	マリルの焦りの見えない声が、通信機より\n発せられる。	마리루의 목소리가 급하지도 느리지도 않게 통신기에서 흘러나온다.	Mariru says calmly through the transceiver.	
+84	莉琉	空间异变形成性模拟实验报告第三部分里，已经提到过这种可能了。	空間異變形成性模擬實驗報告第三部分裡，已經提過這種可能了。	この可能性は空間異変形成シミュレーション実験\n第三部分の報告にて、すでに提示したものです。	공간 이변 형성 시뮬레이션에 대한 보고서 제3부분 안에 이런 현상이 언급되어 있습니다.	This possibility is mentioned in section three of the Spacetime Flux Simulation Report.	
+85	莉琉	异质物坍缩本身就有概率将周围最多三十米内的任何物质卷入异变空间。	異質物塌縮本身就有機率會將周圍最多三十公尺內的任何物質捲入異變空間。	異質物の崩壊は周囲最大30メートル以内全ての\n物質を異変空間に巻き込む可能性があります。	이물질 중력 붕괴는 주위 최대 30미터 내 물질을 변이공간으로 빨아들이죠.	If Substance H collapses, it is likely to suck in everything within a hundred-feet radius into the flux area.	
+86	莉琉	再加上小怜特殊能力的影响，参与实验的拉斐尔和安妮被一道卷入异空间的概率也会上升。	再加上小憐特殊能力的影響，參與實驗的拉斐爾和安妮一同被捲入異空間的機率也會上升。	それにレンの特殊能力の影響は高く\n実験に参加したラファエルとアニー共々、\n異空間に巻き込まれる確率は予測範囲内の域と\n言えましょう。	렌의 특수 능력 때문에 실험에 참가한 라파엘과 앤도 이공간으로 빨려 들어갔을 확률이 높아졌어요. 	And Ren's special talent has raised the probability of Raphilia and Annie being brought into the flux area.	
+87	莉琉	虽然实验场地内配置了遮断性防护层。	雖然實驗場地內配置了遮斷性防護層。	実験フィールド内には遮断性防御シールドが\n配備されておりますが。	실험 장소 안에 차단성 보호 코팅을 설치했지만	Although the experiment site is equipped with an insulating shield…	
+88	莉琉	但是从结果看来，即使现在最先进的材料，对这种级别引力的阻断性还是远远不够啊……	但從結果看來，即使用現在最先進的材料，對這種級別的引力阻斷能力還是嚴重不足。	結果から見ると最先端の素材を使っても\nこのレベルの引力を遮断するまでには、\nまだまだ足りないようですね……	결과적으로 봤을 때，최첨단 재료로도 이 정도 레벨의 인력을 막을 수 없는 겁니다.	It turns out that even the most advanced materials can't withstand such strong gravitation.	
+89	N/A	观察室内众人陷入了短暂的沉默。	觀察室內眾人陷入了短暫的沉默。	モニタールーム内の人間達は、しばし沈黙する。	관찰실 내 사람들이 짧은 침묵에 빠졌다.	A brief silence sweeps across the monitoring room.	
+90	布莱特	哈哈哈，现在造成了可能引发外交问题的后果，你却很镇定啊。	哈哈哈，現在可是發生了會引發外交事件的後果，妳卻很鎮定啊。	フハハハ、外交問題になりかねない結果に\nなってしまったというのに\n君は随分と落ち着いている様子じゃないか。	하하하，지금 상황은 외교 문제를 야기할 수도 있는데，당신은 꽤 침착하군요.	Haha… A diplomatic uproar is around the corner, my dear. How can you stay so calm?	
+91	布莱特	以你所见，老戴克斯能容许自己的孙女失联多久？	以妳所見，老戴克斯能容許自己的孫女失聯多久？	それで、君の見立てでは孫娘が失踪した場合、\nデックス博士は発見までに有する時間を\nどれぐらいまでなら許してくれると思うかね？	당신도 알다시피 덱스가 자신의 손녀의 실종을 얼마나 참을 수 있을까?	If Dr. Dekkers knows that his cutie-pie has gone missing, how long do you think it will take before he takes revenge on us?	
+92	莉琉	不必担心。	不必擔心。	ご心配には及びません。	걱정하지 마시죠.	No worries.	
+93	莉琉	以过往小怜出入异变空间的记录来看……	以先前小憐出入異變空間的記錄看來……	過去、レンが異変空間に出入りした記録から\n推定すると……	렌의 이전 변이공간 출입 기록을 살펴보면…	It is not the first time Ren entered a flux area, and all the records have shown that…	
+94	莉琉	如无意外，二十四小时内，她们将会离开异变区域并随机出现在新丰州的某一处。	如果沒意外，二十四小時內，她們將會離開異變區域並隨機出現在新豐州的某一處。	想定外の事が起こらない限り、\n24時間以内に彼女達は異変区域を離れ\n新豊洲のどこかに現れるはずです。	예외없이 24시간 안에 변이공간을 빠져나와 신토요스의 어느 곳에 나타날 겁니다.	If nothing goes wrong, they'll get out of the flux area within 24 hours and appear in some random location in New Opulentia.	
+95	布莱特	哈，希望别出什么意外～	哈，希望沒有意外啊～	フハハハ、\n想定外の事が起こらないように祈っておこう。	하，의외의 상황이 발생하지 않길 바라지~	Ha… I do hope so.	
+96	莉琉	……	……	…………	……	…	
+97	华音泷	但这样一来，实验数据说不定会被污染……	但這樣一來，實驗數據說不定會被污染……	しかしこうなると、実験データが汚染されている\n可能性も考えられるな……	하지만 이러다가 실험 데이터가 오염될지도 몰라…	But then the experimental data may be contaminated…	
+98	莉琉	她们三人都随身携带了记录设备，异变区域内发生的一切，都会被如实记录的。	她們三人都隨身攜帶了記錄設備，所以異變區域內發生的一切都會如實記錄下來。	彼女達3人は記録装置を持ち歩いています。\n\n異変区域内で起こった出来事全てが、\nそのまま記録されますのでご安心を。	그들이 휴대한 기기가 변이 구역에서 발생한 모든 일을 실시간으로 기록할 겁니다.	They brought recording devices along. Everything happened in that flux area would be recorded.	
+99	莉琉	这也是一直以来我们获取异变区域情报的方式。	這也是一直以來我們獲取異變區域情報的方式。	これは、今まで我々が他の異変区域の情報を\n獲得してきた手法です。	이것 역시 여태 우리가 변이공간 정보를 획득한 방식이죠.	That's how we used to retrieve information of flux areas.	
+100	基尔斯	激活异质物时的数据记录呢？	喚醒異質物時的數據記錄呢？	……異質物を活性化させる時のデータ記録は？	이물질이 활성화 될 때의 데이터 기록은?	What about the data on Substance H activation?	
+101	N/A	通讯器中闪过一道极轻的杂音。	通訊器中閃過一道極輕的雜音。	通信機に微かな雑音が走った。	통신기에 아주 작은 잡음이 울린다. 	The transceiver gives off a slight noise.	
+102	莉琉	已经梳理完毕。	已經整理完畢。	……すでに整理済みです。	이미 다 처리해 두었습니다.	It has been processed.	
+103	N/A	随着众人面前的荧幕上开始刷新内容，元老院成员情绪逐渐平静下来。	隨著眾人面前的螢幕上開始更新內容，元老院成員情緒逐漸平靜下來。	目の前のモニターに情報が更新されるにつれて、\n元老院のメンバーは落ち着きを取り戻す。	이어서 스크린 위 내용이 갱신되기 시작하고 원로원 멤버들도 점점 안정을 되찾는다.	As the data on the digital screen begins to refresh, the Senate members gradually loosen up, except for Dr. #C.	
+104	N/A	只有#C博士依旧沉默不语。	只有#C博士依舊沉默不語。	ただ#C博士だけは、黙って一言も喋らない。	#C박사만 여전히 침묵을 유지하고 있다.	He stands there, speechless.	
+105	N/A	他并没有和其他元老一起撤离，而是正在布满巨大裂痕的观察窗后，看着下面实验台中央的莉琉。	他並沒有和其他元老一起撤離，而是站在佈滿巨大裂痕的觀察窗後，看著下面實驗台中央的莉琉。	彼は他の元老院のメンバーと一緒に退避せず\n現在も巨大な亀裂が生じている観察窓を通して、\n下の実験台中央にいるマリルを見つめていた。	그는 다른 원로들과 함께 물러나지 않고，거대 균열이 생긴 관찰창 뒤에서 실험대 중앙의 마리루를 바라보고 있다.	Instead of evacuating the base with others, Dr. #C chooses to stay. Behind the terribly cracked window, he watches Mariru, standing there at the center of the experimental platform.	
+106	#C	小猫咪要是走丢了，落入别人手中，那可就……	小貓咪要是走丟，落入別人手中，那可就……	子猫ちゃんがもし迷子になって、\n他の者の手に落ちてしまえば……	잃어버린 고양이가 다른 사람 손에 넘어간다면……	What if the kitties get lost and fall into the hands of others…	
+107	莉琉	那样的话，正好可以用作『伊利安索斯号』的测试对象──	那樣的話，正好可以用作「伊利安索斯號」的測試對象──	その場合『イリアンソス号』のテスト対象として\n切り替えます──	그렇다면 『헬리안투스호』의 탐측 대상으로 사용할 수 있겠네요	If that really happens, we can use them to test the Ilyanthos.	
+108	#C	哎呀呀，看来莉琉阁下对自己的人，也并没有想象中那么温柔啊~	哎呀呀，看來莉琉閣下對自己的人也沒有想像中溫柔啊～	おやおや、マリル殿は自分側の部下に対して、\n思ったほど優しくないようですねぇ……	이야，마리루 각하도 자기 사람들에겐 그다지 다정하지 않은가 봅니다~	Whoa, whoa, whoa… I thought you were very kind to your fellows. I guess I'm wrong then.	
+109	N/A	哔——	嗶——	ピ──	삐——	Beep–	
+110	N/A	注意到通讯联络，站在观察荧幕前的爱衣立即接通了电话。	注意到聯絡訊號，站在觀察螢幕前的愛衣立即接通了電話。	観察モニターの前に立つ愛衣は、\n通信連絡に気付きすぐに電話を繋げた。	통신 연락이 울리자 관찰 스크린 앞에 서 있던 아이가 즉시 전화를 받는다.	Waiting in front of the monitor, Aya picks up the call immediately as the transceiver beeps.	
+111	N/A@莉琉	爱衣，能追踪到小怜的芯片位置吗？	愛衣，能追蹤到小憐的晶片位置嗎？	愛衣、レンのチップの場所は追跡できているか？	아이，렌 칩 위치를 찾을 수 있겠어?	Aya, can you track the location of Ren's chip?	
+112	爱衣	很讨厌啊~几分钟前突然失去了信号。	原本可以，但是幾分鐘前突然沒了訊號，真討厭～	こりゃ参ったね～～。\n数分前に急に信号がなくなった。	몇 분 전에 갑자기 신호가 사라졌어.	Damn it! We lost the signal a few minutes ago.	
+113	N/A	爱衣咬着手里的记录笔，啧了一声。	愛衣咬著手裡的記錄筆，嘖了一聲。	愛衣は手に持つペンを噛みつつ、舌打ちをした。	아이가 손 안에 든 노트를 씹으며 혀를 찬다.	Aya bites her pen and makes a disappointed tsk. 	
+114	爱衣	奇怪，芯片自带的玻尔兹曼发生器就算在异空间内也能确定小怜大致范围，从来没丢失过信号……	奇怪，晶片自帶的玻爾茲曼機就算在異空間內也能確定小憐的大致範圍，從來沒失去訊號過……	おかしいなぁ、あのチップに組み込まれている\nボルツマン発信機は異空間内でも、\nレンちゃんの大体の位置を特定できていたし、\n一度も信号がなくなるなんて事はなかったのに…	이상해. 칩 자체의 발츠만 발생기는 이공간에서도 렌의 위치를 대략적으로라도 확인할 수 있었는데…	That's weird. The chip is equipped with RBM, which can help us retrieve Ren’s coarse location even within a flux area. And we never lost the signal before…	
+115	爱衣	卫星集群是不可能突然丢失信号的，难道小可爱被高温瞬间蒸发了……	衛星群是不可能突然失去訊號的，難道……小可愛被高溫瞬間蒸發了！	衛星クラスターが突然、信号を見失うなんて\nあり得ない。\nまさか我らの可愛いレンちゃんが\n一瞬にして高温蒸発しちゃったのかな……	위성 조직망이 갑자기 신호를 놓칠 리는 없고. 설마 렌이 순식간에 증발한 걸까…	How is that possible? We've got a full satellite array! Maybe… the little kitty evaporates under extreme temperature?	
+116	N/A@莉琉	……喂！	……喂！	……おい！！	……야！	… It's not funny!	
+117	N/A	通讯另一侧的莉琉展现出一丝罕见的焦虑。	通訊器另一側的莉琉展現出一絲罕見的焦慮。	通信の向こう側にいるマリルが、珍しく焦りを\n見せている。	통신기 너머로 마리루가 보기 드문 불안감을 보인다.	On the other side of the line, Mariru raised her voice with a rare anxiety.	
+118	N/A@莉琉	好像有点麻烦……底层能拍摄到真实场景的摄像机最后拍到的画面是小怜打碎了青金石柱。	有點麻煩啊，能拍攝到真實場景的底層攝影機，最後只拍到小憐打碎了青金石柱。	今回は少し厄介なようだ……\n\n下のリアルタイムカメラが最後に撮影したのは、\nレンが青金石柱を砕いた映像だ。	좀 번거롭게 됐어. 실시간 촬영 카메라가 마지막으로 찍은 건 렌이 청금석주를 깨는 화면이야.	We got some trouble here… From the camera placed down there, the last thing we see is the Lapis Pillar being torn apart by Ren.	
+119	爱衣	真是个冒失的孩子啊~	唉，真是個冒失鬼～	あらま～、なんとドジっ子。	정말 덜렁이라니까~	What a butterfingers…	
+120	N/A@莉琉	然后所有成像设备──包括光学、热成像和微波成像的讯号同时出现了异常。	之後所有影性設備──包括光學、熱像儀和微波成像的訊號都同時出現了異常。	だがその後、光学、赤外線映像や\nマイクロ波イメージングを含めた信号まで\n全ての撮影装置に、ほぼ同時で異常が発生した。	그리고 광학，열화상，극초단파 화상의 신호가 동시에 오류가 발생했어.	Then all of a sudden, all optical, thermal and microwave imaging devices failed simultaneously.	
+121	N/A@莉琉	再次恢复的时候，她们三人都不见了。	再次恢復的時候，她們三人都不見了。	回復した時には、すでに彼女達3人の姿は消失。	복구하고 나니 세 사람은 이미 사라진 뒤였어.	By the time the signals came back, the girls had all gone.	
+122	爱衣	一定发生了不得了的事情……\n可恶，居然收集不到数据！！	一定發生了不得了的事情……\n可惡啊，居然收集不到數據！ ！	きっととんでもない事が起こったんだわ……\nくっそー、データを集められないなんて！！	뭔가 심상치 않은 일이 생긴 게 분명해……\n젠장，데이터도 수집하지 못하다니！！	Something terrible must have happened… Darn it! No data at all!!	
+123	N/A@莉琉	按照计划，如果带回了生命体，小怜必须在光学迷彩解除前带对方进入安全通道。	按照計劃，如果帶回了生命體，小憐必須在解除光學迷彩前帶對方進入安全通道。	生命体を連れ帰ってきた場合は、予定通りに\n光学迷彩が解除されるより先に\n安全通路へと連れ込まなければならない。	계획대로 생명체를 불러냈다면，렌은 광학 위장 도색 해제 전에 상대를 데리고 안전 통로에 진입했어야 해.	According to our plan, Ren has to take whoever she brought back from the flux area to the exit before the optical camouflage fades away.	
+124	N/A@莉琉	（这样才能配合伪造异常空间数据，向元老院隐瞒她和拉斐尔的真实情况。）	（這樣才能配合偽造異常空間數據，向元老院隱瞞她和拉斐爾的真實情況。 ）	（そうすれば偽造の異空間データと合わせて、\n　元老院にレン達の真実を隠蔽できる）	（그래야 데이터를 조작해 원로원에게 그녀와 라파엘의 실시간 상황을 숨길 수 있다.）	(It is the only way to falsify the data of the flux area. Only then can we keep the Senate in the dark about the real abilities of Ren and Raphilia.)	
+125	N/A@莉琉	实验过程中采集到了两组数据，一组看上去和贝阿特丽切出现时的相位波动十分接近。	實驗過程中收集到了兩組數據，一組看起來和貝阿特麗切出現時的相位波動十分接近。	実験の過程で2組のデータを獲得できた。\n\nその内1組は、ベアトリーチェが現れた時の\n位相波動と酷似している。	실험 과정 중 두 개의 데이터를 수집했어. 그 중 하나가 베아트리체가 나타났을 때의 파동과 근접해.	We've collected two sets of data during the experiment, and one of them appeared very close to what we collected when Beatrice came back to life.	
+126	爱衣	所以，召唤实验成功？	所以，召喚實驗成功？	という事は、召喚実験自体は成功している？	그래서，소환 실험은 성공한 거야?	So… Does it mean the experiment was successful?	
+127	N/A	莉琉的语气变得严肃。	莉琉的語氣變得嚴肅。	マリルの口振りが真剣になってきた。	마리루의 말투가 진지하게 변했다.	Mariru's voice suddenly turns cold.	
+128	N/A@莉琉	但是另一组时空波动的数值，却无法匹配到相似的特征……	但是另一組時空波動的數值，卻是前所未見的……	だが、もう1組の時空波動の数値は、\n類似の特徴に全く当てはまらない。	하지만 다른 시공 파동의 데이터는 비슷한 특징을 매칭할 수가 없어…	Although for the other set… We can’t find a single match.	
+129	N/A@莉琉	推测包括召唤出的那个人在内的所有人，应该全部被卷入了这个不明区域。	我想，包括被召喚出的那個人在內，應該所有人都被捲入了不明區域。	召喚された生命体を含め、あの場の3名が\nこの不明な領域に巻き込まれたと推測できる。	소환된 그 사람을 포함한 모두가 알 수 없는 공간으로 빨려들어간 것 같아. 	It's believed that all of them, including the person they brought back, have been sucked into the unknown area.	
+130	爱衣	呀啊～	呀啊～	やぁ～～んっ♡	아아~	Bravo!	
+131	N/A	爱衣瞬间爆发出了兴奋的声音。	愛衣瞬間爆發出興奮的聲音。	愛衣は急に興奮した声を出した。	아이가 순간적으로 흥분한 목소리를 낸다.	Aya exclaims with joy.	
+132	N/A@莉琉	……具体内容已经通过加密通道传回SID了。	……詳細內容已經透過加密通道傳回SID了。	……詳細は暗号化チャンネルを介してSIDに\n送信した。	……구체적인 내용은 기밀 루트로 SID에게 전송했어.	… The details have been transmitted to SID through encrypted channels.	
+133	爱衣	小怜总是会给我带来惊喜呢～	小憐總是會給我帶來驚喜呢～	レンちゃんは本当にいつもサプライズを私たちに\nくれるよねぇ～～	렌은 항상 우리를 놀라게 해~	Ren never ceases to amaze me!	
+134	N/A@莉琉	总之，继续追踪她的位置。	總之，繼續追蹤她的位置吧。	とにかく、彼女達の場所を続けて追跡しろ。	어쨌든 그녀의 위치를 계속 추적해줘.	Keep track of her.	
+135	N/A@莉琉	三十分钟内，我需要确定分析报告。	三十分鐘內給我確定的分析報告。	30分以内で確定の分析報告を提出するように。	30분 안에 확실한 분석 보고서가 필요해.	I need an analysis report in 30 minutes.	
+136	爱衣	明白。	好的，沒問題～	了解。	알겠어.	Got it.	
+137	N/A	爱衣面前巨大的屏幕上，原本显示着少女位置的标识旁，赫然是鲜红的——	愛衣面前巨大的螢幕上，原本顯示著少女位置的標記旁，赫然是鮮紅的——	愛衣の目の前にある巨大スクリーン上、\n少女の位置を示すマークの隣に\n真っ赤な何かが──	거대한 스크린에는 소녀의 위치를 나타내야 할 표식 옆에 붉은색의 글자가 써있다.	On the huge screen in front of Aya, a couple of red letters show up next to where her location marker was last seen–	
+138	N/A	Offline—	Offline—	Offline──	Offline—	Offline–	

@@ -1,0 +1,24 @@
+﻿1	B_speak	■ 阿卡特拉兹异物质收容所	■ 阿卡特拉茲異質物收容所	■ アルカトラズ異質物収容所	■ 알카트라즈 이물질수용소	Akatraz's Collection and Research Center	
+2	B_speak	第二学园都市腹地	第二學園都市腹地	第二学園都市深部	제2학원도시 중심지	Second Academy City Center	
+3	A_speak	那些家伙还联系不上吗\n这些极端分子连利用的价值都没有。	別碰那些無關的古董級異質物，	今回は、あらゆる危険を\n考えて行動するぞ	그런 오래된 이물질을 만지지마!	Don't touch the unrelated, antique Substance H.	
+4	A_speak	不等了，启动备用计划！	情報裡可沒有標示危險等級。	無関係な異質物には、\n触らないようにな	근데 정보에서는 위험등급을 표지하지 않았어.	Their risk levels aren't indicated in our intel.	
+5	A_speak	
+6	A_speak	5分钟计时开始，行动！	準備行動！	では、作戦開始だ！	행동 준비!	We're a go!	
+7	A_speak	[ff9c00]滑动[-]屏幕可以移动，向目标方向靠拢\n(点击继续)	在螢幕上[ff9c00]滑動[-]即可移動，向目標方向靠近\n（點擊繼續）	スクリーンを[ff9c00]スワイプ[-]して、\n目標へ向かうぞ	스크린을 [ff9c00]슬라이드하면[-] 목표로 이동한다 \n(계속 터치)	[ff9c00]Tap[-] the screen to move towards your target.\n(Tap to continue.)	
+8	T_showPicText	移动至敌人附近，[ff9c00]目标环[-]将出现\n此时[ff9c00]松开左手摇杆[-]会自动攻击目标	移動到敵人附近就會出現[ff9c00]目標環[-]\n此時[ff9c00]鬆開左手搖桿[-]就會自動攻擊目標	敵の近くまで移動すると、[ff9c00]ターゲットの円[-]が表示されます。\nこの時に[ff9c00]手を放すと[-]自動的にターゲットを攻撃します。	적에게 다가가고[ff9c00]표식이[-] 나타나면\n[ff9c00]자동공격[-]이 시작한다.	Move close to an enemy, and a [ff9c00]circle[-] will appear around the target.\n[ff9c00]Release the left joystick[-] to automatically attack the target.	
+9	A_speak	抓紧适应手指[ff9c00]滑动移动和松开攻击[-]	抓緊適應手指[ff9c00]滑動可移動，鬆開則可攻擊[-]	[ff9c00]スワイプ[-]で移動、\n[ff9c00]手を放す[-]と攻撃だ	[ff9c00]슬라이드,접근,그다음에 자동공격![-]	[ff9c00]Swipe the joystick to move and release it to attack[-].	
+10	A_speak	只是收容所的常驻武装\n迅速突破！	只是收容所的常駐武裝\n迅速突破！	こいつらは目じゃない。\n速やかに突破する！	수용소 일반 병사들뿐이다.\n처리해！	They're the usual guards in this research center.\nTake 'em out quickly!	
+11	A_speak	是时候换换兵器了	該換換兵器了	そろそろ切り替えて、\n私の兵器の出番よ。	병기 변경하는 때이야.	It's time to change your weapon!	
+12	FocusTrigger					
+13	A_speak	[ff9c00]怨灵超度！[-]	[ff9c00]怨靈超度！[-]	打ち払います！\n[ff9c00]怨霊成佛！[-]	[ff9c00]원령해방！[-]	[ff9c00]Turn Evil![-]	
+14	T_showPicText	战斗中兵器会积攒[ff9c00]能压[-]\n当能压[ff9c00]充满时[-]拖拽头像可释放[ff9c00]召唤技[-]	戰鬥中兵器會累積[ff9c00]能壓[-]\n能壓[ff9c00]充滿時[-]拖曳頭像可釋放[ff9c00]召喚技[-]	戦闘中、兵器は[ff9c00]エネルギー[-]をチャージし続けます。エネルギーが[ff9c00]満タン[-]になった時、\nアイコンをドラッグすると[ff9c00]召喚スキル[-]の発動が可能です。	전투 중 병기의 [ff9c00]원기[-]가 [ff9c00]가득 차면[-] \n프로필을 드래그해서 [ff9c00]소환 스킬[-]을 시전할 수 있습니다.	Witch [ff9c00]Energy[-] is accumulated during battle.\nOnce the Energy is [ff9c00]full[-], drag the Avatar to release the [ff9c00]Active Skill[-].	
+15	FocusTrigger					
+16	A_speak	竟然是第5代魔装机甲，真是难缠	竟然是第5代魔裝機甲，真是難纏	第五世代の魔装機甲だと、\nこいつは厄介だ…！	헉.마법기갑이 있다니...	A 5th-generation Fel Mecha? Things will get tough!	
+17	A_speak	这种凭借微型异质物驱动的怪物，	這種靠微型異質物驅動的怪物，	この超小型異質物で、\n駆動している怪物は	이런 마법기갑은 소량의 이물질을 의해 작동하는 괴물이다.	This type of monster is driven by micro Substance H.	
+18	A_speak	每隔一段时间就启动[ff9c00]免疫防护罩！[-]	每隔一段時間就會啟動[ff9c00]免疫防護罩！[-]	一定時間ごとに[ff9c00]バリア[-]が\n起動する！	기간마다 [ff9c00]면역실드[-]가 생성된다.	Every once in a while, it activates a [ff9c00]protective shield[-].	
+19	FocusTrigger					
+20	A_speak	这就拿下它！	這就打爆它！	大義のため！\n覚悟！　	물려쳐!	I've got this!	
+21	FocusTrigger					
+22	A_speak	注意躲避[ff9c00]飞弹[-]与[ff9c00]电球[-]	注意躲避[ff9c00]飛彈[-]與[ff9c00]電球[-]	[ff9c00]ミサイル[-]と[ff9c00]電力玉[-]に\n注意して回避だ！	[ff9c00]미사일[-]과 [ff9c00]썬더볼[-] 회피!	Dodge [ff9c00]missiles[-] and [ff9c00]electric balls[-]!	
+23	A_speak	[ff9c00]陨落吧，死亡之光！[-]	[ff9c00]隕落吧，死亡之光！[-]	[ff9c00]墜落せよ、死滅の光[-]	[ff9c00]터져라……[-]	[ff9c00]Death ray, shoot![-]	
+24	FocusTrigger					

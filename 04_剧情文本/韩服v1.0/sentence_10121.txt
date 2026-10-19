@@ -1,0 +1,97 @@
+﻿1	N/A	一场激战过后，终于消灭了领头的家伙，其他人也随之化作一团红雾消散了。	一場激戰過後，終於消滅了帶頭的傢伙，其他人也隨之化作一團紅霧消散了。	激戦の末やっと敵のリーダーらしき奴を倒した。\n他の連中も赤い霧と化して消えていく……	격렬한 전투 후 우두머리 녀석을 제거하자，다른 녀석들도 연기처럼 사라졌다. 	We eliminated the boss after a fierce battle, and the other enemies vanished in a puff of red mist.	
+2	小怜	呼——\n诶？！	呼——\n誒？！	ふぅ──\nんんっ？！	후——\n엣？！	Whoa... \n Wait, what’s this?!	
+3	N/A	几页发黄的文稿落在了我面前，上面文字和图案错落交织，展现出一幅让人完全无法理解的状态。	幾張發黃的手稿落在我面前，上面參雜著文字和圖案，展現出一幅讓人完全無法理解的狀態。	ふと、何枚かの黄ばんだ紙が俺の直ぐ側に、\nヒラヒラと落ちてきた。\n紙には謎の文字と図が記載されており、\nそれが俺の目にちらりと映る。	노란빛이 나는 종이 몇 장이 내 앞에 떨어진다.\n종이에는 문자와 그림이 뒤엉켜 있어 전혀 이해할 수가 없다.	A couple of yellowing pages fall in front of me. On the pages are a mix of text and patterns, barely readable.	
+4	小怜	W…A…D…	W…A…D…	W……A……D……	W…A…D…	W... A... D...	
+5	小怜	嗯？？\n是我眼花了吗……	嗯？ ？\n是我眼花了嗎……	……うん？？\n俺の目がおかしいのか……？	응？？\n내가 눈이 잘못됐나……?	What? \n Oh... I feel dizzy...	
+6	N/A	我揉了揉眼睛又盯着那几页纸看了一遍，唯一可以确定的是，它们是用英语写成的。	我揉了揉眼睛又盯著那幾張紙看了一遍，唯一可以確定的是，它們是用英語寫的。	目を擦って紙をじっくりと見るが……\n英語が書かれている。　それだけは分かった。	눈을 비비고 몇 장을 넘겨 봤지만 유일하게 알 수 있는 것은 영어로 적혀 있다는 것이다. 	I rub my eyes and try to read the words again. The one thing I’m sure about is that they’re written in English.	
+7	N/A	虽然能辨认局部的字母，可我一旦试图将它们连成单词和句子。\n就顿时觉得脑海中一片混乱在搅动，让我无法识别。	雖然能辨認部分字母，但只要我試圖將它們連成單詞和句子，\n就頓時覺得腦中一片混亂，讓我無法繼續。	この文章……\n部分的にアルファベットを認識できるが、\n単語や文章に解釈しようとした途端、\n脳裏が混濁して解読が不可能となる。	일부 알파벳은 알아볼 수 있었으나，연결해서 읽으려고 하자\n무엇인가가 뇌를 휘젓는 것처럼 혼란스러워져 식별할 수가 없다. 	Although some letters are legible, \n All I can feel is complete chaos whenever I try to put them together. 	
+8	N/A	就像患上了阅读困难症，我连那上面最简单的单词都认不出来了。	就像罹患了閱讀障礙，我連那上面最簡單的單字都認不出來了。	まるで失読症を罹ったかのように、その書面の\n一番簡単な単語すら見分けがつかなくなる。	난독증에 걸린 것처럼 간단한 단어조차 알아볼 수 없다.	It feels like a reading disorder. I cannot identify even the easiest word on it. 	
+9	安妮	先别在那里一直看啦，救人要紧~~	先別在那裡一直看啦，救人要緊～	そこでじっと見ていないで、助けるほうが\n先だよ～～っ！	그것보다 사람을 먼저 구해야 돼!	Put them away for now. We have a life to save.	
+10	小怜	哦~知，知道啦！	哦～知、知道啦！	あっ、ああ、分かったっ！	아! 아，알았어!	Right. Got it!	
+11	N/A	在我将它们收起来的一瞬间，似乎看纸张上闪过符咒纹样的光芒然后快速的消失了。	在我將它們收起來的一瞬間，似乎看到紙張上閃過符咒圖樣的光芒，然後又快速消失。	俺は謎の紙をとりあえずしまう。\nするとなぜか呪文のような模様の光がほとばしり\n……かと思ったらと一瞬で消えた。	그것들을 정리하려는 순간，부적 문양의 빛이 번쩍였다가 순식간에 사라진다. 	The moment I put them away, I think I saw a flashing talisman on the paper, but it disappeared very quickly.	
+12	小怜	那是——	那是——	今のは──	저건——	That’s...	
+13	安妮	什么？	什麼？	どうしたの？	뭐지?	Eh?	
+14	小怜	难道，是我的错觉？\n（那股难以言说震颤，到底是……）	難道，是我的錯覺？ \n（那股難以言喻的震顫，到底是……）	気のせい、だよな？\n（あの言葉にできない震えは……一体……）	설마，내 착각인가？\n（이 형용할 수 없는 떨림은 도대체……）	Is that my illusion? \n (I feel an indescribable quiver. What’s that...)	
+15	N/A	而手臂上还残留着酸麻的感觉，提醒着我，这一切并不是幻觉。	手臂上還殘留著酸麻的感覺，提醒著我，這一切並不是幻覺。	腕には痺れたような感覚が残っている。\n気のせいじゃ済まさないぞ　と、\n俺に『警告』するかのように……	팔 위에 남아있는 시큰거리는 느낌이 환각이 아니라고 말해준다. 	The slight tingling on my arm reminds me this is not an illusion. 	
+16	伊露卡	……	……	…………	……	...	
+17	小怜	对了，你没事吧？	對了，妳沒事吧？	そうだ、君っ、大丈夫！？	아참，너 괜찮아?	Hey, are you okay?	
+18	N/A	我打量起受伤的小女孩，她的表情依旧十分冰冷\n似乎并没有因为受到我和安妮帮助而感到开心。	我打量起受傷的小女孩，她的表情依舊十分冰冷。 \n似乎並沒有因為受到我和安妮幫助而感到開心。	不可解な文章はさておいて、俺は怪我をしている\n少女に駆け寄った。\nだが、彼女の表情は依然冷たく、俺とアニーが\n助けたからといっても、嬉しくはないようだ。	다친 아이를 훑어보니，표정이 아주 차갑다.\n나와 앤의 도움을 받은 게 기쁘지 않은 모양이다.	I look at the injured girl. She still looks cold. \n Not happy or grateful for what Annie and I have done for her.	
+19	伊露卡	……	……	…………	……	...	
+20	N/A	仔细一看，她的外表和装备，肯定不是普通的小孩子……	仔細一看，她的外表和裝備，一定不是普通的小孩子……	彼女の外見と装備を見る限り、\nきっと普通の子供じゃない……	자세히 살펴보니，그녀의 외모와 장비가 일반적인 아이의 것이 아니다……	Judging from her appearance and outfit, she's not just a girl next door…	
+21	N/A	眼罩这种地方也就罢了，罩袍之下，露出的是被机械铠甲包裹的双手。	眼罩也就算了，罩袍之下，露出的是被機械鎧甲包裹的雙手。	眼帯はともかく、ローブの下には機械の装甲に\n包まれた両手。	안대는 그렇다 치고，로브 밑으로 보이는 기계 갑옷으로 감싸인 두 손까지.	The eye patch is weird enough. But look at her hands under the frock… They are wrapped in mechanical armor.	
+22	N/A	而且看她腹部的伤口……可能成年人都要哭喊丧失行动能力\n可她却始终一言不发的静静蹲着。	而且看她腹部的傷口……可能連成年人都會哭天搶地且喪失行動能力，\n但她卻始終一言不發地靜靜蹲著。	腹部を見れば……\n大人でも泣き叫びそうな傷口の深さなのに、\n彼女は泣き言も言わず、\nただ黙ったまま静かにうずくまっている。	게다가 복부의 상처는……성인이라도 울부짖으며 행동력을 상실했을 것이다.\n하지만 그녀는 시종 아무 말도 없이 조용히 웅크리고 있다.	She has a serious wound on the belly... Even an adult will break down. \n But she’s been sitting there so quietly, without a word.	
+23	小怜	小妹妹，你叫什么名字？\n在这种地方做什么？	小妹妹，你叫什麼名字？ \n在這種地方做什麼？	君、名前は？\nこんな場所で何をしてたの？	꼬마야，이름이 뭐니？\n여기서 뭐하고 있어? 	Hey, what’s your name? \n What are you doing around here?	
+24	小怜	刚才那群是什么人，你知道吗？	剛才那群是什麼人，妳知道嗎？	さっきの奴らが何者か、知っていたりするかな？	방금 그 사람들은 누구야，아는 사람들이야?	Do you know those guys?	
+25	安妮	一口气问这么多，她回答不了吧……	一口氣問這麼多，她回答不了吧……	そうやって一度に質問しても、この子だって\nこんな状態じゃ答えられないよ……	한 번에 그렇게 많이 물어보면 대답하기 곤란하지 않을까……?	Alright... maybe that’s too many questions for her...	
+26	N/A	突然间，小女孩不顾还在渗血的伤口站了起来，个头还挺高的嘛……	突然間，小女孩不顧還在滲血的傷口便站了起來，個頭還挺高的嘛……	まだ血が溢れ出ているにも関わらず、\n突然、少女は立ち上がった。\n意外と背が高いな……	갑자기，소녀가 피가 흐르는 상처는 신경쓰지 않고 자리에서 일어난다. 키가 꽤 크잖아…	The little girl suddenly stands up, still bleeding. She’s actually taller than I thought…	
+27	N/A	等等等等！！\n她的身体……悬浮在地面上？！	等等等等！ ！\n她的身體……飄在半空中？ ！	ってままま、待ってッ。待ってッ。\n彼女の身体が………\n宙に浮かんでませんかね、これっ？	잠깐！！\n몸이……땅 위에 떠있어？！	Oh my god! \n Her body... is floating above the ground?!	
+28	伊露卡	……伊露卡。\n任务：消除，女巫。	……伊露卡。 \n任務：消除，女巫。	……イルカ。\n任務：削除、ドール。	……이루카. \n임무：제거. 마녀.	... Iruka. \n Mission: Eliminate, witches.	
+29	N/A	小女孩用了一种奇怪的方式回答着问题。	小女孩用了一種奇怪的方式回答著問題。	女の子は独特な言い回しで質問に答えた。	소녀가 이상한 방식으로 질문에 대답한다.	The girl answers the questions in a very strange way.	
+30	小怜	伊露卡……是她的名字吗？\n好奇怪的语气。	伊露卡……是她的名字嗎？ \n好奇怪的語氣。	イルカ……この子の名前か？\nそれにしても独特な口調だ。	이루카……네 이름이야? \n참 독특한 말투네.	Iruka... Is that her name? \n She speaks in a very odd tone.	
+31	伊露卡	目标，判定——\n人类，女性，数量……	目標，判定——\n人類、女性，數量……	目標、補足──\n人間、女性、数量……	목표，판독——\n인간，여성，수량……	Target, identifying... \n Human. Female. Amount...	
+32	伊露卡	一名。	一名。	1名。	1명.	One.	
+33	伊露卡	……\n再判定，启动。	……\n再判定，啟動。	…………\n再測定、起動。	……\n재판정，가동.	... \n Re-identifying, activated.	
+34	小怜	（“一名”女性？）\n（难道她能看出我的本质！！！）	（「一名」女性？ ）\n（難道她能看出我的本質！ ！！ ）	（女性が「1名」？）\n（まさか俺の本質を見抜けるのかッ！！！）	（여자 “1명”？）\n（설마 내 본질을 알아본 것인가！！）	(“One” female?) \n (Did she identify me as a male just now?!)	
+35	小怜	没、没错！我可是男孩子啊！	沒、沒錯！ 我可是男孩子啊！	そ、そうだ！！　俺、男の子なんだよッ！！	마，맞아！난 남자야! 	Yeah, that’s right! I am a boy!	
+36	伊露卡	魔女，数量，一名。\n防御模式，启动。	魔女，數量，一名。 \n防禦模式，啟動。	魔女、数量、1名。\n防御モード、起動。	마녀，수량，1명.\n방어 모드，가동.	Witch, amount, one. \n Defense mode, activated.	
+37	小怜	啊哈哈哈──\n最近总是出现自己被陌生人认出是男生的幻觉……	啊哈哈哈──\n最近總是出現自己被陌生人認出是男生的幻覺……	あ、あははは──\n女性と、魔女ね……最近、男と呼ばれてた頃が、\n幻想だったのじゃないかと疑い始めてるよ……	아하하하──\n요즘따라 모르는 사람에게 남자로 보이는 환각이 일어나서……	Bahahaha... \n Finally! Lately I’ve been having this feeling that some stranger will find out my true identity.	
+38	小怜	小女孩手部的光怎么越来越亮啊？\n嗯？喂、慢着！	小女孩手部的光怎麼越來越亮啊？ \n嗯？ 喂、慢著！	この子の手が徐々に明るく光っているような\n幻覚も、見えるようになってきたし……？\n──は？　おい、待ってッ！！	손에 빛이 왜 점점 더 밝아지는 거지?\n응? 이봐，천천히！	Uh... why are her hands shining, brighter and brighter? \n Whoa... Hold on, wait a minute!	
+39	小怜	啊啊啊啊啊——！\n痛痛痛痛痛！	啊啊啊啊啊——！ \n痛痛痛痛痛！	あばばばばばーーー！\nイタッ、イタタタタッ！！	아아아아아아——！\n아파아파아파아파！	Aaaah! \n Ouch! Ouch! Ouch!	
+40	小怜	喂，怎么突然连我都劈啊？！	喂，怎麼突然連我都劈啊？ ！	おい！なんでいきなり俺を感電させようと\nするんだよ！？	이봐，왜 갑자기 날 공격하는 거야?! 	Why are you picking on me?!	
+41	N/A	还好我反应快，雷击只是擦到手臂之后在刚才站的地面上留下一个小白点。	還好我反應快，雷擊只是擦過手臂，然後在剛才站的地面上留下一個小白點。	幸い俺の反応が速かったおかげか、\n雷自体は腕を掠めただけで済んだ。\n雷は先ほど俺が立っていた場所に直撃し、\n白点を残す。	반응이 빨라서 다행이다. 전기 공격이 내 팔을 스치고 방금 내가 서있던 땅에 떨어져 흰점을 남겼다.	That was close. Thanks to my quick response, that lightning strike only touched my arm slightly and left a whitish burn on the ground.	
+42	伊露卡	战斗能力低下，逃跑迅速。\n──无威胁。	戰鬥能力低下，逃跑迅速。 \n──無威脅。	戦闘能力の低下、逃げ足、速い。\n脅威、無し。	전투 능력 저하，신속한 회피.\n위협 없음.	Low combat skills. Fast escape. \n ... No threat.	
+43	N/A	我，似乎被鉴定为弱鸡了……	我，似乎被鑒定為弱雞了……	俺、チキンって判定されたみたい……	나，왠지 약골로 판정된 것 같은데……	Well... it seems that I have just been identified as a chicken…	
+44	小怜	有必要连帮忙的人都攻击吗？\n而且为什么针对我啊……	有必要連幫忙的人都攻擊嗎？ \n而且為什麼針對我啊……	助けた人にまで攻撃する必要あるのか？\nしかも、なんで俺に対してだけ！？	도와 준 사람을 공격할 필요는 없잖아?\n게다가 왜 나한테…	Why did you attack me alone? \n I helped you.	
+45	伊露卡	魔女，打不过。	魔女，打不過。	魔女、勝てない、無理。	마녀. 이길 수 없다.	No match for a witch.	
+46	小怜	太直白了！！	太直白了！ ！	正直な子だっ！！	너무 솔직하잖아！！	That's honest!	
+47	安妮	小伊露卡，你看我们这么友善。\n绝对不会是坏人啦~~	小伊露卡，妳看我們這麼友善。 \n絕對不會是壞人啦~~	イルカちゃ～ん、私達こんなに仲良しなんだから\n絶～対悪い人なんかじゃないよ～～	이루카，봐봐! 우린 착한 사람들이야.\n절대 나쁜 사람들이 아니라구~~	Little Iruka, look, we’ve been so nice. \n So we are definitely not bad people.	
+48	小怜	（小声）安妮，这种发言不仅没有说服力，而且很像诱拐犯啊……	（小聲）安妮，這種發言不僅沒有說服力，而且很像誘拐犯啊……	（小声）アニー、そのセリフは説得力がないし…\n　　　　あと誘拐犯っぽいぞ…	（소곤소곤）앤，그런 말은 설득력이 없는 데다가，꼭 유괴범 같단 말이야…	(Whisper) Annie, this isn’t persuasive at all. And it sounds like we’re kidnappers.	
+49	伊露卡	嗯……	嗯……	うん……	응……	Hmm...	
+50	安妮	——那么，伊露卡，也是魔女吗？	——那麼，伊露卡也是魔女嗎？	──それで、イルカちゃん、あなたも魔女なの？	——그럼，이루카도 마녀야?	... So, Iruka, are you also a witch?	
+51	N/A	安妮没有理我，而是直截了当的提问。	安妮沒有理我，而是直截了當地提問。	アニーは俺を無視して、単刀直入に聞き始めた。	앤이 날 무시하고 단도직입적으로 질문한다. 	Annie ignores me and asks Iruka directly.	
+52	小怜	喂喂，万一伊露卡连『魔女』是什么都不懂呢？	喂喂，萬一伊露卡連「魔女」是什麼都不懂呢？	おいおい、もしも彼女が『魔女』について\n何も知らなかったら、\nアニーの情報がばれちゃうじゃん。	만일 이루카가 『마녀』가 뭔지 모른다면?	Hey, wait! Maybe Iruka doesn’t even know what a Witch is.	
+53	伊露卡	伊露卡，是，『行刑者』。	伊露卡，是，「行刑者」。	イルカ、は、『執行人』。	이루카는 『집행자』다.	Iruka, Executioner. 	
+54	小怜	『行刑者』……现在的小孩子都喜欢这么中二的称号吗？	「行刑者」……現在的小孩子都喜歡這麼中二的稱號嗎？	『執行人』……中二病的な称号っぽいけど、\n最近の子の流行りか？	『집행자』……요즘 아이들은 중2병 같은 칭호를 좋아하나?	Executioner... Well... Why do kids these days love such stupid nicknames so much?	
+55	伊露卡	……	……	…………	……	...	
+56	安妮	……	……	…………	……	...	
+57	小怜	（糟糕，把心里的吐槽说出来了……）	（糟糕，把心裡的吐槽說出來了……）	（しまった、心の声が思わず出てしまった……）	（이런，나도 모르게 마음 속 말을 뱉어버렸다……）	(Damn, I just said that out loud...)	
+58	N/A	又一道落雷，还好及时躲开了。	又一道落雷，還好及時躲開了。	再び雷が落ちてきた。\n\n必死で避けた。	또 벼락이 내려쳤다. 다행히 재빨리 피했다.	Another lightning strike hits, and I dodge it just in time again.	
+59	小怜	哎，小朋友！\n有话好好说啊！	哎，小朋友！ \n有話好好說啊！	ちょ、ちょっと待って！！\n言いたい事があるなら、口で言ってよ！	이봐，꼬마！\n할 말이 있으면 말로 하라고!	Hey, kid! \n Can we just talk?	
+60	小怜	嗯……给你一块巧克力，别生气了好不好？	嗯……給妳一塊巧克力，別生氣了好不好？	えっと……(ガサゴソ）\n\nチョコレートをあげるから、\nそんなに怒らないで……	음……초콜릿을 줄 테니까 화내지 마. 알았지?	Here... chocolate. Stop being mad, alright?	
+61	N/A	我将兜里的巧克力拿出来，分了一半递给伊露卡。	我將身上帶著的巧克力拿出來，分了一半遞給伊露卡。	俺はポケットにあったチョコレートを取り出し、半分をイルカに渡した。	주머니에서 초콜릿을 꺼내，반으로 갈라 이루카에게 건넸다.	I take a bar of chocolate from my pocket, break it in half, and share it with Iruka.	
+62	小怜	呼，还好身上有带巧克力。\n毕竟应该不会有小孩子讨厌巧克力吧？	呼，還好身上有帶巧克力。 \n畢竟應該不會有小孩子討厭巧克力吧？	ふ──、たまたまチョコを持ってて良かった。\nチョコが嫌いな子供は流石にいないだろう。	후，초콜릿을 가지고 와서 다행이다.\n어린애니까 초콜릿을 싫어하진 않겠지?	Phew... Lucky that I have chocolate with me. \n No kid hates chocolate after all.	
+63	伊露卡	……	……	…………	……	...	
+64	小怜	啊——\n你看，我已经吃掉啦！	啊——\n妳看，我已經吃掉啦！	もぐ、もぐ──\nほら、俺はもう食べた！	아——\n봐봐，난 벌써 먹었어!	Yum...yum... \n See, I’ve eaten it up.	
+65	伊露卡	巧克力？	巧克力？	ちょこれーと？	초콜릿?	Chocolate?	
+66	小怜	不是什么危险的东西啦……\n是能给人带来幸福感的零食哦！	不是什麼危險的東西啦……\n是能夠為人來幸福感的零食哦！	危ない物とかじゃないからね……\n\nこれはみんなを幸せな気持ちにしてくれる\n甘～い食べ物だよ！	위험한 게 아니야…\n행복을 가져다 주는 간식이야! 	It’s not dangerous... \n It’s a snack that brings you happiness!	
+67	安妮	（小声）随便给陌生的小萝莉投喂食物，小怜才更像诱拐犯吧！	（小聲）隨便拿食物給陌生的小蘿莉吃，小憐才更像誘拐犯吧！	（小声）見知らぬ幼女を餌付けするレンちゃんの　　　　セリフの方が、よっぽど誘拐犯みたい。	（소곤소곤）모르는 아이에게 먹을 걸 주다니，렌이 더 유괴범 같아! 	(Whispering) Ren, the one who offers food to little girls may look more like a kidnapper.	
+68	安妮	嗯……不过在随身携带巧克力这点上来说，你已经越来越像女孩子了呢！	嗯……不過在隨身攜帶巧克力這點上來說，妳已經越來越像女孩子了呢！	うん……でもチョコを持ち歩いてる点では、\nますます女の子っぽくなってきたね！	…초콜릿 같은 걸 들고 다니다니，점점 더 여자가 되고 있구나!	And you are acting like a girl now, taking chocolates along. Well done!	
+69	N/A	伊露卡犹豫了一下，小心翼翼地打开外包装，慢慢地将巧克力含进嘴里。	伊露卡猶豫了一下，小心翼翼地打開外包裝，慢慢地將巧克力含進嘴裡。	イルカは少し躊躇うも、用心深く銀紙を外し、\nゆっくりとチョコレートを口に含んだ。	이루카가 잠시 망설이더니 조심스럽게 포장을 뜯어 초콜릿을 입에 넣는다.	Iruka hesitates for a moment before she opens the packing and slowly puts a piece into her mouth.	
+70	伊露卡	……\n奇怪的，味道……	……\n奇怪的，味道……	…………\n変な、味……	……\n이상한，맛……	... \n Weird, flavor...	
+71	伊露卡	苦苦的。	苦苦的。	苦い。	쓰고.	Bitter.	
+72	伊露卡	甜甜的……	甜甜的……	甘い……	달아…	Sweet...	
+73	伊露卡	伊露卡，不讨厌。	伊露卡，不討厭。	イルカ、嫌いじゃない。	이루카，좋아.	Iruka, doesn’t hate it.	
+74	小怜	嘿嘿，喜欢吗？	嘿嘿，喜歡嗎？	へっへ～～気に入った？	헤헤，좋아?	Haha, you like it?	
+75	N/A	糟糕，她的表情，超可爱的……！	唉唷，她的表情，超可愛的……！	やばい、この子の表情、超可愛いぞ……！	이런，엄청 귀여운 표정이다……！	Ooh... she looks so cute...!	
+76	小怜	唉嘿嘿嘿……	唉嘿嘿嘿……	ふへへへ……	헤헤헤헤…	Mwahaha...	
+77	安妮	啊！小怜露出了很危险的表情。	啊！ 小憐露出了很危險的表情。	ああっ！　レンちゃんが危ない顔してるっ！！	앗! 렌이 위험한 표정을 하고 있어!	Oops! Ren looks so dangerous.	
+78	伊露卡	表情，识别……变态。	表情，識別……變態。	表情、識別………変態。	표정，식별…변태.	Facial expression, identifying... Hentai.	
+79	小怜	变变变态——？！\n是说我吗？！	變變變態——？ ！\n是說我嗎？ ！	へへへ、変態って――！？\n俺の事かっ！？	벼어어언태——？！\n나 말하는 거야?!	Hentai...?! \n You mean, me?!	
+80	伊露卡	但是，伊露卡，不讨厌。	但是，伊露卡，不討厭。	でも、イルカ、嫌いじゃない。	하지만，이루카，좋아.	But, Iruka, doesn’t hate it.	
+81	小怜	嘿嘿，不讨厌就好~	嘿嘿，不討厭就好～	あ、ええ、き、嫌いじゃなかったらいいや～～	헤헤，좋으면 됐어~	Haha... then that’s fine.	
+82	安妮	被说成变态也这么高兴吗？\n果然不能对你掉以轻心啊……	被說成變態也這麼高興嗎？ \n果然不能對妳掉以輕心啊……	変態呼ばわりされて嬉しいの？\nやっぱりレンちゃんって油断ならないね……	변태라는 말을 들어도 즐거워?\n역시 널 만만하게 봐선 안 되겠어……	You look happy to be labeled as a Hentai. \n You’re really weird...	
+83	小怜	求你别在旁边添加奇怪的注释啦！	拜託妳別在旁邊加上奇怪的註解啦！	変な解釈をしないでっ！	옆에서 이상한 주석 달지 마! 	No, I'm not. Could you stop misinterpreting me?	
+84	小怜	啊，对了！\n我这里还剩下一块巧克力，也给你吧！	啊，對了！ \n我這裡還剩下一塊巧克力，也給妳吧！	あ、そうだ！ チョコレートがもう1枚\n残っているから、こっちもあげるよ！	아，아참！\n여기 초콜릿이 하나 더 있어. 이것도 줄게!	Oh! \n I have another piece. You can have it.	
+85	伊露卡	……给你。	……給妳。	……これ…あげる。	……자.	Here!	
+86	N/A	伊露卡从身上摸出了一块五号电池模样的透明容器递给我，里面有发着绿色荧光的粘稠液体。	伊露卡從身上摸出了一塊五號電池般的透明容器遞給我，裡面有發出綠色螢光的黏稠液體。	イルカは身体のどこかから、単三電池みたいな\n透明な容器を取り出し、俺にくれた。\n中には緑の蛍光色を発するドロドロした液体が、\n入っている。	이루카가 AA 건전지 모양의 투명 용기를 내게 준다. 형광 초록색의 점성 액체가 들어있다.	Iruka fishes around, pulls out a transparent container the size of an AA battery, and gave it to me. In it is a green, thick, fluorescent fluid.	
+87	小怜	这是……电浆液吧？	這是……電漿液吧？	これは……液中プラズマ？	이건…전기 진액?	Is this... electric fluid?	
+88	伊露卡	交换，食物。	交換，食物。	交換です、食べ物。	교환，음식.	Exchange, food.	
+89	小怜	这种东西能够被称之为食物吗？	這種東西能夠稱做食物嗎？	これ、食べ物な感じなの？？	이런 걸 음식이라고 부른단 말이야? 	Is this what you call food?	
+90	N/A	伊露卡认真地点了点头。	伊露卡認真地點了點頭。	イルカは真面目に頷いた。	이루카가 진지하게 고개를 끄덕인다.	Iruka nods seriously.	
+91	伊露卡	饿的时候，管理员，给我食物。\n补充，能量。	餓的時候，管理員，給我食物。 \n補充，能量。	空腹時、管理人、食べ物をくれる。\nエネルギー、補充。	배고플 때，관리원，나한테 줬어.\n에너지，보충.	When I am hungry, the administrator, gives me food. \n To replenish, energy.	
+92	小怜	管理员，是你的监护人吗？	管理員，是妳的監護人嗎？	『管理人』ってのが君の保護者？	관리원은 너의 후견인이야?	The administrator, your guardian?	
+93	小怜	如果能吃巧克力，应该是身体机能正常的小孩吧？	如果能吃巧克力，應該是身體機能正常的小孩吧？	チョコが食べられるなら、\n身体機能は普通の子供って事だよな？	초콜릿을 먹을 수 있다면 신체 기능은 정상이겠지?	Since you can eat chocolate, your body should function just as a normal kid does, right?	
+94	小怜	又不是家用电器……	又不是家用電器……	家電製品じゃあるまいし……	가정용 전자제품도 아니고……	You’re not a home appliance...	
+95	安妮	果然这个小女孩，能感觉到魔法刻印的存在。	果然這個小女孩，能感覺到魔法刻印的存在。	やっぱり……\nこの女の子、魔法刻印の存在を感じる。	역시 이 아이，마법이 각인된 존재를 느낄 수 있어. 	No doubt, this girl can feel the existence of magic inscriptions. 	
+96	安妮	但驱动的方式……很特别。	但驅動的方式……很特別。	でも動かす方法が……とても特別……	하지만 구동 방식이……아주 특별해.	But how she’s powered… is very special.	
+97	安妮	『行刑者』……吗？	「行刑者」……嗎？	『執行人』……ね？	『집행자』……？	She’s... an Executioner?	

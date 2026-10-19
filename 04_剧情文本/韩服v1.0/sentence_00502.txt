@@ -1,0 +1,7 @@
+﻿1	引导精灵	在战斗中，可通过[ff9c00]暂停[-]来查看敌人的信息，同时可更改游戏基本设置	戰鬥期間，可透過[ff9c00]暫停[-]來查看敵人的資訊，也可更改遊戲基本設定	戦闘の途中で[ff9c00]ポーズ[-]すると、敵の情報の確認、そしてゲームの基本設定を変更できるよ。	전투 중 [ff9c00]일시정지[-]로 적의 정보를 확인하고 게임 기본 설정을 변경할 수 있어. 	During battle, you can use the [ff9c00]Pause[-] function to view enemy info and change your game settings.	
+2	FocusTrigger	
+3	引导精灵	在本界面内，您可以查看敌人的详细信息，更改游戏[ff9c00]音量[-]与[ff9c00]操作[-]方式	在此介面中，您可以查看敵人的詳細資訊、調整遊戲[ff9c00]音量[-]與[ff9c00]操作[-]方式	この画面では、敵の詳細を確認できるし、ゲームの[ff9c00]音量[-]と[ff9c00]操作[-]方法も変更できる。	이 화면에서 적의 상세 정보를 확인하고 게임 [ff9c00]음량[-]과 [ff9c00]조작[-] 방식을 변경할 수 있어.	On this interface, you can view detailed enemy info, adjust the sound [ff9c00]volume[-], and change your [ff9c00]control[-] mode.	
+4	引导精灵	也可以[ff9c00]重新开始[-]本关卡，或[ff9c00]退出[-]关卡，整备妥当后再来挑战	也可以[ff9c00]重新開始[-]本關卡或[ff9c00]退出[-]關卡，整備妥當後再來挑戰	現在のステージを[ff9c00]やり直す[-]。もしくは[ff9c00]撤退[-]して、準備を整えてから、またの挑戦も可能ね。	이 스테이지를 [ff9c00]재시작[-]하거나, 스테이지에서 [ff9c00]퇴장[-]한 다음 재정비 후에 다시 도전할 수도 있지. 	You can also [ff9c00]restart[-] or [ff9c00]quit[-] the stage.	
+5	引导精灵	TF-2B无人机？！\n一下子出现这么多 还真是棘手呢~	TF-2B無人機？！\n一下子出現這麼多，還真是棘手呢～	TF-2B無人機！？\nいきなり大多数で現れるなんて、厄介だね～～	TF-2B무인기？！\n갑자기 이렇게 많이 몰려오다니 정말 곤란한 걸~	TF-2B drones?!\nAnd lots of them! Houston, we have a problem.	
+6	引导精灵	赫莉酱~看来这次得拜托你了	赫莉醬~看來這次得拜託你了	ホリーちゃん！　今回は頼んだよ！	호리짱~이번엔 너에게 맡겨야 할 것 같아.	I'm counting on you this time, Holly!	
+7	引导精灵	就用斩舰刀杀开一片菊海吧！	就用斬艦刀殺出一條血路吧！	斬艦刀で一文字斬りだ！	참함도로 다 쓸어버려! 	My Scorpion will take care of them!	

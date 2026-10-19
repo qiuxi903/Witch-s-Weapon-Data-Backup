@@ -1,0 +1,100 @@
+﻿1	小怜	哈~~~困……	哈～～～好睏……			Sleepy...	
+2	N/A	我揉了揉眼睛，有些不满的抱怨道。	我揉了揉眼睛，有點不滿地抱怨道。			I rub my eyes and complain.	
+3	小怜	我只是留言说刚做了奇怪的梦而已……也不至于连夜把我和安妮都接过来吧？	我只是留言說剛做了奇怪的夢而已……也不至於連夜把我和安妮都接過來吧？			I sent a message saying I had a weird dream... You didn't have to bring both Annie and I here in the middle of the night...	
+4	安妮	而且咱们为什么在审讯室呀？	而且，我們為什麼在審訊室裡呀？			And why are we in the interrogation room?	
+5	N/A	我打量着四周，回想起自己和安妮几个月前第一次被带到这里的情景。	我打量著四周，回想起自己和安妮幾個月前第一次被帶到這裡的情景。			I look around, trying to remember the first time Annie and I were brought here a few months ago.	
+6	莉琉	哦？是不是很怀念啊~	哦？是不是很懷念啊～			Feeling nostalgic, huh?	
+7	莉琉	几个月前你们俩什么都不懂也就算了，今天再考考你们，看看这个房间有什么特点。	幾個月前妳們倆什麼都不懂也就算了，今天再考考妳們，看看這個房間有什麼特點。			It was OK that you didn't know anything a few months ago. But today... Today you have to tell me what's special about this room.	
+8	小怜	嗯……加固的水泥墙面和地板，吸音性很强，而且墙体外面应该有全包裹的金属屏蔽层吧？	嗯……強化過的水泥牆面和地板，吸音性很強，而且牆體外面應該有全覆式的金屬遮蔽層吧？			Hmm... Fortified cement walls and floors to absorb sound. And I bet there's a metal shield covering this room to block signals.	
+9	安妮	观察室的玻璃和灯具都是多层复合加固的，房间的气密性应该足以应对腐蚀性神经毒气……	觀察室的玻璃和燈具都是多層複合加固的，房間的氣密性應該足以應對腐蝕性神經毒氣……			The one-way mirror and all the lights inside this room are fortified, as well. This room is also nerve gas-proof, chances are.	
+10	莉琉	嗯……还有呢？	嗯……還有呢？			Anything else?	
+11	N/A@爱衣	果然越明显的东西越容易被忽略呐~	果然越明顯的東西越容易被忽略啊～			People tend to overlook the most obvious... You just proved that.	
+12	N/A	爱衣似乎正忙着处理平板上的数据，头也不抬的插话道。	愛衣似乎正忙著處理平板上的數據，頭也不抬地插話道。			Aya is busy processing the data on her tablet. She jumps in without even looking up.	
+13	安妮	明显的东西……？	明顯的東西……？			The most obvious?	
+14	N/A	莉琉轻轻叹了口气，继续问道。	莉琉輕輕歎了口氣，繼續問道。			Mariru sighs.	
+15	莉琉	这个房间，是什么颜色的？	這個房間，是什麼顏色的？			What's the color of this room?	
+16	小怜	墙面是灰绿色……	牆面是灰綠色……			The walls are grayish green...	
+17	安妮	被灯光照射的地方微微反射着淡蓝色的光芒……	被燈光照射的地方微微反射著淡藍色的光芒……			The reflections, however, look light-blue...	
+18	N/A	难道说──	難道說──			!!!	
+19	N/A	我和安妮同时明白了过来，这个房间内壁的涂料中混入了那种能屏蔽模因类异质物效果的特殊金属。	我和安妮同時恍然大悟，這個房間內壁的塗料中混入了能遮蔽迷因類異質物效果的特殊金屬。			Both Annie and I have realized the same thing. The paint used inside this room is mixed with special metal that blocks meme Substance H.	
+20	安妮	……是什么模因类异质物失控了？	……是什麼迷因類異質物失控了嗎？			Something is affecting certain meme Substance H?	
+21	N/A	莉琉微微的点点头。	莉琉微微地點點頭。			Mariru nods, smile on her face.	
+22	莉琉	一个多小时前，新丰洲城区内检测到了大范围的低频噪音信号。	一個多小時前，新豐洲城區內檢測到了大範圍的低頻噪音訊號。			A little over an hour ago, widespread low frequency noise signals were detected in New Opulentia.	
+23	莉琉	由于发射源一直在不停跳转，无法追踪地理位置。	由於發射源不停地重新導向，所以無法追蹤地理位置。			The source of the signals keeps changing, which makes it impossible to trace.	
+24	小怜	那到底……是什么东西？	那到底……是什麼東西？			What exactly are those signals?	
+25	N/A@莉琉	那种低频噪音的波形特征识别不久前才被添加到SID的预警系统里。	那種低頻噪音的波形特徵識別不久前才被加入SID的預警系統之中。			They were just added to the early warning system of the SID.	
+26	N/A@莉琉	与人类快速眼动睡眠时脑电波的特性一致，但强度却能够高出几十万倍的──	與人類睡眠時快速動眼期腦電波的特性一致，但強度卻高出幾十萬倍的──			The sound waves are consistent with human brain waves while in a rapid eye movement sleep, except they're much, much stronger.	
+27	N/A@莉琉	使你们在南极陷入梦境的那种信号……	使你們在南極陷入夢境的那種訊號……			Very similar to what put you to sleep in Antarctica...	
+28	爱衣	想想看，如果那东西在人口密集的新丰洲城区大范围爆发──	想想看，如果那東西在人口密集的新豐洲城區大規模爆發──			Imagine if the same thing happened in the highly populated New Opulentia.	
+29	爱衣	几百万人在睡梦中变成行尸走肉……	幾百萬人在睡夢中變成行屍走肉……			Millions of people would be turned into zombies in their sleep...	
+30	N/A	爱衣有些兴奋，像在讲鬼故事一样的语气让我和安妮不禁头皮发麻。	愛衣有點興奮，像在講鬼故事一樣的語氣讓我和安妮不禁頭皮發麻。			Aya gets excited. She's explaining this thing as if she's telling a horror story.	
+31	莉琉	还好这次的信号强度不大，而且只持续了90秒。	還好這次的訊號強度不大，而且只持續了90秒。			Fortunately, the signals only lasted 90 seconds and were as strong as those in Antarctica.	
+32	爱衣	简直就像是为了之后的大场面而进行的预演嘛──\n哎呀！	簡直就像是為了之後的大場面而進行的預演嘛──\n哎呀！			Like a dry run? For what's to come?\nScary!	
+33	N/A	莉琉一记手刀，精准的敲在爱衣脑壳中间。	莉琉一記手刀，精準地敲在愛衣腦殼上。			Mariru slaps Aya's head.	
+34	莉琉	咳咳，总之明白为什么这么晚也要把你们叫过来了吧。	咳咳，總之，現在知道為什麼這麼晚也要把妳們叫過來了吧。			Now you know why I brought you here.	
+35	莉琉	刚才爱衣确认过，『未知号码』的那条讯息不是通过合法的信号站发送的。	剛才愛衣確認過，來自「未知號碼」的那則訊息不是透過合法的基地台傳送的。			Aya just confirmed—the anonymous message you received wasn't sent through any of the cell towers.	
+36	莉琉	那么目前唯一的线索就是小怜的梦了。	那麼，目前唯一的線索就是小憐的夢了。			The only clue we have is Ren's dream.	
+37	莉琉	在那个梦里预示了一个很严重的事件：新丰洲市区大规模停电。	那個夢裡預示了一個很嚴重的事件：新豐洲市區大規模停電。			In that dream, it predicted a serious incident—all of New Opulentia lost power.	
+38	小怜	（难道不是车祸吗！）	（難道不是車禍嗎！）			(That trumps me getting hit by a big truck?)	
+39	安妮	停电……很严重吗？\n好像时不时就能遇到呢~	停電……很嚴重嗎？\n好像動不動就會遇到呢～			A power outage is... serious?\nIt happens from time to time, right?	
+40	小怜	有吗？	有嗎？			It does?	
+41	莉琉	那是安妮之前在其他城市的记忆，新丰洲是不会停电的──	那是安妮之前在其他城市的記憶。新豐洲是不會停電的──			That's Annie's memory from other cities. New Opulentia has never has power outage.	
+42	莉琉	由于『埃癸斯』主机的耗电量极大且难以预测，电力系统一直都有是元老院以最高优先级来保障的。	由於「埃癸斯」主機的耗電量極大且難以預測，電力系統一直都是由元老院以最高優先級來保護的。			The Aegis System consumes a lot of power, so the Senate has given special orders to make sure that New Opulentia always gets enough power.	
+43	莉琉	战争期间新丰洲的电网一直在进行强化和改造，各种容灾方案一开始还被列为机密……	戰爭期間，新豐洲的電網一直在進行強化和改造，各種災難恢復方案一開始還被列為機密……			During the war, the power grid in New Opulentia was modified and reinforced several times while the details remain a secret.	
+44	莉琉	后来大多数方案索性都公开了，有些作为超级工程案例，在大学里都能单独开一学年的课。	後來大多數方案索性都公開了，有些被當作超級工程案例，在大學裡都能單獨開一學年的課。			After the war was over and those details were disclosed, people were amazed by the near-perfection of those plans.	
+45	莉琉	就算在埃癸斯护盾内引爆一颗电磁脉冲弹，供电系统也不会受到任何影响。	就算在埃癸斯護盾內引爆一顆電磁脈衝彈，供電系統也不會受到任何影響。			Now, even if an EMP bomb were detonated inside the Aegis system, New Opulentia wouldn't lose its power supply.	
+46	莉琉	也因为这样，全世界凡是有一定规模的机构，都愿意选择新丰洲作为自己的最终数据备份中心。	也因為這樣，全世界凡是有一定規模的機構，都願意選擇新豐洲作為自己的最終資訊備份中心。			For this reason, all big organizations in the entire world want to store their backup data centers in New Opulentia.	
+47	安妮	……这、这么厉害！	……這、這麼厲害！			That's impressive!	
+48	N/A	安妮惊讶的看着我，我心虚的假装点点头。	安妮驚訝地看著我，我心虛地假裝點點頭。			Annie looks at me, impressed. I nod my head, pretending I already knew.	
+49	小怜	（我也是才知道！）	（我也是剛剛才知道！）			(That's the first time I heard about it, actually...)	
+50	莉琉	而且元老院在其中究竟使用了多少异质物技术，连SID都不知道。	而且元老院在其中究竟使用了多少異質物技術，連SID都不知道。			As to how many Substance H technologies the Senate used, even the SID doesn't know.	
+51	莉琉	即使动用异质物武器……也要动用XK级异质物才可能造成新丰洲停电。	即使動用異質物武器……也要動用XK級異質物才可能造成新豐洲停電。			To cut off New Opulentia's power supply, the only chance is to use XK level Substance H.	
+52	莉琉	而目前已知的XK级异质物全都无法做到这一点──	而目前已知的XK級異質物全都無法做到這一點──			But all the XK level Substance H we know of can't do it.	
+53	莉琉	你们明白有多严重了吗？	妳們這下知道有多嚴重了吧？			Now you know how serious the current situation is?	
+54	N/A	我紧张的吞了吞口水。	我緊張地吞了吞口水。			I'm beyond nervous.	
+55	N/A	以前莉琉说过，《萨蒙顿协定》规定任何针对新丰洲电网的攻击，都被视为一级恐怖活动。	以前莉琉說過，《薩蒙頓協定》中規定，任何針對新豐洲電網的攻擊都視為一級恐怖活動。			Mariru explained before. According to the Salmonton Agreement, any attack against the power grid of New Opulentia is deemed as a first-class terrorist attack.	
+56	N/A	其实真有人能实现这种攻击才是最恐怖的吧……	其實，真有人能實現這種攻擊才是最恐怖的吧……			But what's really terrifying is that someone can actually pull it off...	
+57	爱衣	啊，刚刚去咖啡厅老板和服务员家访的调查员全都有回复了！	啊，剛剛去咖啡廳老闆和服務生家訪的調查員全都有回報了！			We sent agents to interview the owner and waiters in that cafe. They just got back to me.	
+58	小怜	（家……家访？）	（家……家訪？）			(Knocking on doors... That's old-school.)	
+59	爱衣	虽然小怜此前从没在网上查过那家店的信息，但咖啡厅的地理位置和装修都符合她梦境的描述。	雖然小憐之前從未在網路上查過那家店的資訊，但咖啡廳的地理位置和裝修都符合她夢境的描述。			Though Ren has never been to that cafe nor looked it up online, everything she saw in her dream matches reality.	
+60	爱衣	服务员的服装、红丝绒蛋糕和巧克力圣代芭菲的样子也都和小怜的描述一致。	服務生的服裝、紅絲絨蛋糕和巧克力聖代百匯的樣子也都和小憐的描述一致。			The waiter uniform, red velvet cake, parfait... Everything checked out.	
+61	爱衣	但他们店里并没有“皇后刨冰”这种东西，也从来不会在甜品里放小动物的立牌……	但他們店裡並沒有「皇后刨冰」這種東西，也從來不會在甜點裡放小動物的立牌……			Except for one thing—the cafe doesn't have Queen Shaved Ice. They don't put any animal garnishes in their desserts, either.	
+62	小怜	诶，没有吗？\n我记得那个刨冰超有存在感的……	欸，沒有嗎？\n我記得那個刨冰超有存在感的……			Really?\nBut that Queen Shaved Ice was so vivid in my dream.	
+63	安妮	而且我最近也不需要那么严格的控制饮食，本来都想好明天要去店里吃什么了。	而且我最近也不需要那麼嚴格地控制飲食，本來都想好明天要去店裡吃什麼了。			Another thing you got wrong is I'm not on a diet. I had already planned to go there tomorrow and eat lots...	
+64	N/A	安妮的脸颊有点泛红的说道。	安妮的臉頰有點泛紅地說道。			Annie seems upset.	
+65	安妮	另外……	另外……			Besides...	
+66	安妮	牛奶其实没什么作用，我很久之前就发现了……	牛奶其實沒什麼作用，我很久之前就發現了……			Milk doesn't have that kinda effect. I tested it a long time ago...	
+67	小怜	什、什么作用？	什、什麼作用？			What effect?	
+68	N/A	安妮低着头没有说话。	安妮低著頭沒有說話。			Annie lowers her head without replying.	
+69	莉琉	那么冷静分析一下──	那麼，大家冷靜分析一下──			So, let's sort it out.	
+70	莉琉	小怜的梦里，停电发生前绝大多数细节都与现实高度一致，却又存在几处明显的矛盾。	小憐的夢裡，停電發生前絕大多數細節都與現實高度一致，卻又存在幾處明顯的矛盾。			In Ren's dream, most of the things  that happened match reality, but there were a few inconsistencies.	
+71	安妮	牛奶和皇后刨冰吗……	牛奶和皇后刨冰嗎……			Milk and Queen Shaved Ice?	
+72	小怜	皇后，企鹅……南极？	皇后，企鵝……南極？			Queen... Penguin... Antarctica?!	
+73	安妮	白皇后基地？！	白皇后基地？！			The Snedronningen Base?	
+74	N/A	几个月前，我们在南极的一处科研基地内找到了解决甲烷泄露危机关键道具。	幾個月前，我們在南極的一處科研基地內找到了解決甲烷外洩危機的關鍵物品。			A few months ago, we found the key item to solving the leaking methane problem at a research center in Antarctica.	
+75	N/A	并在基地的最下层找到了沉睡了19年的白烛。	還在基地的最下層找到了沉睡19年的白燭。			Along with it, we found Beth, who'd been sleeping in the basement for 19 years.	
+76	N/A	加上刚才莉琉说，那种低频噪音与曾在南极接收到的信号有一样的特征……	加上剛才莉琉說，那種低頻噪音與曾在南極接收到的訊號有一樣的特徵……			Plus what Mariru said—the low frequency noise signals this time shared the same features with the signals we received in Antarctica...	
+77	安妮	如果是提示的话，也太绕圈子了吧？	如果是提示的話，也太繞圈子了吧？			It's a bit far-fetched for a clue...	
+78	小怜	牛奶……我记得是和白烛很要好的那个朋友。	牛奶……我記得是和白燭很要好的那個朋友。			Milk... I remember she's a good friend of Beth.	
+79	小怜	当时我从中控室找到的手表里听到过她的录音，但是连她长什么样子都不知道……	當時我從中控室找到的手錶裡聽過她的錄音，但是連她長什麼樣子都不知道……			I've heard her voice on the military watch I found in the Central Control Room, but I have yet to know what she looks like...	
+80	莉琉	是那个代号『牛奶』的情报人员吗？	是那個代號「牛奶」的情報人員嗎？			Is that the secret agent with the code name "Milk"?	
+81	莉琉	小怜带出来的那块军用手表，确实是战前华云宫的军总三部配置给技术特勤人员的东西。	小憐帶出來的那支軍用手錶，確實是戰前華雲宮的軍總三部配置給技術特勤人員的東西。			Ren takes out the military watch. It's a piece of equipment issued by the Hovering Palace to their secret agents before the war.	
+82	莉琉	而且还被私下改造过……以当时的水准看，技术相当不错。	而且還被私下改造過……以當時的水準來看，技術相當不錯。			The watch was further modified, too. It was quite some device if you consider the technology level at the time.	
+83	莉琉	（不过一直以来运作白皇后基地的那个秘密机构如此注重保密性，每年都会清空中控室的资料……）	（不過，一直以來運作白皇后基地的那個祕密機構如此注重保密性，每年都會清空中控室的資料……）			(One thing doesn't make sense. The secret organization running the Snedronningen Base always put confidentiality as their first priority. All data in the Central Control Room is cleared every year...)	
+84	莉琉	（怎么可能单单留下一块用于破解安保系统的手表一直插在中控台上呢？）	（怎麼可能單單留下一支用來破解保全系統的手錶，讓它一直插在中控台上呢？）			(Why did they leave a watch there. Especially considering that watch can be used to crack the security system.)	
+85	莉琉	（难道……那是小怜无意中从梦境中带出来的？）	（難道……那是小憐無意中從夢境中帶出來的？）			(Did Ren take out the watch unconsciously in her dream?)	
+86	N/A	忽然，爱衣平板的扬声器传出的声音打断了莉琉的思考。	忽然，愛衣的平板傳出了聲響，打斷了莉琉的思路。			A sudden sound from Aya's tablet interrupts Mariru's thoughts.	
+87	爱衣	啊，找到那段录音了~！	啊，找到那段錄音了～　！			I found the recording!	
+88	N/A	房间内的人都不禁安静下来，听着这温暖甜美的旋律，我慢慢闭上了眼睛──	房間內的人都不禁安靜下來，聽著這溫暖甜美的旋律，我慢慢閉上了眼睛──			Everyone in the room quiets down. Listening to this sweet melody, I slowly close my eyes...	
+89	N/A	小时候，妈妈也很喜欢这首歌呢……	小時候，媽媽也很喜歡這首歌呢……			My mom used to love this song when I was a child...	
+90	N/A	……	……			…	
+91	N/A@Record牛奶	“小~白~烛~”	「小～白～燭～」			“Bethy!”	
+92	N/A@Record牛奶	还有四个月就圣诞节了，有没有想好准备送给我的礼物呢？	還有四個月就聖誕節了，有沒有想好準備送什麼禮物給我啊？			Christmas is in four months. Got a present picked out for me yet, Bethy?	
+93	N/A@Record牛奶	嘿嘿，这么早就开始考虑礼物的事情，好像有点坏心眼啊……	嘿嘿，這麼早就開始考慮禮物的事情，好像有點壞心眼啊……			Ha, maybe I’m planning too far ahead, eh?	
+94	N/A@Record牛奶	不过，我真的超期待！	不過，我真的超期待的！			Still, I’m really excited for the holidays!	
+95	N/A@Record牛奶	……真是奇怪，明明只相处了一年，却感觉和你认识了几个世纪一样。	……真奇怪，明明只相處了一年，卻感覺像和妳認識了幾世紀。			... Isn’t it weird? We’ve only known each other for a year... but it feels like centuries.	
+96	N/A@Record牛奶	你肯定又会害羞的说，太夸张了吧。	哈哈，妳一定又會害羞地說：「太誇張了吧。 」			Isn’t that exaggerating? You’d probably say when you hear this.	
+97	N/A@Record牛奶	毕竟在我面前，小白烛是完全没有秘密的嘛！	畢竟在我面前，小白燭是完～全～沒有祕密的嘛！			I know you too well, Bethy!	
+98	N/A@Record牛奶	嗯……还记得我们第一次相遇的时候，你告诉我那个教授保险箱的密码，是一组亲和数。	嗯，我還記得我們第一次相遇的時候，妳告訴我，那個教授的保險箱密碼是一組親和數。			Ah. Remember the first time we met? You told me that the password to the professor’s safe was a pair of amicable numbers.	
+99	N/A@Record牛奶	220，284，我到现在都还记得。	220、284，我到現在都還記得喔。			220 and 284. I still remember, even now.	
+100	N/A@Record牛奶	那是我第一次了解到这种密码构成方式呢~	那是我第一次瞭解這種密碼組成方式呢～			That was the first time I realized some people actually used math concepts for safe passwords...	

@@ -1,0 +1,53 @@
+﻿1	安妮	对了，刚才你收起来的那几张纸在哪？	對了，剛才妳收起來的那幾張紙在哪？	そうだ！レンちゃんがさっき拾った紙はどこに？	아참，네가 방금 주운 종이들은 어디 있어?	Wait, where are the paper you just collected?	
+2	小怜	啊……我正想跟你说呢。	啊……我正想跟妳說呢。	あっ……\nちょうどこれの話をしようと思っていたんだ。	아…마침 너에게 말하려던 참이였는데.	Ugh… The paper. I meant to tell you about that.	
+3	N/A	我拿出刚才战斗后捡到的文稿递给安妮，伊露卡在旁边似乎欲言又止。	我拿出剛才戰鬥後撿到的手稿遞給安妮，伊露卡在旁邊似乎欲言又止。	さっきの戦いで拾った紙をアニーに渡すと、\n隣に居るイルカは何か言いたげにしている。	방금 주운 종이들를 앤에게 건넸다. 이루카가 옆에서 우물쭈물하며 말을 못한다.	I hand over the pages I found on the battlefield to Annie. Elluka bites her tongue.	
+4	安妮	Wardenclyffe Manuscript…好厉害啊！你居然能找到这个！	Wardenclyffe Manuscript……好厲害啊！ 你居然能找到這個！	Wardenclyffe Manuscript……すごいっ！\nこんなモノが見つかるなんてっ！	Wardenclyffe Manuscript…대단해！이걸 찾아내다니!	The Wardenclyffe Manuscript… Marvelous! I can't believe you have found these!	
+5	小怜	这是之前那这群家伙们身上掉落下来的东西。总感觉哪里怪怪的……安妮可以读出来？	這是之前那這群傢伙們身上掉下來的東西。 總覺得哪裡怪怪的……安妮可以讀出來？	ヤツらが落としていったんだ。なんか変な感じの\n文章なんだけど………アニーは読めるの？	그 녀석들이 떨어트린 물건이야. 그런데 조금 이상해…앤은 읽을 수 있겠어?	They fell off from those guys earlier. It just doesn't feel right… Annie, can you read them out?	
+6	安妮	嗯——虽然很模糊，但确实能从它上面感受到魔力的流动。	嗯——雖然很模糊，但確實能從它上面感受到魔力的流動。	うん──ぼんやりしているけど、\n魔力の流れを確かに感じるわ。	응——흐릿하긴 하지만 마력의 움직임이 느껴져. 	Um… The lines are blurred, but I can feel the magic flowing through them.	
+7	安妮	这应该就是『魔导书』……不，是魔导书的残页。	這應該就是「魔導書」……不，是魔導書的殘頁。	これは多分『魔導書』──\n……いや、魔導書の破れたページね。	이건 분명 『마도서』……아니，마도서의 페이지야. 	The Grimoire… Grimoire Fragments, more precisely.	
+8	小怜	魔导书……是跟魔女有关的？	魔導書……是跟魔女有關的？	魔導書……これって魔女と関係あるのか？	마도서……마녀와 관련 있는 거야？	Grimoire… Is it something about the witches?	
+9	安妮	是记录魔法信息的文本，我第一次接触这种东西的时候，是不知道哪里冒出来的一本小册子。	是記錄魔法資訊的文章，我第一次接觸這種東西的時候，是不知道哪裡冒出來的一本小冊子。	これは魔法の情報を記録した文書なの。\n私が以前に出会った謎の小冊子も、\nそのうちの1つだったのよ。	마법 정보를 기록한 문서야. 나도 처음 만졌을 때 갑자기 책이 나타났어.	Actually, it's a book of witchcraft. The first script of this kind I've ever seen is a pamphlet coming out of nowhere.	
+10	安妮	名字好像叫做《神秘弹道学》，就那么凭空出现在我的储物柜里。	名字好像叫做《神祕彈道學》，就那麼憑空出現在我的置物櫃裡。	名前は確か…《神秘弾道学》\n私のロッカーの中になぜか入っていて。	이름은 《신비한 탄도학》이였던 것 같아. 터무니없이 내 캐비닛에 나타났지.	If I remember correctly, the pamphlet is titled Mystical Trajectory. It just appeared out of thin air in my locker.	
+11	安妮	一开始我还以为是教练发的，上面教的东西也很奇怪，比如改变弹道的魔法之类的。	一開始我還以為是教練發的，上面教的東西也很奇怪，比如改變彈道的魔法之類的。	最初はコーチが入れてくれた物だと思ったけど、\n中身は不思議な事ばかり書いてあってね、\n例えば、弾道を変える魔法とか。	처음엔 교관님이 보낸 줄 알았어. 하지만 내용이 이상했지. 탄도를 바꾸는 마법 같은 것.	At first, I thought it was the coach who gave it to me. The witchcraft inside was super weird, like teaching you how to change trajectories.	
+12	安妮	后来发现教练并不知道这本书，而且我觉得这只是迷信之类的，也从没有使用过。	後來發現教練並不知道這本書，而且我覺得這只是迷信之類的，也從沒有使用過。	後になってコーチに尋ねたら、\nそんな本など知らんって言うんだもん。\nその時は不気味だったし、内容も世迷い事だらけ\nだったから使おうとも思わなかったの。	후에 교관님도 그 책을 모른다는 걸 알았고，난 미신 같은 건가 하고 사용하지 않았어. 	But later, I found that the coach knew nothing about it. I thought it was a sort of superstition, so I never used it.	
+13	安妮	直到……	直到……	そう……\n\nあの時……まではね。	그 날이 오기까지……	Not until…	
+14	N/A	安妮似乎不想再回忆了，低头看着那几页书稿。	安妮似乎不想再回憶了，低頭看著那幾張手稿。	アニーはこれ以上思い出したくないようで、\n俯いて手にあるページを見つめている。	앤이 회상하고 싶지 않았는지 고개를 숙이고 종이들을 바라본다. 	It seems that Annie is done with recalling the past. She lowers her head and reads those scripts carefully.	
+15	小怜	我记得莉琉说过，『魔女』是感染了某种信息，而获得了一些类似『异质物』特性的人类。	我記得莉琉說過，「魔女」是吸收了某種資訊，而獲得了一些類似「異質物」特性的人類。	マリルが以前、言っていた話がある。\n\n『魔女』は何らかの情報に感染して、『異質物』\nのような特性を手に入れた人間だって。	『마녀』는 어떤 정보를 감염시켜서 『이물질』과 비슷한 특성을 가진 인간을 만든다고 들었어.	I remember Mariru said that Witches are humans who receive certain Substance H properties as a result of information contamination.	
+16	安妮	感染嘛……倒是很贴切的形容，虽说是“信息”…但有些“信息”一旦沾染就永远也忘不掉了。	吸收嘛……倒是很貼切的形容，雖說是「資訊」…但有些「資訊」一旦沾染上了就永遠也忘不掉了。	感染か……言い得て妙ね。\nただ「情報」と言っても、この「情報」は\n一度でも染まってしまったら、もう二度と\n忘れられない。	감염……적절한 비유야. 어떤 "정보"들은 감염되면 영원히 잊을 수 없어. 	Contamination… for sure. I’d say it's very much to the point. Some "information" can hardly be erased once you get your hands on it.	
+17	小怜	像是那种洗脑的广告歌和鬼畜视频吗？想忘也忘不掉，还会在走神的时候情不自禁的哼哼~	像是那種洗腦的廣告歌和鬼畜影片嗎？ 想忘也忘不掉，還會在放空時情不自禁地想起～	中毒性のあるCMソングやMADムービー\nみたいな感じか？\n忘れたくても忘れられないし、ふと気を抜けば\n思わず口ずさんじゃっているような～？	중독성 강한 광고 음악이나 야한 영상처럼? \n잊고 싶어도 잊혀지지 않고，\n딴 생각하다 자기도 모르게 흥얼흥얼~	Like those earworms and autotune remixes? I've tried a million times to get rid of them but always failed. Sometimes I just can't help humming the tunes when absent-minded…	
+18	安妮	哈哈，小怜的形容很贴切呢。	哈哈，小憐的形容很貼切呢。	ははは～～レンちゃんのその例えも、\nピッタリな表現で良い感じっ！	하하. 렌의 비유가 딱인 걸?	Ha. Well said, Ren.	
+19	小怜	会不会是这几页纸，引起了时空波动？\n不过…真的就凭这几张纸吗？	會不會是這幾張紙，引起了時空波動？ \n不過……真的就憑這幾張紙嗎？	けど、この数枚の紙切れが、時空波動を\n引き起こした事になるのかな？\nたかが紙切れ数枚で…そんな事が可能なの……？	설마 이 종이들이 시공 파동을 일으킨 걸까?\n그치만…정말 이 종이들로…?	Maybe these paper caused the Spacetime Flux? \nBut… how is that even possible?	
+20	安妮	很有可能，这种信息对人的精神损耗很大，就算我都能明显的感觉到那种巨大的负担。	很有可能，這種資訊對人的精神損耗很大，就算我都能明顯的感覺到那種巨大的負擔。	可能性はあると思うよ。こう言った「情報」は、\n人の精神を大きく消耗するの。\n私でさえ、その巨大な負担をはっきりと\n感じるから。	가능성 있어. 이런 정보는 정신을 많이 소모시켜. 나도 막대한 부담이 선명하게 느껴지는 걸. 	It’s very likely. Such information can cost you a lot of energy, which is too much even for me.	
+21	安妮	所以才要借助某种“物品”释放魔法，让它们代自己承受这种代价。	所以才要借助某種「物品」釋放魔法，讓它們代替自己承受這種代價。	だから、何らかの「物」を通して魔法を開放し、\n「物」に代償を引き受けてもらうの。	그러니까 어떤 “물체”에 의지해 마법을 시전해서 대신 대가를 치르게 하는 거야.	That's why we need certain "Items" to release the witchcraft, so that they can bear the cost for us.	
+22	N/A	安妮指了指自己的球棒，这种会消耗魔力的兵器就是这么产生的吧……	安妮指了指自己的球棒，這種會消耗魔力的兵器就是這麼產生的吧……	アニーは自分のバットを指さした。\n\nこの魔力を消耗する兵器は、\nそんな風に生まれたのか……	앤이 자신의 방망이를 가리킨다. 마력을 소모하는 무기는 이렇게 해서 생긴 거로구나……	Annie points at her baseball bat. Maybe that's why some weapons consume magic power…	
+23	安妮	如果接受了过量难以负荷的信息，就算丧失心智变得疯狂也有非常可能……	如果吸收了過量且難以負荷的資訊，甚至有可能會喪失心智變得瘋狂……	もしも自分の限界を超えて過度の情報を\n受け取ってしまった場合、\n理性が砕け散って発狂してしまう可能性も\nあるの……	정보 과부하가 일어나면 이성을 상실해서 미쳐버릴 수 있어……	If an information overload happens, people may lose their sanity and go completely crazy…	
+24	伊露卡	疯狂，女巫……\n需要，消灭。	瘋狂，女巫……\n需要，消滅。	狂気、ドール……\n消滅、必要。	미친，무녀……\n소멸，필요.	Crazy… witches… \nNeed… to be destroyed.	
+25	小怜	女巫……就是那种不幸的人吧？\n安妮懂得真多呢。	女巫……就是那種不幸的人吧？ \n安妮懂得真多呢。	ドール……そういう不幸な人なのか？\nアニーは色々な事を知ってるな。	무녀……그 불행한 사람들?\n앤은 많은 걸 알고 있구나.	So, witches… are the unfortunate ones, right? \nAnnie, you know a lot.	
+26	安妮	哎？也没有啦……\n我也只是根据自己的经验做的推断而已。	哎？ 也沒有啦……\n我也只是根據自己的經驗做推斷而已。	えっ？ そんな事は別に……\n自分の経験をもとに推測しただけだし。	아? 아니야……\n나도 내 경험으로 추측한 것뿐이야.	Nah… \nI'm just making assumptions based on my own experiences.	
+27	伊露卡	手稿……	手稿……	手稿……	종이……	Manuscript…	
+28	N/A	伊露卡露出若有所思又带着向往的表情。	伊露卡露出若有所思又帶著嚮往的表情。	イルカは何か、この紙に考えがある様子で、\n羨望のまなざしをこちらに向けている。	이루카가 생각에 잠겨 그리움이 담긴 표정을 한다.	Elluka seems lost in thought, her face brightens up with a look of eagerness.	
+29	小怜	嗯？怎么啦，伊露卡？你也想看吗？	嗯？ 怎麼啦，伊露卡？ ～也想看嗎？	うん？　どうしたの？　イルカも見たいのか？	응? 왜 그래，이루카? 너도 보고 싶어?	Huh? What? You want to see them, Elluka?	
+30	伊露卡	嗯。	嗯。	……うん。	응.	Yes.	
+31	N/A	伊露卡睁大了眼睛，像小动物一样用水润恳求的眼神看着我。	伊露卡睜大了眼睛，像小動物一樣用水汪汪乞憐的眼神看著我。	イルカの目は真ん丸。\n喉の乾いた小動物が水をおねだりするかのような\nそんなまなざしで俺を見つめてくる。	이루카의 눈이 커진다. 마치 작은 동물처럼 촉촉하고 애원하는 눈빛으로 날 쳐다본다. 	Elluka looks at me longingly, like a small pet begging, her eyes brimming with tears.	
+32	N/A	完全无法拒绝，但这么危险的东西……	完全無法拒絕，但這麼危險的東西……	このキュートなまなざしに抗うのは難しいが……\nでも、こんな危険なモノ……	거절할 수 없지만，이렇게 위험한 물건을……	I can't turn her down, but these scripts are too dangerous…	
+33	N/A	正在我犹豫的时候，附近忽然传来了运输机降落的声音。	我正在猶豫時，附近忽然傳來了運輸機降落的聲音。	俺が迷ってる最中、付近から輸送機の降下音が\n聞こえてきた。	내가 망설이고 있을 때，갑자기 수송기가 내려오는 소리가 들린다. 	While I was hesitating, the thumps of a landing transport aircraft draw close.	
+34	安妮	有人来了！	有人來了！	誰か来た！	누군가 왔어!	Someone is coming!	
+35	小怜	是SID的探员吗？太好了，我们发现了一名……\n咦？	是SID的探員嗎？ 太好了，我們發現了一名……\n咦？	SIDの捜査員か？\nよかった、俺達は1人の女の子を……\n…えっ？	SID 요원인가? 잘 됐다. 우리가 발견……\n에？	SID officer? Great, we found a… \nWhat?	
+36	N/A	出乎我的意料，从运输机上下来的，并不是SID的探员。	出乎我的意料，從運輸機上下來的，並不是SID的探員。	俺の予想に反し、輸送機から降りてきたのは\nSIDの捜査員ではなかった。	나의 예상과는 달리 수송기에서 내려온 것은 SID 요원이 아니였다.	Surprisingly, the person walking out of the aircraft is not an SID agent.	
+37	N/A	戴着眼镜的男人神色慈祥的看着伊露卡，但伊露卡却露出了恐惧的神色。	戴著眼鏡的男人面目慈祥地看著伊露卡，但伊露卡卻露出了恐懼的神色。	こちらに近寄ってきたメガネを掛けた男が、\n慈しむような表情でイルカを見ている。\nだがその表情に反し、イルカの顔は\nあからさまな恐怖に染まっていた。	안경을 쓴 남자가 자상한 표정으로 이루카를 쳐다봤지만，이루카는 공포에 질린 얼굴을 하고 있다.	The man in glasses looks at Elluka tenderly, but she shivers with fear.	
+38	管理员	伊露卡，这次动作很慢呢。	伊露卡，這次動作很慢呢。	イルカ……今回は遅かったですね。	이루카，이번엔 좀 느렸어.	Elluka, you've kept me waiting for too long.	
+39	伊露卡	管理员……对不起。	管理員……對不起。	管理人……ごめんなさい。	관리자님…죄송합니다.	Administrator… I'm sorry.	
+40	管理员	手稿拿到手了？\n跟你说过不能自己消化吧，快点拿过来。	手稿拿到了嗎？ \n跟妳說過不能自己消化吧，快點拿過來。	手稿はもう手に入れましたか？\n自分で消化するのはダメと言ったでしょう？\n早くコチラに渡しなさい。	종이는 손에 넣었나？\n혼자 소화하지 말랬지. 어서 가져와.	Have you got the manuscript? \nYou can’t handle them by yourself—I told you so. Bring them to me, now.	
+41	管理员	如果这点小事都办不好，会变成那些没用的东西哦。	如果這點小事都辦不好，會變成那些沒用的東西哦。	このような事すらできないようでは、すぐに\n『ゴミクズ』として取り扱われてしまいますよ？	이렇게 간단한 일도 해내지 못한다면，쓸모 없는 물건이 될 거야.	Only useless trash would fail me on such a minor task, right?	
+42	管理员	这里清理完毕后，马上跟我去奥莉加执行下一个任务。	這裡清理完畢後，馬上跟我去奧莉加執行下一個任務。	ここの始末が済み次第、すぐにオリガへ向かって\n新たな任務に就いてもらいます。	여길 정리하고 올가로 돌아가서 다음 임무를 해야지~?	Clean up this mess, and then come with me to Oligar. There's another job waiting for you.	
+43	小怜	你那是什么语气！没看到她受伤了吗？	你那是什麼語氣！ 沒看到她受傷了嗎？	なっ、なんだその言い方はッ！！\nこの子の怪我が見えないのかッ！？	무슨 말이 그래！애가 다친 거 안 보여? 	Whoa, whoa, whoa, watch your language! Can't you see that she is injured?	
+44	小怜	她只是个小姑娘，不是你的工具！	她只是個小姑娘，不是你的工具！	この子はお前の道具なんかじゃないぞ！！	어린 아이일 뿐이라고. 네 물건 따위가 아니야!	She is just a little girl, not some tool you own!	
+45	N/A	陌生的男人这时才注意到站在一旁的我，他笑眯眯的打量着我，就像注视着某种猎物。	陌生的男人這時才注意到站在一旁的我，他笑咪咪地打量著我，就像注視著某種獵物。	男はイルカ以外を見向きもしていなかったが、\n俺の言葉を聞いた途端、\n獲物に狙いを定めるかのように俺を見つめ、\nこの場に似つかわしくない笑顔を浮かべた。	남자가 이제야 날 알아차렸는지，사냥감을 보는 것처럼 날 훑어본다. 	The stranger doesn't seem to have noticed me until now. He scans me with a strange smile, like a predator inspecting his prey.	
+46	管理员	伊露卡，把这个人也带走。	伊露卡，把這個人也帶走。	──イルカ、\nこいつも連れて行きなさい。	이루카. 이 사람도 데려간다.	Elluka, take her with us.	
+47	小怜	哎？！	哎？ ！	えっ！？	엣?!	Huh?!	
+48	安妮	我可不允许你做这种事，只要有我在，谁都别想带走小怜！	我可不允許你做這種事，只要有我在，誰都別想帶走小憐！	そ、そんな事はさせないよ！レンちゃんを\n連れ去るなんて、私がいる限り許さないッ！	그렇게 둘 수는 없어! 내가 있는 한 누구도 렌을 데려가지 못해!	Over my dead body. No one can take Ren as long as I’m here.	
+49	伊露卡	带走……？	帶走……？	連れて……\n行く……？	데려가…?	Take her…?	
+50	管理员	对，这是命令。	對，這是命令。	そうです……これも命令です。	맞아. 명령이다.	Yes, that's an order.	
+51	伊露卡	命令……	命令……	命令……	명령…	Order…	
+52	N/A	伊露卡迷茫地望着我，她似乎很痛苦的在抗拒着什么。但终究无法反抗管理员的指令。	伊露卡一臉茫然地望著我，她似乎很痛苦的在抗拒著什麼。 但終究無法反抗管理員的指令。	イルカの動きには迷いがあった。\n何かに抵抗して、苦しんでいる。\nしかし最後には管理人の命令には逆らえない。	이루카가 당황하며 날 바라본다. 고통스럽게 저항해 보지만，결국 관리자의 명령을 거부하지 못한다.	Elluka stares at me, quite blankly. She seems to be in an inner struggle, but disobeying the Administrator is not an option.	
+53	伊露卡	任务：带走小怜。\n目标锁定——	任務：帶走小憐。 \n目標鎖定——	任務：目標……連れてく……\n目標、捕捉──	임무：렌을 데려간다. \n타겟 고정——	Task: take Ren away. \nTarget locked…	

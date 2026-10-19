@@ -1,0 +1,4 @@
+key,path,uncare
+string,string,bool
+关键字(批次),目录,是否不用在意
+10101,/assets/resources/ui/ui

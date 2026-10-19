@@ -1,0 +1,74 @@
+﻿1	N/A	咚咚咚──！！\n咚咚咚──！！	咚咚咚──！！\n咚咚咚──！！	ドンドンドン――！！\n\nドンドンドンドン――！！		*Knock knock*!!\n*Knock knock*!!	
+2	N/A	雕刻繁复精美的木质大门传出一阵急促的敲击声，镶在门板上的镀金包边被震得有些松动。	雕刻繁複精美的木質大門傳出一陣急促的敲擊聲，鑲在門板上的鍍金包邊被震得有些鬆動。	精巧な彫刻をあしらった木製扉を、\n激しく叩く音が聞こえる。\n扉の上にある鍍金は振動によって、そろそろ\n剥がれそうになっている。		Someone is knocking on the wooden door with intricate carvings. They're knocking hard, to the point that its golden foil is trembling.	
+3	N/A@侍卫长	奥古斯塔陛下，请不要让我们为难。	奧古斯塔陛下，請不要讓我們為難。	……オーガスタ陛下。\n我々を困らせないでいただきたい。		Your Highness! Don't do this to us, please.	
+4	N/A	一个低沉的男声说道──	一個低沉的男聲說道──	扉の外にいる、声の低い男が話し始めた。		A deep male voice is heard:	
+5	N/A@侍卫长	宰相大人的命令，请您尽快前往镜厅。	宰相大人命令您盡快前往鏡廳。	宰相様のご要望です。\n早く鏡の間へとお越し下さい。		The prime minister has ordered us to escort you to the Hall of Mirrors as soon as possible.	
+6	N/A@侍卫长	弗雷德里希大公和他的长子已经等候多时了……	弗雷德里希大公和他的長子已經等候多時了……	フリードリヒ大公と彼の長子を、\n長らくお待たせしているのですから。		The Grand Duke and his eldest son have been waiting...	
+7	N/A	门外男性的话语，在保持着恭敬的同时透出一种强制和威胁的味道。	門外男性的語氣，聽得出來是盡量在以恭敬的態度壓抑住強制和威脅的意味。	敬意の他に強制と脅迫の意も、男の言葉から\n感じ取る事ができる。		The voice outside the door seems to be "telling" rather than "asking."	
+8	奥古斯塔	嘁──	呿──	むぅ──		Tch...	
+9	奥古斯塔	连我的禁卫都被换掉了吗……	連我的禁衛都被換掉了嗎……	すでに私の近衛兵ですら異動命令を受けて\nしまったか……		They even changed my personal guards, I see...	
+10	奥古斯塔	金发少女眉头微皱，她正了正领口，看着卧室墙边巨大更衣镜中的自己，握紧了手中的权杖──	金髮少女眉頭微皺。她整理了一下領口，看著臥室牆邊巨大更衣鏡中的自己，握緊了手中的權杖──	金髪少女は少し眉をひそめながら襟を正した。\n\n寝室の壁にある鏡に映った自分を見つめ、\n手の中にある王笏を握りしめる。		The blond girl frowns. She adjusts her clothes and looks at herself in the giant dressing mirror, holding her scepter tightly.	
+11	奥古斯塔	这是她身为国家最高元首和军队最高统帅的象征。	這是她身為國家最高元首和軍隊最高統帥的象徵。	この王笏は彼女が国家最高元首、\nおよび軍隊最高統帥を務めているという象徴だ。		The scepter is the symbol of the Head of State and commander-in-chief.	
+12	奥古斯塔	（至少是在名义上……）	（至少是在名義上……）	（だけど、あくまで名義上……それだけ）		(In name, at least...)	
+13	N/A	当下，那些贵族和大臣们还不能撤掉这个他们在几年前强加给自己的头衔。	目前，那些貴族和大臣還無法撤掉這個頭銜，這個他們在幾年前強加她身上的頭銜。	数年前、自分に押し付けられた肩書きは\nあまりにも重かった。\n貴族や大臣達でも今さら撤回するのは\n不可能であろう。		Right now, the nobles and ministers can't yet strip her of the title they forced on her a few years ago.	
+14	N/A	虽然这更像是她一直都试图摆脱的枷锁。	雖然是頭銜，但更像是她一直試圖擺脫的枷鎖。	そうと分かっていようとも、千切れないこの枷は\n彼女にとって邪魔にしかならない。		Though to her, the title is more like a pair of shackles she's been trying to escape from.	
+15	N/A	每当奥古斯塔以这样的身份和姿态出现在战争动员会或阅兵式上，人们便会立刻兴奋起来──	每當奧古斯塔以這樣的身分和姿態出現在戰爭動員會或閱兵典禮上，人們便會立刻興奮起來──	軍の慰問や閲兵式などでも、この身分と姿さえ\nあれば人々は容易く歓喜する。		People get excited when they see the majestic Augusta in war mobilizations and military parades.	
+16	N/A	那些年轻的士兵，好像迫不及待的想沉浸在虚假的概念和符号带来的满足感和认同感里。	那些年輕的士兵，好像迫不及待地想沉浸在虛假的概念和符號所帶來的滿足感和認同感之中。	若き兵士達は虚偽の概念とシンボルに浸り、\n一刻でも早く満足感と一体感を得たいだけ。		Young soldiers, especially, seem to be eager to immerse themselves in the satisfaction from those false concepts and symbols.	
+17	N/A	她一直都无法理解，为什么总有些人会在那种氛围下激动到热泪盈眶，争相发誓要永远效忠。	她一直都無法理解，為什麼總有人會在那種氛圍下激動到熱淚盈眶，爭相發誓要永遠效忠。	オーガスタには到底理解できなかった。\n\nなぜ人々は雰囲気だけで感動し、涙を流しながら\n忠誠を誓うだろか。		She can't understand how anyone would be spurred on in such circumstances, pledging their loyalty in tears.	
+18	N/A	她也无法认同，一群素不相识的人只因自己继承了某种血脉，就恨不得立刻为她上前线赴死。	她也無法認同，只因為她繼承了某種血脈，一群素不相識的人就恨不得立刻為她上前線赴死。	そして、オーガスタは決して認めない。\n\n彼女の持つ血統と言う理由だけで、\n面識のない人々が喜び勇んで死地に赴く事を。		She also doesn't believe that people, who don't really know her, should die for her in wars just because she inherited the so-called "noble" blood.	
+19	N/A	然而那些廉价的忠诚和热血就如恋人的誓言，当战争结束激情退去，便迅速被抛在脑后。	然而，那些廉價的忠誠和熱血就如戀人的誓言，當戰爭結束、激情退去，便迅速被拋諸腦後。	「忠誠」と「熱血」は薄っぺらい『恋の誓い』\nみたいなモノに過ぎない。\n戦争が終わって感情が落ち着けば、\n誰もが跡形もなく忘れてしまう。		In the end, once the war is over, the cheap loyalty and passion will all fade and be forgotten like lover's oaths.	
+20	N/A	现在奥古斯塔只能孤身一人，面对那扇被缓缓打开的大门……	現在，奧古斯塔只能獨自一人面對那扇被緩緩打開的大門……	ここにいるのは、ひとりぼっちのオーガスタ……		Now, all by herself, Augusta will have to face what's behind the slowly opened door...	
+21	N/A	虽然握着权杖的手在隐隐发抖，但她依然鼓足勇气挺起自己娇小的身躯。	雖然握著權杖的手在隱隱發抖，但她依然鼓足勇氣挺直自己嬌小的身軀。	彼女は王笏を握る手の震えを隠しながら、\n小さな身体を精一杯、大きく見せようとする。		She pulls herself together, even though her hands are still shaking.	
+22	N/A@侍卫长	陛下──	陛下──	陛下！！		Your Highness!	
+23	N/A	面色灰白的侍卫长推开卧室大门，奥古斯塔感到一股寒意涌来。	臉色灰白的侍衛長推開臥室大門，奧古斯塔感到一股寒意襲來。	顔面蒼白な近衛隊長官が寝室の扉を開けると、\nオーガスタは更に気を引き締めた。		The Chief Guard pushes the bedroom door open. A chill sweeps over Augusta.	
+24	N/A@侍卫长	您一会要去见自己的未婚夫，却还穿着军装，是想挑衅邦国制造外交事故吗。	您一會兒就要去見未婚夫了，卻還穿著軍裝，是想挑釁邦國製造外交事件嗎。	婚約者とお会いになる予定なのに、\n軍服を着てらっしゃるなど……\n無用な挑発行為はおやめください！\n外交問題へと発展させるつもりですか！？		Why are you in your military uniform? You'll meet your fiancé soon. Trust me, you don't want to give him the wrong impression and cause a diplomatic incident.	
+25	奥古斯塔	少废话──！！	少廢話──！！	黙れッ！！		How dare you tell me what to do!	
+26	N/A	侍卫长疏离冷淡的语气让少女心中莫名火大，她一边怒斥一边用权杖底部敲击着地板。	侍衛長疏離冷淡的語氣讓少女心中燃起一股無名火，她一邊開口怒斥，一邊用權杖底部敲擊著地板。	近衛隊長官の冷たい言葉に、少女は怒りを\n露わにした。\n王笏の底部で床を叩きつけながら、\n彼女は思いの丈を言い放つ。		Augusta doesn't like the Chief Guard's tone. She scolds him as she knocks the floor with her scepter.	
+27	奥古斯塔	居然要我嫁给魏玛大公的那个笨蛋儿子……	居然要我嫁給魏瑪大公的那個笨蛋兒子……	かのヴァイマル大公の愚息と名高いあいつの元へ\n嫁げなどと……		That schmuck son of the Grand Duke. You expect me to marry him?	
+28	奥古斯塔	不怕婚礼当天我在所有人面前把他宰了吗？！	難道不怕我在婚禮當天，在所有人面前把他宰了嗎？！	結婚式の当日、来賓客の皆に\n殺人事件を披露する事となるぞ！！		Aren't you afraid that I'll butcher him on our wedding day?	
+29	奥古斯塔	跟俾斯麦说，让她自己嫁给大公的瘸腿小舅子去！	跟俾斯麥說，叫她自己去嫁給大公的瘸腿小舅子！	ビスマルクに通達しろ！！\n\n大義のために嫁げと言うのであれば、\n自ら嫁として大公の兄弟にでも嫁げば良いと！！		Tell Bismarck to marry the cripple herself!	
+30	N/A	侍卫长平静的注视着激动的奥古斯塔，片刻之后，转身对门口的女仆冷冷的吩咐道──	侍衛長平靜地注視著激動的奧古斯塔，片刻之後，轉身對門口的女僕冷冷地吩咐道──	オーガスタは冷静かつ威圧的に言葉を投げる。\n\nしかし近衛隊長官は何事もなかったかのように、\n付近で待機していたメイドへと指示を始めた。		The Chief Guard stares at Augusta calmly, then turns around and orders the maid.	
+31	N/A@侍卫长	玛丽亚，你和这几个女官帮陛下更衣。	瑪麗亞，妳和幾個女官來幫陛下更衣。	マリア。貴女は女官と共に、陛下のお着替えを\n手伝いなさい。		Maria! Help Her Highness get changed!	
+32	N/A	为首的女仆赶忙答应，张罗着另外几个女仆将挂着淡蓝色蕾丝晚礼服的推车推进卧室。	為首的女僕趕忙答應，指揮另外幾個女僕將掛著淡藍色蕾絲晚禮服的推車推進臥室。	先頭に立つメイドが慌ただしく了承すると、\n他のメイド達も続々と動き始める。\n彼女達は淡青色のレースドレスをカートに乗せて\n寝室へと押し入ってきた。		In a hurry, the head maid pushes the cart into the bedroom. A blue lace dress is hanging on the cart.	
+33	N/A	侍卫长回到走廊对两旁的人使了个眼色，几个女官分成两列进入卧室。	侍衛長回到走廊對兩旁的人使了個眼色，幾個女官分成兩列進入臥室。	廊下に戻った近衛隊長官は両側の部下に\n目配せをすると、\n隊列を組んだ他の女官も寝室へと突入してくる。		The Chief Guard returns to the hallway and signals a few female officers.	
+34	N/A	那些女官的制服裸露着胳膊，所有人都有一幅明显受过专业作战训练的矫健身形。	那些女官的制服裸露出手臂，所有人都有明顯受過專業作戰訓練的矯健身形。	肩だし制服を着ている女官達は、身のこなしから\n専門の作戦訓練を受けている事が伺えた。		The officers are all in uniform. Judging from their body shapes, they've all gone though intense military training.	
+35	奥古斯塔	你、你们……	你、你們……	お、お前達……		You... What do you want?	
+36	N/A	奥古斯塔后退几步，女官们步步紧逼。	奧古斯塔後退幾步，女官們步步進逼。	数歩下がるオーガスタに、女官達が迫ってくる。		Augusta steps back, but the officers keep pushing forward.	
+37	N/A	侍卫长回避到走廊上，淡然的望向窗外花园中整齐的银杏树，完全无视卧室传出的阵阵叫骂声。	侍衛長迴避到走廊上，淡然地望向窗外花園中整齊的銀杏樹，完全無視臥室傳出的陣陣叫駡聲。	寝室から廊下へと飛ぶ罵声。\n\nその全てを近衛隊長官は無視し、窓の外の花園に\n並んだ銀杏を淡然と眺めていた。		In the hallway, the Chief Guard looks at the ginkgo trees in the garden through the window, completely ignoring what's happening in the bedroom.	
+38	N/A	虽然少女不停挥动着权杖，却还是被一步步逼到墙角──	雖然少女不停揮動著權杖，卻還是被一步步逼到牆角──	王笏を振り回す少女であったが、\nやがて壁の隅まで追い込まれてしまう。		Augusta keeps waving her scepter, but in the end, her back is against the wall.	
+39	N/A	奥古斯塔意识到已没有退路，将权杖大力戳在地板墙壁的拐角处，打算做最后的抵抗。	奧古斯塔意識到已沒有退路，便將權杖大力戳在地板牆壁的轉角處，打算做最後的抵抗。	もう退路がないと気付いたオーガスタは、\n王笏で地面と壁の角を力いっぱい叩いて、\n最後の足掻きを見せる。		There's no other way out. Augusta slams her scepter on the floor by the wall with force, ready to fight with everything she's got.	
+40	奥古斯塔	都给我……	都給我……	私から……		You...	
+41	奥古斯塔	滚开！！！！	滾開！！！！	離れろ――ッッ！！！		Stay away from me!!!	
+42	N/A	咯──\n咔咔──！！！！！	喀──\隆隆隆──！！！！！	ギギ――……\nピキピキ――……		Hrgh?\n*crack crack*!!	
+43	N/A	忽然，地板从权杖撞击的地方出现一个裂痕，并很快向四周蔓延出无数迸发着强光的裂缝。	忽然，地板被權杖撞擊處出現一道裂痕，且很快地向四周蔓延出無數迸發著強光的裂縫。	王笏に叩かれた地面が突然ひび割れ、\n無数の強い光を放つ裂け目が瞬間的に現れた。		All of a sudden, a crack appears on the floor where the scepter hit it, then quickly spreads, strong light shooting around from the many cracks.	
+44	N/A	大地好似被某种巨大的力量挤压和撕扯，发出阵阵低沉的轰鸣，周围的空间也跟着变形扭曲。	大地像是被某種巨大的力量擠壓和撕扯，發出陣陣低沉的轟鳴，周圍的空間也跟著變形扭曲。	大地から響く低い轟声と共に、何なのかすらも\n分からない巨大な力に引き裂かれ、\n押し潰された周囲の空間は変形するかのように\n歪み始めた。		The floor, seemingly pressed by some strong force, starts to make a deep sound, the surrounding space twisted, as well.	
+45	N/A	奥古斯塔看着几个女官的身体似乎被弯曲到不可思议的角度，她们却似乎并没有察觉。	奧古斯塔看著幾個女官的身體似乎被彎曲成不可思議的角度，但她們似乎並沒有察覺。	オーガスタの目には、不可思議な角度に歪曲する\n女官達の身体が映っている。\nしかし、女官達は何も気付いていない。		The bodies of the officers have been bent into unfathomable shapes. Except, they don't seem to notice it.	
+46	N/A	同时房间内的空气似乎也瞬间变得稀薄起来，她感到呼吸困难，各种声音似乎都被拉得很远──	同時，房間內的空氣似乎也瞬間變得稀薄，她感到呼吸困難，各種聲音似乎都被拉得很遠──	呼吸する事自体が難しくなり、周囲の音も\n遠方から伝わって来るかのように聞こえた──		The air inside the room gets thiner and thiner. Augusta is having trouble breathing—all the sounds seem to be getting further and further away.	
+47	奥古斯塔	什么……？！	什麼……？！	なっ、なんだ……！？		Huh?!	
+48	N/A	看着几个女仆尖叫着跑出卧室，侍卫长立刻冲回房内。	侍衛長看到幾個女僕尖叫著跑出臥室，立刻衝回房內。	メイド数人が叫びながら逃げ出す様子を見て、\n近衛隊長官は大急ぎで寝室へと戻ってきた。		Seeing the maids rushing out the door in tears, the Chief Guard returns to the bedroom in a hurry.	
+49	N/A@侍卫长	怎么回事！！？	怎麼回事！！？	い、一体どうしたッ！？		What's going on?!	
+50	N/A	在他踏入大门的一瞬间，整个房间就像被拉到极限的弓弦般──	在他踏入大門的瞬間，整個房間就像被拉到極限的弓弦般──	彼が部屋に踏み入った瞬間。\n\n部屋全体が限界まで引っ張られた弓弦のように\n拉げ──		The second he enters the door, he sees the entire room pulling, stretching, and warping back like the string of a bow—	
+51	N/A	所有扭曲的光影汇聚于一点，房里的光芒也忽然暗淡下来……	所有扭曲的光影匯聚於一點，房裡的光芒也忽然暗淡下來……	光と影が一点に収束した後、部屋内の灯りは\n暗闇に薄れていった……		The distorted light and shadows gathering at a single point, the room suddenly goes dark...	
+52	N/A	门外一个女仆满脸惊恐的瘫在地上，口中不断念着祈求神明拯救和宽恕的悼词。	門外一個女僕滿臉驚恐地癱在地上，口中不斷唸誦著祈求神明拯救和寬恕的禱告詞。	あまりの恐怖に腰を抜かしてしまったメイドの\n一人は、救いと許しを神に祈り始めている。		One maid outside the door is too scared to stand up. Kneeling on the floor, she's praying for salvation and forgiveness.	
+53	N/A	巨大的不祥感降临在在场所有人心中。	在場所有人心中浮起一股巨大的不祥感。	その場にいる全員が、この現象は巨大な凶事だと\n本能で感じた。		Extreme fear clouds everyone's mind.	
+54	N/A	眼前的一切似乎都是在准备迎接某种远古邪恶存在的降临。	眼前的一切似乎是在準備迎接某種遠古邪惡存在的降臨。	まるで目の前は、太古の邪悪的な存在が\n降臨を迎えてしまったかのような光景だ。		Everything they're witnessing seems like a prelude of the arrival of some ancient evil being.	
+55	N/A	片刻沉寂之后，汇聚的黑点猛然炸裂开来。巨大的冲击席卷了目力所及的一切事物。	片刻沉寂之後，匯聚的黑點猛然炸裂開來。巨大的衝擊席捲了視力所及的一切事物。	──刹那の静寂。\n\nその後、収束した一点が突如爆発する。\n\n巨大な衝撃波が付近のあらゆる物へと\n襲い掛かってきた。		After a moment of silence, the gathered black spots suddenly burst open. The huge impact sweeps through everything.	
+56	N/A	女仆、女官和侍卫长都感到灵魂在一刹那被震出体外，堕入了虚无之中。	女僕、女官和侍衛長都感到靈魂瞬間被震出體外，墮入了虛無之中。	まるで魂が身体の外に弾き飛ばされるかのような\n衝撃波だった。\nその場にいた全員が、虚無へと落ちたように\n感じる。		The souls of the maids, officers, and Chief Guard leave their bodies in an instant, vanishing into the void.	
+57	N/A	魁梧的侍卫长如被风吹掉的枯叶般，毫无抵抗能力得倒了下去……	魁梧的侍衛長就像被風吹掉的枯葉般，毫無抵抗能力地倒了下去……	猛者であろう近衛隊長官ですらも抗う術はなく、\n風に吹かれた枯葉のように倒れ込む。		The brawny Chief Guard falls down, unable to so much as put up a fight...	
+58	N/A	……	……	………………		...	
+59	N/A	房间内的光芒渐渐暗淡下来。	房間內的光芒漸漸暗淡下來。	──部屋の光が消えていく。		The room gets darker.	
+60	N/A	奥古斯塔睁大眼睛瘫坐在地上，呆呆的看着地上躺倒的几个女官，门外的侍卫长也全然没了动静。	奧古斯塔睜大眼睛癱坐在地上，呆呆地看著倒在地上的幾個女官。門外的侍衛長也全然沒了動靜。	目を丸くしたオーガスタは床に座り込むと、\n漠然と倒れた女官達を見る。\n扉の外にいる近衛隊長官はぴくりとも動かない。		Sitting on the floor with her eyes wide open, Augusta stares at the officers lying quietly—she doesn't understand what just happened. She can't hear the Chief Guard anymore, either.	
+61	N/A	爆发过后，房间内的光芒渐渐向墙角最初开裂的那个点收敛，一个扭曲的身影在强光中浮现。	爆發過後，房間內的光芒漸漸向牆角最初裂開的那個點收合，一個扭曲的身影在強光中浮現。	爆発の後、最初に現れた壁の裂け目に\n部屋の光が収束する。\n\nそして強き光の中に、歪んだ姿の存在が現れた。		The light starts to converge towards the initial crack on the floor, and a distorted figure appears amid the dazzling light.	
+62	N/A	影子的轮廓逐渐清晰，似乎是个人形。	影子的輪廓逐漸清晰，似乎是個人形。	……徐々に歪さが無くなっていくと、\nソレは人の姿にも見えるようになった。		The figure gets clearer. Is it a... human?	
+63	奥古斯塔	这、这是……?	這、這是……?	こっ、これは……？		But no, there's something...	
+64	N/A	她的心脏一阵狂跳，看着这不可思议的一幕──	她的心臟一陣狂跳，看著這不可思議的一幕──	この不思議な光景を目の当たりにして、\nオーガスタの心臓が激しく鼓動を打つ。		Heart pumping quickly, she's looking at the strangest scene she's ever seen.	
+65	N/A	那个生物的头和上半身顶在墙角的地板上，躯干和臀部紧贴墙壁呈倒立的姿势向上。	那個生物的頭和上半身頂在牆角的地板上，軀幹和臀部緊貼著牆壁，呈現倒立的姿勢。	「人間のような生き物」は頭と上半身が床に、\n胴体と臀部を壁にといった形で──\n──言わば逆立ちをしている。		That "creature" is standing upside down, its entire body against the wall.	
+66	N/A	两条腿大喇喇的悬空岔开，裙子自然下垂，露出蓝白条纹的……	兩條腿大喇喇的懸空岔開，裙子自然下垂，露出藍白條紋的……	2本の脚は空中で豪快に開脚していた。\n\n目の前にあるのは、垂れ下がるスカート。\nそして、青白ストライプの……		With two legs spread wide open, the "creature's" skirt can no longer cover her blue-and-white stripped panties...	
+67	N/A	奥古斯塔还没来得及看清，那贴在墙壁上的躯干似乎无力继续支撑，顺着墙壁向一侧倒了下去。	奧古斯塔還沒來得及看清楚，那貼在牆壁上的軀幹似乎已無力繼續支撐，順著牆壁向一側倒了下去。	オーガスタがはっきりと確認し終わるより前に\n壁に貼り付いた人っぽいモノは、\n体勢を保持できず、壁に沿って倒れた。		Before Augusta can take a closer look, the "creature" can't hold her inverted position and falls down.	
+68	N/A	少女握紧权杖，看着上面繁复华丽的纹样，忽然冒出一个奇异的念头──	少女緊握權杖，看著上面繁複華麗的圖紋，忽然冒出一個奇怪的念頭──	少女は自分が持つ、華麗な紋様が刻まれた王笏を\n見つめながら、ふっと不思議なことを思う──		A strange thought comes across Augusta's mind.	
+69	奥古斯塔	难道是……被我召唤出来的吗？	難道是……被我召喚出來的嗎？	ま……まさか……私が……召喚を……？		Did I summon her?	
+70	N/A	召、召唤兽？	召、召喚獸？	……召、召喚獣……だと……？		She's a... summoned beast?	
+71	N/A	她想试着用权杖的尖端戳一下那个生物，对方突然发出一声长长的悲鸣──	她試著用權杖的尖端戳一下那個生物，對方突然發出一聲長長的悲鳴──	試しに王笏の尖った部分でその生き物を突いて\nみると、途端に生き物が長い悲鳴を上げた──		Augusta pokes the "summoned beast" with her scepter. A scream is heard—	
+72	小怜	呜………………………	嗚………………………	うぎゃぅ…………ぅぁぁ……………		Ouch!	
+73	小怜	到底……	到底……	一体……		...	
+74	小怜	怎、怎么回事啊啊啊……？？！！！	怎、怎麼回事啊啊啊……？？！！！	ど、どうなってるんだこれ……！！！？？？		WHAT THE HELL IS GOING ON?!?	

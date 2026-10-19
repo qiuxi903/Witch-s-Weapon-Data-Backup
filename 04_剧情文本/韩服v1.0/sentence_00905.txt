@@ -1,0 +1,3 @@
+﻿1	引导精灵	我请来了一位特别的客人呢~	我請來了一位特別的客人呢～	特別なゲストを誘って来たよ！	내가 특별한 손님을 모셨어~	I've invited a special guest!	
+2	FocusTrigger	
+3	倪克斯	我是闇夜之魔女倪克斯·斯特罗齐，夜幕与荆棘的使者，你……想要借助我的力量吗？	我是闇夜之魔女倪克斯·斯特羅齊、夜幕與荊棘的使者，你……想要借助我的力量嗎？	私は闇夜の魔女ニュクス・ストラッツィ、夜の帳と棘の使者。あなた……私の力を借りたいのかしら？	나는 암막과 가시의 사자인, 밤의 마녀 닉스 스트로치라고 해. 너……나의 힘을 빌리고 싶니? 	I'm Nix Strozzi, the Witch of the Night, the Envoy of Night Sky and Thorns. Do you... want to borrow my power?	

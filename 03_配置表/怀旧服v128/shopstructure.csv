@@ -1,0 +1,3 @@
+ID,channel_group,language,name,structure
+string,int,string,string,string[][]
+ID,渠道分组,语

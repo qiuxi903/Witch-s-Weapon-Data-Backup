@@ -1,0 +1,6 @@
+﻿1	引导精灵	在探索疲惫的时候，也可以去回顾一下解锁过的剧情呢~就像是读日记一样简单喔！	探索疲憊時，也可以去回顧一下解鎖過的劇情呢～就像是讀日記一樣簡單喔！	探索に疲れたら、過去に開放されたシナリオを振り返って見るのもいいかも～～日記を読むのと同じくらい簡単だし！	탐색이 지치면, 이미 해제한 스토리를 다시 보는 것도 좋아~일기를 읽는 것처럼 아주 간단해!	If you really feel tired exploring new stages, you can go over the story you've already unlocked. It's like reading a diary!	
+2	FocusTrigger	
+3	FocusTrigger	
+4	引导精灵	在这里可以重复观看已解锁过的[ff9c00]剧情[-]	這裡可以重複觀看解鎖過的[ff9c00]劇情[-]	ここでは、すでに開放された[ff9c00]シナリオ[-]を振り返る事ができるの。	여기서 이미 해제한 [ff9c00]스토리[-]를 반복해서 볼 수 있어.	Replay the unlocked [ff9c00]stories[-] as many times as you want here!	
+5	引导精灵	回顾[ff9c00]剧情[-]需要消耗一定的[ff9c00]梦呓[-]	回顧[ff9c00]劇情[-]需要消耗一定的[ff9c00]夢囈[-]	[ff9c00]シナリオ[-]を振り返るにはアイテムの[ff9c00]「寝言」[-]を一定消費するみたい。	[ff9c00]스토리[-]를 보려면 [ff9c00]잠꼬대[-]가 필요해.	Replaying [ff9c00]stories[-] costs [ff9c00]Memory Coins[-].	
+6	引导精灵	[ff9c00]梦呓[-]可以通过完成任务获得。	[ff9c00]夢囈[-]可以透過完成任務獲得。	[ff9c00]「寝言」[-]はクエストをクリアすると獲得できるよ。	[ff9c00]잠꼬대[-]는 임무를 완료해서 획득할 수 있어.	[ff9c00]Memory Coins[-] are earned by completing quests.	

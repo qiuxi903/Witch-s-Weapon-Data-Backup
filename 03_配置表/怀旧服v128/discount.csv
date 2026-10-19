@@ -1,0 +1,4 @@
+ID,discount_type,discount_percent,period
+long,int,int,int
+折扣ID,折扣类型,折扣值（1/10000),持续时间（小时）
+1,1,10000,8

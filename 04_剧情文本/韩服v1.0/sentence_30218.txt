@@ -1,0 +1,180 @@
+﻿1	N/A	我们从大楼出来，车已经停在了门口，胖胖的司机迎上来塞给我们两只微型骨膜耳机。	我們從大樓出來，車還是停在門口，胖胖的司機走過來塞給我們兩隻迷你骨傳導耳機。		건물에서 나왔을 때 입구에 차가 대기 중이였다. 뚱뚱한 기사님이 소형 골막 이어폰을 건네준다.	We emerge from the building to find our ride parked at the entrance. The tubby driver hands us two micro bone conduction earpieces.	
+2	N/A@司机	刚才老板叫我把这个给你们。	剛才老闆叫我把這個給妳們。		방금 사장님께서 이걸 전달해주라고 하셨어.	The boss told me to give those to you.	
+3	小怜	老、老板？	老、老闆？		사, 사장님?	The b-boss?	
+4	N/A	我和索娅把耳机戴上，立刻听到了爱衣的声音。	我和索婭把耳機戴上，立刻聽到了愛衣的聲音。		나와 소야가 이어폰을 착용하자 아이의 목소리가 들린다.	Sonya and I put on the earpieces and hear Aya speaking on the other end.	
+5	N/A@爱衣	游行队伍里噪音太大，用手机怕你们听不见。	遊行那裡噪音太大聲，用手機怕妳們聽不見。		시위대 안에서는 잡음이 커서 휴대폰으로는 목소리가 안 들릴까봐.	It’s too noisy in the crowds. You might have trouble hearing me if we talk on the phone.	
+6	N/A@爱衣	我刚才确认了下，整个协约非武装区，确实只有发生暴动的七个区域是黄色路灯。	我剛才確認過了，整個協議非武裝區內，確實只有發生暴動的七個區域是黃色路燈。		방금 확인해 봤는데, 협약 비무장지대에 폭동이 일어난 7개 지역에만 노란색 가로등이 있어.	I just checked. Out of the entire Agreed Demilitarized Zone, only the seven areas where the riots happened have yellow street lamps.	
+7	N/A@爱衣	因为全都是繁华地段，有太多干扰光源，就算看着航拍画面也很难发现问题……	因為全都是繁華地段，有太多干擾光源了，就算看空拍畫面也很難發現問題……		전부 다 번화가라 너무 많은 간섭 때문에 항공 촬영으로도 발견하기 힘들었던 거야……	Those are all busy areas with a lot of billboards and other light sources, so even those checking aerial footage wouldn’t notice the difference.	
+8	N/A@爱衣	回收队已经出动，但我估计拦也拦不住你，注意保护好小怜就可以了。	回收隊已經出動，但我想應該也攔不住妳，不管怎樣，注意保護好小憐就好。		회수대가 이미 출동했지만 나도 널 막지 못할 것 같아. 렌을 잘 지켜줘.	We’ve sent our retrieval team, but I guess I can’t convince you to stay back. Just keep Ren safe.	
+9	小怜	……拦什么？	……攔什麼？		……뭘 막아？	Stay back? Huh? Stay back from what?	
+10	N/A	索娅听到后对一直跟着我们的无人机点了点头，接着不由分说的拉着我冲进人群。	索婭聽到後，對一直跟著我們的無人機點了點頭，接著拉住我直接衝進人群。		소야가 말을 들은 후 무인기를 향해 고개를 끄덕인다. 그리고 말없이 날 이끌고 인파 속으로 들어간다.	Sonya simply nods at the drone that’s been trailing us, and drags me into the crowd.	
+11	N/A	……	……		……	...	
+12	N/A	我被拉着来到一盏周围人比较少的黄色路灯下，抬头看了看足足有七八米高的灯柱。	我被帶到一盞周圍沒什麼人的黃色路燈下，抬頭看了看足足有七八公尺高的燈柱。		사람이 비교적 적은 노란색 가로등 밑으로 끌려왔다. 고개를 들어보니 7,8미터 높이는 족히 되보인다.	We arrive under a yellow street lamp that luckily isn’t surrounded by too many people. The lamp pole goes up for almost twenty-five feet.	
+13	N/A	在之前SID的训练课程上，我对这种体能类项目都是很有自信的──	之前SID的訓練課程裡，我對這種體能項目都是很有自信的──		예전에 SID 훈련 수업 중 이런 체력 수업은 모두 자신있었다──	Back in the training courses in SID, I was a total failure at climbing drills.	
+14	小怜	（爬杆，0分。）	（爬桿，0分！ ）		（기둥오르기，0점.）	(Got an F for all of them.)	
+15	N/A	每次都是助跑跳到杆子上，像考拉一样抱住，然后绝望的一点点出溜下来……	每次都是助跑跳到桿子上，像無尾熊一樣抱住，然後絕望地慢慢滑下來……		매번 도움닫기로 기둥에 뛰어오른 후 코알라 같은 자세로 천천히 미끌어 졌었지……	I usually had to tackle the pole in a flying leap in order to gain some height—but I end up sliding down anyway.	
+16	索娅	嘿嘿……	嘿嘿～		헤헤……	Hehe...	
+17	N/A	索娅从她的挎包中抽出一只沉甸甸的金属箱，侧面有一张A4纸那么大，约7、8厘米厚。	索婭從她的包包拿出一個沉甸甸的金屬箱，側面有A4紙那麼大，約7、8公分厚。		소야가 그녀의 가방에서 묵직한 금속 상자를 꺼낸다. A4용지 크기에 약 한달 7,8센티미터 두께다.	Sonya yanks out a sagging metal box from her purse. It's surprisingly big, with sides the size of your average note paper, and around three inches in thickness.	
+18	N/A	金属箱中央一圈显眼的亮银色包边，显然是可转动部件，侧面还有粉色的金属条纹。	金屬箱中央一圈顯眼的亮銀色滾邊，顯然是可轉動的部分，側面還有粉色的金屬條紋。		금속 상자 중앙에 은색 테두리가 눈에 띈다. 회전 부품으로, 옆쪽에 분홍색 금속 무늬가 있다.	A shiny silver line runs across the box's surface, marking a rotatable component. And on the side is a pink metallic stripe.	
+19	索娅	猜猜这是什么──	猜猜這是什麼──		이게 뭔지 맞춰봐──	Guess what I've got here!	
+20	N/A	索娅提着箱子顶部的弧形把手，得意的问道。	索婭提著箱子頂部的弧形把手，得意地問道。		소야가 상자 윗부분의 아치형 손잡이를 들고 득의양양하게 묻는다.	Sonya exclaims proudly, holding up the box for me to see.	
+21	N/A	看这个大小和做工，那又大又帅气的像风扇一样的转动部件，还有炫目的像灯带一样的东西……	看這個大小和做工、那個又大又帥氣像風扇一樣可轉動的部分，還有像燈條一樣炫目的東西……		팬 같은 회전 부품과 눈부신 조명 같이 멋있는 물건은……	Hmm. Judging from the size, the craftsmanship, the large fan-like rotatable component, and that sparkly metallic stripe—	
+22	小怜	最新型号的显卡？	是最新型號的顯示卡？		최신형 그래픽 카드？	Uh, some kind of unnecessarily huge graphics card?	
+23	N/A	索娅拉了一下箱子把手上的机关，粉色条纹那一侧呈剪刀状张开。	索婭拉了一下箱子把手上的機關，粉色條紋那一側就呈剪刀狀張開。		소야가 상자 손잡이 위 기관을 당기자 분홍색 줄무늬 쪽이 가위 형태로 열린다.	Sonya simply pulls the catch on the handle, and the pink-striped side of the box opens up like an accordion.	
+24	N/A	从中层层递进的弹出一系列黑色机械构件，加上最后弹出的长板，总长度接近1米。	從中漸漸地彈出一系列黑色機械構造，加上最後彈出的長板，總長度將近1公尺。		중앙에서 한층한층 검은색 기계가 튀어나오고 마지막에 총 길이가 1미터나 되는 장판이 튀어나왔다.	And from the inside, a series of black mechanical components come popping out, along with a long “board”. Put them all together and it extends for almost forty inches.	
+25	小怜	什么东西！	這是什麼東西！		이게 뭐야!	What the heck?	
+26	索娅	这是只有『审判骑士』才有资格使用，以异质物作为核心动力部件的武器~	這是「審判騎士」專用，以異質物作為核心動力的武器～		이건 『심판 기사』만 사용할 수 있는 이물질을 핵심 동력 부품으로 하는 무기야~	It's a weapon exclusive to Judgment Knights. Powered by Substance H!	
+27	索娅	是圣赦院根据我的要求制作的──	是聖赦院根據我的要求特別製作的──		성사원이 내 요구에 따라 제작한 무기──	The Penitentiary made it for me according to my wishes.	
+28	N/A	索娅扭了一下把手，从箱子中沿着长板顶部边缘的轨道划出一条闪着金属光泽的链齿。	索婭轉了一下把手，箱子中冒出銀光，沿著長板邊緣划出一條閃著金屬光澤的尖銳鏈條。		소야가 손잡이르 비틀자 상자 속에서 장대 윗부분 궤도를 따라 금색 빛의 톱니바퀴가 나타났다.	Sonya twists the handle and a row of gleaming saw teeth appears alongside the edge of the long board.	
+29	N/A	链齿沿着长板末端的圆弧再向回返，最终又回到了箱子中。	鏈條沿著長板末端的圓弧往回折返，最終點又回到了箱子中。		톱니바퀴가 장판 끝부분의 곡선을 따라 다시 들어갔다가 마지막에 상자로 돌아온다.	The row of teeth reaches on all the way to the arc at the end of the board, and finally all the way back into the box.	
+30	小怜	这是电锯！？	這是電鋸！ ？		전기톱！？	A chainsaw?	
+31	索娅	差不多啦，不过不是靠电力驱动，是我最喜欢的武器哦~	差不多啦，不過不是靠電力驅動，是我最喜歡的武器哦～		비슷해. 이건 전력으로 구동하지 않아. 내가 가장 좋아하는 무기야~	Something like that. It's not powered by electricity, though. It's my favorite weapon!	
+32	N/A	索娅笑着启动了“电锯”，链齿飞速旋转起来，但声音比我预想中小得多。	索婭笑著啟動了「電鋸」，鏈條高速旋轉起來，但聲音比我預期小得多。		소야가 웃으며 “전기톱”을 켜자 톱니바퀴가 빠른 속도로 회전한다. 생각보다 소리가 작다.	Sonya grins and turns the "chainsaw" on. The teeth begin rotating at astounding speed, but it's surprisingly silent.	
+33	小怜	你不会是想……	妳該不會想……		네 설마……	Are you gonna—	
+34	N/A	索娅毫不犹豫的对着金属柱切了了下去，顿时火花四溅，银灰色的灯柱发出了撕心裂肺的哀嚎。	索婭毫不猶豫地對著金屬柱子劈了下去，頓時火花四射，銀灰色的燈柱發出了撕心裂肺的哀嚎。		소야가 망설임 없이 금속 기둥에 가져다 대자 불꽃이 튀고 은회색의 기둥이 귀를 찢는 소리를 낸다.	Without hesitation, Sonya begins slicing through the metal light pole. Sparks fly everywhere, and the silver pole screeches in protest.	
+35	N/A	巨大的噪音引得附近人一阵围观，还有几个不明所以的大叔在旁边兴奋的叫好。	巨大的噪音引起附近人群圍觀，還有幾個不明所以的大叔在旁邊興奮地拍手叫好。		거대한 잡음에 주변 사람들이 몰려들었다. 어떤 아저씨는 옆에서 흥분해 소리를 지르기도 한다.	The noise attracts a whole audience. A few middle-aged men, despite not having the least idea what's going on, begin to hoot and cheer.	
+36	N/A	十几秒后，灯柱里传出两声炸响，索娅的动作停了下来。	十幾秒後，燈柱裡傳出兩聲爆炸，索婭停了下來。		십몇초 후 가로등에서 두번의 폭발음이 들리고 소야의 동작도 멈췄다.	Very soon, two blasts are heard from inside the pole, and Sonya calmly retrieves her chainsaw.	
+37	小怜	？	？		？	Huh?	
+38	N/A	索娅抬头看着已经熄灭的路灯，我才发现直径20厘米的灯柱此时只靠一点点金属维持着竖立状态。	她抬頭看著已經熄滅的路燈，我才發現直徑20公分的燈柱幾乎快被鋸斷，只剩下一小段金屬與底座相連，搖搖欲墜。		소야가 고개를 들어 이미 꺼진 가로등을 바라본다. 직경 20센티미터의 가로등이 남은 금속에 의지해 꼿꼿이 서있다.	She looks up at the street lamp, which is no longer shining. The column, around eight inches in diameter, is almost sliced through.	
+39	小怜	倒……	倒……		쓰러……	T...	
+40	小怜	倒啦──！！	倒啦──！ ！		쓰러진다아──！！	Timber!	
+41	索娅	这才像话嘛~	這才像話嘛～		이래야 말이 되지~	That's more like it!	
+42	N/A	索娅坏笑着朝没人的方向敲了一下灯柱。	索婭壞笑著朝沒人的方向敲了一下燈柱。		소야가 웃으며 사람이 없는 방향으로 가로등을 두드린다.	Sonya smirks, giving the pole a whack towards the opposite direction of the crowds.	
+43	N/A	那一小段苦苦维持大局的金属终于放弃抵抗，在一阵悲鸣中缓缓向那一侧折断。	那一小段苦苦撐住大局的金屬終於放棄抵抗，在一陣悲鳴中緩緩折斷。		힘겹게 서있던 커다란 금속이 드디어 저항을 멈추고 비명을 지르며 천천히 절단됐다.	And the pole finally gives way, toppling over with a deafening shriek.	
+44	N/A	随着一声巨响，整根路灯狠狠的将柏油路面拍出几道裂纹，溅起无数小石块。	隨著一聲巨響，路燈狠狠地將柏油路面拍出幾道裂痕，噴起無數小石塊。		굉음과 함께 가로등이 아스팔트 길 위에서 깨지고 수많은 조각이 흩어진다.	Boom! The lamp post slams into the ground, cracking the tar surfacing and sending rubble flying.	
+45	N/A	围观的人群沉默了几秒，随后爆发出震耳欲聋的欢呼。	圍觀的人群沉默了幾秒，隨後爆發出震耳欲聾的歡呼。		주변 사람들이 몇초간 침묵하다 귀청이 떨어질 것처럼 환호한다. 	The surrounding crowds remain dumbfounded for a few seconds, then wild applause breaks out.	
+46	N/A@游行人群	自由万岁──！！！！\n和平万岁──！！！！	自由萬歲──！ ！！ ！\n和平萬歲──！ ！！ ！		자유 만세──！！！！\n평화 만세──！！！！	To freedom!\nTo peace!	
+47	小怜	什么和什么啊！！	什麼跟什麼啊！ ！		뭐라는 거야！！	What does this have to do with freedom and pace?	
+48	N/A	我们迅速跑到路灯头部检查，索娅利落的将灯体锯断，那台无人机也跟着降到了贴地的高度。	我們迅速開始檢查路燈，索婭俐落地鋸斷外殼，那台無人機也跟著降到了貼地的高度。		우리는 가로등 머리 부분으로 달려가 살펴봤다. 소야가 가로등을 절단하자 무인기도 우릴 따라 고도를 낮춘다.	We sprint over to what was once the top of the street lamp. Sonya swiftly cuts off the part with the light, while the drone tailing us lands beside the spectacle.	
+49	N/A@爱衣	这个摄像头的清晰度一般，先把灯罩打开让我看看LED型号。	這個攝影機的清晰度一般般，先把燈罩打開讓我看看LED型號。		이 카메라 선명도가 좋지 않아. 우선 등갓을 열어서 LED모델 번호를 보여줘.	I can't see much from here. Get rid of the lampshade and hold the light bulb closer to the drone. I want to see the LED model.	
+50	N/A	为了避开那帮人狂热的视线，我搬起灯体就朝着SUV的方向落荒而逃。	為了避開那些人狂熱的視線，我搬起燈體直接往SUV的方向狂奔。		사람들의 뜨거운 시선을 피하기 위해 나는 등체를 옮겨 SUV가 있는 방향으로 도망갔다.	To avoid the excited crowds, I pick up the light bulb and dash off in the direction of our SUV.	
+51	N/A	然后索娅按照爱衣的指导，把灯体大卸八块──微型监控、电池、灯芯、镇流器。	索婭隨即按照愛衣的指示，把燈體大卸八塊──迷你監視器、電池、燈管、安定器。		소야가 아이의 지시에 따라 등체를 8조각으로 분리했다──소형 감시 카메라, 전지, 등심, 안정기.	As soon as we arrive, Sonya dissects the whole thing according to Aya's instructions. We find a micro-camera, batteries, the filament and the electric ballast.	
+52	N/A@爱衣	这些零件和LED的编号都没问题啊……	這些零件和LED的編號都沒問題啊……		이 부품들과 LED 코드는 모두 문제 없어……	The serial numbers of these components and the LED all seem fine and above-board.	
+53	小怜	话说──	話說──		그 말은──	Hey...	
+54	N/A	我拿着她们拆下的灯罩，透过远处的光源说道。	我舉起她們拆下的燈罩，透過遠處的光源說道。		나는 그녀들이 해체한 등갓을 들고 먼 빛을 비추며 얘기했다.	I hold up the lampshade against the light source from somewhere outside the vehicle.	
+55	小怜	如果灯罩是黄色的，怎么也不可能射出白光吧？	如果燈罩是黃色的，怎樣也無法射出白光吧？		등갓이 노란색이라면 어떻게 해도 흰색 빛이 나올 수 없는 거지?	If the lampshade is yellow, there's no way the lamp would produce white light, right?	
+56	N/A	灯罩上密集的黄色条纹，摸上去有细密的凸起，是要经过精密加工才会呈现出的状态。	燈罩上密集的黃色條紋，摸起來有細密的凸起，是要經過精密加工才能顯現的狀態。		등갓 위에 노란색 무늬가 밀집돼있다. 미세하게 튀어나와있는 무늬로, 정교한 가공으로 만든 것 같다.	The yellow texture covering the lampshade seems intricate, with detailed embossment. Must have taken a lot of work.	
+57	小怜	好像藏着什么信息，不过直接看的话……	好像藏著什麼訊息，不過直接看的話……		뭔가 신호가 숨겨져 있는 것 같아. 하지만 바로 보면……	Maybe there's a message hidden on this lampshade? I can't tell, though...	
+58	N/A	索娅也拿着灯罩透过光看了看，然后摇摇头。	索婭也拿著燈罩透過光看了看，然後搖搖頭。		소야가 등갓을 들고 빛을 통해 관찰한 후 고개를 젓는다.	Sonya, too, holds up the lampshade against the light outside, and shakes her head in defeat.	
+59	N/A@爱衣	车上有3D扫描装置，把灯罩放进去发给我看看。	車上有3D掃描設備，把燈罩放進去傳給我看看。		차에 3D스캔 장치가 있어 등갓을 넣고 보여줘.	There's a 3D scanning device on the van. Put the lampshade inside and send the results to me.	
+60	小怜	车上连那种东西都有！？	車上連那種東西都有！ ？		차에 없는 게 뭐야！？	Wow, we've got something like that on the car?	
+61	N/A@爱衣	那当然，SID的载具还有全套的自动武──	那當然，SID的載具還有全套的自動武──		SID의 차량에는 자동식 세트도──	Of course! All SID vehicles come with a full set of automated weap—	
+62	索娅	小心！！！	小心！ ！！		조심해！！！	Watch out!	
+63	N/A	“呲咔──！！！！”	「呲喀」──！ ！！ ！		“치직─！！！！”	Zing!	
+64	N/A	突然从拐角处射出一道炫目的白光，直接击中我的胸口。	突然，轉角處射出一道炫目的白光，直接擊中我胸口。		갑자기 모퉁이 쪽에서 눈부신 흰색 빛이 나와 나의 가슴을 공격했다	A sudden, blinding blast of white light shoots out from the corner and rams straight into my chest.	
+65	N/A	瞬间尖锐的电流声从我耳旁呼啸而过，我的心脏似乎停止了跳动。	瞬間尖鋭的電流聲從我耳邊呼嘯而過，我的心臟似乎停止了跳動。		순간, 날카로운 전류음이 귓가에 스쳐지나가고 심장이 멈춘 것 같다.	For a second, all I can hear is the sharp screech of electricity. Has my heart stopped beating? Feels like it has.	
+66	N/A	隐约中感觉司机接住了朝后倒下的我，索娅帮着把我拖到了车的另一侧。	隱約中感覺到司機接住往後倒下的我，索婭則把我拖到車的另一側。		무의식 중에 기사님이 쓰러지는 날 부축하는 것이 느껴지고, 소야가 날 차 반대편으로 끌고 간다.	Someone catches me as I fall backward—probably the driver. With Sonya's help, he drags me to the other side behind the van.	
+67	N/A	七八个身材魁梧，穿着黑色特种作战服手持冲锋枪的人朝我们冲了过来……	七八個身材魁梧、穿著黑色特種作戰服且手持衝鋒槍的人朝我們衝了過來……		검은색 특수 전투복을 입고 기관단총을 든 건장한 남자 7,8명이 우릴 향해 돌진한다……	Seven buff man in black special combat suits rush upon us with submachine guns...	
+68	N/A	周围的一切似乎都覆上了一层诡异的色彩，我的大脑异常清醒，甚至看所有人就像慢动作一样。	周圍一切都覆上了詭譎的色彩，我的大腦異常清醒，所有人的動作在我眼裡就像慢速播放一樣。		주위의 모든 것이 이상한 색채로 덮힌다. 대뇌가 이상할만큼 뚜렷하고 모든 것이 슬로우 모션처럼 보인다.	Everything around me seems to be shrouded in a haze, as if someone's slapped on a gruesome filter. But my brain remains alert, almost extraordinarily so. It's like I can see what's going on in slow motion.	
+69	N/A	索娅和爱衣都在大声呼喊着我的名字，可声音就像隔着一堵厚厚的墙壁……	索婭和愛衣都在大聲叫著我的名字，可是聲音就像隔著一堵厚厚的牆壁……		소야와 아이가 큰 소리로 내 이름을 불렀지만 두꺼운 장벽을 사이에 두고 있는 느낌이다……	There's Sonya and Aya, screaming my name. But I can't hear them clearly. It's like there were a wall between us...	
+70	N/A	司机大叔从车架后面抽出一把霰弹枪，熟练的单手上弹，用防弹的车门做掩护对着那群人射击。	司機大叔從車後抽出一把霰彈槍，熟練地單手上彈，用防彈的車門做掩護，對著那群人開槍。		기사 아저씨가 트렁크에서 산탄총을 꺼내 능숙하게 장전하고 방탄 차문 뒤에서 사격한다.	The driver nimbly pulls out a shotgun from the trunk, loads it with one hand, and begins firing at our attackers, using the bulletproof car door as a cover.	
+71	N/A	原来大叔你这么厉害啊……	原來大叔這麼厲害啊……		아저씨 엄청 대단한 분이셨구나……	So this chubby dude is actually real badass, huh...	
+72	N/A	可惜，那帮人训练有素，而且看武器和战术应该就没想留活口，就算是索娅也……	可惜，那幫人訓練有素，而且看武器和戰術應該根本沒打算留活口，就算是索婭也……		훈련을 받은 저 사람들은 무기와 전술 역시 모두 갖추고 있다. 소야라도……	Too bad they have an advantage in numbers and are well-trained. They've got excellent weapons, and it's obvious from the way they're attacking that they aren't planning to let us get away alive. Not even Sonya, a little girl...	
+73	N/A	我失去意识前最后的记忆是，索娅拿着电锯拉住了我的手──	在我失去意識前，最後的記憶是索婭拿著電鋸拉住了我的手──		의식을 잃기 전 마지막 기억은 소야가 전기톱을 들고 내 손을 꼭 붙잡고 있는 화면이다──	The last thing I remember before my consciousness fades away is Sonya squeezing my hand once, then raising her chainsaw—	
+74	N/A	以及一连串凄厉中带着惊恐的惨叫声。	以及一連串淒厲中帶著驚恐的慘叫聲。		그리고 한산함 속에 공포스런 비명이 들렸다.	What follows is a series of terrified, animalistic screams of dying men.	
+75	N/A	……	……		……	...	
+76	N/A	距第一大道300米处。	距離第一大道300公尺處。		제1도로 300미터 밖.	<Around a thousand feet away from First Avenue>	
+77	瑟蕾莎	啧啧──	嘖嘖──		쯧쯧──	Tsk...	
+78	N/A	瑟蕾莎一边懒洋洋的通过耳机与什么人通话，一边从倒在地上的士兵身上切下一块黑色衣料。	瑟蕾莎一邊懶洋洋地透過耳機通話，一邊從倒在地上的士兵身上切下一塊黑色衣料。		세레사가 나른한 자세로 누군가와 통화하며 길가에 쓰러진 병사의 검은색 옷 조각을 잘라낸다.	Theresa deftly cuts out a black piece of fabric from the outfit of a dead soldier on the ground, while also lazily speaking into her headset.	
+79	瑟蕾莎	这帮人只是他们作为后备支援的B组吗？\n装备真舍得花钱……	這幫人只是當作後備支援的B組嗎？ \n嘖，還真捨得花錢在裝備上啊……		이 무리들 예비 인력 B팀 맞지?\n장비에 꽤 돈을 많이 썼네……	Are these guys really just a backup team?\nThey sure spent a lot on their equipment.	
+80	瑟蕾莎	活口？	活口？		포로？	Huh? Leave them alive?	
+81	瑟蕾莎	……啊！	……啊！		……아！	... Oops!	
+82	N/A	瑟蕾莎拍了一下脑袋，在原地僵住了5秒钟。	瑟蕾莎敲了一下自己的腦袋，原地僵住5秒鐘。		세레사가 머리를 친 후 제자리에서 5초간 굳어있다.	Theresa smacks herself on the head.	
+83	瑟蕾莎	我忘了……	我忘了……		깜빡 했어……	I forgot I was supposed to leave them alive...	
+84	瑟蕾莎	不能怪我嘛！那家伙的脑袋突然就炸成烟花，吓得我把他们几个全都给砍了。	這不能怪我啊！ 那個人的腦袋突然炸開欸，嚇得我馬上就把其他幾個砍光光。		내 탓 하지마！그 녀석의 뇌가 갑자기 불꽃이 되는 바람에 깜짝 놀라서 모두 베어버렸단 말이야.	Come on, it's not my fault! Their brains all exploded all of a sudden. I got caught off guard so I slayed them all.	
+85	瑟蕾莎	而且看起来就算抓了活的，从他们身上也查不出什么吧──	而且看起來，就算抓了活的，從他們身上也查不出什麼吧──		게다가 살려서 잡아간다고 해도 알아낼 만한 게 없는 것 같아──	Besides, even if I bring them back alive, it's not like we can find out anything interesting from these dudes, right?	
+86	瑟蕾莎	全员烧掉指纹，两侧臼齿植入了炸药，侦测到生命体征濒死就立刻把牙齿带着整张脸一起炸掉。	他們都沒有指紋，兩側臼齒還植入了炸藥，偵測到本體生命徵兆瀕死就立刻自我引爆，實在是……		지문도 지워졌고 양쪽 이에 폭탄을 심어놨어. 생명체가 죽기 전에 머리를 터트리는 모양이야.	Burn all fingerprints... dynamite implants in teeth... as soon as they're on the verge of death, the mechanism triggers and the whole face is blasted...	
+87	瑟蕾莎	──就是说啊！	──就是說啊！		──얘기했잖아！	... Yeah! See? Not my fault!	
+88	N/A	瑟蕾莎和耳机那边的人抱怨道。	瑟蕾莎對耳機那頭的人抱怨，一臉嫌棄。		세레사가 이어폰 너머로 불만스럽게 얘기한다.	Sonya complains to whoever it is on the other end of the conversation.	
+89	瑟蕾莎	你想想看，我摸到那家伙后面一刀下去，还想给对方留点时间转身看清我帅气的脸──	妳想想看，我摸到那傢伙後面一刀下去，還想留點時間讓他轉身看清我帥氣的臉──		생각해 봐. 내가 그 녀석 뒤를 베어냈을 때 내 멋있는 얼굴을 보여주려고 하는 순간──	I was totally gonna leave those guys alive! I just kinda hit them with my blade... I wanted to give them a chance to appreciate my cool moves—	
+90	瑟蕾莎	结果那家伙的头就突然就爆掉了！	結果那傢伙的頭就突然爆掉欸！ ！！ ！		녀석의 머리가 갑자기 터져버렸다고！	And then they just exploded!	
+91	N/A	她用那块衣料擦了擦刀上的血迹，然后嫌弃的甩在那具尸体血肉模糊的脸上。	她用那塊衣料擦拭刀上的血跡，然後嫌髒地把布甩在那具屍體血肉模糊的臉上。		그녀가 잘라낸 천으로 검에 묻는 피를 닦아낸 후 시체의 얼굴 위로 던져버린다.	She sighs, cleaning her blade with the fabric she cut off, then tosses the dirty rag on the face of the corpse—if it can even be called a face anymore.	
+92	瑟蕾莎	真是没品……	實在有夠沒品……		정말 천박하군……	Bunch of losers.	
+93	N/A	瑟蕾莎将闪着寒光的武士刀收入刀鞘。	瑟蕾莎將閃著寒光的武士刀收入刀鞘。		세레사가 한기를 내뿜는 무사도를 칼집에 넣는다.	Theresa puts her gleaming katana back into its sheath.	
+94	瑟蕾莎	刚才从小路突然冲出两辆没有车牌的冲锋车，总共十几个人，我也不可能正面硬上。	剛才突然從小路衝出兩輛沒有車牌的衝鋒車，總共十幾個人，笨蛋才會正面對決。		골목에서 갑자기 번호판이 없는 차 두대가 튀어나왔어. 인원은 총 열명. 나도 정면 돌파 할 수 없었어.	Two emergency units appeared out of nowhere from an alley. No license plate. There were more than a dozen of them, so I couldn't take them all at once...	
+95	瑟蕾莎	不过他们三个居然能从第一组人手里逃掉，那个司机有点水平啊……	不過他們三個居然能從第一組人手中逃走，那個司機真不錯耶……		하지만 그 세사람은 첫번째 팀의 손에서 도망갔어. 그 기사, 대단하던데……	But the three of them managed to escape just fine from those attackers, huh? That driver must be skilled.	
+96	瑟蕾莎	什么──？	什麼──？		뭐──？	Wait, what?	
+97	N/A	瑟蕾莎把手按在耳机上，以为自己听错了。	瑟蕾莎把手按在耳機上，以為自己聽錯了。		세레사가 상대방의 말을 잘못 들은 줄 알고 이어폰을 누른다. 	Theresa presses the headset closer to her ear, as if that would change what she had heard.	
+98	瑟蕾莎	那组人被全灭！？	那組人全滅！ ？		그 팀이 전멸했다고！？	The attackers... all annihilated?	
+99	瑟蕾莎	…而且溅到旁边写字楼外墙上的血迹，最高的飞到了5层楼……	……而且濺到旁邊辦公大樓外牆上的血跡，最高還噴到5層樓，哇喔……		…옆에 있는 사무실 벽에 튄 혈흔을 보니 최고 5층까지 날아오른 것 같은데……	And their blood splattered so high it reached the fifth floor of a nearby office building?	
+100	瑟蕾莎	难道说──	難道說──		설마──	Was it...	
+101	N/A	瑟蕾莎似乎得到耳机那边的确认。	瑟蕾莎似乎得到耳機那邊的確認。		세레사가 상대방에게 정보를 확인한다. 	Theresa pauses, waiting for confirmation from the other side.	
+102	瑟蕾莎	果然是因为那个小家伙吗？今天接触她时我也感觉到了……	果然是因為那個小傢伙嗎？ 今天接觸她的時候我也感覺到了……		역시 그 녀석 때문이였구나? 오늘 그 아이를 만났을 때 나도 느꼈어……	Ah, right, I knew it was her doing! When I met her today, I felt it too.	
+103	瑟蕾莎	哈──	哈哈──		하──	Ha...	
+104	N/A	瑟蕾莎懒洋洋的打了个哈欠。	瑟蕾莎懶洋洋地打了個哈欠。		세레사가 길게 하품을 한다.	Theresa yawns, sleepily.	
+105	瑟蕾莎	今天一大早就把我叫起来，困死我了……	今天一大早就把我叫起來，累死我了……		아침 일찍 일어났더니 졸려 죽겠어……	You gotta stop waking me so early all the time. I just wanna go back to my bed.	
+106	瑟蕾莎	总之，你想要的情报都收集齐全了吧？	總之，妳想要的情報都收集齊全了吧？		어쨌든, 필요한 정보는 모두 수집했지?	Anyway, you've got all the information you want, right?	
+107	N/A	耳机那头传来一个自信的女声。	耳機那頭傳來一個自信的女聲。		이어폰 너머로 자신만만한 여자 목소리가 들려온다.	From the other side comes a confident female voice.	
+108	N/A@女性的声音	是啊…用作这次谈判的筹码足够了。	是啊……用來作為這次談判的籌碼已經足夠了。		그래…이번 교섭의 조건으로 쓰기 충분해.	Yeah, I’ve got all I need to win in this negotiation.	
+109	莉琉	脚环上有监听装置，索娅那么详细的陈述加上你找到的这个──	腳環上有監聽器，索婭已經講得很清楚了，再加上妳找到的這個──		발찌에 도청 장치가 있어. 소야의 자세한 설명에 네가 찾은 그것까지 더하면──	Sonya's anklet is bugged. I heard everything she told Ren. And that, plus what you've found...	
+110	N/A	莉琉拿着手机站在一间封闭地下室中央，瞟了一眼手中发黄的照片。	莉琉拿著手機站在一間封閉的地下室中央，看了一眼手中發黃的照片。		마리루가 휴대폰을 들고 밀폐된 지하실 중앙에 서있다. 손에 든 빛바랜 사진을 힐끗 쳐다본다.	Mariru glances at the faded photo in her hand, as she paces around the closed basement.	
+111	莉琉	辛苦你了，瑟蕾莎。	辛苦你了，瑟蕾莎。		수고했어, 세레사.	Well done, Theresa.	
+112	莉琉	或者说……町田凛子？	或者說……町田凜子？		마치다 린코…라고 불러야 하나？	Or should I say... Machida Rinko?	
+113	N/A	手机那边传来一阵苦笑，随后直接挂断了电话。	手機那邊傳來一陣苦笑，隨後直接掛斷了電話。		휴대폰 너머로 쓴웃음이 들려오고 곧바로 통화가 끊어졌다.	Theresa just laughs wryly and hangs up.	
+114	N/A	几秒钟后，随着“叮”的一声，左侧黑色的电梯门打开，从中走出一个穿着考究西服的男人。	幾秒鐘後，隨著「叮」的一聲，左側黑色的電梯門打開，從中走出一個穿著高級西服的男人。		몇초 후 “퉁” 소리와 함께 좌측 검은색 문이 열리고 양복을 입은 남자가 걸어나온다.	Seconds later, one of the two sets of black elevator doors leading to the basement opens. A man in an impeccable suit comes striding out.	
+115	伦伯特	真是精妙的设计……	這設計真精巧。		정말 정교한 설계군요……	What an impressive design...	
+116	伦伯特	入口分别在两条大街，背靠背的两栋大厦，电梯却能通往同一间地下密室。	入口分別在兩條大街上，背靠背的兩棟大廈，電梯卻能通往同一間地下密室。		입구에 두갈래 길, 서로 등을 지고 있는 두 빌딩, 엘리베이터는 모두 지하 밀실로 연결되다니…	Two elevators, located on different streets, in two buildings back to back. Yet they lead to the same hidden basement.	
+117	莉琉	伦伯特爵士──\n谁让我们的身份都很敏感呢~	倫伯特爵士──\n誰叫我們的身分都這麼敏感呢～		럼버트 훈작──\n누가 우리의 신분을 예민하게 만들라고 했습니까~?	Hey, Sir Lumbert.\nSee, both of our identities are... sensitive, so we have to meet in secret.	
+118	莉琉	你不是前两天还在电视上说，想要跟我进行一次公开对话吗？	你不是前兩天在電視上說，想要跟我進行一次公開談話嗎？		이틀 전 티비에서 나와 공개 대화를 나누고 싶다고 하지 않았나요? 	Didn't you say two days ago on TV that you wanted to have a public conversation with me?	
+119	伦伯特	看来已经没必要了。	看來已經沒必要了。		보아하니 이미 필요 없어진 것 같군요.	Guess there's no need for that anymore.	
+120	N/A	伦伯特指指莉琉手上那张发黄的照片。	倫伯特指指莉琉手上那張發黃的照片。		럼버트가 마리루의 손에 든 빛바랜 사진을 가리킨다.	Lumbert motions at the faded photo in Mariru's hand.	
+121	伦伯特	那么说说看，你知道了多少？	說說看，妳知道了多少？		그럼 얘기해 보시죠. 당신은 얼마나 알고 있죠?	Now, tell me. How much do you know?	
+122	N/A	……	……		……	...	
+123	N/A	不知过了多久，我隐约能感觉到颠簸和晃动。	不知過了多久，我隱約能感覺到震盪和晃動。		얼마나 흘렀을까…흔들림이 느껴진다.	I can't tell how much time have passed as I slowly regain feeling in my limbs. I hear the rumbling of a vehicle... am I on a car?	
+124	N/A	有只手一直轻轻的抚着我的额头，让我觉得周身都很温暖。	有隻手一直輕輕地撫著我的額頭，讓我覺得全身暖呼呼的。		누군가의 손이 내 이마를 어루만지자 몸에 따스한 기운이 퍼진다.	There's a hand gently stroking my forehead. Feels like home.	
+125	N/A@索娅	小怜……	小憐……		렌……	Ren...	
+126	N/A	我用尽全力睁开眼，视野内还是一片模糊。	我用盡全力睜開眼，視線還是一片模糊。		전력을 다해 눈을 뜨자 시야가 흐릿하다	I force my eyes open, though everything is still blurry.	
+127	N/A@索娅	小怜──	小憐──		렌──	Ren...	
+128	N/A@索娅	你醒了！？	妳醒了！ ？		깨어났어！？	You're awake?	
+129	N/A	索娅的语气明显有些激动，眼角似乎还闪着泪光。	索婭的語氣明顯激動，眼角似乎還閃著淚光。		소야의 목소리가 떨리고 눈가에 눈물이 맺혀있다.	Sonya sounds agitated. Are those tears I see in her eyes?	
+130	N/A@小怜	我这是……	這是……		여긴……	What happened...?	
+131	N/A@小怜	呜──	嗚──		흑──	Urgh...	
+132	N/A	我感觉嘴里含着一个坚硬异物，条件反射般的吐了出来。	我感覺口中含著一個堅硬的異物，反射性地吐了出來。		입 안에 딱딱한 물건이 느껴져 조건 반사적으로 뱉어냈다.	I feel something hard in my mouth. Something that's not supposed to be there. I spit it out reflexively.	
+133	N/A	我揉了揉眼睛，发现自己正在SUV的后座上，手里攥着刚吐出来的东西。	揉了揉眼睛，我發現自己正在SUV的後座上，手裡握著剛吐出來的東西。		눈을 비비고 내가 SUV의 뒷자석에 있는 걸 발견했다. 손에는 방금 뱉은 물건이 쥐어져있다.	I rub my eyes and find myself on the back seat of our SUV. What was it that I just spat out? I look down at my hand.	
+134	小怜	这是……	這是……		이건……	Is this...	
+135	N/A	那是一颗弹球大小的透明宝石，形状与拉斐尔之前塞给我的一模一样，只是颜色已完全褪去。	那是一顆彈珠大小的透明寶石，形狀與拉斐爾之前塞給我的一模一樣，只是顏色已經完全褪去。		총알 크기의 투명한 보석, 라파엘이 내게 줬던 것과 똑같이 생겼지만 색깔이 완전히 벗겨졌다.	It's a transparent gem, the size of a marble. Looks just like the one Raphilia had handed me, though the color has faded.	
+136	N/A@司机	嚯！这么快就醒了？	呼！ 這麼快就醒了？		억！이렇게 빨리 깨어났어？	Wow! Up already?	
+137	N/A@司机	快躺着别乱动，刚才真够呛，还以为我们都要交代了。	躺好不要亂動，剛才真危險，還以為我們都死定了。		어서 누워. 움직이지 말고. 아까는 정말 죽는 줄 알았다니까. 	Stay put, don't move! We really thought we lost you back there. No idea how we were gonna tell the boss.	
+138	N/A@司机	放心吧，咱们一会就到医院。	放心吧，馬上就到醫院了。		안심해. 조금 있으면 병원에 도착할 거야.	And don't worry, we'll reach the hospital soon.	
+139	小怜	医院？	醫院？		병원?	Hospital?	
+140	N/A	我努力回想着刚才的情景，好像我们被什么人袭击了，然后……	我努力回想著剛才的情景，我們好像被什麼人襲擊了，然後……		방금 화면을 떠올렸다. 누군가에게 습격을 당했다. 그리고……	I try my best to recall what exactly happened. We were attacked, weren't we? And then—	
+141	索娅	你还好吧？有没有觉得哪里不对劲？	還好嗎？ 有沒有哪裡不舒服？		괜찮아？어디 아픈 곳은 없어？	Are you okay? Does it hurt anywhere?	
+142	N/A	索娅拉着我的手，关切的问道。	索婭拉著我的手，憂心地問道。		소야가 나의 손을 잡으며 다정하게 묻는다. 	Sonya asks, grabbing my hand tight. She sounds uncharacteristically concerned.	
+143	N/A	她在我的左右耳边分别打了个响指，确认两侧听力正常后又让我眼睛盯着她的手指转了一圈。	她在我的左右耳邊分別彈了響指，確認聽力正常後又要我眼睛盯著她的手指轉一圈。		소야가 양쪽 귓가에 손가락을 튕겨 청력을 확인한 후 내 눈 앞에서 손가락을 돌린다.	She snaps her fingers by my ears to make sure I can still hear, then tells me to focus on her finger, which then draws a circle, to check the function of my eyes.	
+144	N/A	我上下摸索了一遍，似乎没发现哪里特别疼。	我摸了摸自己，似乎沒發現哪裡特別痛。		전신을 훑어봤지만 특별히 아픈 곳은 없는 것 같다.	I pat myself down and decide that it actually doesn't hurt much anywhere.	
+145	小怜	我好像……被一道闪电打中了？	剛才，我好像……被一道閃電打中了？		나……번개에 맡은 걸까？	Was I... struck by a bolt of lightening?	
+146	N/A@爱衣	还好击中你的是放电武器，刚才真吓死我了──	還好擊中妳的是放電武器，剛才實在嚇死我了──		다행히 널 공격한 건 방전 무기 같아. 아까는 놀라 죽는 줄 알았어──	Ugh, it was an electrical weapon. That was lucky. I was so worried.	
+147	N/A	爱衣在耳机里长舒了一口气。	愛衣在耳機另一頭吐出一口長長的氣。		아이가 이어폰 안에서 길게 안도의 한숨을 쉰다.	I hear Aya exhale from inside the earpiece.	
+148	小怜	还、还好？	還、還好？		다, 다행히?	Lucky?	
+149	N/A@爱衣	你不知道吗？	妳不知道嗎？		몰랐어?	Oh, you don't know?	
+150	N/A@爱衣	你今天穿的衣服、袜子和鞋，都是由加入了导电碳纤维的复合材料制作的。	妳今天穿的衣服、襪子和鞋子，都是用混合了可導電的碳纖維複合材料製作的。		네가 오늘 입은 옷, 양말, 신발 모두 전도 탐소 섬유 복합 재료로 제작한 거야. 	The whole outfit you're wearing today... the dress, the stockings and shoes... they're made with composite materials with conductive carbon fiber.	
+151	N/A@爱衣	本来是怕你被电击脚环的效果误伤──	本來是怕妳被電擊腳環的效果誤傷──		전기 발찌 효과에 다칠까봐 입힌 건데──	It was to prevent you from being accidentally shocked by that anklet—	
+152	N/A	等一下，这个老往下掉的网袜难道是什么高级货？	等一下，原來這雙老是往下滑的網襪這麼高級？ ！		잠깐, 이 흘러내리는 망사스타킹이 설마 고급 제품이라고?	Wait, so these fishnet stockings that keep falling down are actually really valuable?	
+153	小怜	（而且就不能设计得稍微没那么羞耻吗？！）	（還有，下次可以做點正常的衣服嗎？ ！）		（이렇게 수치스럽게 디자인 할 필요는 없잖아？！）	(Couldn't they have designed it to look less embarrassing?)	
+154	N/A@爱衣	那道电弧击中你的时候，衣服形成了一个天然的法拉第笼，导走了大部分能量。	那道電弧擊中妳的時候，衣服形成了一個天然的法拉第籠，傳導了大部分能量。		그 전기 아크가 널 공격할 때 패러데이 새장이 형성되서 대부분의 에너지를 분산시켜.	When you got hit by that arc, your outfit formed a Faraday cage by itself and conducted most of the power away from you.	
+155	N/A@爱衣	不过那一发的能量实在不小，已经超出衣服的设计承载极限，你还是被打晕过去了。	不過那一發的能量實在不小，超出衣服設計的承受限制，所以妳還是暈過去了。		하지만 그 에너지가 옷에 설계된 능력을 초과하는 바람에 네가 쓰러진 거야.	Still, that weapon was pretty powerful and the outfit wasn't able to absorb it all. That's why you got knocked out anyway.	
+156	索娅	原来拉斐尔给你的宝石是这么用的啊……还好没让你咽下去。	原來拉斐爾給妳的寶石要這樣用啊，還好沒讓妳吞下去。		라파엘이 준 보석이 이렇게 쓰일 줄이야……네가 삼키지 않아서 다행이야.	So that's how Raphilia's gem is supposed be used... luckily I didn't force you to swallow it.	
+157	小怜	你要对失去意识的我做什么？！	妳剛剛對失去意識的我做了什麼？ ！		의식을 잃은 나한테 무슨 짓을 하려는 거야？！	W-wait, what did you do to me when I was unconscious?	
+158	N/A	虽然不知道那个什么笼子的原理，不过法拉第，谢谢你！	雖然不知道那個什麼什麼籠的原理，不過法拉第，謝謝你！		새장 같은 원리는 모르겠지만, 어쨌든 고마워, 패러데이!	I don't have the least idea what a Faraday cage is, but... thank you, Faraday, my bro!	
+159	小怜	刚才那些家伙到底是什么人──	剛才那些傢伙到底是誰──		방금 그 녀석들은 도대체 누구야──	Who were those guys anyway?	
+160	N/A	我瞥到了后车窗上的血迹。	我看到了噴濺在後車窗上的血跡。		나는 창 밖으로 혈흔을 힐끗 쳐다봤다.	I glance at the rear window and notice blood splattered all over it.	
+161	小怜	到底……发生了什么？	到底……發生了什麼事？		도대체……무슨 일이 일어난 거지？	Just... what happened?	
+162	N/A	一阵沉默之后，司机率先打破了尴尬的气氛。	一陣沉默之後，司機率先打破尷尬的氣氛。		침묵이 흐른 후 기사님이 어색한 분위기를 깼다.	Awkward silence. Then the driver finally speaks up.	
+163	N/A@司机	总之你没事就好。	總之，妳沒事就好。		어쨌든 무사해서 다행이야.	You're okay, that's what matters.	
+164	N/A@司机	啊，那个扫描的结果是不是已经出来了？	啊，那個掃描的結果是不是已經出來了？		아, 그 스캔 결과는 나왔습니까?	Ah, right. Aren't the results of the scan out already?	
+165	N/A@爱衣	我已经发到小怜的手机，但看起来似乎还需要进一步的分析。	嗯，我已經把資料傳給小憐了，看起來似乎還需要進一步的分析。		렌의 휴대폰으로 전송했어. 하지만 분석이 더 필요해.	I already sent them to Ren's phone. More analysis is required, though.	
+166	N/A	我连忙打开手机，看到一幅诡异的画面──	我連忙打開手機，看到一幅詭異的畫面──		나는 서둘러 휴대폰을 열고 기이한 화면을 봤다──	I immediately unlock my phone to see a bizarre image...	
+167	N/A@小怜	这是……	這是……		이건……	Is this...	
+168	N/A	三维空间内，无数纵横交错的小方格扭曲的交织在一起，似乎携带着相当大的信息量。	三維空間內，無數縱橫交錯的小方格扭曲地交織在一起，似乎包含著相當大的資訊。		3차원 공간 안, 뒤섞인 수많은 작은 격자가 뒤엉켜있다. 마치 상당한 정보량을 갖고 있는 것 같다.	In a three-dimensional space, countless tiny cubes are woven together in twisted forms. They seem to carry a huge amount of information...	
+169	N/A	索娅也凑了过来。	索婭也湊了過來。		소야도 화면을 본다.	Sonya leans over to see too.	
+170	N/A@索娅	看起来……像张立体画？	看起來……像張立體畫？		보기엔……입체화 같은데?	Looks like a 3D painting.	
+171	N/A@爱衣	画……	畫……		그림……	Painting...	
+172	N/A@爱衣	啊！我怎么没想到！	啊！ 我怎麼沒想到！		아! 왜 그 생각을 못했지?!	Ah! I should've known!	
+173	小怜	？	？		？	Huh?	
+174	N/A@爱衣	刚才一直是从数学层面分析那些曲线……	剛才一直是從數學層面分析那些曲線……		계속 수학 층면에서 그 곡선을 분석했어……	I was trying to analyze those curves with mathematics...	
+175	N/A@爱衣	但如果把每个方块都当做一个像素点的话──	如果把每個方塊都當做一個像素點的話──		하지만 만약 그 격자들을 픽셀이라고 생각하면──	But what if I treat every cube as a pixel instead...?	
+176	N/A	爱衣一阵忙活，很快我又收到一张她发来的图片。	愛衣一陣忙碌，很快地，我又收到一張她傳來的圖片。		아이가 분주히 움직인다. 곧바로 아이가 다른 이미지를 보냈다.	After a flurry of movement from Aya's side, we soon receive another image.	
+177	N/A@小怜	这个是──！！	這個是──！ ！		이건──！！	What’s this?	
+178	N/A	所罗门王和示巴女王，像极了那座教堂大门上的浮雕──	所羅門王和示巴女王，就像那座教堂大門上的浮雕──		솔로몬왕과 시바 여왕, 그 교회 대문에 있던 부조와 아주 닮았다──	King Solomon and the Queen of Sheba. Just like the carving I saw on the church door...	
+179	N/A@小怜	那艾尔加纳……	那艾爾加納……		그 셀라나가……	So... Elgana...	
+180	N/A	我和索娅对视了一眼，默契的点了点头。	我和索婭對看了一眼，有默契地點了點頭。		나는 소야와 눈을 맞추고 조용히 고개를 끄덕였다.	Sonya and I exchange glances and nod at the same time.	

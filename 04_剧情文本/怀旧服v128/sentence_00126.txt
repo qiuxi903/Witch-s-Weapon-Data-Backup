@@ -1,0 +1,4 @@
+﻿1	引导精灵	普攻分为[ff9c00]物理[-]和[ff9c00]魔法[-]两类属性	普攻分為[ff9c00]物理[-]和[ff9c00]魔法[-]兩類屬性	通常攻撃には[ff9c00]物理攻撃[-]と[ff9c00]魔法\n攻撃[-]の二種類があるの。	일반공격은 [ff9c00]물리[-]와 [ff9c00]마법[-], 두 가지 속성으로 구분돼.	Normal attacks fall into two categories—[ff9c00]physical[-] and [ff9c00]magic[-].	
+2	引导精灵	如果发现有些敌人打不动，可以试试看魔法攻击的兵器	如果發現有些敵人打不動，可以試試看魔法攻擊的兵器	攻撃が敵に効いていないと感じたら、魔法攻撃の兵器を試してみよう。	만약 공격할 수 없는 적이 있으면 마법 공격 병기를 사용해봐.	If you notice your physical attacks aren't effective against certain enemies, try and switch to magic attacks.	
+3	FocusTrigger	
+4	雾夕	雾夕的兵器[ff9c00]影御币[-]，拥有可观的魔攻属性。针对魔防强度不高的敌人，效果拔群！	[ff9c00]影御幣[-]受到宮比神的祝福，會將攻擊全部轉化為魔法屬性。	[ff9c00]影御幣[-]は宮比神の加護を受け、攻撃が魔法属性に転換されます。	[ff9c00]고헤이[-]가 신의 축복을 받아 공격이 모두 마법 속성으로 전환될 거예요.	[ff9c00]Shadow Gohei[-] is blessed by the goddess of dawn, allowing it to convert all your normal attacks' physical damage into magic damage.	

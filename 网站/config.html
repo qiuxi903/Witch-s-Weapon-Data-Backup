@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="no-js">
+<head><meta charset="UTF-8">
+<script>(function(){var d=document.documentElement;d.className="js";try{var t=localStorage.getItem("ww-theme");if(t==="light"){d.setAttribute("data-theme","light")}if(localStorage.getItem("ww-mini")==="1"){d.setAttribute("data-mini","1")}}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#07080b" media="(prefers-color-scheme:dark)">
+<meta name="theme-color" content="#faf9f7" media="(prefers-color-scheme:light)">
+<meta name="color-scheme" content="dark light">
+<title>配置表 · 魔女兵器收藏档案</title>
+<meta name="description" content="《魔女兵器》Witch's Weapon 停服游戏完整档案 —— 配置表">
+<link rel="icon" href="logo.png">
+<link rel="stylesheet" href="css/style.css">
+</head><body>
+<a class="skip" href="#main">跳到主要内容</a><aside class="side" id="side"><div class="side-scroll"><div class="side-hd"><img class="mini-logo" src="logo.png" alt="魔女兵器"><img class="side-logo" src="logo.png" alt="魔女兵器 Witch's Weapon"><div class="side-sub">Complete Game Archive<br>5 Regions · 2018–2024</div></div><nav class="side-nav" aria-label="主导航"><a href="index.html" title="首页"><span class="no">01</span><span class="lb">首页</span></a><a href="story.html" title="剧情"><span class="no">02</span><span class="lb">剧情</span><span class="ct">7 章</span></a><a href="characters.html" title="角色"><span class="no">03</span><span class="lb">角色</span><span class="ct">37</span></a><a href="art.html" title="美术"><span class="no">04</span><span class="lb">美术</span><span class="ct">7,424</span></a><a href="manga.html" title="四格漫画"><span class="no">05</span><span class="lb">四格漫画</span><span class="ct">45 篇</span></a><a href="audio.html" title="音频"><span class="no">06</span><span class="lb">音频</span><span class="ct">1,828</span></a><a href="video.html" title="视频"><span class="no">07</span><span class="lb">视频</span><span class="ct">26</span></a><a href="config.html" class="on" aria-current="page" title="配置表"><span class="no">08</span><span class="lb">配置表</span><span class="ct">5 服</span></a><a href="system.html" title="系统设计"><span class="no">09</span><span class="lb">系统设计</span></a><a href="news.html" title="官网公告"><span class="no">10</span><span class="lb">官网公告</span><span class="ct">102</span></a><a href="relics.html" title="开发遗迹"><span class="no">11</span><span class="lb">开发遗迹</span><span class="ct">1,184</span></a><a href="archive.html" title="全部文件"><span class="no">12</span><span class="lb">全部文件</span><span class="ct">44,196</span></a></nav><div class="side-ft"><button class="collapse-btn" id="collapseBtn" type="button" aria-expanded="true" aria-label="收起侧边栏"><span class="ar" id="collapseAr">«</span><span class="full">收起侧边栏</span></button><button class="theme-btn" id="themeBtn" type="button" aria-label="切换深浅色主题" aria-pressed="false"><span class="ic" id="themeIc">◑</span><span class="tx" id="themeTx">亮色模式</span></button></div></div></aside><div class="topbar"><img src="logo.png" alt="魔女兵器"><span class="sp"></span><button class="top-theme" id="topTheme" type="button" aria-label="切换深浅色主题" aria-pressed="false"><span id="topThemeIc">◑</span></button><button class="menu-btn" id="menuBtn" type="button" aria-label="打开导航" aria-expanded="false">目录</button></div>
+<div class="wrap">
+<main id="main">
+<header class="phead">
+<div class="kick">WITCH'S WEAPON / CONFIG</div>
+<h1>配置表</h1>
+<div class="en">CONFIG · 5 REGIONS · 238 TABLES</div>
+<div class="desc"><b>配置表</b>：5 个区服 · 共 238 张表 · 83,891 行 · 全部由客户端解密<br><b>用法</b>：顶部切换区服 · 左侧选表 · 右侧搜索（支持多关键词）· 表内可导出 CSV / JSON · 版本栏可打包下载整个区服</div>
+</header>
+
+<div class="cfg">
+<div class="cfg-top">
+  <div class="ver-bar" id="vbar" role="tablist" aria-label="选择区服版本"></div>
+  <div class="cfg-bar">
+    <label class="sr-only" for="q">搜索当前表</label>
+    <input id="q" type="search" placeholder="在当前表中搜索…">
+    <button type="button" id="clr">清除</button>
+    <span class="stat" id="stat"></span>
+  </div>
+  <div class="ver-note" id="vnote"></div>
+</div>
+<div class="cfg-body">
+  <div class="cfg-side">
+    <div class="cfg-side-h" id="sh">—</div>
+    <label class="sr-only" for="tq">筛选表名</label>
+    <input id="tq" type="search" placeholder="筛选表名…">
+    <div class="cfg-list" id="tl"></div>
+  </div>
+  <div class="cfg-main">
+    <div class="cfg-head">
+      <div>
+        <h2 class="sec" id="tn">选择左侧配置表</h2>
+        <div class="cnt" id="ti"></div>
+      </div>
+      <div class="dl" id="dl" hidden>
+        <button type="button" id="dlcsv" title="把当前显示的行导出为 CSV"></button>
+        <button type="button" id="dljson" title="导出为 JSON（含字段名）">JSON</button>
+      </div>
+    </div>
+    <div id="tw" class="tbl-wrap" style="max-height:calc(100vh - 200px)"></div>
+  </div>
+</div>
+</div>
+
+<style>
+.cfg{margin:calc(-1 * var(--s7)) calc(-1 * var(--s6)) 0}
+.cfg-top{border-bottom:1px solid var(--line);background:var(--surface);
+  padding:var(--s4) var(--s5) var(--s3);position:sticky;top:var(--nav-h);z-index:6}
+.ver-bar{display:flex;gap:8px;flex-wrap:wrap}
+.vtab{display:flex;align-items:center;gap:8px;padding:9px 15px;cursor:pointer;
+  background:var(--surface-2);border:1px solid var(--line);border-radius:var(--r-sm);
+  color:var(--text-2);font-size:14.5px;font-family:inherit;
+  transition:all var(--dur) var(--ease)}
+.vtab:hover{border-color:var(--line-2);color:var(--text);transform:translateY(-1px)}
+.vtab.on{background:var(--red-soft);border-color:var(--red);color:var(--text);font-weight:700}
+.vtab .vv{font-family:var(--mono);font-size:12.5px;color:var(--text-4)}
+.vtab.on .vv{color:var(--red-2)}
+.vtab .vk{font-size:11px;padding:2px 7px;border-radius:999px;letter-spacing:.04em}
+.vtab .k-official{background:rgba(31,111,120,.14);color:var(--cyan)}
+.vtab .k-community{background:var(--red-soft);color:var(--red-2)}
+html[data-theme="light"] .vtab .k-official{background:rgba(31,111,120,.12)}
+.vtab .vt{font-family:var(--mono);font-size:12px;color:var(--text-4)}
+.ver-note{margin-top:10px;font-size:13px;color:var(--text-4);line-height:1.6;
+  display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+.ver-note b{color:var(--text-2);font-weight:600}
+.ver-note .warn{color:var(--red-2)}
+.ver-note .zip{margin-left:auto;display:inline-flex;align-items:center;gap:7px;
+  padding:8px 16px;border:1px solid var(--line-2);border-radius:var(--r-sm);
+  color:var(--text-2);text-decoration:none;font-size:13px;white-space:nowrap;
+  transition:all var(--dur) var(--ease-2)}
+.ver-note .zip:hover{border-color:var(--red);color:var(--red-2);
+  background:var(--red-soft);transform:translateY(-1px)}
+.cfg-head{display:flex;justify-content:space-between;align-items:flex-start;
+  gap:var(--s4);flex-wrap:wrap}
+.cfg-head .cnt{margin-bottom:var(--s4)}
+.dl{display:flex;gap:8px;flex-shrink:0}
+.dl button{padding:9px 16px;background:var(--surface);border:1px solid var(--line-2);
+  border-radius:var(--r-sm);color:var(--text-2);cursor:pointer;font-size:13.5px;
+  font-family:inherit;transition:all var(--dur) var(--ease-2);white-space:nowrap}
+.dl button:hover{border-color:var(--red);color:var(--red-2);background:var(--red-soft)}
+.dl button:disabled{opacity:.5;cursor:default}
+.prog{padding:14px var(--s5);font-size:13px;color:var(--text-4);
+  font-family:var(--mono);border-top:1px solid var(--line)}
+.cfg-body{display:flex;gap:0;min-height:74vh}
+.cfg-side{width:310px;flex:0 0 310px;border-right:1px solid var(--line);
+  background:var(--surface);padding:var(--s5) 0;
+  max-height:calc(100vh - 260px);overflow-y:auto}
+.cfg-side-h{font-size:13px;color:var(--text-4);padding:0 var(--s5) var(--s4)}
+.cfg-side input{width:calc(100% - var(--s5) * 2);margin:0 var(--s5) var(--s4);
+  padding:10px 14px;background:var(--surface-2);border:1px solid var(--line);
+  border-radius:var(--r-sm);color:var(--text);font-size:14.5px;outline:none;
+  transition:border-color var(--dur),box-shadow var(--dur)}
+.cfg-side input:focus{border-color:var(--red);box-shadow:0 0 0 3px var(--red-soft)}
+.cfg-list{display:flex;flex-direction:column}
+.titem{display:flex;justify-content:space-between;gap:12px;align-items:center;
+  padding:10px var(--s5);cursor:pointer;font-size:14.5px;color:var(--text-2);
+  border:0;background:none;text-align:left;width:100%;border-left:3px solid transparent;
+  transition:all var(--dur) var(--ease);font-family:inherit}
+.titem:hover{background:var(--surface-2);color:var(--text)}
+.titem.on{background:var(--red-soft);color:var(--red-2);
+  border-left-color:var(--red);font-weight:700}
+.titem .tc{color:var(--text-4);font-size:12.5px;flex:0 0 auto;font-family:var(--mono)}
+.titem .tn{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.titem.hide{display:none}
+.cfg-main{flex:1;min-width:0;padding:var(--s5) var(--s6) 90px}
+.cfg-bar{display:flex;gap:var(--s3);align-items:center;margin-top:var(--s4);flex-wrap:wrap}
+.cfg-bar input{flex:1;min-width:220px;padding:12px 18px;background:var(--surface);
+  border:1px solid var(--line-2);border-radius:var(--r-sm);color:var(--text);
+  font-size:15px;outline:none;transition:border-color var(--dur),box-shadow var(--dur)}
+.cfg-bar input:focus{border-color:var(--red);box-shadow:0 0 0 3px var(--red-soft)}
+.cfg-bar button{padding:12px 22px;background:var(--surface);border:1px solid var(--line-2);
+  border-radius:var(--r-sm);color:var(--text-2);cursor:pointer;font-size:14px;
+  transition:all var(--dur) var(--ease-2);font-family:inherit}
+.cfg-bar button:hover{border-color:var(--red);color:var(--text);background:var(--surface-2)}
+.cfg-load{padding:80px 20px;text-align:center;color:var(--text-4);font-size:15px}
+.cfg-load .sp{display:inline-block;width:26px;height:26px;margin-bottom:16px;
+  border:2px solid var(--line-2);border-top-color:var(--red);border-radius:50%;
+  animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.cfg-load .sp{animation:none}}
+@media(max-width:900px){
+  .cfg{margin:calc(-1 * var(--s6)) calc(-1 * var(--s4)) 0}
+  .cfg-top{position:static;padding:var(--s4)}
+  .cfg-body{flex-direction:column}
+  .cfg-side{width:auto;flex:0 0 auto;position:static;max-height:240px;
+    border-right:0;border-bottom:1px solid var(--line)}
+  .cfg-main{padding:var(--s5) var(--s4) 70px}
+  .vtab{padding:8px 12px;font-size:13.5px}
+}
+</style>
+
+<script>
+var META = [{"slug":"huijiu","name":"怀旧服","ver":"v128","kind":"community","note":"社区服测试构建（witchweapon.wiki）· 含 19 处解锁等级改动","tables":83,"rows":23944,"zip":409326},{"slug":"guofu","name":"国服","ver":"v2.0.1","kind":"official","note":"官方 · 国服停服版本（2024-08-17）","tables":14,"rows":11772,"zip":248763},{"slug":"rifu","name":"日服","ver":"v2.0.0","kind":"official","note":"官方 · 日服（EXNOA / SUIKINREI）","tables":20,"rows":13907,"zip":291663},{"slug":"gangtai","name":"港澳台","ver":"v1.6.0","kind":"official","note":"官方 · 港澳台（LTgames）","tables":64,"rows":19343,"zip":348657},{"slug":"hanfu","name":"韩服","ver":"v1.0","kind":"official","note":"官方 · 韩服（Google Play）","tables":57,"rows":14925,"zip":289132}];
+var CUR = null, DATA = null, cur = 0, q = '';
+function esc2(s){return (s==null?'':String(s)).replace(/&/g,'&amp;')
+  .replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function hl(s,kws){
+  var o = esc2(s);
+  kws.forEach(function(k){
+    if(!k) return;
+    var e = k.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    o = o.replace(new RegExp('('+e+')','gi'),'<mark>$1</mark>');
+  });
+  return o;
+}
+function paintBar(){
+  var h = '';
+  META.forEach(function(m){
+    var k = m.kind === 'official' ? 'k-official' : 'k-community';
+    var kt = m.kind === 'official' ? '官方' : '社区';
+    h += '<button class="vtab' + (m.slug === CUR ? ' on' : '') + '" role="tab" '
+      + 'aria-selected="' + (m.slug === CUR) + '" data-v="' + m.slug + '">'
+      + '<span class="vn">' + esc2(m.name) + '</span>'
+      + '<span class="vv">' + esc2(m.ver) + '</span>'
+      + '<span class="vk ' + k + '">' + kt + '</span></button>';
+  });
+  document.getElementById('vbar').innerHTML = h;
+  document.querySelectorAll('.vtab').forEach(function(b){
+    b.onclick = function(){ pick(b.getAttribute('data-v')); };
+  });
+  var m = META.filter(function(x){ return x.slug === CUR; })[0];
+  if(m){
+    document.getElementById('vnote').innerHTML =
+      '<span><b>' + esc2(m.name + ' ' + m.ver) + '</b> · '
+      + m.tables + ' 张表 · ' + m.rows.toLocaleString() + ' 行</span>'
+      + '<span class="' + (m.kind === 'official' ? '' : 'warn') + '">'
+      + esc2(m.note) + '</span>'
+      + '<a class="zip" href="data/zip/' + m.slug + '.zip" download>'
+      + '⤓ 整个区服打包下载 ZIP · ' + (m.zip / 1048576).toFixed(1) + ' MB</a>';
+  }
+}
+function pick(slug){
+  if(slug === CUR && DATA) return;
+  CUR = slug;
+  paintBar();
+  DATA = null; cur = 0; q = '';
+  var qi = document.getElementById('q'); if(qi) qi.value = '';
+  document.getElementById('tl').innerHTML = '';
+  document.getElementById('tn').textContent = '载入中…';
+  document.getElementById('ti').textContent = '';
+  document.getElementById('sh').textContent = '—';
+  document.getElementById('tw').innerHTML =
+    '<div class="cfg-load"><div class="sp"></div><div>正在载入配置表…</div></div>';
+  load(slug);
+}
+function load(slug){
+  if(window.__CFG__ && window.__CFG__[slug]){ ready(window.__CFG__[slug]); return; }
+  var s = document.createElement('script');
+  s.src = 'data/cfg-' + slug + '.js';
+  s.onload = function(){
+    if(window.__CFG__ && window.__CFG__[slug]) ready(window.__CFG__[slug]);
+    else fail('数据文件为空');
+  };
+  s.onerror = function(){ fail('数据文件载入失败'); };
+  document.head.appendChild(s);
+}
+function fail(msg){
+  document.getElementById('tw').innerHTML =
+    '<div class="cfg-load">' + esc2(msg) + '</div>';
+  document.getElementById('tn').textContent = '载入失败';
+}
+function ready(d){
+  DATA = d;
+  var toc = '';
+  DATA.forEach(function(t, i){
+    toc += '<button class="titem" data-i="' + i + '">'
+      + '<span class="tn">' + esc2(t.n) + '</span>'
+      + '<span class="tc">' + t.d.length.toLocaleString() + '</span></button>';
+  });
+  document.getElementById('tl').innerHTML = toc;
+  document.getElementById('sh').textContent = '共 ' + DATA.length + ' 张表';
+  document.querySelectorAll('.titem').forEach(function(e){
+    e.onclick = function(){ sel(parseInt(e.getAttribute('data-i'), 10)); };
+  });
+  var tq = document.getElementById('tq');
+  tq.value = '';
+  tq.oninput = function(){
+    var k = tq.value.trim().toLowerCase();
+    document.querySelectorAll('.titem').forEach(function(e){
+      var t = e.querySelector('.tn').textContent.toLowerCase();
+      e.classList.toggle('hide', !!k && t.indexOf(k) === -1);
+    });
+  };
+  sel(0);
+}
+function sel(i){
+  cur = i; q = '';
+  var qi = document.getElementById('q'); if(qi) qi.value = '';
+  document.querySelectorAll('.titem').forEach(function(e,j){
+    e.classList.toggle('on', j === i);
+  });
+  var t = DATA[i];
+  document.getElementById('tn').textContent = t.n;
+  document.getElementById('ti').textContent = t.f.length + ' 列 · '
+    + t.d.length.toLocaleString() + ' 行';
+  render();
+}
+var VIEW = null, seq = 0;
+function render(){
+  var t = DATA[cur];
+  var kws = q.trim() ? q.trim().split(/\s+/).filter(Boolean) : [];
+  var rows = t.d;
+  if(kws.length){
+    rows = rows.filter(function(r){
+      var s = r.join('\u0001').toLowerCase();
+      return kws.every(function(k){ return s.indexOf(k.toLowerCase()) !== -1; });
+    });
+  }
+  VIEW = {t: t, rows: rows, kws: kws};
+  document.getElementById('stat').textContent = kws.length
+    ? ('匹配 ' + rows.length.toLocaleString() + ' / '
+       + t.d.length.toLocaleString() + ' 行')
+    : (rows.length.toLocaleString() + ' 行');
+  document.getElementById('dl').hidden = !rows.length;
+  document.getElementById('dlcsv').textContent =
+    '⤓ CSV' + (kws.length ? '（筛选后 ' + rows.length.toLocaleString() + ' 行）' : '');
+  var wrap = document.getElementById('tw');
+  var head = '<table><thead><tr><th>#</th>';
+  t.f.forEach(function(c){ head += '<th>' + esc2(c) + '</th>'; });
+  head += '</tr></thead>';
+  if(!rows.length){
+    wrap.innerHTML = head + '</table><div class="empty">' + (kws.length
+      ? '没有匹配的行，试试别的关键词'
+      : '这张表在客户端里只有表头，没有数据') + '</div>';
+    return;
+  }
+  wrap.innerHTML = head + '<tbody id="tb"></tbody></table>'
+    + '<div class="prog" id="prog" hidden></div>';
+  var tb = document.getElementById('tb'), prog = document.getElementById('prog');
+  var CH = 500, i = 0, mine = ++seq;
+  (function chunk(){
+    if(mine !== seq) return;                       // 已被新的渲染取代
+    var end = Math.min(i + CH, rows.length), buf = [];
+    for(; i < end; i++){
+      var r = rows[i];
+      buf.push('<tr><td class="idx">' + (i + 1) + '</td>');
+      for(var j = 0; j < t.f.length; j++){
+        buf.push('<td>' + hl(r[j], kws) + '</td>');
+      }
+      buf.push('</tr>');
+    }
+    tb.insertAdjacentHTML('beforeend', buf.join(''));
+    if(i < rows.length){
+      prog.hidden = false;
+      prog.textContent = '正在渲染 ' + i.toLocaleString() + ' / '
+        + rows.length.toLocaleString() + ' 行…';
+      requestAnimationFrame(chunk);
+    } else {
+      prog.hidden = true;
+    }
+  })();
+}
+function curName(){
+  var m = META.filter(function(x){ return x.slug === CUR; })[0];
+  return m ? (m.name + m.ver) : CUR;
+}
+function dlFile(name, text, mime){
+  var blob = new Blob([text], {type: mime});
+  var u = URL.createObjectURL(blob);
+  var a = document.createElement('a');
+  a.href = u; a.download = name; a.style.display = 'none';
+  document.body.appendChild(a); a.click();
+  setTimeout(function(){
+    URL.revokeObjectURL(u);
+    if(a.parentNode) a.parentNode.removeChild(a);
+  }, 1500);
+}
+function csvCell(c){
+  c = (c == null ? '' : String(c));
+  return /[",\r\n]/.test(c) ? '"' + c.replace(/"/g, '""') + '"' : c;
+}
+function doCSV(){
+  if(!VIEW) return;
+  var t = VIEW.t, out = [t.f].concat(VIEW.rows), s = [];
+  for(var i = 0; i < out.length; i++){
+    var r = out[i], line = [];
+    for(var j = 0; j < t.f.length; j++){ line.push(csvCell(r[j])); }
+    s.push(line.join(','));
+  }
+  dlFile(curName() + '_' + t.n + '.csv',
+         '\ufeff' + s.join('\r\n') + '\r\n', 'text/csv;charset=utf-8');
+}
+function doJSON(){
+  if(!VIEW) return;
+  var t = VIEW.t;
+  var objs = VIEW.rows.map(function(r){
+    var o = {};
+    t.f.forEach(function(k, j){ o[k || ('col' + (j + 1))] = r[j]; });
+    return o;
+  });
+  dlFile(curName() + '_' + t.n + '.json',
+         JSON.stringify({区服: curName(), 表: t.n, 列: t.f,
+                         行数: objs.length, 数据: objs}, null, 2),
+         'application/json;charset=utf-8');
+}
+(function(){
+  var qi = document.getElementById('q');
+  qi.addEventListener('input', function(){
+    q = qi.value;
+    clearTimeout(window._t);
+    window._t = setTimeout(render, 160);
+  });
+  document.getElementById('clr').onclick = function(){
+    qi.value = ''; q = ''; render(); qi.focus();
+  };
+  document.getElementById('dlcsv').onclick = doCSV;
+  document.getElementById('dljson').onclick = doJSON;
+  pick(META[0].slug);
+})();
+</script>
+
+</main>
+<footer><div class="foot-in">
+<b>《魔女兵器》 Witch's Weapon 收藏档案</b><br>
+游戏开发：北京水琴铃（WaterBell）· 日服发行：EXNOA LLC / SUIKINREI<br>
+国服已于 2024-08-17 停服 · 本档案仅供研究与保存用途，不作任何商业使用。
+</div></footer>
+</div>
+<button id="top" type="button" aria-label="返回顶部" title="返回顶部">↑</button>
+<script src="js/app.js"></script>
+</body></html>

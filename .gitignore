@@ -1,0 +1,32 @@
+# ============================================================
+# 原始媒体与安装包 —— 体积远超 GitHub 限制，不进仓库
+# 大文件见 Releases；说明见 README.md 的「数据分层」一节
+# ============================================================
+/01_安装包/
+/02_客户端解包/
+/06_美术素材/
+/07_音频资源/
+/08_视频资源/
+
+# 部署目录：可由 tools/deploy-assets.py + tools/deploy.py 重新生成
+/部署/
+
+# 第三方工具与二进制（ffmpeg / AssetStudio / Il2CppDumper）
+/tools/_bin/
+/tools/AssetStudioModCLI/
+/tools/Il2CppDumper/
+/tools/ghidra_proj/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 打包与临时产物
+*.skill
+/tools/_ascii_probe.json
+/tools/story_shot.png
+/tools/ww_dl_url.txt
+
+# 系统垃圾
+.DS_Store
+Thumbs.db

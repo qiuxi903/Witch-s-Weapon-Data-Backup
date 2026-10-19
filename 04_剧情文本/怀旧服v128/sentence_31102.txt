@@ -1,0 +1,116 @@
+﻿1	N/A	萨蒙顿辖内所属，巴黎西南郊外，伊夫林省。	薩蒙頓轄內所屬，巴黎西南郊外，伊夫林省。	──サモントン管轄所属。\n\nパリ西南郊外、イヴリーヌ県。		Yvelines, southeast of Paris (Salmonton)	
+2	N/A	凡尔赛宫历史博物馆。	凡爾賽宮歷史博物館。	ヴェルサイユ宮殿、歴史博物館。		Palace of Versailles	
+3	小怜	啊呜……	啊嗚……	あうぅ……		Boo-hoo...	
+4	N/A	小怜偷偷把讲解附近艺术品历史的导游耳机摘下来，一脸哭丧的扑向安妮。	小憐偷偷把講解附近藝術品歷史的導覽耳機摘下來，一臉哭喪地撲向安妮。	展示してある芸術品の歴史を説明してくれる\n音声ガイドヘッドフォンを密かに外した後、\n俺は涙目になりながらアニーにすがりついた。		Ren takes off her audio guide headphones and approaches Annie, sniffling.	
+5	小怜	安妮！\n我、我不行了……	安妮！\n我、我不行了……	アニー……\n\nお、俺はもうダメだ……		Annie!\nThis is too much for me...	
+6	小怜	什么路易十三十四十五……居然一直排到了十九！\n他们到底有多喜欢“路易”啊！！	什麼路易十三、十四、十五……居然一路排到十九！\n他們到底有多喜歡「路易」這名字啊！！	ルイ13、14、15……なんだよ！？\nなんで19までいるの！？\nあの人達は「ルイ」が大好きかよ！？		Louis XIII, Louis XIV... until Louis XIX??\nHow many "Louis" are enough for them?	
+7	N/A	一旁的安妮早已宕机，头顶冒出一股青烟，任由小怜摇晃。	一旁的安妮早已當機，頭頂冒出一股青煙，任由小憐搖晃。	そうやって俺はアニーを揺さぶったが、\n問いかけられた当人もオーバーヒート中だった。\n頭から青い煙を出しながら、俺の揺らすがままに\nガクガクと首が動いている。		Annie seems to be suffering from this trip herself.	
+8	安妮	是啊……而且无论背下多少年号和人名，只要睡上一觉都会被大脑自动删除呢……	是啊……而且無論背下多少年號和人名，只要睡一覺就會被大腦自動刪除呢……	そうだよね……\n\nわたしも頑張って年号や人名を暗記するけど、\n寝ると脳みそが自動的に削除するんだよね……		No matter how many names and events I memorize, my system automatically deletes them all after a night's sleep...	
+9	安妮	哈哈……这是身体的排异反应吧？	哈哈……這是身體的排異反應吧？	これが異物を排除して身体を守るメカニズムなの\nかな……？		I guess... my body is trying to reject them?	
+10	安妮	免疫系统将外来的有害物质排出体外，一定是这样的……	免疫系統會將外來的有害物質排出體外，一定是這個原因……	免疫系が外来有害物質である「ルイ」を\n排除するために……\nそうですよね……ソウデスヨネ……\nソウデスヨネ……ソウデスヨネ……		My "immune system" excretes harmful substances. That must be it...	
+11	小怜	安妮……安妮你不要坏掉啊！	安妮……安妮妳不要壞掉啊！	アニー……？ アニー！？\n俺より先に壊れないでくれぇ……！		Hello? Annie? You still with me?	
+12	N/A	这次『教学旅游』……	這次「校外教學」……	こんなのが「修学旅行」だなんて……		This "school excursion"...	
+13	N/A	和我们想象的，完全不一样啊啊啊！！！！	和我們想像的完全不一樣啊啊啊！！！！	俺達の想像した「修学旅行」と、まったく違う\nじゃないかッ！！！！		Is nothing like what we expected!!!	
+14	N/A	本以为只是找个借口大家出去旅游，没想到每到一个城市校方都会请当地名人和学者给我们讲课。	本來以為只是找個藉口讓大家出去郊遊，沒想到每到一個城市，校方都會請當地名人和學者為我們授課。	確かに修学だけどさ、普通は皆で旅行する\n口実じゃん？\nそれが街に移動するたびに、歴史上の有名人や\nその土地に関しての勉強をするなんてさ！？		I thought it's only an excuse for us to get out and have fun! Turns out we have to listen to so many lectures wherever we go!	
+15	N/A	更过分的是，听课和参观都要写报告，行程结束后会把所有的报告编纂成书，派发全校，永久存档。	更過分的是，聽課和參觀後都要寫報告，行程結束後還會把所有的報告編纂成冊，並發給全校，永久存檔。	さらに受けた授業や見学のレポート提出が\n必須だなんて……\n旅行が終わったら、全てのレポートは編集されて\n全生徒に配られる上、永久に保存するのだとか。		And as if that's not enough, we have to write reports for every lecture and museum visit! The school will compile them into a book and archive it for everyone else to read!	
+16	N/A	这（对我与安妮而言）和游街示众有什么区别！！\n精英教育这么可怕的吗？！	這（對我和安妮而言）和遊街示眾有什麼差別！！\n精英教育這麼可怕的嗎？！	そんなの俺らにとって市中引き回しからの\n公開処刑じゃん！！\nエリート教育ってこんなに恐ろしいのかっ！？		It's public humiliation for me and Annie!\nElite education sucks!!!	
+17	N/A	怪不得莉琉问都没问就在监护人同意书上签了字！	怪不得莉琉連問都沒問，就在監護人同意書上簽了字！	マリルが何も言わず、旅行用の保護者同意書に\n勝手にサインしていた理由が分かったよ……		No wonder Mariru signed off on the parental consent form without even asking questions!	
+18	N/A	而且不知为何，这次萨蒙顿的接待规格异常之高。	而且不知為何，這次薩蒙頓的接待規格異常地高。	周囲を見る限り、俺達はサモントンから\n相当VIP扱いされてる可能性が高いし……		Also, for some reason, Salmonton has been giving this school excursion special treatment.	
+19	N/A	今天凡尔赛宫历史博物馆居然被我们包场，不对一般游客开放。	今天凡爾賽宮歷史博物館居然被我們包場，不對一般遊客開放。	本日なんと、俺達の今いるヴェルサイユ宮殿は\n貸切状態なのだ。\n一般の観光客は入場禁止となっている。		Today, for example, they left the entire Palace of Versailles to us! No other tourist can come in!	
+20	N/A	此时，这座全世界最大的单体建筑宫殿里，只有御樱川高一年级的学生在三三两两的结伴参观。	此時，這座全世界最大的獨棟建築宮殿裡，只有御櫻川高校一年級的學生三三兩兩地結伴參觀。	この世界最大の単体建築宮殿内に、三々五々で\n見学する御桜川高校一年生達しかいない状況……\n……普通は有り得ないよな？		At this moment, there are only a few freshmen from Gosakuragawa High School in this gigantic museum.	
+21	N/A	美术社的女生甚至悠闲的架起了画板现场写生……	美術社的女生甚至悠閒地架起了畫板現場寫生……	おいおい……あそこの美術部所属の女子とか、\n画板を持ち出して悠々と写生してるぞ……		Some girls from the art club are even drawing sketches...	
+22	N/A	而在画廊的某个角落，两个笨蛋正相拥而泣──	而在畫廊的某個角落，兩個笨蛋正相擁而泣──	そして画廊の一角には、この状況を愚痴り合う\n1組の馬と鹿がいるわけである……		And, of course, two poor girls are hugging each other and crying in the corner.	
+23	安妮	那个……小怜……	那個……小憐……	レンちゃん……あのさ……		Well, Ren…	
+24	安妮	你说咱们能不能……找两本导游小册子，参观报告就“借鉴”一下……	妳覺得我們……找兩本導遊手冊，參觀報告就從中「參考」一下，這樣好不好……	ガイドブックとか使って、レポートの「参考」に\nするのはどうかな……？		Maybe we could get a couple of museum brochures and "borrow" something from them...	
+25	小怜	好哇好哇，昨天咱们不是拿了几本，就放在酒店茶几上……	好哇好哇，昨天我們不是拿了幾本，就放在飯店茶几上……	いい、いいね！ \nそういえば昨日も何冊か取っといたよ。\n今ホテルの机に置いてて……		Sounds like a plan! Didn't we take some from the hotel yesterday?	
+26	安妮	笨蛋！那个是卢浮宫的啦。	笨蛋！那個是羅浮宮的啦。	違うよ……あれはルーヴル美術館のやつだよ……		Those are for the Louvre! You dumb!	
+27	N/A@？？？	喂，女装癖~	喂，女裝癖～	ふん、まったく……\n相変わらずのようね、女装癖。		Hey, weirdo!	
+28	N/A	背后突然传来熟悉的声音，我吓得浑身一激灵。	背後突然傳來熟悉的聲音，我嚇得渾身直打哆嗦。	天敵が近付いてるのを察知したミーアキャットの\nように、すぐさま俺の背筋がピンと伸びた。		This familiar voice sends chills down my spine...	
+29	N/A	就像察觉到天敌接近的狐獴般，我瞬间挺直了身体。	就像察覺到天敵接近的狐獴般，我瞬間挺直了身體。	背後から聞き覚えがある声……\nこの声は…………		I immediately stand straight.	
+30	小怜	拉斐尔！？	拉斐爾！？	ラファエル！？		Raphilia?!	
+31	小怜	你……是二年级吧？\n怎么在一年级的──	妳……是二年級吧？\n怎麼在一年級的──	あれ、確か君は……2年生だよな？\nなんで1年の――		Aren't you a sophomore?\nWhy are you with us freshmen here?	
+32	N/A	话说到一半我忽然意识到，这位可是萨蒙顿总督的孙女，这种地方大概像她家后院一样吧。	話才說一半，我就忽然意識到，這位可是薩蒙頓總督的孫女，這種地方大概像她家後院一樣吧。	話している途中で思い出した。\n彼女はサモントン総督の孫娘じゃないか。\nこんな場所ですら、彼女にとって自宅の庭\nみたいなモノなんだろう……		Then I realize, as the granddaughter of the governor of Salmonton, this place is probably like her backyard.	
+33	拉斐尔	我回来看望爷爷，顺便帮海因里希找点东西……\n听说你们今天来参观就过来玩玩咯~	我回來探望爺爺，順便幫海因理希找點東西……\n聽說你們今天來參觀，就過來玩玩囉～	お爺様のお見舞いとハインリッヒの探し物の\nために戻ったのよ。\nそしたら丁度あんた達がここにいるって聞いて、\nついでに様子を見に来てあげたってわけ。		I came back to visit my grandpa. Also, I need to find something for Henriette.\nThen I heard you're here today, so I came to find you guys.	
+34	N/A	果然是自家后院！	果然是自家後院！	本当に自宅の庭みたいだな、おいっ！		Her backyard, indeed!	
+35	安妮	诶，那今天凡尔赛宫突然决定不对外开放难道……	欸，那今天凡爾賽宮突然決定不對外開放，難道是……	え～っと じゃあ、もしかして……\n今のヴェルサイユ宮殿の貸切状態も……		So, they decided to close the Palace of Versailles today...	
+36	拉斐尔	是爷爷不想让媒体来打扰我吧~	是爺爺不想讓媒體來打擾我吧～	きっとマスコミが私の邪魔をしないように、\nお爺様が手配しているのでしょうね。		Probably because my grandpa doesn't want the press to bother me...	
+37	N/A	拉斐尔耸耸肩，无奈的笑了笑。	拉斐爾聳聳肩，無奈地笑了笑。	ラファエルは肩をすくめて、戯れた事だと言わんばかりの表情で笑った。		Raphilia shrugs her shoulders, a wan smile on her face.	
+38	N/A	这位大小姐不久前因对宗教和移民问题的不当言论在国内引发的风波还没有平息吧。	這位大小姐不久前對宗教和移民問題的不當言論而在國內引發的風波，應該還沒有平息吧。	以前、このお嬢様がサモントンで巻き起こした\n『宗教と移民問題に関する不適切な発言』は、\n未だに落ち着いていないのだろうな……		That makes sense. Things haven't quieted down after this privileged young girl made her controversial comments on religion and immigration.	
+39	拉斐尔	对了，你们这几天怎么样？\n看着快被烤熟了似的……	對了，妳們這幾天怎麼樣？\n看起來快被烤焦了……	それで、どう？\nあんた達は修学旅行を満喫できてるのかしら？\n何やら、熱によって溶かされたバターみたいな\n顔をしてるけど。		Anyway, how've you been?\nThe weather too hot for you?	
+40	N/A	已经外焦里嫩了！	已經表面焦脆，內部細嫩了！	はい！ 知恵熱にやられてます！		That's the least of our worries.	
+41	拉斐尔	是不是觉得这里的历史厚重得承受不了，在琢磨怎么能让参观报告蒙混过关呢？	是不是覺得這裡的歷史厚重到受不了，在思考怎麼讓參觀報告蒙混過關呢？	どうやらここの重厚な歴史は、あんたの頭じゃ\n処理できていない様子ね？ \n今はどうやってレポートを誤魔化すか\n企んでるってところかしら？		Lemme guess. The history recorded here is too much of a burden for you? And you're figuring out how you can complete your report?	
+42	N/A	没错！	沒錯！	はい！ その通りでございます！		How did you know?	
+43	小怜	不是！没、没有啦……	不是！沒、沒有啦……	って、いや、その……違うって……		I mean, no! You guessed wrong!	
+44	N/A	我本能的想要辩解，安妮却拉了拉我的衣角，有些难为情的说道。	我本能地想要辯解，安妮卻拉了拉我的衣角，有些難為情地說道。	俺は本能的に弁解しようとしたが、\nアニーが俺の服を引っ張って止める。\nそして少々恥ずかしそうにラファエルへと\n声をかけた。		I try to deny the undeniable until Annie signals me to stop. She starts talking, a bit embarrassed.	
+45	安妮	拉斐尔……你是不是从小就很熟悉这种艺术品一大堆的地方呀？	拉斐爾……妳是不是從小就很熟悉這種藝術品一大堆的地方呀？	ラファエルってさ……\n幼い頃から芸術品とかに詳しいんだよね……？		Raphilia... You were raised in places like this, right? You must know a lot about these exquisite art pieces.	
+46	N/A	向来强悍的安妮居然露出一幅“拜托帮帮忙”的可怜神情。	向來強悍的安妮居然露出一副「拜託幫幫忙」的可憐表情。	「助けてください」と言わんばかりの表情。\n\nまさかアニーがこんな悲壮な声を絞り出す\nとは……		Annie has always been a tough girl, but now, she's almost begging for help.	
+47	N/A	等等，这种“妻子跟娘家借钱帮废柴老公还债”的颓废感是怎么回事……	等等，為什麼我有一種「妻子向娘家借錢幫廢柴老公還債」的窩囊感……	なんだろう、この心の痛み。\nまるで……\n「ヘタレな夫の借金返済のため、妻が実家から\n お金を貸してもらう」みたいな……		This is unprecedented...	
+48	拉斐尔	艺术品？	藝術品？	……芸術品？		Exquisite art pieces?	
+49	N/A	拉斐尔有些不解的看着我们。	拉斐爾滿臉疑惑地看著我們。	ラファエルは不思議な表情で俺達を見る。		Raphilia stares at us, confused.	
+50	拉斐尔	你们到底有没有听导游耳机的讲解啊……	妳們到底有沒有在聽導覽耳機的講解啊……	あんた達、音声ガイドの説明はどうしたのよ？\n聞いていないの？		Have you listened to your audio guide?	
+51	N/A	那东西早就摘掉了！	那東西早就摘掉了！	あんな呪文を垂れ流すようなヘッドホンは、\nとっくの昔に外してます！		I took my headphones off...	
+52	拉斐尔	凡尔赛宫在大革命时期被暴民洗劫过好几次，后来残余的艺术品也被运到卢浮宫去了。	凡爾賽宮在大革命時期被暴民洗劫過好幾次，後來剩下的藝術品也被運到羅浮宮去了。	フランス革命の際、ヴェルサイユ宮殿は幾度も\n暴徒に略奪されたわ。\n結果として、残った芸術品のほとんどは\nルーヴル美術館に移送された。		The Palace of Versailles was raided multiple times during the French Revolution. Whatever survived the raids has been moved to the Louvre.	
+53	拉斐尔	现在这里陈列的不是复制品就是没什么价值的便宜货，很多装修也是事后修复的。	現在這裡陳列的不是複製品就是沒什麼價值的便宜貨，很多整修也是事後才修復的。	今ここで展示されているのは、複製品とかの\n価値のない安物よ。\n多くの内装も事後に修繕された物ばかり。		Everything on display here is only duplicates or some cheap stuff. The decorations were also not the originals—they were repaired after the misfortunate accidents.	
+54	小怜	诶？	欸？	なっ！？		Eh?	
+55	拉斐尔	不过你们要是想看点特别的东西……	不過，妳們要是想看點特別的東西……	しかしまあ、ちょっと特別な物を見たいなら……		That said, if you're interested in seeing something special...	
+56	N/A	拉斐尔好像突然想到了什么，转身向东侧门廊的方向走去。	拉斐爾好像突然想到了什麼，轉身向東側門廊的方向走去。	ラファエルは何か思いついたようで、身を翻して\n東側の廊下へと歩き出す。		Something has crossed Raphilia's mind. She turns around and walks toward the east portico.	
+57	拉斐尔	跟我来~	跟我來～	──私についてきなさい。		Follow me!	
+58	N/A	……	……	……		...	
+59	N/A	我和安妮跟着拉斐尔穿过长长的走廊，来到一扇被隔离杆拦住的大门面前。	我和安妮跟著拉斐爾穿過長長的走廊，來到一扇被隔離桿圍住的大門面前。	俺とアニーはラファエルの後ろを付いていく。\n\n長い廊下を渡り終え、パーティションポールが\n置かれている大きな扉の前にたどり着いた。		Following Raphilia, Annie and I walk through the long corridor and arrive before a fenced gate.	
+60	小怜	这个……是禁止通行的意思吧？	這個……是禁止通行的意思吧？	これ……立入禁止って意味だよね……？		These fences. No entry, I assume?	
+61	拉斐尔	对呀~	對呀～	そうだけど？		For most people, yeah!	
+62	N/A	拉斐尔一边说一边旁若无人的把铜质隔离杆上的金属挂链摘了下来，熟练的推门走进房间。	拉斐爾一邊說著，一邊旁若無人地把銅質隔離桿上的金屬掛鏈摘了下來，熟練地推門走進房間。	ラファエルはそう言いながらも、平然とポールに\n掛かっていたチェーンを外し、\n扉を開けて部屋に入った。		Raphilia removes the lock on the fence, then pushes the gate open and enters the room.	
+63	小怜	诶？	欸？	なっ！？		...	
+64	N/A	进屋后她随手把挂链丢在椅子上，用鞋尖打开墙边的一个矮木柜，露出里面的电箱。	進去之後，她隨手把掛鏈丟在椅子上，用鞋尖打開牆邊的一個矮木櫃，露出裡面的電箱。	部屋内の椅子の上にポイっとチェーンを投げ、\n靴のつま先で壁際にある木製の戸棚を開く。\n中は配電ボックスのようだ。		She kicks open the wooden cabinet by the wall. A fuse box is stored inside.	
+65	N/A	拉斐尔蹲下来一口气把所有的电源全都拨开，昏暗的房间内顿时灯火通明，通风口也开始吹出冷气。	拉斐爾蹲下來一口氣把所有的電源全都撥開，昏暗的房間內頓時燈火通明，通風口也開始吹出冷氣。	しゃがみ込み、全ての電源を一気にオンへと\n切り替える。\n暗かった部屋は一瞬で明るくなって、\n通気口からも涼しい風が吹き込み始めた。		Raphilia squats down and turns on all the switches. Immediately, all the lights turn on, and cool air starts to come out from the vent.	
+66	N/A	然后她走到床边，抽出一把18世纪欧洲宫廷风格的蕾丝面女士手扇，一边扇一边抱怨──	然後她走到床邊，抽出一把18世紀歐洲宮廷風格的蕾絲面女用扇子，一邊搧一邊抱怨──	彼女は部屋にあったベッドの傍に移動すると、\nどこからともなく18世紀ヨーロッパ宮廷風の\n女性用レース扇子を取り出し、扇ぎながら\n文句を言い始めた――		She's not done yet. She goes to the bed and takes out a lace fan that looks straight out of 18th century Europe, then uses it to cool herself down while complaining—	
+67	拉斐尔	真是热死了……	真是熱死了……	本当に暑いわね……		It's so hot...	
+68	拉斐尔	凡尔赛宫的房间通风特别差，真不知道没有空调的时候，那些住在这里贵族是怎么活过夏天的。	凡爾賽宮的房間通風特別差，真不知道沒有空調的時候，那些住在這裡的貴族是怎麼活過夏天的。	ヴェルサイユ宮殿の部屋って通気性が悪いのよ。\n\nエアコンのない時代に、ここに住んでいた貴族は\nどうやって夏を耐え忍んだのかしらね？		The ventilation system in the Palace of Versailles is just terrible. I wonder how those nobles who lived here survived their summers.	
+69	N/A	我和安妮目瞪口呆的看着拉斐尔一连套操作，不知该从哪一步开始吐槽。	我和安妮目瞪口呆地看著拉斐爾一連串動作，不知該從哪一步開始吐槽。	などと聞かれても、あまりにもツッコミどころが\n多すぎて言葉が出ない。\n俺とアニーは( ﾟдﾟ)とラファエルの一連の動作を\n見るしかできなかった。		Annie and I are just looking at her, not knowing where to start...	
+70	安妮	额……	額……	えっと……		Ugh...	
+71	小怜	那、那个……	那、那個……	あ、あの……		Well...	
+72	N/A	博物馆的管理员不会报警吗？\n我们是不是在做什么不得了的事情啊？！	博物館的管理員不會報警嗎？\n我們是不是在做什麼不得了的事情啊？！	は、博物館の管理人が警察に通報とか\nしないよな！？\n何か俺達とんでもない事をやってる気がする！？		Are you sure the museum curators won't call the police?\nI'm pretty what we're doing here isn't allowed...	
+73	拉斐尔	没事你们随便坐，这里的家具都是现代材料仿造的复制品，真品都锁在卢浮宫地库里呢。	沒事，妳們隨便坐。這裡的傢俱都是現代材料仿造的複製品，真品都鎖在羅浮宮地窖裡呢。	安心なさい、適当に座っても大丈夫よ。\nこの部屋の家具は、現代素材で作られた複製品。\n本物はルーヴル美術館の地下室に保管されて\nいるわ。		Don't worry! The furniture here is all cheap duplicates. The real ones are locked in the basement of the Louvre.	
+74	拉斐尔	几年前勒沃库森泄露事故的时候，我和家里人来这边住过几个月，当时我就睡在这个房间。	幾年前勒沃庫森外洩事件發生時，我和家人來這邊住過幾個月，當時我就睡在這個房間。	数年前のレーヴァークーゼン漏洩事故の時、\n家族と共に何か月間か住んだ事があるのよ。\n当時、私が使用していたのがこの部屋。		A few year ago, when the leakage incident happened in Leverkusen, my family all came here and stayed for several months. I used this room as my bedroom.	
+75	小怜	那次生化原料泄露？我似乎有印象……	那次生化原料外洩？我似乎有印象……	あの化学原料の漏洩事故？ 俺も覚えてるぞ……		I remember that... The biochemical material leakage...	
+76	N/A	当时国际新闻轮番播报了好几周，而事故后续莱茵河的清理工作持续数年之久。	當時國際新聞輪番播報了好幾週，而且事件發生之後，萊茵河的清理工作持續了好幾年。	当時は国際新聞で何週間も取り上げられていた。\n\n事故の後、ライン川の浄化作業には数年を\n要したみたいだ。		It stayed on the international news cycle for many weeks. The following cleanups of the Rhine lasted for years!	
+77	拉斐尔	嘛……至少官方说法是那样的~	嘛……至少官方說法是那樣～	まあ……少なくとも、公式上ではそうなってる\nわね。		That's the official story. Yes.	
+78	拉斐尔	总之，这里一直是凡尔赛宫的主卧，最早就是由那个家伙设计建造的。	總之，這裡一直是凡爾賽宮的主臥室，最早就是由那個傢伙設計建造的。	ともかく、この部屋はヴェルサイユ宮殿の\n主寝室よ。\nそして最初にデザインしたのはアイツ。		Anyway, this used to be the main bedroom in the Palace of Versailles. It was originally built by that guy.	
+79	N/A	拉斐尔用下巴指了指壁炉上的人像油画，对我露出一个意味深长的微笑。	拉斐爾用下巴指了指壁爐上的人像油畫，對我露出一個意味深長的微笑。	ラファエルは壁炉の上の肖像油画を顎で指し、\n俺に向き直って意味深な笑みを浮かべた。		Raphilia uses her jaw to indicate the portrait on the fireplace, a perplexing smile on her face.	
+80	小怜	？	？	――？		?	
+81	拉斐尔	这个亲自为自己发明了高跟鞋，并在法国第一个带头穿丝袜的男人──	這個親自為自己發明了高跟鞋，並在法國第一個帶頭穿絲襪的男人──	背を高く見せるためにハイヒールを愛用し、\n\nフランス国内で率先してタイツを着た男──		The man who invented heeled shoes for himself and was the first man to wear stockings in France...	
+82	小怜	诶？好像安妮给我讲过……	咦？安妮好像跟我說過……	あっ……確かアニーから説明された気がする……		Annie seems to have told me about him...	
+83	安妮	是路易十四！	是路易十四！	ルイ14世でしょ！		Louis XIV!	
+84	N/A	安妮率先抢答得分，接着似乎想到了什么，也将目光投向我……	安妮率先搶答得分，接著似乎想到了什麼，也將目光投向我……	アニーが素早く答えた。\n\n答えてから、何かを察したように俺の事を\nラファエルと一緒に見つめてくる……		Annie beats me to it with the answer. Then, she realizes something and starts to look at me...	
+85	N/A	你你你们都看我干嘛？！\n我和这家伙没有半点共同点好吗！！！	妳妳妳們都看我幹嘛？！\n我和這傢伙沒有半點共同點好嗎！！！	ななな、なんだよ！\n俺とそいつに共通点なんて一切ないからな！！		Why are you both looking at me?\nI have nothing in common with that guy!	
+86	N/A	我不自在的扯了扯腿上的黑色过膝袜，还好这双玛丽珍皮鞋的后跟没那么高……	我不自在地扯了扯腿上的黑色過膝襪，還好這雙瑪麗珍皮鞋的後跟沒那麼高……	俺は狼狽えながら黒色のニーハイを引っ張る。\n\n履いているのはメリージェーンのヒールだけど、\nかかとが高いヤツじゃなくて良かった……		I can't help but touch my knee socks. Fortunately, the Mary Jane shoes I'm wearing today don't have very high heels...	
+87	小怜	所、所所以这房间里全都是仿造品吗？	所、所以，這房間裡全都是仿造品嗎？	い、いい、いまはルイなんとかの部屋じゃなくて\nラファエルの部屋ってわけか！\nこの部屋にある物は全部模造品って感じで！		So, are you saying everything in this room is a duplicate?	
+88	N/A	我生硬的岔开话题，假装在仔细研究书架上的工艺品。	我生硬地岔開話題，假裝在仔細研究書架上的工藝品。	俺は本棚の上にある工芸品を観察するふりをして\n強引に話題を逸らした。		I try to change the subject and pretend to study the art crafts on the shelves.	
+89	N/A	拉斐尔看着我羞红的脸，满意的清了清嗓子，开启了一本正经的授课模式。	拉斐爾看著我羞紅的臉，滿意地清了清嗓子，開啟了一本正經的授課模式。	そんな俺の反応に大変ご満悦な様子の\nラファエルお嬢様。\n満足したのか、彼女は「おほん」と咳払いをして\n授業モードへと切り替える。		Raphilia clears her throat, then starts her lecture.	
+90	N/A@拉斐尔	法贝热彩蛋──150年前俄国珠宝大师法贝热打造的珠宝艺术中的经典之作。	法貝熱彩蛋──150年前俄國珠寶大師法貝熱的珠寶藝術中的經典之作。	インペリアル・イースター・エッグって\n知ってるかしら？\n150年前、ロシアの金細工師ファベルジェよって\n製作された宝石装飾芸術のクラッシック作品。		Fabergé Eggs—the masterpiece of Peter Carl Fabergé, the famous Russian jeweler from 150 years ago.	
+91	N/A@拉斐尔	文献记载法贝热一生共制作了69颗彩蛋，现在随便一颗都能拍卖出过亿的高价。	文獻記載法貝熱一生共製作了69顆彩蛋，現在隨便一顆都能拍賣出過億的高價。	文献によると、ファベルジェは合計69個だけ\nイースター・エッグを製作したらしいわ。\nとても希少で価値も高く、1つだけでも\n軽く億を超える代物よ。		It's recorded that Fabergé made a total of 69 easter eggs. Any one of them is worth hundreds of millions today.	
+92	N/A@拉斐尔	而有一只隐藏彩蛋，是1887年德、俄两国签订再保险条约后，沙皇为向威廉一世示好特意打造的。	而有一顆隱藏彩蛋，是1887年德、俄兩國簽訂再保險條約後，沙皇為了向威廉一世示好而特地打造的。	そんな69個だけど、実は公式記録に記載がない\n秘密のイースター・エッグが存在する。\n1886年独露再保障条約の締結後、ツァーリが\nヴィルヘルム1世に対して贈った特別な品よ。		What most people don't know is that there's a 70th egg. It was made in 1887, right after the Reinsurance Treaty was signed between Germany and Russia.	
+93	N/A@拉斐尔	由于是为两国达成秘约打造的礼物，这个彩蛋从未被法贝热的团队记录在案。	由於是為兩國達成祕約而打造的禮物，這顆彩蛋從未被法貝熱的團隊記錄在案。	秘密条約の締結を祝うための贈答品だから、\nもちろんファベルジェの工房による記録では、\n存在していない事になっているわ。		It was never recorded as both countries wanted to keep a secret about the treaty.	
+94	N/A@拉斐尔	而那未被记录的第70颗隐藏彩蛋，现在就在──	而那未列入記錄的第70顆隱藏彩蛋，現在就在──	ねえ、そんな類を見ないほどの希少価値を\n秘めている代物が今はどこにあると思う？\n「70個目のイースター・エッグ」は────		As for where the 70th egg is now?	
+95	N/A	拉斐尔的话说到一半忽然卡住了，满脸惊异的看着我。	拉斐爾話說到一半忽然頓住，滿臉驚恐地看著我。	いきなり話を途中で止めるラファエル。\n\n驚愕の表情で俺を見つめている。		Raphilia doesn't finish her sentence. Instead, she stares at me, surprised.	
+96	安妮	就在……？	就在……？	今は……？		Yeah, where is it?	
+97	小怜	嗯？	嗯？	──うん？		Huh?	
+98	拉斐尔	就在你手上拿着呢！！！	就拿在妳手上呢！！！	あんたの手の中よッ！！！		You're holding it!	
+99	小怜	哈？	啊？	はぅぇッ！？！？！？		What?	
+100	N/A	我在这全是赝品的房间里随便拿起来的小玩意居然是惟一的真货吗？！	我在這全是贗品的房間裡隨手拿起來的小玩意，居然是唯一的真貨嗎？！	適当に持ち上げてみただけなんだけど、\nこのオモチャみたいなのがッ！？\n偽物だらけの部屋の中で、唯一の本物を\n引き当てたっていうのかよ俺ッ！？		Amongst all the duplicates in this entire room, the one item I accidentally picked up is the real deal?	
+101	小怜	──啊啊啊啊哇！！！	──啊啊啊啊哇！！！	――おわッ！！おわわわッ！！！		OMG!!!	
+102	N/A	激动之下我捏着彩蛋的手指一发力，那东西“嗖”的飞了出去。	激動之下，我捏著彩蛋的手指也跟著用力，那顆蛋就「咻」地飛了出去。	突如の緊張に思わず力が入ってしまう。\n\n指の中から、エッグが「シュルンッ」と\n空中に飛び出してしまった。		I flip out, somehow squeezing the egg out of my hand.	
+103	N/A	我赶忙伸出双手去接，却像打排球一样把彩蛋托得更高了！！	我急忙伸出雙手去接，卻像打排球一樣把彩蛋托得更高了！！	慌てて両手で受け止めようとしたが、\nバレーボールのレシーブみたいになり──\nエッグはさらに高いところに飛んでいく。		I reach both my hands out to try and catch it. Unfortunately, I end up hitting it even higher, almost as though I'm playing volleyball...	
+104	N/A	见状我立刻改换策略，想用手从两侧接住彩蛋，但左手不争气的比右手慢了半拍……	看這情形，我立刻改變策略，想用手從兩側接住彩蛋，但左手不爭氣地比右手慢了半拍……	作戦変更だ。俺は合掌するように両側から\nエッグを掴もうとする。\nだが、あいにく左手が右手より少し遅かった……		I try to change my strategy by catching the egg from the sides, but my left hand is always a bit slower than my right hand...	
+105	N/A	啪──	啪──	バシッ――――		Slap!	
+106	N/A	眼看下落中的彩蛋被我一巴掌扇了出去，径直飞向墙壁。	眼看墜落中的彩蛋被我一巴掌搧了出去，直接飛向牆壁。	落下中のエッグは俺の渾身のビンタを食らい\n吹き飛ぶ角度を横に変えて、壁へとぶつかった。		I slap the egg against the wall!	
+107	N/A	房间里所有人都石化了。	房間裡所有人都愣住了。	アニーとラファエルがいて、この状況と空気。\n非常に嫌なデジャブを感じる……		All three of us freeze.	
+108	N/A	惊诧、紧张、愤怒等复杂的情快速在拉斐尔的脸上变换，她刚才说这东西值多少钱来着？	驚詫、緊張、憤怒等複雜的情緒在拉斐爾的臉上快速變換著；她剛才說這東西價值多少錢呀？	驚愕と緊張を隠し切れず、今まで見た事のない\nぐらい奇怪な表情をしているラファエル。\nさっき彼女はお値段いくらって言ってたっけ？		Surprised, nervous, angry—every one of those feelings are present on Raphilia's face. How much did she say this egg is worth?	
+109	N/A	不关键了，反正把我卖了也赔不起……	不重要了，反正把我賣了也賠不起……	まあ、もういくらでも関係ないか。\n\nどうせ俺を売りに出しても足りないのだろう……		Doesn't matter now. I don't have that kind of money...	
+110	N/A	我绝望的两腿同时发力，打算最后拼死挣扎一下。	我絕望地兩腿同時用力，打算來個垂死掙扎。	絶望を目の前に、俺は最後の抵抗を見せようと\n両足に力を入れた。		I move both my legs at the same time, trying to fight my fate one last time...	
+111	N/A	却发现身体仿佛瞬间失去重量，双腿趁上半身没反应过来，在蹬地的反作用力下腾空而起──	卻發現身體有如瞬間失去重量，雙腿還沒等上半身反應過來，就在蹬地的反作用力下騰空而起──	……その瞬間、身体の重さが消えたように\n感じる。\n両足で力強く地面を蹴ると、身体が宙に\n浮いたのだ。		But I can't seem to control my upper body, even as my legs push up into a jump. As a result, I'm thrown into the air, heels over head—	
+112	小怜	欸──？？！	欸──？？！	えぇぇなんで――ッ！！？		What're you doing now?!	
+113	N/A	接着我整个人以这种倒栽葱的姿态，像被卷入台风的纸片般，狠狠的向墙壁拍了过去。	接著，我整個人就以這種倒栽蔥的姿勢，像被捲入龍捲風的紙片一般，狠狠地向牆壁甩了過去。	俺は台風に巻き込まれた紙切れのように\n吹き飛ばされる。\n上下が逆転し、逆立ちの体勢になって身体を\n壁に強くぶつけた。		There I am—charging toward the wall upside down.	
+114	N/A	嘭！！	砰！！	パァン――！！		Bang!	
+115	N/A	一声闷响过后，小怜的身体好似穿过了墙体般，消失得无影无踪。	一聲悶響過後，小憐的身體像穿過了牆體般，消失得無影無蹤。	低い音がした後、レンの身体はまるで壁を\nすり抜けたかのように消失する。		Suddenly, Ren disappears, almost as through she's penetrated the wall.	
+116	N/A	只留下那颗彩蛋落打着转，安稳的落在了地毯上。	只留下那顆彩蛋兀自打轉，安穩地落在地毯上。	そして例のエッグは無傷でカーペットの上に、\n回転しながら落ちてきた――		The egg, on the other hand, has fallen down the carpet, slow and easy.	

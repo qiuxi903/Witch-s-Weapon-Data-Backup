@@ -1,0 +1,144 @@
+﻿1	N/A	多亏短剑极低的后坐力和超高射速，弹匣内28发子弹在不到两秒的时间里被我倾斜一空。	多虧短劍極低的後座力和超高射速，彈匣內28發子彈不到兩秒就全部射出。	Vectorの極少の反動と超高速連射のおかげで、\n\nマガジン内に装填されていた28発の弾丸は\n2秒も経たずして撃ち尽くされた。	벡터 기관단총의 낮은 반동력과 빠른 사격속도 덕분에 탄창 안 28발을 모두 사용했다.	The reduced recoil and impressive speed of the KRISS Vector enable me to use up all twenty-eight bullets in the magazine within two seconds.	
+2	N/A	随着“嘭”的一声，被我抛到空中的气凝胶喷罐在蜘蛛头顶炸开，大团的泡沫瞬间涌出。	隨著「轟」的一聲，被我拋到空中的氣凝膠噴罐在蜘蛛頭頂炸開，瞬間湧出大量泡沫。	「ポン」といった音に伴い、空中に投げられた\nエアロゲルスプレーが蜘蛛の頭上で爆発し、\n大量の泡が瞬く間に溢れ出る。	“펑”소리와 함께 젤라틴 깡통이 거미 머리 위에 터지며 거품이 쏟아져나온다.	With a bang, the aerogel spray canister explodes on top of the spider, covering it with a lavish amount of foam.	
+3	N/A	泡沫落在那东西的躯干和八条机械腿上，迅速与空气反应并变色膨胀，就像凭空长出的一团团肉瘤。	泡沫落在牠的軀幹和機械腿上，迅速與空氣產生反應並變色膨脹，就像憑空長出的一團團肉瘤。	泡はロボットの胴体と8本の脚を覆うように\n飛び散り、空気に反応して変色と膨張を始めた。\nまるで何もない場所から急に肉塊が現れたか\nのように──	거품이 몸통과 8개 다리에 붙어 빠른 속도로 변색되어 팽창한다.	The foam cascades down on the creature’s body and eight mechanical legs, changing color and puffing up once in contact with air. They look eerily like tumors.	
+4	N/A	短短几秒，机械蜘蛛的多数关节部位都被淡绿色的凝固团块牢牢锁死，动弹不得。	短短幾秒，機械蜘蛛多個關節部位都被淡綠色的凝膠牢牢鎖死，動彈不得。	そして数秒後、ロボットの関節が薄緑色に固まり\n動かなくなる。	그 짧은 몇초 사이 거미의 다리가 녹색의 응고 덩어리에 의해 굳어버린다. 	Within seconds, most of the robot spider’s joints are stuck in place by light green congealed goo, rendering it immobile.	
+5	N/A	机体内部还在持续发出不甘的异响，似乎是驱动系统在做最后的挣扎。	機體內部持續發出不甘心的怪聲，像是驅動系統最後的掙扎。	機体内部の駆動系が必死に動作を促して\n不快な異音を響かせているが、\nもはや悪足掻きにしかなっていない。	기체 내부에서 괴상한 소리가 들린다. 구동 시스템이 최후의 발악을 하는 것 같다.	Whirring sounds can still be heard from inside its body, as if the system is struggling to set itself free.	
+6	N/A	法贝拉走到蜘蛛面前，拿出匕首对着它头顶依然闪烁着红光的探测器，用力刺了下去。	法貝拉走到機械蜘蛛面前並拿出匕首，對著牠頭頂依然閃爍著紅光的探測器，用力刺了下去。	ファビオラは動けなくなった蜘蛛によじのぼり\nナイフを取り出す。\nそして、頭部にあった赤く点滅する探査装置に\n突き刺した。	파비올라가 단검을 들고 깜빡이는 거미의 탐측기를 힘껏 찔러내린다.	Fabella strides in front of the spider and sticks a dagger into the sensor on its head, still blinking red.	
+7	N/A	匕首在加固的透明外罩上只刺入了三分之一，蜘蛛的头部抽搐般晃动了一下，全身颤抖得更厉害。	由於合金加固，匕首只刺進三分之一，蜘蛛抽搐晃動了一下，全身顫抖得更厲害了。	だが、強固な透明カバーに守られおりナイフの\n刃は3分の1のところまでしか刺さらなかった。\n蜘蛛の頭部がピクリと痙攣すると、さらに全身を\n震わせ始める。	다 찔리지도 않은 거미의 머리가 경련하듯 전신이 심하게 흔들린다.	Only one-thirds of the blade has gone into the fortified transparent cover when the spider’s head spasms and its body begins trembling like crazy.	
+8	法贝拉	去死──！！	去死吧──！ ！	死ね――ッ！！	죽어──！！	Die!	
+9	N/A	法贝拉转身对着匕首尾部一记侧踢，巨大的力道将刀身完全钉入蜘蛛头里。	法貝拉轉身對著匕首尾端一記側踢，巨大的力道將刀身完全釘進了蜘蛛腦袋。	ファビオラは振り向きざま、渾身の蹴りを\nナイフの柄に目掛けて放つ。\n凄まじい力によって、ナイフが蜘蛛の頭部に\n完全に突き刺さった。	파비올라가 단검의 끝부분을 발로 차 거대한 힘으로 거미의 머리에 밀어넣는다.	Fabella twirls around, round-house kicks at the tail of her dagger. The force pushes the whole blade into the spider’s head.	
+10	N/A	红点终于暗淡下来，机体彻底沉默。	紅點終於黯淡下來，機體一動也不動了。	間もなくして……\n赤く光っていたライトが暗くなる。\n機体が完全に機能停止した合図なのだろうか。	붉은 점이 드디어 꺼지고 기체가 완전히 멈췄다.	The blinking red light finally dims and the robot falls silent.	
+11	小怜	成、成功了？	成、成功……了？	……や、やったのかっ？	서, 성공인가?	D-did it work?	
+12	N/A	惊魂未定的我还紧握着冲锋枪，赶紧趁这个空档换好弹匣。	驚魂未定的我還緊握著衝鋒槍，於是把握這空檔換好新的彈匣。	未だ動揺中の俺はギュッと銃を握りしめて、\n警戒を続けた。\nファビオラが攻撃する間にマガジン交換も済ませ\nいつでも撃てる状態にしている。	아직 긴장한 나는 기관단총을 꽉 쥐고 신속히 탄창을 갈아끼웠다.	Terrified, I finally come back to my senses and realize that I’m still holding an ammo-less gun. I quickly reload it.	
+13	N/A	法贝拉和卡塞尔将机械蜘蛛推开，扶起被门板压住的培尔纳德。	法貝拉和卡塞爾將機體推開，扶起被車門壓住的培爾納德。	ファビオラとキャセールは蜘蛛を押し退け、\n下敷きになっているべルナドットを助け出した。	파비올라와 카셀이 기계 거미를 치우고 차문에 깔려있는 베르나드를 꺼낸다.	Fabella and Cassel shove the robot spider out of the way and help Pernard, who’s stuck under the car door, back to his feet.	
+14	莉娜	刚刚那究竟是什么东西？！	那到底是什麼東西啊？ ！	いまの奴は何よッ！？	아까 그건 도대체 뭐야？！	What the heck was that?	
+15	培尔纳德	虫巢……	蟲巢……	虫の巣だ……	벌레 소굴……	An insect colony...	
+16	N/A	培尔纳德背靠车坐在地上喘着粗气，看来他在刚才的搏斗中累得够呛。	培爾納德背靠著車子、坐在地上大口喘氣，看來他在剛才的搏鬥中累翻了。	べルナドットは車を背に、地面に腰を下ろして\n息を切らしていた。\nどうやら先ほどの戦いで体力をかなり消耗して\nしまったようだ。	베르나드가 몸을 기대고 거친 숨을 몰아쉰다. 격렬한 격투로 지쳐버린 모양이다.	Pernard sits, back to a car, panting in exhaustion.	
+17	罗素	那个不是早就被废弃的武器概念吗……	蟲巢？ 那不是早就被放棄的武器概念嗎？	そいつはとっくの昔にボツになった兵器の\nコンセプトじゃないのか……？	그건 버려진지 오래인 무기잖아……	Isn’t that kind of weapon long outdated?	
+18	莉娜	怎么回事……	什麼被放棄的武器概念？	どういう事……？	어떻게 된 거야……	What do you mean?	
+19	罗素	当时流行一种设计理念，即认为如果短期内无法让程序模拟经验丰富的士兵作战的话──	之前流行過一種設計理念，認為如果短期內無法讓AI模擬經驗豐富的士兵作戰──	昔に流行した兵器の設計理念だ。経験豊富な\n兵士の動きをプログラム学習させても、\n短期間で作戦に参加できる機械を作り出せないと\nすれば──	당시 단기간 내 프로그램이 경험이 풍부한 사병을 모방해 작전할 없을 때──	It was the trend for a while. The designers thought that if they couldn’t program robots to act like experienced soldiers...	
+20	罗素	那么就先让机器模拟行为模式简单得多的昆虫，进行集群式作战。	就先模仿行為模式較簡單的昆蟲，進行團體戰。	パターンの少ない昆虫の動きを学習させて、\n群れで単純な行動をできるようにすればいい。	움직임이 비교적 간단한 곤충을 모방해서 무리로 작전에 참여하는 것이 유행했어.	... then they’ll program them to act like insects and send them hunting in groups. Much easier that way.	
+21	罗素	后来由于某些原因这个概念被废弃了，但那玩意儿确实和网上流传的设计图很像。	後來由於某些原因，大家就放棄這個概念了，但那怪東西確實和先前網路上流傳的設計圖很像。	しかし理由は分からんが、このコンセプトは\n廃棄されたんだ。\nそこに転がっているのは、ネット上に落ちていた\n設計図と良く似ているが……	훗날 유행이 사라지긴 했지만 이건 인터넷에서 유행했던 설계도와 확실히 똑같아.	The trend was just a trend and was soon forgotten. But this spider... it does look similar to some of the blueprints I’ve seen online.	
+22	斯库尔德	因为新丰洲的『埃癸斯』系统向全世界显示了复杂AI的前景，于是投资者和研发资金纷纷转向。	是因為新豐洲的「埃癸斯」系統向全世界展現了複雜AI的廣大願景，所以投資者和研發資金都紛紛轉向了。	その理由は新豊洲の『イージス』システムが、\n全世界に複雑なAIの将来性を示したからよ。\nそれで投資家達の援助も打ち切られ、\n研究開発は凍結される事態に陥ってしまった。	신토요스의 『아이기스』의 복잡한 AI전망 때문에 투자자와 연구 자금이 등을 돌렸어.	The Aegis system developed by New Opulentia had shown the world what complicated things well-trained AI can do, and the investors and researchers soon forgot about these insect robots and delved into the development of AI weapons instead.	
+23	法贝拉	所以才有了『黄雀』这种东西吗……	所以後來才有「黃雀」這種東西嗎……	だから『イエローヘッド』みたいなモノが\n出来上がったのよ……	그래서 『스피누스』같은 게 탄생한 건가?	The Siskin, for example, is one.	
+24	N/A@小怜	（等等，集群……式作战？）	（嗯？ 等等，團體……戰？ ）	（待って、集団で……行動？）	（잠깐，무리……작전？）	(Wait... did he say... send them hunting in groups?)	
+25	N/A	我刚才好像听到了很不妙的字眼──	我好像聽到了不太妙的字眼──	俺は今、すごく不味い言葉に気付いてしまった\nような──	방금 심상치 않은 단어를 들은 것 같은데──	That’s bad news. Really bad news.	
+26	N/A@卡塞尔	靠，那边是怎么回事！	靠，那邊是怎樣！	くそったれ、何だあれはッ！？	으악，저쪽에 저게 뭐지?	Holy crap, what’s that?	
+27	N/A	我顺着卡塞尔手指的方向，看向昏暗的街道尽头。	我順著卡塞爾手指的方向，看向昏暗無光的街道盡頭。	俺はキャセールの指さす暗い道の先を見る。	카셀의 손가락 방향을 따라 어두컴컴한 길의 끝을 쳐다본다.	I follow Cassel’s gaze and look towards the end of the street, shrouded in darkness.	
+28	N/A	街道远处攒动着几十个小红点，红点背后蜘蛛形状的黑影比刚才袭击我们的那只体型小很多。	那裡有幾十個小紅點一閃一閃的，紅色光線後的蜘蛛形狀黑影比剛才那隻小很多。	遠くで10匹以上の小さな赤い点が蠢いている。\n\nそこから見える影は、さっき俺達を襲ってきた\nものより小型の蜘蛛だけど……	저 멀리 붉은 점이 떼로 몰려온다. 아까보다 훨씬 작은 거미 형태의 그림자다. 	Dozens of tiny red dots are moving towards us in a swarm. They belong to spiders much like the one we just killed, except much smaller.	
+29	N/A	那些蜘蛛就像是被某种信号所召唤，纷纷从两侧的楼上爬下。	它們好像受到某種東西召喚一樣，紛紛從兩側高樓的牆上爬下來。	……蜘蛛は何かの信号に呼び出されたかのように\n両サイドのビルから這い降りてきた。	거미들이 신호를 받아 소환된 것처럼 양측의 빌딩에서 길어내려온다.	They seem to have been attracted by some sort of signal. More are joining the fray, creeping down from atop skyscrapers.	
+30	N/A@小怜	果然──！	果然──！	やっぱりぃ――ッ！？	역시──！	I knew it...!	
+31	N/A	据说某些昆虫死亡后，会散发能吸引同类的气味。	據說某些昆蟲死亡後，會散發出吸引同類的費洛蒙。	昆虫の中には、死亡時に匂いを放出して\n同族を引き寄せようとする種も存在する。	곤충이 죽으면 동족들을 부르는 냄새를 발산한다고 들었다.	I heard that when some insects die, their bodies release a smell that attracts those of the same kind.	
+32	N/A	那种气味会吸引大量同类迅速聚集，并对袭击者展开猛烈的报复性攻击。	那種費洛蒙會引來大量同類迅速聚集，並對襲擊者展開猛烈的報復。	その匂いに引き寄せられた同族達は、\n襲撃者に対して猛烈な復讐を展開する。	냄새에 이끌려 모인 동족들은 사살자에게 복수성 공격을 퍼붓는다.	And those insects will do anything to avenge their fallen buddy.	
+33	N/A	只见红点越聚越多，靠近我们的第一波蜘蛛迅速朝这边扑来。	只見紅點越聚越多，第一波蜘蛛群已迅速向我們迎面撲來。	赤い点が次々と集まっていき、真っ先に集まった\n第一波の蜘蛛がこちらに飛びかかってきた。	점점 더 많아지는 붉은 점들이 우리를 향해 빠른 속도로 덮쳐온다.	More and more red dots are surging over. The first wave is almost upon us.	
+34	N/A	我们六人围成半弧形，将斯库尔德挡在后面。	我們六人圍成半圓形，將斯庫爾德擋在後面。	俺達6人は半円形状にスクルドを囲み、\n彼女をガードする。	우리 여섯명은 활 대형으로 서서 스쿨드의 뒤를 막았다. 	The six of us form an arc, shielding Skuld behind us.	
+35	培尔纳德	自由开火！！	全面開火！ ！	射撃開始ッ！！　各自の判断で良いッ！！	프리 파이어！！	Fire at will!	
+36	N/A	一只蜘蛛直接向我跳来，我立刻端枪射击。	一隻蜘蛛直接跳向我，我毫不客氣地持槍還擊。	1匹の蜘蛛が直接、俺に飛んできた。\n\n──すぐさま銃で反撃する。	한마리 거미가 날 향해 덤비자 곧바로 총을 들어 사격한다.	A spider leaps towards me, and I immediately shoot at it.	
+37	N/A	这些蜘蛛比刚才的那只小很多，而且护甲更薄，能被子弹直接击穿。	這批蜘蛛比剛才那隻小很多，而且護甲較薄，子彈可以直接擊穿。	さっきの奴よりは装甲も薄いみたいで、\n弾丸を撃ち込めば倒せはしている。	아까 그 거미보다 훨씬 작을 뿐더러 장갑도 얇아 총알이 그대로 관통해 버린다. 	These spiders are much smaller than the one we killed, their armor easily penetrable.	
+38	N/A	但这些小东西速度极快，还会时不时从四周高楼的窗户中冲出来。	但牠們速度很快，更討厭的是，還不斷地從四周高樓的窗戶中衝出來，根本打不完！	しかし、小ささを生かした動きは非常に素早く、\nビルの窓からも降ってきて攻撃が立体的だ。	거미 떼들이 빠른 속도로 끊임없이 주위 빌딩의 창문을 통해 기어나온다.	But they’re awfully fast, and they’re everywhere. More keep popping out from the windows of the surrounding buildings and scurrying down the walls.	
+39	莉娜	注意头顶！！	小心上面！ ！	頭上注意ッ！！	머리를 조심해！！	Look up!	
+40	N/A	莉娜抽出手枪打掉两只从我们旁边建筑顶部落下来的蜘蛛。	莉娜拔出槍，打飛了兩隻從我們旁邊建築頂部掉下的蜘蛛。	リナは拳銃で、建物から飛び出た蜘蛛を\n撃ち落とした。	리나가 총을 꺼내 옆 건물 꼭대기에서 떨어지는 거미 두마리를 쳐낸다.	Rina pulls out a revolver and takes down two spiders who have hopped out of a nearby window, aiming for our heads.	
+41	卡塞尔	怎么越打越多……\n我还剩两个弹匣！！	越打越多是怎樣啊……\n我只剩兩個彈匣！ ！	どんどん湧いてきやがる……\n俺のマガジンは残り2つだッ！！	계속해서 늘어나고 있어……\n탄창이 두개밖에 안 남았는데！！	Why are there so many of them?\nI have only two rounds left!	
+42	小怜	（我只剩最后一个了啊！）	（我只剩最後一個都沒哀了……）	（俺も最後の1つだよッ！！）	（난 마지막 하나라고！）	(And I have only one!)	
+43	培尔纳德	罗素，查查附近哪有没窗户的封闭式建筑──\n要有多个出入口的。	羅素，查查附近哪裡有沒窗戶的封閉建築──\n要有多個出入口的。	ラッセル。\n近くに窓のない閉鎖式の建物はあるか？\n出入口は複数あるのが望ましいが。	러셀，주위에 창문이 없는 밀폐형 건물을 찾아──\n출입구가 여러 개 있는	Russel, check if there are any window-less buildings around here—\nPreferrably one with multiple entrances.	
+44	罗素	没窗户的建筑……这里！\n附近有个两层的加固仓库，顶部可以上到天台。	沒窗戶的建築……找到了！ \n這附近有個兩層樓的加固倉庫，頂端還可以上到天台。	窓のない建物…………あった！\n\n近くに2階建ての補強倉庫がある。\nこれなら天井から屋上に登れるぞ。	창문이 없는 건물이라면……여기입니다！\n근처에 2층짜리 창고가 있습니다.	Window-less building... oh, there’s one!\nThere’s a two-story fortified warehouse in the area. Got a door to the roof too.	
+45	培尔纳德	就是它了！	好，就那裡了！	そいつだ。	바로 그거야!	Perfect.	
+46	培尔纳德	莉娜你先走，在建筑附近找合适的狙击位。	莉娜妳先走，先在那附近找適合狙擊的位置。	リナは先に行け。\n建物の近くで適切な狙撃ポイントを探せ。	리나는 먼저 이동한다. 건물 근처에서 적절한 사격 위치를 찾아!	Rina, you go first. Find somewhere you can snipe from near the building.	
+47	莉娜	是！	是！	了解。	네!	Yes!	
+48	培尔纳德	法贝拉，你带小队朝那转移。	法貝拉，妳帶小隊往那裡移動。	ファビオラ。\nお前は隊員達を連れてそこに行け。	파비올라，너는 부대를 이끌고 저쪽으로 이동한다.	Fabella, lead the squad in that direction.	
+49	法贝拉	好！	好！	分かった。	네!	Got it!	
+50	法贝拉	……我？	等等……是我帶？	──え、私……？\n\nなんで、ベルナドットが連れて行けば……？	……나？	... Wait, what about you?	
+51	N/A	培尔纳德从法贝拉身上扯走最后两枚手雷，并掀开黑色风衣的一侧。	培爾納德從法貝拉身上扯走最後的兩枚手榴彈，並掀開身上的黑色風衣。	べルナドットはファビオラの最後の手榴弾2つを\nポケットから抜き取る。\nそれから、黒いコートの片側をめくった。	베르나드가 파비올라의 몸에서 마지막 수류탄 2개를 꺼내고 검은색 재킷 한쪽을 벗는다.	Pernard tugs off the two remaining hand grenades from Fabella’s belt and lifts his black windbreaker.	
+52	N/A	这个身材高大的男人左侧肋骨下方裂开了一个大口子，暗红色的血液从伤口处正汩汩涌出。	這時大家才看到，這個身材高大的男人左側肋骨下方有個大傷口，暗紅色的血液從裂口處汩汩湧出。	左側の肋骨の下には……大きな傷口が見える。\n\n暗い色の血液が、止めどなく溢れ出ていた。	키가 큰 남자의 왼쪽 갈비뼈 아래 커다란 상처에서 붉은 혈액이 쏟아져 흐른다.	Under the stocky man’s left ribs, there is a gaping hole. Dark blood is still gushing out as he moves.	
+53	法贝拉	培尔纳德？！！	培爾納德？ ！！	べルナドット！！！	베르나드？！！	... Pernard?	
+54	培尔纳德	刚才那个大家伙真是有点难办……	剛才那個大傢伙真是有點難搞……	さっきのデカいやつは厳しかったぜ……	아까 그 녀석은 정말 힘든 상대였어……	That big guy just now really tore a hole out of me.	
+55	N/A	众人无言，在战场上这样的伤口往往意味着最糟的状况。	大家都默默無語；在戰場上，這樣嚴重的傷口往往意味著最糟的狀況。	──全員が無言になった。\n\nこのような傷は、戦場じゃなくとも最悪の状況を\n意味する。	전장에서 이런 상처는 종종 최악의 상황을 뜻한다. 	No one speaks. This is the worst situation one can encounter on the battlefield.	
+56	培尔纳德	我拖住它们，你们才有时间──	我拖住它們，你們才有時間──	俺は足手まといだ。\n\nだからここで時間を稼ごうって事よ──	내가 저것들을 막아야 너희들이 시간을 벌 수 있다──	I’ll hold them off. You go.	
+57	N/A	培尔纳德换上新弹匣，拍了拍法贝拉的肩膀。	培爾納德換上新彈匣，拍了拍法貝拉的肩膀。	べルナドットは新しいマガジンに交換して、\nファビオラの肩をポンポンと叩いた。	베르나드가 탄창을 갈고 파비올라의 어깨를 친다.	Pernard reloads his gun and pats Fabella on the shoulder.	
+58	培尔纳德	你带着小队立刻转移，这是命令！	妳帶著小隊立刻轉移陣地，這是命令！	お前は隊員達を率いて、すぐに移動しろ……\n\n……これは命令だッ！！	부대를 이끌고 즉각 이동해라. 이건 명령이야!	Lead the squad and go. This is an order!	
+59	N/A	培尔纳德转身向蜘蛛群方向丢出两枚手雷，然后开始快速射击。	培爾納德轉身往蜘蛛群丟出手榴彈，然後開始快速射擊。	言い終わるとべルナドットは振り返り、\n蜘蛛の群れに向かって手榴弾を投げ、\n断続的な射撃を開始した。	베르나드가 거미떼들을 향해 수류탄 두개를 던진 후 빠른 속도로 사격한다.	The man turns, tosses the two hand grenades at the horde of spiders, and begins firing frenziedly at them.	
+60	培尔纳德	你自己小心。	妳要好好保重了。	──気を付けろよ。	조심해라.	Take care.	
+61	N/A@法贝拉	……	……	…………	……	…	
+62	N/A@法贝拉	走……	走……	行く…………	가자……	Let’s go...	
+63	N/A	法贝拉低头背对着我们，身体微微颤抖。	法貝拉低頭背對著我們，身體微微顫抖。	ファビオラは俺達に背を向け、俯いたまま\n身体を震わせていた。	우릴 등지고 고개를 숙인 파비올라의 몸이 작게 떨린다. 	Fabella is shaking a little, head lowered, back towards us.	
+64	法贝拉	走！！	走！ ！	……行くわよッ！！	가자！！	Go!	
+65	N/A	她转过身来，眼神异常坚定。	下一秒，她轉過身來，眼神異常堅定。	振り返った彼女の瞳に、確固たる何かが見えた。	몸을 돌린 그녀의 눈빛이 심상치 않아 보인다.	She turns, eyes determined.	
+66	法贝拉	我们转移！！	我們走！ ！	これより移動するッ！！	이동한다！！	Move! Move!	
+67	N/A	……	……	…………	……	…	
+68	N/A	这个仓库就在附近一栋大厦的背后，我们顺着一楼的工业电梯升到二层库房。	這棟倉庫就在附近一棟大樓的後方。 我們順著一樓的工業電梯上到二樓庫房。	──その倉庫はビルの裏側に隠れるように\n存在していた。\n俺達は急いで貨物用エレベーターに乗り、\n2階の倉庫に上がる。	근처 빌딩 뒤에 창고가 있다. 우리는 1층의 엘리베이터를 타고 2층 창고실로 왔다.	The warehouse is located behind a nearby building. We take an industrial elevator to the storage rooms on the second floor.	
+69	N/A	此时远处稀疏的枪击声已经停止，大家都沉默不语。	此刻，遠處的槍擊聲戛然而止，大家一語不發。	遠くから聞こえていた銃声はすでに止んでいる。\n\n……全員が黙り込んだ。	이때 멀리서 흐미하게 들리던 총소리가 멈추고 모두가 말없이 침묵한다.	The spiders do not follow, too busy dealing with Pernard. We can no longer hear sounds of gunfire. It probably means that he’s already—	
+70	卡塞尔	头儿……	老大……	ボス……	대장……	Boss...	
+71	法贝拉	罗素，联系总部通知我们的位置呼叫支援，记得让他们带EMP炸弹。	羅素，將我們的位置通報給總部並要求支援，記得要他們帶著EMP炸彈。	ラッセル。\n本部に現在地を知らせて支援を要請しなさい。\nあとEMP爆弾を持参させるように。	러셀，총본부에 우리 위치를 알리고 지원 요청해. EMP폭탄도 잊지 말고.	Russel, contact the headquarters and give them our location. Tell the support troops to bring EMP bombs.	
+72	N/A	法贝拉眼中似乎有泪光在闪烁。	法貝拉眼裡似乎泛著淚光。	ファビオラの瞳には涙がきらめいている\nようだった。	파비올라의 눈가에 맺힌 눈물이 반짝거린다.	Fabella’s eyes are moist with unshed tears.	
+73	罗素	啊……啊是！	啊……啊，是！	あ……ああッ！！　分かった！	아……앗！	Y-yes, sir!	
+74	N/A	然后法贝拉利落的拿出手枪上膛，将枪口对准了我的头。	接著，她俐落地掏出手槍、上膛，然後將槍口對準我的頭。	感情的になりそうなのを抑え込んでいる様子だ。\nファビオラはゆっくりと拳銃を取り出す。\nそして素早くリロードを済ませると——\n\n銃口を俺の頭へと向けてきた。	파비올라가 빠르게 총알을 장전하고 내 머리를 겨눈다. 	Then, in a swift move, Fabella loads her gun and points the muzzle straight at me.	
+75	N/A@小怜	……诶？	……欸？	…………えっ？	……아？	... Eh?	
+76	N/A@法贝拉	你，究竟是谁？	妳到底是誰？	お前は、一体誰よ？	너 도대체 누구야?	Out with it. Who the hell are you?	
+77	N/A	法贝拉黑洞洞的枪口让我猝不及防，能感觉到自己的心跳在剧烈加速，汗也从我的额头渗了出来。	看著黑洞般的槍口，我能感覺到自己的心跳劇烈加速，額頭也滲出了汗水。	突然の事で防ぎようもなく、黒々とした銃口に\n俺は驚くばかり。\n心臓の鼓動が早まり、額から汗が滲むのを\n感じた。	파비올라의 총구에 를 막아낼 수 없다. 심장이 격렬하게 뛰고 식은땀이 흐른다.	I can hear my heart hammering in my chest. Feel sweat pouring down my forehead. I can hardly keep my gaze level and meet the dark muzzle in front of me.	
+78	N/A@法贝拉	腿上一点肌肉都没有，连找掩体都不会，你的素质不可能通过攻击队筛选。	雙腿一點肌肉都沒有，連找掩體都不會，依妳的素質絕對不可能通過篩選。	脚に筋肉もなければ、カバーポイントの探し方も\n分からない。\nお前のような人間がこの部隊の選考を通る\nなんて事があるはずがないわ。	다리에 근육도 없고 엄폐물도 못찾는 네가 공격대에 선발됐을리 없어. 	No muscles in your legs. Don’t even know how to find cover. Someone like you could never pass the selection for the squad.	
+79	N/A@法贝拉	我们身上都带着敌我识别装置，『黄雀』居然没做出任何攻击，是因为怕误伤你这个“友军”吧？	我們身上都帶著敵我識別裝置，「黃雀」卻沒做出任何攻擊，是因為怕誤傷妳這個「友軍」吧？	私達全員は敵味方を識別できる装置を\n身に着けてるけど……\nさっきの『イエローヘッド』が攻撃を仕掛けて\nこなかったのは──\nお前という『味方』を誤って傷付けないため\nだったんでしょ？	『스피누스』는 식별 방치를 장착한 우릴 공격하지 않았어. 네가 "같은편"이라서?	We’re all equipped with IFF devices. The Siskin didn’t fire at you. Its system probably saw you as an ally, huh?	
+80	N/A@法贝拉	还有你刚才用的那种泡沫武器我从没见过，估计是哪个间谍机构的特种装备吧？	還有！ 我從沒見過妳剛剛丟出去的那罐東西，那是哪個間諜機構特製的裝備吧？	それにお前がさっき使っていた泡の武器、\nあんなモノを見た事がないわ。\n大方、どこかの諜報機関の特殊装備だろうけど？	방금 네가 사용한 거품 무기는 본 적 없어. 분명 스파이 기관의 특수 장비겠지?	And that weird foam weapon you just used... I’ve never seen that before. Must be from the spy agency you’re from, hm?	
+81	N/A@法贝拉	快说！你是什么人？	快說！ 妳是什麼人？	白状なさい……お前は一体、何者なのッ！！	어서 말해！넌 누구야？	So tell me. Who the hell are you?	
+82	N/A	我心虚的回避着她的视线，气凝胶确实是间谍机构SID的特种装备。	我心虛地閃避著她的視線，氣凝膠確實是SID的特製品沒錯啦……	俺は彼女の視線を避けるしかできなかった。\n\nエアロゲルスプレーは間違いなく、\n諜報機関の特殊装備だ。	나는 그녀의 시선을 피했다. 에어 젤라틴은 스파이 기관SID의 특수 장비가 맞다.	I try my best to avoid her gaze. The aerogel canister is, indeed, a weapon developed by spy agency SID.	
+83	N/A@法贝拉	另外，无论是判断对方狙击手会攻击哪里，还是躲避那个机械蜘蛛的下坠重击──	另外，無論是判斷對方狙擊手的攻擊位置，還是躲避那個機械蜘蛛的下墜重擊──	スナイパーの攻撃意図の判断や\nロボット蜘蛛の落下予測……	그리고 저격수가 어딜 공격할지도 모르면서 기계 거미의 공격을 피했지──	You predicted where the sniper would hit next. And you knew where the robot spider would land...	
+84	N/A@法贝拉	连我都察觉不到的危险，你一个菜鸟怎么会有这么敏锐的直觉？	許多連我都察覺不到的危險，憑妳這菜鳥怎麼可能有這麼敏銳的直覺？	私ですら察知の難しい危機を、お前のような\nド素人が分かったって言うだけで不思議よ。	나도 알아내지 못한 위기를 너같은 신입이 어떻게 직감했을까?	That’s not something even I could do. If you were indeed a rookie, there’s no way you could have that much skill.	
+85	N/A	我一时无语。	我一時說不出話來。	──俺は言葉が出なくなってしまった。	나는 아무말도 하지 않았다.	I can’t really argue with that.	
+86	N/A	从刚才起就一直困扰我的那种强烈违和感──	一開始就一直困擾我的那種強烈違和感──	それから……\n\n……また、違和感が頭の中によぎってくる。	아까부터 날 곤란하게 만드는 강렬한 위화감──	Because I don’t think I’m supposed to have that much skill either.	
+87	N/A	前几次面临危险的时候，我也不知自己为什么会有那种强烈的冲动。	前幾次面臨危險的時候，我也不知道自己為什麼會有那種衝動。	ふとした時に現れる、この『違和感』は\n一体何なのだろうか？\n……俺にも分からない。	몇번의 위기 상황에서 나도 어떻게 강렬한 충동을 느꼈는지 모르겠다.	I have no idea why my instincts kept saving me from dangerous situations.	
+88	N/A	就是……\n你有没有过那种感觉──	就是……\n妳有沒有過一種感覺──	ねぇ……\nこんな経験した事はない？	그건……\n그런 느낌이 든 적 있어?──	It’s like...\nMaybe you know how it feels...	
+89	N/A	蓦然回想起某个画面，却忘记了是何时的记忆。	突然想起某個畫面，卻忘記是何時的記憶。	ある光景を急に思い出すんだけど、\nいつの記憶なのか思い出せない。	문득 어떤 화면이 떠올르는데 언제의 기억인지 생각나지 않는 것.	You remember a scene... but have no idea when it happened.	
+90	N/A	直至你早就知道会发生的一幕，终于被验证了。	一直到妳早知道會發生的這一幕，終於在現實中發生了。	ずっと前から起きる事を知っていて、\n最終的には答えが証明されるような感じ。	이미 발생할 거라고 알고 있었던 사건이 마침내 검증됐어.	You won’t know if the thing you think would happen really will happen, until it actually does happen.	
+91	N/A	包括被法贝拉用枪顶着头。	包括被法貝拉用槍頂著頭。	──ファビオラに銃を突き付けられるのも。	파비올라의 총구에 고개가 들려지는 것까지.	Including being held at gunpoint by Fabella.	
+92	N/A	我早知事情会变成这样……	我早就預料到事情會變這樣……	俺は事前にこうなる事を知っていた……？	난 일이 이렇게 될 거란 걸 이미 알고 있었어……	I knew this would happen...	
+93	N/A	不是吗？	不是嗎？	──そうなのか？	아니야？	Haven’t you?	
+94	斯库尔德	等等！	等等！	待ってッ！	잠깐!	Wait!	
+95	N/A	斯库尔德突然用娇小的身体挡在了我前面。	斯庫爾德用嬌小的身體擋在我前面。	気が付くと、スクルドの小さな体が俺と銃口の\n間を塞いでいた。	스쿨드가 갑자기 작은 몸으로 내 앞을 막는다.	Skuld suddenly moves in front of me, shielding me with her small body.	
+96	斯库尔德	小怜姐姐是父亲安排在攻击队里的，我们已经认识很久了。	小憐姐姐是父親安排進來的，我們已經認識很久了。	レンお姉ちゃんはパパがこの部隊に入れたの。\nあたし達とは長い付き合いよ。	렌 언니는 아버지가 보낸 공격대원이에요. 우린 오래전부터 알고 지낸 사이예요.	Father was the one who put Miss Ren in the team today through his connections. I’ve known her since I was little!	
+97	小怜	（真、真的吗？）	（這是，真的嗎？ ）	…………え？\n\n（マジで、えーと、そんな設定が？）	（저, 정말？）	(W-wait, what?)	
+98	法贝拉	……	……	…………	……	…	
+99	斯库尔德	那个泡沫武器是『董事会』委托研究机构开发的试验型产品，只是还没实装给『帕兰蒂尔』。	那個泡沫武器是「董事會」委託研究機構開發的實驗品，只是還沒實裝給「帕蘭蒂爾」。	あの泡の武器は『理事会』が研究機関に\n依頼して開発した試作品なの。\nまだ『パランティア』には配備されて\nいないだけ。	그 거품 무기는 『이사회』가 연구 기관에 의뢰해 개발한 무기에요. 	That foam weapon was a prototype the Committee commissioned a research organization to develop. It hasn’t passed the final tests, so it’s not widely available yet.	
+100	小怜	（不，完全是编的吧！！）	（這、完全是編出來的吧！ ！）	（いや、これ完全に嘘だッ！！）	（아니, 완전 거짓말이잖아！！）	(She’s totally making this up!)	
+101	斯库尔德	虽然我劝父亲别在攻击队里安排眼线，但他总是不放心……	雖然我勸父親不要在攻擊隊裡安排眼線，但他就是不放心……	あたしはこの部隊に見張りを置かないように\nパパに勧めていたのだけど……\nパパがどうしても心配だからって……	아버지께 공격대원을 보낼 필요없다고 말씀드렸지만 그래도 걱정이 되셨나봐요……	I told my dad not to post one of his men in the squad, but he was just worried, you know? And Miss Ren couldn’t reveal her identity since Father ordered her not to...	
+102	斯库尔德	但求你别伤害小怜姐姐，她绝不会出卖我们的。	求妳別傷害小憐姐姐，她絕不會出賣我們的。	だからレンお姉ちゃんを傷付けないで！\n彼女は絶対にあたし達を裏切ったりしないから。	렌 언니를 다치게 하지 마세요. 절대 우릴 배신할 사람이 아니에요.	Please don’t hurt Miss Ren. I’ve known her since forever. She won’t betray us.	
+103	N/A	金发小姑娘做出一副委屈得要哭出来的样子。	金髮小女孩一副委屈得要哭出來的樣子。	金髪の少女は、今にも泣き出しそうな辛い表情を\n浮かべていた。	금발머리 소녀가 곧 울 것 같은 표정을 한다. 	The blond girl looks on the verge of tears, like she’s really frustrated about her overprotective father.	
+104	N/A	面对纯真无邪眼神的斯库尔德僵持片刻后，法贝拉终于有些动摇的将枪放下。	與使出純真眼神的斯庫爾德僵持片刻後，法貝拉終於將槍放下。	純真無垢な瞳と向き合って、しばらくすると\nファビオラは少し動揺したかのように銃を下す。	순진한 눈빛의 스쿨드와 대치한 파비올라가 마침내 총을 내려놓는다. 	Fabella gazes into Skuld’s pure, innocent eyes, and finally lowers her gun with a sigh.	
+105	罗素	唔……『黄雀』攻击和防御的AI模块是独立的，有可能那台只解放了防御模块。	唔……「黃雀」的攻擊和防禦的AI模式是獨立的，可能那台黃雀只安裝了防禦模式。	うむ……『イエローヘッド』のAIモジュールは\n攻防それぞれが独立している。\nさっきは防御モジュールがたまたま展開して\nいただけの可能性はあるな。	음……『스피누스』공격과 방어 AI모듈 중 방어 모듈만 발동했을 거야.	Ah, by the way, the Siskin’s AI modules for attack and defense are separate, and it’s possible that the Siskin we came across was simply in defense mode. That was why it didn’t fire.	
+106	罗素	否则马萨达堡对纽摩利达斯做这种几乎是公开宣战的行为有点太不合理了……	否則，馬薩達堡這麼做，幾乎等於對紐摩利達斯公開宣戰了，這實在太不合理了……	でなければ……マサダブルクがニューモリダスに\n対して宣戦布告に近い行動をするのは不合理だ。	그렇지 않으면 마사다 성이 뉴모리다스에 전쟁을 선포하는 행위나 다름없으니까……	After all, that would be equal to Masada Ford declaring war against Newmoridas, right? Doesn’t make sense.	
+107	N/A	法贝拉思索了一下，把枪收回枪套。	法貝拉思索了一下，把槍收回槍套。	ファビオラはしばらく考え、そして銃を\nホルスターに収めた。	파비올라가 잠시 생각하더니 총을 총자루에 넣는다.	Fabella thinks it over and sticks her gun back into the holster.	
+108	法贝拉	可恶──	可惡──	くそッ──	빌어먹을──	Dammit...	
+109	法贝拉	这次护送路线、时间、人员车辆情况都泄露了！！\n还……	這次護送的路線、時間、人員、車輛情況都洩露了！ ！\n還……	今回の護衛経路、時間、人員を含めた車両情報も\n全てが漏れていたッ！！ \nそして……	이번 호송 노선 , 시간, 인원 차량 정보가 모두 누설됐어！！거기다……	Someone’s leaked everything. The itinerary, the schedule, the personnel, the vehicles... everything!\nAnd now they killed...	
+110	N/A	法贝拉重重的踢了一脚货箱。	法貝拉重重地對貨箱踢了一腳。	ファビオラはイラ立ちを隠せず、コンテナを\n力いっぱい蹴った。	파비올라가 화물 상자를 거칠게 발로 찬다.	She kicks a cargo in frustration.	
+111	N/A	斯库尔德将满脸问号的我拉到一边坐下，并对我露出一个神秘的微笑。	斯庫爾德將滿臉問號的我拉到一邊坐下，並對我露出一個神祕的微笑。	その間にスクルドは、疑問符を浮かべている俺を\n引っ張って近くに座らせると、\n俺に向けて神秘的な微笑みを浮かべた。	스쿨드가 어리둥절한 나를 한쪽으로 데려간 후 알 수 없는 미소를 짓는다. 	Skuld pulls me aside, flashing me a mysterious smile.	
+112	斯库尔德	你吓坏了吧~\n先喝点水压压惊，对了要吃糖吗？	嚇到妳了吧……\n先喝點水緩緩情緒。 對了，要不要來顆糖果？	ビックリしたでしょ～～？\n\nまず水でも飲んで落ち着かないとね。\nキャンディ食べる？	깜짝 놀랐지?\n물 좀 마시고 진정해. 아참, 사탕 먹을래?	You’re pretty shaken up, huh?\nHere, have some of my water and candy!	
+113	N/A	她将自己粉色的水壶打开递给我，还取出一个金属盒，倒出两粒糖塞到我手心里。	她將身上的粉色水壺打開遞給我，還拿出一個金屬盒，倒出兩顆糖塞到我手心。	彼女はピンクの水筒を俺に手渡して\nそれから金属製の缶を取り出した。\n缶から飴玉を二粒ほどシャカシャカして出すと\n俺の手の平の上に乗せてくれる。	그녀가 자신의 분홍색 물병을 건넨 후 작은 금속함에서 사탕을 꺼내 내 손에 쥐어준다.	She hands me her pink water bottle and shakes two candies out of a small metal box onto my palm.	
+114	小怜	（意思是……我可以直接对嘴喝吗？）	（意思是……我可以直接對嘴喝嗎？ ）	（この水筒、直接口を付けても良いのかな？）	（바로 입을 대고 마셔도 된다는 뜻인가……?）	(So I can drink it... touch the rim with my lips... just like that?)	
+115	斯库尔德	小怜姐姐，你是不是也……	小憐姐姐，妳是不是也……	レンお姉ちゃん、あなたもそうなんでしょ……？	설마 렌 언니도……	Miss Ren, are you...	
+116	N/A	她似乎有些忐忑，不知道要如何开口。	她有些忐忑，不知道要如何開口。	彼女は少しドキドキしているようで、\nどう話せばいいのか分からない様子だった。	그녀가 어떻게 말을 꺼내야할지 모르겠다는 듯 머뭇거린다.	She seems to have a hard time finding the right words.	
+117	小怜	嗯？	嗯？	うん？	응?	Hmm?	
+118	斯库尔德	比如说，我今天是第一次见到你。	比如說，我今天是第一次見到妳。	例えばね、私は今日初めて、あなたに会ったの。	그러니까, 나는 오늘 언니를 처음 봤어.	Like, this is... actually the first time I’ve met you.	
+119	斯库尔德	但看见你的那一刻，我就意识到自己有关于你的记忆……就像忽然回忆起来一样。	但從看見妳的那一刻起，我就意識到自己有關於妳的記憶……就像之前忘記了，但忽然回憶起來一樣。	でもあなたを見た瞬間、私は気付いたの。\n私にはあなたの記憶があるって……\n……まるで思い出したかのようにね。	하지만 언니를 보는 순간 어떤 기억이 떠올랐어……갑자기 말이야.	But the second I saw you, all those memories with you in them came flooding back. Suddenly, I remembered it all...	
+120	N/A	我回想起来，斯库尔德确实给我讲过……	我回想起來，斯庫爾德確實說過……	──俺も思い出した。\n\nスクルドは確かにそんな事を言っていた。	생각해보니 스쿨드가 내게 얘기한 적 있었다……	I do recall Skuld telling me about something like that.	
+121	N/A	关于她那种奇特的“预言”能力。	關於她那種奇特的「預言」能力。	彼女の不思議な『予言』能力について。	그녀의 특별한 “예언” 능력에 관해.	Something about her magical prophecy skills.	
+122	小怜	（虽然是在法贝拉的记忆中，但按照时间逻辑，现在的她确实之前没有见过我呢。）	（雖然這是在法貝拉的記憶中，但照時間邏輯來看，現在的她的確還沒見過我呢。 ）	（ここはファビオラの記憶の中だけど……）\n\n（時間軸的に今の彼女と俺は出会ってない）	（비록 파비올라의 기억 속이지만 시간 로직에 따르면 그녀는 날 만난 적이 없다.）	(We’re now in Fabella’s memories of two years ago. So this is indeed the first time “this” Skuld has met me.)	
+123	小怜	（不过就这么把秘密说出来真的没问题吗？）	（不過就這樣把祕密說出來，真的沒關係嗎？ ）	（そんな俺に、話してもいいものなのか？）\n\n（スクルドの大切な秘密を……）	（그나저나 비밀을 이렇게 얘기해버려도 괜찮은 거야?）	(But is it okay to just tell me this kind of secret?)	
+124	斯库尔德	所以，小怜姐姐──	所以，小憐姐姐──	だから、レンお姉ちゃん──	그래서 말인데, 렌 언니──	So, Miss Ren...	
+125	N/A	斯库尔德满怀期待的看着我，接着问道。	斯庫爾德滿懷期待地看著我，接著問道。	スクルドは期待したまなざしで俺を見つめ、\n尋ねてきた。	스쿨드가 기대에 가득찬 얼굴로 날 보며 묻는다. 	Skuld is looking at me excitedly, expectantly.	
+126	斯库尔德	你也有类似的能力吧？	妳也有類似的能力吧？	あなたにも似たような能力があるんだよね？	언니도 비슷한 능력이 있는 거지？	You have a skill like mine too, right?	
+127	N/A	我嘴里含着糖，愣愣的看着她。	我嘴裡含著糖，傻傻地看著她。	俺はキャンディを口に含んだまま、目をぱちくりとさせた。	나는 입에 사탕을 머금고 그녀를 멍하니 바라봤다.	I stare at her, candy in my mouth.	
+128	小怜	……啊？	……啊？	…………はっ？	……아？	... Huh?	
+129	N/A	仔细想来，那些预感……	仔細想想，那些預感……	思えば……\nあの『嫌な予感』や『違和感』は……	자세히 생각해보니 그 예감들……	Hmm, my instincts that helped me avoid disaster...	
+130	N/A	确实有点像某种“预言”的能力呢。	確實有點像是「預知」能力呢。	確かに『予言』の能力と似ているかも\nしれない。	확실히 "예언" 능력과 비슷하다.	It did seem like a form of prophecy.	
+131	N/A	话说……这个薄荷糖的味道真不错啊。	話說……這個薄荷糖的味道真不錯啊。	それにしても……\n……このミントキャンディ美味いな。	그나저나……이 박하 사탕 엄청 맛있는 걸.	Ah, this mint candy tastes good.	
+132	N/A	不是太甜、酸味也恰到好处。	不會太甜、酸度也剛剛好。	甘過ぎず、ほど良い酸味があって。	많이 달지 않고 적당히 신 맛이 난다.	Not too sweet, just the right level of sourness.	
+133	N/A	在嘴里化开的时候，感觉凉凉的──	在嘴裡化開的時候，感覺涼涼的──	口の中で溶けていく時は爽やかさな感じがする。	입에서 녹을 때 시원한 느낌이 든다──	Leaves a cool, minty taste when it melts in my mouth.	
+134	N/A	就像……	就像……	まるで…………	이건 마치……	It’s like...	
+135	N/A@斯库尔德	你能生动的形容出那种糖的口感和味道，但就是说不上来在哪吃到的。	妳能生動地形容出那種糖的口感和味道，但就是說不上來在哪裡吃過。	その食感と味はハッキリと覚えているのに、\nどこで何を食べたのかが思い出せない。	사탕의 식감과 느낌을 생생하게 설명할 수 있지만 어디서 먹었는지 말할 수 없어.	You can describe in detail how that candy tastes like, but you can’t tell when or where you tasted it.	
+136	N/A@斯库尔德	只有某天你真的吃到了，才会恍然大悟就是它！	直到某天妳真的吃到了，才會恍然大悟：就是它！	そしてある日、ふとした時に食べるタイミングが\n来て──\nようやく明確に「記憶の中にあるやつだ！」\nって事が分かるの。	그 사탕을 진짜로 먹는 순간에서야 깨닫게 되는 거야!	You’ll only realize “oh, this is it” when you really do get to taste it one day.	
+137	小怜	──！！	──？！	──────ッ！！	──！！	...!	
+138	小怜	斯库尔德，你的那个糖，给我看一下……	斯庫爾德，我可以看一下那個糖果盒嗎……	スクルド。\nさっきの飴、ちょっと見せて欲しいんだ……	스쿨드，그 사탕 나한테 좀 보여줄래……?	Skurd, can I see your candy container?	
+139	N/A	小姑娘对我的回复有点不明所以，但还是将糖盒递给了我。	小女孩對我的反應有點疑惑，但還是將糖果盒遞給我。	少女は俺の言葉に戸惑いながらも、\nキャンディの缶を俺に渡す。	스쿨드가 이해할 수 없다는 표정을 지으며 사탕함을 내게 건네준다. 	The girl looks confused that I’d ask such a question, but she still gladly complies.	
+140	N/A	我惊异的看着那个金属盒上的图案──上面印着知名的游戏角色『哔咔之星』。	我驚訝地看著那個金屬盒上的圖案──上面印著著名的遊戲角色「嗶咔之星」。	俺は金属缶のパッケージに驚いた──\n\n有名なゲームキャラクターの\n『てぃんくる・ぽぽ』がプリントされている。	나는 금속함 위 그림을 관찰했다──유명한 게임 캐릭터 『비카의 별』이 각인돼있다.	I stare at the design on the metal box in surprise. Printed on it is Becca Star, a well-known pink-haired game character, soaring in the blue sky.	
+141	N/A	粉红的主角翱翔在蓝天中，是上个月我才拜托安妮买的最新版游戏的造型。	粉紅的主角翱翔在藍天中，是上個月我才拜託安妮買的最新版遊戲造型。	ピンク色の主人公が青い空を飛ぶ姿……\n\n先月、俺がアニーに頼んで買ってもらった\n最新版のデザインだ。	분홍색 주인공이 하늘을 비상한다. 지난달에 앤에게 부탁해 구매한 최신 게임이다.	I remember asking Annie to get that game for me last month. The character design in the newest installation of the series is the exact same as that on this metal box in my hand.	
+142	N/A	由于是45周年的纪念版，这两周新丰洲随处可见那款游戏的广告。	由於是45週年的紀念版，這兩週新豐洲到處都是那款遊戲的廣告。	45周年の記念版って事もあって……\n\nここ2週間は新豊洲の至る所にあのゲームの\n広告が飾られていた。	45주년 기념 버전으로 2주동안 신토요스 곳곳에서 게임 광고를 볼 수 있었다.	It was the game franchise’s forty-fifth anniversary, so the ad is all over New Opulentia these two weeks.	
+143	N/A@小怜	那个红蓝相间图样……	那個紅藍相間的圖案……	窓から見えるあの赤と青の絵は……	이 붉고 푸른 그림은……	The red-and-blue ad...	
+144	N/A	从运兵车出来之后，我不是一直有见到吗？	從運兵車出來之後，我好像一直有看到……	なんで……\n\nなんで45周年記念の広告が、\nこの時代に貼り出されているんだ……？	장갑차에서 나왔을 때부터 계속 봤던 거잖아?	Haven’t I seen it time and again after exiting the truck?	

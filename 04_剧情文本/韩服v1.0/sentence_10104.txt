@@ -1,0 +1,69 @@
+﻿1	小怜	嗯……但一切都真实得不像梦，我也有点糊涂。	嗯……但一切都真實得不像夢，所以我也有點搞不清楚。	あまりにもリアル過ぎて、もしかしたら\n夢じゃないかもしれない……\n俺も未だに混乱してる……	응……그치만 너무 생생해서 꿈 같지가 않아. 사실 나도 조금 헷갈려. 	Yeah… I'm also confused because it felt so real—unlike any dream.	
+2	小怜	我找了好久，可完全查不到火灾或建筑损毁的新闻\n城市的景象也和平时没什么不同。	我搜尋了好久，但完全查不到火災或建築損毀的新聞，\n城市也和平時沒什麼不同。	でも、いくら検索しても、火災や建物が\n破壊されたニュースなんてどこにもなくて……\n街の光景もいつもと何も変わらないし……	하지만 화재나 건물 붕괴 같은 뉴스는 없었어.\n도시도 평소와 똑같았고.	I've searched for news of fire or building damages, but there's nothing. \n The city looks just as peaceful as it used to be.	
+3	小怜	只是……	只是……	ただ……	그런데…	Except for one thing…	
+4	莉琉	嗯？	嗯？	……うん？	응?	Hmm?	
+5	安妮	只是……？	只是……？	ただ……？	그런데……？	Except for what?	
+6	小怜	一觉醒来……	一覺醒來……	目覚めたら……	깨어나보니……	When I woke up…	
+7	小怜	我的身体，变成女生了……	我的身體，變成女生了……	俺の身体が……女の子になってた……	몸이 여자로 변했어…	I found my body changed to a girl's body…	
+8	莉琉	……	……	……………	……	…	
+9	安妮	……	……	……………	……	…	
+10	小怜	嗯……	嗯……	はい…………	응…	Well…	
+11	莉琉	哦？你是说……变？	哦？ 妳是說……變性？	……は？　女の子になった……はぁ？	응？바뀌었다고……？	Huh? Did you say… it changed?	
+12	小怜	我……别看我现在这样……	……別看我現在這樣……	俺、今はこんな見た目だけど……	……이건 내 진짜 모습이 아니야……	I'm not… I didn't look like this before…	
+13	小怜	我！我其实，本来是男生啊！！	我！ 我本來是男生啊！ ！	俺ッ！！\n俺は元々は男なんだよッ！！	나! 사실，원래 남자였어!	I… I am actually a boy!	
+14	莉琉	哦哦哦？男生？	哦哦哦？ 男生？	ほう？　ほうほう？\n男だと？	흐응? 남자?	Ewwwww… a boy?	
+15	安妮	啊……哈？	啊……哈哈哈哈哈！	ほ……え？	아……하？	Okay… wait, what?	
+16	莉琉	你是说，你现在是在男扮女装？（凑近）	所以妳現在是男扮女裝囉？ （靠近）	つまりあれだ、あれだろ？\n女装趣味と言う事か？（接近）	그러니까，지금은 여장 남자란 말이야?（다가선다）	You mean you're a boy cross-dressing? (leans close)	
+17	小怜	不、不是那个意思！\n喂！不要离我这么近啊！	不、不是那個意思！ \n喂！ 不要離我這麼近啦！	違うっ！　いや、そういう意味じゃなくて……！　\nって、おいッ！グイグイ寄ってくるなッ！	그，그런 뜻이 아니라! \n이봐! 너무 가까이 붙지 말라고! 	No, no… That’s not what I mean. \n Don't get this close!	
+18	小怜	咦……不过某种意义来说……\n也算是？	咦……不過某種意義來說……\n似乎也算是……	あっ、でも……ある意味では……\nそれで合っている……のか…？	으…어떤 의미에선……\n그렇다고 볼 수 있지?	But… in some sense... \n Maybe you're right…	
+19	小怜	啊啊，真是的！	啊！ 真是討厭！	あ、あああああ、もおおお！！	아아，답답해!	Oh god… how can I explain this!	
+20	莉琉	嗯……这胸部做得真不错。（摸）	嗯……這胸部做得真不錯。 （摸）	ふむ……この胸の部分、良くできている。\n（ムニムニ）	음……이 가슴 꽤 훌륭한데? (더듬)	Anyway… you've got a great boob job. (Touches)	
+21	莉琉	这种弹性……到底用什么样的技术才能有这么自然的手感……（捏）	這種彈性……到底用什麼樣的技術才能有這麼自然的手感……（捏）	そしてこの弾力……どんな技術を使えば、\nこんな自然な感触を……（モムモム）	이 탄성……도대체 어떤 기술로 이렇게 자연스러운 촉감을 만든 거지……(꼬집)	So bouncy… Where did you get it done? Such a natural touch…  (Pinches)	
+22	安妮	咦？这方面的话，安妮也想知道~~！！	咦？ 這方面的話，安妮也想知道～！ ！	あ！　そっちの方面の話なら、\nアニーも知りた～～いっ！！	앗？그런 거라면 앤도 알고 싶어~~！！	Woo… I want to find out too!	
+23	小怜	呀！啊……不是，那个……\n你们不要随便摸我啊！！！	呀！ 啊……不是，那個……\n妳們不要隨便摸我啊！ ！！	あっ！　ぁ、違う…やめろ…その……\nお前ら気安く触るなッ！！！	아！아……아니，그건……\n멋대로 날 만지지 마! ! !	Ouch! No… it's not… wait… \n Stop that!	
+24	莉琉	我看看……肩膀也很纤细，从腰到骨盆的曲线也很优美。	我看看……肩膀很纖細，腰身到骨盆的曲線也很優美。	どれどれ……\n肩も繊細で、腰から骨盤までの曲線も美しい。	어깨도 얇고 허리부터 골반까지 곡선도 아름다워. 	Let me check… slender arms, curvy waistline, perfect.	
+25	莉琉	全身究竟是用了怎样的材料，尤其是……	究竟是用了什麼材料啊，真好奇，尤其是……	全身に使用した素材が何か知りたいな。\n……ここなんて特に。	도대체 어떤 재료를 썼길래…특히……	What materials did you use? Especially here…	
+26	小怜	呀啊啊啊！很痒呀……！	呀啊啊啊！ 很癢呀……！	やあああっ！　くすぐったいっ！	아하하하하！간지러워……！	Ahhhhh! That's itchy…!	
+27	小怜	莉琉小姐！那里！不行啊！	莉琉小姐！ 那裡！ 不行啊！	マリルさんっ！　そこっ！　ダメっ！	마리루！거긴 안 돼！	Ms. Mariru! Don't touch it here!	
+28	小怜	不行啊啊啊啊~~~！！！！！	不行，不可以啊啊啊～！ ！！ ！！	だめええぇぇぇぇ～～っ！！！！！	안돼애애애애~~~！！！！！	No…!	
+29	N/A	……	……	……………	……	…	
+30	小怜	呜呜呜呜………	嗚嗚嗚嗚………	うっえうぅ……	흑흑흑흑…	Boohoo…	
+31	小怜	总、总而言之！到昨天为止我都是男生！	總、總而言之！ 到昨天為止我都是男生！	とにかくっ！　昨日まで俺は男だったの！	어，어쨌든! 어제까지 난 남자였어!	Believe it or not! I was a boy until yesterday!	
+32	小怜	也没有做过任何手术之类的……	也沒有做過任何手術之類的……	手術も受けた事なんてないし……っ	수술 같은 건 하지 않았어…!	There was no surgery…	
+33	莉琉	不，我没怀疑这一点。	我相信妳說的。	まぁ、手術に関しては私も疑ってない。	아니，나도 그건 의심하지 않아.	Yeah, no doubt about this.	
+34	莉琉	以现在的技术，无论如何也不可能如此彻底的改变性别……	以現在的技術，無論如何也不可能做到如此徹底的改變性別……	現在の技術水準で、\n徹底的に性別を変更するなどは不可能だ……	현재 기술로는 어떻게 해도 이렇게 철저히 성별을 바꿀 순 없어……	Such a complete gender change is impossible with current technologies.	
+35	莉琉	如果不把骨骼全部换掉是无法做到这一步的。\n所以，你本来就是个女生。	如果不把骨骼全部換掉，是無法做到這種程度的。 \n所以，妳本來就是個女生。	まず体中の骨を入れ替える前提がなければ、\n成り立たない話。\nゆえに、お前は最初から女性だ。	골격을 전부 바꾼다고 해도 이렇게까진 할 수 없지.\n그러니까 넌 원래 여자가 맞아.	You cannot do this unless you replace every bone in your body. \n Which means, you are, and have been, a girl.	
+36	小怜	所以！我都说了！！\n我是一觉醒来就变成这样了啊！	所以！ 我說我之前是男生啊！ ！\n我是一覺醒來才變成這樣的！	だっ！　かっ！　らっ！\n女じゃないってッ！\n目が覚めたらこうなってたって言ってんの！	그러니까! 다 얘기했잖아！！\n눈 떠보니 이렇게 변해있었다니까!?	What! I've told you! \n I woke up as a girl.	
+37	莉琉	那你有什么实际的证据吗？\n来证明你曾经的男性身份？	那妳有什麼實際的證據嗎？ \n證明妳曾經身為男性的證據？	何か証拠を提示できないか？\nかつて男であった事を証明できる物とか。	증거 있어?\n네가 원래 남자였다는 증거 말이야.	Do you have any proof? \n Anything to prove that you used to be a boy?	
+38	小怜	嗯……证据……\n啊，学生证！	嗯……證據……\n啊，學生證！	えーっと……証拠、証拠……\nあっ！　学生証！	음……증거……\n아，학생증!	Well… proof… \n Yeah right! My student ID card!	
+39	N/A	我们进来的时候随身的东西都被没收了，包括我出门时穿的男装和里面的ID卡。	我們進來時的隨身物品都被沒收了，包括我出門時穿的男裝和裡面的ID卡。	ここに入る時、所持物は全て没収された。\n\nただIDカードだけは俺が着ていた男の服に\n入っているはず。	여기 들어올 때 휴대품을 모두 압수당했다. 집을 나설 때 입고 있던 남자옷이랑 신분증까지!	We handed in all my belongings when entering here, including my clothes and ID card.	
+40	N/A	莉琉在手持终端上点了两下，调出了我的学生证。	莉琉在手持平板上點了兩下，調出了我的學生證。	マリルは手にあるタブレットで部下に指示を出し俺の学生証をこの場に持ってきてくれた。	마리루가 단말기 버튼을 몇 번 두드리자 내 학생증이 보인다.	Mariru taps on her hand-held device, which brings up my student card. 	
+41	小怜	有了！哼，就是这个！\n你们看！我是男的吧？	有了！ 哼，就是這個！ \n妳們看！ 我是男的吧？	あったっ！　これだよっ！\nほら、男だろ？	있다! 이거야!\n이것 봐! 난 남자 맞지?	Yeah! That's it! \n Look! That’s the proof.	
+42	莉琉	虽然五官的排列倒确实有一点点像，但仅凭这种东西……	雖然五官確實有一點像男生，但只憑這種東西……	顔立ちは似てなくもないが、これだけではな……	이목구비가 확실히 닮긴 하지만 이걸로는…	The facial features do look a bit like you, but this is hardly any proof…	
+43	莉琉	对了，调出城市监控系统最近1个月拍摄到[%rolename%]的所有录像……	對了，調出城市監控系統內最近1個月拍到[%rolename%]的所有畫面……	そうだ。直近1か月の監視システムが撮った\n[%rolename%]の動画を調べれば……	아참，도시 감시 시스템이 최근 한 달간 기록한 [%rolename%]의 영상을 보면……	Let me retrieve all footages of [%rolename%] for the last month in the metropolis surveillance system...	
+44	N/A	莉琉熟练的在平板上点按了起来，脸上露出了一丝兴奋的表情。	莉琉熟練地在平板上點按了起來，臉上露出了一絲興奮的表情。	慣れた手付きでタブレットを操作するマリルの\n表情には、やや興奮がうかがえる。	마리루가 익숙한 듯 태블릿의 버튼을 누르며 잔뜩 들뜬 표정을 한다.	Mariru deftly taps on her tablet, looking a bit excited.	
+45	小怜	看到那些废墟的时候我还以为自己在做梦，以为醒了就好了……	看到那些廢墟時，我還以為自己在做夢，以為醒了就好了……	あの惨劇を見た時は夢かと思って、目を覚ませば\nきっと全てが無かった事になってるって……	그 폐허를 봤을 때 꿈을 꾸고 있는 줄 알았어. 꿈에서 깨어나기만 하면 된다고…	I thought it was only a dream when I saw those ruins, and I thought everything will go back to normal after waking up.	
+46	小怜	可醒来却发现自己变成了女孩子……	結果醒來卻發現自己變成了女孩子……	だけどいざ目が覚めたら、\n自分が女の子になってるなんて……	하지만 깨어났을 때 이미 여자로 변해있었어……	But now, I become a girl…	
+47	莉琉	加入骨骼变化的修正，和刚才在走廊扫描到你的步态比对……	加入骨骼變化的修正，和剛才在走廊掃描到妳的步態比對……	骨格変化の修正を加えて、先ほどお前が廊下で\n歩いてた姿と比較すると……	골격 변화와 방금 복도에서 스캔한 걸음걸이를 비교하면……	Apply bone change corrections. Activate gait analyses on your footage at the corridor just now…	
+48	N/A	莉琉并不理会我的自言自语，继续饶有兴致的操作着手里的东西。	莉琉並未理會我的自言自語，繼續興致勃勃地操作著手上的裝置。	マリルは俺のつぶやきを無視して、\n熱心にタブレットを操作し続けた。	마리루가 내 혼잣말을 무시한 채 계속해서 손에 든 물건을 조작한다.	Mariru ignores my murmur and focuses on her tablet. 	
+49	小怜	难道那不是梦？可是现在一切都好好的，完全不像发生过那种事情……	難道那不是夢？ 可是現在一切都好好的，完全不像發生過那種事情……	あれは夢じゃなかった？でも今は普通だし、\n惨劇が起きた様子も一切ないし……	설마 그게 꿈이 아니란 말야? 하지만 지금 아무 일도 없었다는 듯이 평화로운데…	Maybe it's not a dream. But now, everything looks just fine. No fire, no destruction.	
+50	小怜	啊……我真是，完全搞不清楚了……！	啊……好混亂啊……！	あーーもうっ！　全然分からん！	아……정말，전혀 감을 못 잡겠어……！	Ughh… I'm totally confused…!	
+51	小怜	到底我的记忆里哪些是真的哪些是梦啊……	到底我的記憶裡，哪些是真的、哪些才是夢啊……	一体どこまでが夢で、どこまでが現実なんだよ…	도대체 내 기억 중에 어떤 게 진짜고 어떤 게 꿈인 거야……	I can't get things straight…	
+52	莉琉	……步态识别模式吻合。	……步態識別模式吻合。	……分析完了\n歩行パターンの一致を確認。	……걸음걸이 식별 모드 부합.	… Gait pattern matches.	
+53	小怜	是什么意思？	這是什麼意思？	どういう意味？	무슨 뜻이야?	What does that mean?	
+54	莉琉	步态模式是大脑在行走时对身体每一块肌肉的控制习惯，就算是最优秀的特工也无法伪装。	步態模式是大腦在行走時對身體每一塊肌肉的控制習慣，就算是最優秀的特務也無法偽裝。	人の歩行パターンは、脳が筋肉をコントロール\nする際の癖の塊みたいなものだ。\nこの世で最も優秀と称される工作員であっても\n完全にこれを偽装する事はできない。	걸음걸이는 대뇌가 사람의 근육을 제어하는 거라 우수한 특공대원이라도 위장할 수 없어.	Gait pattern is the signature control pattern of a person’s muscles when walking. Even the best agents can't disguise it.	
+55	莉琉	虽然现有的科学理论无法解释……\n但你确实是[%rolename%]。	雖然現有的科學理論無法解釋……\n但妳確實是[%rolename%]。	現在の科学理論では説明できないが……\nお前は確かに[%rolename%]だ。	현대 과학 이론으론 설명할 수 없지만……\n넌 [%rolename%]이(가) 맞아.	Although scientifically unexplainable… \n You are [%rolename%], no doubt.	
+56	安妮	真，真的吗？？	真，真的嗎？ ？	ほ、本当なの？？	저，정말?	A… are you sure…?	
+57	小怜	我还以为到这里就能搞清楚点什么……	我還以為，到這裡就能理出點頭緒……	ここに来たら、何かが分かると思ったんだ……	이곳에 오면 뭔가 알 수 있을 거라고 생각했는데……	Finally… I thought you guys knew something about this…	
+58	莉琉	我说，你知道什么关于『洛斯金杯』的事吗？	妳知道關於「洛斯金杯」的事嗎？	おい、お前は『ロス・ゴールド』について\n一体何を知ってる？	『로우스 금잔』에 대해 아는 게 있어?	So, have you heard of the Ross Goblet?	
+59	小怜	洛斯金杯？早上看到新闻说在监控下突然消失的异质物……我也没亲眼见过啦。	洛斯金杯？ 妳指的是新聞說在監控下突然消失的異質物……我沒親眼見過。	『ロス・ゴールド』？\n朝のニュースで、突然消えた異質物──\nって見ただけで……実物は見た事がないけど。	로우스 금잔? 아침에 이물질이 갑자기 사라졌다는 뉴스를 보긴 했지만 실제로 본 적은 없어.	Ross Goblet? A Substance H that suddenly disappeared under video surveillance, according to the news this morning… But I haven't seen it in person yet.	
+60	莉琉	嗯，假设你说的全是真话……	嗯，假設妳說的全是真話……	ふむ、\nもしお前の言っている事が真実と仮定すると……	네 말이 사실이라면……	Well, if you're telling the truth…	
+61	莉琉	我会答应去做那种无聊又没钱拿的讲座，原因只可能是它了。	我會答應去做那種無聊又沒錢拿的講座，唯一的原因只有它了。	私があの金にもならない、くっだらない講義に\nわざわざ出向く理由は、\n『ロス・ゴールド』ぐらいしかないだろう。	내가 그런 시시한 강의에 가겠다고 한 이유는 그것 때문일 거야. 	It will probably be the only reason that I would agree to give this boring lecture for free.	
+62	莉琉	那是在洛斯群岛上找到的『异质物』，杯子外面镶着四块纯度不可思议的宝石。	那是在洛斯群島上找到的「異質物」，杯子外面鑲著四塊純度超乎想像的寶石。	アレはロス諸島で発見された『異質物』で、\n外周には奇跡的純度を誇る宝石が、\n4つ装飾されている。	그건 로우스 섬에서 찾은 『이물질』이야. 잔 표면에 4개의 불가사의한 보석이 박혀 있어.	It is a Substance H found on the Ross Islands. Four gems with remarkable purity are mounted on the exterior.	
+63	小怜	对了，后来我爬出废墟，看到飞在天上的发光的东西轮廓确实有点像个杯子……	對了，後來我爬出廢墟，看到飄在空中發光的物體輪廓，確實有點像杯子……	そう言えば、廃墟から脱出した後に見た、\n宙に浮かんで光る物体……\n輪郭がグラスと似ていたような……	맞아，폐허를 기어나와서 본 하늘에 빛을 뿜는 물체가 잔을 닮은 것 같기도 해……	I did see something that looks like a shining goblet flying in the sky after I climbed out of the ruins.	
+64	小怜	就那么浮在半空，发出的光还泛着淡淡的红色……	就那麼浮在半空，還泛著淡淡的紅色光……	宙に浮かんでいた光は淡い紅色を帯びていて……	공중에 떠서 옅은 붉은색 빛을 내고 있었어…	It floated in the sky, emitting a faint red light…	
+65	莉琉	淡红色？？	淡紅色？ ？	淡い紅色？？	옅은 붉은색?	Faint red?	
+66	莉琉	（杯子里面的淡红色液体一直是不解之谜……）	（杯子裡的淡紅色液體一直是不解之謎……）	（グラスの中に存在する紅色の液体、\n　その謎はずっと解けなかった……）	（컵 안의 담홍색 액체는 줄곧 풀리지 않는 수수께끼인데……）	(The faint red liquid in the goblet has been a mystery…)	
+67	莉琉	（但这个情报被列为机密，即使前不久被评定为『Safe』也从没对外公开过）	（但這個情報被列為機密，即使前不久被評定為「Safe」也從沒對外公開過。 ）	（この情報は現在機密扱いで、『SAFE』と評定　された今でも対外的には公開されていない…）	（하지만 이건 기밀정보다. 얼마 전 Safe로 판정됐지만 외부에 공개되진 않았다.）	(This is confidential information, and has never been made public even though the risk rating of the goblet was lowered to “Safe” lately.)	
+68	莉琉	（没亲眼见到的人不可能说出这种细节……）	（沒親眼見到的人不可能說出這種細節……）	（自分の目で見た事のない人間が、\n　ここまで詳しく知るはずがない……）	（직접 보지 않고서야 이렇게 세밀하게 알 수 없는데……）	(No one could give such details without having seen it before…)	
+69	莉琉	看来无论你说的是不是真是场梦，都有必要向你再多了解一下情况。	看來，無論妳說的是不是夢境，都有必要再向妳深入瞭解。	言っている事が真実か夢かはともかく、\nお前からはもうちょっと話を聞く必要があるな。	네가 말한 게 진짜든 꿈이든，네 상황을 좀 더 알아봐야겠어. 	Regardless of whether it was a dream, I’m afraid we need to confirm more information with you.	

@@ -1,0 +1,140 @@
+﻿1	N/A	我目送着接伊露卡回SID本部的车渐渐消失在道路尽头，又想起刚刚那一幕。	我目送著接伊露卡回SID本部的車漸漸消失在道路盡頭，又想起剛剛那一幕。	イルカを乗せた車が遠ざかっていくのを見て、\nさっきの場面をまた思い出した。	이루카를 태운 SID본부 차가 골목 끝에서 사라지는 걸 보고 방금 그 화면을 떠올렸다.	I watch as the car bringing Elluka back to the SID headquarters roll away, disappearing at the end of the road. My brain is still filled with images of the unconscious guy and all that blood...	
+2	小怜	约翰他应该没事吧……	約翰應該沒事吧……	ジョン、大丈夫かな……	요한은 괜찮겠지……?	John should be okay, right?	
+3	N/A	索娅盯着手中那片沾满血迹的玻璃，若有所思的说道──	索婭盯著手中那片沾滿血跡的玻璃，若有所思地說──	ソヤは持っている血まみれのガラスの破片を\n見つめながら、疑念を浮かべるように言った──	소야가 손에 든 혈흔이 가득한 유리를 쳐다본다──	Sonya replies, gazing down at the bloody glass shard in her hand:	
+4	索娅	这东西虽然割断了一些肌肉组织，但没伤到他的主要血管，能及时治疗的话问题不大……	這東西雖然割斷了一些肌肉，但應該沒傷到大動脈，及時治療的話問題不大……	この破片は筋肉組織を切断しておりましたけど、\n重要な血管は傷付けていないようでしたわ。\nすぐに治療さえすれば、大した問題にはならない\nでしょう……	근육 조직이 잘리기는 했지만 주요 혈관은 다치지 않았어. 빨리 치료한다면 문제 없을 거야……	It got some of his muscles but didn’t hit any major arteries. He should be fine if they treat him in time.	
+5	索娅	但他居然能带着那种伤走上20多分钟，一般人应该早就疼晕了。	但是他居然能帶著那種傷走了20多分鐘，一般人應該早就痛昏了。	ですが、あんな傷を負いながら彼は20分以上も\n歩いていましたの。\n普通の人間なら痛みで気絶していたはずですわ。	그런 상처를 달고 20분이나 넘게 걸어다니다니 보통 사람이면 벌써 쓰러졌을 거야	Still, it’s crazy how he walked for more than twenty minutes with that kind of wound. Any normal person would probably have fainted already.	
+6	小怜	……难道是『无痛症』之类的？	……難道是「無痛症」之類的？	……まさか『無痛症』とか？	……설마 『무통증』 같은 걸까？	... Maybe he has CIPA or something?	
+7	N/A	我想起之前看过的动画和电视剧都曾有症状类似的角色。	我想起之前看過的動畫和電視劇都出現過症狀類似的角色。	以前見たアニメやドラマで、似たような症状を\n持つ登場人物がいた事を思い出した。	예전에 애니메이션과 드라마에서 이런 증상을 가진 캐릭터를 본 적 있다.	It’s a disorder I remember seeing on TV. Lots of characters have it in animes and dramas.	
+8	N/A	由于感觉不到疼痛，即使是普通的阑尾炎都可能恶化到致命的腹膜穿孔什么的。	由於感覺不到疼痛，即使是普通的盲腸炎都可能惡化成致命的腹膜炎什麼的。	痛みを感じないから通常の盲腸炎でも放置して\nしまい、\n穿孔性腹膜炎とかいう致命傷にまで、\n悪化してしまうケースがあるらしい。	고통을 느끼지 못해서 맹장염이 치명적인 복막 천공까지 악화되는 그런 것들.	They can’t feel pain, so even appendicitis can kill them—they might not even notice something’s wrong until there’s a hole in their stomach or something.	
+9	索娅	那至少应该有触觉吧──	那至少應該有觸覺吧──	それであれば、少なくとも触覚はあるはず\nですわ。	그렇다면 최소한 촉감은 있었을텐데──	He should probably still have tactile senses though in that case.	
+10	索娅	裤子上那么大片的凝固血液不可能感觉不到，可他却没流露出一丁点不适的气息，简直……	褲子上有那麼大片凝固的血跡，怎麼會沒感覺，他卻沒流露出半點不舒服的氣息，簡直……	ズボンにあれだけ固まった血液が付着して\nいましたら、何かしらを感じるはずですわね。\nしかしながら、彼は少しも不快にしているように\n見えませんでした……これは…………	바지 위에 그렇게 큰 응고 혈액을 못 느꼈을리가 없어. 하지만 이상한 기운도 느껴지지 않았고……	He should’ve been able to at least feel that whole patch of congealed blood on his pants. Yet he didn’t seem to have noticed at all. He’s really...	
+11	索娅	太有趣了！！	太有趣了！ ！	…………なんと面白いのでしょうッッ！！！	정말 재밌는 걸！！	Fascinating!	
+12	小怜	诶？	什麼？	えっ？	엣?	What?	
+13	索娅	要不要过两天去医院试试看，什么样的刺激才能让那小子有反应……	過兩天去醫院看看，到底要什麼樣的刺激才能讓那小子有反應……	事態が落ち着きましたら病院に行きませんこと？\nどんな刺激で彼が反応するか試したいですわ……	이틀 뒤에 병원에 가서 어떤 자극을 줘야 반응을 보이는지 실험해 봐야겠어……	We should go check on him in the hospital. See what kind of stimuli will get a reaction out of him.	
+14	索娅	难道是因为小怜？	難道是因為小憐？	まさか、レンさんが原因っ！？	설마 렌 때문에?	Or maybe he was too focused on Ren to notice the pain?	
+15	索娅	啧啧，那样的话还得想办法绕过那个母猩猩把小怜给拐出来……	嘖嘖，那樣的話還得想辦法繞過那個母猩猩把小憐給拐出來……	であれば、あのメスゴリラの目を何とか騙して\nレンさんを誘拐しなくてはいけませんわね……\n成功の暁にはレンさんのお身体にイッロイロ\n聞いてみませんと……♪	쳇, 그렇다면 오랑우탄한테서 렌을 빼낼 방법까지 생각해야 하는데……	In that case, we have to use Ren as part of the experiment too. Gotta borrow her from that female gorilla...	
+16	N/A	索娅自言自语的念叨着一些很不妙的事情，我忽然感到胸部一阵酥麻。	索婭自言自語地碎念著一些很不妙的事情，我忽然感到胸部一陣酥麻。	ソヤが物騒な独り言を呟いている最中、\n急に胸に痺れを感じた。	소야가 혼자서 이상 말을 중얼거릴 때 갑자기 가슴 부근이 저릿해진다.	As Sonya rambles on, my chest vibrates out of nowhere.	
+17	N/A@莉琉	哪个母猩猩啊~	哪個母猩猩啊～	ほう、メスゴリラとは誰の事かな～～？	누가 오랑우탄이라는 거야~	Who were you calling a female gorilla, huh?	
+18	索娅	莉、莉琉！？	莉、莉琉！ ？	マ、マリルさんッ！？！？	마, 마리루！？	M-Mariru?	
+19	N/A	索娅惊恐的环视四周，但除了捂住胸部躲在一旁的我，周围空无一人。	索婭驚恐地東張西望，但除了摀住胸部躲在一旁的我，身旁空無一人。	ソヤは慌てて周囲を見渡すが誰もいない。\n\n胸を押さえてコソコソしている俺以外は。	소야가 당황하며 주위를 둘러봤지만 가슴을 가린 나 말고 주위에 아무도 없다.	Sonya whips her hair around in horror but doesn’t see Mariru anywhere. There’s only me, one hand on my buzzing chest.	
+20	N/A@莉琉	小怜想我了吗？	小憐，在想我嗎？	レン、私に会いたかっただろう？	렌, 나 보고 싶었어?	Miss me yet, Ren?	
+21	小怜	你就不能打手机吗！	妳就不能打手機嗎！	普通に携帯を使ってくれ！	휴대폰으로 연락하란 말이야!	Can’t you just call me on my phone?	
+22	索娅	居然……	喔喔喔，居然……	ま、まさか……	설마…	Whoa...	
+23	索娅	索娅终于发现了音源，立刻露出一副“请务必让我检查一下胸部”的表情。	索婭終於發現了聲音的來源，立刻露出一副「請務必讓我檢查一下胸部」的表情。	音の発信源を特定してしまったソヤが、すぐさま\n「胸をチェックさせろ」という表情を浮かべる。	소야가 소리의 출처를 발견하고 “네 가슴을 좀 봐야겠어”하는 표정을 한다.	Finally discovering the source of the voice, Sonya bounces over to me, eyes shining in curiosity.	
+24	N/A	就像看到归家主人的大型犬一般，摇着尾巴向我飞扑了过来──	就像看到主人回家的大型犬一樣，搖著尾巴向我飛撲過來──	尻尾を振り俺に飛びかかってくる様は、\n飼い主の帰宅を迎える大型犬のごとく──	집에 돌아온 주인을 반기는 대형견처럼 꼬리를 흔들며 이쪽으로 날아온다──	She leaps up towards my breasts, much like a golden retriever with a wagging tail—	
+25	N/A	突然她的脚踝闪出一道耀眼的孤光，飞在半空的身体瞬间就被拍了下去。	突然她的腳踝閃出一道耀眼的孤光，才跑到一半的她瞬間就摔了下去。	──しかし忘れた頃に足首から眩い光が発生。\n\n宙を飛んでいた彼女の身体は、強烈な電撃に\n襲われ、瞬時に叩き落されてしまう。	갑자기 그녀의 발찌에서 눈부신 빛이 나오고 공중에 있던 몸이 순식간에 떨어졌다.	From her ankle, a sudden bright arc appears. Sonya slams into the ground.	
+26	N/A	只见索娅脸贴地面，先是右侧的胳膊和腿抖动了两下，很快就以半身不遂的姿态爬了起来。	只見索婭的臉貼著地面，右手和右腳先抖了兩下，很快就用半身不遂的姿勢爬了起來。	顔から落ちて滅茶苦茶に痛そうだったが、\n右の手足が微かに動くと、\nすぐにソヤは右半身の力だけで起き上がった。	바닥에 붙은 소야가 팔과 다리를 두번 움찔거리더니 반신불수의 자세로 재빨리 일어난다.	Her right arm and leg spasm twice, and she manages to clamber up, half-paralyzed.	
+27	小怜	（似乎……复活得越来越快了？）	（復活的速度好像越來越快了？ ）	（なんか復活速度が早くなっているような？）	（……회복이 점점 빨라지고 있어？）	(She seems to be recovering to the electric shocks faster now...?)	
+28	N/A	她眼中闪烁着泪花，一边揉着尚未恢复的左臂，一边抬起头对着天空抗议。	她眼中閃著淚光，一邊揉著尚未恢復知覺的左臂，一邊抬起頭對著天空大喊。	回復していない左腕を摩りながら、\n涙を浮かべつつ空へ向かってソヤは文句を叫ぶ。	소야가 눈물을 머금고 회복되지 않은 왼팔을 어루만지며 공중에 항의한다.	Eyes brimming with tears, the girl sits up, rubbing her aching left arm, and lifts her head towards the sky in a silent complaint.	
+29	索娅	喂！这破脚环还能遥控吗？！	喂！ 這爛腳環原來還可以遙控啊！ ！	ちょっとッ！！\nこの足輪は遠隔操作もできますの！？	어이！이 팔찌 원격조종도 가능해？！	Geez, you can even remote-control this thing?	
+30	N/A	我顺着索娅看的方向望去，一个小红点幽幽的浮在半空。	我順著索婭看的方向望去，一個小紅點幽幽地飄在半空中。	ソヤが見上げた方向を眺めると、弱々しい\n赤い光が宙に浮かんでいた。	소야의 시선을 따라가보니 작고 붉은 점이 공중에 느릿느릿 떠있다.	I follow Sonya’s gaze and spot a tiny red dot hovering in the air.	
+31	N/A@小怜	无人机？	無人機？	……ドローン？	무인기?	A drone?	
+32	N/A@小怜	这一带不是禁飞区吗……	這一帶不是禁飛區嗎……	ここら辺って飛行制限エリアじゃ……	여긴 비행 금지 구역이잖아……	Aren’t drones banned in this area?	
+33	N/A	虽然SID平时都无视这种限制，但莉琉前几天才强调过，国际和平论坛期间绝不许踩红线。	雖然SID平時也不把這種限制放在眼裡，但莉琉前幾天才強調過，國際和平論壇期間絕不許踩紅線。	こういう制限の無視をよく行うSIDだけど、\n国際平和フォーラム期間中は、\nレッドラインを越える真似をするなって、\nこの前マリル自身が強調して言っていたのに……	SID는 평소에 이런 제한을 무시하긴 하지만 마리루가 며칠전 국제 포럼 기간에 선을 넘어선 안된다고 강조했었다.	Bans never did hinder SID, of course, but didn’t Mariru say herself a couple days ago that we need to err on the side of caution during the International Forum of Peace?	
+34	小怜	（不知袭警、越狱和挑起暴动算不算……）	（不知道襲警、越獄和挑起暴動算不算……）	（あっ…………）\n\n（警察官への暴行、脱獄、暴動の扇動……）\n\n（そもそも俺ら既にレッドラインなんて余裕で\n　超えている可能性が……）	（경찰 공격, 탈옥, 폭동이 그 안에 포함되는지는 모르겠지만……）	(Well, I guess attacking cops, jail-breaking and starting riots don’t really count as erring on the side of caution either...)	
+35	N/A@莉琉	今天情况特殊，目前第一大道那边聚集的示威人群已经超过五万人了。	今天情況特殊，第一大道那邊聚集的示威人群已經超過五萬人了。	今日の状況は特殊だ。\n\n現在、中央通りに集まっているデモ隊の人数は\n5万人を超えている。	오늘 상황은 특별해. 현재 제1도로에 모인 시위 인원이 5만명을 넘었어.	The situation is special today. There’s already more than fifty thousand people gathered on First Avenue, marching for who knows what.	
+36	小怜	这么多？！	五萬？ 這麼多？ ！	そんなに！？！？	그렇게나 많이?!	That many?	
+37	N/A@莉琉	现在总共7个区域发生了暴动，保安军总部也乱成了一锅粥。	現在總共有7個區域發生暴動，保安警察總部也亂成一團。	合わせて7つのエリアで暴動が発生中だな。\n流石の保安軍本部も混乱状態だ。	현재 총 7개 구역에서 폭동이 일어났고 보안군 본부도 소란이 일어났어.	There’s already been riots in seven areas. The headquarters of the security soldiers is a mess right now.	
+38	N/A@莉琉	我跟他们的指挥官说，如果这次事件处理不当，很有可能会殃及新丰洲──	我跟他們的指揮官說，如果這次事件處理不當，很有可能會殃及整個新豐洲──	このまま処理できなければ新豊洲の全域にまで\n波及する可能性が高いと彼らの指揮官に告げた。	그쪽 지휘관에게 만약 이번 일을 잘 처리하지 못하면 신토요스에게 영향을 미칠지도 모른다고 얘기했어──	I told their commander that if they don’t deal with these riots in an appropriate way, New Opulentia could be in trouble...	
+39	N/A@莉琉	顺便稍稍给了他和他的家人一点压力，那家伙就很干脆的决定与SID共享安保权限了。	順便稍微給了他和他的家人一點壓力，那傢伙就很乾脆地決定與SID共享安全權限了。	ついでに、ほんの少し彼と彼の家族に\nプレッシャーをかけたら……\nSIDとの安保権限の共有をあっさりと\n認めてくれたぞ。	그와 가족들에게 약간의 압력을 줬더니 흔쾌히 SID와 보안 권한을 공유하기로 결정하더군.	And I kinda pressured him a bit by bringing up his family. Poor guy agreed to allow the SID to bypass certain restrictions right away.	
+40	小怜	（“稍稍”个鬼啊！！）	（「稍微」個鬼啊！ ！）	（家族にプレッシャーかけてる時点で「少し」\n　じゃない！）	（“약간”이 아니잖아！！）	(“Kinda” pressured?)	
+41	N/A@莉琉	他们为了这次和平论坛真是下本，统一更换了协约非武装区内所有市电路灯的照明和监控系统。	他們為了這次和平論壇真是下了重本，還全面更換了協議非武裝區內所有路燈的照明和監視系統。	彼らは今回の平和フォーラムのためにコストを\n惜しまなかったようだ。\n協定非武装地域内の照明と監視システムの\n改修まで行っていたよ。	이번 평화 포럼에 많은 공을 들였어. 협약 비무장지대 내 모든 가로등과 감시 시스템을 바꿨거든.	They really went all out for the Forum this year. Even refitted all the street lamps in the Agreed Demilitarized Zone with new models.	
+42	N/A@莉琉	居然把每盏路灯都变成了一台监控摄像机，还配套安装了相应的网路和控制单元。	每盞路燈都成了監視器，還連帶安裝了對應的網路和控制系統。	全ての街灯を監視カメラに変えて、対応する\nネットワークと制御ユニットを設置している。	가로등을 감시 카메라로 바꾸고 네트워크와 제어 유닛까지 설치했어.	Each street lamp doubles as a surveillance camera now. Got the corresponding networks and units installed too.	
+43	索娅	可市电路灯的覆盖范围本来就有限吧，你还不是得用无人机。	可是路燈的覆蓋範圍本來就有限吧，妳還不是得用無人機。	街灯の監視範囲だけでは限りがありますわよね？\n\nだから結局、ドローンを使っているのじゃ\nありませんの？	하지만 시내용 가로등의 적용 범위는 원래 제한적이잖아. 너도 무인기를 쓰고 있고.	That’s not a very smart plan. Surely there are locations with no street lamps. Why else would you have to use drones, right?	
+44	N/A	索娅抓住机会想要吐槽，莉琉却表示认同。	索婭抓到機會想要吐槽，莉琉卻表示認同。	ここぞとばかりにソヤは指摘をするが、\nマリルはあっさりと認めてしまう。	소야가 투덜거릴 기회를 잡았지만 마리루가 바로 인정해버린다.	Sonya says, mockingly, but Mariru simply hums in agreement.	
+45	N/A@莉琉	这种监控方案成本和收益根本不成正比，而且还有很大的政治风险──	妳說的對，這種監控方案的成本和收益根本不成正比，而且還有很大的政治風險──	確かにこんな監視システムではコストと収益が\n比例しないばかりか、\nかなりの政治的リスクがあるな。	이런 감시 방안의 자본과 수익은 정비례하지 않아. 게다가 큰 정지 위험도 따르지──	Yeah, not a smart plan at all. Costs a lot, and doesn’t yield a lot of results. Besides, there’s a huge political risk factor too...	
+46	N/A@莉琉	万一被媒体发现，肯定会把乔治奥威尔之类的抬出来对联合议会口诛笔伐一番。	萬一被媒體發現，一定會把喬治歐威爾之類的評論家抬出來，對聯合議會口誅筆伐一番。	万が一メディアに露見でもしたら、\nジョージ・オーウェルの言葉なんかを引用して、\n容赦なく連合議会を批判するに違いない。	만일 언론에 들킨다면 조지 오웰 같은 걸로 연합의회의 죄를 폭로할 거야.	If the media finds out about there being surveillance cameras everywhere, they’ll definitely bring up classic dystopian novels. George Orwell and stuff like that. The United Congress would be under fire.	
+47	N/A@莉琉	不过我真正想要的情报正是这个。	不過，我真正想要的情報正是這個。	──だがそれこそが、私の欲しかった情報だ。	하지만 내가 진짜 원하는 정보가 바로 그거야.	Anyway, I found out what I needed to know.	
+48	莉琉	只要给一些人施加很小的影响，就能让全世界最有权力的机构做出明显愚蠢的决策。	只要對一些人施加很小的壓力，就能讓全世界最有權力的機構做出明顯且愚蠢的決策。	ごく一部の人間に少し影響を与えるだけで──\n\n世界で最も権威を持つ機関に、明らかな愚策へと\n走ってもらう事ができる。	일부 사람들에게 약간의 영향만 주면 전세계에서 가장 권력 있는 기관이 멍청한 결정을 내리게 할 수 있어.	It’s now confirmed that all I need to do is put certain people under a bit of pressure to convince even the world’s most influential organizations to make blatantly stupid decisions.	
+49	莉琉	关键是如何锁定那些人……	關鍵是，要如何才能鎖定那些人……	大事なのは、その一部の人間をどうやって\n見つけ出すかだ……	그 일부 사람들을 어떻게 확정할지가 관건이지……	Now, all we need to know is who to target...	
+50	N/A	莉琉满意的看着手持设备刚录入的几千份档案，每份档案都标明了身份、账号、金额和备注信息。	莉琉滿意地看著手持平板上剛才收錄完成的幾千份檔案，每份檔案都標明了身分、帳號、金額和備註。	マリルが満足げに眺めるているタブレットには、\n登録されたばかりの多数のファイルが存在する。\nそして1000件以上になるであろうデータ全てに\n身分、アカウント、金額などが明記されていた。	마리루가 휴대 기기 안 수천개의 파일을 만족스럽게 쳐다본다. 각 파일에 신분, 계좌, 금액, 기타 정보가 들어있다.	Mariru scans the thousands of profiles that have just been imported into her handheld device. Profiles that contain identities, bank accounts, amount of funds and other related details.	
+51	N/A@小怜	什么意思……	什麼意思……	どういう意味だ……？	무슨 뜻이야……	What do you mean...?	
+52	莉琉	比如新丰洲城市邦联的最高权力机构是元老院，那元老院在新丰洲的权力是无限的吗？	比如說，新豐洲的最高權力機構是元老院，所以元老院對新豐洲的權力就是無限的嗎？	新豊洲連邦の最高権力を持つ機関は元老院だが、\n彼らが無限に権力を持っているとは思わんだろ？	예를 들어, 신토요스 연방의 최고 권력 기관은 원로원인데, 그 원로원의 신토요스 내 권력이 무제한일까?	For example, the Senate is the organization that holds the most power over the New Opulentia Federation. In that case, what I’d like to know is how much power the Senate holds exactly. Does everyone have to follow their orders?	
+53	N/A@小怜	你好像就不怎么听他们的……	是嗎？ 妳好像就不怎麼服從他們……	そんなに権力ないよな？\nだってマリルは言う事をあまり聞いてないし……	그러고 보니 너도 원로원의 말을 잘 듣지 않잖아……	You don’t, for one...	
+54	莉琉	所以说，每个国家都有复杂的权力体系，影响因素可能有经济、军事、历史、文化、宗教等等原因。	所以說，每個國家都有複雜的權力體系，而且可能會受到經濟、軍事、歷史、文化、宗教等等原因所影響。	そうだ。だからこそ国という単位には\n複雑な権力構造があるわけだな。\n経済、軍事、歴史、文化、宗教など……\n影響には色々な要因がある。	각 국가는 복잡한 권력 구조가 있어. 경제, 군사, 역사, 문화, 종교 등등 많은 요소 때문이야.	In a nutshell, every nation is composed of a multi-layered system of power. The power different organizations hold is affected by many factors: the economy, the military, history, cultures, religions and more.	
+55	莉琉	而一国元首，只是在各方的复杂博弈中，被推选出负责维持均衡的代理人。	一國的元首，說穿了只是在各種複雜的權力博弈中獲選出來負責維持平衡的代理人。	国の元首って言うのはな？\n\n各勢力が面倒くさい小競り合いをする中で、\n均衡を維持するため選出された代理人に過ぎん。	한 나라의 원수는 그저 복잡한 게임 속 밸런스를 유지시키는 대리인일 뿐이지.	As for the leader of a nation, they’re merely a representative that has been chosen to keep the balance in the complicated struggle for power among different factions.	
+56	莉琉	从古至今，无论是民主、独裁、共和或者是学院政体，从来没有什么真正的王──	從古至今，無論是民主、獨裁、共和或者是學院政體，從來沒有什麼真正的統治者──	過去から現在も、民主、独裁、共和、あるいは\n学院政体だとしても、\n本物の王なんてものは存在しないのだ。	고대부터 지금까지 민주, 독재, 공화, 학원 정부 모두 진정한 왕은 없었어──	Since the very beginning in history, no matter in what political system—democratic, dictatorship, republic, academic—there’s never been a real “King” who decides everything.	
+57	莉琉	有的只是不断妥协，在一个个电车难题中替众人做出抉择，并以自己的人格背负全部谴责的人。	有的只是不斷妥協，在一個個電車難題中替眾人做出抉擇，並以自己的人格背負所有譴責與罪惡的人。	存在するのは、次から次へ来る二者択一の選択を\n妥協しながら民衆の代わりに選択し、\nたった1人で人格すらも否定されながら\n罵倒を浴びる責任者だけ。	끊임없는 타협만 있었을 뿐. 난제 속에서 민중을 대신해 결정을 내리고 자신의 인격으로 모든 비난을 책임지는 사람.	All there was is someone who has to negotiate their way through countless conflicting situations, make impossible choices for everyone, and take the blame for all things that aren’t their fault.	
+58	N/A	莉琉顿了顿，望向远处一排穿着防辐射服正在引导人员疏散的回收队员。	莉琉頓了一下，望向遠處一排穿著輻射防護衣、正在引導人員疏散的回收隊員。	マリルは少し動きを止め、避難者を導いている\n放射線防護服を着た回収員達を見た。	마리루가 말을 멈추고 저 멀리 방사선 방호복을 입은 회수 요원들을 바라본다.	Mariru pauses, gazing at a group of retrieval team members, who are evacuating the masses in hazmat suits.	
+59	N/A@莉琉	背负着这些东西的人看似强大，但身上早已伤痕累累。	背負著這些東西的人看似強大，其實身上早已傷痕累累。	それら全てを背負う人間は強く見えるが──\n\n──本当は傷だらけだ。	이런 것들을 책임지는 사람들은 강해보이지만 이미 많은 상처가 누적돼있어.	That one person who holds all this responsibility... they may look strong, but in fact their bodies bear more scars than they can count.	
+60	索娅	……	……	…………	……	…	
+61	N/A	索娅单手捂在胸前沉默不语，我却听得一头雾水。	索婭單手捂在胸前沉默不語，我卻聽得一頭霧水。	片手で胸を抑え黙って何も言わないソヤと、\n何を言っているかさっぱり分からない俺。	소야가 한 손을 가슴에 올리고 아무 말이 없다. 난 오히려 얼떨떨하다.	Sonya remains silent, a hand over her chest, while I stare, confused.	
+62	小怜	还是没听懂……	我還是聽不懂……	えっと、結局……何が言いたいの……？	아직 모르겠어……	I’m not sure I understand...	
+63	索娅	因为不是说给你听的……笨蛋。	因為不是說給妳聽的……笨蛋。	あなたに言い聞かせたわけじゃありませんわ。\n……おバカさん。	너한테 말한 게 아니니까……바보.	You’re not meant to anyway, idiot.	
+64	N/A	索娅调整了一下呼吸，郑重其事的问道。	索婭調整了一下呼吸，鄭重其事的問道。	ソヤは息を整えてから、真剣に質問する。	소야가 호흡을 가다듬고 진지하게 묻는다.	Sonya forces herself to calm her breathing and finally asks, tone serious:	
+65	索娅	你已经掌握了足够的筹码，但还缺关键的最后一块拼图，所以想跟我做个交易，对吗？	妳已經掌握了足夠的籌碼，但還缺少關鍵的最後一塊拼圖，所以想跟我交易，對嗎？	要するにパズルの完成を間近に控えましたが\n大事な最後のピースが足りない……\n……ですから、わたくしと取引をしたいと？	넌 이미 충분한 패를 가졌지만 중요한 퍼즐 하나가 부족해. 그래서 나랑 거래를 하고 싶은 거지?	I see that you’re here to bargain—but the final puzzle piece, the most crucial one, is still missing. So you’re willing to give me something in exchange for my information, huh?	
+66	N/A@莉琉	没错。	沒錯。	そうだ。	맞아.	Yup.	
+67	N/A	莉琉的回答简单干脆。	莉琉的回答簡單乾脆。	マリルはきっぱりと返事した。	마리루가 시원스럽게 대답한다.	Mariru replies, easily.	
+68	N/A@莉琉	据我所知，『审判骑士』本意是“持有真理之印的黑衣修士”，500多年里只有不到20人获此殊荣。	據我所知，「審判騎士」本意是「持有真理之印的黑衣修士」，500多年來只有不到20人獲此殊榮。	私の知る限り『審判騎士』の本来の意味は\n「真理の印を所持する黒衣の修道士」であり、\nその特別な栄誉を得たのは500年間で20人にも\n満たない。	내가 알고 있는 바로 『심판 기사』는 “진리의 인장을 보유한 흑색 수도사”, 500년 동안 영광을 얻은 사람은 20명 미만.	As far as I know, Judgment Knights are “black-robed monks who own the Seal of Truth”. Fewer than twenty lucky ones have received such an honor in over the past five hundred years.	
+69	N/A@莉琉	历史上战斗天赋异禀的黑衣修士并不在少数。	歷史上，對戰鬥天賦異稟的黑衣修士並不在少數。	歴史上、優れた戦闘素質を持っている\n黒衣の修道士は多く存在した。	전투 재능이 뛰어난 흑색 수도사는 적지 않아.	In history, there have been countless highly talented black-robed monks.	
+70	N/A@莉琉	但要想获得代表神之国最高豁免权的真理之印，需要被教廷认定作出了重大贡献。	但想要獲得代表神之國最高豁免權的真理之印，必須被教廷認定對人類有重大貢獻才行。	だが、神の国の最高免責特権を象徴する\n真理の印を得るためには、\n多大なる貢献をして教皇庁に認められなければ\nならない。	하지만 최고 면책권을 의미하는 진리의 인장을 얻으려면 교황청이 인정할만한 큰 공을 세워야 해.	Yet not even they received the Seal of Truth, a symbol of the highest immunity in the Kingdom of God. Only those whom the church determined to have made an important contribution to the world have the privilege.	
+71	N/A@莉琉	你的真理之印是在两年前，由已故的上任教宗卡利克斯特四世亲自颁发的──	妳的真理之印，是兩年前已故的上屆教宗卡利克斯特四世親自頒發的──	お前の真理の印は、2年前に今は亡き前教皇、\nカリストゥス4世から授かった物──	네 진리의 인장은 2년 전, 갈리스토4세가 직접 수여했다고 들었어──	You received yours two years ago. It was awarded to you by the late Pope, His Holiness Callistus IV.	
+72	N/A@莉琉	而那时你还不到12岁吧？	那時妳還不到12歲吧？	その時のお前は……\nまだ12歳にもなっていなかったのだろう？	그 때 넌 12살도 안된 꼬마였지？	You couldn’t have been more than twelve years old then, could you?	
+73	索娅	调查的很清楚呐……	調查得還真清楚……	まったく……良く調べていますわね……	정확히 조사했네……	Hm, you really know a lot.	
+74	N/A@莉琉	那么我就直接问了。	那麼，我就直接問了。	単刀直入に聞こう。	그럼 단도직입적으로 물을게.	Well, I’ll cut straight to the point.	
+75	N/A@莉琉	三年前，你在圭亚那高的那次“净化”任务，究竟做了什么？	三年前，在圭亞那高的那次「淨化」任務，妳究竟做了什麼？	3年前、ギアナ高地で行われた「浄化」の任務中\nお前は一体何をした？	3년 전, 가이아나에서 수행했던 그 “정화”임무는 도대체 뭐였어?	What exactly did you do three years ago, on the “purification” mission at the Guyana Shield?	
+76	N/A	索娅沉吟了片刻，之后抬起头。	索婭沉默片刻後抬起了頭。	ソヤはしばらく沈黙してから、顔を上げた。	소야가 잠시 침묵하다 고개를 든다. 	Sonya is quiet for a few seconds before looking back up.	
+77	索娅	我知道你想要什么，但你得先答应我几个条件~	我知道妳想問什麼，但妳得先答應我幾個條件。	あなたの埋められないパズルのピースを、\nわたくしは知っております。\nそれを知りたいのであれば条件がありますわ。	네가 뭘 원하는지 알아. 하지만 몇가지 조건이 있어~	I know what you want from me, but I have conditions.	
+78	N/A@莉琉	你说吧。	說吧。	……言ってみろ。	말해.	Sure, I’m all ears.	
+79	索娅	第一，马上解除这个脚环！	第一，馬上解除這個腳環！	まずは1つ……\nこの足輪を今すぐ解除してくださいましッ！！	첫째, 이 발찌를 당장 풀어줘! 	First, deactivate this anklet, now!	
+80	N/A@莉琉	做不到。	辦不到。	それはできない。	안돼.	I can’t.	
+81	索娅	哈？	哈？	はうんッ！？！？	뭐?!	What?	
+82	N/A@莉琉	解除脚环需要SID的特殊设备，目前只能先把你和小怜的安全距离设为最大的200米。	解除腳環需要SID的特殊設備，目前只能先把妳和小憐的安全距離設為最大距離200公尺。	足輪の解除にはSIDの特殊設備が必要だ。\n\n現時点では、お前とレンの安全距離を\n最大200メートルに設定する事しかできない。	팔찌를 해제하려면 SID의 특수 기기가 필요해. 지금은 너와 렌의 안전 거리를 최대 200미터로 설정할 수 밖에 없어.	Deactivating requires special equipment from the SID headquarters. I can’t do it remotely. Right now, all we can do is set the distance allowed between you and Ren to the maximum number, around 650 feet.	
+83	索娅	好吧……总比10米强。	好吧……總比10公尺好。	ま、まあいいでしょう……\n10メートルよりはマシですわ。	좋아……10미터 보다는 낫군.	... Fine, at least that’s better than thirty feet.	
+84	N/A	不一会，索娅脚环上的黄灯闪了几下。	沒多久，索婭腳環上的黃燈閃了幾下。	しばらくすると、足輪のランプが数回点滅した。	잠시 후 소야의 발찌 위 노란등이 반짝인다. 	The yellow indicator light on Sonya’s anklet blinks a few times.	
+85	N/A@莉琉	设置好了。	設定好了。	……設定完了だ。	설정됐어.	It’s done.	
+86	N/A	索娅盯着我小心翼翼的后退，直到我们距离肯定超过10米的程度才松了一口气。	索婭盯著我小心翼翼的後退，直到確認我們的距離可以超過10公尺了，才鬆一口氣。	ソヤは俺を見つめながら用心深く離れていく。\n\n10メートル以上の距離を超えても\n何も起きない事が分かり、ほっと一息吐いた。	소야가 날 바라보며 천천히 뒤로 물러선다. 나와의 거리가 10미터 넘어서자 안도의 한숨을 내쉰다.	Eyes fixed on me, Sonya begins backing away cautiously, pausing every few steps, finally sighing in relief when it’s obvious that we’re over 650 feet apart.	
+87	索娅	第二，我要知道贝阿特丽切和小怜的关系，让小怜亲口跟我说。	第二，我要知道貝阿特麗切和小憐的關係，而且要小憐親口跟我說。	2つ目は、ベアトリーチェさんとレンさんの\n関係性をお教えいただけますでしょうか？ \nこれはレンさんから直接お伺いしたいですわね。	둘째, 베아트리체와 렌의 관계를 알고 싶어. 렌이 직접 내게 얘기해줬으면 좋겠어.	Well, second, I want to know what’s up between Beatrice and Ren. And I want Ren to tell me in her own words.	
+88	N/A	莉琉沉默了好一阵。	莉琉沉默了好一陣子。	マリルはしばらく考えてから、口を開く。	마리루가 잠시 침묵한다.	Mariru ponders this in silence for a bit.	
+89	N/A@莉琉	可以，但你要保证不能对其他人透露。	可以，但妳要保證絕對不能洩露出去。	構わないが、秘密の厳守を約束してもらいたい。	좋아. 단, 다른 사람에게 얘기하지 않겠다고 약속해야 돼.	... Fine. But you must promise you won’t tell anyone else.	
+90	小怜	真、真的没问题？	真、真的可以嗎？	お、教えてあげて大丈夫か？	저, 정말 괜찮은 거야?	W-what? Is it really okay to tell her?	
+91	N/A	贝阿特丽切本人在13世纪去世，根据爱衣的说法，她现在的身体是我在召唤她的那一刻制造的。	貝阿特麗切本人在13世紀去世，而依照愛衣的說法，她現在的身體是我在召喚她的那一刻製造出來的。	ベアトリーチェ本人は13世紀に亡くなってる。\n\n愛衣によると、今の彼女の身体は俺が召喚した時\n創ったモノらしい。	베아트리체는 13세기에 죽었다. 아이의 말에 따르면 그녀의 몸은 내가 소환할 때 형성됐다고 한다.	Beatrice had died sometime in the thirteenth century. According to Aya, Beatrice’s current body had only been created the very moment I summoned her.	
+92	小怜	（我制造了那么棒的身体吗？一点实感都没……）	（我製造了那麼棒的身體嗎？ 一點真實感都沒有……）	（あんな素敵な身体を俺が創った事に\n　なるんだよな？）\n\n（実感ないんだけど……）	（내가 그렇게 훌륭한 몸을 만들었다고? 실감이 안나……）	(So I “created” such an amazing body? That’s surreal...)	
+93	N/A	然而这件事被列为绝对机密，即使对元老院都严格保密。	但這件事被列為絕對機密，即使對元老院也不得透露。	その事実は機密事項とされていて、元老院にさえ\n明かしてはいない。	이 일은 절대 기밀이 됐고 원로원에게도 엄격히 비밀로 되어있다.	However, this fact is labeled a top secret. Not even the Senate can know.	
+94	N/A	目前只有我、安妮、贝阿特丽切、拉斐尔、戴克斯博士、莉琉、爱衣和海因里希8个人知情。	目前只有我、安妮、貝阿特麗切、拉斐爾、戴克斯博士、莉琉、愛衣和海因里希8個人知情。	俺、アニー、ベアトリーチェ、ラファエル、\nデックス博士、マリル、愛衣、ハインリッヒ……\nこの8名だけが、今の所それを知っている。	현재는 나, 앤, 베아트리체, 라파엘, 덱스 박사, 마리루, 아이, 하인리히 여덞 명만 알고 있다.	Currently, only eight people in the whole world knows the truth: me, Annie, Beatrice herself, Raphilia, Dr. Dekkers, Mariru, Aya and Henrietta.	
+95	小怜	（她们俩要交换的究竟是什么级别的情报啊……）	（她們要交換的，究竟是什麼等級的情報啊……）	（2人が今から交換しようとしている情報って、\n　一体どれぐらいの機密なんだろう……）	（두 사람 도대체 무슨 정보를 거래하려는 걸까……）	(The information Mariru wants from Sonya must be insanely important...)	
+96	索娅	我保证不对别人说。	我保證不說出去。	他言は無用って事ですわね。\n分かりましたわ。	다른 사람에게 말하지 않겠다고 약속해.	I promise not to tell a soul.	
+97	索娅	不过小怜要是撒谎的话，我一眼就能看出来哦~	不過，小憐要是說謊的話，我一眼就能看出來哦～	嘘は、わたくしには通用しませんからね？ \n\nもしレンさんが嘘をつきましたら……\nわたくし何をしでかすか分かりませんわよ♡	하지만 렌이 거짓말을 한면 난 바로 알아챌 수 있어~	But don’t forget—if Ren lies, I’ll be able to tell at a glance!	
+98	小怜	知道啦知道啦！\n就你厉害……	好啦好啦！ \n妳最厲害啦……	分かった。分かったよ！\nはいはい～～すごいすごい……	아, 알았어! \n거짓말 안 해……	All right, all right!\nStop rubbing it in...	
+99	N/A	然后，索娅饶有兴致的听我讲了之前在天空酒店通过拉斐尔的宝石项链召出贝阿特丽切的全过程。	然後，索婭興致盎然地聽我講了先前在天空酒店透過拉斐爾的寶石墜飾召喚出貝阿特麗切的整個過程。	俺はスカイホテルで起きた事件の経緯を\nソヤに伝えた。\nラファエルの宝石を使いベアトリーチェを召喚、\n……そんな話をソヤは興味津々で聞いている。	소야가 스카이 호텔에서 라파엘의 보석 목걸이로 베아트리체를 소환한 이야기를 흥미롭게 듣는다.	I proceed to explain my experience in Sky Hotel, where I summoned Beatrice using Raphilia’s emerald necklace.	
+100	N/A	在莉琉的默许下，连贝阿特丽切打退雅各以及她身上的诅咒都说了出来。	在莉琉的默許下，我連貝阿特麗切打退雅各以及她身上的詛咒等等，都說了出來。	ベアトリーチェがヤコブを撃退した時の事、\n彼女の身を苛む呪いの事、\nマリルの黙認の下で洗いざらい全てを話した。	마리루의 묵인 아래 베아트리체가 야곱을 쓰러트린 일과 그녀의 저주까지 모두 털어놓았다.	Under Mariru’s permission, I tell her the part about Beatrice defeating Igor and her “curse” as well.	
+101	N/A	索娅两眼放光，像听故事的小孩子一样，边听边发出阵阵惊叹。	索婭兩眼發光，像聽故事的小孩子一樣，邊聽邊發出陣陣驚嘆。	ソヤは目を輝かせ、物語を聞く子供のように\n1つの言葉に何度も声を上げて反応していた。	소야의 두눈이 이야기를 듣는 아이처럼 반짝이며 감탄을 내뱉는다. 	Sonya listens on, eyes bright, like a child enjoying a bedtime story, interjecting with excited gasps from time to time.	
+102	索娅	所以拉斐尔家那条祖传项链上的绿宝石，最初是镶嵌在贝阿特丽切佩剑上的？	所以拉斐爾家那條祖傳項鍊上的綠寶石，最初是鑲嵌在貝阿特麗切的佩劍上？	つまりラファエルさんが持っているペンダントの\nエメラルドが、\n元々ベアトリーチェさんの剣に装飾されていた\n物であったと……	그러니까 라파엘의 그 목걸이 위에 있던 보석이 원래 베아트리체의 검에 각인됐던 거란 말이지?	So the emerald on that necklace that belonged to Raphilia’s family... it used to be embedded in Beatrice’s sword centuries ago?	
+103	小怜	嗯，爱衣鉴定之后确认了。	嗯，愛衣鑑定之後確認是這樣沒錯。	うん、愛衣が鑑定して確認した。	응. 아이가 이미 확인했어.	Yeah. Aya confirmed that. She’s an expert.	
+104	索娅	贝阿特丽切·波尔蒂娜，原来被但丁写在诗里的那个人是魔女……	貝阿特麗切·波爾蒂娜，原來被但丁寫在詩裡的那個人是魔女啊……	ベアトリーチェ・ポルティナーリ……\n\nダンテの詩に描かれている、あの方が\n魔女だなんて……	베아트리체 포티나, 단테가 쓴 시 속의 그 사람이 마녀라니……	Beatrice Portinari... she was in Dante’s work, depicted as a witch...	
+105	索娅	真是太有趣了！	真是太有趣了！	なんとも……身悶えしてしまうほどに、\n興味が尽きませんわ！！	정말 재밌어! 	That’s so fascinating!	
+106	N/A@莉琉	咳咳──	咳咳──	ゴホン──	크흠──	Ahem.	
+107	索娅	你想要的证据就在我身体里，如果是那个爱衣的话应该能检查出来。	妳想要的證據就在我身體裡，那個愛衣應該能檢查出來。	あーーはいはい、あなたの欲しい証拠は\nわたくしの身体の中にありますわよ。\nあの愛衣とかいう人が検査すれば分かる事\nでしょうね。	네가 원하는 증거는 내 몸 안에 있어. 아이라면 찾아낼 수 있을 거야.	Okay, the evidence you need... it’s right inside me! That Aya girl will probably be able to detect it.	
+108	索娅	但我还想陪小怜再多玩会儿，明天中午12点前我们一起回SID可以吗？	但我還想跟小憐多玩一下下，明天中午12點前我們一起回SID可以嗎？	ですが、もう少しレンさんと遊びたいですの。\n\n明日のお昼12時までには、レンさんと一緒に\n帰還しますわ。	하지만 렌과 조금 더 놀고 싶어. 내일 오후 12시에 같이 SID에 돌아가도 될까?	But I wanna hang out with Ren a bit longer! Can we return to SID tomorrow instead of now? I promise to be back before noon!	
+109	N/A@莉琉	那好吧……	好吧……	いいだろう……	그렇게 해……	Fine...	
+110	N/A@莉琉	对了小怜，爱衣已经把无人机和保安军的监控画面衔接在一起了，你也有权限，用手机就能看。	對了小憐，愛衣已經把無人機和保安警察的監視畫面串在一起了，妳也有權限，用手機就能看。	そうだ、レン。\n\n愛衣がドローンと保安軍の監視画面を\n繋ぎ合わせてくれた。\nお前にも権限を与えたから、携帯で\n確認できるぞ。	렌, 렌이 무인기와 보안군의 감시 화면을 연결했어. 네 휴대폰으로 볼 수 있을 거야. 	Oh, by the way, Ren, Aya’s collected all the surveillance footage from the drones and the security soldiers and put them all together on a page. You have access too, you can check it on your phone.	
+111	N/A@莉琉	今晚的暴乱，不知是不是跟异质物有关，你们一定要小心。	今晚的暴動不確定是不是跟異質物有關，妳們務必小心。	今夜の暴動は異質物と関係性があるのかどうか\n現時点でも調査に手が付けられていない状況だ。\nだが可能性は十分に高い。\nお前達は気を付けてくれ。	오늘 밤 폭동이 이물질과 관련되어 있을지 모르니 조심해.	We don’t know yet if the chaos tonight is caused by Substance H. Promise me you’ll be careful.	
+112	N/A	说罢，莉琉结束了通信。	語畢，莉琉中斷了通訊。	そう言って、マリルは通信を切った。	말을 마친 마리루가 통신을 끊었다.	Mariru then cuts the connection.	
+113	莉琉	至于你们几个──	至於妳們幾個──	さて、諸君らに関しては──	너희들은──	As for you guys...	
+114	N/A	莉琉看着地上几个被五花大绑，扒光只剩内裤，嘴上还贴着胶条的拍卖会组织人员。	莉琉看著地上幾個被五花大綁，全身扒光只剩內褲，嘴上還貼著膠帶的拍賣會工作人員。	マリルが見た方向には、下着以外を全て脱がされ\n雁字搦めに縛られた挙句、\n口にガムテープを貼られている人達がいた。\n\n彼らはオークションに関係する組織の一同だ。	마리루가 속옷 차림으로 결박된 경매장 조직원들을 쳐다본다. 입에 테이프가 붙어있다.	She glares down at the men she had captured from the auction, all tied up, half-naked, mouths taped.	
+115	莉琉	是想要死于辐射泄露呢……	是想要死於輻射外洩……	放射能漏れで死ぬか……	방사능 안에서 죽고 싶은 건가……	Would you prefer to die from leaked radiation...	
+116	莉琉	还是乖乖合作，之后来一次愉快的记忆消除呢？	還是要乖乖合作，之後來一次愉快的記憶消除呢？	それとも大人しく協力をした後に、\n楽しい記憶消去を受けるか。\n……どっちがいい？	순순히 협조하면 기억 삭제를 해줄 수도 있어. 	Or cooperate with me and let us wipe your memories after that?	
+117	N/A	地上的那几位一边扭动身体，一边惊恐的发出“呜呜”的声音。	地上那幾位一邊扭動身體，一邊驚恐地發出「嗚嗚」的聲音。	床に転がる何人かが、身体を曲げながら\n「うう」と怯えたうめき声を出す。	바닥에 꿇어앉은 몇몇 요원이 몸을 비틀며 공포에 찬 소리를 내뱉는다.	The men, writhing in terror, let out frantic moans behind the gum tape.	
+118	N/A	莉琉踩住其中一人，露出女王般的微笑。	莉琉踩住其中一人，露出女王般的微笑。	マリルはその内の1人を踏んで、女王のように\n微笑みを浮かべた。	마리루가 그 중 한명을 밟고 여왕 처럼 웃는다.	Mariru stomps down hard on one of them. On her face is a haughty, queen-like smile.	
+119	莉琉	哼，我猜也是──	哼，我猜也是──	ふん、だろうな──	흥, 내 생각도 그래──	Thought so.	
+120	N/A@索娅	诶嘿嘿嘿──	欸嘿嘿嘿──	えへへへ――――♪	에헤헤헤──	Hehehe...	
+121	N/A	看到莉琉离线，索娅立刻露出了不坏好意的笑容。	莉琉中斷通訊後，索婭立刻露出了不懷好意的笑容。	マリルの通信が切れた事を確認すると、\nソヤは一瞬にしてあくどい表情へ切り替わった。	마리루와 통신이 끊어지자 소야가 곧바로 의미심장하게 웃는다.	The second Mariru hangs up, Sonya flashes a wide grin at me.	
+122	小怜	你、你要干嘛……	妳、妳要幹嘛……	な、何をする気だ……	너, 너 뭘 하려고……	W-what...?	
+123	索娅	嘿嘿，刚才就想问，怕那个母猩猩不让说──	嘿嘿，我剛才就想問了，只是怕那個母猩猩不讓妳說──	へ、へへ……♪ \n\nあのメスゴリラが口封じするかもと思って\nさっきは聞きませんでしたが──	헤헤, 아까부터 묻고 싶었는데 오랑우탄 때문에 말을 못했어──	There’s a question I wanted to ask... but I thought that female gorilla wouldn’t let you tell.	
+124	索娅	既然会被贝阿特丽切魅惑，那么小怜是男生？	既然會被貝阿特麗切魅惑，所以小憐其實是男生？	ベアトリーチェさんに魅了されるって事は……\nレンさんは男の子って事ですわよね？	베아트리체에게 유혹 당했다면, 렌은 남자야?	Since you’re affected by Beatrice’s curse too, you must be male, huh?	
+125	小怜	诶？	什麼？	──えっ？	엣?	What?	
+126	小怜	我、我是……女孩子……	我、我是……女孩子啊……	お、俺は……女の子……よ…？	나, 나는……여자야……	I... no, I’m a girl...	
+127	N/A	这要我怎么回答啊！！	這要我怎麼回答啊！ ！	ど、どうやって答えればいいんだよ！	뭐라고 대답해야 하는 거야！！	How do I even reply to this?	
+128	索娅	真实中夹杂着谎言的颜色……	真實中夾雜著謊言的顏色……	真実の中に偽りの色が幾重にも混ざって……	진실 속에 거짓의 색깔이 섞여있어……	Your aura tells me that you’re not telling the full truth...	
+129	索娅	果然所有事情里，最有趣的就是小怜啊！	果然，所有事情裡面最有趣的就是妳啊！	やはり全てにおいて、レンさんが史上最高の\n刺激物ですわッッ！！！！	역시 가장 재밌는 건 렌이야!	Ahh... Ren, you’re indeed the most fascinating of them all!	
+130	索娅	还有你的胸部究竟是什么原理──	還有，妳的胸部究竟是怎麼弄出來的──	それと、あなたのお胸ぇ、お胸ぇは一体\nどういう仕組みでぇ～～♡	네 가슴은 도대체 무슨 원리일까──	And how do your boobs work anyway?	
+131	小怜	你走开啊！！	走開啦！ ！	こ、こっちくんなぁ！！！！	저리가 ! !	Stop it! Go away!	
+132	N/A	我向教堂大门的方向逃走。	我往教堂大門的方向逃走。	俺は教会の扉の方へと逃げる。	나는 교회 입구 방향으로 도망갔다.	I attempt to flee towards the church.	
+133	小怜	你、你不是刚联系了那个嬷嬷说很快就到吗？\n结果让老人家等那么久──	妳、妳不是跟那個媽媽說我們很快就到嗎？ \n結果讓老人家等那麼久──	そ、そう言えば、さっき君がマザーに連絡して\nすぐに行くって言ってただろ！？\nつまりはお年寄りをずっと待たせてるんじゃ──	그 수녀님한테 곧 도착한다고 연락했지?\n오래 기다리게 할 수 없잖아──	Hey, wait... didn’t you contact that Mother Elgana and tell her we’d arrive soon?\nIs it really okay to keep her waiting?	
+134	N/A@女性的声音	哎呀呀~你就是小怜吧？	哎呀呀～妳就是小憐吧？	あら、あなたがレンさんですね？	아~네가 렌이구나？	Ah, you’re Ren, aren’t you?	
+135	N/A	一个温柔的声音问道。	一個溫柔的聲音傳來。	──優しそうな声が尋ねてきた。	다정한 목소리가 들린다.	A woman’s voice, soft and gentle.	
+136	艾尔加纳	我循声望去，一位修女正站在教堂大门外，面带微笑的看着我。	我循聲望去，一位修女正站在教堂大門外，面帶微笑的看著我。	1人のシスターが教会の扉の前に立ち、\n微笑んで俺を見ている。	소리가 나는 방향을 바라보니 한 수녀가 교회 입구 앞에서 미소를 지으며 날 쳐다보고 있다.	I follow the sound and see a nun standing at the church entrance, smiling benevolently.	
+137	艾尔加纳	她大概三十多岁，看得出保养得很好，一头金色长发直垂到腰间。	她大概三十多歲，看得出保養得很好，一頭金色長髮垂到腰間。	シスターは長い金色の髪を腰まで伸ばしていた。\n\n見た感じでは30歳前後だけど、\nとても清楚で上品な雰囲気を漂わせている。	대략 30살쯤 되보이는 여자의 금발 머리가 허리까지 닿는다.	She looks to be in her early thirties, skin glowing, long blonde hair cascading all the way down to her waist.	
+138	修女	看你们这么久都没到，我有点担心就出来看看。	妳們這麼久還沒到，我有點擔心就出來看看。	あなた達が中々来ないので、心配で様子を\n見に来ましたわ。	너희들이 오지 않길래 걱정되서 나와있었어.	I was worried that you might have gotten lost on the way!	
+139	修女	我叫艾尔加纳。	我叫艾爾加納。	わたくし、エルガノと申します。	난 엘가나라고 해.	I’m Elgana.	
+140	小怜	艾尔加纳……嬷嬷？	艾爾……艾爾加納媽媽？	マザー……エルガノ……？	엘가나……수녀님？	Mother Elgana...?	

@@ -1,0 +1,1775 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>魔女兵器 / Witch's Weapon — 剧情 · 美术 · 资料考据</title>
+<style>
+/* ============================================================
+   魔女兵器 资料考据档案 — 视觉体系
+   基调：近黑档案底 + 圣杯红 + 学园都市冷青 + 骨白字
+   ============================================================ */
+:root{
+  --bg:#07080b;
+  --bg2:#0b0d12;
+  --panel:#0e1117;
+  --panel2:#12161d;
+  --ink:#eae6de;
+  --dim:#8d949d;
+  --dim2:#5f666f;
+  --red:#d81e3f;
+  --red2:#ff3b5c;
+  --red-deep:#5e0f1e;
+  --cyan:#62d9e4;
+  --gold:#c9a227;
+  --line:rgba(234,230,222,.13);
+  --line2:rgba(234,230,222,.07);
+  --font-display:"Source Han Serif SC","Noto Serif SC","Songti SC","STSong",SimSun,"Times New Roman",serif;
+  --font-mono:"Cascadia Mono","JetBrains Mono",Consolas,"Courier New",monospace;
+  --font-body:"Microsoft YaHei UI","Microsoft YaHei","PingFang SC","Hiragino Sans GB",system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:var(--bg);overflow:hidden}
+body{
+  font-family:var(--font-body);color:var(--ink);
+  -webkit-font-smoothing:antialiased;
+  font-feature-settings:"palt" 1;
+}
+
+/* ---------- 舞台：固定 1280x720，等比缩放 ---------- */
+#viewport{position:fixed;inset:0;overflow:hidden}
+#stage{
+  position:absolute;left:50%;top:50%;
+  width:1280px;height:720px;
+  transform-origin:center center;
+  transform:translate(-50%,-50%) scale(var(--s,1));
+  background:var(--bg);
+  overflow:hidden;
+}
+
+/* ---------- 全局氛围层 ---------- */
+.grain{
+  position:absolute;inset:0;pointer-events:none;z-index:90;opacity:.05;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/></filter><rect width='200' height='200' filter='url(%23n)'/></svg>");
+  mix-blend-mode:overlay;
+}
+.vignette{
+  position:absolute;inset:0;pointer-events:none;z-index:89;
+  background:radial-gradient(120% 100% at 50% 40%,transparent 40%,rgba(0,0,0,.55) 100%);
+}
+.scan{
+  position:absolute;inset:0;pointer-events:none;z-index:88;opacity:.5;
+  background:repeating-linear-gradient(to bottom,rgba(255,255,255,.018) 0 1px,transparent 1px 3px);
+}
+
+/* ---------- 幻灯片 ---------- */
+.slide{
+  position:absolute;inset:0;
+  padding:44px 56px 56px;
+  display:none;
+  flex-direction:column;
+  background:
+    radial-gradient(90% 70% at 8% 0%,rgba(216,30,63,.09),transparent 60%),
+    radial-gradient(70% 60% at 100% 100%,rgba(98,217,228,.055),transparent 60%),
+    var(--bg);
+}
+.slide.on{display:flex;animation:enter .42s cubic-bezier(.16,.84,.3,1) both}
+@keyframes enter{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+
+/* 页眉档号条 */
+.rail{
+  display:flex;align-items:baseline;justify-content:space-between;
+  border-bottom:1px solid var(--line);
+  padding-bottom:11px;margin-bottom:24px;flex:none;
+}
+.rail .l{display:flex;align-items:baseline;gap:14px}
+.rail .brand{
+  font-family:var(--font-mono);font-size:11px;letter-spacing:.24em;
+  color:var(--dim);text-transform:uppercase;
+}
+.rail .brand b{color:var(--red2);font-weight:400}
+.rail .sec{
+  font-family:var(--font-mono);font-size:11px;letter-spacing:.2em;
+  color:var(--dim);text-transform:uppercase;
+}
+.rail .sec i{font-style:normal;color:var(--cyan)}
+.rail .stamp{
+  font-family:var(--font-mono);font-size:10px;letter-spacing:.16em;
+  color:var(--red2);border:1px solid rgba(216,30,63,.45);
+  padding:3px 8px;border-radius:2px;background:rgba(216,30,63,.07);
+}
+
+.foot{
+  position:absolute;left:56px;right:56px;bottom:20px;
+  display:flex;justify-content:space-between;align-items:center;
+  font-family:var(--font-mono);font-size:10.5px;letter-spacing:.16em;
+  color:var(--dim2);text-transform:uppercase;
+  border-top:1px solid var(--line2);padding-top:9px;
+}
+.foot .dot{color:var(--red)}
+
+/* 主体可滚动区（内容多的页） */
+.body{flex:1;min-height:0;overflow-y:auto;overflow-x:hidden;padding-right:10px}
+.body::-webkit-scrollbar{width:5px}
+.body::-webkit-scrollbar-thumb{background:rgba(216,30,63,.45);border-radius:3px}
+.body::-webkit-scrollbar-track{background:rgba(255,255,255,.04)}
+
+/* 内容溢出时：底部渐隐 + 可滚动提示 */
+.slide.ovf .body{
+  -webkit-mask-image:linear-gradient(to bottom,#000 calc(100% - 34px),transparent 100%);
+          mask-image:linear-gradient(to bottom,#000 calc(100% - 34px),transparent 100%);
+}
+.slide .scrollcue{
+  position:absolute;right:44px;bottom:54px;z-index:5;
+  font-family:var(--font-mono);font-size:10px;letter-spacing:.16em;
+  color:var(--red2);background:rgba(8,9,12,.9);border:1px solid rgba(216,30,63,.4);
+  padding:4px 9px;border-radius:2px;opacity:0;transition:opacity .3s;pointer-events:none;
+}
+.slide.ovf .scrollcue{opacity:1;animation:cuebob 1.9s ease-in-out infinite}
+@keyframes cuebob{0%,100%{transform:translateY(0)}50%{transform:translateY(3px)}}
+
+/* ---------- 标题体系 ---------- */
+h1.big{
+  font-family:var(--font-display);font-size:80px;line-height:1.02;
+  letter-spacing:.06em;font-weight:600;
+}
+h2.t{
+  font-family:var(--font-display);font-size:40px;line-height:1.18;
+  letter-spacing:.045em;font-weight:600;margin-bottom:6px;
+}
+h2.t em{font-style:normal;color:var(--red2)}
+.sub{
+  font-family:var(--font-mono);font-size:12px;letter-spacing:.2em;
+  color:var(--dim);text-transform:uppercase;margin-bottom:20px;
+}
+h3.h{
+  font-family:var(--font-display);font-size:21px;letter-spacing:.04em;
+  color:var(--ink);margin-bottom:9px;font-weight:600;
+  display:flex;align-items:center;gap:9px;
+}
+h3.h::before{
+  content:"";width:3px;height:16px;background:var(--red);flex:none;
+  box-shadow:0 0 12px rgba(216,30,63,.8);
+}
+.lead{font-size:19px;line-height:1.72;color:#cfcbc3}
+.lead strong{color:var(--red2);font-weight:600}
+p.tx{font-size:15.5px;line-height:1.85;color:#b9b6b0}
+p.tx+p.tx{margin-top:9px}
+.small{font-size:12.5px;line-height:1.7;color:var(--dim)}
+.mono{font-family:var(--font-mono);letter-spacing:.05em}
+
+/* ---------- 通用块 ---------- */
+.grid{display:grid;gap:16px}
+.g2{grid-template-columns:1fr 1fr}
+.g3{grid-template-columns:repeat(3,1fr)}
+.g4{grid-template-columns:repeat(4,1fr)}
+.card{
+  background:linear-gradient(160deg,var(--panel2),var(--panel));
+  border:1px solid var(--line);border-radius:3px;
+  padding:16px 17px;position:relative;overflow:hidden;
+}
+.card::after{
+  content:"";position:absolute;left:0;top:0;width:2px;height:100%;
+  background:linear-gradient(to bottom,var(--red),transparent);
+  opacity:.75;
+}
+.card h4{
+  font-family:var(--font-display);font-size:16.5px;letter-spacing:.03em;
+  margin-bottom:7px;font-weight:600;
+}
+.card p{font-size:13.5px;line-height:1.72;color:#a9a6a0}
+.card .tagx{
+  position:absolute;right:12px;top:11px;font-family:var(--font-mono);
+  font-size:10px;letter-spacing:.12em;color:var(--dim2);
+}
+.card.cy::after{background:linear-gradient(to bottom,var(--cyan),transparent)}
+.card.gd::after{background:linear-gradient(to bottom,var(--gold),transparent)}
+
+/* 定义列表 */
+.kv{display:grid;grid-template-columns:auto 1fr;gap:0;border-top:1px solid var(--line2)}
+.kv dt{
+  font-family:var(--font-mono);font-size:11.5px;letter-spacing:.13em;
+  color:var(--dim);text-transform:uppercase;
+  padding:9px 20px 9px 0;border-bottom:1px solid var(--line2);white-space:nowrap;
+}
+.kv dd{
+  font-size:14.5px;color:#c4c0b9;padding:9px 0;
+  border-bottom:1px solid var(--line2);line-height:1.65;
+}
+.kv dd b{color:var(--ink)}
+.kv dd span.mut{color:var(--dim2);font-size:12.5px}
+.kv dd em{font-style:normal;color:var(--red2)}
+
+/* 表格 */
+table.tbl{width:100%;border-collapse:collapse;font-size:13.5px}
+table.tbl th{
+  font-family:var(--font-mono);font-size:10.5px;letter-spacing:.14em;
+  color:var(--dim);text-transform:uppercase;text-align:left;
+  padding:8px 10px;border-bottom:1px solid rgba(216,30,63,.4);font-weight:400;
+}
+table.tbl td{
+  padding:8px 10px;border-bottom:1px solid var(--line2);
+  color:#b6b3ad;line-height:1.6;vertical-align:top;
+}
+table.tbl tr:hover td{background:rgba(216,30,63,.045)}
+table.tbl td b{color:var(--ink);font-weight:600}
+.ok{color:#4fd18b}.warn{color:var(--gold)}.bad{color:var(--red2)}
+.mut{color:var(--dim2)}
+
+/* 引文 */
+.quote{
+  border-left:2px solid var(--red);padding:12px 0 12px 18px;
+  font-family:var(--font-display);font-size:17px;line-height:1.78;
+  color:#d3cfc7;letter-spacing:.02em;
+}
+.quote cite{
+  display:block;margin-top:9px;font-family:var(--font-mono);font-style:normal;
+  font-size:11px;letter-spacing:.14em;color:var(--dim);text-transform:uppercase;
+}
+
+/* 时间轴 */
+.tl{position:relative;padding-left:22px}
+.tl::before{
+  content:"";position:absolute;left:4px;top:6px;bottom:6px;width:1px;
+  background:linear-gradient(to bottom,var(--red),rgba(216,30,63,.12));
+}
+.tl .it{position:relative;padding:0 0 13px 0}
+.tl .it::before{
+  content:"";position:absolute;left:-22px;top:6px;width:9px;height:9px;
+  border-radius:50%;background:var(--bg);border:1.5px solid var(--red);
+}
+.tl .it.dead::before{background:var(--red);box-shadow:0 0 12px rgba(216,30,63,.9)}
+.tl .it.now::before{background:var(--cyan);border-color:var(--cyan);box-shadow:0 0 12px rgba(98,217,228,.9)}
+.tl .d{
+  font-family:var(--font-mono);font-size:11.5px;letter-spacing:.12em;
+  color:var(--red2);margin-bottom:2px;
+}
+.tl .it.now .d{color:var(--cyan)}
+.tl .c{font-size:13.8px;color:#b8b5af;line-height:1.6}
+.tl .c b{color:var(--ink);font-weight:600}
+
+/* 图片 */
+.fig{position:relative;overflow:hidden;border:1px solid var(--line);background:#000;border-radius:2px}
+.fig img{width:100%;height:100%;object-fit:cover;display:block}
+.figcap{
+  position:absolute;left:0;right:0;bottom:0;padding:20px 13px 10px;
+  background:linear-gradient(to top,rgba(4,5,8,.94),rgba(4,5,8,.55) 55%,transparent);
+  font-size:12px;color:#d5d1c9;line-height:1.45;
+}
+.figcap i{
+  display:block;font-family:var(--font-mono);font-style:normal;
+  font-size:9.5px;letter-spacing:.1em;color:var(--dim);margin-top:3px;
+}
+.gal{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:1fr 1fr;gap:12px;height:100%}
+.gal .fig{height:100%}
+
+/* 数据条 */
+.bar{display:flex;align-items:center;gap:12px;margin-bottom:9px}
+.bar .n{font-family:var(--font-mono);font-size:12px;color:var(--dim);width:104px;flex:none;letter-spacing:.06em}
+.bar .track{flex:1;height:7px;background:rgba(255,255,255,.055);border-radius:4px;overflow:hidden}
+.bar .fill{height:100%;background:linear-gradient(90deg,var(--red-deep),var(--red2));border-radius:4px;animation:grow .9s cubic-bezier(.2,.9,.25,1) both}
+.bar.c .fill{background:linear-gradient(90deg,#14555c,var(--cyan))}
+@keyframes grow{from{transform:scaleX(0);transform-origin:left}to{transform:none}}
+.bar .v{font-family:var(--font-mono);font-size:12px;color:var(--ink);width:46px;text-align:right;flex:none}
+
+/* 大数字 */
+.stat{text-align:center;padding:6px 0}
+.stat .num{
+  font-family:var(--font-display);font-size:46px;line-height:1;color:var(--red2);
+  letter-spacing:.02em;
+}
+.stat .num.cy{color:var(--cyan)}
+.stat .lb{
+  font-family:var(--font-mono);font-size:10.5px;letter-spacing:.16em;
+  color:var(--dim);text-transform:uppercase;margin-top:8px;
+}
+
+/* 提示块 */
+.note{
+  border:1px solid rgba(201,162,39,.32);background:rgba(201,162,39,.055);
+  border-radius:3px;padding:11px 14px;font-size:12.5px;line-height:1.7;color:#c9c2ad;
+}
+.note b{color:var(--gold)}
+.note.rd{border-color:rgba(216,30,63,.4);background:rgba(216,30,63,.06);color:#d6bcc2}
+.note.rd b{color:var(--red2)}
+
+/* 封面 */
+.cover{padding:0;display:block!important}
+.cover .bgimg{position:absolute;inset:0}
+.cover .bgimg img{width:100%;height:100%;object-fit:cover;filter:brightness(.44) saturate(1.08) contrast(1.05)}
+.cover .grad{
+  position:absolute;inset:0;
+  background:linear-gradient(100deg,rgba(4,5,8,.96) 26%,rgba(4,5,8,.62) 58%,rgba(4,5,8,.2) 100%),
+             linear-gradient(to top,rgba(4,5,8,.9),transparent 55%);
+}
+.cover .inner{position:absolute;inset:0;padding:74px 68px;display:flex;flex-direction:column;justify-content:center}
+.cover .en{
+  font-family:var(--font-mono);font-size:13px;letter-spacing:.46em;
+  color:var(--red2);text-transform:uppercase;margin-bottom:20px;
+}
+.cover h1{font-size:100px;letter-spacing:.1em}
+.cover .hr{width:88px;height:2px;background:var(--red);margin:26px 0 22px}
+.cover .tag{font-family:var(--font-display);font-size:22px;line-height:1.72;color:#cfcbc3;letter-spacing:.05em}
+.cover .tag em{font-style:normal;color:var(--red2)}
+.cover .meta{
+  margin-top:38px;display:flex;gap:34px;font-family:var(--font-mono);
+  font-size:11.5px;letter-spacing:.14em;color:var(--dim);text-transform:uppercase;
+}
+.cover .meta div b{display:block;color:var(--ink);font-size:19px;letter-spacing:.06em;margin-top:6px;font-weight:400;font-family:var(--font-display)}
+.cover .seal{
+  position:absolute;right:64px;bottom:74px;width:132px;height:132px;
+  border:2px solid rgba(216,30,63,.62);border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  transform:rotate(-13deg);
+  font-family:var(--font-display);font-size:25px;line-height:1.16;
+  color:rgba(216,30,63,.88);text-align:center;letter-spacing:.06em;
+  text-shadow:0 0 18px rgba(216,30,63,.5);
+}
+.cover .seal::after{
+  content:"";position:absolute;inset:7px;border:1px solid rgba(216,30,63,.4);border-radius:50%;
+}
+
+/* 全屏图页 */
+.fullimg .bgimg{position:absolute;inset:0}
+.fullimg .bgimg img{width:100%;height:100%;object-fit:cover;filter:brightness(.5)}
+.fullimg .grad{position:absolute;inset:0;background:linear-gradient(to top,rgba(4,5,8,.97) 12%,rgba(4,5,8,.55) 52%,rgba(4,5,8,.3))}
+.fullimg .inner{position:absolute;inset:0;padding:56px;display:flex;flex-direction:column;justify-content:flex-end}
+
+/* 结语 */
+.end{display:flex!important;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:22px;padding:70px}
+
+/* ---------- 目录 / 概览 ---------- */
+#toc{
+  position:absolute;inset:0;z-index:120;background:rgba(4,5,8,.965);
+  backdrop-filter:blur(9px);display:none;padding:52px 60px;overflow-y:auto;
+}
+#toc.on{display:block}
+#toc h2{font-family:var(--font-display);font-size:28px;letter-spacing:.06em;margin-bottom:6px}
+#toc .tip{font-family:var(--font-mono);font-size:11px;letter-spacing:.16em;color:var(--dim);margin-bottom:26px;text-transform:uppercase}
+#toc .cols{columns:3;column-gap:34px}
+#toc .grp{margin-bottom:20px;break-inside:avoid}
+#toc .grp .gt{
+  font-family:var(--font-mono);font-size:10.5px;letter-spacing:.2em;
+  color:var(--red2);text-transform:uppercase;margin-bottom:8px;
+  border-bottom:1px solid var(--line2);padding-bottom:5px;
+}
+#toc a{
+  display:flex;gap:9px;padding:3.5px 0;color:#b3b0aa;text-decoration:none;
+  font-size:13px;line-height:1.5;cursor:pointer;
+}
+#toc a:hover{color:var(--ink)}
+#toc a span.k{font-family:var(--font-mono);font-size:10.5px;color:var(--dim2);flex:none;padding-top:2px}
+#toc a.cur{color:var(--red2)}
+
+/* ---------- 播放控件 ---------- */
+#ctrl{
+  position:fixed;left:0;right:0;bottom:0;z-index:130;height:38px;
+  display:flex;align-items:center;gap:14px;padding:0 16px;
+  font-family:var(--font-mono);font-size:11px;letter-spacing:.12em;color:var(--dim);
+  background:linear-gradient(to top,rgba(4,5,8,.92),transparent);
+  opacity:0;transition:opacity .28s;pointer-events:none;
+}
+#ctrl.show{opacity:1;pointer-events:auto}
+#ctrl button{
+  font-family:var(--font-mono);font-size:11px;letter-spacing:.1em;
+  background:rgba(255,255,255,.05);border:1px solid var(--line);color:var(--dim);
+  padding:5px 10px;border-radius:2px;cursor:pointer;transition:.16s;
+}
+#ctrl button:hover{color:var(--ink);border-color:rgba(216,30,63,.55);background:rgba(216,30,63,.1)}
+#prog{flex:1;height:3px;background:rgba(255,255,255,.08);border-radius:2px;position:relative;cursor:pointer}
+#prog i{position:absolute;left:0;top:0;bottom:0;background:linear-gradient(90deg,var(--red-deep),var(--red2));border-radius:2px;transition:width .3s}
+#hint{
+  position:fixed;right:18px;top:16px;z-index:130;
+  font-family:var(--font-mono);font-size:10.5px;letter-spacing:.14em;color:var(--dim2);
+  background:rgba(4,5,8,.72);border:1px solid var(--line2);padding:6px 11px;border-radius:2px;
+  opacity:0;transition:opacity .5s;pointer-events:none;
+}
+#hint.show{opacity:1}
+
+/* 打印 / 导出 PDF */
+@media print{
+  html,body{height:auto;overflow:visible;background:#fff}
+  #viewport{position:static;overflow:visible}
+  #stage{position:static;transform:none!important;width:1280px;height:720px}
+  .slide{display:flex!important;position:relative;page-break-after:always;break-after:page;animation:none}
+  .grain,.vignette,.scan,#ctrl,#hint,#toc{display:none!important}
+  .body{overflow:visible!important}
+}
+</style>
+</head>
+<body>
+<div id="viewport">
+<div id="stage">
+
+<!-- ═══════════════ 01 封面 ═══════════════ -->
+<section class="slide cover" data-sec="档案" data-title="封面">
+  <div class="bgimg"><img src="assets/img/shot_kv.jpg" alt="魔女兵器 主视觉"></div>
+  <div class="grad"></div>
+  <div class="inner">
+    <div class="en">Witch&rsquo;s Weapon &nbsp;/&nbsp; Archive Dossier</div>
+    <h1 class="big">魔女兵器</h1>
+    <div class="hr"></div>
+    <div class="tag">拯救世界之后 —— 我变成了「女孩子」<br><em>一部已经关服、但仍被反复悼念的都市幻想轻小说 RPG</em></div>
+    <div class="meta">
+      <div>Developer<b>北京水琴铃</b></div>
+      <div>Online<b>2018.02.14</b></div>
+      <div>Shutdown<b>2024.08.17</b></div>
+      <div>TapTap<b>7.9 / 9595</b></div>
+    </div>
+  </div>
+  <div class="seal">已 停 服<br>CLOSED</div>
+</section>
+
+<!-- ═══════════════ 02 档案 ═══════════════ -->
+<section class="slide" data-sec="档案" data-title="基本档案">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>01</i> · 档案</span></div><span class="stamp">FILE 01</span></div>
+  <div class="body">
+    <h2 class="t">基本档案</h2>
+    <div class="sub">Game Profile / 已核实项</div>
+    <div class="grid g2" style="gap:0 40px">
+      <dl class="kv">
+        <dt>中文名</dt><dd><b>魔女兵器</b></dd>
+        <dt>外文名</dt><dd>Witch&rsquo;s Weapon（日服《Witch&rsquo;s Weapon -魔女兵器-》）</dd>
+        <dt>类型</dt><dd>都市幻想轻小说 RPG · 3D 动作 + 卡牌养成</dd>
+        <dt>开发</dt><dd>北京水琴铃信息技术有限公司 <span class="mut">（品牌 WaterBell）</span></dd>
+        <dt>制作人</dt><dd>齐乐 <span class="mut">创始团队 8 人，全部来自 Stage1st 论坛</span></dd>
+        <dt>引擎</dt><dd>Unity</dd>
+        <dt>平台</dt><dd>Android / iOS <span class="mut">（PC 版曾计划，2020 年宣布中止）</span></dd>
+      </dl>
+      <dl class="kv">
+        <dt>国服上线</dt><dd>2018.02.14（安卓公测）</dd>
+        <dt>国服停服</dt><dd><em>2024.08.17 00:00</em> <span class="mut">（2024.01 起已停止充值）</span></dd>
+        <dt>代理</dt><dd>国服 远鸣网络 · 港澳台 雷霆游戏 · 日服 DMM GAMES（EXNOA）· 韩服 Efun</dd>
+        <dt>TapTap</dt><dd>app 12944 · <b>7.9 分</b> · 9595 条评价</dd>
+        <dt>剧情体量</dt><dd>官方宣传约 <b>30 万字</b>文本</dd>
+        <dt>停服理由</dt><dd>官方原文：「由于后续游戏 App 审查条件的收紧，以及公司在游戏研发运营能力的不足」</dd>
+      </dl>
+    </div>
+    <div class="note" style="margin-top:20px">
+      <b>本档案的取材原则</b>：中文游戏媒体对该作的描述存在大段互相抄袭（17173 → 3DM、触乐 → 九游），因此本档案不按「媒体家数」计权，只把它当作两个独立原始来源；凡无法交叉验证的细节均标注「待考」。
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 03 三个关键词 ═══════════════ -->
+<section class="slide" data-sec="档案" data-title="三个关键词">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>01</i> · 档案</span></div><span class="stamp">FILE 02</span></div>
+  <div class="body">
+    <h2 class="t">三句话读懂 <em>魔女兵器</em></h2>
+    <div class="sub">Three Keywords</div>
+    <div class="grid g3" style="margin-bottom:22px">
+      <div class="card"><span class="tagx">01</span><h4>性转 · TS</h4><p>救国成功的少年第二天从床上醒来，变成了女孩子。这不是搞笑设定，而是圣杯改写因果后留下的<strong>永久代价</strong>。</p></div>
+      <div class="card cy"><span class="tagx">02</span><h4>圣杯 · 因果</h4><p>世界有两条「原脉」：圣杯是魔女的魔力之源，圣矛是教团的秩序之器。主角成了圣杯的容器。</p></div>
+      <div class="card gd"><span class="tagx">03</span><h4>兵器 · 羁绊</h4><p>每位魔女由「魔导书残片 + 羁绊之物」构成，羁绊之物就是她的兵器——球棒、吉他、御币都可能。</p></div>
+    </div>
+    <div class="quote">
+      「一章百合悬疑，一章科幻悬疑，一章奇幻惊悚，还有一章 zz 惊悚（政治惊悚），以及对锡安主义的控诉（物理）。」
+      <cite>豆瓣用户 Po0hstein（2021.12）— 被引用最多的剧情风格概括</cite>
+    </div>
+    <div class="grid g3" style="margin-top:22px">
+      <div class="stat"><div class="num">3<span style="font-size:22px">+1</span></div><div class="lb">官方主线章节（未完结）</div></div>
+      <div class="stat"><div class="num cy">6</div><div class="lb">特别行动（活动剧情）</div></div>
+      <div class="stat"><div class="num">30万</div><div class="lb">官方宣称剧情文本字数</div></div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 04 运营时间线 ═══════════════ -->
+<section class="slide" data-sec="档案" data-title="运营时间线">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>01</i> · 档案</span></div><span class="stamp">FILE 03</span></div>
+  <div class="body">
+    <h2 class="t">十年运营时间线</h2>
+    <div class="sub">2013 – 2024 / Timeline</div>
+    <div class="grid g2" style="gap:0 40px">
+      <div class="tl">
+        <div class="it"><div class="d">2013 初</div><div class="c">北京水琴铃成立，8 人初创团队全部来自宅坛 Stage1st</div></div>
+        <div class="it"><div class="d">2015.10.13</div><div class="c"><b>首次公开</b>；此前用 Flash 做 3D ARPG 失败，转 Unity 重做</div></div>
+        <div class="it"><div class="d">2017 春</div><div class="c">连续进行三次删档测试（17173 评测记录「刚结束的删档测试」）</div></div>
+        <div class="it now"><div class="d">2018.02.14</div><div class="c"><b>国服安卓公测</b>，赶在春节前上线</div></div>
+        <div class="it"><div class="d">2019.02.26</div><div class="c">韩服上线（Efun 代理）</div></div>
+        <div class="it"><div class="d">2019.04.25</div><div class="c">日服上线（DMM GAMES / EXNOA），主题歌由铃木このみ演唱</div></div>
+      </div>
+      <div class="tl">
+        <div class="it"><div class="d">2019.07.17</div><div class="c">港澳台繁中版上线，首日登上 App Store 台湾免费榜第 3</div></div>
+        <div class="it dead"><div class="d">2020.04.02</div><div class="c">韩服停服 <span class="mut">（日期来源为 namu wiki，待考）</span></div></div>
+        <div class="it dead"><div class="d">2020.08.27</div><div class="c"><b>日服停服</b>；服务器于 2021.01.07 彻底关闭</div></div>
+        <div class="it dead"><div class="d">2020.10.17</div><div class="c">港澳台繁中版结束营运</div></div>
+        <div class="it"><div class="d">2021 – 2023</div><div class="c">月流水长期低于 10 万元，靠极低维护成本「活着」；内容约在 2022 年停止更新</div></div>
+        <div class="it dead"><div class="d">2024.01 → 08.17</div><div class="c">停止充值 → <b>2024.06.17 发布关服预告</b> → <b>08.17 00:00 关闭服务，账号数据清理删除</b></div></div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 05 世界观·时代 ═══════════════ -->
+<section class="slide" data-sec="世界观" data-title="时代与地理">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>02</i> · 世界观</span></div><span class="stamp">FILE 04</span></div>
+  <div class="body">
+    <h2 class="t">世界观 · <em>2037 年</em>的战后世界</h2>
+    <div class="sub">Setting / A World Rewritten by Anomalies</div>
+    <p class="lead" style="margin-bottom:18px">故事发生在<b>近未来的 2037 年夏</b>。世界地图已经被「神迹」彻底改写——地理不再是地理，而是战后的伤疤。</p>
+    <div class="grid g3" style="margin-bottom:16px">
+      <div class="card"><h4>西伯利亚抬升</h4><p>成为世界最高高原，改变了全球气候带。</p></div>
+      <div class="card"><h4>东京沉没</h4><p>主城区沉入海底——这正是「七年战争」的导火索。</p></div>
+      <div class="card"><h4>澳大利亚漂移</h4><p>板块被推到南极附近，南极科研基地因此成为剧情舞台。</p></div>
+      <div class="card cy"><h4>2.71 km 死域半球</h4><p>美国东海岸外海出现半径 2.71 公里的绝对死域，呈半球体。</p></div>
+      <div class="card cy"><h4>中亚沥青化</h4><p>中亚南部大片区域被沥青覆盖，不可居住。</p></div>
+      <div class="card gd"><h4>粮食依赖进口</h4><p>大气化学成分改变，全球九成地区无法自给。<span class="mut">（以上据日文玩家考据站「魔女兵器メモ」）</span></p></div>
+    </div>
+    <div class="quote">「硫磺与烈火从天而降，地平线以上所有植物迅速枯萎，被冲击波扫到的人全部变成盐柱——如同圣经中索多玛的灭亡。」
+      <cite>官方设定稿《魔女兵器世界观设定》· 游民星空 2016.05.17 转载</cite></div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 06 异质物 ═══════════════ -->
+<section class="slide" data-sec="世界观" data-title="异质物／神迹">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>02</i> · 世界观</span></div><span class="stamp">FILE 05</span></div>
+  <div class="body">
+    <h2 class="t">核心概念 · <em>异质物</em>（神迹）</h2>
+    <div class="sub">Anomalies &nbsp;/&nbsp; 明确受 SCP 基金会与克苏鲁神话影响</div>
+    <div class="grid g2" style="gap:22px">
+      <div>
+        <h3 class="h">定义</h3>
+        <p class="tx">能在<b>特定条件下引发超常物理现象</b>的「信息或载体」。其作用<em>不受任何维度、时空、心灵等已知壁障限制</em>。因大多外形酷似日常用品，所以几百上千年都未被发现。</p>
+        <h3 class="h" style="margin-top:18px">首次发现</h3>
+        <p class="tx"><b>公元 2016 年</b>，意大利一座教堂地下室里存放多年的铜质首饰盒。萨戈维奇博士用同位素法测年时得到无法解释的数据，进一步研究发现：<em>放在盒内的任何放射性物质，半衰期都会大幅缩短</em>。</p>
+        <h3 class="h" style="margin-top:18px">连锁后果</h3>
+        <p class="tx">萨戈维奇博士 6 年后发明高效清理辐射污染的纳米机器人，一周内解决了切尔诺贝利遗留问题——但这本应造福人类的发明，以意想不到的形式把世界拉入了深渊。</p>
+      </div>
+      <div>
+        <h3 class="h">等级划分</h3>
+        <table class="tbl" style="margin-bottom:18px">
+          <tr><th>等级</th><th>含义</th></tr>
+          <tr><td><b class="bad">XK 级</b></td><td>可灭世，或作为抑止力。全球仅 6 个，每个学园都市各持 1 个</td></tr>
+          <tr><td><b class="warn">EX 级</b></td><td>与宗教相关，从恶搞玩具到「弑神」级都有</td></tr>
+          <tr><td><b class="ok">Safe 级</b></td><td>已判定安全，可公开展览与民用研究</td></tr>
+        </table>
+        <div class="note">
+          <b>元设定来源（日文考据站明确指出）</b><br>
+          · <b>SCP 基金会</b> ——「异质物」＝ SCP 对象的同构概念，XK／EX／Safe 分级、收容基地、模因污染皆源于此<br>
+          · <b>克苏鲁神话</b> —— 南极、深海巨大眼球生物、接触魔法必然发狂、魔女「塞拉伊诺」＝《塞拉伊诺断章》（Celaeno Fragments）、谜之组织 Ningen
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 07 学园都市 ═══════════════ -->
+<section class="slide" data-sec="世界观" data-title="七年战争与学园都市">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>02</i> · 世界观</span></div><span class="stamp">FILE 06</span></div>
+  <div class="body">
+    <h2 class="t">七年战争 · 与六座<em>学园都市</em></h2>
+    <div class="sub">The Seven-Year War &amp; The Academy Cities</div>
+    <p class="tx" style="margin-bottom:14px"><b>2027 年夏</b>，东京主城区被异质物毁灭，第三次世界大战正式爆发。战争以 <b>1/2 人口牺牲、200 多个国家和政府解体</b>为代价，于 <b>2034 年</b>结束，故称「七年战争」。战后，六个在异质物研究上最领先的武装势力结成和平同盟，为应对民众强烈厌战情绪，<em>把自己的核心城市重新包装成「学园都市」</em>。</p>
+    <table class="tbl">
+      <tr><th>序</th><th>都市</th><th>抑止兵器 / 神迹</th><th>情报机关</th><th>立国思想</th></tr>
+      <tr><td>第一</td><td><b>华云宫城</b></td><td>可大规模地形改造（把陆地沉入海底）</td><td>无形门（不足 30 人）</td><td>荣光、历史与传承</td></tr>
+      <tr><td>第二</td><td><b>纽摩利达斯</b></td><td>付出代价即可等价交换任何地表之物</td><td>帕兰提尔（私人情报承包商）</td><td>自由贸易实现个人价值</td></tr>
+      <tr><td>第三</td><td><b>马萨达堡</b></td><td>使武器打击效果数倍化</td><td>复兴使命局（拥有专属军队）</td><td>铭记历史、自立自强</td></tr>
+      <tr><td>第四</td><td><b>萨蒙顿</b></td><td>池状不可移动，可改造植物基因</td><td>圣殿防卫局「十字蔷薇」</td><td>信仰与敬畏神</td></tr>
+      <tr style="background:rgba(216,30,63,.07)"><td>第五</td><td><b class="bad">新丰洲市</b> ← 主舞台</td><td><b>埃癸斯（Aegis）系统</b></td><td><b>SID 秘密情报局</b>（莉琉统率）</td><td>科学是文明的基础</td></tr>
+      <tr><td>第六</td><td><b>莱博娜群岛</b></td><td>可操作概率</td><td>第七条（最强暗杀能力）</td><td>一切主义皆虚妄，顺从欲望</td></tr>
+    </table>
+    <div class="note rd" style="margin-top:16px">
+      <b>考证注记</b>：早期官方文案写作「<b>七大</b>势力」，后定型为六大学园都市；日文考据站另记载埃癸斯展开<b>半径 35 公里</b>的绝对防护场（百度百科作 80 公里死域），数值存在分歧，此处以设定集口径为准。
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 08 圣杯与圣矛 ═══════════════ -->
+<section class="slide" data-sec="世界观" data-title="圣杯与圣矛">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>02</i> · 世界观</span></div><span class="stamp">FILE 07</span></div>
+  <div class="body">
+    <h2 class="t">世界的两支<em>原脉</em></h2>
+    <div class="sub">The Holy Grail &amp; The Holy Lance</div>
+    <p class="tx" style="margin-bottom:20px">关于圣杯与圣矛的描述，被记载在人类发现的最古老的文本中，据称<b>在人类文明诞生之前便已经存在</b>。两支原脉呈螺旋状相互支撑生长，是一切魔法与秩序、理性与情感的源头。</p>
+    <div class="grid g2" style="gap:22px;margin-bottom:20px">
+      <div class="card" style="padding:22px 20px">
+        <span class="tagx">GRAIL</span>
+        <h4 style="font-size:24px;color:var(--red2)">圣杯</h4>
+        <p style="font-size:14.5px;margin-top:8px">代表<b>感性与本能</b>，是繁衍的象征，承载人类的<b>求生本能</b>——爱、恐惧、愤怒、悲伤。</p>
+        <p style="font-size:14.5px;margin-top:10px">它是<b>所有魔女的魔力之源</b>：不需要任何咏唱、仪式或素材即可直接发动魔法，但必须依据魔法的强大程度<b>付出相应的代价</b>。</p>
+      </div>
+      <div class="card cy" style="padding:22px 20px">
+        <span class="tagx">LANCE</span>
+        <h4 style="font-size:24px;color:var(--cyan)">圣矛</h4>
+        <p style="font-size:14.5px;margin-top:8px">代表<b>理性与秩序</b>，是工具的象征，承载人类的<b>求死本能</b>——渴望征服、杀戮与献身的欲望。</p>
+        <p style="font-size:14.5px;margin-top:10px">作为战争与秩序的原脉，它拥有<b>制造与控制战士</b>的能力，曾流转于欧洲蛮族之间，使欧洲陷入近千年的中世纪纷争。</p>
+      </div>
+    </div>
+    <div class="grid g2" style="gap:22px">
+      <div><h3 class="h">教团 · 圣矛的代行者</h3><p class="tx">教团能通过圣矛的力量<b>控制甚至复制魔女</b>，这些站在教团阵营的魔女被称为「<em>圣女</em>」。因此教团与魔女，从诞生起就是敌对关系。</p></div>
+      <div><h3 class="h">连锁反应</h3><p class="tx">随着圣杯封印被解除，<b>教团大圣堂里数百年没有动过的巨大钟摆开始摆动</b>；存放在钟摆摆锤中的圣矛，矛尖指向了新丰洲市。</p></div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 09 洛斯金杯事件 ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="洛斯金杯事件">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 08</span></div>
+  <div class="body">
+    <h2 class="t">序章 · <em>洛斯金杯事件</em></h2>
+    <div class="sub">2037.07.06 / The Los Gold Cup Incident</div>
+    <div class="grid g2" style="gap:26px">
+      <div>
+        <h3 class="h">杯子的来历</h3>
+        <p class="tx">一次异常地质变化后，联合国勘探队在一座<b>突然出现在大海中的小岛</b>（洛斯群岛）上发现了一个金色的杯状器皿，其中装着红色液体状物质——<em>该物质无法被触碰、倒出或分割</em>。</p>
+        <p class="tx">这一发现引发各势力的博弈与角力，最终各方妥协的结果是：将它运往<b>中立的第五学园都市新丰洲市</b>进行开放式研究。</p>
+        <h3 class="h" style="margin-top:18px">那一天</h3>
+        <p class="tx"><b>2037 年 7 月 6 日</b>，主角参加学校活动，参观存放圣杯的研究中心，遭遇武装恐怖分子突袭。恐怖分子声称<b>圣杯上的宝石是本教派的圣物，理应归还</b>。</p>
+        <p class="tx">然而强行取下宝石的行为<em>解开了封印</em>——杯中的诅咒被释放，硫磺与烈火从天而降，整座新丰洲市瞬间被笼罩在死域的火海中。</p>
+      </div>
+      <div>
+        <h3 class="h">现场记录</h3>
+        <div class="quote" style="font-size:16px">
+          地平线以上所有植物迅速枯萎；被冲击波扫到的人类，<b>全部变成盐柱</b>；整座城市如同圣经中索多玛的灭亡。
+          <cite>官方设定稿原文</cite>
+        </div>
+        <div class="grid g2" style="margin-top:18px;gap:14px">
+          <div class="stat"><div class="num">1</div><div class="lb">唯一幸存者：主角</div></div>
+          <div class="stat"><div class="num cy">35<small style="font-size:16px">km</small></div><div class="lb">埃癸斯展开的防护场</div></div>
+        </div>
+        <p class="tx" style="margin-top:16px">『埃癸斯』从内侧抵御住了这次冲击。主角在躲避匪徒时<b>落入研究中心的天井</b>，因此逃过一劫——当他爬出来站在燃烧的废墟上时，眼前地狱般的景象让他彻底惊呆。</p>
+        <div class="note rd" style="margin-top:16px"><b>关键</b>：那颗宝石本身就是封印。这场灾难是真的发生过的，并不是梦。</div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 10 祈愿与代价 ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="祈愿与代价">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 09</span></div>
+  <div class="body">
+    <h2 class="t">祈愿 · 与它开出的<em>三个价码</em></h2>
+    <div class="sub">The Wish &amp; Its Three Consequences</div>
+    <div class="quote" style="margin-bottom:22px">
+      他向被解开封印的圣杯祈祷：<b>如果真的有神存在，自己愿意付出任何代价，保护这座城市。</b>
+      <cite>官方设定稿原文</cite>
+    </div>
+    <p class="lead" style="margin-bottom:20px">第二天，主角从自己的床上醒来，发现自己<b>已经变成了女孩子</b>。城市和研究所都安然无恙；而圣杯在严密监控下突然消失，研究机构向媒体公布这一消息，认为这可能是「圣杯未被发现的神迹」的一种表现。</p>
+    <div class="grid g3">
+      <div class="card"><span class="tagx">01</span><h4>世界线被编织</h4><p>「某条主角是女孩子的世界线」被圣杯编织进本条世界线，成为新的现实——<b>即主角性转</b>。</p></div>
+      <div class="card cy"><span class="tagx">02</span><h4>获得拉回魔女的能力</h4><p>主角获得部分圣杯的能力：<b>穿越因果的壁垒，把困在「因果的裂缝」中的魔女拉回现世</b>。</p></div>
+      <div class="card gd"><span class="tagx">03</span><h4>圣杯沉睡于体内</h4><p>圣杯本体消失、沉入主角体内陷入沉睡。<b>代价是：主角无法再次发动圣杯的能力</b>。</p></div>
+    </div>
+    <div class="note" style="margin-top:22px">
+      <b>这就是全作的中心矛盾</b>：主角用「自我」换来了城市，而这份代价此后每一天都在生效——他必须作为女孩活下去，同时成为 SID 处理「世界毁灭级危机」的一线探员。
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 11 魔女与教团 ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="魔女·教团·因果的裂缝">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 10</span></div>
+  <div class="body">
+    <h2 class="t">魔女 · 教团 · <em>因果的裂缝</em></h2>
+    <div class="sub">Witches, The Order &amp; The Rift of Causality</div>
+    <div class="grid g2" style="gap:24px">
+      <div>
+        <h3 class="h">成为魔女的条件</h3>
+        <p class="tx">以「<b>魔导书残片</b>」与「<b>羁绊之物</b>」进行特定仪式。<br>
+        · <b>魔导书</b>——可能是书本、竹简、石碑、卷轴，甚至磁带 CD。它是魔女的<b>核心</b>。<br>
+        · <b>羁绊之物</b>——与本人有强烈羁绊的物品，就是该魔女的<b>兵器</b>。<br>
+        二者与魔女严格一一对应，每个魔女都独一无二。后来发展的「魔法刻印技术」能把高等魔法刻印到与魔女羁绊深厚的物品上，让物品分担负担——<b>刻有魔法刻印的物品即「魔女兵器」</b>。</p>
+        <h3 class="h" style="margin-top:16px">魔女 ≠ 女巫</h3>
+        <p class="tx">官方术语严格区分：<b>保有理智的称「魔女」，丧失理智的称「女巫」</b>。没人能掌握超出自身极限的魔法知识而不发狂；绝大多数女性接触魔导书即失去理性，沦为被庞大无序的疯狂信息支配的女巫。</p>
+      </div>
+      <div>
+        <h3 class="h">女巫：注定被耗尽的一次性电池</h3>
+        <div class="quote" style="font-size:15px">
+          女巫的大脑完全把身体当消耗品；即使在电磁屏蔽环境中，它仍在以每秒递增的速率接收未知来源的信息，如同被不停写入又擦除的硬盘，最终细胞超负荷大量死亡。
+          <cite>爱衣博士的报告 · 启示录 PART.7</cite>
+        </div>
+        <h3 class="h" style="margin-top:18px">因果的裂缝</h3>
+        <p class="tx">充满时空位相波动的异空间，剧本中以<b>黑白反转</b>的视觉表现，构成物体的基本粒子剧烈抖动，极度危险。人类转变为魔女时会形成「魔女的茧」——<em>外部之人绝对无法进入或破坏，茧消失时从中出来的是女巫</em>。这正是历史上「魔女狩猎」的成因之一。<b>而主角怜却能自由出入该空间。</b></p>
+      </div>
+    </div>
+    <div class="grid g3" style="margin-top:18px">
+      <div class="card"><h4>教团</h4><p>最古老的魔女相关组织，内部分裂为多个派阀，并非铁板一块。</p></div>
+      <div class="card"><h4>裁判所</h4><p>数百年前自教团分裂，教义是消灭所有魔女，中世纪魔女狩猎的主力。如今则「利用魔女来消灭魔女」。</p></div>
+      <div class="card"><h4>圣赦院</h4><p>负责事后清剿，会统一收集女巫掉落的魔导书残页并宣称焚毁——<b>实际是秘密封存</b>。</p></div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 12 剧情结构 ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="剧情结构总览">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 11</span></div>
+  <div class="body">
+    <h2 class="t">剧情结构 · <em>官方主线只有 3 章</em></h2>
+    <div class="sub">Narrative Structure / 第 4 章起，全部被官方归入「特殊作战」</div>
+    <p class="tx" style="margin-bottom:12px">游戏内的「剧情」界面分为「主线」（时系列推进）与「番外」（支线）。日文资料站记录的<b>官方章节解锁表</b>原话是：</p>
+    <div class="quote" style="font-size:15.5px;margin-bottom:14px">
+      「『主线』可以阅读按时系列展开的本作主线故事。<b>第 4 章及以后，属于『特殊作战』相关的剧情。</b>」
+      <cite>游戏内「剧情」界面说明 — 等于官方层面承认：主线在第 3 章之后就没有再作为「主线」推进过</cite>
+    </div>
+    <table class="tbl">
+      <tr><th style="width:56px">章</th><th style="width:80px">种别</th><th>日文原标题</th><th>中文</th><th style="width:200px">说明 / 篇幅</th></tr>
+      <tr><td>01</td><td>主线</td><td>人生の終わり、運命の始まり</td><td><b>人生的终结、命运的开始</b></td><td>6 节 · 世界观讲义 + 性转</td></tr>
+      <tr><td>02</td><td>主线</td><td>守りたい彼女、守られた貴方</td><td><b>想守护的她、被守护的你</b></td><td>25 节 + 4 番外 · 全篇最长</td></tr>
+      <tr><td>03</td><td>主线</td><td>神魂の治癒、身体の呪い</td><td><b>神魂的治愈·身体的诅咒</b></td><td>16 节 + 1 番外 · 拉斐尔登场</td></tr>
+      <tr><td>04</td><td>活动</td><td>深潜症 ～Thalassophobia～</td><td><b>深潜症</b></td><td>25 节完结 · 南极篇 · 克苏鲁式</td></tr>
+      <tr><td>05</td><td>活动</td><td>創傷反射</td><td><b>创伤反射</b></td><td>15 节完结 · 病态失认 / 记忆</td></tr>
+      <tr><td>06</td><td>活动</td><td>黙示録</td><td><b>启示录</b></td><td>20 节完结 · 教团篇 · 评价最高</td></tr>
+      <tr><td>07</td><td>支线</td><td>少女と皇帝</td><td><b>少女与皇帝</b></td><td>番外性质 · 梗概待考</td></tr>
+      <tr><td>08</td><td>活动</td><td>星塵降臨</td><td><b>星尘降临</b></td><td>21 节完结 · 马萨达堡篇 · 与虚拟歌手「星尘」联动</td></tr>
+      <tr style="background:rgba(201,162,39,.07)"><td>—</td><td>活动</td><td>混沌演算</td><td><b>混沌演算</b></td><td><span class="warn">日服「開催日未定」从未上线 · 内容未完结</span></td></tr>
+      <tr style="background:rgba(201,162,39,.07)"><td>—</td><td>活动</td><td>死亡告白</td><td><b>死亡告白</b></td><td><span class="warn">日服「開催日未定」从未上线 · 内容未完结</span></td></tr>
+    </table>
+    <div class="note rd" style="margin-top:14px">
+      <b>关于「第 4 章《命运的再会、未来在何方》」</b>：日文玩家博主另译出了一章编号为 CHAPTER.4 的主线（4 节，收束于「方舟计划启动！」），<b>但它并不在官方的 8 章解锁表里</b>。两种可能：① 简中服独有的内容，日服未上线；② 被并入活动序列的过渡章节。<b>标为存疑。</b>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 13 第一、二章 ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="第 1–2 章">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 12</span></div>
+  <div class="body">
+    <h2 class="t">主线 · <em>第一章 &amp; 第二章</em></h2>
+    <div class="sub">Chapter 01 – 02</div>
+    <div class="grid g2" style="gap:26px">
+      <div>
+        <h3 class="h">第一章《人生的终结、命运的开始》<span class="mut" style="font-size:12px;font-family:var(--font-mono)">6 节</span></h3>
+        <p class="tx">开篇即<b>世界观讲义</b>：以 SID 内部记录的口吻叙述异质物的定义，点明转折点是「<b>事故编号 DA154 的那次坠机</b>」——此后异质物在全球不断被发现，「我们的一切努力都化为乌有」。战争持续 7 年，六个最先进的国家达成和平条约，为应对厌战民众、宣传异质技术研究的无害性，一致决议对各自首都启用「学园都市」称号。收尾是一句冷话：</p>
+        <div class="quote" style="font-size:15.5px;margin:10px 0">
+          「『学园都市』真是个讽刺的称谓啊。」
+          <cite>第 01 章 PART.1「異質物」</cite>
+        </div>
+        <p class="tx">随后主角被 <b>SID（秘密情报局）</b>收编：莉琉在他胸口植入带定位与窃听功能的芯片，威胁「再闹就用你的胸部当着全班的面播下课铃」。他的身份被埃癸斯系统彻底伪造，以女高中生身份转入<b>御樱川女子中学</b>。</p>
+      </div>
+      <div>
+        <h3 class="h">第二章《想守护的她、被守护的你》<span class="mut" style="font-size:12px;font-family:var(--font-mono)">25 节 + 4 番外</span></h3>
+        <p class="tx">全篇最长的一章。核心是<b>伊露卡</b>与<b>教团</b>：经莉琉许可，主角与安妮带伊露卡逛街；PART.19《紧急任务》里爱衣用训练数据说明「小怜的身体素质和普通女高中生没什么差别」；PART.14 里主角正面追问莉琉——</p>
+        <div class="quote" style="font-size:15.5px;margin:10px 0">
+          「但是我想变回男生啊……究竟怎么做才行。」
+          <cite>主线里主角唯一一次正面追问性别复原的可能性</cite>
+        </div>
+        <p class="tx">而本章的收束（PART.25『指名手配』）是全作最重要的悬念之一：主角梦见浓雾中一个<b>穿黑色怪异装束、有一双冷淡浅红色眸子的身影</b>，带着狡猾笑意叫他「怜……」，说了一句断断续续的话（「直到……之时……终将……」），醒来后怎么都想不起内容。</p>
+        <p class="tx">紧接着，安妮叫他看新闻：<b>全球所有网站头条同时更新同一条消息</b>——神秘男性闯入阿卡特拉兹收容基地，夺走该基地收容的 EX 级古代异质物；通缉信息：男、15–18 岁，仅一张照片，<b>危险等级 AAA</b>。</p>
+        <p class="tx" style="color:var(--red2)"><b>通缉令上的那张脸，正是主角还是男生时的样子。</b></p>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 14 第三、四章 ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="第 3–4 章 · 方舟计划">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 13</span></div>
+  <div class="body">
+    <h2 class="t">主线 · <em>第三章 &amp; 第四章</em></h2>
+    <div class="sub">Chapter 03 – 04 / 主线的终点</div>
+    <div class="grid g2" style="gap:26px">
+      <div>
+        <h3 class="h">第三章《神魂的治愈·身体的诅咒》<span class="mut" style="font-size:12px;font-family:var(--font-mono)">16 节 + 1 番外</span></h3>
+        <p class="tx">直接承接第 2 章悬念：「诡异的恶梦、意义不明的对话、梦中的黑影，以及全网推送的 AAA 级通缉令」。莉琉启动<b>情报扰乱计划</b>，清除与那名「通缉犯」相关的第三方资料，用信息操作把主角的存在从世界上抹掉。</p>
+        <p class="tx">打着「艺术交流」旗号的<b>萨蒙顿考察团</b>抵达，<b>拉斐尔·戴克斯</b>由此登场；SID 侦测到「天空酒店」出现多起<b>间歇性时空波动</b>。PART.16《重围突破》收束本章，莉琉给出了全作最露骨的组织哲学：</p>
+        <div class="quote" style="font-size:15px;margin:10px 0">
+          「所谓信息即权利，<b>Knowing is Owning</b>。」「情报组织自诞生起，就从不会与本国元首或统治者完全共享情报。」
+          <cite>CHAPTER.3 PART.16</cite>
+        </div>
+        <p class="tx"><b>真正的转折</b>：主角自己推出结论——萨蒙顿考察团把「<b>黄金蝴蝶</b>」偷运进丰洲、行李不报关、特意选在 SID 无管辖权的酒店，<b>背后指使者是元老院</b>，目的是「把 SID 排除在信息圈外」；而雅各是第四学园都市的人，<b>他们研究魔女已有一段时间</b>。莉琉的判断是：「七年战争中出现过的、希望控制特殊力量的声音，又会再次抬头了吗？」</p>
+      </div>
+      <div>
+        <h3 class="h">第四章《命运的再会、未来在何方》<span class="warn" style="font-size:12px;font-family:var(--font-mono)">仅 4 节 · 官方章表中无此章</span></h3>
+        <p class="tx">全篇主体是<b>主角的性别认同焦虑与日常</b>。他躺在草坪上烦恼「未来会怎样」，安妮用冷知识安慰他：「<em>在我心中，小怜是很棒的男孩子呢</em>。」随后莉琉通过胸口的芯片插话。</p>
+        <p class="tx">紧接着，莉琉在元老院会议上以 14.9 亿 + 6.2 亿 + 5.32 亿的预算方案强行闯关（华音流抱怨「太贵了」，基尔斯沉默）——</p>
+        <div class="quote" style="margin:12px 0;font-size:19px">
+          那么——<b>『方舟计划』启动！</b>
+          <cite>CHAPTER.4 PART.4「方舟計画」— 全作最后一节主线内容</cite>
+        </div>
+        <h3 class="h" style="margin-top:14px">本章之后，是拉斐尔的出场收尾</h3>
+        <p class="tx">数周后，<b>拉斐尔转入御樱川女子中学</b>，成为二年级的「拉斐尔学姐」，理由是「既然我是魔女，还是来这里最适合」，且不打算告诉家人。她此前因一次采访上了热搜：</p>
+        <div class="quote" style="font-size:14.5px;margin-top:10px">
+          「为什么总有人认为，只要向神祈祷就能够获得救赎呢？不过是摇尾乞怜般的自我安慰罢了……废物不管到哪都是废物，为什么国家要养着这种人？」
+          <cite>拉斐尔 · 全书对宗教福利国家最直接的批判</cite>
+        </div>
+      </div>
+    </div>
+    <div class="note rd" style="margin-top:20px">
+      <b>方舟计划的真面目</b>：对外宣称是「查明空间异变原因并寻找解决方案」的新丰洲＋萨蒙顿共同研究项目；实际上，它是莉琉以元老院经费在新东北地区 G-cans 周边 40 公里无人区建设的地下实验基地，<b>真实目的是「把魔女召唤过来」</b>——也就是主角那份把魔女从因果裂缝拉回现世的能力。
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 15 特别行动 I ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="特别行动 I">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 14</span></div>
+  <div class="body">
+    <h2 class="t">特别行动 · <em>深潜症</em> / <em>创伤反射</em></h2>
+    <div class="sub">每章以一个心理或医学术语为主题</div>
+    <div class="grid g2" style="gap:24px">
+      <div>
+        <h3 class="h">深潜症 ～Thalassophobia～<span class="mut" style="font-size:12px;font-family:var(--font-mono)">25 节完结</span></h3>
+        <p class="mono" style="font-size:11.5px;color:var(--red2);margin-bottom:8px">「『魂』とは何か？ 少女の慟哭が氷の大地に木霊する」</p>
+        <p class="tx">开篇引言就抛出了全作母题：「或许『灵魂』仅仅是一种概念，就像物理学中『时间』的概念一样，只是一种幻觉……一场梦。<b>那么唯一的问题是——做梦的人是谁？</b>」</p>
+        <p class="tx">舞台是<b>南极</b>白皇后基地。开场是<b>白烛</b>的独立行动：南极辐合带、海面下 <b>6100 米</b>（深潜舱设计安全线仅 4500 米）。探照灯熄灭前她看到窗外——<b>横展超过 90 米、长着触须的庞然大物，凹陷的血红色组织像瀑布般向中心塌陷成一个巨大黑洞：那是一个眼球，观测窗正对着的就是瞳孔</b>，每次搏动都与她的心跳重合。她在精神污染下用机械臂刺入眼球玻璃体取样，再靠八组探照灯强光与螺旋桨全速后退脱离。</p>
+        <p class="tx">白烛生来具备<b>极端耐寒体质</b>：婴儿时被发现于冬日冰封的深山过了一整夜；成年人在 30 秒内就会丧失意识的极寒中，她始终维持正常体温。</p>
+        <p class="tx">收尾（PART.25『独白』）是全作公认最动人的一段：主角辞行后又折返，用有色润唇膏<b>在白烛手心写下自己的通讯号码</b>，然后才意识到「这是男性向浪漫幻想十大名场面之一，但那个场面应该是『美少女在男方手心写号码』，好像搞错了什么」。白烛一句戳破：</p>
+        <div class="quote" style="font-size:15px;margin:10px 0">
+          「虽然有些冒犯，但是……小怜是男孩子吗？」「会做出这种傻傻的事情，总觉得像是那种笨手笨脚的男孩子。」
+          <cite>深潜症 PART.25（完）</cite>
+        </div>
+        <p class="tx">飞机在南美跑道上滑行。面对<b>与自己记忆相差十九年</b>、被战争与异质物改造得面目全非的世界，她握着 SID 从牛奶手表里恢复数据后复制给她的播放器，反复重放牛奶的录音——「明明只相处了一年，却感觉和你认识了几个世纪一样」「你和我……就像是<b>灵魂的亲和数</b>一样」。少女眼角含泪，低声笑了出来，说了一句：「<b>笨蛋。</b>」</p>
+      </div>
+      <div>
+        <h3 class="h">创伤反射<span class="mut" style="font-size:12px;font-family:var(--font-mono)">15 节完结</span></h3>
+        <p class="mono" style="font-size:11.5px;color:var(--red2);margin-bottom:8px">「『病態失認』とは——血と硝煙の記憶が、今蘇る」</p>
+        <p class="tx">开篇引言是<b>安东盲目症（病态失认）</b>：患者虽已失明却坚信自己看得见，大脑会为无法接受的现象编造虚假记忆——「这是人类面对未知事物时一种自我保护的原始本能。<b>或许因为我们还没做好准备，直面星空背后的那片黑幕……</b>」</p>
+        <p class="tx">结构上是<b>「潜入他人记忆」的轮回叙事</b>：主角反复进入<b>法贝拉</b>两年前的记忆，每次都在同一场仓库攻防战中失败，怀疑「是不是有其他人在影响这段记忆」。</p>
+        <p class="tx">敌人是大规模机械蜘蛛。莉琉解释：法贝拉是「体内寄宿了火焰魔法的魔女」，但与伊露卡那种直接操作电场的类型不同，<b>法贝拉是「某种庞大的信息」把她当成了宿主</b>；爱衣补上科学注解——「<b>当信息密度足够大、熵值足够低，就可能产生自我意识</b>」。随着法贝拉自身理性离线，那种「活着的信息」开始慢慢侵蚀她的身体，机械蜘蛛正是它制造的。</p>
+        <p class="tx">主角最终的醒悟是：「我一直在这个世界里添加自己需要的东西……但其实一直压制着那个『意识体』的，是法贝拉本人。」他把那份<b>发黄的魔导书残页</b>放到法贝拉手上，并把<b>她的手与斯库尔德的手搭在一起</b>：「这是属于你的，你的『魔导书』；是你两年前第一次遇到斯库尔德时，自己选择背负的东西。」</p>
+        <p class="tx">前史由此揭开：<b>法贝拉原本是第二学园都市情报机构『帕兰提尔』的攻击队队长，后来成为斯库尔德的女仆兼保镖。</b></p>
+        <div class="note rd" style="margin-top:14px">
+          <b>全章最后一格</b>是斯库尔德的内心独白：「我记得在一阵白光之后，看到了你的脸——虽然只是一瞬，但我绝对不会记错。<b>只是和我印象中的样子——稍稍有点不同呢……</b>」这是本作最明确的「主角的存在被他人记忆察觉异常」的伏笔之一。
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 16 启示录 ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="启示录">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 15</span></div>
+  <div class="body">
+    <h2 class="t">特别行动 · <em>启示录</em>（全 20 节完结）</h2>
+    <div class="sub">是全作评价最高、也是唯一把「终极存在」推到台前的一章</div>
+    <div class="note" style="margin-bottom:16px">
+      <b>开场就是一段完整的政治惊悚剧</b>：老仓库里，「禁止异质物武器试验条约组织」执行秘书长<b>伦伯特爵士</b>被绑，绑匪伪装成恐怖组织。他靠赎金清单上 12 个加密货币账户的金额「每一个都能跟联合议会最近公开的恐怖分子保释金对应上」，当场反推出对方不是抵抗组织，而是第三学园都市的<b>摩诺拉</b>，并还原出一套「一石三鸟」剧本。<br>
+      而当他用反向交易逼对方服软、绑匪去取钳子时——「嗡」的一声，黑衣人像石化般定住，<b>上半身从腰部整齐断裂栽下，两条腿还站在原地</b>。特警破门而入，伦伯特回头，墙上那几张<b>丘伦河大屠杀</b>（圭亚那高地，穿防化服的工作人员处理堆积如山的尸体）的照片已空空如也；在毫无光源的监控死角，<b>一缕沾着血迹的黑色长发渐渐融入夜色</b>。
+    </div>
+    <div class="grid g2" style="gap:26px">
+      <div>
+        <h3 class="h">索娅的弧线</h3>
+        <p class="tx"><b>索娅·恩杰尔斯</b>（CV 新井里美）原本是教团修道院一侧的「<b>行刑者</b>」。她决定「成为魔女」，用自己的身体秘密与莉琉交易，并<b>偷走圣赦院秘匣中封存的魔导书残页</b>——因为她早就推断教廷并未真的烧毁魔导书。</p>
+        <p class="tx">她胆大心细得可怕：预判到最坏结局，用河豚毒素麻痹主角以防他泄露电击脚环之事，并在临别前<b>把自己的武器垫在主角身后</b>，好让主角日后能把她拉回来。</p>
+        <p class="tx">她对上级<b>阿尔加纳嬷嬷</b>的唯一回应是一场沉默的告别——嬷嬷只说了一句：「<em>你总是这么管不住自己的好奇心啊。</em>」既是斥责，也是道别。</p>
+        <h3 class="h" style="margin-top:16px">「门」与集体心理</h3>
+        <p class="tx">故事围绕「<b>天国之门</b>」（佛罗伦萨圣约翰洗礼堂大门的复制品）展开，主题是盲点与暴走的集体心理：<b>326 名感染者点燃了十几万人游行与七处暴乱</b>。</p>
+      </div>
+      <div>
+        <h3 class="h">那位 · 与主角唯一一次正面冲突</h3>
+        <p class="tx">海因里希口中「不能直呼其名的那位大人」，别名『<b>真理</b>』『<b>道</b>』『<b>扉</b>』『<b>一而全</b>』，位格高于人类，行动逻辑超乎善恶伦理。它曾逼迫海因里希以灵魂签订恶性契约，并绑架监禁安妮。</p>
+        <p class="tx">日文考据者据其别号与在「因果的缝隙」中的表现，判定其为克苏鲁神话的<b>犹格·索托斯（Yog-Sothoth）</b>意象。</p>
+        <div class="quote" style="margin-top:14px;font-size:17px">
+          主角在结尾直接顶着它的咒骂把门拉开、把人抱出来，并回头说了一句：<br><b>「滚回去。」</b>
+          <cite>启示录 PART.20（完）— 全作最接近「主角与终极存在正面冲突」的一幕，而这个冲突并没有被写完</cite>
+        </div>
+        <h3 class="h" style="margin-top:16px">埋下的时间线伏笔</h3>
+        <p class="tx">末尾登场的少年<b>约翰（John）</b>，「一瘸一拐地拿着手机」，被电话另一端责备「为了接触她甚至不惜消除自己的记忆，值得吗？」，他笑着回：「<em>还是……挺值得的嘛。</em>」名字与「2036 年来的时间旅行者约翰·提托」梗重合，而本作当前时代正是 2036–2037 年。</p>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 17 星尘降临 / 混沌演算 / 死亡告白 ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="星尘降临 · 混沌演算 · 死亡告白">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 16</span></div>
+  <div class="body">
+    <h2 class="t">特别行动 · <em>星尘降临</em> / <em>混沌演算</em> / <em>死亡告白</em></h2>
+    <div class="sub">从军武写实到哲学科幻的跨度</div>
+    <div class="grid g3" style="gap:18px">
+      <div class="card" style="border-color:rgba(216,30,63,.28)">
+        <span class="tagx">全 21 节</span>
+        <h4>星尘降临</h4>
+        <p class="mono" style="font-size:11px;color:var(--red2);margin:6px 0 8px">「『約束』——星は廻り、人もまた巡る」</p>
+        <p><b>开场引言是囚徒困境</b>：「但有些博弈并没有重来的余地——陷入猜疑的双方永远都无法突破这『囚徒困境』。」场景是新丰洲城郊一座奢华欧式庄园，实为元老院特批牌照、各学园都市权贵经营的<b>会员制赌场</b>。主角穿高跟与超短礼服裙潜入（莉琉：「挺起胸，保持仪态，别走得像只龙虾一样。你又不是第一天做女孩子了~」），目标是一位抱着二三十页纸质文件的施教授。</p>
+        <p style="margin-top:8px">舞台随后转向第三学园都市<b>马萨达堡</b>（沙漠军事要塞）。主角与<b>艾米莉欧</b>、<b>薇拉</b>伪装成土匪劫持 NGO 军资车，敌方放出「蜂巢」无人机群。</p>
+        <p style="margin-top:8px">本章是全作政治讽喻最尖锐的一段：<b>内城区只有 32 平方公里、90% 市民住在隔离墙外</b>；《反恐袭法》、宗教原教旨主义者不纳税不服兵役却拿补助金、军方收买 NGO 运物资再以「被恐怖袭击」做宣传——对以色列社会与锡安主义的直接影射（卡拉卡尔营、死海、耶胡达市场）。</p>
+        <p style="margin-top:8px">同时，这是与中文虚拟歌手企划「平行四界」的 <b>Vocaloid「星尘」</b>的联动章节。</p>
+      </div>
+      <div class="card cy" style="border-color:rgba(98,217,228,.28)">
+        <span class="tagx">日服未上线</span>
+        <h4>混沌演算</h4>
+        <p style="margin-top:8px">以<b>模因类异质物</b>为引子：新丰洲市区检测到与人类快速眼动睡眠脑波特性一致、但强度高出几十万倍的低频噪音——正是南极让众人陷入梦境的同种信号。</p>
+        <p style="margin-top:8px">主角的<b>预知梦</b>预示「新丰洲大规模停电」。而新丰洲因埃癸斯主机耗电极大，电力系统由元老院以最高优先级保障，理论上<b>连电磁脉冲弹在护盾内引爆都不会影响供电</b>——「要造成新丰洲停电，得动用 XK 级异质物」。</p>
+      </div>
+      <div class="card gd" style="border-color:rgba(201,162,39,.28)">
+        <span class="tagx">日服未上线</span>
+        <h4>死亡告白</h4>
+        <p style="margin-top:8px">以「特定频率电击可消除患者记忆、打断扣带皮层蛋白合成」开篇，抛出全作最锋利的一个问题：</p>
+        <p class="quote" style="font-size:14px;border-left-color:var(--gold);margin:10px 0">如果某天你从一张陌生的床上醒来，忘记了一切，一群陌生人声称是你最重要的亲人，而其他人都说他们在骗你——<b>你会选择相信谁？</b></p>
+        <p>舞台在第二学园都市纽摩利达斯。雇主方是帕兰提尔，人物是玩世不恭的少女杀手<b>伊娜拉</b>与联合议会派出的特别调查员<b>九月</b>。</p>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 18 终局 ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="剧情终局">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 17</span></div>
+  <div class="body">
+    <h2 class="t">终局 · <em>它没有结局</em></h2>
+    <div class="sub">可以下断言：本作不存在任何形式的官方结局 —— 没有终章、没有后日谈、没有小说或设定集收束</div>
+    <div class="grid g2" style="gap:26px">
+      <div>
+        <h3 class="h">三条佐证</h3>
+        <p class="tx">① <b>结构层面</b>：官方剧情 UI 把「第 4 章及以后」整体归入「特殊作战（活动）」。<b>主线本身在第 3 章末尾就停止了</b>，之后一切剧情都是彼此独立的活动，不构成收束。</p>
+        <p class="tx">② <b>内容层面</b>：可确证的最后一段主线内容是「<b>方舟计划启动！</b>」——这是一个<b>开局</b>，不是结局。</p>
+        <p class="tx">③ <b>活动层面</b>：《混沌演算》与《死亡告白》在日服<b>根本没上线</b>，在简中服也是未完待续状态（译者目录明确写「以下连载中」）。《星尘降临》日服 21 节完结，但公开译文只到第 13 节，终局至今无人整理。</p>
+        <h3 class="h" style="margin-top:18px">全部悬空的问题</h3>
+        <p class="tx">· 方舟计划把魔女召唤来做什么<br>
+        · 通缉令上那个「男性版主角」是谁（他夺走了 EX 级异质物，危险等级 AAA）<br>
+        · 梦中那个黑装、浅红色眸子的人影说了什么<br>
+        · 「那位／真理／道／扉／一而全」（≈犹格·索托斯）的完整意图<br>
+        · 海因里希的灵魂契约如何了结<br>
+        · 「自由光巨蛋事件」消失的 5 万人去了哪里<br>
+        · 白烛的养父究竟隐瞒了什么<br>
+        · 埃癸斯的「灵魂编号」系统意味着什么<br>
+        · 约翰（John Titor 梗）的身份与时间线</p>
+      </div>
+      <div>
+        <h3 class="h">官方的补完：只有日常，没有结局</h3>
+        <p class="tx">没有官方小说、没有设定集、没有结局动画。唯一的官方叙事补完是微博上的<b>四格漫画（约 35 话）</b>，以及《魔女的忏悔室》（7 回）、《不说话可能会死》（6 回）等栏目——<b>全为轻松向日常，不承担结局功能</b>。</p>
+        <p class="tx" style="margin-top:10px"><b>2020.02.14</b>，官方在《两周年致谢：轻舟已过》中承诺「制作组仍在继续打造 v2.0 及后续版本……努力填坑」——<b>但 v2.0 从未兑现</b>。</p>
+        <table class="tbl" style="margin-top:16px">
+          <tr><th>板块</th><th style="width:104px">状态</th></tr>
+          <tr><td>第 01 章 人生的终结、命运的开始</td><td class="ok">完结（本章）</td></tr>
+          <tr><td>第 02 章 想守护的她、被守护的你</td><td class="ok">完结 · 悬念未解</td></tr>
+          <tr><td>第 03 章 神魂的治愈·身体的诅咒</td><td class="ok">完结 · 伏笔未收</td></tr>
+          <tr><td>第 04 章 命运的再会（官方章表无）</td><td class="warn">存疑</td></tr>
+          <tr><td>深潜症 / 创伤反射 / 启示录</td><td class="ok">完结</td></tr>
+          <tr><td>星尘降临</td><td class="warn">日服完结 · 终局未明</td></tr>
+          <tr><td>混沌演算 / 死亡告白</td><td class="bad">未完结</td></tr>
+          <tr><td>v2.0</td><td class="bad">从未推出</td></tr>
+          <tr><td>官方结局补完</td><td class="bad">不存在</td></tr>
+        </table>
+        <div class="quote" style="margin-top:16px;font-size:15.5px">
+          「剧情优秀，可惜鸽了。被游戏拖累的动漫公司。」
+          <cite>豆瓣 Harry_hua（2022.12）</cite>
+        </div>
+        <p class="tx" style="margin-top:12px">据玩家帖，游戏<b>月流水自 2020 年起长期低于 10 万元</b>，靠极低的维护成本一直撑到 2024 年——比同期停运的韩服、日服、港澳台服多活了将近四年。</p>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 19 主题分析 ═══════════════ -->
+<section class="slide" data-sec="剧情" data-title="主题与叙事手法">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>03</i> · 剧情</span></div><span class="stamp">FILE 18</span></div>
+  <div class="body">
+    <h2 class="t">主题 · 与它的<em>叙事手法</em></h2>
+    <div class="sub">Themes &amp; Narrative Technique</div>
+    <div class="grid g3" style="margin-bottom:20px">
+      <div class="card"><span class="tagx">01</span><h4>代价</h4><p>圣杯给主角的每一次「拯救」都要收取代价——性别、自由、身份。魔法知识以理性为代价；女巫是「注定被消耗殆尽的电池」。</p></div>
+      <div class="card cy"><span class="tagx">02</span><h4>记忆与自我</h4><p>自由光巨蛋的 5 万人、抹除记忆的疗法、琥珀般的录音、女巫「早已像融入大海的一滴水」的人格消散。</p></div>
+      <div class="card gd"><span class="tagx">03</span><h4>理性大坝的溃堤</h4><p>爱衣对女巫的比喻，也是《启示录》对集体心理的比喻（326 名感染者点燃十几万人游行）——几乎可视为全作主命题。</p></div>
+    </div>
+    <div class="grid g2" style="gap:24px">
+      <div>
+        <h3 class="h">叙事手法</h3>
+        <p class="tx">① <b>第一人称少年视角 + 大量内心吐槽</b>。把极重的世界观通过一个不适应女性身体的少年之眼过滤出来，形成「严肃设定 × 轻小说语气」的温差。</p>
+        <p class="tx">② <b>每章以伪学术／伪哲学引言开篇，而引言通常是本章谜底的钥匙</b>。异质物讲义 → 居里夫人与基因表达 → 安东盲目症 → 「灵魂是什么、做梦的人是谁」 → 囚徒困境。深潜症的「做梦的人是谁」对应白烛的 19 年沉睡；创伤反射的病态失认对应记忆被「意识体」篡改。</p>
+        <p class="tx">③ <b>用非主角视角的冷开场推进信息</b>。《启示录》整段开场是伦伯特与绑匪的囚禁博弈，《死亡告白》开场是伊娜拉在公寓给受害者纹身，《星尘降临》开场是庄园潜入——主角常在中段才登场。</p>
+        <p class="tx">④ <b>把世界观冷知识当情话与安慰用</b>。安妮用路易十四与高跟鞋、苏格兰裙安慰主角；白烛凭「做出傻事的样子像笨手笨脚的男孩子」识破性转；牛奶用<b>亲和数 220 / 284</b> 比喻两人关系。<b>本作最动人的部分几乎都建立在「知识 / 梗」上</b>——这也是它被认为「不像骗氪二游」的原因。</p>
+      </div>
+      <div>
+        <h3 class="h">每章换一个类型、换一个学科切口</h3>
+        <p class="tx" style="line-height:2">
+          第 01 章 · <b>世界观讲义 + 异质物</b>（「学园都市真是个讽刺的称谓啊」）<br>
+          第 02 章 · <b>百合日常 + 身份认同 + 通缉令悬疑</b><br>
+          第 03 章 · <b>情报战 + 政治惊悚</b>（Knowing is Owning）<br>
+          深潜症 · <b>克苏鲁 / 深海恐怖 + 哀悼文学</b><br>
+          创伤反射 · <b>神经科学 + 轮回潜入 + 记忆不可靠</b><br>
+          启示录 · <b>社会心理学 + 宗教政治惊悚</b><br>
+          星尘降临 · <b>博弈论 + 军事占领区伦理</b><br>
+          混沌演算 · <b>模因 / 预知 + 基础设施恐怖</b><br>
+          死亡告白 · <b>记忆抹除 + 身份抉择</b>
+        </p>
+        <div class="quote" style="margin-top:16px;font-size:15.5px">
+          「相比于迫真黑深残、谜语人、强行煽情、异世界过家家，这种类似于传统故事而不摊大饼卖人设的人物关系结构注定不好骗氪。」
+          <cite>豆瓣 Po0hstein — 这句话既概括了它的风格，也解释了它为什么商业上会失败</cite>
+        </div>
+        <div class="note rd" style="margin-top:14px"><b>批评也真实存在</b>：开场信息过载。有玩家写道「刚进游戏就一堆剧情对话，但是本身对角色又毫无了解，完全没法看下去」——世界观的门槛劝退了相当一部分人。</div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 20 主角 ═══════════════ -->
+<section class="slide" data-sec="角色" data-title="主角 怜">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>04</i> · 角色</span></div><span class="stamp">FILE 19</span></div>
+  <div class="body">
+    <h2 class="t">主角 · <em>怜</em>（小怜 / レン）</h2>
+    <div class="sub">CV：钉宫理惠 &nbsp;·&nbsp; 全作的视角与代价本身</div>
+    <div class="grid" style="grid-template-columns:1.05fr 1fr;gap:24px">
+      <div>
+        <dl class="kv">
+          <dt>原身份</dt><dd>第五学园都市新丰洲市的普通 <b>15 岁少年</b>，有些宅 <span class="mut">（玩家可自定义姓名，剧情中后段会被强制改名为「怜」）</span></dd>
+          <dt>转变</dt><dd>洛斯金杯事件唯一幸存者，向圣杯许愿后<b>因果被改写、性转为少女</b></dd>
+          <dt>身份</dt><dd>新圣杯主人 / 圣杯容器；SID 一线探员；御樱川女子中学学生</dd>
+          <dt>能力</dt><dd>能独自侵入上位波动空间并在现实受影响前完成压制；<b>触碰魔女的「羁绊之物」即可把囚于因果裂缝中的魔女拉回现世</b></dd>
+          <dt>性格</dt><dd>冷静、爱吐槽、行动力强。莉琉评价他「<b>冷静分析、大胆下注</b>」很有天赋</dd>
+          <dt>日常处境</dt><dd>完全不适应以女孩身份生活，因此长期成为女性角色们性暗示与性骚扰的受害者 <span class="mut">（这也是本作喜剧感的来源，同时构成伦理上的争议点）</span></dd>
+        </dl>
+      </div>
+      <div>
+        <div class="fig" style="height:268px;margin-bottom:14px">
+          <img src="assets/img/cost17.jpg" alt="怜 战斗服 死之薄纱裙">
+          <div class="figcap">怜 · 战斗服「死のチュールスカート」<i>COSTUME / 死之薄纱裙</i></div>
+        </div>
+        <div class="note">
+          <b>官方口径</b>：游戏设定集与活动文案反复出现一句话——「<b>怜ちゃんかわいい！</b>」（小怜好可爱！）。日文资料站考证认为这是本作<b>主题之一</b>，而不只是宣传语：主角的可爱情形与他的处境之残酷，正是这部作品最核心的张力。
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 21 角色体系 ═══════════════ -->
+<section class="slide" data-sec="角色" data-title="角色体系与属性分类">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>04</i> · 角色</span></div><span class="stamp">FILE 20</span></div>
+  <div class="body">
+    <h2 class="t">角色体系 · <em>六系属性</em>与 40+ 位魔女</h2>
+    <div class="sub">Casts / 设计语言：历史与传说的魔女灵魂 + 具象化兵器</div>
+    <table class="tbl">
+      <tr><th style="width:74px">属性</th><th>代表魔女</th><th>设计语言</th></tr>
+      <tr><td><b class="bad">铁骑</b></td><td>斯库尔德、海因里希、虎千代、艾米莉欧、瑟蕾莎、莉亚</td><td>甲胄、巨剑、冷兵器、肃杀配色</td></tr>
+      <tr><td><b class="warn">炼金</b></td><td>安妮、薇拉、玉藻、巴巴罗萨、杏、莉莉娅、圣莫里斯、艾丝缇娜、维拉克斯</td><td>机械与化学、工具箱式武装、暖色点缀</td></tr>
+      <tr><td><b class="ok">调和</b></td><td>格兰蕾特、塞拉伊诺、克劳迪娅、莉琉、阿斯塔利尔、卡洛琳、倪克斯、高崎明良、奥古斯塔</td><td>礼装、军装、贵族气、高饱和点缀</td></tr>
+      <tr><td><b>术士</b></td><td>霍莉、拉斐尔、爱丽丝、命、库珀佐娅</td><td>法术载体、遮面、非人感</td></tr>
+      <tr><td><b>贤者</b></td><td>贝阿特丽切、雾夕、伊露卡、芩（Gin）、星尘·Twinkle</td><td>和风巫女、古典学者、异色瞳</td></tr>
+      <tr><td><b>限定</b></td><td>白烛、法比奥拉、索娅、星尘、伊娜拉、九月、牛奶</td><td>活动剧情专属，设计与当期主题强绑定</td></tr>
+    </table>
+    <div class="grid g3" style="margin-top:16px">
+      <div class="card"><h4>反类型兵器</h4><p>武器池刻意反常识：大锤、大剑、双刀之外，还有<b>棒球棒、巫女的御币、吉他、电锯</b>。灵感来源为《刀塔传奇》《秋叶原脱衣物语》《真·三国无双》《白猫计划》。</p></div>
+      <div class="card"><h4>人人一把有名字的兵器</h4><p>每位魔女的「羁绊之物」都有专有名（如艾米莉欧的「告死天使」、海因里希的「青金石」、索娅的「扫除屋 Thanatos」），是角色的识别符号。</p></div>
+      <div class="card"><h4>配色即性格</h4><p>红发红瞳 → 危险与掌控（莉琉）；绿发遮面 → 非人与宿命（阿斯塔利尔）；冷白和风 → 反衬豪爽（芩）。<b>形象与内在常常反着做。</b></p></div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 22 角色画廊 I ═══════════════ -->
+<section class="slide" data-sec="角色" data-title="角色卡面 I">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>04</i> · 角色</span></div><span class="stamp">FILE 21</span></div>
+  <h2 class="t" style="font-size:30px;margin-bottom:4px">角色与<em>记忆之情景</em> · I</h2>
+  <div class="sub" style="margin-bottom:14px">游戏内「記憶の情景」= 每位魔女的专属剧情插画</div>
+  <div class="gal" style="flex:1;min-height:0">
+    <div class="fig"><img src="assets/img/mem10.jpg" alt="白烛 冰结之梦"><div class="figcap">白烛「氷結の夢」<i>BYAKUJU / 冰结之梦 · 南极沉睡 19 年的少女</i></div></div>
+    <div class="fig"><img src="assets/img/mem08.jpg" alt="海因里希"><div class="figcap">海因里希「永遠の智慧の円形劇場」<i>HEINRICH / 16 世纪炼金术士 · 称主角为「主人」</i></div></div>
+    <div class="fig"><img src="assets/img/mem11.jpg" alt="斯库尔德"><div class="figcap">斯库尔德「街灯の黄昏」<i>SKULD / 高饱和神性配色 + 幼态行为反差</i></div></div>
+    <div class="fig"><img src="assets/img/mem16.jpg" alt="索娅"><div class="figcap">索娅「枯道の狼狩り」<i>SOYA / 由「行刑者」转为魔女 · 武器为电锯</i></div></div>
+    <div class="fig"><img src="assets/img/mem31.jpg" alt="九月"><div class="figcap">九月「浄罪の使徒」<i>SEPTEMBER / 联合议会特别调查员</i></div></div>
+    <div class="fig"><img src="assets/img/mem30.jpg" alt="伊娜拉"><div class="figcap">伊娜拉「夜桜に舞う異国の踊り子」<i>INARA / 纽摩利达斯的少女杀手</i></div></div>
+  </div>
+  <div class="foot"><span>图片来源：日文玩家资料站「魔女兵器の備忘録」游戏内素材存档（CC BY-NC 4.0）</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 23 角色画廊 II ═══════════════ -->
+<section class="slide" data-sec="角色" data-title="角色卡面 II">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>04</i> · 角色</span></div><span class="stamp">FILE 22</span></div>
+  <h2 class="t" style="font-size:30px;margin-bottom:4px">角色与<em>记忆之情景</em> · II</h2>
+  <div class="sub" style="margin-bottom:14px">从元气日常到帝国与舞蹈：题材跨度的样本</div>
+  <div class="gal" style="flex:1;min-height:0">
+    <div class="fig"><img src="assets/img/mem01.jpg" alt="安妮"><div class="figcap">安妮「灯下の魅惑」<i>ANNIE / 元气担当 · 抓娃娃机纪录保持者</i></div></div>
+    <div class="fig"><img src="assets/img/mem13.jpg" alt="法比奥拉"><div class="figcap">法比奥拉「バトルメイド」<i>FABIOLA / 限定 · 战斗女仆</i></div></div>
+    <div class="fig"><img src="assets/img/mem21.jpg" alt="奥古斯塔"><div class="figcap">奥古斯塔「民を導く勝利」<i>AUGUSTA / 活动《少女与皇帝》</i></div></div>
+    <div class="fig"><img src="assets/img/mem23.jpg" alt="维拉克斯"><div class="figcap">维拉克斯「街角の雨宿り」<i>VIRAX / 都市日常的一格</i></div></div>
+    <div class="fig"><img src="assets/img/mem27.jpg" alt="星尘 Twinkle"><div class="figcap">星尘·Twinkle「星のかぷりっちょ」<i>XINGCHEN / 与虚拟歌手「星尘」联动</i></div></div>
+    <div class="fig"><img src="assets/img/mem24.jpg" alt="莉亚"><div class="figcap">莉亚「シテ島での嗜み」<i>LIA / 巴黎西提岛 · 欧洲线角色</i></div></div>
+  </div>
+  <div class="foot"><span>图片来源：日文玩家资料站「魔女兵器の備忘録」游戏内素材存档（CC BY-NC 4.0）</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 24 美术：定位 ═══════════════ -->
+<section class="slide" data-sec="美术" data-title="美术定位：画风">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>05</i> · 美术</span></div><span class="stamp">FILE 23</span></div>
+  <div class="body">
+    <h2 class="t">美术 · <em>画风定位</em></h2>
+    <div class="sub">Art Direction / 这张脸就是它活下来的理由</div>
+    <div class="grid" style="grid-template-columns:1.15fr 1fr;gap:24px">
+      <div>
+        <p class="lead" style="margin-bottom:16px">一句话概括：<b>日系赛璐璐 / 卡通渲染</b>为骨，<b>「都市时尚 × 学园都市 SF × 暗系色调」</b>为皮，加一层神秘感。</p>
+        <p class="tx">· 媒体给出的最经典定位词是「<b>都市时尚类的画风</b>」（17173，2017）。<br>
+        · 中文维基把本作归类为「<b>卡通渲染风格电子游戏</b>」「等距视角游戏」「性转换题材」。<br>
+        · 日媒 Appget 描述战斗场景为「<b>アニメ調の3Dフィールド</b>」（动画风 3D 场域）。<br>
+        · 台服玩家在 QooApp 长评里独立确认：「<b>角色模組採賽璐璐的風格</b>。」</p>
+        <div class="note" style="margin-top:16px">
+          <b>它不是</b>：暗黑哥特、蒸汽朋克、韩系厚涂、废土写实。<br>
+          <b>它是</b>：一个穿校服、站在燃烧城市前的少女——高光泽的插画质感，配一层近黑的底。
+        </div>
+      </div>
+      <div class="fig" style="height:330px">
+        <img src="assets/img/load05.jpg" alt="新丰洲市街 载入原画">
+        <div class="figcap">新豊洲市街 · 游戏载入原画<i>LOADING ART / 学园都市的日常街景</i></div>
+      </div>
+    </div>
+    <div class="grid g4" style="margin-top:18px">
+      <div class="stat"><div class="num cy" style="font-size:34px">929</div><div class="lb">TapTap「画面优秀」</div></div>
+      <div class="stat"><div class="num" style="font-size:34px">1193</div><div class="lb">TapTap「剧情跌宕」</div></div>
+      <div class="stat"><div class="num cy" style="font-size:34px">161</div><div class="lb">TapTap「音效动听」</div></div>
+      <div class="stat"><div class="num" style="font-size:34px">85</div><div class="lb">TapTap「UI美观」</div></div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 25 美术：构成要素 ═══════════════ -->
+<section class="slide" data-sec="美术" data-title="上色·色调·UI">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>05</i> · 美术</span></div><span class="stamp">FILE 24</span></div>
+  <div class="body">
+    <h2 class="t">美术 · <em>上色、色调、UI</em></h2>
+    <div class="sub">拆开看它好看在哪里</div>
+    <div class="grid g2" style="gap:22px">
+      <div>
+        <h3 class="h">上色与线条</h3>
+        <p class="tx">赛璐璐分块上色 + 3D 卡通渲染。载入图走<b>高光泽、强对比打光</b>的路线（17173 形容为「湿身小姐姐」「随时快要蹦出来」），渲染的是通透湿润的质感。</p>
+        <p class="tx">线条偏细、干净收边，靠<b>暗底 + 边缘光</b>而非粗描边建立体积；3D 模型则依赖描边与分级阴影贴图。</p>
+        <h3 class="h" style="margin-top:18px">色调：暗底 + 艳角色</h3>
+        <p class="tx">17173 原文：「<b>暗系色调</b>为本就诡秘的剧情增添了不少神秘的色彩。」主界面与剧情以<b>深蓝灰、暗青、近黑</b>打底，用<b>高饱和的发色与瞳色</b>做视觉焦点——红发的莉琉、蓝双马尾的小怜、绿发的阿斯塔利尔、艳丽配色带翅膀的斯库尔德。战斗场景则拉亮，出现车流与海浪的都市日景。</p>
+        <div class="note" style="margin-top:14px"><b>可直接观察到的证据</b>：几乎所有载入原画都是「暖色光源 + 冷色阴影 + 一个饱和色角色」的三段式配置；红色眼睛是本作反复出现的视觉母题。</div>
+      </div>
+      <div>
+        <h3 class="h">UI：Live2D + 景深 + 科技风</h3>
+        <p class="tx">17173 / 3DM 原文：采用 <b>Live2D 技术</b>的整体界面看上去非常和谐；<b>带有景深</b>的画面让主界面更富立体感与层次感；「无论是选项菜单的二级界面还是更深入地选图界面，时刻附带<b>动感的科技风图画</b>」。</p>
+        <p class="tx">即：<b>Live2D 看板娘主界面 + 景深分层 + 科技感 HUD（线框 / 数据感 / 网格）</b>。</p>
+        <div class="note rd" style="margin-top:14px">
+          <b>但要注意</b>：TapTap 标签里「画面优秀」有 929 条，「<b>UI美观」只有 85 条</b>。口碑重心明确落在<b>立绘与原画</b>，UI 只是合格，不是加分项。
+        </div>
+        <div class="fig" style="height:214px;margin-top:16px">
+          <img src="assets/img/load06.jpg" alt="补习风景 载入原画">
+          <div class="figcap">補習風景？（マリル、レン、アニー、ヴィラ、エミリオ、アイスティーナ）<i>群像载入原画 · 角色间距与视线引导处理得很干净</i></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 26 美术：场景与立绘 ═══════════════ -->
+<section class="slide" data-sec="美术" data-title="场景·立绘·战斗表现">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>05</i> · 美术</span></div><span class="stamp">FILE 25</span></div>
+  <div class="body">
+    <h2 class="t">美术 · <em>场景、立绘与战斗表现</em></h2>
+    <div class="sub">企划美术 &gt; 量产资产，这是本作最稳定的结构性判断</div>
+    <div class="grid g3" style="gap:14px;margin-bottom:16px">
+      <div class="fig" style="height:150px"><img src="assets/img/load04.jpg" alt="南极基地"><div class="figcap">深潜症 · 南極スノークイーン基地<i>SCENE / 克苏鲁式南极篇</i></div></div>
+      <div class="fig" style="height:150px"><img src="assets/img/load02.jpg" alt="学园保健室"><div class="figcap">御桜川学園保健室（愛衣博士）<i>SCENE / 学园日常线</i></div></div>
+      <div class="fig" style="height:150px"><img src="assets/img/load08.jpg" alt="万圣节群像"><div class="figcap">ハロウィン · 万圣节群像<i>EVENT ART / 活动立绘</i></div></div>
+    </div>
+    <div class="grid g2" style="gap:22px">
+      <div>
+        <h3 class="h">场景</h3>
+        <p class="tx">「学园都市」近未来新丰洲市：研究所、下水道、酒馆、布鲁克林式街区。<b>OST 的曲名直接暴露了场景清单</b>——Sewer（下水道）/ Brooklyn / Whisky / Black Market / Dungeon / Afterschool。场景靠<b>动态元素（车流、海浪）+ 3D 特效</b>补足观感。</p>
+        <h3 class="h" style="margin-top:16px">立绘的特性与遗憾</h3>
+        <p class="tx">立绘数量大、风格统一、精美，但<b>缺全身像</b>——17173 抱怨「没有人物全身像也是颇为遗憾，又少了不少壁纸」，即多为半身 / 胸像构图。Live2D 的官方定位在<b>界面与看板娘层</b>，并非每张立绘全量动态化。</p>
+      </div>
+      <div>
+        <h3 class="h">最值得引用的一句批评</h3>
+        <div class="quote" style="font-size:16px">
+          「为什么 LOADING 界面图片的可舔度，要比游戏中的立绘高上无数倍。」
+          <cite>17173 评测 · 2017</cite>
+        </div>
+        <p class="tx" style="margin-top:12px">这句话翻译成制作语言就是：<b>企划美术（Key Visual / Loading）的水准明显高于量产立绘</b>。对本作这种靠「第一眼」获客的游戏来说，这既是它成功的原因，也是它留不住人的原因。</p>
+        <h3 class="h" style="margin-top:16px">战斗表现</h3>
+        <p class="tx">3D 场域，主角为单人实体，4 名魔女以<b>武器形态</b>切换上场，释放必杀时播放魔女演出动画。玩家评价两极：一边说「角色很 Q 很萌，特效非常酷炫」，一边指出<b>大招演出会打断战斗节奏、模型小、动作乏味</b>。</p>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 27 美术：争议 ═══════════════ -->
+<section class="slide" data-sec="美术" data-title="美术口碑与争议">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>05</i> · 美术</span></div><span class="stamp">FILE 26</span></div>
+  <div class="body">
+    <h2 class="t">美术 · <em>口碑与争议</em></h2>
+    <div class="sub">「立绘强、模型弱」——本作美术口碑最稳定的一句话</div>
+    <div class="grid g2" style="gap:22px">
+      <div>
+        <h3 class="h">好评（含玩家原话）</h3>
+        <p class="tx">· 「角色模組採賽璐璐的風格……<b>過場動畫、立繪、CG 也是近期內看過少數是中上等級的品質</b>」（QooApp 星藍）<br>
+        · 「說實話我是因為他的<b>畫風</b>進來的，沒想到超出預期的好」（QooApp すぬふ）<br>
+        · 「多好的<b>立绘</b>，一个个小姐姐让人充满了搜集强化的欲望」（九游 孙丶小贤，87 赞）<br>
+        · 「在刚出时<b>画风和玩法是独具一档的存在</b>」（九游 百里香慕）</p>
+        <h3 class="h" style="margin-top:18px">批评</h3>
+        <p class="tx">· <b>3D 模型粗糙</b>：17173 直言模型有「很多粗糙和瑕疵，但是这并不影响整体画面的美感」<br>
+        · <b>卡顿与优化</b>：QooApp 櫻吹雪给出 2.6 分，理由「打鬥和人物畫面不流暢」；TapTap 上「运行稳定性」是出现频次最高的标签（1318 条）<br>
+        · <b>包体过大</b>：1 GB+ 被台服玩家多次吐槽<br>
+        · <b>台服本地化残留简体字</b></p>
+      </div>
+      <div>
+        <h3 class="h">一条重要的考证结论：中文媒体在互相抄</h3>
+        <p class="tx">逐字比对后可确认：<b>3DM 2018 年文章的美术段落，与 17173 2017 年评测的美术段落完全一字不差</b>（「都市时尚类的画风／采用 Live2D 技术／带有景深的画面／暗系色调／科技风图画」整段照搬）。同样，九游 2018 年的评测大段照搬了触乐 2015 年的开发专访。</p>
+        <div class="note rd" style="margin-top:14px">
+          <b>这意味着</b>：关于本作「美术风格」的中文媒体描述，<b>实质上只有 2 个独立原始来源</b>——17173（黄金太阳，2017）与触乐（高洋，2015）。做交叉验证时不能按媒体数量计权。
+        </div>
+        <h3 class="h" style="margin-top:18px">美术人员：能说与不能说</h3>
+        <p class="tx"><b>已核实</b>：台湾画师 <b>Barabababa</b> 绘制了台服专属限定羁绊图；Twitter 画师 <b>@basicyoshi</b> 绘制了三周年贺图；主体美术为水琴铃内部团队自研。</p>
+        <p class="tx"><b>未能核实</b>：<em>主美与美术总监姓名</em>。中文维基、日文维基、萌娘百科、百度百科、官方日服站均无美术职位署名，也没有公开的 Pixiv 官号。<b>因此本档案不署名任何美术负责人。</b></p>
+        <div class="note" style="margin-top:14px"><b>相关评分</b>：17173 给 7.8/10；日媒 Appget 给 4.2/5（中文维基的模板写作 4.5，与 Appget 页面实际显示不符，以页面为准）。</div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 28 主角衣装画廊 ═══════════════ -->
+<section class="slide" data-sec="美术" data-title="战斗服／衣装">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>05</i> · 美术</span></div><span class="stamp">FILE 27</span></div>
+  <h2 class="t" style="font-size:30px;margin-bottom:4px">主角<em>战斗服</em>（戦闘服）图鉴</h2>
+  <div class="sub" style="margin-bottom:14px">从哥特、和风到军装与机甲：一套立绘就是一次风格实验</div>
+  <div class="gal" style="flex:1;min-height:0">
+    <div class="fig"><img src="assets/img/cost01.jpg" alt="默认"><div class="figcap">デフォルト · 默认<i>DEFAULT</i></div></div>
+    <div class="fig"><img src="assets/img/cost17.jpg" alt="死之薄纱裙"><div class="figcap">死のチュールスカート<i>GOTHIC / 死之薄纱裙 · 哥特黑礼服</i></div></div>
+    <div class="fig"><img src="assets/img/cost19.jpg" alt="旗袍"><div class="figcap">チャイナドレス（唐語）<i>CHINA DRESS / 旗袍「唐语」</i></div></div>
+    <div class="fig"><img src="assets/img/cost11.jpg" alt="T-51β"><div class="figcap">T-51β<i>MECHA / 机甲风战斗服</i></div></div>
+    <div class="fig"><img src="assets/img/cost07.jpg" alt="Lady Gray"><div class="figcap">Lady Gray<i>SUIT / 军装风「格雷女士」</i></div></div>
+    <div class="fig"><img src="assets/img/cost15.jpg" alt="真理之境地"><div class="figcap">真理の境地<i>OCCULT / 「真理之境地」</i></div></div>
+  </div>
+  <div class="foot"><span>图片来源：日文玩家资料站「魔女兵器の備忘録」游戏内素材存档（CC BY-NC 4.0）</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 29 音乐 ═══════════════ -->
+<section class="slide" data-sec="音乐与配音" data-title="音乐 / OST">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>06</i> · 音乐与配音</span></div><span class="stamp">FILE 28</span></div>
+  <div class="body">
+    <h2 class="t">音乐 · <em>被日媒称为「Persona 风」的都市 BGM</em></h2>
+    <div class="sub">Music / 长板之一，玩家评价「音乐和剧情绝对是顶尖的」</div>
+    <div class="grid g2" style="gap:24px">
+      <div>
+        <h3 class="h">制作阵容</h3>
+        <dl class="kv">
+          <dt>承制</dt><dd><b>Vanguard Sound</b>（中国）× <b>INSPION</b>（日本）</dd>
+          <dt>中方制作人</dt><dd>刘海宜（Eddy Liu）</dd>
+          <dt>主题歌</dt><dd>《<b>ANOTHER REAL</b>》— 演唱：<b>铃木このみ</b><span class="mut">（《No Game No Life》《Re:从零开始的异世界生活》主题歌歌手）</span></dd>
+          <dt>专辑</dt><dd>《Witch&rsquo;s Weapon -魔女兵器- O.S.T》</dd>
+          <dt>发行</dt><dd>2020.02.14 · 厂牌 <b>MAGES.</b> · 品番 FPBD-0569 · 全长 46:34 · 30 首曲目</dd>
+          <dt>作曲</dt><dd>秋田真典、Li Shuo、Eddy Liu、Zhang Haopeng、RabbitJ、T-Nymph、夏銅子、Jalam、SAKURA</dd>
+        </dl>
+        <div class="note" style="margin-top:14px">
+          <b>曲风分工清晰</b>：战斗（Normal / Hard Stage、Hand-to-hand combat）、悬疑（Conspiracy、Investigation、Paranoid）、都市日常（Shop、Afterschool、Dancing Kitty）、场景氛围（Sewer、Deep Water、Sunset、Whisky）、煽情（Humanity、Sign of brave、Everything&rsquo;s gonna be Okay）。
+        </div>
+      </div>
+      <div>
+        <div class="quote" style="font-size:17px;margin-bottom:18px">
+          日媒 Appget 把「<b>ペルソナ風のスタイリッシュBGM</b>」（Persona 风的时髦 BGM）单独列为推荐点——即爵士 / 融合 + Funk 律动的都市感 BGM。
+          <cite>Appget 评测</cite>
+        </div>
+        <h3 class="h">代表性曲目</h3>
+        <table class="tbl">
+          <tr><th>曲名</th><th>作曲</th><th>用途</th></tr>
+          <tr><td><b>ANOTHER REAL</b></td><td>铃木このみ（唱）</td><td>游戏主题歌</td></tr>
+          <tr><td>Afterschool</td><td>秋田真典</td><td>学园日常（3:40，最长曲）</td></tr>
+          <tr><td>Dungeon</td><td>Eddy Liu</td><td>地下城 / 迷宫</td></tr>
+          <tr><td>Brooklyn / Whisky</td><td>Zhang Haopeng</td><td>街区与酒馆场景</td></tr>
+          <tr><td>Humanity</td><td>Eddy Liu</td><td>煽情段落</td></tr>
+          <tr><td>Witch Weapon Feat. Jalam</td><td>Jalam</td><td>活动《深潜症》主题曲</td></tr>
+        </table>
+        <p class="small" style="margin-top:12px">另据韩国 namu wiki 脚注，韩服另有歌手 <b>RAON</b> 演唱的歌曲，具体曲目待考。</p>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 30 配音 ═══════════════ -->
+<section class="slide" data-sec="音乐与配音" data-title="配音阵容">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>06</i> · 音乐与配音</span></div><span class="stamp">FILE 29</span></div>
+  <div class="body">
+    <h2 class="t">配音 · <em>一线日配阵容</em>，与一个遗憾</h2>
+    <div class="sub">Voice Cast / 日文配音为官方日服角色页逐角色确认</div>
+    <div class="grid g2" style="gap:24px">
+      <div>
+        <h3 class="h">日文配音</h3>
+        <table class="tbl">
+          <tr><th>角色</th><th>声优</th></tr>
+          <tr><td><b>怜</b>（主角）</td><td class="bad">钉宫理惠</td></tr>
+          <tr><td>莉琉·冯·布劳恩</td><td>伊藤静</td></tr>
+          <tr><td>伊露卡</td><td>泽城美雪</td></tr>
+          <tr><td>海因里希·昆哈特</td><td>植田佳奈</td></tr>
+          <tr><td>阿斯塔利尔</td><td>能登麻美子</td></tr>
+          <tr><td>索娅·恩杰尔斯</td><td>新井里美</td></tr>
+          <tr><td>虎千代</td><td>石川由依</td></tr>
+          <tr><td>莉莉娅·特里格拉芙</td><td>上坂堇</td></tr>
+          <tr><td>芩（ギン / Gin）</td><td>平野绫</td></tr>
+          <tr><td>安妮·巴斯</td><td>西田望见</td></tr>
+          <tr><td>拉斐尔·戴克斯</td><td>ホワンホワン</td></tr>
+          <tr><td>克劳迪娅</td><td>户松遥</td></tr>
+          <tr><td>斯库尔德·埃克斯罗德</td><td>田中爱美</td></tr>
+          <tr><td>倪克斯·斯特罗奇</td><td>山田悠希</td></tr>
+        </table>
+        <p class="small" style="margin-top:10px">日媒评语：「<b>CV も釘宮理恵さんが適役すぎる</b>」——钉宫理惠配性转主角太合适了。</p>
+      </div>
+      <div>
+        <h3 class="h">中文配音（官方「夏日配音赛」页面）</h3>
+        <table class="tbl" style="margin-bottom:14px">
+          <tr><th>角色</th><th>中文 CV</th></tr>
+          <tr><td>小怜</td><td><b>阎么么</b></td></tr>
+          <tr><td>安妮</td><td><b>沈念如</b></td></tr>
+          <tr><td>白烛</td><td><b>新月冰冰</b></td></tr>
+          <tr><td>索娅</td><td><b>幽舞越山</b></td></tr>
+          <tr><td>爱衣</td><td><b>月夜桥</b></td></tr>
+          <tr><td>星尘</td><td><b>苏枕袖</b></td></tr>
+        </table>
+        <p class="small" style="margin-bottom:14px">活动特邀评委：幽舞越山、云天河、<b>齐乐</b>（游戏总制作人）。<span class="warn">注：该页为「配音赛」活动页，这六位是否即国服正式全量阵容，待考。</span></p>
+        <div class="note rd">
+          <b>最大的遗憾：主线剧情基本没有语音。</b><br>
+          玩家原话：「遊戲比較可惜的一點就是<b>故事沒有語音</b>！不過考量到聲優費這個問題，就可以忍受這個缺點」。准确描述是：<b>角色战斗 / 触摸语音有配音，主线剧情为纯文字</b>。日服 CBT 到正式版曾补录部分角色语音（安妮、贝阿特丽切、雾夕、薇拉、命），说明语音是逐步补齐的，而非首发全量。
+        </div>
+        <div class="note" style="margin-top:14px">
+          <b>声优归属的考证冲突（并列标注，不做取舍）</b>：百度百科与九游把「植田佳奈」记为<b>白烛</b>、把「石川由依」记为<b>爱丽丝</b>；而官方日服角色页把植田佳奈给<b>海因里希</b>、石川由依给<b>虎千代</b>，且该页未列白烛与爱丽丝。三源不一致。
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 31 评价数据 ═══════════════ -->
+<section class="slide" data-sec="评价" data-title="数据与口碑">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>07</i> · 评价</span></div><span class="stamp">FILE 30</span></div>
+  <div class="body">
+    <h2 class="t">数据 · <em>TapTap 评价标签分布</em></h2>
+    <div class="sub">app 12944 · 7.9 分 · 9595 条评价 · 长评 349 · 带图 23</div>
+    <div class="grid" style="grid-template-columns:1.25fr 1fr;gap:30px">
+      <div>
+        <div class="bar"><span class="n">运行稳定性</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="v">1318</span></div>
+        <div class="bar"><span class="n">剧情跌宕</span><span class="track"><span class="fill" style="width:90.5%"></span></span><span class="v">1193</span></div>
+        <div class="bar"><span class="n">画面优秀</span><span class="track"><span class="fill" style="width:70.5%"></span></span><span class="v">929</span></div>
+        <div class="bar"><span class="n">有趣好玩</span><span class="track"><span class="fill" style="width:48.1%"></span></span><span class="v">634</span></div>
+        <div class="bar c"><span class="n">玩法设计</span><span class="track"><span class="fill" style="width:25.6%"></span></span><span class="v">337</span></div>
+        <div class="bar c"><span class="n">操作体验</span><span class="track"><span class="fill" style="width:23.5%"></span></span><span class="v">310</span></div>
+        <div class="bar c"><span class="n">轻松护肝</span><span class="track"><span class="fill" style="width:16.5%"></span></span><span class="v">218</span></div>
+        <div class="bar c"><span class="n">物超所值</span><span class="track"><span class="fill" style="width:13.2%"></span></span><span class="v">174</span></div>
+        <div class="bar c"><span class="n">音效动听</span><span class="track"><span class="fill" style="width:12.2%"></span></span><span class="v">161</span></div>
+        <div class="bar c"><span class="n">设定独特</span><span class="track"><span class="fill" style="width:12.1%"></span></span><span class="v">160</span></div>
+        <div class="bar c"><span class="n">UI 美观</span><span class="track"><span class="fill" style="width:6.4%"></span></span><span class="v">85</span></div>
+        <p class="small" style="margin-top:12px">读法：「运行稳定性」是出现频次最高的标签（多为对优化与卡顿的抱怨）；「剧情跌宕」与「画面优秀」是主要的好评来源；「UI 美观」明显偏低。</p>
+      </div>
+      <div>
+        <h3 class="h">横向评分</h3>
+        <dl class="kv">
+          <dt>TapTap</dt><dd><b>7.9</b> / 10（9595 评价）</dd>
+          <dt>17173</dt><dd>7.8 / 10</dd>
+          <dt>Appget（日）</dt><dd>4.2 / 5</dd>
+          <dt>九游</dt><dd>6.5（7097 人评分）</dd>
+          <dt>QooApp 繁中</dt><dd>4.1（121 评分 / 193 留言）</dd>
+          <dt>QooApp 韩文</dt><dd>3.9（54 评分）</dd>
+        </dl>
+        <div class="quote" style="margin-top:18px;font-size:15.5px">
+          「被开发团队拖后腿的国内出色编剧。」
+          <cite>豆瓣 · 这句评价几乎概括了本作的全部命运</cite>
+        </div>
+        <div class="note" style="margin-top:16px">
+          <b>一句话总纲</b>：这是一部<b>美术与剧情口碑明显高于玩法口碑</b>的作品。它靠「第一眼」获客，靠文本留住核心玩家，却始终没能把这两件事转化成一门能活下去的生意。
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 32 安装包：包名与区服 ═══════════════ -->
+<section class="slide" data-sec="安装包" data-title="安装包与区服">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>08</i> · 安装包</span></div><span class="stamp">FILE 31</span></div>
+  <div class="body">
+    <h2 class="t">安装包 · <em>四个区服，四套包名</em></h2>
+    <div class="sub">Package Names / 找包时用得上，但请先读完下一页</div>
+    <div class="grid g2" style="gap:24px">
+      <div>
+        <table class="tbl">
+          <tr><th>区服</th><th>包名</th><th>运营方</th></tr>
+          <tr><td><b>国服</b>（简中）</td><td class="mono" style="font-size:12px">com.shuiqinling.ww.android.cn00</td><td>远鸣网络 / 水琴铃</td></tr>
+          <tr><td><b>韩服</b></td><td class="mono" style="font-size:12px">com.shuiqinling.ww.google.kr</td><td>Efun</td></tr>
+          <tr><td><b>日服</b></td><td class="mono" style="font-size:12px">com.dmm.games.witchsweapon.google</td><td>DMM GAMES（EXNOA）</td></tr>
+          <tr><td><b>港澳台</b>（繁中）</td><td class="mono" style="font-size:12px">com.ltgames.mnbq.android</td><td>雷霆游戏</td></tr>
+        </table>
+        <h3 class="h" style="margin-top:20px">包体信息（各渠道残留记录）</h3>
+        <dl class="kv">
+          <dt>国服 v2.0.1</dt><dd>约 <b>1.30 – 1.31 GB</b> <span class="mut">（九游 2024.05.17 记录）</span></dd>
+          <dt>国服 v1.2.01</dt><dd>约 <b>1348.72 MB</b>，MD5 F42D9E63…01EA <span class="mut">（第三方站记录）</span></dd>
+          <dt>港澳台 v1.4.0</dt><dd>APK 47 MB + <b>OBB 1.02 GB</b></dd>
+          <dt>历史版本</dt><dd>1.2.01 / 1.4.0 / 1.6.0 / 1.7.x / 2.0.0 / 2.0.1</dd>
+        </dl>
+      </div>
+      <div>
+        <div class="fig" style="height:236px;margin-bottom:16px">
+          <img src="assets/img/shot2_kv.jpg" alt="魔女兵器 官方宣传图">
+          <div class="figcap">TapTap 官方宣传图 · 「你就是那个很特别的『姐姐』嘛？」<i>OFFICIAL KEY VISUAL</i></div>
+        </div>
+        <div class="note rd">
+          <b>最重要的一个数字：1.3 GB。</b><br>
+          真实的《魔女兵器》客户端约 <b>1.3 GB</b>（港澳台版为 47 MB APK + 1.02 GB OBB）。<br>
+          因此，凡是标称 <b>50 MB 左右</b>的「魔女兵器 APK」，基本可以直接判定为<b>壳包 / 广告包 / 诱导安装包</b>。
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 33 安装包：渠道核查 ═══════════════ -->
+<section class="slide" data-sec="安装包" data-title="下载渠道核查">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>08</i> · 安装包</span></div><span class="stamp">FILE 32</span></div>
+  <div class="body">
+    <h2 class="t">下载渠道 · <em>逐一核查结果</em></h2>
+    <div class="sub">结论先讲：没有任何一个渠道提供「可正常游玩」的客户端</div>
+    <table class="tbl">
+      <tr><th style="width:150px">渠道</th><th style="width:96px">状态</th><th>说明</th></tr>
+      <tr><td><b>TapTap</b> app/12944</td><td class="bad">已下架</td><td>游戏页仍在（7.9 分、9595 评价），但无安装包、无历史版本入口</td></tr>
+      <tr><td><b>QooApp</b> 繁中/日/韩</td><td class="bad">已下架</td><td>页面明确标注「此遊戲已終止服務」/「해당 게임은 서비스를 종료하였습니다」</td></tr>
+      <tr><td><b>豌豆荚</b></td><td class="bad">已下架</td><td>转为「预约」页（1.9 万人预约），开发者字段仍为北京水琴铃</td></tr>
+      <tr><td><b>应用汇 / 4399 / 当乐</b></td><td class="bad">已下架</td><td>站内搜索 404 或仅剩资讯页</td></tr>
+      <tr><td><b>九游 9game</b></td><td class="warn">残留</td><td>下载页仍在（v2.0.1 / 1.3 GB / 2024.05.17），但开发者名与版本号被加了删除线 <span class="mut">渠道正规，但服务器已关</span></td></tr>
+      <tr><td><b>APKPure</b>（日服包）</td><td class="warn">无法核实</td><td>页面存在（显示 2.0.0），但本机网络对该域名不可达，未能实测下载按钮</td></tr>
+      <tr><td><b>APKCombo / APKFab</b></td><td class="warn">无法核实</td><td>页面存在（台版 1.4.0 / 1.6.0，含 XAPK），域名在本机不可达</td></tr>
+      <tr><td><b>APKMirror</b></td><td class="mut">无条目</td><td>站内搜索无任何记录</td></tr>
+      <tr><td><b>口袋巴士 51usz</b></td><td class="bad">高风险</td><td>标题写「v2.0.1 <b>单机版</b>」，正文却与官方网游介绍一字不差 —— 纯 SEO 标题党</td></tr>
+      <tr><td><b>电视猫等导流站</b></td><td class="bad">高风险</td><td>提供 53 MB 直链 APK，与真实 1.3 GB 严重不符 —— 典型壳包</td></tr>
+      <tr><td><b>MOD / 破解站</b></td><td class="bad">极高风险</td><td>台版 v1.4.0「无敌」MOD，APK + OBB 跳转个人博客/网盘下载</td></tr>
+      <tr><td><b>网盘 / 贴吧 / B站分享</b></td><td class="bad">不可信</td><td>仅有「求数据包」类帖子；无任何可验证的完整包</td></tr>
+    </table>
+    <div class="grid g3" style="margin-top:16px">
+      <div class="note rd"><b>① 能装 ≠ 能玩。</b>所有区服服务器均已关闭，任何原始客户端都会卡在登录或资源校验环节。</div>
+      <div class="note rd"><b>② 「单机版」几乎全是标题党或改包。</b>本作是强联网校验、服务端驱动的卡牌 ARPG，体力、抽卡、掉落、活动全在服务端，离线版在技术上极难成立。</div>
+      <div class="note rd"><b>③ 更新日期造假普遍。</b>多个内容农场把停服游戏的更新时间刷成 2026 年，制造「仍在维护」的假象。</div>
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 34 安装包：现实建议 ═══════════════ -->
+<section class="slide" data-sec="安装包" data-title="现实建议">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>08</i> · 安装包</span></div><span class="stamp">FILE 33</span></div>
+  <div class="body">
+    <h2 class="t">那么，现在还能<em>怎么「玩」到它</em>？</h2>
+    <div class="sub">给真正想看这个游戏的人的四条路</div>
+    <div class="grid g2" style="gap:18px;margin-bottom:16px">
+      <div class="card"><span class="tagx">最推荐</span><h4>① 看剧情录屏</h4><p>B 站有完整的剧情合集：主线剧情、〈深潜症〉〈星尘降临（21 节完结）〉〈混沌演算〉等特别行动全流程，以及关服当天的留档视频。这是<b>唯一能完整「读」完这个游戏剧情的方式</b>，且零风险。</p></div>
+      <div class="card cy"><span class="tagx">资料</span><h4>② 读日文玩家资料站</h4><p>「魔女兵器の備忘録」（anywhere.coresv.net）保存了<b>游戏内载入原画、角色卡面、战斗服图鉴、术语集、活动排期</b>；另有日文玩家博客「魔女兵器メモ」逐章意译了全部剧情文本。本档案的图片即来自前者。</p></div>
+      <div class="card gd"><span class="tagx">可尝试</span><h4>③ 安装原始客户端「看一眼」</h4><p>如果只是想看开场动画、听 BGM、看主界面 Live2D，从残留渠道取一份<b>原版包</b>安装后停在登录页，是可行的。但请只用你信任的渠道，并接受它<b>无法登录</b>的事实。</p></div>
+      <div class="card" style="border-color:rgba(216,30,63,.4)"><span class="tagx">强烈不建议</span><h4>④ 所谓「单机版 / 离线版 / 私服」</h4><p>核查中没有找到任何可信证据。这类包几乎不提供可校验签名，却要求你关闭安全设置、跳转网盘、授予未知权限。<b>用一台不重要的设备、或者在模拟器里开一个干净实例，是最低限度的自保。</b></p></div>
+    </div>
+    <div class="note">
+      <b>关于本档案的立场</b>：全部核查过程只做了信息搜集与链接可用性验证，<b>没有下载、没有运行任何安装包</b>。存档的 72 张游戏内图片来自日文玩家资料站公开的素材存档（CC BY-NC 4.0），用于非商业的资料整理与考据。
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 35 文章清单 ═══════════════ -->
+<section class="slide" data-sec="附录" data-title="相关文章清单">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>09</i> · 附录</span></div><span class="stamp">FILE 34</span></div>
+  <div class="body">
+    <h2 class="t">相关文章 · <em>分类清单</em></h2>
+    <div class="sub">Sources / 完整可点击链接见同目录下的《相关文章与资料清单.md》</div>
+    <div class="grid g3" style="gap:20px">
+      <div>
+        <h3 class="h" style="font-size:17px">一手官方</h3>
+        <p class="small" style="line-height:2">
+          · TapTap 官方《游戏关服预告》（2024.06.17）<br>
+          · TapTap 官方《两周年致谢：轻舟已过》<br>
+          · 日服官方站 witchs-weapon.net（<b>至今仍在线</b>）<br>
+          · 日服停服公告（2020.08.27）<br>
+          · 官方日服 CHARACTER 角色页<br>
+          · 官方微博 @waterbellgame 四格漫画
+        </p>
+        <h3 class="h" style="font-size:17px;margin-top:16px">设定原文</h3>
+        <p class="small" style="line-height:2">
+          · 《魔女兵器世界观设定》游民星空 2016.05.17 转载<b>官方设定全文</b>——本档案世界观部分的主要依据<br>
+          · 萌娘百科「魔女兵器」（最完整的设定年表与角色章节）
+        </p>
+      </div>
+      <div>
+        <h3 class="h" style="font-size:17px">美术 / 音乐 / 开发</h3>
+        <p class="small" style="line-height:2">
+          · 17173《魔女兵器》游戏评测（2017）——<b>美术分析最核心的原始文献</b><br>
+          · 触乐《魔女兵器：做着游戏，心系动画》（2015）——<b>唯一可靠的开发访谈</b><br>
+          · Appget 日方评测——「动画风 3D 场域」「Persona 风 BGM」<br>
+          · OTOTOY《Witch&rsquo;s Weapon -魔女兵器- O.S.T》——逐轨作曲者名单<br>
+          · gamebiz OST 配信报道——Vanguard Sound / INSPION<br>
+          · 克拉克拉「魔女兵器夏日配音赛」——唯一中文 CV 官方来源
+        </p>
+      </div>
+      <div>
+        <h3 class="h" style="font-size:17px">剧情考据 / 评价</h3>
+        <p class="small" style="line-height:2">
+          · 日文玩家博客「魔女兵器メモ」——<b>逐章意译全部剧情，本档案剧情部分的最大来源</b><br>
+          · 日文玩家资料站「魔女兵器の備忘録」——术语集、活动排期、素材存档<br>
+          · 百度百科·魔女兵器（信息密集，但存在版本号与年份错误）<br>
+          · namu wiki 마녀병기——各语区开服/停服精确日期<br>
+          · 豆瓣《魔女兵器》评论——最精准的剧情风格概括<br>
+          · 九游玩家评论——2024 停服追忆与 2025 年回望<br>
+          · B 站剧情合集与关服留档视频
+        </p>
+      </div>
+    </div>
+    <div class="note" style="margin-top:16px">
+      <b>引用时的三个坑</b>：① 中文媒体互相抄袭，别把 17173／3DM／九游当作三个独立来源；② 百度百科有 AI 生成式的年份污染（例如把「最新版本」写成 v1.7.1、年份混乱），只能当线索；③ 维基百科与萌娘百科在本机网络环境下无法直接访问，本档案改用其镜像与二手转述交叉验证，凡未读到原文的一律标注「待考」。
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 36 考据注记 ═══════════════ -->
+<section class="slide" data-sec="附录" data-title="考证注记与存疑项">
+  <div class="rail"><div class="l"><span class="brand">魔女兵器 <b>/</b> Witch&rsquo;s Weapon</span><span class="sec">Section <i>09</i> · 附录</span></div><span class="stamp">FILE 35</span></div>
+  <div class="body">
+    <h2 class="t">考证注记 · <em>已知的设定分歧</em></h2>
+    <div class="sub">Corrections / 这些地方，来源之间互相矛盾</div>
+    <table class="tbl">
+      <tr><th style="width:130px">条目</th><th>分歧内容</th><th style="width:170px">本档案处理</th></tr>
+      <tr><td><b>七年战争</b></td><td>官方文案（九游）：2027–2034，即 <b>7 年</b>；游民星空 2016 版官方设定与百度百科写「<b>持续 14 年</b>」</td><td>采用「2027–2034 / 7 年」，并保留 14 年之说为旧设定残留</td></tr>
+      <tr><td><b>学园都市数量</b></td><td>早期官方文案作「<b>七大</b>势力」，后定型为<b>六</b>大学园都市</td><td>正文用六，注记说明早期为七</td></tr>
+      <tr><td><b>埃癸斯半径</b></td><td>日文考据站：绝对防护场 <b>35 km</b>；百度百科：死域 <b>80 km</b></td><td>采用 35 km，标注分歧</td></tr>
+      <tr><td><b>CV 归属</b></td><td>「植田佳奈」分别被记为白烛（百度百科/九游）与海因里希（官方日服页）；「石川由依」分别被记为爱丽丝与虎千代</td><td>并列标注，不做取舍</td></tr>
+      <tr><td><b>韩服停服日</b></td><td>namu wiki 作 2020.04.02，原始报道链接已 404</td><td>采用并标注「待考」</td></tr>
+      <tr><td><b>国际（英文）版</b></td><td>namu wiki 记 2020.12.14 停服，归属区服未核实</td><td>标注「待考」，未写入时间线正文</td></tr>
+      <tr><td><b>「第五章」</b></td><td>仅见于两个 SEO 垃圾站的《魔女兵器第五章攻略》</td><td>判定不可信，不采用</td></tr>
+      <tr><td><b>维基百科条目正文</b></td><td>本机网络无法解析 wikipedia.org（返回非公网 IP），条目存在但未读到正文</td><td>相关引述一律标注「未能读取原文」</td></tr>
+    </table>
+    <div class="note" style="margin-top:16px">
+      <b>另外三件「查不到」的事（因此本档案不写）</b>：① <b>主美与内部原画师的姓名</b>——无任何来源，请勿编造；② 是否存在<b>官方美术设定集</b>——多轮检索无结果，倾向于未发行；③ 2020–2022 年间简中服新增剧情的<b>完整清单</b>——仅有玩家零散提及（法比奥拉、奥古斯塔、雅各、蒙面人等）。
+    </div>
+  </div>
+  <div class="foot"><span>魔女兵器 · 资料考据档案</span><span><span class="dot">◆</span> <span class="pg"></span></span></div>
+</section>
+
+<!-- ═══════════════ 37 结语 ═══════════════ -->
+<section class="slide fullimg" data-sec="附录" data-title="结语">
+  <div class="bgimg"><img src="assets/img/load09.jpg" alt="新丰洲市街"></div>
+  <div class="grad"></div>
+  <div class="inner">
+    <div class="sub" style="margin-bottom:14px">Epilogue</div>
+    <h2 class="t" style="font-size:44px;line-height:1.4;max-width:900px">它留下的不是一个结局，<br>而是一具<em>完整而精美的世界骨架</em>。</h2>
+    <p class="lead" style="max-width:800px;margin-top:18px">
+      2037 年的新丰洲，圣杯在少女体内沉睡，方舟计划刚刚启动，而故事就在这里被切断。<br>
+      十年之后，仍然有人在 TapTap 上问「希望未来还能复活」，仍然有人在 B 站翻出关服那晚的录屏。
+    </p>
+    <div class="quote" style="max-width:860px;margin-top:26px">
+      「2024.8.17 后，就再也没有洛斯金杯了……但我还是舍不得你啊小怜。牛奶后面怎么样了啊。」
+      <cite>一位玩家在关服后留下的留言</cite>
+    </div>
+    <div class="quote" style="max-width:860px;margin-top:16px;border-left-color:var(--cyan)">
+      「虽然说烂尾了，但是也很好的。」
+      <cite>另一位玩家在 2025 年留下的评价</cite>
+    </div>
+    <p class="lead" style="max-width:800px;margin-top:24px">
+      <b>作品的未完结本身，成了它最完整的结局。</b>
+    </p>
+    <div class="mono" style="margin-top:36px;font-size:11.5px;letter-spacing:.2em;color:var(--dim)">
+      魔女兵器 / WITCH&rsquo;S WEAPON &nbsp;·&nbsp; 2018.02.14 — 2024.08.17 &nbsp;·&nbsp; 资料考据档案 END
+    </div>
+  </div>
+</section>
+
+</div><!-- /stage -->
+</div><!-- /viewport -->
+
+<!-- 目录 -->
+<div id="toc">
+  <h2>目录 · CONTENTS</h2>
+  <div class="tip">点击跳转 &nbsp;/&nbsp; 按 O 或 Esc 关闭</div>
+  <div class="cols" id="tocCols"></div>
+</div>
+
+<!-- 控件 -->
+<div id="ctrl">
+  <button id="btnPrev">◀ 上一页</button>
+  <button id="btnNext">下一页 ▶</button>
+  <div id="prog"><i></i></div>
+  <span id="counter">01 / 01</span>
+  <button id="btnToc">目录 O</button>
+  <button id="btnFs">全屏 F</button>
+</div>
+<div id="hint">← → 翻页 &nbsp;·&nbsp; O 目录 &nbsp;·&nbsp; F 全屏 &nbsp;·&nbsp; Ctrl+P 导出 PDF</div>
+
+<div class="grain"></div>
+<div class="scan"></div>
+<div class="vignette"></div>
+
+<script>
+(function(){
+  var stage   = document.getElementById('stage');
+  var slides  = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+  var toc     = document.getElementById('toc');
+  var tocCols = document.getElementById('tocCols');
+  var ctrl    = document.getElementById('ctrl');
+  var prog    = document.querySelector('#prog i');
+  var counter = document.getElementById('counter');
+  var hint    = document.getElementById('hint');
+  var idx = 0, N = slides.length;
+
+  /* ---- 等比缩放舞台 ---- */
+  function fit(){
+    var s = Math.min(window.innerWidth / 1280, window.innerHeight / 720);
+    stage.style.setProperty('--s', s);
+  }
+  window.addEventListener('resize', function(){ fit(); checkOverflow(); });
+
+  /* ---- 页码 ---- */
+  function pad(n){ return String(n).length < 2 ? '0' + n : String(n); }
+  slides.forEach(function(s, i){
+    var pg = s.querySelector('.pg');
+    if (pg) pg.textContent = pad(i + 1) + ' / ' + pad(N);
+    if (s.querySelector('.body') && !s.querySelector('.scrollcue')) {
+      var cue = document.createElement('div');
+      cue.className = 'scrollcue';
+      cue.textContent = '↓ 滚动查看更多';
+      s.appendChild(cue);
+    }
+  });
+
+  /* ---- 溢出检测 ---- */
+  function checkOverflow(){
+    slides.forEach(function(s){
+      var b = s.querySelector('.body');
+      if (!b) return;
+      s.classList.toggle('ovf', b.scrollHeight - b.clientHeight > 6);
+    });
+  }
+
+  /* ---- 目录 ---- */
+  (function buildToc(){
+    var groups = {}, order = [];
+    slides.forEach(function(s, i){
+      var sec = s.dataset.sec || '其他';
+      if (!groups[sec]) { groups[sec] = []; order.push(sec); }
+      groups[sec].push({ i: i, t: s.dataset.title || ('第 ' + (i + 1) + ' 页') });
+    });
+    order.forEach(function(sec){
+      var d = document.createElement('div');
+      d.className = 'grp';
+      var t = document.createElement('div');
+      t.className = 'gt';
+      t.textContent = sec;
+      d.appendChild(t);
+      groups[sec].forEach(function(it){
+        var a = document.createElement('a');
+        a.dataset.i = it.i;
+        a.innerHTML = '<span class="k">' + pad(it.i + 1) + '</span><span>' + it.t + '</span>';
+        a.addEventListener('click', function(){ go(+a.dataset.i); closeToc(); });
+        d.appendChild(a);
+      });
+      tocCols.appendChild(d);
+    });
+  })();
+
+  function markToc(){
+    Array.prototype.forEach.call(tocCols.querySelectorAll('a'), function(a){
+      a.classList.toggle('cur', +a.dataset.i === idx);
+    });
+  }
+
+  /* ---- 翻页 ---- */
+  function go(n){
+    if (n < 0) n = 0;
+    if (n > N - 1) n = N - 1;
+    if (n === idx && slides[idx].classList.contains('on')) return;
+    slides[idx].classList.remove('on');
+    idx = n;
+    var s = slides[idx];
+    s.classList.add('on');
+    var b = s.querySelector('.body');
+    if (b) b.scrollTop = 0;
+    // 重播条形动画
+    Array.prototype.forEach.call(s.querySelectorAll('.fill'), function(f){
+      f.style.animation = 'none'; void f.offsetWidth; f.style.animation = '';
+    });
+    prog.style.width = ((idx + 1) / N * 100) + '%';
+    counter.textContent = pad(idx + 1) + ' / ' + pad(N);
+    markToc();
+    checkOverflow();
+  }
+  function next(){ go(idx + 1); }
+  function prev(){ go(idx - 1); }
+
+  /* ---- 目录开合 ---- */
+  function openToc(){ toc.classList.add('on'); markToc(); }
+  function closeToc(){ toc.classList.remove('on'); }
+  function toggleToc(){ toc.classList.contains('on') ? closeToc() : openToc(); }
+
+  /* ---- 键盘 ---- */
+  document.addEventListener('keydown', function(e){
+    var k = e.key;
+    if (k === 'ArrowRight' || k === 'PageDown' || k === ' ' || k === 'Enter' || k === 'n' || k === 'N') { e.preventDefault(); next(); }
+    else if (k === 'ArrowLeft' || k === 'PageUp' || k === 'p' || k === 'P') { e.preventDefault(); prev(); }
+    else if (k === 'Home') { e.preventDefault(); go(0); }
+    else if (k === 'End') { e.preventDefault(); go(N - 1); }
+    else if (k === 'o' || k === 'O') { e.preventDefault(); toggleToc(); }
+    else if (k === 'Escape') { closeToc(); }
+    else if (k === 'f' || k === 'F') {
+      e.preventDefault();
+      if (document.fullscreenElement) document.exitFullscreen();
+      else document.documentElement.requestFullscreen();
+    }
+  });
+
+  /* ---- 鼠标 / 触摸 ---- */
+  var sx = null;
+  document.addEventListener('touchstart', function(e){ sx = e.touches[0].clientX; }, {passive:true});
+  document.addEventListener('touchend', function(e){
+    if (sx === null) return;
+    var dx = e.changedTouches[0].clientX - sx;
+    if (Math.abs(dx) > 46) { dx < 0 ? next() : prev(); }
+    sx = null;
+  }, {passive:true});
+
+  document.getElementById('btnPrev').addEventListener('click', prev);
+  document.getElementById('btnNext').addEventListener('click', next);
+  document.getElementById('btnToc').addEventListener('click', toggleToc);
+  document.getElementById('btnFs').addEventListener('click', function(){
+    if (document.fullscreenElement) document.exitFullscreen();
+    else document.documentElement.requestFullscreen();
+  });
+  document.getElementById('prog').addEventListener('click', function(e){
+    var r = this.getBoundingClientRect();
+    go(Math.min(N - 1, Math.max(0, Math.round((e.clientX - r.left) / r.width * (N - 1)))));
+  });
+
+  /* ---- 控件与提示自动隐藏 ---- */
+  var hideT;
+  function wake(){
+    ctrl.classList.add('show');
+    clearTimeout(hideT);
+    hideT = setTimeout(function(){ ctrl.classList.remove('show'); }, 2600);
+  }
+  document.addEventListener('mousemove', wake);
+  document.addEventListener('keydown', wake);
+
+  setTimeout(function(){ hint.classList.add('show'); }, 900);
+  setTimeout(function(){ hint.classList.remove('show'); }, 6200);
+
+  /* ---- 启动 ---- */
+  fit();
+  slides[0].classList.add('on');
+  /* 深链：#12 或 #剧情 可直达 */
+  (function boot(){
+    var h = decodeURIComponent(location.hash.replace(/^#/, ''));
+    if (!h) return;
+    var n = parseInt(h, 10);
+    if (!isNaN(n) && n >= 1 && n <= N) { go(n - 1); return; }
+    for (var i = 0; i < N; i++) {
+      if (slides[i].dataset.title === h) { go(i); return; }
+    }
+  })();
+  prog.style.width = ((idx + 1) / N * 100) + '%';
+  counter.textContent = '01 / ' + pad(N);
+  markToc();
+  checkOverflow();
+  wake();
+})();
+</script>
+</body>
+</html>

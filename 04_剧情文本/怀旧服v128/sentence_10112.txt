@@ -1,0 +1,101 @@
+﻿1	N/A	在完成了一系列SID学员训练的登记手续之后，我拿到了一大摞厚厚的“教材”。	在完成一系列SID學員訓練的登記手續後，我拿到了一大疊厚厚的「教材」。	SID候補生訓練の登録手続きを一通り終えたら、\n分厚い「教材」を沢山もらった。	SID학생 훈련 등록 수속을 마친 뒤 "교재" 한 무더기를 받았다.	After being registered as a SID cadet, I leave the headquarters with a stack of fat books.	
+2	N/A	之后在工作人员的指引下，我从SID总部乘上了一部不起眼的小型电梯。	之後在工作人員的引導下，我從SID總部搭上了一部不起眼的小型電梯。	その後、スタッフの指示に従って、SID本部から\n目立たない小型エレベーターに入る。	그 후 요원의 지도 아래 SID본부에서 소형 엘리베이터를 탔다.	The staff guide me to a small and inconspicuous elevator.	
+3	N/A	电梯上升速度很快，能明显感觉到耳压升高\n来到地面之后，才发现时间已经是傍晚了……	電梯上升速度很快，能明顯感覺到耳壓升高，\n來到地面之後，才發現時間已經是傍晚了……	圧力変化のため耳に妙な感覚が残るぐらいに、\nエレベーターの上昇スピードは速い。\n地表に出ると、時刻はすでに夕方を\n回っている事に気付いた……	엘리베이터의 빠른 속도에 귀가 얼얼해진다. 지면에 도착했을 땐 이미 해질 무렵이였다……	The elevator rises quickly. I can feel the pressure in my ears. \nWhen I step out of it, I realize night has fallen.	
+4	N/A	电梯的出口在一栋小型写字楼的大厅，出来就是车水马龙的商业区。	電梯的出口在一棟小型辦公大樓的大廳，出來就是車水馬龍的商業區。	エレベーターの出口は、小さなオフィスビルの\nロビーに繋がっていた。\nすぐ外は車の往来が絶えない商業地区である。	엘리베이터 입구는 소형 오피스텔 빌딩의 로비로，밖은 번화한 상업구역였다. 	The exit is in the lobby of a small office building. Outside it is the bustling business district.	
+5	N/A	据说这部电梯在识别乘客全部为授权人员时才能向深层下降，否则只会在写字楼的1至3层之间往返。	據說這部電梯在識別所有乘客都是授權人員後才會下降，否則只會在辦公大樓的1到3樓間往返。	このエレベーターは乗客全員が権限を、\n持っている場合にのみ深層へと降下ができる。\nそれ以外は1階から3階を往復するだけ。	이 엘리베이터는 탑승 인원 전원이 권한이 있는 요원일 때만 깊은 지하로 이동한다.	The elevator won’t go down unless all passengers are authorized. Otherwise, it just runs between the first and third floors.	
+6	N/A	写字楼的二层是一家24小时营业的咖啡厅，全天都有人出入，很适合掩人耳目。	辦公大樓的二樓是一家24小時營業的咖啡廳，全天都有人出入，很適合掩人耳目。	2階には24時間営業のカフェが出店しており、\n1日中多くの人が出入りしている。\nカモフラージュに最適なのだろう。	건물의 2층은 24시간 영업하는 카페로 하루종일 사람들의 출입이 작아 눈을 피하기 적당하다.	On the second floor is a 24-hour cafe where lots of customers come and go. It's an ideal disguise.	
+7	小怜	唉……	唉……	はぁ……	에휴……	Whew…	
+8	小怜	还以为特工训练会教格斗和射击什么的，结果怎么好像报了全套的补习班一样……	還以為特務訓練會教格鬥和射擊什麼的，結果怎麼好像報了全套的補習班一樣……	エージェント訓練って格闘とか射撃なんかを\n教わるのかと思っていたら…\n学習塾の塾生みたいじゃないか……	특공 훈련은 격투기나 사격을 배우는 줄 알았는데，뭔가 학원같은 느낌이네……	I thought they would offer fighting and shooting classes… Now it turns out to be like a cram school…	
+9	小怜	这些书还真重啊！\n好在莉琉安排的住处离这不远。	這些書有夠重的！ \n好險莉琉說她安排的住處離這不遠。	というか本が多くて重すぎ！マリルが手配して\nくれた住居がここから近くてよかった。	이 책들 너무 무거워!\n마리루가 배정해준 숙소가 멀지 않아서 다행이다.	These books are heavy! \nThank goodness my new place is not far from here.	
+10	小怜	学区东道6号，她说是个很低调的──	學區東道6號，她說是個很低調的──	学区東道6号、確かマリルいわく\n『控え目』な部屋で────	학구동로 6호，소박한──	She said it's a low-key place—No 6 East Boulevard of the Academy District—	
+11	N/A	……	……	…………	……	…	
+12	小怜	──哪低调了啊！！！	──等等！ 低調？ 這哪裡低調了啊！ ！！	────どこが控え目なんだッ！！！	──어디가 소박하단 거야！！！	… Did she say low-key??	
+13	N/A	我站在大厦顶层的豪宅中，豪华的客厅连接着巨大的露台，可以俯瞰商业区的夜景。	我站在大廈頂樓的豪宅中，豪華的客廳連接著寬廣的陽台，可以俯瞰商業區的夜景。	ペントハウスアパートメント。それはホテルや\nマンションで最も価格の高い最上階の部屋。\n豪華リビングから巨大なバルコニーへ移ると、\n商業地区の夜景を一望できる。	빌딩 꼭대기의 호화로운 거실에는 거대한 베란다가 있다. 상업지구의 야경이 한 눈에 보인다. 	Now I'm on the top floor of the mansion. A huge terrace outside the fancy sitting room overlooks the city’s nightscape.	
+14	小怜	墙边的这排火苗，是货真价实的壁炉吗？\n太夸张了吧……	壁爐裡燃燒著火焰，這、這是貨真價實的壁爐吧？ \n莉琉的低調是怎麼回事……	壁際のこの炎……本物の暖炉だよな？\nなんとご大層な……	벽에 정말 벽난로가 있는 거야?\n엄청나잖아……	Is this real fire from a real fireplace? \nPompous, eh?	
+15	N/A	正当我小心翼翼的观察打探着自己是不是走错房间的时候，收到了莉琉发来的一条讯息。	正當我小心翼翼地觀察，猜想自己是不是走錯房間的時候，收到了莉琉傳來的一則訊息。	部屋を間違えたかと考えている最中、\nマリルからのメッセージが届いた。	방을 잘못 들어온 게 아닌가 조심스럽게 둘러보고 있을 때 마리루의 메시지를 받았다.	As I cautiously look around the room, a message from Mariru comes in.	
+16	N/A	莉琉：卧室随便挑一间\n元老院的经费不用客气~♥	莉琉：臥室就隨便挑一間吧！ \n這些都是從元老院的經費支出，不用客氣～♥	マリル：寝室は自由に1つ選んでいいからな～～\n元老院の経費だから遠慮はいらんぞ～～♥	마리루：침실은 아무거나 골라\n원로원에 경비처리 할 거니까 사양하지 마~♥	Mariru: Pick any room you like. \nThe Senate's budget got you covered!♥	
+17	N/A	这个家伙……快向新丰洲的纳税人道歉！！	這傢伙……快給我向全新豐洲的納稅人道歉！ ！	こやつ……\nすぐさま新豊洲の納税者様に土下座しろ！！	이 녀석……신토요스의 납세자들에게 사과해！！	Ugh… Apologize to all taxpayers in New Opulentia!	
+18	N/A@安妮	小怜，你回来啦！	小憐，妳回來啦！	レンちゃん！　お帰り～！	렌，왔구나!	Ren, you're back.	
+19	N/A	安妮一边挽着头发，一边从浴室中走出来。	安妮一邊挽著頭髮，一邊從浴室中走出來。	髪を束ねたアニーが、浴室であろう部屋から\nひょっこり出てきた。	앤이 머리를 만지며 욕실에서 걸어나온다.	Annie walks out of the bathroom, her hair loose and wet.	
+20	小怜	安妮？！你也在啊~\n刚才莉琉说你去接受特别训练了……	安妮？ ！妳也在啊～\n剛才莉琉說妳去接受特別訓練了……	アニー！？なんだいたのか～～\n\nさっきマリルから、特別訓練を受けているって\n聞いていたんだけど……	앤？！너도 있었구나~\n마리루가 넌 특별 훈련을 받으러 갔다고 했는데……	Annie?! It's you! \nI thought you're on a special training…	
+21	安妮	训练项目提前完成了，我刚洗完澡在试校服\n看来我们要做室友啦~	是啊，但訓練項目提前完成，我就回來啦，剛洗完澡準備試穿校服，\n看來我們要當室友啦～	予想より早く終わったから、先にお風呂に入って\n制服を試着していたところよ。\nどうやら私達ルームメイトになるみたいだね～～	훈련이 일찍 끝나서 씻고 교복을 입어보고 있었어. 우리 룸메이트가 될 것 같아~	It was finished ahead of time. I was just taking a shower and trying on the school uniform. \nSo, we are roommates!	
+22	小怜	是，是呢\n（似乎莉琉提到过……）	是，是呢。 \n（莉琉似乎提過……）	そ、そうだね\n（そう言えばマリルからも聞いたな）	그，그러네\n（마리루가 얘기했었지……）	Yeah, yes. \n(Mariru seemed to have mentioned this…)	
+23	小怜	（这是上天对我的考验吗？）\n（和女孩子住在同一屋檐下什么的……）	（這是上天對我的考驗嗎？ ）\n（和女孩子住在同一屋簷下什麼的……）	（これは天が俺に課した試練なのか？）\n\n（女の子と一つ同じ屋根の下で暮らすなんて…）	（이건 하늘이 내리는 시험인가?）\n（여자아이와 같은 집에서 생활이라니……）	(Is it some kind of a test?) \n(Living together with a girl!)	
+24	小怜	这是那个学校的校服吗？很可爱呢~	這是那個學校的校服嗎？ 很可愛呢~	そ、それが学校の制服？　可愛いなぁ～～	이게 학교 교복이야? 정말 귀엽다~	Is this the school uniform? So cute!	
+25	安妮	嗯嗯~他们为你准备的衣物在那边的箱子里，一会也试试看吧！	嗯嗯～他們為妳準備的衣物在那邊的箱子裡，等一下妳也試試看吧！	そうだよっ。\n\nレンちゃんの服もあっちの箱に入ってるから、\n後で試着してみてね！	응~널 위해 준비한 옷은 저쪽 상자에 있어. 나중에 입어봐!	Yep. Yours is in the suitcase over there. Try it out!	
+26	小怜	我、我也要穿吗……	我、我也要穿嗎……	お、俺も着ないといけないのか……	나，나도 입어야 해…?	I… Do I have to…	
+27	安妮	嘿嘿，小怜果然还是不习惯女生的身份吗？	嘿嘿，小憐果然還是不習慣女生的身分喔？	ふふっ、まだレンちゃんは女の子に\n慣れていないのかな？	헤헤，렌은 아직 여자 신분에 적응이 되지 않은 거지?	Hehe, haven't got used to your new identity, Ren?	
+28	N/A	听到这个话题，我忍不住挠着头发，瘫在沙发上。	聽到這個話題，我忍不住撓著頭髮，癱在沙發上。	アニーの話を聞きつつ、頭を掻きむしりながら、\nソファーに倒れこんだ。	그 말을 들은 나는 머리를 긁으며 소파 위에 누웠다.	Hearing this, I scratch my head and collapse on the sofa.	
+29	小怜	这种事情，不可能习惯的吧……	這種事情，不可能習慣的吧……	こんな事、慣れるわけないだろ……	적응될 리가 없잖아……	No one can get used to such a sudden transformation!	
+30	小怜	呜呜……没人能理解这感觉吧	嗚嗚……沒人可以理解這種感覺吧！	うぅ……こんな感覚、\n誰にも理解できないだろうな……	흐흑……이 느낌을 이해하는 사람은 없겠지?	Ahh… I bet no one understands me…	
+31	安妮	我能明白的哦。	我能明白哦。	私は分かるよ。	난 이해할 수 있어.	I understand you, Ren.	
+32	N/A	安妮突然坐在了我的身旁，用手指安慰似的、轻轻碰触了一下我的脸颊。	安妮突然坐在我身旁，用手指輕輕碰了一下我的臉頰，像是在安慰我。	アニーは突然そばに座って、\n俺を慰めるように指で軽く頬に触れた。	앤이 갑자기 내 옆에 앉아 위로하듯 손가락으로 내 볼을 살살 만진다. 	Annie sits down next to me, comforting me with a gentle stroke on my cheek.	
+33	小怜	……安妮？	……安妮？	……アニー？	……앤？	… Annie?	
+34	安妮	因为我们是一样的嘛。	因為我們是一樣的嘛。	だって私達は同じだもん。	우리는 똑같으니까.	Because we are the same.	
+35	N/A	她的笑容似乎有些苦涩。	她的笑容似乎有些苦澀。	少し苦笑いしてるアニー。	그녀의 미소가 조금 씁쓸해 보인다.	Her smile seems bitter.	
+36	小怜	什、什么——！\n原来你也是男生吗？	什、什麼——！ \n原來妳也是男生嗎？	な、なんだって――ッ！\nアニーも男性だったのかッ！？	뭐，뭐——！?\n너도 원래 남자였어?	Wha… What?! You were a boy as well?	
+37	安妮	哈哈哈哈哈哈！小怜你是笨蛋吗？	哈哈哈哈哈哈！ 小憐妳是笨蛋嗎？	あはははははっ！　レンちゃん落ち着いてっ！	하하하하하！렌，너 바보야?	Haha, silly Ren!	
+38	安妮	安妮一直都是女孩子哦~	安妮一直都是女孩子哦～	アニーは生まれてから、ずっと女の子だよ～～	앤은 계속 여자였다구~	I'm a girl from tip to toe!	
+39	小怜	啊呜……\n（丢爆人了！！）	啊嗚……\n（我問了什麼鳥問題，丟臉死了！ ！）	あ、う……っ\n（恥ずかしいッ！！）	어흑……\n（쪽팔려！！）	Aww… \n(So embarrassing…)	
+40	N/A	在我的害羞指数要达到顶峰的时候，安妮收起笑容温柔地看着我。	在我的害羞指數要突破天際時，安妮收起笑容溫柔地看著我。	俺の羞恥心がピークに達している中、\n笑顔のアニーは俺を優しく見つめる。	내 부끄럼 지수가 절정에 다다랐을 때 앤이 웃음을 거두고 날 다정하게 쳐다본다.	I feel my face turning red. Annie stops laughing and looks at me softly.	
+41	安妮	不过啊，你现在心里的恐慌，我完全可以理解。	不過啊，妳現在心裡的恐慌，我完全可以理解。	でもね、レンちゃんが今感じてる恐怖とか\n不安とか、私は全て理解できるよ。	하지만 네 당황스러운 마음을 다 이해할 수 있어.	But I do understand your feeling.	
+42	安妮	我之前也被困在了另一个时空……\n那种感觉，应该和现在的你有些相似吧。	我之前也被困在另一個時空……\n那種感覺，應該和現在的妳有些相似吧。	ずっと、別の時空に閉じ込められていたから……\n\nあの感覚は、今のレンちゃんが感じてる事と\nきっと似ているんだろうなって……	나도 예전에 다른 시공에 갇혔었어……\n그 느낌，지금의 너와 비슷할 거야.	I was trapped in another spacetime… \nI think I felt the same way you do.	
+43	小怜	另一个……时空？	另一個……時空？	別の……時空？	다른……시공？	Another… spacetime?	
+44	N/A	安妮顿了顿，似乎在思索措辞。	安妮頓了頓，似乎在思考接下來的措辭。	アニーは、適切な言葉を探りつつ話しを続ける。	앤이 잠시 머뭇거린다. \n적당한 단어를 고르는 것 같다.	Annie pauses, as if choosing her words carefully.	
+45	安妮	莉琉小姐没有告诉你吗?\n我在另一个时空里懵懵懂懂地度过了很久……	莉琉小姐沒有告訴妳嗎？ \n我在另一個時空裡懵懵懂懂地度過了很久……	マリルさんは教えてくれなかったかな？\n私は別の時空……\n何と言うか、良く分からない場所で\nぼんやりと長い時間を過ごしていたの……	마리루씨가 말 안 해줬어? 나는 다른 시공에서 한참 동안 혼란스러운 시간을 보냈어……	Didn't Mariru tell you? \nWithout knowing what really happened, I was trapped in another spacetime for so long…	
+46	安妮	在那里时间的概念很模糊，虽然并没有那么久的感觉，但回来才发现已经过了七年。	那裡的時間概念很模糊，我並沒有在那裡待了很久的感覺，但回來才發現已經過了七年。	あそこでの時間の概念は曖昧で、そんなに長く\nいた感じなんてなかったんだけど……\n帰って来たら7年も月日が過ぎちゃってた。	그곳은 시간 개념이 애매해서 그렇게 긴 느낌은 없었지만 돌아와보니 7년이나 지났었어.	I lost track of time. It didn't feel that long, but seven years had passed before I finally got out of it.	
+47	小怜	嗯，听说了一点点……	嗯，有聽說了一點點……	うん、そこについては少し聞いた……	응，나도 들었어……	Well, I've heard a little bit…	
+48	小怜	（虽然从莉琉那里听到只言片语……）	（雖然從莉琉那裡聽到一些片段……）	（マリルからは触り程度にしか教えてもらってな　いけど……）	（마리루한테서 몇 마디밖에 못 들었지만……）	(Although it was just a brief mention by Mariru…)	
+49	N/A	到底发生了什么呢？\n要主动问一下她吗？	到底發生了什麼事呢？ \n要主動問她嗎？	何があったんだろう？\n俺からアニーに聞いてもいいのかな？	도대체 무슨 일이 있었을까?\n먼저 물어볼까?	What happened exactly? \nIs it okay to ask her?	
+50	N/A	安妮并没有继续说，只是低下头，若有所思的把玩着手指。	安妮並沒有繼續說，只是低下頭，若有所思地把玩著手指。	アニーはそれ以上何も言わず、俯いたまま\n指を弄りながら考え込んでいる。	앤이 말을 잇지 않고 고개를 숙인다. 생각에 잠긴 듯 손가락을 꼼지락거린다.	Annie doesn't go on. She lowers her head and fidgets with her fingers.	
+51	安妮	小怜……你是不是也有这种感觉──	小憐……妳是不是也有這種感覺──	レンちゃんってさ……\nこんな感覚があったのかな……	렌……너도 이런 느낌 있었어?──	Ren… Do you ever have this feeling—	
+52	安妮	总怀疑这是一个梦，希望下一次睁开眼就能醒过来。	總懷疑這是一場夢，希望下一次睜開眼就能醒過來。	これが夢だったらと疑って、次に目を開いた時、\n全てを夢で終わらせて欲しいと願う感覚──	이게 꿈이라는 느낌. \n다시 눈을 뜨면 깨어날 것 같은 느낌.	That all these are just a dream, and everything's gonna be fine when you open your eyes.	
+53	安妮	本不该是这样，本不该在这里……\n但是，不管怎么做，都回不到正常的轨道。	本來不該是這樣的，本來不該在這裡的……\n但是，不管怎麼做，都回不到正常的軌道。	こんなはずがない、ここにいるはずがない──\nだけど、どんな事をしても、行先は戻らない。	이러면 안 되는데，여기 있으면 안 되는데……\n어떻게 해도 정상 궤도로 돌아갈 수가 없어.	Things shouldn't be like this, and you shouldn't be trapped here… \nBut no matter how hard you try, you can't just go back to normal.	
+54	小怜	（安妮就是抱着这样的心情，一个人撑过来的吗？）	（安妮就是抱著這樣的心情，一個人撐過來的嗎？ ）	（そんな……そんな気持ちを、アニーはずっと\n　1人で耐えてきたのか？）	（앤은 이런 마음을 갖고 혼자서 버텨온 걸까?）	(Did Annie make it through despite such torturing feelings?)	
+55	N/A	我向安妮微微靠近了一些，拍了拍她的肩膀。\n呃，安慰女孩子……应该可以这样的吧？	我向安妮微微靠近了一些，拍了拍她的肩膀。 \n呃，……應該可以這樣安慰女孩子吧？	俺はアニーに少し近付いて、\n彼女の肩を軽く叩いた。\nえっと……女の子を慰めるのに、\nこれくらいは大丈夫だよな？	앤에게 다가가 그녀의 어깨를 두드렸다.\n윽… 여자를 위로할 때 이렇게 하는 거 맞나?	I move closer and pat her on the shoulder. \nEr… Is it the right way to comfort girls?	
+56	小怜	别害怕，你不是已经回来了嘛~	別害怕，妳不是已經回來了嘛～	もう、怖がらなくっていいって！\n帰って来れたじゃないか？	무서워하지 마. 이렇게 무사히 돌아왔잖아~	Don’t worry. You're back in one piece, aren’t you?	
+57	安妮	嗯……\n可我还是感觉十分陌生……	嗯……\n可是我還是感覺非常陌生……	うん……\nでも、私はこの世界に全然馴染めてない……	응……\n하지만 아직 낯설어……	Right. \nBut everything seems alien to me.	
+58	安妮	就连你们说的『学园都市』，我都完全没有头绪。	就連妳們說的「學園都市」，我都完全沒有頭緒。	レンちゃん達が口にした『学園都市』って\n単語でさえ、さっぱり分からないの。	너희들이 얘기하는 『학원도시』 같은 것도 난 전혀 모르겠어.	I don't even have a clue what an "Academy City" is.	
+59	小怜	（……对啊，安妮消失的时候战争还没结束呢。）	（……啊，對，安妮消失的時候戰爭還沒結束呢。 ）	（……そうか、アニーが消える前の時代じゃ、\n　まだ戦争は終わってないのか）	（……그래，앤이 사라졌을 때는 아직 전쟁이 끝나지 않았지.）	(… Oh yes… The war wasn't over when she disappeared.)	
+60	小怜	所以说，这些年发生了什么你还都不知道吧？	所以說，這些年發生了什麼事情，妳都還不知道吧？	それこそ、ここ数年何があったのか、\n全く分からないんじゃ？	그러니까，몇 년간 무슨 일이 있었는지 넌 모르겠구나?	So you don't know what happened during those years?	
+61	安妮	我只是粗略的查了下……这几年发生太多事，就连很多新闻里的名词都不知道什么意思了。	我有大概查了一下……但是這幾年發生太多事，連很多新聞裡的名詞我都不知道是什麼意思了。	調べてはみたんだけど……私がいた時代から、\nあらゆる事が起き過ぎていて……\n報道の中で使ってる言葉の意味さえも\n分からなかった。	찾아보긴 했지만……너무 많은 일이 있었고…뉴스에 모르는 단어들도 너무 많아서…	I've done some quick research… But so much has happened that I can’t even keep up with the new words in the news.	
+62	小怜	七年前……\n正好是那场让全世界陷入混乱的战争中期啊。	七年前……\n正好是那場讓全世界陷入混亂的戰爭中期。	7年前は……全世界を混乱の渦に巻き込んだ、\nあの戦争の中期だったね。	7년 전이면……\n전 세계가 혼란에 빠진 전쟁의 중반이네.	Seven years ago… \nThe world was caught up in the chaos of the war…	
+63	安妮	哎？战争？\n是指马萨达堡向欧洲发动的那场军事行动吗？	哎？ 戰爭？ \n是指馬薩達堡向歐洲發動的那場軍事行動嗎？	えっ？　戦争？\n\nマサダブルクがヨーロッパに対して行った\n軍事作戦の事？	에？전쟁？\n마사다 성이 유럽에게 일으킨 군사 행동 말이야?	Eh… War? \nYou mean the one launched by Masada Ford against Europe?	
+64	N/A	安妮努力的回想着。	安妮努力地回想著。	アニーは頑張って思い出そうとしている。	앤이 열심히 기억을 회상한다.	Annie tries hard to think back.	
+65	小怜	不是哦，那之后没多久，几乎所有国家都被卷入进去了。	不是哦，但是在那之後沒多久，幾乎所有國家都被捲進去了。	それとは違うよ。その紛争から程なくして、\n全世界のほとんどの国が巻き込まれたんだ。	얼마 지나지 않아 거의 모든 국가가 말려들었어.	Nope, not that one. After that, almost all countries were dragged into the war.	
+66	小怜	当时我还在寄宿学校上小学，每天都有战争和死亡人数的新闻，是一段相当糟糕的时期呢……	當時我還在寄宿學校上小學，每天都有戰爭和死亡人數的新聞，那是一段相當糟糕的時期呢……	当時、俺は寄宿舎の小学校に通っていたけど、\n毎日戦争と死亡者数のニュースがあって、\nかなり酷い時期だった……	난 당시 초등학교 기숙사에 있었는데，매일 전쟁과 사망자에 관한 뉴스뿐이었어. 최악의 시기였지……	I was in elementary school then. The news was all about the war and death tolls. Really bad times…	
+67	安妮	小怜也经历了战争吗？	小憐也經歷了戰爭嗎？	レンちゃんも戦争を体験したの？	렌도 전쟁을 경험했어?	Were you affected by the war?	
+68	小怜	不算是啦，多亏了埃癸斯的保护，当时的新丰洲正在废墟旁全力重建。	不算經歷過啦，多虧了埃癸斯的保護，當時的新豐洲正在廢墟旁全力重建。	体験とは少し違うかな。\n\nイージスの保護があったから、当時の新豊洲は\n廃墟のすぐ側で全力の再建を図っていたし。	아니~아이기스의 보호 덕분에 당시 신토요스는 폐허를 전력으로 재건했어.	Not really. Thanks to Aegis, New Opulentia was rebuilding itself from the ruins.	
+69	N/A	我看了看窗外繁华的都市夜景……记得小时候，城市里四处都是巨大的塔吊和忙碌的工程机械。	我看了看窗外繁華的都市夜景……記得小時候，城市裡四處都是巨大的吊車和忙碌的工程機器。	あの頃、巨大なクレーンと建設機械が都市の\nあちこちに散見してた光景は今でも覚えている。\nこの部屋の窓から見える夜景は\nあの頃に比べて随分と綺麗になった。	나는 창밖의 번화한 도시 야경을 바라봤다… \n어렸을 땐 도시 전체가 거대한 크레인과 바쁘게 돌아가는 중장비들뿐이었다.	I look at the prosperous city outside the window… When I was a kid, it was full of huge tower cranes and busy construction machinery.	
+70	小怜	所以我知道的那些，大多都是从课本上学的啦。	所以我知道的那些，大多都是從課本上學的。	だから俺が知ってるのは、大体教科書からの\n受け売りだよ。	그러니까 내가 알고 있는 건 대부분 학교에서 배운 것들이야.	So I've learned about the war mostly from textbooks.	
+71	小怜	由于战争的影响，神迹科技迅猛发展……\n『神迹』就是指异质物引发的现象哦。	由於戰爭的影響，與神蹟相關的科技迅速發展……\n啊，「神蹟」就是指異質物引發的現象。	戦争の影響で、近年は聖痕関連の技術が急速的に\n向上してて……\nあ、『聖痕』というのは異質物によって\n引き起こされる超常現象の事なんだけど。	전쟁의 영향으로 기적 기술이 발전했어. 『기적』은 이물질이 일으킨 현상을 의미해.	Driven by the war, Divine Touch technologies developed rapidly… \nAnd by Divine Touch, I mean supernatural phenomena caused by Substance H.	
+72	小怜	战后掌握了关键技术的六个国家，分别在世界各地建立了六大学园都市。	戰後掌握了關鍵技術的六個國家，分別在世界各地建立了六大學園都市。	戦後、この重大な技術を発展させた6つの国が、\n世界各地に六大学園都市を設立したんだ。	전쟁 후 주요 기술을 보유한 6개 국가가 세계 각지에 6대 학원도시를 건립했어.	After the war, the six leading countries in Substance H research established six Academy Cities around the world.	
+73	小怜	（感觉自己突然点亮了历史老师的天赋……）	（感覺自己突然喚醒了歷史魂……）	（歴史の先生としての才能が突然目覚めた\n　……………………………………気がする）	（갑자기 역사 선생의 재능이 생긴 느낌인 걸……）	(Didn't know I have a talent for teaching!)	
+74	安妮	原来发生了这么多事……完全无法想像。	原來發生了這麼多事啊……完全無法想像。	そんな事があったなんて…全然想像がつかない。	정말 많은 일이 있었구나……전혀 상상도 못했어.	Well, so many things happened… I can't even imagine that!	
+75	小怜	毕竟安妮离开──啊，消失的时候，世界还算比较和平吧……	畢竟安妮離開──啊，消失的時候，世界還算比較和平吧……	結局、アニーが離れ──いや、消えた時……\n世界はまだ比較的に平和だったのかな……	앤은 떠났──아，사라졌을 때는 세계가 평화로웠다고 볼 수 있지……	After all, when you left, or, disappeared, the world was quite peaceful…	
+76	安妮	是啊，那时候我还能参加国际棒球赛呢！	是啊，那時候我還能參加國際棒球賽呢！	そうだね、その時の私は、野球の国際試合に\n参加してたんだからっ！	맞아. 그 때 국제 야구 대회에도 참가했었어!	Yes, I even participated in international baseball games!	
+77	N/A	安妮提到棒球，双眸闪闪发光。	安妮提到棒球，雙眼閃閃發光。	野球の話になった途端、アニーの目がキラキラと\n輝いた。	야구 얘기를 꺼낸 앤의 두 눈이 반짝거린다.	There is a twinkle in her eye when she mentions baseball.	
+78	安妮	你知道吗小怜，每次轮到我击球的时候，观众们的目光就会集中在我一个人身上！	妳知道嗎小憐，每次輪到我打擊的時候，觀眾們的目光就會集中在我一個人身上！	知ってる、レンちゃん？ 私が打席に立つと、\nファンのみんなの視線が、一手に集中するの！	그거 알아，렌? 내가 타석에 들어설 때면 관중들의 눈빛이 내게 집중돼! 	You know, every time it's my turn to strike the ball, all eyes were on me!	
+79	安妮	那种紧张又必须拼尽全力的感觉，会让我全身的血液都沸腾起来！	那種緊張又必須拼盡全力的感覺，會讓我全身的血液都沸騰起來！	緊張はするけど、全力を尽くさないといけない\nあの感覚……全身の血が騒いでるかのようでっ！	그 긴장과 전력을 다 해야 한다는 느낌이 온몸의 피가 불끈 솟게 만들어! 	Being nervous but trying to do my best really made my blood boil!	
+80	N/A	提起棒球，我忽然想到莱博娜棒球场外那座刻着几万名死难者名字的黑色石碑。	提起棒球，我忽然想到萊博娜棒球場外那座刻著幾萬名死者名字的黑色石碑。	野球と言えば、リバーナにある野球場の外に\n数万人の犠牲者の名前が刻まれた、\n黒い石碑がある事を、ふと思い出した。	야구 얘기를 하니 레보나 야구장 밖 수만 명의 사상자 이름이 적힌 검은 석판이 떠오른다.	Talking about baseball… the black slate standing in front of the Lebona Stadium comes to my mind. On it are the names of the tens of thousands of victims of the war.	
+81	小怜	其实……	老實說……	もしかしたら……	사실……	In fact…	
+82	安妮	嗯？	嗯？	うん？	응？	Hmm?	
+83	小怜	你避开了战争最惨烈的几年，没准也是件好事呢。	妳避開了戰爭最慘烈的那幾年，或許是件好事。	あの戦争の最も悲惨な数年を避けられたのは、\nある意味良い事だったのかもしれない。	네가 가장 참혹한 전쟁 시기를 떠난 건 좋은 일일지도 몰라.	Maybe it's lucky for you to be away in the worst years of the war.	
+84	小怜	这么一想，我会变成女孩子还遇到了你\n在某种意义上来说，可能也是件好事？	這麼一想，我會變成女孩子還遇到了妳，\n在某種意義上來說，可能也是件好事？	そう考えると、俺が女の子になってアニーと\n出会えた……\nこれも、ある意味良い事だったのかも？	그렇게 보면，내가 여자가 되서 널 만난 것도 어떤 의미에선 좋은 일이겠지?	Well, in this way… Maybe I'm lucky too… \nTo become a girl and meet you?	
+85	N/A	安妮愣住了，似乎有些难堪……\n是我看错了吗？	安妮愣住了，表情似乎有些尷尬……\n我看錯了嗎？	アニーは少しキョトンとしつつも、何とも\n言えない困った表情をしている…ように見えた。\n俺の見間違いかな？	앤이 멍해진다. 좀 난감해 하는 것 같다……\n내가 잘못 봤나?	Annie bites her lip, a look of embarrassment crosses her face… \nAm I mistaken?	
+86	安妮	小怜……其实我一直想向你道谢。\n因为…是你将在那个世界彷徨的我救了出来。	小憐……其實我一直都想向妳道謝。 \n因為……是妳從那個世界裡，把徬徨的我救了出來。	レンちゃん……実はね、レンちゃんにずっと\nお礼が言いたかったの。\nあの時空で彷徨っている私を、救い出してくれて\nありがとう　って。	렌……너에게 고맙다는 말을 하고 싶었어. 네가 그 세계에서 방황하는 날 구해줬어.	Ren… I'm really grateful to you. \nBecause… it was you that pulled me out of that spacetime.	
+87	小怜	诶？但是我什么都没做啊……	欸？ 但是我什麼都沒做啊……	えっ？　俺は何もしてないって……	엣？난 아무것도 한 게 없는데……	Eh? But I haven’t done anything…	
+88	安妮	所以说，你一定是特别的嘛~	所以說，妳一定是特別的嘛～	だから……あなたはきっと特別なんだよ。	그러니깐 넌 분명 특별한 사람일 거야~	That's why you're special!	
+89	安妮	虽然我也不知道你是怎么做到的，但在那时，我能感觉到你温暖的手拉住了我。	雖然我也不知道妳是怎麼做到的，但是那時候，我感覺到妳溫暖的手拉住了我。	レンちゃんがどうやったかなんて分からない。\nだけど、あの時レンちゃんの暖かい手が、\n私を引っ張ってくれた事を私は確かに感じたの。	나도 네가 어떻게 했는지 모르겠지만，너의 따뜻한 손이 날 잡는 걸 느낄 수 있었어.	Don't know how you made it, but I felt your warm hand holding on to mine.	
+90	N/A	安妮轻轻握住了我的手，陷入了回忆。	安妮輕輕握住了我的手，陷入了回憶。	アニーが俺の手を軽く握る。\n軽くだけど、想いの深さを感じた。	앤이 나의 손을 잡고 생각에 잠긴다.	Annie gently holds my hand, falling into her memory.	
+91	安妮	如果不是你，不知道我还要困在那边多久，最后会变成什么……	如果不是妳，不知道我還要困在那邊多久，最後會變成什麼樣子……	レンちゃんがいなければ、私はいつまでも\n閉じ込められて、\nそして最後……何に変わってたか……	네가 아니였다면 거기서 갇혀서 어떻게 변했을까……	If it weren't for you, I don't know how long I'm going to be trapped there, and what I will become…	
+92	小怜	变成……什么？	變成什麼樣子？	何に変わる……？	어떻게……변하다니？	Become… what?	
+93	安妮	啊哈~没什么啦，已经过去了。\n好像突然之间有点困了呢~	哈～沒什麼啦，都過去了。 \n好像突然有點睏了呢～	あはっ、なんでもない！　もう過ぎた事だし。\nなんか突然眠くなってきちゃった～～	아무 것도 아니야. 이미 지난 일인 걸.\n갑자기 좀 졸리네~	Well… forget it. Anyway, it's over. \nOops… time for bed~	
+94	N/A	安妮似乎想避开这个话题\n伸了个懒腰，脸上依然保持着笑容	安妮似乎想避開這個話題，\n她伸了個懶腰，臉上依然保持著笑容。	この話題を、もう避けたいようだ。\nアニーは笑顔を残しつつも背筋を伸ばす。	앤이 화제를 돌리려는 듯 기지개를 켠다. 얼굴에 여전히 미소를 짓고 있다.	Annie seems unwilling to continue this topic. \nShe yawns, a smile still on her face.	
+95	N/A@莉琉	你们的少女夜谈打算什么时候结束啊？	妳們的少女夜談打算什麼時候結束啊？	お前達、いつまで「秘密の女子話in夜」を\n続けるつもりだ？	소녀들의 수다는 언제쯤 끝낼 생각이야?	When will the girl talk stop?	
+96	N/A	房间角落的音箱突然传来了莉琉的声音。	房間角落的音箱突然傳來了莉琉的聲音。	部屋の片隅のスピーカーから、突如マリルの声が\n聞こえた。	방 구석의 스피커에서 갑자기 마리루의 목소리가 들린다.	Suddenly, Mariru's voice comes from a speaker in the corner.	
+97	小怜	莉、莉琉小姐？！\n你刚才在偷听吗？	莉、莉琉小姐？ ！\n妳剛才一直在偷聽嗎？	マ、マリル姉っ！？\nずっと盗み聞きしてたのかっ！？	마，마리루？！\n몰래 듣고 있었어?	Ma… Mariru?! \nAre you eavesdropping?	
+98	N/A@莉琉	怎么，监护人监督一下小朋友的作息\n有什么不对的吗？	怎麼，監護人監督一下小朋友的作息\n有什麼不對嗎？	なんだ？保護者は子供の生活を監督するものだ。\n何がいけない。	후견인이 꼬맹이의 휴식을 모니터링하는 게 뭐가 잘못됐어?	Anything wrong with checking in as your legal guardian?	
+99	小怜	真亏你说得出口……	真虧妳說得出口……	よく言うよ……	본인 입으로 실토하다니……	Where did that come from?	
+100	N/A@莉琉	还顶嘴？\n看来明天要好好的操练一下你……	還頂嘴？ \n看來明天得好好的操練一下……	ほう？　口答えするのか？\n\n明日はミッチリと訓練してやらねばならない\nみたいだな……	말대꾸하는 거야？\n내일 아주 혼 좀 나봐야겠지……?	Did you just talk back? \nSeems I'm being too nice.	
+101	小怜	对不起！我马上就洗澡睡觉！\n晚安！！	對不起！ 我馬上就洗澡睡覺！ \n晚安！ ！	すみませんっ！　すぐお風呂入って寝ますっ！\nおやすみなさいっ！！	미안！곧 샤워하고 잘 거야!\n잘 자요！！	Sorry, ma’am! I'll take a shower and go to bed straight away! \nGood night!	

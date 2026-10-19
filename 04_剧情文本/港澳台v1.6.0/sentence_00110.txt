@@ -1,0 +1,22 @@
+﻿1	引导精灵	先来看看魔女	先來看看魔女	それでは魔女を見てみよう。	우선 마녀를 확인해보자.	Check out your Witches.	
+2	FocusTrigger	
+3	FocusTrigger	选择魔女	選擇魔女	魔女を選択	마녀 선택	Select Witch	
+4	引导精灵	在所有增加战斗力的方法中，[ff9c00]最基本[-]的就是提升魔女等级。	在所有增加戰鬥力的方法中，[ff9c00]最基本[-]的就是提升魔女等級。	戦闘力を増加させる方法で、\n[ff9c00]もっとも基本[-]なのは魔女のレベルを上げる事だよ。	전투력을 증가하는 방법 중 [ff9c00]가장 기본[-]적인 방법이 바로 마녀의 레벨을 올리는 거야.	The [ff9c00]most basic[-]way to increase your BR is by leveling up your Witches.	
+5	引导精灵	等级并非只能依靠战斗提升，也可以使用获得的各种[ff9c00]经验道具[-]。	等級並非只能依靠戰鬥提升，也可以使用獲得的各種[ff9c00]經驗道具[-]。	戦闘に参加させる他、各種類の[ff9c00]経験値アイテム[-]を使用すればレベルアップできるよ♪	전투외에 각종 [ff9c00]경험치 아이템[-]을 사용해서 레벨을 올릴 수 있어.	You can level them up by joining battles, and also by using various [ff9c00]EXP Items[-].	
+6	FocusTrigger	提升等级	提升等級	レベルを上げる	레벨 향상	Upgrade Level	
+7	FocusTrigger	
+8	引导精灵	注意，魔女的等级无法超过小怜你的等级喔。	注意，魔女的等級無法超過小憐妳的等級喔。	注意点として、[ff9c00]魔女のレベル[-]は[ff9c00]あなたのレベル[-]を超える事ができないからね。	마녀 레벨은 렌의 레벨을 초과할 수 없어.	Note that, however, Witches' levels can't exceed your character level.	
+9	FocusTrigger	点击空白区域关闭界面	點擊空白區域可關閉介面	画面を閉じる	빈 공간을 눌러 화면을 닫으세요.	Tap a blank area to close.	
+10	引导精灵	不同的兵器除了攻速和伤害有区别外，最大的区别在于[ff9c00]"刻印技能"[-]。	不同的兵器除了攻速和傷害有區別外，最大的區別在於[ff9c00]「刻印技能」[-]。	兵器は種類によって攻撃速度やダメージが違うけど、一番\n大きな違いは[ff9c00]「刻印スキル」[-]\nだよ。	각 병기는 공격 속도와 피해 이외에 가장 큰 차이점은 \n[ff9c00]"각인 스킬"[-]에 있어.	Different weapons have different attack speeds and damage, but more importantly—they have different [ff9c00]Power Skills[-].	
+11	引导精灵	“刻印技能”是兵器的特性由其魔力维持，一旦魔力耗尽刻印便失去了效果。	「刻印技能」是指以魔力維持兵器的特性。一旦魔力耗盡，刻印便會失去效果。	「刻印スキル」は兵器の魔力によって維持されてるから、魔力が尽きると[ff9c00]刻印の効果が失われちゃう[-]の。	“각인 스킬”은 마력으로 병기의 특성을 유지하기 때문에, 마력이 없으면 각인 효과도 사라져.	Power Skills are maintained by weapons' MP. Once a weapon's MP drops to zero, its Power Skill will become ineffective.	
+12	引导精灵	掌握兵器的程度由[ff9c00]战技同步等级[-]决定。通过与SID机器人的战技训练，可以强化与魔女的同步等级。[ff9c00]同步等级越高，兵器刻印技的效用或威力也就越明显[-]。	強化等級越高，基礎傷害越大，刻印技的效用或威力也就越明顯。	兵器の強さは[ff9c00]強化レベル[-]に\nよって決まるわ。\n強化レベルが高くなれば、\n基礎ダメージや刻印スキルの\n威力も強くなるよ。	병기의 강도는 [ff9c00]강화 레벨[-]에 따라 결정돼. 강화 레벨이 높을수록 기초 피해와 각인 스킬의 효과, 위력이 증가해.	A weapon's power is determined by its [ff9c00]enhancement level[-]. The higher its enhancement level, the higher its base damage and the more effective its Power Skill.	
+13	引导精灵	不断提升同步等级，能够更好的掌握兵器，是增加战斗力[ff0000]最有效[-]的办法！	不斷提升同步等級，能夠更好的掌握兵器，是增加戰鬥力[ff0000]最有效[-]的辦法！	兵器の強化レベルを上げるのが\n戦闘力を増加させる[ff0000]最も有効[-]な\n方法ね！	Enhancing your weapons is the [ff0000]most effective[-] way of increasing your BR!		
+14	FocusTrigger	强化兵器	強化兵器	兵器を強化	병기 강화	Enhance Weapons	
+15	FocusTrigger	强化会消耗素材	強化會消耗素材	素材を使用する	강화는 소재를 소모합니다.	Enhancing weapons consumes materials.	
+16	FocusTrigger	
+17	FocusTrigger	
+18	FocusTrigger	
+19	引导精灵	如果能保持[ff9c00]魔女等级[-]和[ff9c00]同步等级[-]的一起成长，前期是不会遇到太多麻烦的。	如果能持續讓魔女和兵器的[ff9c00]等級一起提升[-]，初期是不會遇到太多麻煩的。	魔女と兵器の[ff9c00]レベルを同時に上げる事[-]ができれば、序盤は順調に進めるはずよ。	마녀와 병기의 [ff9c00]레벨을 함께 올린다면[-], 초반의 귀찮은 일이 크게 \n줄어들 거야. 	So long as you [ff9c00]level up[-] your Witches and their weapons together, you won't encounter too much trouble in the early stages.	
+20	引导精灵	更多的介绍以后再说，有空请多留意一下不同的技能~	之後會有更多的介紹，有空請多留意一下不同的技能～	今回の説明はここまで！\n暇な時があれば各スキルを確認しようね。	자세한 설명은 다음에 해줄게. 시간이 있을 때 다른 스킬도 살펴보도록 해~	I'll fill you in more in the future. For the time being—check all the different skills.	
+21	FocusTrigger	
+22	FocusTrigger	

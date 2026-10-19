@@ -1,0 +1,59 @@
+﻿1	莉琉	（自言自语）还是那个小家伙比较有趣……	（自言自語）還是那個小傢伙比較有趣……	やはり、あっちの小娘の方が面白かったな……\n（独り言）	（혼잣말）그 녀석 정말 재밌다니까……	(Muttering) It's obviously more interesting to talk with that little kid…	
+2	N/A@N/A	莉琉斜前方的荧幕闪过一串语音连线提示，故意伪装的电子音掩盖了说话人本身的性别特质。	莉琉斜前方的螢幕閃過一串語音連線提示，刻意偽裝的電子音掩蓋了說話人本身的性別。	マリルの斜め前方のスクリーンから、\n接続用のボイスガイドが流れた。\nその後、性別や特徴を隠すような、\nわざとらしい偽装電子ボイスが聞こえてくる。	스크린에 음성 연결 알림이 깜박인다. 전자음으로 목소리 성별을 조작했다.	An audio call notice pops up on the screen in the side-front of Mariru. The gender of the speaker is unknown as the voice is masked as a robotic voice.	
+3	莉琉	（虽然做过很多次简报，但这种单方加密干扰的形式，实在是不爽）	（雖然做過很多次簡報，但這種單方加密干擾的形式，實在令人不爽。 ）	（ブリーフィングの経験は何度もあるが、\n　片方だけが暗号化されるこの形式は……）\n（……本当に不愉快だ）	（여태것 수많은 브리핑을 해왔지만 이런 일방적인 기밀 간섭 형식은 달갑지 않다.）	(After countless briefings, this one-way encrypted modulation still feels so annoying.)	
+4	基尔斯	那么有关『洛斯金杯』消失的事件，现在调查情况如何了？	有關「洛斯金杯」消失的事件，現在調查進度如何了？	それでは『ロス・ゴールド』が消失した事件、\n調査の進展は如何ほどか？	『로우스 금잔』 도난 사건의 조사 상황은 어떻게 진행되고 있죠? 	So, about the disappearance of the Ross Goblet, how is the investigation going?	
+5	莉琉	从今天凌晨零时十五分，安保系统发现『洛斯金杯』消失。	今天凌晨零時十五分，保全系統發現「洛斯金杯」消失。	本日午前0時15分、セキュリティシステムが\n『ロス・ゴールド』の消失を確認。	오늘 새벽 0시 15분에 보안 시스템이 『로우스 금잔』이 사라진 걸 발견했습니다.	At 00:15 after midnight today, the security staff noticed the Ross Goblet disappeared.	
+6	莉琉	早上六时四十分，『真实视域』卫星测控系统发出警告，检测到了强烈次元扭曲。	早上六時四十分，「真實視域」衛星監控系統發出警告，表示偵測到強烈次元扭曲。	午前6時40分、『トゥルービジョン』の衛星監視システムが警告を発令。\nその後、強烈な次元歪曲を感知しました。	오전 6시 40분에 『진실의 시야』 위성 탐측 시스템이 경고를 발령했습니다. \n강력한 차원 왜곡을 탐측했더군요.	At 06:40, the True Sight Satellite Monitoring System detected strong dimensional warps and sent out a warning.	
+7	莉琉	之后从今早七点现在──『埃癸斯』系统在新丰洲范围内共侦测到了六起时空相位波动警报。	從今早七點到現在為止──「埃癸斯」系統在新豐洲內一共偵測到了六起時空相位波動警報。	午前7時現在、『イージス』システムは新豊洲の\n範囲内にて、時空位相波動の警報を6件検出。	아침 7시에 『아이기스』가 신토요스 범위 내에서 6개의 시공 상위 파동 경보를 탐측했습니다.	Since 07:00, the Aegis System has received six Spacetime Flux alarms within New Opulentia.	
+8	莉琉	其中数起，检测到‘未知能量体’。根据目击者描\n述，我们绘制了画像……
+9	莉琉	暂定名‘■■’的未知能量体，最明显的体征为面部模糊……
+10	莉琉	（多此一举，如果有人能神不知鬼不觉的攻破安保系统，对关键词句再加密有什么用。）
+11	基尔斯	先说说你的看法。
+12	莉琉	据目击者描述，未知能量体具备团队作战能力，■■和■■明显体现了领导作用。
+13	莉琉	伴生物■■■■和■■■■出现频率很高，地位有类似于蚁群中的兵蚁。
+14	莉琉	可以合理推测，出现的这些未知能量体，是有组织性的。
+15	N/A	莉琉朝着右后方看了一眼，笑了笑。	莉琉朝著右後方看了一眼，笑了笑。	マリルは右後方をちらりと見た後、少し笑った。	마리루가 뒤쪽을 한 번 쳐다본 후 웃는다.	Mariru looks back to the right and beams a smile.	
+16	N/A	仅凭语调就能听出，这是那位性格严谨不苟言笑的元老院首席执政。	僅憑語調就能判斷出，這是那位性格嚴謹、不苟言笑的元老院首席元老。	口調だけで分かる。\nあれは謹厳な性格をした元老院主席執政官だ。	말투에서 드러나듯이 엄격한 성격의 원로원 수석 집정관이다.	Just from the sedate tone, she can tell it's the Chief Executive of the Senate.	
+17	莉琉	根据以上信息，我判断这不是失窃事件，而是『异\n质物』觉醒及其引发的连带效应。
+18	莉琉	『埃癸斯』计算认为，相位空间入侵概率最高，占比11.4%，其他都是不可知情况。
+19	莉琉	我对此持保留意见。
+20	N/A	莉琉话音刚落，四周的黑暗荧幕中便传来议论的声音。
+21	N/A	一道沉稳低哑的嗓音从莉琉的左手边传来。	一道沉穩低啞的嗓音從莉琉的左手邊傳來。	そしてマリルの左側から、\n低くて穏やかな声が聞こえた。	낮은 목소리가 마리루의 왼쪽에서 들려온다.	A deep, low voice comes from the left side.	
+22	布莱特	你偏向于认为精神影响型的『神迹』指数级爆发？
+23	莉琉	目前看来更可能是单纯的多起同时爆发。\n『神迹』……我不太习惯用不严谨的词汇。	目前看來更可能是單純的多起事件同時爆發而已。 \n至於「神蹟」……我不太習慣用不嚴謹的詞彙。	現状は単に同時発生してるだけと考えられます。\n\n『聖痕』ですか……\n不謹慎な言葉を使うのは慣れておりません。	단순한 동시 폭발 사건일 수도 있어요.\n 『기적』이라고… \n제가 잘 쓰지 않는 치밀하지 못한 단어로군요.	For now it looks more like a simultaneous outburst of independent incidents. \nAs to the "Divine Touch" you mentioned—I don't like using this laymen term.	
+24	莉琉	（虽然他是精神影响类『异质物』的权威……）	（雖然他是精神影響類「異質物」的權威……）	（彼は精神影響型の『異質物』の権威だが……）	（그가 정신 영향류 『이물질』의 권위자이긴 하지만……）	(He is an authority in the area of psychoactive Substance H…)	
+25	莉琉	（但总觉得这个大猩猩吃多了辐射脑子坏掉了）	（但總覺得這個大猩猩接觸太多輻射，所以腦子壞掉了。 ）	（『聖痕』……このゴリラは放射線を吸収し\n　過ぎて、脳まで影響が及んだのだろうな）	（하지만 이 고릴라는 방사능을 먹고 뇌가 고장난 것 같아.）	(Although I always think this gorilla man’s brain is damaged due to overexposure to radiation.)	
+26	布莱特	那你的判断是什么？
+27	莉琉	现在提出结论报告过于草率，有效信息太少了。『埃癸斯』的结论只能作为参考……
+28	莉琉	鉴于此次事件的特殊性，我申请无限制的S级调查令，希望诸位可以理解。
+29	N/A	莉琉并不理会四周传来的窃窃私语声，把注意力放回了手持终端上。	莉琉並不理會四周傳來的竊竊私語聲，把注意力放回了手持平板上。	マリルは周囲の囁きを気に留めず\n手にあるタブレットに意識を移す。	마리루가 수근거리는 소리를 무시하고 휴대 단말기에 정신을 집중한다. 	Mariru ignores the murmurs surrounding her, and focuses on her hand-held device.	
+30	莉琉	（那个小朋友去了新的异变区域……）	（那個小朋友去了新的異變區域……）	（あの子が新しい異変区域に突入したか……）	（그 꼬맹이가 새로운 변이 구역으로 갔군）	(The kid went to another flux area…)	
+31	莉琉	（果然，又是消失之后一段时间重新出现，接着附近的相位波动也停止了）	（果然，又是消失之後一段時間重新出現，接著附近的相位波動也停止了。 ）	（やはり、姿が消失してからの再出現。）\n\n（そして付近の『時空位相波動』の停止……）	（역시 사라지고 얼마 있다가 다시 나타났어. 근처 파동도 멈췄고.）	(See! She disappeared and re-appeared after a while, and the flux nearby stopped.)	
+32	莉琉	（现场传来的影像……她身上的是血迹吗？）	（咦？ 根據現場傳來的影像……她身上的是血跡嗎？ ）	（現場からの映像、身体に……血の跡が？）	（현장에서 보낸 영상……몸에 혈흔이 있잖아?）	(In the on-site video clip… Is that blood on her body?)	
+33	莉琉	（这个笨蛋……该不会是！！）	（這個笨蛋……該不會！ ！）	（あのバカ……まさか！！）	（이 바보……설마！！）	(The little idiot… She can't be…)	
+34	基尔斯	你看上去有些心不在焉啊。	妳好像有點心不在焉啊。	心ここに有らずと、見えるが？	정신을 딴 데 팔고 있는 것 같습니다?	You seem to have other concerns.	
+35	莉琉	什么？……完全没有。	什麼？ 沒有這回事。	そうでしょうか？\n\n……そんな事はありませんが。	네?....그럴 리가요.	What?… No, nothing.	
+36	基尔斯	你盯着看的东西，上面有什么比汇报内容更重要的信息吗?	瞧妳一直盯著平板，上面有什麼比彙報內容更重要的資訊嗎?	君が見ているもの、\nそれは会議報告より重要な情報なのかね？	방금 보고 있던 물건 안에 보고 내용보다 중요한 정보가 있나보죠?	What were you looking at? Is it more important than the briefing?	
+37	莉琉	……嘛，只是小猫咪的视频，你们想看吗？	……嘛，只是小貓咪的影片而已，你們想看嗎？	……まぁ、ただの子猫の映像ですが、\n見ますか？	……아，새끼 고양이 영상입니다. 보시겠어요?	… Nah, just a funny kitty video. You wanna have a look?	
+38	基尔斯	！！！	！ ！！	！！！	！！！	!	
+39	N/A	莉琉的左侧传来了尖锐的电流音和蜂鸣。	莉琉的左側傳來了尖銳的電流聲和蜂鳴。	マリルの左側で鋭い電子音とブザーが鳴り響く。	마리루의 옆에서 날카로운 전류음과 버저 소리가 들린다.	A high-pitched buzzing comes out from the left side of Mariru.	
+40	莉琉	别生气嘛，适当的调剂有利于提高工作效率。	別生氣嘛，適當的調劑有助於提高工作效率。	そう怒らないで下さい。\n適度な息抜きは仕事の効率化に繋がるのです。	화내지 마시죠. 적당한 조절은 업무 효율을 높여주니까요.	Don't get mad. Relaxation boosts productivity.	
+41	基尔斯	……	……	…………	……	…	
+42	N/A	莉琉环视四周，似乎并没有人察觉到她刚才的动摇。	莉琉環視四周，似乎沒有人察覺到她剛才的動搖。	マリルは周囲を観察する。\nどうやら彼女の動揺は察知されていないようだ。	주위를 둘러보니，아무도 그녀의 동요를 느끼지 못한 것 같다.	Mariru looks around. No one seems to notice her hesitation.	
+43	莉琉	总之，目前得到的基本情报如汇报所述。\n事件正在进一步调查中。	總之，目前所有的基本情報就如同方才彙報。 \n事件正在進一步調查中。	とにかく、現時点で取得している基本情報は\n報告書の通り。\n事件は今も調査中となります。	어쨌든 현재 얻은 기본 정보는 보고 내용과 같습니다.\n사건은 현재 추가 조사 중이고요.	That’s all I have, sir. \nThe investigation is ongoing.	
+44	莉琉	没有问题的话，我要去现场了。	沒有問題的話，我要去現場了。	問題がなければ、これにて私は現場へ向かわせて\n頂きますが。	질문 없으시면 저는 현장으로 가보겠습니다. 	If you have no more questions, I'd better go to the flux site now.	
+45	N/A	未等莉琉准备离开，左手边传来一道略显轻佻的声音。	未等莉琉準備離開，左手邊就傳來一道略顯輕佻的聲音。	マリルが離れようとした直後、\n左側からやや軽薄な声が話し始める。	마리루가 떠나려고 하자 왼쪽에서 경박한 목소리가 들린다.	When Mariru is about to leave, a giddy voice comes from her left.	
+46	#C	……听说，你的手下带了两名高中生回SID进行审查？	……聽說，妳的手下帶了兩名高中生回SID進行審查？	……聞いたところによると、\n君の部下が高校生2人を連行したそうですが。	……듣자하니，당신의 부하가 고교생 2명을 SID로 데려가 취조했다던데?	… I’ve been told that your men took two teenagers to SID for inquiry. Is that right?	
+47	莉琉	……\n（又是这个讨厌的家伙）	……\n（嘖，又是這個討厭的傢伙。 ）	………………\n（またこの嫌なやつ）	……\n（또 그 성가신 놈인가）	… \n(The annoying one again)	
+48	#C	是有什么特别之处吗？莉琉阁下……不，博士。	她們有什麼特別之處嗎？ 莉琉閣下……不，莉琉博士。	何か特別な事でもありましたかね？マリル閣下…\n……いや、博士。	뭐 특별한 점이 있던가요？마리루 각하……\n아니，박사.	Is there anything special with them? Officer… Oops, sorry—Dr. Mariru.	
+49	莉琉	……没什么，刚才已经查清，只是两只好奇心太过旺盛，翻进封锁区的小猫咪。	……沒什麼，剛才已經查清楚，她們只是兩隻好奇心太旺盛，翻進封鎖區的小貓咪。	……何でもありませんよ。\n\n単に封鎖地域に迷い込んだ、好奇心旺盛な2匹の子猫でした。	……아니요. 그저 봉쇄 구역에 들어온 호기심 많은 새끼 고양이 두 마리일 뿐입니다. 	… Nothing special. I just got confirmation that these two kitties broke into the blocked area out of curiosity.	
+50	莉琉	之后我就会安排人送她们回家。	之後我就會安排人送她們回家。	後ほど家まで送るように手配します。	이미 집으로 돌려보냈습니다. 	I'll have my men see them home.	
+51	#C	是吗，那就好。	是嗎，那就好。	そうですか、ならよかったです。	그래요? 그렇다면 다행이군요.	Is that so? All right.	
+52	#C	在这种敏感的时期，万一被其他国家当做什么奇怪的存在就不好了……	在這種敏感時期，萬一被其他國家當做什麼奇怪的存在，那就不好了……	このような敏感な時期に、我が国が、\n得体の知れない存在だと他国から扱われるのは\n万が一にも大変困りますからね……	이런 민감한 시기에 다른 나라에게 이상한 존재라고 여겨진다면 곤란해질 겁니다……	At such a sensitive timing, I hope they won't be seen by other countries as something strange…	
+53	N/A	这句话引起了众人喧哗。	這句話引起了眾人喧嘩。	この言葉で、その場の出席者が騒ぎ始めた。	그 말에 현장이 떠들썩해진다.	These words immediately arouse discussions among others.	
+54	N/A	……这家伙什么意思？	……這傢伙什麼意思？	……どういう意図だ、こいつ？	……무슨 뜻이지?	… What does that mean?	
+55	#C	说了不够严谨的话，有人会觉得不习惯吧。\n真是抱歉了，就当作是没有听过吧。	唉啊，說了不夠嚴謹的話，有人會覺得不習慣吧。 \n真是抱歉了，大家就當作沒有聽到吧。	ああ、これはちょっと不謹慎でした、\n場を乱してしまいましたね。\nすみません、聞かなかった事にして頂けると\n有り難いです。	신중하지 못한 발언에 어색하신 모양입니다.\n죄송합니다. 못 들은 걸로 해주시죠.	My casual remark may make you uncomfortable. \nSorry for that. Just ignore me.	
+56	莉琉	……\n（令人讨厌的家伙。）	……\n（真的是令人討厭的傢伙。 ）	………………\n（本当に嫌なやつだ）	……\n（재수 없는 자식）	… \n(So annoying.)	
+57	布莱特	好了，无论如何这次事件已经引起了其他学院都市的注意。	好了，無論如何這次事件已經引起了其他學園都市的注意。	ふむ……どうやっても今回の事件は、\n他の学園都市の注意を引いてしまった。	어찌 됐든 이번 사건으로 다른 학원도시의 이목이 집중되었습니다.	Anyway, the crisis has already attracted attention from other Academy Cities.	
+58	布莱特	接下来的机密调查和公共信息引导，也要拜托你了。	接下來的機密調查和公開資訊的引導，也要拜託妳了。	以後の秘密調査および公共情報統制は君に頼む。	앞으로의 기밀 조사와 정보 공유도 잘 부탁 드립니다.	We count on you for the secret investigations and public opinion shaping.	
+59	莉琉	那是当然。	這是當然！	もちろんです。	물론이죠.	Will do.	

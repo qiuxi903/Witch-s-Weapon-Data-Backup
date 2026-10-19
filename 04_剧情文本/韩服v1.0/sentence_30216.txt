@@ -1,0 +1,266 @@
+﻿1	N/A	朦胧的灯光下，索娅面颊微红，水珠从她褪去丝袜的纤细小腿缓缓滑落，浸湿了地面。	朦朧的燈光下，索婭臉頰微紅，水珠從她褪去絲襪的纖細小腿上緩緩滑落，浸濕了地面。		흐릿한 불빛 아래 소야의 붉은 양볼, 물방울이 가는 다리를 따라 천천히 땅으로 떨어진다.	Sonya’s face is flushed under the dim yellow light. The water droplets course down her slim, bare calves, leaving a puddle on the ground.	
+2	N/A	她像一只毫无防备的小动物坐在喷泉的石台上，眼神迷离的看着我──	她像一隻毫無防備的小動物坐在噴泉邊的石階上，眼神迷茫地望著我──		무방비한 작은 동물처럼 분수대 위에 앉아 흐린 눈빛으로 날 바라보고 있다──	She sits perched on the fountain’s marble edge like a helpless animal. She gazes at me, eyes innocent yet so mesmerizing—	
+3	N/A	我的心脏猛烈的抽动了几下，感到脸上一阵发烫。	我的心臟猛烈地跳了幾下，臉似乎開始發燙。		심장이 격렬하게 뛰고, 얼굴이 달아오르는 느낌이다. 	My heart leaps, and I can feel my face heating up.	
+4	小怜	索娅……	索婭……		소야……	Sonya...	
+5	N/A	看着这一幕，我刚听到她遭遇时那股热血上涌的冲动瞬间烟消云散，只觉得大脑一片空白。	看著這一幕，剛剛聽到她遭遇時那股熱血奔騰的衝動瞬間煙消雲散，大腦一片空白。		방금 그녀의 사연을 들을 때 끓어올랐던 충동이 순식간에 사라지고 뇌가 하얘졌다.	I had been horrified when I heard her backstory, wanting nothing more to find her and comfort her immediately. But now—my brain is completely blank.	
+6	N/A	就像气势汹汹的冲到对方面前告白，结果在关键时刻卡壳的笨蛋──	就像氣勢洶洶地衝到對方面前告白，結果在關鍵時刻卡彈的笨蛋──		기세등등하게 상대에게 고백하러 다가갔다가 결국 중요한 순간에 바보가 된 것 같다──	Kind of like those bumbling idiots you see in manga—striding to their crush to confess in a burst of fake bravado, then forgetting everything they had rehearsed the second they see the crush.	
+7	小怜	（啊啊啊刚才的气势去哪了，快给我回来啊！！）	（啊啊啊剛才的氣勢到哪去了，快給我回來啊！ ！）		（아아아아 방금 그 기세는 어디갔냐! 빨리 돌아와！！）	(Brain, do something! Geez!)	
+8	索娅	呐……	吶……		저기……	Hey...	
+9	N/A	索娅舔了舔嘴唇，露出一个淡淡的微笑。	索婭舔了舔嘴唇，露出一個淡淡的微笑。		소야가 입술을 핥고 덤덤한 미소를 짓는다.	Sonya licks her lips and smiles softly.	
+10	索娅	你现在的气息……很有趣呢~	妳現在的氣息……很有趣呢～		네 지금 기운……엄청 재밌어~	You smell... interesting...	
+11	N/A	她顺着石台向我爬了过来，右侧脚踝上的放电脚环隐约反射着蜂窝形的反光纹路。	她順著石階爬向我，右側腳踝上的放電腳環隱約反射著蜂窩形的反光紋路。		그녀가 분수대를 따라 나에게 다가온다. 오른쪽 다리 위 방전 발찌가 벌집 무늬 광선을 반사하고 있다.	She crawls over in my direction on the marble step. I can see the beehive pattern on her anklet reflecting off the light.	
+12	N/A	那是战研部用异质物装甲材料制作的脚环，虽然只有薄薄一层，但坚固程度非比寻常。	那是戰研部用異質物裝甲材料製作的腳環，雖然只有薄薄一層，堅固程度卻非比尋常。		저건 전술 연구부가 이물질 장갑 재료로 제작한 팔찌다. 얇긴 하지만 아주 단단하다.	It’s an anklet manufactured by our SRD with Substance H armor materials. Looks flimsy, but is actually extremely sturdy.	
+13	索娅	果然……	果然……		역시……	Ah...	
+14	N/A	索娅抓住我的手，鼻子凑到我的腹部深深的吸了一口，然后陶醉的说道──	索婭抓住我的手，鼻子湊近我的腹部深深地吸了一口，一臉陶醉地說──		소야가 나의 손을 붙잡는다. 코를 가까이 대고 숨을 들이마쉰 후 취한 듯 얘기한다──	Sonya grabs my hand, presses her nose close to my belly, and inhales greedily.	
+15	索娅	小怜是最棒的啊！！	小憐是最棒的！ ！		렌이 최고야！！	Ren is the best indeed!	
+16	小怜	什、什么啊？	什、什麼啊？		뭐, 뭐야？	W-what?	
+17	N/A	我连忙挣开后退了几步，奇怪才这么一会功夫她是怎么了。	我連忙甩開她的手，後退了幾步，才過了一下子，這傢伙是在搞什麼啊！		나는 황급히 뒤로 몇걸음 물러났다. 짧은 시간 동안 무슨 일이 있었던 걸까.	I take a few steps back, confused. What happened to her the minutes I was gone?	
+18	N/A	索娅懒洋洋的坐起来，在石台上理了理头发。	索婭懶洋洋地坐了起來，在石階上整理頭髮。		소야가 맥이 풀린 것처럼 분수대 위에 앉아 머리카락을 만진다. 	Sonya sits up lazily on the marble step and smooths her hair.	
+19	索娅	艾尔加纳告诉你了吧……	艾爾加納告訴妳了吧？		엘가나가 다 알려줬구나……?	Elgana told you, huh?	
+20	小怜	你的身体……到底怎么回事？	嗯，妳的身體……到底怎麼了？		네 몸……도대체 어떻게 된 거야？	Your body... just... what happened to you?	
+21	索娅	本来不想让你知道的──	本來不想讓妳知道的──		너에겐 알려주고 싶지 않았는데──	I didn’t want you to know.	
+22	N/A	索娅轻轻扭过头，说话的声音很小。	索婭輕輕別過頭，小聲說著。		소야가 천천히 고개를 돌리고 작은 목소리로 얘기한다.	Sonya turns away, voice diminishing in volume.	
+23	索娅	所有听说那个秘密的人，都变得很冷淡……	所有知道那個祕密的人，都變得很冷淡……		그 비밀을 들은 사람들은 모두 차갑게 변해버렸거든……	Everyone who knows my secret ends up distancing themselves from me...	
+24	N/A	我想起了刚才艾尔加纳对索娅的态度。	我想起了剛才艾爾加納對索婭的態度。		방금 엘가나가 소야를 대하던 태도가 생각났다.	I can’t help recalling the way Elgana spoke to Sonya a while ago.	
+25	N/A	可能因为知道索娅活不久，便不敢再对她倾注感情了吧……	可能因為知道索婭活不久，所以不敢對她投入太多感情吧……		소야가 얼마 살지 못하는 걸 알고 감정을 주고 싶지 않은 걸까……	She knows that Sonya won’t live long, and probably thought it’d be better to stay away. It’d hurt less when the inevitable happens, right?	
+26	N/A	也可能对教廷的人而言，无法进入圣所的她还有某种不祥的意味。	對教廷而言，無法進入聖所的她可能還帶著某種不祥的意味吧。		어쩌면 교황청의 사람들은 성소를 들어오지 못하는 그녀가 불길하다고 생각하는 걸까	Besides, Elgana is religious. The young girl, forbidden to enter holy buildings, might seem like a bad omen to her.	
+27	N/A	那张拥有最高豁免权的『审判骑士』资格，或许亦是对她所下达的“驱逐令”……	那張擁有最高豁免權的「審判騎士」資格證書，或許也是對她的「驅逐令」……		최고 면첵권 『심판 기사』 자격 역시 그녀에게 내려진 “추방령”일지도 모른다……	The ID card representing her Judgment Knight title, instead of granting her the highest immunity, actually acts as a sort of exiling order...	
+28	索娅	不过无所谓啦，我知道你不会像他们一样……	不過無所謂啦，我知道妳跟他們不一樣……		그치만 상관없어. 네가 그들과 다르다는 걸 알고 있어……	But it’s fine. I know you won’t be like them...	
+29	索娅	对吗？	對不對？		그렇지?	Right?	
+30	N/A	索娅看着我小心翼翼的问道，我的嘴唇微微颤动了一下，走上前去摸了摸她的头。	索婭看著我小心翼翼地問，我的嘴唇微微抖了一下，走過去摸了摸她的頭。		소야가 날 보며 조심스럽게 묻는다. 나는 앞으로 걸어가 그녀의 머리를 쓰다듬었다.	Sonya asks, cautiously, eyes trained on me. My lips tremble a little, and I move close to pat her head.	
+31	N/A	索娅微笑着闭上眼，在我的掌心蹭了蹭。	索婭微笑著閉上眼睛，腦袋在我的掌心蹭了蹭。		소야가 웃으며 눈을 감고 나의 손바닥 안에 들어온다.	Sonya smiles, closes her eyes, and nudges into my palm.	
+32	N/A	随后她张开双臂舒展了一下身体，望着夜幕下教堂顶部的壁画。	隨後她張開雙臂伸展了一下身體，望著夜幕下教堂頂部的壁畫。		이어서 두 팔을 벌려 기지개를 켜고 밤 하늘 아래 교회 벽화를 바라본다.	She then stretches and looks up at the mural near the top of the church, ever so glorious under the night sky.	
+33	N/A@索娅	我大概被那家伙讨厌了吧……	我大概被那傢伙討厭了吧……		그 녀석에게 미움 받고 있는 거겠지……	He probably hates me now...	
+34	N/A@索娅	虽然他也从没喜欢过我的样子。	雖然他好像也沒喜歡過我。		날 한 번도 좋아한 적 없긴 하지만.	Though I guess he never loved me anyway.	
+35	N/A	我刚想问“他”是谁，索娅就一脸坏笑的看向了我的裙子。	我才準備要問「他」是誰，索婭就一臉賊相地看著我的裙子。		“그”가 누군지 물어보려고 할 때 소야가 음흉한 얼굴로 내 치마를 쳐다본다. 	I’m about to ask her who “he” is, when Sonya glances at my dress and smirks.	
+36	索娅	──话说，小怜也有很多秘密吧~	──話說，小憐也有很多祕密吧～		──그나저나 렌도 비밀이 참 많지~	Well, you have a lot of secrets of your own, don’t you?	
+37	小怜	诶？	什麼？		에엣?	Eh?	
+38	N/A	我刚感到话头不妙，就被她一把抱住。	我覺得話題開始不妙，還來不及跑就被她一把抱住。		심상치 않다고 느꼈을 땐 이미 그녀에게 안긴 뒤였다.	She wraps her arms around me before I can react.	
+39	索娅	知道刚才为什么我没有趁机问莉琉吗？	知道為什麼我剛才沒有趁機問莉琉嗎？		내가 아까 왜 마리루에게 안 물어봤는지 알아?	You know why I didn’t ask Mariru about your identity a while ago?	
+40	索娅	因为最有趣的谜题，当然要留给自己探索啦──	因為，最有趣的謎題，當然要留給自己探索啦──		왜냐하면 가장 재밌는 수수께끼는 스스로 알아내야 하는 법이거든──	It was because I wanna find out the answer to this fascinating puzzle myself!	
+41	小怜	喂！！	喂！ ！		어이！！	Hey!	
+42	小怜	那、那里……	那、那裡……		저, 저기……	D-don’t—	
+43	N/A	忽然我的手机响起来，是贝阿特丽切的来电，索娅还是不情愿松手。	我的手機突然響起，是貝阿特麗切的來電，索婭還是不想鬆手。		갑자기 휴대폰이 울린다. 베아트리체의 전화다. 소야가 아쉬운 듯 손을 놓는다.	My phone rings all of a sudden. Beatrice. Sonya is still wrapped around me even as I take the call.	
+44	N/A	我一手接电话，一手糊在摸来摸去的索娅脸上。	我一手接起電話，一手撥開索婭的臉，想阻止她的毛手毛腳。		나는 전화를 받으며 한쪽 팔로 소야의 얼굴을 밀어냈다.	I have to hold the phone with one hand and shove at Sonya with another in a futile attempt to keep her hands off me. My palm lands on her nose and mouth.	
+45	N/A@索娅	唔──呜呜──！	唔──嗚嗚──！		음──으흑──！	Mmmff! Mmff!	
+46	N/A@贝阿特丽切	小怜吗？我在医院。	小憐嗎？ 我在醫院。		렌? 나 병원이야. 	Ren? I’m at the hospital.	
+47	小怜	贝阿特丽切！约翰他怎么样了？	貝阿特麗切！ 約翰他怎麼樣了？		베아트리체! 요한은 어떻게 됐어？	Beatrice! How’s John?	
+48	N/A	索娅跳起来一把抢过我的手机，打开了免提。	索婭跳起來一把搶走我的手機，打開擴音。		소야가 점프해서 휴대폰을 가져간 뒤 스피커를 켠다.	Sonya leaps up and snatches my phone away, turning it on broadcast.	
+49	N/A@贝阿特丽切	他正在输液，已经脱离危险……刚打了止疼药睡过去了。	他還在打點滴，但是已經脫離危險……剛剛打了止痛藥，已經睡著了。		지금 수액을 맞고 있어. 위기는 넘겼어……방금 진통제를 먹고 잠들었어. 	They have him hooked to a machine... need to get some fluids into him. His life is not in danger. He’s asleep right now, they injected him with some painkillers.	
+50	索娅	……他能感到疼了？	……他能感覺到痛了？		……아픔을 느낄 수 있대?	... Oh, so he does feel pain?	
+51	N/A@贝阿特丽切	是，据护士讲，他已经是今晚第四个短期失去痛觉的病例了──	是的，護士說，他已經是今晚第四個暫時失去痛覺的病例了──		응. 간호사 말로는 오늘 밤 병원을 찾은 환자 중 통각을 상실한 네번째 환자라고 했어──	Yeah. The nurse says it was a temporary loss of the ability to sense pain. She knows because he’s the fourth patient tonight that has come in with such a situation.	
+52	N/A@贝阿特丽切	一个中年男人在电器街暴动时为了能看得更清楚，光着脚踩在灼热的汽车引擎盖上──	有一個中年男子在電器街暴動時，為了看得更清楚，光腳踩在滾燙的汽車引擎蓋上──		중년 남성이 전자 상가에서 폭동이 일어났을 때 뜨거운 자동차 엔진 뚜껑 위에 올라갔어──	There was a middle-aged man who stepped barefoot on the searing hot engine cover of a car during a riot on Electronics Street for a better view.	
+53	N/A@贝阿特丽切	周围人闻到了奇怪的味道才发现，只是不知为什么那家伙的头发也被烧焦了。	旁邊的人聞到奇怪的味道才發現，只是不知道為什麼那傢伙連頭髮也燒焦了。		주위 사람들이 이상한 냄새를 맡고 나서야 발견됐대. 왜 그 남자의 머리카락이 타버린 건지 모르겠지만.	The people around him smelled something burning and he only realized then. What was weird was that his hair was burnt too...	
+54	小怜	（不会是被伊露卡电过的那位吧……）	（呃，不會是被伊露卡電過的那位吧……）		（이루카한테 감전 당한 그 남자인가……）	(Maybe it’s the same guy whom Elluka shocked?)	
+55	N/A@贝阿特丽切	另一个是纽摩利达斯的女记者，她冲到游行队伍前面却按不动快门，才发现自己的手指骨折了。	另一個是紐摩利達斯的女記者，她衝到遊行隊伍前面卻按不了快門，才發現自己手指骨折了。		또 다른 사람은 뉴 모리다스의 여기자야. 시위 행렬을 뚫고 셔터를 누르려고 할 때 손가락이 골절된 걸 알았대.	Another patient was a reporter from Newmoridas. She shoved her way to the front of the protestors only to find that she couldn’t press the shutter. Turned out she broke a finger along the way.	
+56	N/A@贝阿特丽切	还有位华云宫城的维修工，作业时触电引发了内出血，却和同事在电话里兴奋的聊了半小时……	還有一位是華雲宮城的維修工人，工作時觸電引發內出血，卻跟同事興奮地聊了半小時的電話……		그리고, 화운궁의 수리공, 감전으로 내부 출혈이 일어났는데 동료와 통화하다……	There was a repairman from the Hovering Palace too. When he was working, there was an electric shock and he began bleeding internally. Yet he had no idea! Continued chatting with his colleague on the phone for half an hour...	
+57	N/A@贝阿特丽切	直到他的一只眼睛因充血看不到才发现异常。	直到他一隻眼睛因為充血而看不到才發現異常。		한쪽 눈이 충혈로 안 보이자 증상을 발견했대.	He only realized something was off when he could no longer see in one of his eyes due to it being bloodshot.	
+58	索娅	……	……		……	...	
+59	N/A	贝阿特丽切描述的状况让我有些背脊发凉。	貝阿特麗切描述的狀況讓我背後一陣涼。		베아트리체의 말에 등골이 서늘해진다.	I feel a chill run down my spine.	
+60	N/A	四个年龄、性别、国籍、工作毫无共性的人，居然表现出了相同的症状……	四個年齡、性別、國籍、工作毫無共通性的人，居然出現相同的症狀……		연령, 성별, 국적, 직업, 전혀 공통점이 없는 네 사람이 같은 증상이 일어났다……	Four completely unconnected people. Different ages, genders, nationalities, careers. Yet they show signs of the same—and very uncommon—disorder.	
+61	小怜	莉琉说今晚的暴乱或许跟异质物有关……	莉琉說，今晚的暴動也許和異質物有關……		마리루가 오늘 밤 폭동이 이물질과 연관있을지도 모른다고 했었어……	Mariru said that the riots tonight might have something to do with Substance H...	
+62	N/A@贝阿特丽切	确实可能。	確實有可能。		확실히 가능성이 있어.	Could be.	
+63	N/A@贝阿特丽切	爱衣已经完成了保安军监控信息的接入，你的手机也有临时权限吧？	愛衣已經成功入侵了保安警察的監視資訊，妳的手機也有臨時權限吧？		아이가 보안군 감시 정보 접근에 성공했어. 네 휴대폰도 임시 권한이 있을 거야.	Aya’s already hacked into the surveillance data of the security soldiers. You have temporary access on your phone too, right?	
+64	N/A@贝阿特丽切	我在记录中回溯这几个人的历史路径时，发现他们今天下午都曾去过七个暴动区域中的至少一个。	我在回溯這幾個人的歷史路徑時，發現他們今天下午都至少去過一個暴動區。		기록 중 그들의 경로를 확인한 결과 모두 오늘 오후 7개 폭동 구역에 있었어.	When retracing the activity records of these four people, we found that they’ve all been to at least one of the seven rioting areas this afternoon.	
+65	N/A@贝阿特丽切	而那个维修工，还是江森重工的安全巡查主管……	那個維修工人，還是江森重工業的安全主管……		그 수리공, 존슨 중공업의 안전 순찰 책임자야……	That repairman was actually the safety inspection head of Johnson Heavy Industries!	
+66	N/A@贝阿特丽切	我发现在今晚6点多，他曾与一个穿风衣的男人在电器街附近的路口交谈了5分钟。	他在今晚6點多曾經和一個穿風衣的男人在電器街附近的路口交談了5分鐘。		오늘 저녁 6시쯤 그가 재킷을 입은 남자와 전자 상가 근처 교차로에서 5분간 얘기한 걸 발견했어.	He spoke to a man in a windbreaker for five minutes at around six tonight, on the crossroads near Electronics Street.	
+67	N/A@贝阿特丽切	那人的行动路线有意避开了所有监控区域，却还是在一条小路转身时被拍到了脸──	風衣男的行經路線刻意避開了所有監視器，卻還是在一條小路轉身時被拍到了臉──		그 남자의 행동 노선이 모든 감시 구역을 피했어. 그러다 한 골목에서 얼굴이 찍혔는데──	That man seemed to have deliberately avoided all areas with surveillance cameras. But we still got his face when he passed by an alley...	
+68	N/A	贝阿特丽切放慢了语速，一字一句的说道。	貝阿特麗切放慢了說話的速度，一字一句說。		베아트리체가 말 속도를 줄이고 한자한자씩 천천히 얘기한다.	Beatrice begins to speak slower, placing emphasis on every word.	
+69	N/A@贝阿特丽切	就是那次在天空酒店突袭我们的男人。	他就是那次在天空酒店突襲我們的男人。		지난번 스카이 호텔에서 우리를 습격했던 남자야.	It’s the man who attacked us at Sky Hotel.	
+70	N/A	同时我收到了她分享的监控画面。	同時，我也收到了她分享的監視畫面。		그녀가 공유한 감시 영상을 수신했다.	She sends the screenshot she got to me.	
+71	N/A@小怜	雅各？！	雅各？ ！		야곱？！	Jacob?	
+72	N/A	雅各·施密特，第三学园都市马萨达堡派驻联合议会的武官。	雅各·施密特，第三學園都市馬薩達堡派駐聯合議會的武官。		야곱 슈미트, 제3학원도시 마사다 성이 연합의회에 파견한 무관이다. 	Jacob Schmidt... weaponry specialist in the United Congress, representative of Masada Ford, the Third Academy City.	
+73	N/A	那个将伊露卡做为武器和工具使用的管理员──	那個把伊露卡當作武器和工具的混蛋管理員──		이루카를 무기와 도구로 만들어서 사용하던 관리자──	That guy who treated Elluka as a weapon and a mere tool...	
+74	N/A	后来他在天空酒店率领一群人袭击我、贝阿特丽切、安妮和拉斐尔，还使用了异质物武器。	他率領一群人在天空酒店襲擊我、貝阿特麗切、安妮和拉斐爾，還使用了異質物武器。		이후 스카이 호텔에서 무리를 이끌고 나, 베아트리체, 앤과 라파엘을 습격하고 이물질 무기를 사용했다.	Afterwards, he led a group of lackeys to attack me, Beatrice, Annie and Raphilia in Sky Hotel. Even used Substance H weapons.	
+75	N/A	安妮被他们的一种放电类武器打成重伤，还好当时拉斐尔在场……	安妮被他們的放電類武器打成重傷，還好當時拉斐爾在場……		앤이 그들의 방전류 무기에 중상을 입었다. 다행히도 라파엘이 현장에 있었다……	Annie was heavily injured by one of their electric weapons. Luckily Raphilia was there...	
+76	N/A	莉琉也查不到这个人的资料，只是猜测他隶属于第三学园都市的情报机构摩诺拉。	莉琉也查不到這個人的資料，只能猜測他隷屬於第三學園都市的情報機構──摩諾拉。		마리루도 그 자의 자료를 찾을 수 없었다. 제3학원도시의 정보기관 모노라 출신이라는 것만 알고 있다.	Not even Mariru was able to find data on that man. We could only deduce that he worked under Monola, intelligence agency of the Third Academy City.	
+77	小怜	等等，江森重工……是巡查江森变电所吗？	等等，江森重工業……是江森變電所嗎？		잠깐, 존슨 중공업이면……존슨 변압소를 순찰하는 거야?	Wait, Johnson Heavy Industries... you mean Johnson Substation?	
+78	N/A	我和安妮最初就是在江森变电所遇到伊露卡和雅各，要不是莉琉出手，我们那次不可能全身而退。	我和安妮最初就是在江森變電所遇到伊露卡和雅各。 要不是莉琉出手，我們那次不可能全身而退。		나와 앤이 존슨 변압소에서 이루카와 야곱을 만났다. 마리루가 나서지 않았다면 빠져나갈 수 없었을 것이다.	That was where Annie and I first met Elluka and Igor. We wouldn’t have made it out alive without Mariru’s timely aid.	
+79	N/A@贝阿特丽切	我稍稍审问了一下那个维修工，但他只知道雅各是总公司认可的合作代表。	我稍稍審問了一下那個維修工人，但他只知道雅各是總公司授權的合作代表。		내가 그 수리공을 살짝 심문해봤지만 그는 야곱이 본사의 협력 대표라는 것 밖에 몰라.	I interrogated the repairman a bit, but all he knew was that Igor was a representative of one of their company’s collaborators.	
+80	小怜	他们在和雅各合作什么……	合作？ 他們跟雅各是要合作什麼……		그들이 야곱과 뭘 협력하는 걸까……	Why would Johnson collaborate with Igor...?	
+81	N/A@贝阿特丽切	因为联合议会在两周前才决定，要赶在和平论坛之前完成监控系统的全面升级──	因為聯合議會兩週前才決定，要趕在和平論壇之前完成監視系統的全面升級──		연합의회가 2주 전 평화 포럼 전 제어 시스템의 전면 업그레이드를 마치기로 결정했어──	The United Congress decided only two weeks ago to fully upgrade the surveillance system in the city before the Forum of Peace began.	
+82	N/A@贝阿特丽切	虽然摄像机已经到位，但市政照明是独立供电，绝大多数的街区都没时间完成线路扩容。	雖然攝影機已經準備好了，但市政照明是獨立供電，所以大多數的街道都還來不及完成線路擴充。		카메라는 모두 설치했지만 시정 조명이 독자 전력 공급이라 대다수 거리 회로를 확장할 시간이 없었어.	The cameras were mostly in position already, but the power supply for the lighting was independently provided and there wasn’t enough time to expand the circuit coverage to most blocks.	
+83	N/A@贝阿特丽切	所以只能用合作方的电池作为临时供电方案。	所以只能用合作廠商的電池作為臨時供電方案。		그래서 협력 업체의 전지를 이용해 임시 전력 공급할 수 밖에 없어.	So they had to ask a collaborator to provide batteries as a temporary measure.	
+84	小怜	电池？	電池？		전지？	Batteries?	
+85	N/A@贝阿特丽切	拇指大小的透明容器，两头是电极，里面有发光的粘稠液体，据说能维持监控设备20天的运转。	拇指大小的透明容器，兩端是電極，裡面有發光的粘稠液體，據說能提供監視系統20天的電力。		엄지손가락 크기 투명한 용기야. 위아래는 전극, 안은 빛이 나는 액체, 20일간 설비를 운행할 수 있다고 해.	You know, a transparent vessel the size of a thumb. Electrodes on both ends. Glowing sticky liquid on the inside. Heard it could keep the surveillance devices running for twenty days.	
+86	N/A@贝阿特丽切	我已经让人把样本送到总部去检测了。	我已經請人把樣本送到總部進行檢測了。		이미 샘플을 본부에 보내서 검측하고 있어.	I already sent a sample to the headquarters.	
+87	小怜	听起来像伊露卡一开始当做食物给我的东西……	聽起來好像伊露卡一開始想請我吃的東西……		듣고 보니 이루카가 처음에 나에게 먹으라고 줬던 물건 같은데……	Sounds like the “food” Elluka offered me when we first met...	
+88	N/A	作为我给她巧克力的回礼，看起来完全不能吃嘛！	說是當作我給她巧克力的回禮，但那東西看起來完全不能吃啊！		이루카에게 초콜릿을 준 보답으로 받았었다. 딱 먹을 수 없는 그것!	She wanted to thank me for the chocolate... guess that wasn’t supposed to be edible!	
+89	索娅	呐呐，你们说的雅各，是不是那个被你狠狠教训了一顿的家伙？	吶吶，妳們說的雅各，是不是那個被妳狠狠地教訓了一頓的傢伙？		저기, 너희들이 말하는 그 아곱이 너한테 심하게 혼났다던 그 녀석이야?	Hey, that Igor you're talking about... is it that guy whom you totally owned?	
+90	N/A	索娅像好奇宝宝一样迫不及待的问道。	索婭像好奇寶寶一樣迫不及待地問道。		소야가 호기심 많은 아기처럼 급하게 질문한다. 	Sonya asks, eyes wide like a curious child.	
+91	N/A@贝阿特丽切	小怜啊……	小憐啊……		렌……	Ren...	
+92	N/A@贝阿特丽切	虽然你们俩关系很“亲密”，但你透露的情报是不是有点多了？	雖然妳們倆的關係很「親密」，但妳透露的情報是不是有點太多了？		너희 두사람의 관계가 “친밀”한 건 알지만 너무 많은 정보를 알려준 거 아닐까?	You two are pretty "close", but seems that you've leaked a bit too much to her, haven't you?	
+93	N/A	谁和她很亲密了！！	誰和她很親密了！ ！		누가 누구랑 친밀하다는 거야！！	No way! We're not "close"!	
+94	N/A@贝阿特丽切	你不怕莉琉又罚你……	妳不怕莉琉又罰妳……		마리루에게 혼나는게 무섭지 않구나……	Aren't you worried that Mariru would punish you?	
+95	小怜	我才没──	我才沒──		아니거든──	I didn't leak—	
+96	N/A@小怜	呜……唔唔──！	嗚……唔唔──！		흑……우윽──！	Mmph... mmmm!	
+97	N/A	索娅一手高举手机，又一手糊在我的脸上。	索婭一手高舉手機，這下換她把我的臉撥開了。		소야가 휴대폰을 높이 들고 다른 한 손으로 내 얼굴을 뭉갠다.	Sonya places a hand over my face, raising the phone high in one hand.	
+98	索娅	哼哼！小怜全都告诉我了哦~！！	哼哼！ 小憐全～部～都告訴我了哦！ ！		흐응！렌이 나한테 전부 알려줬어~！！	Ren told me everything, actually!	
+99	索娅	你真的是但丁笔下的那个大美人？	妳真的是但丁筆下那個大美人嗎？		네가 정말 단테가 쓴 그 미녀야? 	Are you really the same beauty in Dante's masterpiece?	
+100	N/A	听到电话那头打闹的声音，贝阿特丽切噗嗤一下笑了出来。	聽到電話那頭打鬧的聲音，貝阿特麗切噗嗤一下笑了出來。		수화기 너머 떠들썩한 소리를 들은 베아트리체가 풉하고 웃는다.	Hearing us play-fighting, Beatrice bursts out giggling.	
+101	贝阿特丽切	连这种事都知道的话，想必你已经有莉琉的授权了吧。	連這種事都知道的話，想必妳已經有莉琉的授權了吧。		그런 것까지 알고 있는 걸 보니 분명 마리루가 허락했겠지?	You know about this, too? Guess Mariru's permitted Ren to tell you then.	
+102	N/A@索娅	所以呢所以呢？	所以呢所以呢？		그래서, 그래서~?	So? Are you?	
+103	N/A	索娅摇着尾巴期待的追问。	索婭搖著尾巴追問。		소야가 꼬리를 흔들며 묻는다.	Sonya persists, like a big dog wagging her tail.	
+104	贝阿特丽切	恩，确实我就是你所说的贝阿特丽切，我的父亲是福尔科·波尔蒂娜。	是的，我就是妳所說的貝阿特麗切，我的父親是福爾科·波爾蒂娜。		응. 네가 말한 베아트리체가 나 맞아. 부친은 폴크 포티나.	Yes. I am indeed the Beatrice you speak of. My father was Folco Portinari.	
+105	贝阿特丽切	但其实我只见过但丁一次，是在五朔节的家庭聚会上，当时我比伊露卡的年纪还小。	但其實我只見過但丁一次，是在五朔節的家庭聚會上，當時我比伊露卡還小。		사실 단테는 한 번밖에 보지 못했어. 벨테인 축제에서. 당시 내 나이는 이루카보다 어렸어.	I've only seen Dante once, actually. It was on a family gathering on May Day. I was really young then, though. Even younger than Elluka.	
+106	贝阿特丽切	后来我才知道，他写《神曲》的时候，我已经喝下那杯毒酒十几年了──	後來我才知道，他寫《神曲》的時候，我已經喝下那杯毒酒十幾年了──		훗날 알았지. 단테가 《신곡》을 썼을 때 난 이미 독주를 마신 지 십여년이 지났다는 걸──	I found out only later that I'd drunken that glass of poison for over a dozen years when he wrote the Divine Comedy.	
+107	贝阿特丽切	所以说，很多爱情只是一厢情愿……	所以說，很多愛情只是一廂情願……		대부분의 사랑은 그저 바람일 뿐이야……	It was simply one-sided attraction on his part.	
+108	贝阿特丽切	不过呢，我很喜欢他的诗。	不過我很喜歡他的詩。		하지만 난 그의 시가 좋아.	Still, I have to admit that his works are impressive.	
+109	贝阿特丽切	敢用那样的作品揶揄教宗，还把我描写成在天堂之门等着他，并带他游历九重天的人。	敢用那樣的作品揶揄宗教，還把我描寫成在天堂之門等待他，帶他遊歷九重天的人。		그런 작품으로 종교를 조롱하고 날 천국의 문에서 그를 기다리는, 그와 구천을 떠도는 사람으로 묘사하다니.	He dared to mock the pope in his work, and even described me waiting for him at the gates of heaven and guiding him through the levels of hell.	
+110	贝阿特丽切	可能那是他的理想，同时也是一种复仇吧。	那可能就是他的理想，也是一種復仇吧。		그의 이상이자 일종의 복수겠지.	It was probably wish-fulfillment for him. Maybe also a sort of revenge.	
+111	N/A@小怜	复仇？	復仇？		복수?	Revenge?	
+112	贝阿特丽切	那是我的秘密了哦──	呵呵，那是我的祕密了哦──		그건 비밀이야──	Well, that secret is mine to keep.	
+113	N/A	贝阿特丽切抬头望着星星点的夜空。	貝阿特麗切抬頭望著繁星點點的夜空。		베아트리체가 고개를 들고 별이 빛나는 밤 하늘을 바라본다.	Beatrice gazes upward at the starry skies.	
+114	贝阿特丽切	你们知道吗……	妳們知道嗎……		그거 알아……?	Did you know...	
+115	贝阿特丽切	围绕太阳系运转的其中一颗小行星，是后人因他的作品而以我的名字所命名。	圍繞太陽系運轉的小行星群裡，有一顆是後人因為他的作品而以我的名字命名的喔。		태양계를 맴도는 소행성 중 하나는 훗날 그의 작품 때문에 내 이름으로 지어졌어.	One of the asteroids that rotate around the solar system was named after me. The discoverer was inspired by my image in Dante’s work.	
+116	贝阿特丽切	有机会的话，真想好好回应一下呢……	有機會的話，真想好好回應一下呢……		기회가 된다면 대답해주고 싶어……	If only I could write my own response to his poem...	
+117	N/A	……	……		……	...	
+118	N/A	贝阿特丽切说还要联系一下莉琉就挂断了电话。	貝阿特麗切因為還得跟莉琉聯絡，沒多久就掛斷了電話。		베아트리체가 마리루에게 연락해야 한다며 전화를 끊었다. 	Beatrice finally hangs up after saying she's going to call Mariru.	
+119	N/A	索娅顺势坐在石台上玩起了我的手机，一点也没有要还给我的意思。	索婭順勢坐在石階上玩起了我的手機，一點也沒有要還給我的意思。		소야가 분수대 위에 앉아 돌려줄 생각이 없는지 나의 휴대폰을 가지고 놀고 있다.	Sonya sits on the fountain edge and continues playing with my phone, ignoring my requests for her to return it.	
+120	索娅	嘁~还给照片设置了加密文件夹，简直不打自招。	嘖！ 照片還設了密碼，根本是此地無銀三百兩。		사진에 비밀번호를 걸어놓다니, 스스로 자백하는 꼴이잖아~	Tch... you even locked up your photo album? It's like admitting there's something incriminating inside...	
+121	小怜	总比被你乱翻好吧……	總比被妳亂翻好！		네가 뒤지는 것보다는 나을 것 같은데……	At least it's better than you going through it...	
+122	索娅	先看看监控吧，用无人机偷窥真是个好主意──	嘛～先看看監視畫面好了，用無人機偷窺真是個好主意──		우선 감시 영상을 보자. 무인기로 감시하다니 정말 좋은 아이디어야──	Anyway, let's check the surveillance footage first. Spying on people with drones really is a great idea!	
+123	N/A	快放弃你那危险的想法！	快放棄妳那危險的想法！		빨리 그 위험한 상상을 버려！	You'd better not do anything like that!	
+124	索娅	唔──	唔──		음──	Uh...	
+125	索娅	这里是……	這裡是……		여긴……	Is this...	
+126	N/A	我也凑了上去，手机上显示的是第一大道联合议会大厦前的无人机实时监控画面。	我湊了上去，手機上顯示的是第一大道聯合議會大廈前的無人機即時監視畫面。		휴대폰에 가장 먼저 보이는 것은 연합의회 빌딩 앞 무인기 실시간 화면이다.	I move closer to see the real-time surveillance footage from the drone we posted in front of the United Congress on First Avenue.	
+127	N/A	保安军在大厦前面拉起了一道森严的警戒线。	保安警察在大廈前方拉起了一道森嚴的警戒線。		보안군들이 빌딩 앞에서 엄숙한 경계선을 그리고 있다.	The security soldiers have set up a strict defense line in front of the building.	
+128	N/A	那一大排防爆盾牌的两侧，荷枪实弹的军队和躁动不安的示威人群之间似乎一触即发。	一大排防爆盾牌的兩側，荷槍實彈的軍隊和躁動不安的示威人群間的緊張氣氛一觸即發。		방폭 방패 대열 양쪽, 완전무장한 군대와 안절부절 못하는 시위대 사이에 긴장감이 흐른다.	On either side of the long row of riot shields, the tension between the armed soldiers and the antsy protesters is palpable.	
+129	N/A	人群中不时跳出几个挑头的去冲击盾墙，还有很多躲在远处的人群里朝保安军丢东西。	人群中不時冒出幾個愛挑釁的跑去衝撞盾牆，還有很多躲在遠處的人群中，對警察丟東西。		시위대 사이에서 방패에 머리를 부딪히는 사람, 멀리서 보안군을 향해 물건을 던지는 사람도 있다.	Several protesters keep trying to ram themselves into the wall of shields, while some are throwing things at the soldiers from afar.	
+130	N/A	在我们的注视下，一颗土制燃烧弹划着诡异的弧线被丢进了防线后面，立刻烧成一片。	我們還看到，一顆土製燃燒彈以詭異的弧線被拋進盾牆後方，火焰立刻燒成一片。		민간 소이탄이 이상한 곡선을 그리며 방어선 뒤로 떨어지고 불꽃이 생긴다.	This includes a crudely-made Molotov cocktail, which lands beyond the defense line, making an eerily beautiful arc in the air.	
+131	N/A	几名军警立刻提着灭火器把火扑灭，并把受伤的士兵拉到后方处理，好像已经有相当的处理经验了。	幾名軍警立刻拿起滅火器把火撲滅，並把受傷的士兵拉到後方醫療，處理手法相當熟練。		군경 몇명이 즉시 소화기로 불을 제거하고 부상당한 병사를 뒷쪽에서 처리한다. 상당히 능숙해 보인다.	Several soldiers hurry over to put out the fire with extinguishers, while the injured ones are dragged to the back to be treated. They seem to be quite experienced in dealing with things like this.	
+132	小怜	好像……很不妙的样子啊。	很不妙啊。		……상황이 좋지 않은 것 같아.	Looks like a mess over there...	
+133	N/A	要是刚才那个东西不小心丢进人群的话……	要是剛才那個東西不小心丟進人群的話……		만약 그 물건이 인파 사이로 떨어진다면……	If that thing had fallen into the protesting crowds instead...	
+134	N/A	索娅的注意力似乎并不在此，她又切换到其他几组无人机的画面，皱起了眉头。	但索婭的注意力並不在此，她又切換到其他幾組無人機的畫面，皺起了眉頭。		소야의 주의력은 다른 곳에 있는지, 다른 무인기 화면으로 전환한 후 미간을 찌푸린다.	Sonya doesn’t seem bothered by my concerns. She simply switches to another screen, displaying footage from another drone, and scowls.	
+135	N/A	接着她聚精会神的对比着各组镜头，又将那些画面的位置在大地图上做比对──	接著，她聚精會神地比對各組鏡頭，又將那些畫面的位置在大地圖上做記號──		정신을 집중해 각 그룹의 화면을 비교하다 화면의 위치를 지도 위에 놓고 비교한다──	She then begins comparing the footage from different drones and marking out the corresponding locations on a big map.	
+136	N/A	直到她在地图上将7个暴动区域拼成一个六芒星的顶点和中心点的形状。	最後，地圖上的7個暴動區域連起來成了一個六角星。		그녀가 지도 위에 7개 폭동 구역을 하나의 꼭지점과 중심지점의 형태로 맞춘다.	The seven areas where riots happened form a perfect hexagram—with six of the dots being the sharp points of the star and the remaining as the center.	
+137	索娅	该不会是……	該不會……		설마……	Is this...	
+138	小怜	发现什么了吗？	妳發現什麼了嗎？		뭔가 알아냈어?	You found something?	
+139	索娅	小怜，我得立刻去趟这里。	小憐，我得立刻趕去這裡。		렌, 당장 여기로 가야겠어.	Ren, I need to head over to this place right away.	
+140	N/A	她指着手机地图上第一大道中段的位置，神情严肃的看着我。	她指著手機地圖上第一大道中段的位置，表情嚴肅地看著我。		그녀가 지도 위 제1도로의 중심을 가리키며 진지한 얼굴로 날 바라본다.	She points at a spot in the middle section of First Avenue, face solemn.	
+141	索娅	放心，我不会冲进人群里的，你只要在我200米以内安全的地方就可以。	放心，我不會衝到人群裡，妳只要在我200公尺內找個安全的地方躲好就好。		걱정마. 인파 속으로 가진 않을 거야. 넌 나와 200미터 이내 안전한 곳에 있으면 돼.	Don’t worry, I’m not going to rush into the crowds or anything. You can do whatever you want as long as you’re not more than 650 feet away from me.	
+142	小怜	到底怎么──	到底怎麼──		도대체 어떻게──	Just what are you planning to—	
+143	索娅	啊，我先取个东西，你在这等我！	啊，我先拿個東西，妳等等！		아, 가져올 게 있어. 여기서 기다려！	Oh, I need to go back for something. Wait here for me!	
+144	N/A	没等我说完，索娅就穿上鞋跑向自己的房间。	我說都還沒說完，索婭就穿上鞋跑向自己的房間。		내 말이 끝나기도 전에 소야가 신발을 신고 자신의 방으로 달려간다.	Before I can finish my question, Sonya has put her shoes back on and sprinted off to her room.	
+145	N/A	……	……		……	...	
+146	N/A	回来时，索娅跨上了一个黑色的小包，里面装着的东西看起来很有分量。	回來時，索婭背了一個黑色的小包包，裡面裝的東西看起來很有份量。		소야가 검은색 작은 가방을 걸치고 돌아왔다. 가방 안에 뭔가 많이 들어있는 것 같다.	She reappears with a black bag slung over her shoulder. Whatever is inside seems quite cumbersome.	
+147	N/A	她不由分说拉起我的手钻进了在门口待命已久的黑色SUV。	她二話不說，拉起我的手就鑽進了在門口待命已久的黑色SUV。		그녀가 말 없이 나의 손을 잡고 입구에서 대기하고 있던 검은색 SUV에 올라탄다.	She takes my hand like it’s the most natural thing ever, and steers us towards the black SUV waiting for us at the entrance.	
+148	索娅	我们去第一大道。	我們去第一大道。		제1도로로 가주세요.	To First Avenue.	
+149	N/A@司机	可那边不是在游行……	可是那邊不是在遊行……		하지만 그쪽은 아직 시위대가……	But aren’t people protesting there?	
+150	索娅	绕开人群就可以，我来指路！	避開人群就可以，我來指路！		둘러가면 돼요. 제가 길을 알려드릴게요！	We can just go around the crowds. I’ll point the way.	
+151	N/A	还没到午夜，路面却意外的畅行无阻，身材有些发福的司机不禁感叹起来。	此時還沒午夜，交通卻意外地暢行無阻。 身材微胖的司機不禁感嘆起來。		자정도 되지 않았는데 길이 막힘없이 뚫려있다. 몸이 건강한 기사님이 계속해서 감탄한다.	It’s not even midnight yet, but the roads are surprisingly clear. The plump driver tuts.	
+152	N/A@司机	嘿，这条路平时在晚上也得堵上半天，今天还真好走，估计不想惹麻烦的都早早回家了吧。	嘿，平常這條路晚上也是塞得要死，今天還真好走，不想惹麻煩的傢伙大概都早早回家了吧。		이 길은 평소에 밤이면 반나절이나 길이 막히는데 오늘은 운이 좋네. 다들 말썽피우지 않고 집으로 간 모양이지?	Traffic is usually nuts on this road, but it’s real smooth today. Guess most people who know what’s good for themselves went home already.	
+153	N/A	抱歉，我感觉我们正在去惹麻烦的路上！	是啊，但很抱歉的是，我們正準備前往惹麻煩的地方！		죄송하지만 우리가 지금 말썽을 피우러 가는 길입니다!	I guess that means we’re the ones who don’t know what’s good for themselves!	
+154	N/A	我在车上试图联系莉琉和贝阿特丽切，但都无人接听。	我在車上試圖聯繫莉琉和貝阿特麗切，但都無人接聽。		차 안에서 베아트리체와 마리루에게 연락했지만 아무도 받지 않는다.	I attempt to contact Mariru and Beatrice on the car, but no one picks up.	
+155	N/A	只用了十多分钟，我们就抵达了第一大道中段东侧的小路上。	我們只花十多分鐘就抵達第一大道中段東側的小路上。		십분이 조금 지나서 제1도로의 동쪽 골목에 도착했다.	Within ten minutes, we arrive on a smaller road to the east of the middle section of First Avenue.	
+156	N/A	司机说他就在原地等，还提醒我们两个小姑娘夜里要注意安全。	司機說他會在原地等，還提醒我們兩個小女孩夜間要特別注意安全。		기사님이 여기서 기다릴테니 밤길 조심하라고 말씀하신다.	The driver tells us that he’ll wait there for us and even warns us “two young ladies” to be careful out there at night.	
+157	小怜	哈、哈哈……	哈、哈哈……		하, 하하……	Haha... ha...	
+158	小怜	（SID还有这种热心的大叔啊……）	（SID還有這種熱心的大叔啊……）		（SID에 이렇게 친절한 아저씨가 있었구나……）	(So innocent, well-meaning souls like this exist in the SID too, huh?)	
+159	N/A	街对面就是浩浩荡荡的游行队伍，那群人打着横幅喊着参差不齐的口号，一片嘈杂。	對面就是浩浩蕩蕩的遊行隊伍，那群人拿著橫幅喊著參差不齊的口號，一片吵雜。		길 맞은편에 위풍당당한 시위대가 알아 들을 수 없는 구호를 외치고 있다. 	Across the street, we see hordes of marchers, holding up banners and messily chanting slogans.	
+160	N/A	南北走向的第一大道上，目力所及全都是人，队伍看起来在缓缓前行，但其实永远也无法到达终点。	南北走向的第一大道上，放眼望去全都是人，隊伍看起來正在緩緩前進，但其實他們永遠也到不了終點。		남북 방향의 제1도로 위에는 사람 밖에 보이지 않는다. 천천히 전진하는 시위대가 영원히 종착점에 도착할 수 없을 것 같다.	First Avenue is filled with people, people and more people. The crowds seem to be advancing—towards a finishing point they’ll never reach.	
+161	小怜	这帮人要是能走到议会大楼，前面的一万人得被顶进海里吧……	這幫人要是能走到議會大樓，前面的一萬人應該得先疊起來塞進去吧……		이 인파가 의회 빌딩까지 걸어가려면 앞에 있는 1만명이 바다로 밀려 떨어지겠지……?	If they keep on going like this, when they reach the congress building the ten thousand people up ahead would probably be crushed...	
+162	索娅	你没发现这群人有什么异常吗？	妳沒發現這群人有什麼異常嗎？		이 사람들, 이상하지 않아？	Don’t you think these people are acting a bit weird?	
+163	N/A	类似的抗议游行我在新丰洲也见过不少，但规模都远比不上眼前这只队伍。	我在新豐洲也見過不少類似的抗議遊行，但規模都比不上眼前這個隊伍。		이런 시위는 신토요스에서 적지 않게 본 적 있따. 하지만 이 시위대 규모에 비교할 수 없다.	I’ve seen lots of demonstrations in New Opulentia, but none of such an impressive scale. Not even close.	
+164	N/A	与警戒线那边剑拔弩张的氛围不同，处在中段的这帮人有些确实在声嘶力竭的呐喊──	與警戒線那邊劍拔弩張的氛圍不同，隊伍中段的這群人有的確實聲嘶力竭地吶喊著──		경게선 쪽 일촉즉발의 분위기와 다르게 중심에 있는 사람들은 목청껏 구호를 외치고 있다──	In contrast to the tense atmosphere up there at the defense line, the crowds around us seem less violent. Some are chanting loudly, that’s true—	
+165	N/A	而另一些人则更像在参加节日庆典，在闪烁的广告屏幕下面，微笑的拿着咖啡和零食。	其他人更像是在參加慶典，手拿咖啡和零食在閃爍的廣告螢幕下有說有笑。		어떤 사람들은 축제에 참가한 것처럼 화려한 광고 스크린 밑에서 웃으며 커피와 간식을 먹고 있다.	But a lot of others seem to be simply here to enjoy the atmosphere. Some are even taking selfies under flashing billboards, coffee and junk food in hand.	
+166	N/A	自然还有很多人用手机各种摆姿势拍照，然后迅速加美颜滤镜分享到社交网络。	當然還有很多人擺出各種姿勢自拍，然後迅速加上美肌並分享到社群網站上。		많은 사람들이 여러 자세로 사진을 찍어 소셜 네트워크에 업로드 한다.	I watch as a middle-aged man, after posing for the camera, slaps on a filter and shares the pic on his social media account.	
+167	小怜	好像……也不是很紧张呢~	好像……氣氛也沒那麼緊張呢～		……많이 긴박해 보이지는 않네~	They seem... pretty chill?	
+168	N/A	而且附近几乎没有保安军的影子，他们也不想把宝贵的人力投入到这种地方吧。	這附近幾乎沒有保安警察出沒，他們大概也不想把寶貴的人力投入這種地方吧。		게다가 근처에 보안군의 그림자도 보이지 않는다. 소중한 인력을 이런 곳에 투입하고 싶지 않은 거겠지?	There aren’t any security soldiers around. They’re probably too busy dealing with the ones up ahead to bother with these peaceful civilians.	
+169	索娅	本来大规模的游行就是这个样子的，只是他们的边界太过清晰了──	本來大規模的遊行就是這樣，只是他們的邊界太過明確了──		원래 대규모 시위는 이런 거야. 경계가 너무 뚜렷할 뿐이지──	Large-scale demonstrations are usually like this, actually. There’d be violent ones and peaceful ones. But don’t you think the line between these two sections is a bit too well-defined?	
+170	N/A	索娅提醒后我才发现，几乎所有人都集中在人行横道的对面，我们所在的这一侧几乎没什么人。	經索婭這麼一提醒，我才發現幾乎所有人都集中在人行道的對面，我們所在的這一側幾乎沒什麼人。		소야의 말을 듣고보니 대부분의 사람들이 횡당보도 맞은편에 밀집해 있고 우리가 있는 이곳은 사람이 없다.	Only then do I realize that the people really do seem to be adhering to certain “borders”. Most of the crowd, in fact, is gathered across the street from us, even though there’s plenty of space for them to stand on our side.	
+171	小怜	是『羊群效应』之类的……？	是「羊群效應」之類的……？		『양떼 효과』 같은 건가……？	Is this what they call herd behavior?	
+172	N/A	融入集体才有安全感，就像抱团的企鹅一样自觉的形成了一条边界。	融入集體才有安全感，就像組隊行動的企鵝一樣，漸漸地形成了一條邊界。		무리에 들어가야 안전감을 느끼고 단결한 펭귄처럼 스스로 경계를 형성하는…	Blending in to the crowds to feel safe... like penguins that tend to travel in huddles. It’s natural for “borders” to form in such situations.	
+173	小怜	不过你到底是来做什么呀？	不過，妳到底是來做什麼的呀？		그런데 도대체 여긴 왜 온 거야？	Still, what did you say you wanted to do here anyway?	
+174	索娅	嘛……先上楼──	嘛……先上樓──		아……우선 올라가자──	Eh, let’s go upstairs first.	
+175	N/A	索娅拉着我钻进了路边的一栋写字楼，熟练敲晕了保安后用他脖子上的门卡坐电梯上到顶楼。	索婭拉著我鑽進路邊一棟辦公大樓，熟練地敲暈了保全之後，用他脖子上的門禁卡搭電梯到了頂樓。		소야가 날 끌고 길가의 사무소로 들어간다. 익숙하게 보안군을 기절시키고 출입카드로 옥상에 올라왔다.	Sonya drags me into an office building by the road. She knocks out the security with practiced ease, snatches the entry card he’s wearing on the neck, and scans it in the elevator. It takes us straight up to the roof.	
+176	小怜	这么多人──！！	這麼多人──！ ！		사람이 이렇게 많다니──！！	Wow, that’s a lot of people!	
+177	N/A	我被眼前的景象震撼了。	我被眼前的景象嚇到了。		나는 눈 앞의 광경에 놀라고 말았다.	From our vantage point, I can see only too clearly just how crowded it is down there.	
+178	N/A	从这个高度看下去，一个人只有蚂蚁大小，但即使是蚂蚁，也不会这么密集的聚在一起吧……	從這個高度看下去，每個人只有螞蟻大小，但即使是螞蟻，也不會這麼密集地聚在一起吧……		이 높이에서 내려다보니 사람들이 개미 처럼 보인다. 개미들도 이렇게 모이진 않을 것 같다……	They’re no bigger than ants from my point of view, but not even ants would be packed so tightly together, would they?	
+179	N/A	索娅从包里拿出一个小型望远镜，在下面的人群中寻找着什么。	索婭從包包裡拿出一台小型望遠鏡，想在下面的人群中找些什麼。		소야가 가방 안에서 소형 망원경을 꺼내 아래 인파들 사이에서 뭔가를 찾는다.	Sonya retrieves a pair of small binoculars from her bag and scans the crowd underneath.	
+180	索娅	没有……	沒有……		없어……	Hmm, not over there...	
+181	N/A	她依然不死心的拿来我的手机，反复切换着附近所有的路灯和无人机监控画面。	她依然不死心地拿走我的手機，反覆切換著附近所有的路燈和無人機監視畫面。		그녀가 내 휴대폰을 들고 반복해서 근처 가로등과 무인기 감시 화면을 확인한다.	She grabs my phone and begins switching between surveillance footages again.	
+182	索娅	那边也没──	那邊也沒──		저쪽도 없어──	Not there either...	
+183	N/A	慢慢的，她心中的大石头好像终于落了地，坐下来长舒一口气。	慢慢的，她心中的大石頭好像終於落了地，坐下來長長吐出一口氣。		천천히, 그녀 마음 속에 큰 돌이 바닥에 떨어지는 것처럼 긴 한숨을 내쉬며 주저앉는다.	She finally sits down and heaves a sigh, as if relieved.	
+184	索娅	只是巧合吗……	只是巧合嗎……		그냥 우연인가……	So it’s just a coincidence, huh...	
+185	小怜	你到底来这边找什么啊？	妳到底來這邊找什麼啊？		도대체 뭘 찾고 있는데？	Come on, what are you looking for exactly?	
+186	索娅	找一扇门……	找一扇門……		문을 찾고 있어……	A door...	
+187	小怜	门？	門？		문?	Door?	
+188	N/A	索娅默默的坐在天台上望着楼下的人海，没有理会我的追问。	索婭默默地坐在天台上望著樓下的人海，沒有理會我的追問。		소야가 조용히 옥상 난간에 앉아 건물 아래 인파를 쳐다본다.	Sonya continues gazing down at the sea of people in silence, ignoring my question.	
+189	N/A	既然没什么紧急状况，我也不再坚持，便坐到她旁边，和她一起看着下面的芸芸众生。	既然沒什麼緊急狀況，我也不再堅持，便走到她旁邊坐下，一起看著下面的人山人海。		나도 그녀의 옆에 앉아 함께 건물 아래를 쳐다봤다.	I decide not to pester her further since everything seems fine so far anyway. Instead, I sit down beside her and let myself enjoy the view.	
+190	N/A	似乎在这样的视角下，什么事都能看的很开。	似乎在這樣的視角下，什麼事都能看得開。		이 시야에서 뭐든지 볼 수 있을 것 같다.	Everything seems so trivial somehow, when we’re so high up.	
+191	N/A@索娅	这下面起码有数万人吧……	這下面起碼有幾萬人吧……		수만명은 되겠지……?	There must be more than ten thousand people down there...	
+192	N/A@小怜	可能吧……	可能吧……		아마도……	Probably...	
+193	N/A@索娅	你看着他们，会觉得自己是那个种群中的一员吗？	妳看著他們，會覺得自己是其中的一分子嗎？		저 사람들은 스스로가 저 군중 속의 일원이 됐다고 느낄까?	When you look at them like this, do you feel like you’re one of them?	
+194	N/A	我没有说话，只是微微的摇了摇头。	我沒有說話，只是輕輕搖了搖頭。		나는 대답하지 않고 작게 고개를 저었다.	Gently, I shake my head.	
+195	N/A	街道上密密麻麻的人群，好像共同构成了一个新的生命体，随着每个人的攒动缓慢的呼吸着。	街道上密密麻麻的人群，好像構成了一個新的生命體，隨著每個人的攢動，緩慢但確實地呼吸著。		길에 빽빽히 모여있는 사람들은 새로운 생명체를 형성하고 각자의 움직임에 따라 호흡하는 것 같다.	The sprawling crowds down there seem to have become a brand-new life form in itself—a living, breathing being that moves as the humans who compose it do.	
+196	N/A	而我能明确的感觉到，自己不想成为其中之一。	我能夠明確感覺到，自己並不想成為其中之一。		스스로가 일원이 되지 않았다는 걸 확실히 느낄 수 있다.	It gives me the creeps. I certainly wouldn’t want to be one of them.	
+197	N/A@索娅	呐……	吶……		저기……	Hey...	
+198	N/A@小怜	嗯？	嗯？		응?	Hm?	
+199	N/A@索娅	小时候我在修道院看过一部纪录片。	我小時候在修道院看過一部紀錄片。		어렸을 때 수두원에서 다큐멘터리를 본 적 있어.	I saw this documentary when I was little, in the abbey.	
+200	N/A@索娅	在南极，四处都是白茫茫的冰原，没有任何地标可以作为参考。	在南極，四處都是白茫茫的冰原，沒有任何地標可以當作參考。		남극, 사방이 모두 새하얀 빙원이였어. 참고할 만한 지표가 아무 것도 없었어.	It was set in the South Pole. Everything is white there. No landmarks for reference.	
+201	N/A@索娅	帝企鹅只能靠本能辨别方位，每年为了繁衍后代都要完成两次大规模的迁徙。	帝王企鵝只能靠本能辨別方位，每年為了繁衍後代都得完成兩次大規模的遷徙。		황제펭귄은 본능에 따라 방향을 식별하고 매년 후대 번식을 위해 두 번의 대규모 이동을 해야 했어.	The only way penguins can tell directions is their instincts. And they have to mass-migrate twice each year in order to reproduce.	
+202	N/A@索娅	小企鹅出生后的第一次迁徙就要学会跟上队伍，一起向能找到食物的大海进发。	小企鵝出生後就得學會跟上遷徙的隊伍，一起往大海前進，尋找食物。		아기 펭귄은 첫 이동에서 무리를 따라 함께 식량의 대해를 찾는 걸 배워. 	The newborn penguins have to learn to follow their group immediately after they’re born, so that they can reach the ocean where there’s food.	
+203	N/A@索娅	最多时有二十万只帝企鹅在南极大陆的冰架上，排着整齐的队伍面朝同一个方向前进。	最多的時候，會有二十萬隻帝王企鵝在南極大陸的冰棚上，以整齊的隊伍往同個方向前進。		이십만 마리 황제펭귄이 남극 대륙의 빙상 위에서 무리를 이루고 같은 방향으로 전진해.	Sometimes there are more than two hundred thousand penguins moving all at once on the South Pole ice shelf. Their procession is orderly, everyone going in the same direction.	
+204	N/A@索娅	但每年都会有一些小企鹅，一生下来就固执的想要朝着相反的方向走。	但是，每年都會有一些小企鵝一出生就只想往反方向走。		하지만 매년 태어날 때부터 반대 방향으로 걷는 걸 고집하는 아기 펭귄이 있어.	But every year, for some reason, some newborn penguins want to go another way.	
+205	N/A@索娅	不管如何被成年的企鹅纠正方向，不管身边有没有同类，都会顶着暴风雪，义无反顾的向冰山前进。	不管怎麼被糾正，也不管身邊有沒有同類，都會冒著暴風雪，義無反顧地向冰山前進。		어른 펭귄이 방향을 고쳐줘도, 옆에 동료가 없어도, 눈보라를 맞으며 용감하게 빙산을 향해 걸어가.	Even if the adult penguins try to correct them, even if they’re totally alone, even if there’s a blizzard—they insist on moving away from the ocean.	
+206	N/A@索娅	然而南极是一块孤立的大陆，那里严酷的环境不会给这种小家伙任何机会。	然而南極是一塊獨立的大陸，那裡嚴酷的環境不會對這些小傢伙仁慈。		하지만 남극은 고립된 대륙이고 그 잔인한 환경에서 어린 펭귄에게 어떤 기회도 주어지지 않았어.	But the South Pole is an uninhabited, isolated continent. The environment there is never benevolent towards these baby penguins.	
+207	N/A@索娅	但在遭遇数百万年一遇的环境剧变时，或许只有那些朝相反方向走的小企鹅能活下来。	但如果遇到數百萬年一次的環境劇變時，或許只有那些往反方向走的小企鵝能活下來。		수백만년에 한 번 오는 환경 극변 속에서 어쩌면 반대 방향으로 걸어간 아기 펭귄이 살아남을지도 몰라.	However, if the climate changes, changes drastically for the first time in a million years maybe—perhaps the baby penguins who go the other way will be the only survivors.	
+208	N/A@索娅	──它们是这个种群的保险机制。	──這些小企鵝就是帝王企鵝這個種族的保險機制。		──그들은 이 집단의 보험 시스템 같은 거야.	—In a way, they’re a sort of insurance mechanism for the species. They can save their species from going instinct.	
+209	N/A	索娅一边回忆一边描述着那个纪录片里的情景，忽然沉默了许久。	索婭一邊回憶，一邊描述著那部紀錄片的場景，忽然沉默了許久。		소야가 기억을 회상하며 그 다큐멘터리 속 화면을 설명하다 갑자기 긴 침묵이 흐른다.	Sonya falls silent after she finishes recounting what she had seen.	
+210	索娅	我从小就觉得，世界上一定有很多有趣的东西自己还没见过。	我從小就覺得，世界上一定有很多有趣的東西是我還沒見過的。		난 어렸을 때부터 이 세계에 내가 보지 못한 재밌는 것들이 많이 있다고 믿었어.	When I was little, I always thought... there must be tons of fascinating things out there in the world, waiting for me to discover them.	
+211	索娅	如果可能的话，我都想亲历一次。	如果可以，無論如何我都想親身經歷一次。		가능하다면 직접 경험해 보고 싶어.	And I want to see them all, experience them all.	
+212	索娅	但好奇心总是有代价的──	但是好奇心總得付出代價──		하지만 호기심은 항상 대가가 따르는 법이지──	But curiosity comes with a price...	
+213	索娅	刚才贝阿特丽切描述的那种症状，和七个暴动区域的位置，都让我想起了三年前的那次任务……	剛才貝阿特麗切描述的症狀和七個暴動區的位置，都讓我想起三年前的那次任務……		방금 베아트리체가 말한 그 증상과 7개 폭동 구역의 위치 모두 3년 전 그 임무를 떠오르게 해……	The symptoms Beatrice just described, and the locations of the seven areas where there were riots... they both remind me of that mission three years ago...	
+214	N/A	我心中一惊，她之前见到过那样的症状？	我心中一驚，難道索婭之前見過類似的狀況？		그녀도 예전에 그런 증상을 본 적 있는 걸까？	I gulp in surprise. So she’s actually come across symptoms like that before?	
+215	索娅	当时南美一个地区发生了大规模异变，很可能引发XK级世界末日。	那時候，南美某地區發生了大規模的異變，就快要引發XK級世界末日。		당시에 남미의 한 지역에 대규모 변이가 일어났어. XK급 세계 종말을 일으킬 수 있는 변이	There was a huge calamity somewhere in South America back then. So huge it would have likely led to an XK-class apocalypse.	
+216	索娅	信理部派去的第一批黑衣修士全数阵亡，其他的前辈也都拒绝出动。	信理部派去的第一批黑衣修士全數陣亡，其他的前輩也都拒絕出動。		신앙부가 파견한 수도사들은 전부 사망했고 다른 선배들은 그 임무를 거절했어.	The first batch of black-robed monks dispatched by the CDF all perished. The other monks were horrified and refused to go.	
+217	索娅	只有我自告奋勇的独自去了，就像那只小企鹅……	只有我自告奮勇一個人去了，就像那隻小企鵝……		나만 용감하게 나섰지. 그 아기 펭귄처럼……	But I volunteered. I was that baby penguin...	
+218	小怜	到底发生什么了……	到底發生什麼事了……		도대체 무슨 일이 있었던 거야……	What exactly happened there?	
+219	N/A@索娅	当地一座小教堂的墙壁上，凭空出现一对纯黑的大门，半开的大门后面，只能看到刺眼的金光。	當地一座小教堂的牆上，憑空出現了一對純黑的大門，半開的大門後面只露出刺眼的金光。		한 작은 교회의 벽에 순흑색 대문이 나타났어. 반쯤 열린 문 뒤에 눈부신 빛만 보였어.	A pair of pure black gates appeared out of nowhere on the walls of a small church. And behind the half-open doors are nothing but bright, blinding golden light...	
+220	N/A@索娅	大门周围三公里的区域，电子设备全部失效，所有进入那个区域的人则一概有去无回。	大門周圍三公里的區域內，電子設備全都失效，所有進入那個區域的人都……有去無回。		문 주위 3키로 미터 지역에 전자 기기가 모두 꺼졌고 그 구역에 들어간 사람은 모두 실종됐어.	In a two-mile radius with the gate as the central point, all electronics stopped functioning. No one who entered the area left alive.	
+221	N/A@索娅	这就是当时全部的情报。	這就是當時全部的情報。		이게 당시 알고 있던 정보야.	That was all we knew back then.	
+222	N/A@索娅	按照教宗的说法是──天堂的大门被提前打开了。	按照教宗的說法是──天堂的大門被提前打開了。		종교의 말에 따르면──천국의 문이 열렸다고 했어.	According to the Pope, it was like the pearly gates to Heaven had been opened.	
+223	索娅	而我的任务，就是把那扇门关上。	而我的任務，就是把那扇門關上。		그리고 나의 임무는 바로 그 문을 닫는 거였어.	And my mission was to close the gates back again.	
+224	N/A	我听着索娅的陈述，不由屏住了呼吸。	我聽著索婭的描述，不由得倒抽一口氣。		소야의 말을 들은 나는 나도 모르게 숨을 참았다.	I barely notice that I’m holding my breath as Sonya recounts her story.	
+225	索娅	哼，天堂？	哼，天堂？		흥, 천국？	Heaven, they called it. Ha.	
+226	N/A	她无奈的摇了摇头。	她無奈地搖了搖頭。		그녀가 고개를 젓는다.	She shakes her head with a snort.	
+227	索娅	我发现以那座教堂为中心的六个对称方向，呈散射状均匀分布着上万具扭曲的尸体。	我發現，以那座教堂為中心的六個對稱方向，有上萬具扭曲的屍體呈放射狀均勻分佈。		나는 그 교회를 중심으로 한 6개 방향으로 수만구의 시체가 쓰러져있는 걸 봤어.	I arrived to find that, with the church as central point, spreading out in six symmetrical directions, were six “lines”—on them lay tens of thousands of twisted bodies.	
+228	索娅	那些人无论男女老幼，都是互相残杀而死，每个人的身上都有重伤后剧烈运动和扭打的痕迹。	那些人無論男女老幼，都是互相殘殺而死，每個人的身上都有重傷後劇烈掙扎和扭打的痕跡。		그 사람들은 남녀노소 구분 없이 모두 서로를 죽였고 몸에 격렬한 운동과 싸움의 흔적이 있었어.	Male, female, elderly or young—those people all died from fighting each other. You could tell from their wounds.	
+229	小怜	（听起来有点像女巫的行为？）	（聽起來有點像女巫？ ）		（무녀와 조금 비슷한 것 같다…）	(Sounds like something those contaminated witches would do...)	
+230	索娅	如果有地狱的话，应该就是那副景象吧……	如果有地獄的話，應該就是那副景象吧……		만약 지옥이 있다면 그런 모습이였겠지……	I guess, if Hell exists... that was it.	
+231	索娅	我能活着走到那扇门前，可能因为当时区域里只有我一个人。	我能活著走到那扇門前，可能是因為當時那區域裡只有我一個活人。		내가 살아서 그 문 앞에 걸어갈 수 있었던 건 거기에 나 혼자 있었기 때문이야.	The only reason I arrived at the door alive was probably because I was the only one in the area. No one to fight.	
+232	N/A@索娅	站在那扇门前，并不会觉得光线刺眼，反而有种温暖和放松的感觉，像是要把我吸进去一样。	站在那扇門前，並不會覺得光線刺眼，反而有種溫暖和放鬆的感覺，像是要把我吸進去一樣。		그 문 앞에 섰을 때 눈이 부시지 않았어. 마치 빨려들어갈 것 처럼 따뜻하고 가벼운 느낌이 들었어.	I didn’t find the light too bright when I was there, in front of that door. It felt... warm, relaxing. As if it wanted to suck me right inside.	
+233	N/A@索娅	有个非常有存在感的精神体在不停的劝我将门完全打开或者走进门中。	有個非常有存在感的精神體不停勸我把門完全打開，或是走進門內。		존재감이 아주 강한 정신체가 문을 완전히 열거나 문 안으로 들어오라고 날 설득하는 느낌이였어.	I could sense some sort of spirit—one with a presence impossible to ignore—trying to convince me to open the gate up wide, or simply enter the gates.	
+234	N/A@索娅	虽然没有言语的表达，但我却能完全理解。	雖然不是用言語傳達，但我就是能完全理解。		말로 표현하진 않았지만 완벽히 이해할 수 있었지.	It didn’t say it in words, but that was what I felt.	
+235	N/A@索娅	如果我走进那扇门，就能在欢愉和喜悦中与其中的金光融为一体。	如果我走進那扇門，就能在歡愉和喜悅中與金色光芒融為一體。		만약 그 문 안으로 들어간다면 행복하고 즐거운 빛과 하나가 될 수 있어.	If I entered the gateway, I’d become one with the golden light.	
+236	N/A@索娅	如果我完全打开大门，就能让所有人都成为那束光的一部分。	如果我完全打開大門，就能讓所有人都成為那束光芒的一部分。		만약 그 문을 활짝 연다면 모든 사람들이 그 빛의 일부가 될 수 있어.	If I opened the gate up wide, everyone in the world would become one with the golden light.	
+237	索娅	不巧的是，我对“融为一体”从来没什么兴趣。	但不巧的是，我一直就對「融為一體」沒什麼興趣。		불행히도 난 “일체”에 전혀 관심이 없었어.	Unfortunately, I wasn’t interested at all in “becoming one” with anything...	
+238	索娅	于是在那个意志愤怒到抓狂的咒骂中，我慢慢关上了那扇大门……	於是，在那個精神體憤怒到抓狂的咒罵聲中，我慢慢關上了那扇大門……		그리고, 그 의지의 저주 속에서 난 천천히 그 문을 닫았어……	So I simply closed the gate while the spirit yelled profanities at me.	
+239	小怜	哈──	哈哈──		하──	Hahahaha...	
+240	N/A	我和她对视了一眼，都忍不住笑了起来。	我和她對看了一眼，都忍不住笑了起來。		나와 그녀의 눈이 마주치는 순간 참지 못하고 웃음을 터트렸다.	The second our eyes meet, we burst out laughing.	
+241	N/A	下面是数万游行人群，我俩坐在一百多米高的天台上笑得前仰后合。	下面是數萬名的遊行人群，而我們坐在一百多公尺高的天台上笑得前仰後合。		수만명의 시위대를 발 밑에 두고 우리는 수백미터 높이의 난관에서 몸을 앞뒤로 흔들며 웃고 있다.	Down there, countless people are marching. And here we are, on the roof over three hundred feet above them, laughing our heads off.	
+242	N/A@索娅	唉──	唉──		휴─	Ahhh...	
+243	N/A	笑到眼泪都流出来的索娅调整了一下呼吸。	笑到眼淚都流出來的索婭調整了一下呼吸。		눈물이 나올 때 까지 웃던 소야가 호흡을 가다듬는다.	Sonya inhales deeply, trying to calm herself down. She had laughed so hard she was practically in tears.	
+244	索娅	大门完全关闭之后，那扇门就消失了，只剩下光秃秃的墙壁。	完全關上之後，那扇黑色的門就消失了，只剩下光禿禿的牆壁。		문이 완전히 닫히고 그 문은 완전히 사라졌어.	After I closed the gate, the whole thing just disappeared. The bare wall was all that remained.	
+245	索娅	那次事件之后，教廷就获得了联合议会的支持。	那次事件以後，教廷就獲得了聯合議會的全面支持。		그 사건 이후 교황청이 연합의회의 지지를 받았지.	After that incident, the United Congress began to support our church.	
+246	小怜	所以从连运营都难以维持的状态，忽然就有钱修那么大的教堂了啊。	就從原本快要倒閉的狀態，變成忽然有經費可以修那麼大的教堂啦。		그렇게 힘겹게 운영을 이어가던 교황청이 갑자기 커다란 교회를 세울만큼 돈이 생겼어.	So that was why the church used to barely get by but can now build gigantic religious buildings, huh?	
+247	索娅	但要关上那扇门，就要接触到大门纯黑的那一面。	也許吧，但要關上那扇門，就得接觸到大門純黑的那一面。		하지만 그 문을 닫기 위해선 그 순백의 일면과 접촉해야 했어.	Still, I had to touch the pure black surface of the door in order to close it.	
+248	索娅	那些黑色物质后来慢慢侵入了我的身体，那就是我要为此付出的代价吧……	那些黑色物質後來慢慢侵入了我的身體。 那也許就是我要為此付出的代價吧……		그 흑색의 물질은 천천히 내 몸 안에 침입했고 그게 바로 내가 받은 대가야……	And the black substances gradually invaded my body. I guess that’s the price I have to pay...	
+249	N/A	索娅有些低落的垂下了头。	索婭心情低落地說著，還慢慢低下了頭。		소야가 고개를 떨군다.	Sonya looks down, a bit melancholy.	
+250	小怜	索娅。	索婭。		소야.	Sonya.	
+251	N/A	我双手扶着她纤细的肩膀，认真的看着她的眼睛。	我雙手扶著她纖細的肩膀，認真地看著她的眼睛。		나는 두 손을 그녀의 가는 어깨 위에 올리고 진지하게 그녀의 눈을 바라봤다.	I place my hands on her fragile shoulders and gaze deeply into her eyes.	
+252	小怜	驱使小企鹅的是它自己的意志，而不是什么种群繁衍的保险机制。	驅使小企鵝往反方向前進的是牠的自我意志，絕對不是什麼種族繁衍的保險機制。		아기 펭귄을 부추긴 건 스스로의 의지야. 그 무리의 보험 시스템 같은 게 아니라.	The little penguins who go in the opposite direction do so out of their own will, not because of some kind of insurance mechanism for the survival of the species.	
+253	索娅	？	？		？	Huh?	
+254	小怜	只是对山那边的景色怀着强烈的憧憬和好奇而已。	只是對山那邊的景色懷著強烈的憧憬和好奇而已。		그 산 너머 풍경에 강렬한 동경과 호기심을 갖고 있었을 뿐이야.	They’re just really curious about what’s on the other side.	
+255	小怜	我们的祖先中的那一小部分人，就是靠这种意志从非洲走到了全世界。	我們的祖先是不是也有一小部分的人，靠這種意志從非洲走到了世界各地？		우리 조상 중 선조들도 그 의지를 따라 아프리카에서 전세계에 걸어온거야.	Some of our ancestors were like those penguins too. Following their own desires, they set off from Africa and eventually populated the whole world.	
+256	小怜	在世界上最冷和最热的地方、在每年有半年是白天和半年是黑夜的地方，甚至在大海的另一头！	像是走到世界上最冷和最熱的地方、有半年是白天半年是黑夜的地方，甚至到了大海的另一邊！		세계에서 가장 춥고 가장 더운 곳, 반년은 낮, 반년은 밤만 있는 곳, 심지어 바다의 끝까지！	Humans are everywhere now. In the coldest, hottest locations in the world, in places that are dark half the year and bright the other half, even all the way across the sea!	
+257	小怜	你才不是什么保险措施，你是──	所以，妳才不是什麼保險措施，妳是──		넌 보험 시스템 같은 게 아니야. 너는──	You’re not some sort of mechanism. You’re—	
+258	索娅	我是……？	我是……？		나는…？	I’m...?	
+259	小怜	恩。	嗯，那個。		응.	Uh.	
+260	索娅	嗯？	嗯？		응?	Hm?	
+261	小怜	内个……	欸，妳是那個……		그……	Uh...	
+262	N/A	啊啊啊啊啊啊啊啊啊啊啊啊！！！	啊啊啊啊啊啊啊啊啊啊啊啊！ ！！		아아아아아아아아아아！！！	Aaaaaaah!	
+263	N/A	刚才明明那么帅气，说到一半又卡壳了！！	為什麼剛剛那麼帥氣，說到一半又卡彈了啊！ ！		방금까지 엄청 멋있었는데 갑자기 말이 막혀버렸어！！	Why can’t I find the right words?	
+264	索娅	哦──？	哦──？		음──？	Hm?	
+265	N/A	索娅用胳膊肘顶了顶我的肚子。	索婭用手肘頂了頂我的肚子。		소야가 팔꿈치로 내 배를 찌른다.	Sonya elbows me in the gut.	
+266	索娅	耍帅不要只耍一半啊~	耍帥不要只耍一半啊～		멋있는 척을 하려면 끝까지 해야지~	Weren’t you eloquent seconds ago?	

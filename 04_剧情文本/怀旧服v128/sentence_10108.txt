@@ -1,0 +1,32 @@
+﻿1	莉琉	安妮已经安置到隔壁房间了，有些事情我必须单独和你讲。	安妮已經安置到隔壁房間了，有些事情我必須單獨告訴妳。	アニーには隣の部屋で休んでもらっている。\nその間に、お前には話しておかないとな。	앤은 옆 방에 잘 데려다 놓았어. 너와 단둘이 할 얘기가 있어.	Annie is next door. I need to talk to you, alone.	
+2	莉琉	我刚得到确认的消息。	我剛剛得到確認的消息。	先ほど確定したばかりの情報だ。	방금 확실한 정보를 얻었어.	Based on what has been confirmed so far…	
+3	莉琉	从今天早上开始，多个主要城市都出现了大规模的时空异变……	從今天早上開始，多個主要城市都出現了大規模的時空異變……	今朝より、多くの主要都市で大規模な時空異変が\n発生している……	오늘 아침부터 주요 도시에 대규모 시공 변이 현상이 발생했어.	Since this morning, many major cities have been hit by large-scale spacetime anomalies…	
+4	莉琉	已知受影响的地区包括：华云宫城、纽摩利达斯、马萨达堡、萨蒙顿、新丰洲和莱博娜群岛。	已知受影響的地區包括：華雲宮城、紐摩利達斯、馬薩達堡、薩蒙頓、新豐洲和萊博娜群島。	影響を受けている地域は以下。\n華雲宮城、ニューモリダス、マサダブルク、\nサモントン、新豊洲、リバーナ諸島。	지금까지 확인된 지역은 화운궁성，뉴모리다스，마사다 성，살몬톤，신토요스 그리고 레보나 섬.	By now, areas affected include Hovering Palace, Newmoridas, Masada Ford, Salmonton, New Opulentia and Lebona Islands.	
+5	小怜	那岂不是……\n六大学园都市全都……？！	欸？ 那不就是……\n六大學園都市全都……？ ！	それって……\n六大学園都市全部……！？	그 말은……\n6대 학원도시 전부……？！	That's practically… \nAll of the six major Academy Cities!	
+6	莉琉	没错，现在全世界都盯着这件事，影响程度远超预期。	就是醬，現在全世界都盯著這件事，影響幅度超乎預期。	そうだ、影響規模は予想を遥かに超え、\n今や世界中がこの事件に注目している。	맞아. 전세계가 이 사건을 주목하고 있어. \n예상보다 영향이 커.	Yup. It's got the whole world's attention now. A lot more areas have been affected than expected.	
+7	莉琉	我觉得，或许有一种可能……	我覺得，或許有一種可能……	私は、とある仮説を1つを立てたのだが……	내 생각에 한 가지 가능성이 있어…	Don't take this the wrong way, but I suspect…	
+8	莉琉	你描述的你在梦中经历的一切：袭击研究中心的恐怖分子、化为废墟的城市……	你說你在夢中經歷過的一切：襲擊研究中心的恐怖分子、化為廢墟的城市……	お前が語った夢の中での体験、\n「研究センターを襲ったテロリスト」──\n「廃墟と化した都市」──	네가 얘기했던 꿈 말이야. \n연구 센터를 습격한 테러리스트 그리고 폐허가 된 도시…	Everything that happened in your dreams: terrorist attacks on the Research Center, whole cities in ruins…	
+9	莉琉	……这些可能都确实发生过。	……這些可能都確實發生過。	……全てが、実際に起こったのかもしれない。	……모두 발생했을 가능성이 있어.	… Perhaps they were things that actually happened.	
+10	小怜	怎…怎么可能？！	真假！ 這…這…怎麼可能？ ！	な……ま、まさか、そんなっ！？	어…어떻게 그럴리가?!	B-but… how could that be?	
+11	莉琉	虽然没有确切的证据，不过今早，一场超大规模的次元扭曲很可能已经发生。	雖然沒有確切的證據，不過今早，很可能已經發生了一場超大規模的次元扭曲。	確たる証拠はないが、超大規模な次元歪曲が\n今朝の時点で発生していた可能性がある。	확실한 증거는 없지만 오늘 아침 대규모의 차원 왜곡이 이미 발생했을 수도 있어.	A large-scale dimensional warp is likely to have occurred this morning, although I have no definitive evidence.	
+12	莉琉	SID『真实视域』卫星同时也侦测到了超乎寻常的杂讯爆发。	SID「真實視域」衛星同時也偵測到了超乎尋常的雜訊爆發。	SIDの人工衛星『トゥルービジョン』も、\n計り知れない程のノイズを検知していた。	SID 『진실의 시야』 위성이 동시에 \n심상치 않은 노이즈 폭발을 탐측했어.	SID's True Sight Satellite has also detected an unusual burst of noise.	
+13	莉琉	这么说你也许更容易理解：新丰洲市确实曾经一度毁灭，但某种力量扭转了这个现实……	換個比較容易懂的說法好了：新豐洲市確實曾經一度毀滅，但某種力量扭轉了這個現實……	分かりやすく説明するなら──\n\n「新豊洲市は紛れもなく一度滅びたが、\n　ある力でその現実が捻じ曲がった」	이렇게 설명하면 더 쉬우려나. \n신토요스는 이미 괴멸됐지만 \n어떤 힘이 현실을 왜곡했다.	Let's put it this way: New Opulentia was actually destroyed, but an unknown force reversed this reality…	
+14	莉琉	并且这种力量似乎也和你身体的变化，以及遭遇怪异敌人的袭击有关。	而且，這種力量似乎與妳身體的變化，以及遭遇怪異敵人的襲擊有關。	そしてその力は奇怪な敵の襲撃や、お前の身体の\n変化にも関係しているかもしれない。	그리고 이 힘은 아마 네 몸의 변화 그리고 괴상한 적의 습격과 관련 있다.	And this force seems to be linked to the changes in your body and the attack as well.	
+15	莉琉	当然，这还是我的假说。	當然啦，目前這只是我的假設。	──もちろん、単なる私の仮説だがな。	물론，이건 내 가설일 뿐이야.	But of course, this is only my assumption.	
+16	小怜	这想法…会不会太大胆了些……	這想法…會不會太大膽了些……	その考えは、大胆すぎるというか……	너무…과감한 생각 아닌가…	Uh, isn't that assumption a bit too bold…?	
+17	莉琉	因为今天的事件，现在其他五个学园都市都在给元老院施加压力，希望进行入境调查。	因為今天的事件，現在其他五個學園都市都拼命給元老院施加壓力，希望能入境進行調查。	今日の事件で、他5つの学園都市が元老院に\n圧力をかけ、調査隊の入国許可を希望している。	이 사건으로 5개 학원도시가 원로원에 입국 조사를 진행하고 싶다고 압박을 넣고 있어. 	The other five Academy Cities are putting pressure on the Senate. They demand access to New Opulentia for investigation.	
+18	莉琉	而你与这次件事的关联一旦暴露，恐怕就不止被研究机构带走那么简单了……	而妳與這次事件的關聯一旦曝光，恐怕就不只被研究機構帶走那麼簡單了……	事件とお前の関連性が漏洩すれば、\n研究施設に連行だけでは留まらないだろう……	네가 사건과 연관있다는 사실이 알려지면 연구기관에 끌려가는 걸로 끝나지 않을 거야…	If your involvement comes out, it would be far worse than detention in research institutions…	
+19	莉琉	所有情报组织的特工都会把你标记为关键目标。	所有情報組織的特務都會把妳視為關鍵目標。	全情報組織のエージェントが、\n必ずお前を重要ターゲットとしてマークする。	모든 정보 조직의 특공대가 널 주요 타겟으로 설정하겠지.	Agents of all intelligence services will label you as a key target.	
+20	莉琉	不算潜伏的特工，单今天用假身份进入新丰洲的各国情报人员就超过一百人。	先不算原本就潛伏在此的特務，光今天用假身分進入新豐洲的各國情報員就超過一百人。	元々潜伏しているエージェントを省いても──\n\n新たに偽の身分で新豊洲に入った、\n各国の諜報員数は、本日だけで100人を超えた。	오늘만해도 가짜 신분으로 신토요스에 잠입한 각국 정보 요원이 백 명은 넘어.	More than a hundred secret agents entered New Opulentia today with forged documents—not to mention those already working undercover here.	
+21	小怜	你知道的这么清楚？\n为什么不阻止他们？	妳既然這麼瞭解，\n為什麼不阻止他們？	なんで入国を許してるんだ？\nすでに偽造してるって分かってるのに。	넌 어떻게 다 알고 있어?\n왜 그들을 막지 않아?	You knew it? \nWhy don't you stop them?	
+22	莉琉	哼，与其逼他们换新面孔，现在我在暗中可以更好的掌握局面。	哼，與其逼他們換批新人，現在他們在明，我在暗，這樣更容易掌握局面。	ふん、追い詰めて身分や姿を何度も\n変えられるより、\n泳がせておけば局面を掌握しやすい。	지금은 조용히 있는 게 상황을 더 잘 파악할 수 있기 때문이야.	Hm. Instead of showing our hand and forcing them to come up with a new strategy, isn't it better to stay in the shadows and work from behind the scenes?	
+23	莉琉	[%rolename%]，这一点你必须清楚，只要你还是女孩的身体，就不可能回到原来的生活。	但是[%rolename%]，有一點妳必須清楚，只要妳還是女孩的身體，就不可能回到原來的生活。	[%rolename%]、これだけは分かって欲しい。\n\nお前が女の身である限り、元の生活に戻る事は\n不可能だ。	[%rolename%]，잘 알아둬. 여자의 몸으로 원래 생활로 돌아갈 수 없어. 	You gotta understand, [%rolename%], as long as you're still stuck in your female body, you can't go back to your old mundane life. Let that sink in.	
+24	莉琉	不过最早发现你的是我们SID，未尝不是一种幸运。	不過最早發現妳的是我們SID，也算是件好事吧。	最初にお前を見つけたのが我々SID……\nそれだけが一種の幸運だろうさ。	널 가장 먼저 발견한 게 우리 SID라 천만다행이야. 	You're lucky, though. At least we at the SID were the ones who found you first.	
+25	小怜	一夜之间变成女孩子这种事……\n我该对同学和朋友们怎么说才好……	啊啊～一夜之間變成女孩子這種事……\n我該怎麼對同學和朋友說才好……	一晩で女の子になったなんて……\nクラスメイトや友達にどう説明すればいいんだ…	하루 아침에 여자로 변했다는 말을…\n친구들에게 어떻게 얘기하면 좋을지……	How do I even tell my classmates and friends… \nthat I turned into a girl out of nowhere…	
+26	莉琉	嗯…你不担心你的父母？	嗯？ 妳不擔心妳的父母嗎？	ふむ……お前、まず両親の心配はしないのか？	음…부모님 걱정은 안 해?	Umm… Aren’t you worried about your parents?	
+27	小怜	在我小时候妈妈就去世了\n爸爸……也已经失踪好多年……	我媽媽在我小時候就去世了，\n爸爸……也已經失蹤好多年……	母さんは俺が小さい時に亡くなったよ。\n父さんは……もう何年も行方不明だ……	어머니는 어렸을 때 돌아가셨어.\n아버지는……실종된 지 오래야……	My mom died when I was small. \nMy dad… has been missing for years…	
+28	小怜	我在12岁之前一直住在寄宿学校。	我在12歲之前一直住在寄宿學校。	だから12歳まで俺はずっと寄宿学校に、\n住んでいたんだ。	난 12살이 되기도 전부터 줄곧 기숙사에서 살았어.	I stayed in a boarding school before 12.	
+29	莉琉	（……大猩猩主持的战后保育计划，还是帮到了一些小朋友啊）	（……大猩猩主持的戰後保育計劃，還是幫到了一些小朋友啊。 ）	（……ゴリラが担当した戦後保育計画は、\n　ちゃんと子供達の役に立っていたか）	（……고릴라의 전쟁 후 보육 공약이 확실히 효과가 있었군.）	(… Gorilla man's post-war child care program did help some kids.)	
+30	莉琉	嗯，也算吃过些苦了。\n不过，身份转换的问题你倒是用不着担心。	嗯，妳也算吃過些苦了。 \n至於性別、不對，是身分轉換的問題，妳倒是免煩惱。	辛い事を思い出させてしまったな。\nまあ、身分偽装の問題なら心配するな。	응，고생이 많았네.\n신분 전환 문제는 걱정하지 마. 	You had a tough life, huh? \nAnyway, no need to worry about your current identity crisis.	
+31	小怜	身份……转换？	身分……轉換？	身分……偽装？	신분……전환？	Identity… crisis?	
+32	N/A	莉琉脸上露出了一抹不妙的笑容……	莉琉臉上露出了可疑的笑容……	マリルが妙な笑顔を見せた。	마리루가 알 수 없는 미소를 짓는다……	An ominous smile creeps onto Mariru's face…	

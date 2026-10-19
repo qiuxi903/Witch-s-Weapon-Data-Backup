@@ -1,0 +1,7 @@
+﻿1	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	
+2	引导精灵	解锁了新的[ff9c00]教学任务[-]，一起去看看吧	解鎖了新的[ff9c00]教學任務[-]，一起去看看吧	新しい[ff9c00]チュートリアルクエスト[-]が開放されたね、一緒に行ってみよう。	새로운 [ff9c00]가이드임무[-]가 해제됐어. 함께 확인해보자.	A new [ff9c00]Tutorial Quest[-] has been unlocked. Check it out!	
+3	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	
+4	引导精灵	有教学任务可以领取时，主界面中主角头顶会显示[fa20f2]！[-]。	有教學任務可以領取時，主介面中主角的頭頂會顯示[fa20f2]！[-]。	受領できるチュートリアルクエストがある場合、メイン画面の主人公の頭の上に[fa20f2]！[-]が表示されるよ。	수령 가능한 학습임무가 있으면, 메인 화면 주인공 머리 위에 [fa20f2]！[-] 기호가 표시될 거야.	When there are Tutorial Quests available, a [fa20f2]![-] will appear above your character on the main interface.	
+5	引导精灵	让我们来看看解锁了什么新内容	讓我們來看看解鎖了什麼新內容	どれどれ、今回開放された内容はなにかな？	어떤 새로운 컨텐츠가 해제됐는지 확인해보자.	Let's see what we've just unlocked.	
+6	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	
+7	T_showPicText	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	

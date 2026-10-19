@@ -1,0 +1,126 @@
+﻿1	N/A@小怜	……	……	…………	……	…	
+2	N/A@拉斐尔	……	……	…………	……	…	
+3	N/A	我观察着拉斐尔的脸色，呼吸都小心翼翼的。	我觀察著拉斐爾的臉色，連呼吸都小心翼翼的。	俺とラファエルの謎の駆け引きは続いていた。\n呼吸まで慎重に成りつつある。	라파엘의 표정을 관찰하며 조심스럽게 숨을 쉬고 있다.	I can barely breathe from nervousness as I watch Raphilia flip through the book in her hands.	
+4	N/A	此时她正满脸通红的捻着书页的一角，手指在纸页边缘犹豫不决的颤抖着。	她滿臉通紅地捻著書頁一角，手指在紙張邊緣猶豫不決地顫抖著。	ラファエルは顔を真っ赤にしつつも、\nページの角をつまんで先を見るか見ないか、\n迷いながら震えている。	그녀가 붉어진 얼굴로 페이지 한쪽을 읽으며 손가락을 떨고 있다.	Her cheeks are crimson, fingers trembling, as if hesitating before turning each page.	
+5	索娅	是~M~哟~	是～M～喲～	Mぅ～～ですぅ～～わよぉ～～～～！！	맞아~M~이야~	Look! Lingerie for perky bottoms!	
+6	N/A	索娅居然将那件黑色蕾丝束缚式内衣迎着夕阳的方向高高举起，引起路人阵阵惊叹。	索婭居然將那件黑色蕾絲馬甲內衣對著夕陽高高舉起，引起路人陣陣驚呼。	ソヤはボンテージ下着を夕陽に向かって高々と\n持ち上げ、通行人達を驚愕させている。	소야가 검은색 레이스 속옷을 석양을 향해 높이 들며 행인들을 놀래키고 있다.	Sonya is shouting, showing off the black lace harness lingerie to some very fascinated passers-by.	
+7	伊露卡	哦哦──是M！！	哦哦──是M！ ！	おぉ～～M～～！！	오오──M이다！！	Ooh! Bottom! Bottom!	
+8	N/A	伊露卡在一旁不明所以的附和道。	伊露卡傻傻地跟著附和。	隣のイルカは良く分かってない感じで\n相槌を打っていた。	이루카가 옆에서 아는 척 고개를 끄덕인다.	Elluka cheers at the side, despite not having the least idea what a bottom is.	
+9	随行人员	小怜小姐，物品清点完毕，是否需要我派人送到府上？	小憐小姐，物品清點完畢，是否需要我派人送到府上？	レン様、持ち物の点検が完了しました。\nご自宅に送るよう手配いたしましょうか？	렌 아가씨. 물건 확인이 끝났습니다. 댁으로 보내드릴까요? 	Miss Ren, I have checked through all your items. They appear to be intact. Should I ask someone to bring them to your residence?	
+10	N/A	拉斐尔终于回过神来，一本正经的清了清嗓子，然后将书沿着装订线卷起来……	拉斐爾終於回過神，一本正經地清了清嗓子，然後將書沿著裝訂線捲起來……	ようやく正気に戻ったラファエルは、\n誤魔化し切れてはいなかったが、\n咳払いをしつつ本をギュッと丸めた……	라파엘이 드디어 정신을 차리고 목을 가다듬은 후 책을 돌돌 말고 있다……	Raphilia finally regains her senses, clears her throat and rolls up the book, face straight.	
+11	N/A	接着，她用手中的厚重纸卷对着索娅的脑袋就是一记猛击，发出的巨响连街对面都听得到。	接著，她用手中的厚重紙捲對著索婭的腦袋就是一記猛擊，發出的巨響連對街都聽得到。	そしてソヤの頭に強烈な一撃をお見舞いする。\n\nどれぐらいかと言うと、街の反対側まで\n大きな音が反響するぐらい。	이어서, 그 두꺼운 책으로 소야의 머리를 가격한다. 맞은편에서도 들릴 듯한 굉음이 울렸다.	Then, with the rolled-up book, she whacks Sonya on the head, so violently that the whole street can hear it.	
+12	N/A	十几只女巫都无法伤其分毫的银发修女居然没来得及做出任何反应，头上立刻长出一个大包。	和十幾隻女巫單挑都毫髮無損的銀髮修女，這下居然來不及做出任何反應，頭上立刻冒出一個大包。	複数のドールですら傷付ける事のできなかった\n銀髪のシスターは、\n反応する間もなく頭に大きなコブを作った。	열명이 넘는 마녀를 순식간에 처리한 은발 수녀가 피할 새도 없이 머리에 혹이 생겼다.	The silver-haired witch hunter, unable to duck in time, crouches down in pain.	
+13	索娅	你、你干什么啦！！	妳、妳幹什麼啦！ ！	な、何をするんですのッ！？	너, 너 뭐하는 거야! ! 	W-what was that for?	
+14	N/A	索娅捂着脑袋蹲在地上，眼中带着泪花。	索婭揉著腦袋蹲在地上，眼中閃著淚光。	ソヤは頭を押さえながら地面にしゃがみ込み、\n目に涙を浮かべた。	소야가 머리를 감싸쥐고 바닥에 주저 앉는다. 눈가에 눈물이 맺혔다. 	She cries, massaging her head.	
+15	N/A	拉斐尔一脸杀气的走上前去，居高临下的看着她。	拉斐爾一臉殺氣地走上前，居高臨下地看著她。	殺気を放つ面持ちで彼女の眼前に立ち、\n見下すかのように睨むラファエル。	라파엘이 살기가 가득한 표정으로 그녀를 내려다본다.	Raphilia glares down at her condescendingly.	
+16	拉斐尔	真当我不知道你是谁吗？	還以為我不知道妳是誰嗎？	あんたが何者か、私が知らないとでも思って\nいるのか？	내가 널 모를거라고 생각했나?	You really think I don’t know who you are?	
+17	拉斐尔	教廷全靠萨蒙顿的庇护才能生存，信理部的派遣人员资料也都要提交到萨蒙顿大使馆。	教廷全靠薩蒙頓的庇護才能生存，信理部的派遣人員資料也得提交給薩蒙頓大使館。	教皇庁はサモントンの庇護があるからこそ\n生き延びている。\n信理部の派遣データもサモントン大使館に\n提出しなければならない。	교황청은 살몬톤의 보호에 의지해서 생존해. 신앙부의 파견 요원 자료는 살몬톤 대사관으로 제출돼.	Without Salmonton, the church is nothing. And we have the profiles of all CDF agents in our Embassy.	
+18	拉斐尔	索娅·安赫莱斯──	索婭·安赫萊斯──	──ソヤ・エンジェルス	소야 앤젤러스──	Sonya Angeles...	
+19	N/A	拉斐尔面朝索娅，右手却指着我的脸。	拉斐爾面對著索婭，右手卻指著我的臉。	ラファエルはソヤの方を向いているが、\n右手は俺の顔を指している。	라파엘이 소야를 내려다보며 오른손을 나의 얼굴을 가리킨다. 	Raphilia is facing Sonya, but pointing at me with her right finger.	
+20	小怜	？	？	おっ、おお？	？	?	
+21	拉斐尔	你以为你手里的那件内衣……	妳以為妳手裡的那件內衣……	あんたが持っているその下着……	네 손에 있는 그 속옷을……	That lingerie you’re holding...	
+22	N/A	只见拉斐尔的右手稍稍下移，指向了我的胸部。	只見拉斐爾的右手稍稍下移，直指我的胸部。	ラファエルの右手が少し下がって、\n今度は違う部分を指差す。	라파엘의 오른손이 아래로 이동해 나의 가슴을 가리킨다.	Raphilia moves her finger downward slightly so that it’s pointing at my chest.	
+23	拉斐尔	这个女装癖，她塞得进去吗！？	這個女裝癖，她塞得進去嗎！ ？	そんな小さな面積のモノがッ！！\nこの女装癖に入るわけないでしょうがッッ！！！	저 여장변태가 입을 수 있을 거라고 생각했어！？	Would that really fit her?	
+24	小怜	诶？	什麼？	……は？	엣?	What?	
+25	N/A@路人A	哦──	哦──	ほう──	아──	Oh...	
+26	N/A@路人B	嗯……	嗯……	うん……	음……	Well…	
+27	小怜	……………………	…………（夠了喔！ ）	……………………	……………………	...	
+28	伊露卡	喔~	喔～嗯嗯～	ほおぉ～～！	오~	Oh...	
+29	N/A	伊露卡依旧有样学样的点着头。	伊露卡依舊有樣學樣的點著頭。	イルカは通行人の真似しながら頷いている。	이루카가 사람들을 따라하며 고개를 끄덕인다.	Elluka nods understandingly, even though she still has no idea what’s going on.	
+30	N/A	名侦探拉斐尔的推理终于帮我洗清了冤屈。	名偵探拉斐爾的推理終於幫我洗清了冤屈。	名探偵ラファエルの推理により、俺のM疑惑は\n晴れる事となった。	명탐정 라파엘의 추리가 드디어 나의 억울함을 해결해줬다.	Thankfully someone’s got common sense! Raphilia’s detective skills have finally proven to the world that the lingerie doesn’t belong to me.	
+31	小怜	（但为什么感觉更糟了！！）	（但感覺更糟了啊！ ！）	（でもなんか違う方向にやばくなってる感じが\n　するんだけどさ！！！！）	（그치만 어째서 기분이 나쁜거지！！）	(But it doesn’t make the situation any better!)	
+32	索娅	嘁──	嘖──	ちぇっ──	쳇──	Tch...	
+33	N/A	索娅露出一副扫兴的样子，就好像恶作剧失败的小孩一样。	索婭露出掃興的表情，就像惡作劇失敗的小孩一樣。	ガッカリとするソヤ。\nまるでイタズラに失敗した子供のようだ。	흥이 깨진 소야의 모습이 마치 장난에 실패한 아이같다.	Sonya sighs, like a child whose prank has failed.	
+34	N/A	她默默的揉着头上的包站了起来，给拉斐尔的随行人员写下一个地址。	她默默地揉著頭上的腫包站了起來，向拉斐爾的隨行人員要了張紙，寫下一個地址。	彼女は頭のコブをさすりながら、1つの住所を\n書いてラファエルの随行員に渡した。	그녀가 머리 위 혹을 만지며 라파엘의 수행요원에게 주소를 적어준다.	She slowly gets up, rubbing her head, and writes down an address for Raphilia’s entourage.	
+35	索娅	麻烦您帮我送到这里，拜托啦~	麻煩幫我送到這裡，拜託了。	こちらに届けてくださいませ！ \nお願いしますわ～～！	여기로 보내주세요. 부탁드려요~	Please send the bag of items to this address. Thanks!	
+36	随行人员	明白！	是！	かしこまりました。	알겠습니다!	Understood!	
+37	N/A	……	……	…………	……	…	
+38	N/A	为了脱离围观的人群，拉斐尔将我们拉到街边一家相对清静的美术馆。	為了擺脫圍觀的人群，拉斐爾將我們拉進附近一間僻靜的美術館裡。	見物人達から逃れるため、俺達は街の端にある\n静かな美術館へとラファエルに連行される。	주위에 몰려든 인파에서 벗어나기 위해 라파엘이 우릴 조용한 미술관으로 끌고 왔다.	Raphilia drags us away from the surrounding crowds to a relatively quiet art gallery.	
+39	拉斐尔	所以说，你整个下午都在带她们俩逛街？	所以說，妳整個下午都在帶她們倆逛街？	……つまりあんた、午後はずっと街中を\nぶらついていたってわけ？	그러니까, 네가 하루종일 저 두 사람을 데리고 쇼핑했다는 말이야?	So you’ve been shopping with those two all afternoon?	
+40	小怜	大致是这样……	差不多是這樣沒錯……	大体そんな感じ……	대충은……	Yeah, pretty much...	
+41	N/A	下午我们三人都在这一带游荡，先后去了甜品店和游戏厅，索娅都兴致索然。	我們三人下午都在這一帶遊蕩，先後去了甜點店和遊戲中心，但索婭到哪都興趣缺缺。	ゲーセンやスイーツ店とかに入ったりしたけど、\nソヤは全く興味を示さなかった。	오후에 우리 세사람은 이곳을 돌아다니며 디저트 가게, 오락실 갔지만 소야는 흥미로워하지 않았다.	The three of us had been hanging out in the area for a few hours already. We grabbed dessert and played some arcade games, though Sonya didn’t seem to find those fun.	
+42	N/A	但来到电器街后，这个家伙就完全刹不住车了……	直到來到電器街，這傢伙就完全剎不住車了……	ところが電気街に来た途端……完全に制御不能に\nなりやがって……	하지만 지하 상가에 온 후 이 녀석을 말릴 수 없게 됐다…	Now, the Electronics Street, on the other hand...	
+43	N/A	她一幅天真无邪的样子，却总钻进“超限制级”的区域逛！	看她一副天真無邪的樣子，卻老鑽進「超限制級」區！	無邪気を装いながら、彼女の入っていく場所は\n大体「18禁」のコーナーだ！	순진무구한 얼굴로 “선정적인” 구역을 돌아다니다니!	Can’t believe that innocent-looking girl has a thing for those adult shops!	
+44	N/A	而且挑出来的东西，都实在让人无法相信她是第一次来这里……	而且，她挑的東西實在讓人無法相信她是第一次來這裡……	しかも選ぶモノは、初めてここに来たとは\n思えないようなモノばかりで……	게다가 고른 물건들이 모두 이곳에 처음 왔다고 믿을 수 없는 것들이였다……	And she located all the items she wanted immediately. I bet this wasn’t her first time here.	
+45	索娅	印刷品会留下曾触碰过它的人的痕迹──	印刷品啊，都會留下曾觸碰過它的人的痕跡──	印刷物には触った人の痕跡が残ってますの～～	인쇄물에 그것들을 만진 사람들의 흔적이 남아있어──	I can tell who touched a book just by smelling it.	
+46	索娅	只要是那种散发着粉红色气息的本子，就可以直接买哦~！	只要是那種散發出粉紅色氣息的本本，就可以直接買囉！	ピンク色の匂いがする本でしたら、購入を迷う\n必要などはありませんわ～～っ♡	분홍색 기운이 느껴지는 책은 바로 사도 좋아~！	The books that smell pink are my favorite!	
+47	N/A	这家伙的能力平时都用在这些奇怪的地方吗！？	這能力不是讓妳用在這種地方的吧！ ！！ ！！	こいつの特殊な能力は、普段こんな事に使われて\nいるんだな……	이 녀석의 능력은 이런 이상한 곳에 쓰이는 건가！？	So she usually uses her skills on stuff like this?	
+48	小怜	结果我一手拎着购物袋，一手捂着身前伊露卡的眼睛，在那个区域门口等了好久……	結果我一手拎著購物袋，一手遮住伊露卡的眼睛，在那個區域入口等了超級久……	結局、俺は例のコーナーの前でかなりの時間を\n待たされる事となった。\n左手で紙袋を持ち、右手でイルカの目を\n遮っている状態で。	결국 한 손에 쇼핑백을 들고 한 손으로 이루카의 눈을 가린채 입구에서 한참을 기다렸다……	I had to stand there at the entrance, holding shopping bags with one hand and covering Elluka’s pure virgin eyes with another.	
+49	小怜	进进出出的人总免不了对我上下打量一番，实在不堪回首……	妳知道嗎？ ！進出門口的每個人都看著我，那眼神實在是……	もちろん出入りしている人達からはジロジロと\n見られてしまう。\n本当に思い出したくもない……	그곳을 지나가던 사람들이 나를 훑어보는 통에 정말 괴로웠다……	The customers passing by kept staring at my outfit. That was so embarrassing...	
+50	N/A	拉斐尔像看白痴一样对着我叹了口气，然后表情严肃的说道──	拉斐爾用看著白痴一樣的臉對著我嘆了口氣，表情嚴肅地開口──	ラファエルはアホを見るかのように溜め息を吐き\nそこから真剣な表情で語り始める──	라파엘이 바보를 보는 것처럼 날 쳐다보며 한숨을 쉬고 진지한 말투로 얘기한다─	Raphilia sighs, like she thinks I’m an idiot. And she finally speaks up:	
+51	拉斐尔	你不知道今天下午的事吗？	妳不知道今天下午的事嗎？	今日の午後に起きた事件、あんたは知らないの？	오늘 오후에 무슨 일이 있었는지 알아?	So you have no idea what happened this afternoon?	
+52	小怜	诶？发生什么了？	欸？ 下午？ 有什麼事嗎？	え？ 何かあったのか？	응? 무슨 일 있었어?	Eh? What?	
+53	拉斐尔	今天中午各个学园都市首脑和代表开始了为期48小时的封闭会议，这件事你总知道吧？	今天中午各學園都市的首腦和代表開始了為期48小時的閉門會議，這件事妳總知道吧？	今日の昼間、各学園都市の首脳と代表達が\n48時間にも渡る閉鎖会議を始めたわ……\nいくらあんたでも、それは知っているわよね？	오늘 정오에 각 학원도시 원수와 대표들이 48시간 비밀 회의를 시작했어. 이 일은 알고 있지?	The 48-hour closed meeting among the leaders of the Academy Cities started today at noon. You know that, right?	
+54	小怜	好像…在新闻里听过……？	好像……在新聞裡聽過……？	確か……ニュースで聞いたような……？	뉴스에서…들어본 것 같기도 하고……？	I think I heard about it in the news...	
+55	N/A	抱歉，并没有听过，这种政治新闻我都是看到就换台的。	抱歉，其實並沒有，通常我看到政治新聞就轉台了。	ごめんなさい、ウソです。聞いた事ないです。\n\nこういう政治ニュースが放映されていたら、\nすぐにチャンネルを変えちゃうから。	미안하지만 들어본 적 없다. 그런 정치 뉴스가 나오면 바로 채널을 돌려버리거든.	Sorry, I usually just change the channel when politics news comes on.	
+56	拉斐尔	封闭会议开始两小时后，会场外的第三学园都市议长忽然发布了一个爆炸性的声明。	閉門會議開始兩小時後，會場外的第三學園都市議長忽然發佈了一個爆炸性聲明。	閉鎖会議が始まってから2時間後。\n\n会場外の第三学園都市議長が突然、\n衝撃的な声明を発表したのよ。	비밀 회의가 시작되고 2시간 후 회의장 밖의 제3학원도시 의장이 갑자기 폭탄 발언을 했어.	Two hours after the closed meeting began, the official speaker of the Third Academy City, who’s not attending the meeting, made an announcement that shook up the world:	
+57	拉斐尔	声明中宣布，马萨达堡的『自动反击系统』已经建造完成并正式投入运行了。	聲明中宣佈，馬薩達堡的「自動反擊系統」已經建造完成並正式運作了。	内容は有り体に言えばシンプル。\n\nマサダブルクの『自動反撃システム』の建造完了\nそして既に正式な稼働をしているって話。	마사다 성의 『자동 반격 시스템』의 건설이 끝났고 정식 운행을 시작했다고 발표했어.	Construction for Masada Ford’s passive riposte system is complete. The system is now officially operating.	
+58	拉斐尔	这个系统建立在完全闭锁的物理环境内，由不与外界联网的AI模组控制。	這個系統建立在完全封閉的環境中，由不和外界連線的AI模組控制。	このシステムは外部ネットワークから完全遮断\nされたAIモジュールでコントロールされていて、\n物理的な環境も閉鎖空間で構築されているわ。	이 시스템은 완전 밀폐된 물리 환경에 세워졌고 외부 네트워크의 AI모듈로 제어하지 않아.	The system is built in a fully closed environment, controlled by an offline AI module that’s in no way connected to the outside world.	
+59	拉斐尔	一旦开始运行，在20年内都无法被关闭。	一旦開始運作，20年內都無法關閉。	しかも一度稼働が始まってしまったら、\n20年間は停止する事ができないようね。	운행을 시작하면 앞으로 20년간 종료할 수 없어.	Once it starts running, no one will be able to turn it off within the next twenty years.	
+60	小怜	有种阴谋的味道……	這是陰謀吧……	何か、キナ臭いな……	뭔가 음모의 냄새가 나는데……	That doesn’t sound at all above-board...	
+61	拉斐尔	然而，那根本不是之前外界猜想的，由AI自动对各种外界攻击进行自动反击的系统。	重點是，那根本不是之前外界所想的，由AI對各種外來攻擊進行自動反擊的系統。	その通りよ。\n\nあれは各国の想定していた、AIが攻撃に対して\n自動的に反撃するようなシステムではないわ。	외부의 추측과 달리 AI가 자동으로 각종 외부 공격에 자동 반격하는 시스템이 아니야.	However, unlike what everyone thought, it’s not an AI-controlled system that would automatically launch a counterattack when attacked.	
+62	N/A	拉斐尔露出一种复杂的表情──恐惧、愤怒、似乎还有些许悲伤。	拉斐爾露出一種複雜的表情，參雜著恐懼、憤怒，似乎還有點悲傷。	ラファエルは複雑な表情を見せた──\n\n恐怖、怒り、そして少しの悲しみがうかがえる。	라파엘이 복잡한 표정을 짓는다──공포, 분노, 그리고 약간의 슬픔.	Raphilia’s expression is indescribable—a combination of fear, rage, and even sorrow.	
+63	N/A	她顿了一下，快速整理好自己的情绪。	她頓了一下，快速整理好情緒。	彼女はひと呼吸置き、素早く自分の感情を\n整理する。	그녀가 잠시 말을 멈추다 빠르게 자신의 감정을 정리한다. 	She pauses, trying to pull herself together.	
+64	N/A@拉斐尔	这个系统只有一个功能──就是当它判断马萨达市区毁伤程度达50%时，就会启动『末日程序』。	這個系統只有一個功能──就是當它判斷馬薩達市區的損害程度達到50%時，就會啟動「末日程式」。	このシステムの機能はたった1つ──\n\nマサダ市街に50%以上の損害が出たら、\n自動的に『終末プログラム』が起動するのよ。	이 시스템은 한가지 기능만 있어──마사다의 손상 정도가 50%가 되면 『멸망 프로그램』을 가동해.	In fact, the system has one function only: when it determines that over 50% of the Masada Ford downtown has been destroyed or harmed, the “Apocalypse Operation” will be triggered right away.	
+65	N/A@拉斐尔	通过异质物『幻想军势』向全世界所有大型城市无差别投放核弹。	透過異質物「幻想軍勢」，向全世界所有大型城市無差別地投放核彈。	異質物『ファントムフォース』を使用し、\n全世界の大都市へ核弾頭攻撃が行われる。	이물질 『환상의 바요넷』을 통해 전세계 모든 대형 도시를 향해 무차별 핵을 투하하는 거야.	The system will then drop nuclear bombs indiscriminately on all major cities around the world via the Substance H “Fantasy Army”.	
+66	N/A@拉斐尔	就是说无论谁对马萨达堡造成了毁灭性打击，这个系统都会拉上全世界一起陪葬。	也就是說，無論誰對馬薩達堡做出毀滅性攻擊，這個系統就會帶著全世界一起陪葬。	マサダブルクに壊滅的な打撃を与えた瞬間、\nこのシステムが全世界を道連れにするって事ね。	다시 말해서, 누군가 마사다 성을 공격한다면 이 시스템이 전세계를 함께 매장시킬 거란 거지.	Basically, if Masada Ford is harmed, no matter by whom, the whole world goes down with it.	
+67	N/A@拉斐尔	这是被写死在系统固件上的底层机制，即使是国家元首也无法关闭。	這程式被寫死在系統韌體的底層，即使是國家元首也無法關閉。	システムのファームウェアにハードコードで\n書かれた基本メカニズム。\nそれは例え国家元首であっても停止させる事は\nできないわ……	시스템 펌웨어에 적힌 기본 시스템은 국가 원수도 어떻게 할 수 없어.	It’s a fundamental mechanism in the system’s firmware. No one would be able to turn it off, not even nation leaders.	
+68	N/A@拉斐尔	如果强行破坏、关闭或改写系统逻辑，会立刻触发末日程序的启动。	如果強行破壞、關閉或改寫系統，也就會立刻觸發末日程式。	強引に破壊、停止、またはシステムロジックの\n書き直しも不可能。\n何を企もうとも即座に終末プログラムが発動、\n崩壊は免れない……	만약 강제로 손상, 종료시키거나 시스템 로직을 변경하면 멸망 프로그램이 가동될 거란 말이야.	If anyone attempts to break, shut down, or rewrite the system, the Apocalypse Operation will be immediately triggered.	
+69	索娅	哦呀呀……	哦呀呀……	あららぁ……	오아아……	Uh...	
+70	小怜	这……	這……	それは……	그런……	What’s this...?	
+71	N/A	虽然还有很多细节不甚清楚，但仅仅那几个关键词就足以说明事态之严重。	雖然不清楚其他細節，但光是那些關鍵字就足以說明事態嚴重。	正直良く分かってない部分はいっぱいある。\n\nだけど説明に出てきた少しのキーワードで、\n事態の深刻さが俺の脳みそでも把握できた。	자세한 사항은 모르겠지만 몇몇 키워드만으로 상황이 심각하다는 걸 알 수 있다.	While I’m not exactly sure of the details, it already sounds like a grave situation judging from the keywords I caught.	
+72	N/A	『幻想军势』是第三学园都市的战略级异质物，地位类似『埃癸斯』之于新丰洲。	「幻想軍勢」是第三學園都市的戰略級異質物，地位就像「埃癸斯」相對於新豐洲。	『ファントムフォース』は第三学園都市である\nマサダブルクの戦略的異質物。\nその価値は新豊洲にとっての『イージス』に\n匹敵する。	『환상의 바요넷』은 제3학원도시의 전략급 이물질이다. 지위는 신토요스의 『아이기스』와 비슷하다.	“Fantasy Army” is a kind of military-grade Substance H used in the Third Academy City. It’s vital to the city in the way the Aegis is vital to New Opulentia.	
+73	N/A	那是一种空间类异质物，从特定空间发射的武器可以获得威力倍化的异常效果──	那是一種空間類異質物，從特定空間發射的武器可以獲得威力加乘的異常效果──	あれは空間類の異質物で、その空間から\n発射された武器の威力を劇的に上昇させる。	공간류 이물질, 특정 곤간에서 발사하는 무기는 엄청난 위력을 보유하고 있다──	It’s a spatial type of Substance H that grants weapons that exist in a certain space multiple times their original firepower.	
+74	N/A	当那些武器击中大气层内的目标时，能产生几倍到几百倍于原设计值的破坏力。	當那些武器擊中大氣層內的目標時，會造成高於原設計幾倍甚至幾百倍的破壞力。	大気圏内の目標に命中した場合では、設計値の\n数倍から数百倍の破壊力を計測したらしい。	그 무기들이 대기층 내 타겟을 공격할 때 몇배에서 수백배의 파괴력을 생성한다.	When said weapons hit their target in the atmosphere, they can cause destruction up to hundreds of times more serious than they could have with their original design.	
+75	N/A	由于马萨达严格的保密措施，外界对其具体参数知之甚少。	由於馬薩達嚴格的保密措施，外界對其具體資訊所知不多。	具体的な数値に関しての情報は、マサダブルクの\n守秘措置により極少数にしか伝わっていない。	마사다의 엄격한 기밀 설계로 그것의 구체적인 파라미터가 외부에 공개되지 않았다.	The outside world knows very little about its exact parameters due to the strict confidentiality kept by Masada Ford.	
+76	N/A	甚至『幻想军势』这个名字也是代称，源自某位敌方将领的嘲讽──	甚至「幻想軍勢」這個名字也是代稱，源自某位敵方將領的嘲諷──	『ファントムフォース』の名前もただの呼称で、\nとある将軍への皮肉が由来だ──	심지어 『환상의 바요넷』 이 이름 역시 코드명으로 어느 고급 장교의 풍자에서 온 것이라고 한다──	Even the name “Fantasy Army” itself is simply a codename that originated from the taunting words of an enemy general.	
+77	N/A	当年西奈半岛补给线被切断，那位将军四处叫嚣想要守住马萨达只能凭幻想。	當年西奈半島補給線被切斷時，那位將軍四處叫囂，還說想要守住馬薩達只能靠幻想了。	当時マサダ軍のシナイ半島の補給ルートが\n分断された時、とある将軍が吹聴していた。\n「もはや幻想の軍勢（ファントムフォース）に\n　マサダは頼るしかない」と。	시나이 반도의 보급선이 끊긴 해에 그 장군이 마사다를 지키려면 환상에 의지해야 한다고 외치고 다녔다.	That was back when the supply line from the Sinai Peninsula was cut off and Masada Ford was in peril. The general gloated that Masada Ford was an easy target now and victory to the city is but a fleeting fantasy.	
+78	N/A	后来他的阵地被一枚“威力大到匪夷所思”的反坦克导弹所夷平……	後來他的陣地被一枚「威力大到匪夷所思」的反坦克導彈所夷平……	その後「常軌を逸した威力」の対戦車ミサイルに\nよって将軍の陣地は廃墟と化す……	이후 그의 진지가 “위력이 어마무시한” 대전차 미사일에 의해 폐허가 됐다……	Not long afterwards, his territory was completely flattened by an “unimaginably powerful” anti-tank missile...	
+79	N/A	外界并不知道『幻想军势』的准确位置，据说整个马萨达堡都是围绕它建造的。	外界並不知道「幻想軍勢」的準確位置，據說整個馬薩達堡都是圍繞著它建造的。	各国は『ファントムフォース』の精確な位置を\n未だ掴めてはいない。\nむしろ『ファントムフォース』を守るために、\nマサダブルク自体が建造されたと言われている。	외부인은 『환상의 바요넷』의 정확한 위치를 모른다. 마사다 성 전체가 그것을 중심으로 건설됐다는 말도 있다.	No outsider knows the exact location of the Fantasy Army. Rumor has it that the whole Masada Ford was built around it.	
+80	N/A	经过多年的加强，现在那座堡垒都市甚至能轻易应对洪水、地震、台风等自然灾害了。	經過多年的加強，現在那座堡壘都市已經能輕易應付洪水、地震、颱風等自然災害了。	今やあの要塞都市は長年の補強を得て\n洪水、地震、台風などの自然災害にも、\n容易に対応できるようになった。	몇년의 보강을 거쳐 지금 그 성 도시는 홍수, 지진, 태풍 등 자연재해를 쉽게 이겨낸다.	Masada Ford continued to be fortified throughout the years. Right now, it’s immune to even natural disasters such as floods, earthquakes and typhoons.	
+81	小怜	（我记得即使是被幻想军势加强的武器，也会被埃癸斯完美防御吧，而且这是公开的信息……）	（我記得，即使是被幻想軍勢加強過的武器，也會被埃癸斯完美防禦吧，而且這是公開的資訊……）	（一応ファントムフォースによって強化された\n　武器だとしても……）\n（イージスは完璧に防御できるって情報が\n　公開されていたよな……）	（환상의 바요넷에 의해 강화된 무기도 아이기스가 완벽하게 방어한다지…게다가 이건 공개된 정보다……）	(I remember that the Aegis should be able to defend against even weapons strengthened by the Fantasy Army... at least that’s what the general public thinks...)	
+82	小怜	不过AI什么的……	但是AI什麼的……	だけど『ファントムフォース』をAIで\nなんて……	하지만 AI 같은 건……	Still, the system is AI-operated and that may be a problem...	
+83	N/A	在所有的科幻作品中，把核按钮交给人工智能从来就没有过什么好事。	在所有科幻作品中，只要把核彈按鈕交給人工智慧，就不會有什麼好事。	大体のSF作品も核兵器のスイッチを人工知能に\n渡したら、ロクな結果になってないのに。	모든 공상 과학 작품 중 핵 버튼을 인공 지능에게 맡겨 좋은 일이 있는 경우는 한 번도 보지 못했다.	In all sci-fi works I’ve read, letting AI control nuclear weapons has never been a good idea.	
+84	N/A	我脑中回想起全裸兄贵机器人和戴着墨镜在轮椅中瘆笑的博士……	我回想起全裸的兄貴機器人和戴著墨鏡、一臉賊笑且坐著輪椅的博士……	最後は溶鉱炉に落ちていく筋肉モリモリの\n全裸アンドロイドとか、\nサングラスをかけた博士が車椅子に座って\n不気味に笑うシーンを俺は思い出した。	머릿속에 전라의 로봇과 검은색 선글라스를 끼고 휠체어에 안장 웃고 있는 박사가 떠오른다……	Reminds me of this one anime I watched once, with a naked man and a scientist in a wheelchair, guffawing behind his sunglasses...	
+85	拉斐尔	声明的附件中有相关AI的全部测试数据，毕竟他们是第一个将人工智能投入实战的国家。	聲明的附件中有所有關於AI的測試數據，畢竟他們是第一個將人工智慧投入實戰的國家。	声明において付属された文書に関連AIの\n全てのテストデータがあったわ。\n一応、彼らは人工知能を初めて実戦に導入した\n国ではあるし……	첨부 파일 안에 AI와 관련된 모든 테스트 데이터가 들어있어. 그들은 인공 지능을 실전에 투입한 첫번째 나라야.	The complete test data of all related AI is attached in the announcement Masada Ford posted. They’re the first country to apply AI technology to actual combat, after all.	
+86	N/A	拉斐尔有些焦虑的看向窗外。	拉斐爾有點焦慮地看向窗外。	ラファエルは少し杞憂の表情を見せながら、\n窓の外を見ている。	라파엘이 조금 불안한 듯 창 밖을 바라본다.	Raphilia gazes outside the window with a slight scowl on her face.	
+87	拉斐尔	我不担心程序，我担心的是人──	我不擔心程式，我擔心的是人──	プログラムは平気……心配なのは人間の方――	내가 걱정하는 건 프로그램이 아니라 인간이야──	I’m not worried about what the AI will do. What I’m worried about is what the humans will do.	
+88	N/A	今天电器街的人群，似乎比以往多了几倍……	今天電器街的人潮，似乎比以往多了幾倍……	本日の電気街の人通りは、いつもの数倍にも\n膨れ上がっている……	오늘 전자 상가에 사람들이 평소보다 몇배는 많은 것 같다……	Electronics Street seems uncharacteristically crowded today.	
+89	N/A	与此同时，协约非武装区内，纽摩利达斯大使馆。	在此同時，協議非武裝區內，紐摩利達斯大使館。	──同時刻。\n\n──協定非武装地域内、ニューモリダス大使館。	이 시각 협약 비무장지대, 뉴 모리다스 대사관.	<Meanwhile, Newmoridas Embassy, Agreed Demilitarized Zone>	
+90	伦伯特	马萨达用这个系统将『幻想军势』封存起来，放弃了主动使用它的权利。	馬薩達用這個系統將「幻想軍勢」封存起來，放棄主動使用它的權利。	マサダブルクはこのシステムによって\n『ファントムフォース』を封印し、\n自発的に使う権利を放棄したようだ。	마사다는 이 시스템으로 『환상의 바요넷』 을 밀폐하고 주동 사용 권리를 포기했어.	Masada has used this system to seal up the Fantasy Army, and surrendered the city’s rights to activate it.	
+91	伦伯特	在保证共同毁灭的表象之下──	在保證共同毀滅的表面下──	共同破滅を保証する観念をベースにね……	공동 멸망을 보장한다는 조건으로──	On the surface, the system seems to promote a “we die, everyone dies” mindset—	
+92	伦伯特	这个系统的本质，也可以说是一种强制和平声明。	這個系統的本質，也可以說是一種強制性的和平聲明。	このシステムの本質は、ある種の強制的な\n平和宣言とも言える。	이 시스템의 본질은 강제 평화 성명이라고 할 수 있어.	But essentially, it’s like a forced kind of peace declaration.	
+93	N/A	讲话的男性穿着讲究的手工定制西装，将手中的威士忌酒杯放在了桌上。	說話的男子穿著優雅的手工訂製西裝，將手中的威士忌酒杯放到桌上。	そう話したランボットは、手に持つウイスキーの\nグラスをテーブルに置いた。	말을 하는 남자는 수공 제작한 양복을 입고 있다. 손에 든 위스키잔을 테이블 위에 올린다.	The speaker is a man dressed in a sleek, customized suit. He places his glass of whiskey on the table.	
+94	戴眼镜的女性	我同意。	我同意。	──同意見です。	동의해요.	Yes.	
+95	戴眼镜的女性	但您事前知道那套系统的情报吧？	但您事前早就知道那套系統的情報吧？	しかし、あなたは事前にそのシステムの情報を\n存じ上げてましたよね？	하지만 당신은 사전에 이 시스템의 정보를 알고 있었겠죠?	But you already knew about the system beforehand, didn’t you?	
+96	伦伯特	……你还是这么喜欢单刀直入呢，秋子。	……妳還是這麼直來直往呢，秋子。	……ふむ、相変わらず単刀直入だな、秋子。	……넌 역시 단도직입적인 걸 좋아하는구나. 아키코.	Straight to the point like always, I see, Akiko.	
+97	伦伯特	这种系统在建造完成并正式启动之前绝不能走漏半点风声，不然全世界都会来阻止。	這種系統在建造完成和正式啟動前，絕對不能走漏半點風聲，不然全世界都會出手阻止。	完成して正式起動するまでは決して情報を\n漏らす訳にはいかなかった。\nでなければ、全世界が阻止しようとするからね。	이 시스템이 완성되고 정식 가동 되기 전까지 절대 정보가 새어나가선 안돼. 그렇지 않으면 전세계가 막으려 들테니.	Word of the system’s construction can’t get out before it’s complete and officially activated. Or else the whole world would try to intervene and keep it from being built.	
+98	秋子	老骗子。	老狐狸。	本当に古狸ね。	거짓말.	Old fox.	
+99	N/A	秋子面无表情的扶了扶眼镜。	秋子面無表情地推了一下眼鏡。	秋子は無表情にメガネを上げた。	아키코가 무표정으로 안경을 고쳐 쓴다.	Akiko pushes up her glasses, face expressionless.	
+100	伦伯特	……	……	…………	……	…	
+101	伦伯特	总之，现在木已成舟，民众在抗议一阵之后也只能接受这个现实。	總之，現在木已成舟，民眾再怎麼抗議也只能接受這個事實。	とにかく大勢は決した……\n\nいくら抗議を続けようとも結局の所、\n民衆はこの現実を受け入れるしかない。	어쨌든 이제 돌이킬 수 없어. 민중들도 곧 이 사실을 받아들일 수 밖에 없을 거야. 	Anyway, what’s done is done. The public may complain, but there’s nothing they can do about it except accept it.	
+102	秋子	老骗子。	老狐狸。	本当に古狸ね。	거짓말.	Old fox.	
+103	伦伯特	……抱歉，我不该向你隐瞒。	……抱歉，我不該隱瞞妳。	……すまない、君に隠すべきではなかった。	……미안. 너에게 숨기는 게 아니였는데	... Sorry for withholding information from you.	
+104	秋子	哼。	哼。	ふん──	흥.	Hmph.	
+105	N/A	伦伯特清了清嗓子。	倫伯特清了清嗓子。	ランボットは咳払いをする。	럼버트가 목소리를 가다듬는다.	Lumbert clears his throat.	
+106	伦伯特	马萨达现在最希望的，就是控制住负面舆论，尽量避免联合议会成员国的经济制裁。	馬薩達現在最希望的，就是控制住負面輿論，盡量避免聯合議會的經濟制裁。	マサダブルクが今一番望んでいる事は、\n世論の酷評を極力抑え、\n連合議会加盟国の経済制裁をでき得る限り\n回避する事だ。	마사다가 지금 가장 바라는 것이 바로 부정적인 여론을 통제하고 연합의회 국가의 경제 제재를 피하는 거야.	Right now, what Masada Ford wants is to keep the negative controversy under control and avoid economic sanction from United Congress member nations.	
+107	伦伯特	两年前纽摩利达斯终止了对马萨达的贷款之后，他们只能变本加厉的掠夺周边地区。	兩年前紐摩利達斯終止了對馬薩達的貸款之後，他們只能變本加厲掠奪周邊地區。	2年前、ニューモリダスが融資を中止してから、\nマサダは周辺地域の接収を余儀なくされている。	2년 전 뉴 모리다스가 마사다의 대출을 중지한 후 마사다는 주변 지역을 약탈할 수 밖에 없었어.	Since two years ago, when Newmoridas stopped providing loans to Masada, the city had no choice but to start robbing surrounding areas of their resources.	
+108	秋子	杀鸡取卵。	哼，殺雞取卵。	「一文惜しみの百知らず」ってやつかしら。	닭을 잡아서 달걀을 얻었네.	It’s like killing a chicken for the eggs.	
+109	伦伯特	但是去年萨蒙顿开始接收难民，一方面是为了对冲逐年减少的本国人口数量──	不過，去年薩蒙頓開始接收難民，一方面是為了減緩逐年減少的人口數──	そして去年からサモントンが難民を\n受け入れ始めた。\nもちろん年々減少していた人口数への\n対抗手段という意味もあるが──	작년에 살몬톤이 난민을 받아들이기 시작한 건 점차 감소하는 인구수를 보완하기 위해서고──	But Salmonton’s opened its doors to refugees last year. On one hand, the population in the country is dropping anyway—	
+110	伦伯特	另一方面也借难民形成了一条缓冲带，将马萨达封锁在欧洲之外。	一方面也藉由難民形成了一個緩衝區，將馬薩達封鎖在歐洲之外。	一方の狙いとして国家の緩衝地帯を\n難民によって形成し、\nこれ以上マサダが接収に乗り出さないように\nヨーロッパ外へと封じ込める意味もあったのだ。	다른 방면으론 난민을 빌미로 완충지대를 형성해 마사다를 유럽 밖으로 봉쇄하기 위해서야.	On the other, it’s a way to ensure that Masada never becomes part of Europe. The refugees can act as a sort of buffer.	
+111	秋子	这下鸡也没了。	這下連雞也沒了。	あら、既に百知らずの状態ね。	달걀도 없어졌고.	And now, without the chicken, who’s gonna lay the eggs?	
+112	N/A	秋子翻了个白眼。	秋子翻了個白眼。	秋子は白い目をした。	아키코가 눈을 희번덕 거린다.	Akiko rolls her eyes.	
+113	伦伯特	由于连年战争，马萨达军队和相关系统已经占据了全国人口的15%，国家财政已经不堪重负了。	由於連年戰爭，馬薩達軍隊和相關系統已經高達全國人口的15%，國家財政早就不堪負荷。	絶え間ない戦争によりマサダの軍隊と\n関連する人員は全人口の約15%を占めている。\n国の財政はすでに成り立たない域に達して\nしまった。	몇년간 전쟁으로 마사다 군대와 관련 시스템이 나라 인구의 15%를 차지했고 정부도 감당할 수 없게 됐어.	Due to the endless wars in Masada, over 15% of their population is either part of the military or related to someone who’s in it. You can imagine the financial situation in the country.	
+114	秋子	所以他们还想借这次公布自动反击系统进行裁军？	所以他們還想藉這個系統進行裁軍？	つまり彼らはこの自動反撃システムを盾に\n軍縮を図ろうと？	그러니까, 그들이 자동 반격 시스템을 발표해서 군축을 시도하려는 건가요?	So they’re also using the news of this passive riposte system as a chance for disarmament?	
+115	伦伯特	这只是节流，还要开源──	這只是節流，還要開源──	あれはちょっとした節約だね。\n\nまだ財源の開拓が必要だ。	벨브를 틀었을 뿐, 아직 시작도 안했어──	It’s simply a way to save money. But they’ll also need a way to make more money, which is—	
+116	秋子	军火交易。	軍火交易。	軍事売買？	무기 거래.	Arms trade.	
+117	N/A	秋子立刻想到了马萨达唯一的土特产。	秋子立刻想到了馬薩達唯一的特產。	マサダ唯一の特産品を、秋子は皮肉めいて\n言葉にする。	아키코가 마사다의 유일한 특산품을 생각해냈다.	Akiko immediately supplies. It’s obvious. Firearms are the only specialty Masada Ford has to offer.	
+118	伦伯特	或者说，贩卖“国防解决方案”。	形容得好聽一點是販賣「國防解決方案」。	あるいは『国防解決案』の販売かな。	혹은 “국방 해결 방안 판매.	Or, should I say—the trade of “national defense solutions”?	
+119	伦伯特	抵抗军一直被认为是潜伏在马萨达周边的世界级恐怖组织……	抵抗軍一直被認為是潛伏在馬薩達周邊的世界級恐怖組織……	レジスタンスはマサダ周辺を拠点とした、\n世界級のテロ組織であると言われているが……	저항군은 줄곧 마사다 주변에 잠입한 공포 조직으로 여겨져왔어……	The Resistance is known as a highly dangerous terrorist group that lurks somewhere around the periphery of Masada...	
+120	伦伯特	但这些都是马萨达刻意运作的媒体宣传。	但這些其實都是馬薩達刻意安排的媒體宣傳。	しかしそれは、全てマサダがマスコミを\n意図的に操作したもの。	하지만 이것들은 모두 마사다가 일부러 조작한 매체 선전이야.	But it’s actually the media from Masada that makes it seem that way.	
+121	伦伯特	那么一个内部分裂、从管理到技术都被甩开一个时代的组织，被吹捧成为全人类的威胁。	那麼一個內部分裂、從管理到技術都是舊世代思維的組織，居然能被吹捧成全人類的威脅。	技術も管理も全てが時代遅れで\n内部分裂しただけの組織の切れ端が、\n今や全人類の脅威と誇張されている。	내부 분열, 관리부터 기술까지 한 시대를 장악한 조직을 전인류의 위협으로 추켜세우는 거야.	The Resistance is actually an obsolete organization that’s got fundamental issues in both management and technology. The members barely work together. Definitely not as big a threat as the media makes them out to be.	
+122	秋子	要想贩卖安全，必先散布恐惧…	要想販賣安全，必先散佈恐懼……	「安全」を販売するに当たって、まず恐怖の種を\n植える必要がある……	안전을 팔고 싶으면, 우선 공포를 퍼트려라…	To sell safety, they have to spread fear first...	
+123	秋子	几十年前卖安全软件的都明白这个道理。	幾十年前賣防毒軟體的都明白這個道理。	数年前、セキュリティソフトを販売してた人間は\n全員その理屈を分かっていた。	10년 전 보안 프로그램 판매부터 다 알고 있는 원리죠.	I’m sure all marketing agents of computer security software know this only too well.	
+124	秋子	那么在这件事情上，你的诉求是？	所以在這件事情上，你的訴求是？	では、この件に関してあなたのお望みは？	그렇다면 이 일에 대한 당신의 조건은？	Anyway, let’s get to the point. What exactly do you want?	
+125	N/A	伦伯特在桌面展开的地图上，指向了亚洲与非洲的交界处。	在桌上攤開的全球地圖上，倫伯特指著亞洲與非洲的交界處。	ランボットはテーブルに広げてあった\n地図上のアジアとアフリカの境界を指差す。	럼버트가 테이블 위에 펼쳐진 지도 위 아시아와 아프리카의 경계를 가리킨다.	Lumbert points to the border between Asia and Africa on the map spread out on the table.	
+126	秋子	哼，我想也是。	哼，我想也是。	はぁ……そんな事だろうとは思いました。	흥, 나도 그렇게 생각해요.	Hm. Thought so.	

@@ -1,0 +1,73 @@
+﻿1	N/A@探员A	各小组注意，相位波动正在衰减！	各小組注意，相位波動正在衰減！	各チーム注意、位相波動が減衰している！	현재 위상 파동이 감소하고 있다! 모두 주의하도록!	All teams, attention! The Flux is declining!	
+2	N/A@探员A	敌人随时可能出现！\n坚守位置准备迎击！！	敵人隨時可能出現！ \n堅守崗位準備迎擊！ ！	敵がいつ現れても、おかしくない状況だ！\n各位ポジションを守れ　迎撃準備をっ！！	적이 언제 나타날지 모른다!\n각 위치에서 공격에 대비하라! 	The enemy may emerge at any minute! \nHold position and get ready to fight!	
+3	N/A@探员B	……报、报告！	……報、報告！	……報っ、報告です！	…보，보고！	… Sir!	
+4	N/A@探员B	目视区域内发现两个人形单位，突然出现在异变核心区……	目視區內發現兩個人形單位，突然出現在異變核心區……	目視区域内に2体の人型ユニット…人間を発見。\n\nいきなり、異変中心部から現れました……	관찰 구역에 인간 2명이 있습니다. 갑자기 변이 핵심구에 나타났다 합니다.	Two human-like entities spotted in the central flux area. They just emerged from nowhere…	
+5	N/A@探员A	人类……？\n怎么可能！模因检测的结果是？？	人類……？ \n怎麼可能！ 迷因檢測的結果是？ ？	人間……？　そんな馬鹿な！\n\nミーム検査の結果はどうだ！？	인간……？\n그럴리가! 밈 탐측 결과는…?!	Human? \nImpossible! What about the meme detection?	
+6	N/A@探员B	色相是……\n绿色！！	色相是……\n綠色！ ！	色別反応は……グリーンですッ！！	색상은……\n녹색입니다！！	The hue is… \nGreen!!	
+7	N/A@探员B	似乎是两个小姑娘……\n不要开火！不要开火！	似乎是兩個小女孩……\n不要開火！ 不要開火！	どうやら2人の少女のようです……\nオイっ！　撃つなっ！　撃つなっ！	소녀 2명으로 보입니다……\n사격 중지! 사격 중지!	Looks like two little girls… \nHold your fire!	
+8	N/A@探员A	……	……	……	……	…	
+9	N/A@探员A	刚刚接到命令，优先将她们控制并带回总部。\n派一个高级探员去交涉——	剛剛接到命令，優先控制住她們並帶回總部。 \n派一個高級探員去交涉——	たった今、命令を受諾した。彼女達の身柄を\n押さえて、本部に連れていく事を優先する。\n上級捜査員の1人を交渉に向かわせろ──	저들을 본부로 데려오라는 명이 내려졌다.\n고급 요원을 보내 교섭한다——!	Just got an order. The priority is to keep the girls under control and take them to the base. \nSend a Senior Agent to talk—	
+10	N/A@探员A	其他人注意警戒，交涉期间目标如果有异动立刻处决！！	其他人注意警戒，目標如果在交涉期間出現異常就立刻擊斃！ ！	他の者は警戒を緩めるな！\n\n交渉中、もしターゲットに何か怪しい動きが\nあったら、直ちに処分しろッ！！	나머지는 경계를 유지하고 교섭 타겟이 이상 행동을 보이면 즉각 처리하도록!	All others, stay alert! You have my permission to take down the targets whenever needed!	
+11	N/A@探员B	明白！	是！	了解です！	네!	Understood!	
+12	N/A	我们小心地向研究中心出口处前进。	我們小心地向研究中心出口處前進。	俺達は用心しながらも、研究センターの出口に\nたどり着いた。	우리는 조심스럽게 연구 센터 출구를 향해 걸어갔다.	We are carefully moving towards the exit of the Research Center.	
+13	N/A	迎接我们的，除了熟悉的街道，还有一排封锁带和后面拿着武器严阵以待的人。	迎接我們的，除了熟悉的街道，還有一排封鎖線和後面拿著武器嚴陣以待的人。	しかし迎えてくれたのは見慣れた街並みの他に、通路を遮断するバリケードの列。\n更に武器を携えた人達が、その後ろで待ち構えていた。	우리를 맞이한 것은 바리게이트와 무기를 들고 대기하는 사람들이다.	We do see the familiar streets at the exit, but didn’t expect the barrier tapes and armed personnel behind them.	
+14	小怜	怎、怎么突然冒出这么多人？！	怎、怎麼突然冒出這麼多人？ ！	な、なんで、こんな大勢の人がっ！？	어，어디서 이렇게 많은 사람들이 ?! 	Wh-why are there so many people here all of a sudden?!	
+15	小怜	啊——安妮！\n快把我的衣服换回去！！	啊，不對——安妮！ \n快換回我原本的衣服！ ！	ひぃ―――――ア、、アニーっ！\n早く俺の服を戻してくれっ！！	아——앤！\n어서 내 옷을 바꿔줘!!	Ah—Annie, \nChange my clothes back!	
+16	小怜	这么羞耻的衣服……\n实在不想被人看到啊……	這麼羞恥的裝扮……\n實在不想被人看到啊……	こ…こんな恥ずかしい格好……\nこれ以上見られたくない……	이렇게 부끄러운 옷을……\n다른 사람에게 보여주고 싶지 않아…	This suit is so embarrassing… \nWhat if someone recognizes me…	
+17	安妮	这种时候还在在意这个吗？	這種時候有必要在意這個嗎？	こんな時に何を気にしてるのよ？	아직도 그걸 신경쓰는  거야?	Is it a right time to focus on this now?	
+18	安妮	你的衣服都好好的保存在我这，不用担心……	反正妳的衣服都好好的保存在我這裡，不用擔心……	あなたの服はちゃんと預かってるから、\n心配しないで。	옷은 내가 잘 보관하고 있으니까. 걱정 마…	Your clothes is safe with me. No worries…	
+19	安妮	一定要换的话，你把现在的『战服』脱掉，再穿上原来那些松松垮垮的衣服就是了~	一定要換的話，妳得先把身上的「戰服」脫掉，才能穿上原來那些鬆垮的衣服唷～	どうしても～って言うなら、元のだぶだぶの服を今すぐ返すよ？\n今、着ている『戦闘服』を脱いで着替えられる\nのならね～～	꼭 갈아입어야겠다면 『전투복』을 벗고 그 헐렁헐렁한 옷을 다시 입으면 되겠네~	If you must, just take off the Battle Suit, and then put on those loose pieces.	
+20	安妮	不过前面有很多男人欸……\n真的要当着他们的面换衣服吗？	不過前面有很多男人欸……\n確定要在他們面前換衣服嗎？	でも～、目の前には男の人とか～が大勢いるね～\n本当に彼らの目の前で着替えちゃうのかな～？	그런데 어쩌나 이렇게 많은 남자들 앞에서……\n정말 옷을 갈아입으려고~?	But there are many guys here… \nAre you sure you wanna get changed in front of them?	
+21	小怜	呜呜呜~~\n明明我也是男……	嗚嗚嗚～～\n明明我也是男……	ぐぬうぅ………\n俺も男だって言うのに……	흐흐흑~~\n나도 남자…	Sniff-sniff… \nI’m actually a…	
+22	安妮	说来……你刚才穿的都是男装啊！\n难道──	話說回來……妳剛才穿的也是男裝啊！ \n難道──	ところでさっきから男、男って……確かにあなたがさっき着ていた服、男性用だったわ！\nまさか──	그러고 보니……네가 아까 입고 있던 옷 남자 옷이잖아! 설마──	Right… You were in boy's clothes! \nNo way…	
+23	小怜	欸？你以前也遇到过这样的状况？？	欸？ 妳以前也遇過這種狀況？ ？	えっ？\nやっとアニーも、俺の状況を分かってくれた？	앗？너도 예전에 비슷한 일을 겪었어?!	Huh? Have you come across the same situation?	
+24	小怜	（也是呢……安妮应该不是一般人吧？）	（也是呢……安妮應該不是一般人吧？ ）	（そうだよね……）\n\n（アニーも普通の人じゃないみたいだし）	（역시……앤도 평범한 사람은 아니겠지?）	(It's possible… Maybe Annie is no ordinary girl?)	
+25	小怜	（如果是安妮的话，或许能理解我的处境……）	（如果是安妮的話，或許能理解我的處境……）	（アニーならきっと俺の状況を分かってくれる\n　かも……）	（앤이라면 내 상황을 이해해줄지도 몰라…）	(If it's true, Annie may understand my situation…)	
+26	安妮	嗯嗯，我理解的……	嗯嗯，我可以理解……	うんうん、わかるよ……	응응，이해해……	Of course, I understand…	
+27	安妮	你是偷拿了自己喜欢的男生的衣服自己穿对吧？	其實妳是偷拿了喜歡的男生的衣服吧？	あなたって、こっそり好きな男の子の服を、\n盗んで自分で着ちゃったりするのね？	좋아하는 남자의 옷을 훔쳐 입은 것 맞지?	You snitched the clothes of the boy you have a crush on, right?	
+28	小怜	理解个头啊！！！	理解個頭啊！ ！！	ダメだ、分かってねえッ！！！	이해하긴 개뿔!!	So that’s what you understand??	
+29	安妮	嗯嗯~其实[%rolename%]是那种会迷恋异性味道的体质吧？不用难为情的啦……	嗯嗯～其實[%rolename%]是那種會迷戀異性體味的人吧？ 不用難為情的啦……	うんうん～～本当は[%rolename%]って異性の\n匂いに夢中になっちゃう人なんでしょう？\n恥ずかしがらなくていいから……	으응~사실 [%rolename%]도 이성의 냄새에 반하는 체질이구나? 곤란해 할 필요 없어…	Yup[%rolename%], you are attracted to other’s body odor, aren’t you? No need to feel shy…	
+30	小怜	不要做出一幅“虽然你是变态但我会包容你”的表情啊！！！	喂！ 不要做出一副「雖然妳是變態但我會包容妳」的表情啊！ ！！	そういう「変態だけど受け入れてあげるわ」って表情やめろッ！！！	“넌 변태지만 난 널 이해해” 같은 표정 짓지 말라고! ! !	Please… Don't put on this “I-know-you’re-a-pervert-and-I-don’t-mind” look!	
+31	小怜	唉……我为什么会变成这样还是完全没有头绪……	唉……我完全不知道自己為什麼會變成這樣……	あぁ……なんで俺、\nこんな事になってしまったんだろう……	에이…내가 왜 아직도 아무 감을 못 잡고 있을까……	Puh… I still have no idea why I has become a girl…	
+32	N/A	……	……	……	……	…	
+33	SID探员	站住！\n把手举起来！	站住！ \n雙手舉高！	そこで止まりなさいっ！　手を挙げてッ！！	움직이지 마! \n손 들어!	Halt! \nHands up!	
+34	N/A	一个穿黑色西服的人走上前来对我们喊话	一個穿黑色西裝的人走上前來對我們喊著。	黒いスーツを着ている人が近付いて来て、\n俺達を呼び止める。	검은색 정장을 입은 사람이 우릴 향해 외친다. 	A woman in black suit comes up, shouting.	
+35	小怜	诶……？\n把我们当成坏人了吗？	欸……？ \n我們被當成壞人了嗎？	え……？\n俺達、もしかして悪者扱いされている？	앗……？\n우릴 나쁜 사람으로 오해했나?	Huh? \nShe thinks we are bad guys?	
+36	小怜	（等等，那么领头人胸口的标示）\n（正圆形、环套式的盾牌——该不会是……）	（等等，那個帶頭的人胸口的標示……）\n（正圓形、環套式的盾牌——該不會是……）	（しかも待て、先頭に立っている人の胸元の印）\n\n（真ん丸に、リング状の盾──もしかして……）	（잠깐，리더의 가슴에 있는 표시）\n（원형，고리모양의 방패——설마……）	(What? The badge on the leading woman's chest) \n(A round, concentric shield—Is she…)	
+37	SID探员	两位，我是SID的探员。\n为了避免你们受伤，请保持姿势不要乱动。	兩位，我是SID的探員。 \n為了避免妳們受傷，請停留在原地，不要亂動。	お二人共、私はSIDの捜査員です。\n\nあなた達が怪我をしないためにも、\nそのまま動かないようお願いします。	저는 SID 요원입니다. \n두 분의 안전을 위해 우선 움직이지 마십시오.	Girls, I'm an SID agent. \nTo keep yourselves safe, do not move.	
+38	小怜	果然是SID的家伙！\n这下惨了！！！	果然是SID的傢伙！ \n這下慘了！ ！！	やっぱりSIDの奴らだっ！\nこれは不味いっ！！！	역시 SID이였어！\n망했다！！！	That's it! She's from SID! \nI'm doomed!!	
+39	小怜	我脑海中瞬间闪过那些SID出动大批特工抓捕间谍的新闻。	我腦海中瞬間閃過那些SID出動大批特務逮捕間諜的新聞。	SIDが出動してスパイを捕獲したと報道する\nニュース画面が、一瞬で俺の脳裏に浮かんだ。	SID가 출동해 간첩을 잡았다는 뉴스가 갑자기 대뇌에 스친다. 	My mind is suddenly flooded with news about waves of SID agents sent to capture spies.	
+40	小怜	还有“秘密监狱”啦，“暗杀行动”啦之类的都市传说……	還有「祕密監獄」，「暗殺行動」之類的都市傳說……	「秘密監獄」とか「暗殺行動」といった噂も\n色々聞いたことがある……	“비밀지옥”이라던가，“암살 행동”같은 도시 전설까지…	And all those rumors about "secret jails", “assassinations”… the list goes on…	
+41	SID探员	核心封锁区报告，两名目标未发现攻击意图。\n暂定威胁等级D+。	核心封鎖區報告，未發現兩名目標有攻擊意圖。 \n暫定威脅等級D+。	異変区域より報告、2名のターゲットは攻撃の\n意図が見られません。\n暫定脅威レベルをD+と判断します。	핵심 봉쇄구 보고 드립니다. 타겟은 공격 의도가 없습니다.\n위협 등급 D+입니다.	Report from the Central Blockade Area! The two targets don't show any intention to attack. \nThreat rating set to D+ for now.	
+42	SID探员	先做个简单的问话吧……\n——你们是什么人？在这里鬼鬼祟祟地做什么？	先做個簡單的調查好了……\n——妳們是什麼人？ 在這裡鬼鬼祟祟地做什麼？	まずは簡単な質問から始めます……\nあなた達は何者？\nこんな場所で何をしているの？	간단한 질문 하나 하겠습니다……\n——당신들은 누구죠? \n이곳에서 몰래 뭘 하고 있습니까?	A couple of quick questions first… \n—Who are you? Why are you sneaking around here?	
+43	小怜	我是本市的学生……	我是本市的學生……	おっ…俺はこの市の学生で……	저는 이 도시의 학생이에요…	I'm a student in this city…	
+44	小怜	我们只、只是来做校外教学参观了一下研究所……	我們只、只是因為校外教學來參觀研究中心……	おっ、俺達はただ、校外学習のために研究所を\n見学してただけです。	우린 그저 교외 활동으로 연구소를 견학하러 온 것뿐이에요…	We're just… just on a field trip to the Research Center…	
+45	N/A	穿黑色西装的特工表情露出了不屑的表情。	穿著黑色西裝的特務露出了不屑的表情。	黒スーツの人は、訝しげな表情を見せた。	검은색 양복을 입은 SID요원이 믿을 수 없다는 표정을 한다.	The agent in black suit doesn't hide her scorn.	
+46	SID探员	是吗──参观？研究所？	是嗎──參觀研究中心？	そうね──見学？　研究所を？	──견학？연구소？	Oh, yeah? A field trip to the Research Center?	
+47	小怜	糟糕……\n我忽然想起来——	糟糕……\n我忽然想起來——	やばい……\n墓穴を掘ったっぽい──	이런……\n갑자기 생각났다——	Crap… \nI just remember—	
+48	小怜	因为『洛斯金杯』消失的事情，研究所昨晚就被紧急戒严了。	因為「洛斯金杯」消失的事情，研究中心昨晚就緊急封鎖了。	『ロス・ゴールド』が消えた事で、\n研究所は昨夜から緊急警戒態勢だ。	『로우스 금잔』이 사라진 사건 때문에 연구소는 어젯밤부터 긴급 계엄 상태다.	As the Ross Goblet disappeared, the Research Center has been shut down since last night.	
+49	小怜	这种时候我们大摇大摆的从里面走出来，还声称自己只是参观了一下……简直就像自己招供的熊吉。	這種時候我們不僅大搖大擺地走出來，還聲稱自己只是參觀了一下……簡直就像自己招供的熊吉。	そんな時に、俺達が施設見学をしていただけと　言い張っても……\n「はい、そうですか」と信じる人がいようか。	이런 때에 저 안에서 으쓱대며 걸어 나와 놓고 견학을 왔다고 하다니……자백하는 변태 꼴이 되버렸다.	A field trip, here and now… Damn, what a lame excuse.	
+50	小怜	果然，她似乎从耳机里接到了什么指令，严肃的看着我。	果然，她似乎從耳機裡接到了什麼指令，嚴肅的看著我。	案の定、彼女はイヤホンから何か指示を受けた\nようで、険しい表情で俺を見つめている。	역시나 그녀는 이어폰에서 지령을 듣고 심각하게 날 바라본다.	See? She seems to have received an order from her earphone, looking at me seriously.	
+51	SID探员	我收到长官命令，请二位跟我们走一趟。	我收到命令，請二位跟我們走一趟。	長官からの命令です、ご同行をお願いします。	장관님의 명령을 받았습니다. 저희와 함께 가주셔야겠습니다.	It’s my Boss. You have to follow me.	
+52	N/A	短短几秒之间，我们两个就被完全包围住。	短短幾秒，我們兩個就被完全包圍住。	わずか数秒で、俺達は完全に包囲された。	겨우 몇 초만에 우리 두 사람은 완전히 포위되었다.	Within a few seconds, we are completely surrounded.	
+53	N/A	视线所及，对着我们的全是黑压压的枪口。	視線所及，對著我們的全是黑壓壓的槍口。	視界は銃口で埋め尽くされ、黒い剣山のようにも見える。\nもちろん全ての針の先は、俺達の方に\n向けられてだが……	시선이 닿는 곳 모두 우릴 조준하고 있는 총구다.	All guns pointed right at us.	
+54	安妮	[%rolename%]，这些家伙看起来很不妙呢…\n不如我们看准时机逃掉吧。	[%rolename%]，這些傢伙看起來很不妙呢……\n不如我們看準時機逃走吧。	[%rolename%]こいつらヤバイんじゃない……\n隙を見て逃げよう？	[%rolename%]，이 녀석들 심상치 않아 보이는데…\n기회를 봐서 도망가자.	[%rolename%], they look scary… \nWe’d better run when the time is right.	
+55	SID探员	请放心，我们不会伤害你们的。\n只要你们好好配合调查，事情就能和平解决。	請放心，我們不會傷害妳們的。 \n只要妳們好好配合調查，事情就能和平解決。	安心して下さい。\nあなた達の身の安全は保障いたします。\nご協力さえして頂けるならば、穏便な解決へと\n最善を尽くします。	해치지 않을 테니 안심하세요. \n조사에 협조해주시면 잘 해결될 겁니다. 	Don't worry. We won't hurt you. \nAs long as you cooperate, everything will be dealt with peacefully.	
+56	SID探员	两位应该知道，涉及『异质物』失踪的事情非同小可，可能引发各种超出常识的事件，请务必理解。	兩位應該知道，涉及「異質物」失蹤的事情非同小可，可能引發各種超自然現象，請務必理解。	『異質物』の消失は只事ではありません。\nあらゆる常識外の事件を引き起こす──\nそんな可能性がある事をお二人もご存知のはず。\n何卒ご理解を。	 『이물질』 실종 사건으로 상식을 벗어나는 일이 일어날 수 있어 그러니 이해해 주십시오.	You should be aware that the disappearance of Substance H is no laughing matter. From this point on, anything beyond comprehension could happen.	
+57	小怜	（超出常识的事件……吗？）	（超自然現象……嗎？ ）	（常識外の事件……か…）	（상식을 벗어나는 일……？）	(Anything… beyond comprehension?)	
+58	小怜	好，明白了，我跟你们走。	好，明白了，我跟妳們走。	分かりました、ついて行きます。	좋아요. 당신들과 갈게요. 	Alright, got it. I'll go with you.	
+59	安妮	哎？？怎么就跟着走了啊！\n喂！[%rolename%]！	哎？ ？怎麼就跟著走了？ \n喂！ [%rolename%]！	えっ？？　なんでついて行っちゃうのっ？　\nねえっ！　[%rolename%]っ！	뭐？？왜 따라가겠다는 거야!\n야！[%rolename%]！	Er? Why are you going with them? \nHey! [%rolename%]!	
+60	小怜	别、别拽了！笨蛋裙子要拽掉了！	別、別扯了啦！ 裙子會被扯掉啦！	ひ、引っ張るなっ！　バカっ！\nスカートが脱げるだろっ！	잡아당기지 마! 바보야! 치마가 내려가잖아!	St… stop dragging me! My skirt is almost off, you idiot!	
+61	安妮	你才是笨蛋啊！为什么要跟这么可疑的家伙走，如果被灌药卖掉了怎么办？！	妳才別扯了！ 幹嘛要跟這麼可疑的傢伙走，如果被下藥賣掉了怎麼辦？ ！	バカはあなたの方だよっ！　なんでこんな怪しい奴の言う事を聞いちゃうのっ？\n薬でも飲まされて売られちゃったら\nどうするのよっ！？	너야말로 바보 아니야?! \n수상한 사람을 따라가겠다니! \n팔려가면 어쩌려고 그래?!	You're the idiot! Why are you going with these strange guys? What if they knock you out and sell you?	
+62	小怜	我一个大男人有什么好……	我一個大男人有什麼好……	俺みたいな男にそんな事……	나 같은 남자애가 팔려가기는 무슨……	Who would buy a guy…	
+63	小怜	不对、谁会找来这么多人大张旗鼓的拐卖人口啊！	不對，誰會這麼大陣仗地把人拐走啊！	そもそも人を攫って売るために、\n誰がこんな大人数を用意するんだよ！	아니，누가 이렇게 대대적으로 인신매매를 하냐!	Ahem… I mean… what kind of human traffickers would go about in this way?	
+64	安妮	[%rolename%]一定没见过莱博娜群岛的黑帮吧……	[%rolename%]一定沒見過萊博娜群島的黑幫吧……	[%rolename%]は絶対リバーナ諸島のマフィアを\n見た事ないわね……	[%rolename%]，너는 레보나 섬의 조폭들을 본 적 없지?	[%rolename%], you must've never seen the gangs on the Lebona Islands.	
+65	小怜	总之……说不定能搞清楚一些事呢\n还是乖乖跟她走吧……	總之……說不定跟去能搞清楚一些事，\n還是先乖乖跟她走吧……	とにかく……\n何かが分かるかもしれないじゃないか！\n大人しくついていこう……	어쨌든……뭔가 알아낼 수 있을지도 몰라\n우선 따라가보자……	Anyway… Maybe we could clear up some doubts. \nSo we'd better go with her…	
+66	安妮	好吧，你去哪我都会跟着你啦……	好吧，妳去哪兒我都會跟著妳啦……	分かったわよ……あなたが言うなら\nどこに行こうともついて行くわ……	알았어. 네가 어딜가든 난 널 따라갈 거야……	Alright, I'll follow you wherever you go…	
+67	小怜	那个，方便的话能不能先给我一件外套。	那個，方便的話能、能不能先給我一件外套。	あの～、できればコートを1枚もらえませんか？	저기，가능하면 자켓 하나만 빌려주세요.	Uh, if you don’t mind, could you pass me a coat?	
+68	小怜	这件衣服实在有点……	這件衣服實在有點……	この服はさすがにちょっと……	옷이 조금……	This suit is too…	
+69	N/A	穿着女装被众人围观，实在是浑身不舒服。	穿著女裝被眾人圍觀，實在是渾身不舒服。	女性用の服を着ている姿を見られ続けるなんて、身体中がむず痒くて仕方がない。	여자 옷을 입고 시선을 받으니 온몸이 불편하다.	It’s so awkward to get people's attention in a girl's suit.	
+70	SID探员	好吧，我申请一下。	好，我申請一下。	了解しました、申請を出しましょう。	알겠습니다. 말씀 드려보죠.	Fine. I’ll put in a request.	
+71	SID探员	……	……	……	……	…	
+72	SID探员	……抱歉，长官说“这身衣服很可爱”\n断然否决了申请。	……抱歉，長官說「這身衣服很可愛啊！ 」\n就斷然否決了申請。	……すみません、長官が\n「その服はとても可愛いからだめだ」と\n申請を却下されました。	……죄송합니다만 장관님께서 “너무 귀여운 옷이야”라며 거절하셨습니다. 	… Sorry, request rejected. \nThe Officer said your dress is cute.	
+73	小怜	到底是什么样的长官啊！！	……這到底是什麼樣的長官啊！ ！	どんな長官なんだよッ！！！	도대체 어떻게 생겨 먹은 장관이야 ! !	What's wrong with this Officer!	

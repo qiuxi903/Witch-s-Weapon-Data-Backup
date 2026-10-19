@@ -1,0 +1,5 @@
+﻿1	A_speak	我的兵器对经常施法的敌人非常有效哦	我的兵器對經常施法的敵人非常有效哦	私は、スキルを良く使う相手に効果的よ	나의 병기는 마법 시전하는 적에게 효과가 아주 커. 	My weapon is quite effective against enemies who like to cast skills.	
+2	A_speak	手下败将又来了	手下敗將又來了	また敗戦処理の\nリリーフかしら？	나의 희생양이 또 왔군.	You just never know when to give up!	
+3	A_speak	[ff9c00]小心！[-]躲避敌人的范围攻击	[ff9c00]小心躲避！[-]敵人的攻擊範圍	敵の攻撃範囲に気を付けて\n[ff9c00]避けて！[-]	[ff9c00]조심해！[-] 적의 공격 범위를 피해야 해.	[ff9c00]Watch out![-] Get out of the enemy's attack area.	
+4	A_speak	使用技能反击	使用技能反擊	スキルを使って反撃するのよ！	스킬을 사용해서 반격하자.	Cast a skill to fight back!	
+5	FocusTrigger	

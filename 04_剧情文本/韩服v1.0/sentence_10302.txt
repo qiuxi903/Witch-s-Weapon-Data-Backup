@@ -1,0 +1,99 @@
+﻿1	莉琉	（历史上的贝阿特丽切于1290年死亡）\n（而她现在的身体应该是小怜的能力所制造的）	（歷史上的貝阿特麗切確實於1290年死亡，）\n（所以她現在的身體應該是小憐製造出來的。 ）	（歴史上のベアトリーチェは1290年に死亡）\n\n（今の彼女の肉体はレンの能力で創られたはず）	(역사 속 베아트리체는 1290년 사망했다.）\n（현재 그녀의 신체는 렌의 능력이 만든 것이다.)	(Beatrice died in 1290.) \ (Her current body should be created by Ren.)	
+2	莉琉	（制造承载灵魂的容器，这已经是『神的领域』了）	（能夠製造承載靈魂的容器，這已經是「神的領域」了。 ）	（魂を担う器を作るとは……）\n\n（もはや『神の領域』だな）	(영혼을 담는 그릇을 만드는 것, 이것은 이미 『신의 영역』이다.）	(Building a container for the soul… This is more of a kind of god-like power.)	
+3	莉琉	（这一点，绝不能暴露……）	（這一點，絕不能讓任何人知道！ ）	（この事実は絶対にバラしてはならない……）	(이 사실이 절대 폭로되어서는 안 돼……）	(I must keep quiet about this…)	
+4	#C	哈哈哈哈，有意思……\n真是太有意思了。	哈哈哈哈，有意思……\n真是太有意思了！	フハハハハハ……面白い……\n実に面白いですねぇ……	하하하하, 재밌군요……\n정말 재밌어요.	Haha, interesting… \n That's really interesting.	
+5	莉琉	想必你们已经调查过，在天空酒店与小怜一同行动的那位名为安妮·巴斯的探员。	想必你們已經調查過，在天空酒店與小憐一同行動的那位名為安妮·巴斯的探員。	そして、すでに調査済みかとは思われますが、\n\nスカイホテルでレンと一緒に行動していた\n捜査員の名前はアニー・バースと言います。	그쪽에서도 스카이호텔에서 렌과 동행한 앤 바스라는 요원을 조사했을 테죠.	I suppose you’ve already investigated the other agent in the Sky Hotel operation. Her name is Annie Bass.	
+6	莉琉	她就是七年前，在『自由光巨蛋事件』中消失的五万人中的一员。	她就是七年前，在「自由光巨蛋事件」中消失的五萬人之一。	彼女は、7年前の『自由光スタジアム事件』で\n消失した5万人に及ぶ被害者の中の1人です。	그녀가 바로 7년 전 『자유빛 돔 사건』으로 실종된 5만명 중 한 명입니다.	She is one of the 50,000 people that went missing in the Light of Freedom Arena incident seven years ago.	
+7	莉琉	是小怜将她从异空间中带出来的。	是小憐將她從異空間中帶出來的。	それをレンが、異空間の中から救い出しました。	렌이 그녀를 변이 공간에서 데려왔죠.	It's Ren that pulled her out of another spacetime.	
+8	基尔斯	……	……	…………	……	… 	
+9	莉琉	大家看上去都不怎么惊讶呢。	大家看起來都不太驚訝呢。	おや、皆様あまり驚かれない様子で。	어째 다들 놀란 얼굴이 아니네요?	You don't look surprised.	
+10	华音泷	确实，如果是这样就可以解释了……	嗯，如果是這樣就可以解釋了……	確かに、それなら筋が通る……	그렇다면 이제야 설명이 되는군요……	In that case… It explains a lot.	
+11	华音泷	但就这么大大方方的让安妮用真名活动，看来你也没打算保密。	但就這麼大方地讓安妮用真名活動，看來妳一開始就沒打算保密。	彼女を堂々と本名のままで活動させているのは、\n君が秘密にするつもりがないからだな。	이렇게 대놓고 앤이 실명으로 활동시키다니, 애초부터 비밀로 할 계획은 없었나 봅니다.	Letting Annie carry out operations without even an alias… It seems to me you didn’t intend to hide her from us.	
+12	#C	莉琉阁下也没必要保密，因为安妮当年在网络上的记录实在太多了。	也沒必要保密，畢竟安妮當年在網路上的記錄實在太多了。	マリル殿が秘密にする必要もありません。\n\n現在に至ってもアニーさんの当時の記録は、\nネット上に多く残っておりますから。	마리루 각하도 비밀로 할 필요가 없었겠죠. 당시 인터넷에 앤의 자료가 널렸으니까요. 	You can't actually hide such a celebrity as Annie Bass, right, Madam Mariru?	
+13	布莱特	不过将自己设为那个叫怜的女孩的监护人，完全是出于你的私心吧。	不過將自己設定為那個叫憐的女孩的監護人，完全是妳的私心吧。	しかし、レンと言う少女の保護者となったのは、\n完全に君の私情ではないのか？	하지만 자신을 렌이란 여자아이의 후견인으로 설정한 것은 단순한 사심이겠죠?	But assigning yourself as Ren's guardian… Is there some ulterior motive at play?	
+14	莉琉	哼，那当然。	呵呵呵呵……	ふふっ、もちろんです。	흥, 당연하죠.	Humph. Of course there is.	
+15	莉琉	我在几年前就发现了小怜的能力，但后来她的父母打算移民到第二学园都市……	我在幾年前就發現了小憐的能力，但後來她的父母打算移民到第二學園都市……	私は数年前からレンの能力に気付いてましたが…\n\n以前より彼女の両親が、第二学園都市への移住を\n考えておりましてね……	전 몇 년 전 렌의 능력을 발견했습니다. 그녀의 부모님이 제2학원도시로 이민을 가려다 그만……	I noticed Ren's special ability years ago. But since her parents planned to emigrate to Newmoridas… 	
+16	莉琉	我不得不采取一些行动。	我就不得不採取一些行動……	やむを得ず『いくつか』の行動を\n取らせて頂きました。	저도 어쩔 수 없이 결정한 사항입니다.	I had to take some action… 	
+17	#C	她的父母和哥哥遭遇的那场空难……	她的父母和哥哥遭遇的那場空難……	彼女の両親と兄が遭遇したと言う航空事故……	그녀의 부모와 오빠가 당한 그 항공 사고도……	That air crash in which her parents and brother died… 	
+18	#C	难道是莉琉阁下您──？	難道是莉琉閣下您──？	まさか……マリル殿が──？	설마 마리루 각하께서──？	Was it… you?	
+19	莉琉	呵呵呵呵，我可不会承认。	這，我可不會承認。	クククッ、……私は知りませんよ。	하하하하. 그건 인정할 수 없습니다.	Hehe, I wouldn't admit it.	
+20	莉琉	我可还要继续做那个小可爱的监护人呢~	我還想繼續當那個小可愛的監護人呢～	あの可愛い子猫の優しい保護者で\n在りたいですからね──	전 계속해서 그 꼬마의 후견인을 맡을 생각이거든요.	I still want to be the cutie's guardian, you know. 	
+21	华音泷	……	……	…………	……	… 	
+22	#C	不愧是能主管SID的手段，真是让我倍感安全。	真不愧是在SID擔任高層的莉琉閣下，這些手段真是讓我倍感安全。	さすがはSIDを主管する者の手腕。\n実に合理的ですな。	역시 SID책임자다운 방법이군요.	Huh, now I see what it takes to make the head of SID. I feel much more assured!	
+23	基尔斯	为了新丰洲的和平与稳定，有些牺牲是必要的。	為了新豐洲的和平與穩定，有些犧牲是必要的。	新豊洲の平和と安定のために、\n一部の犠牲はやむを得ん。	신토요스의 평화와 안전을 위해서 약간의 희생은 필요한 법입니다. 	For the peace and stability of New Opulentia, some sacrifices are necessary.	
+24	基尔斯	莉琉和SID的工作一直完成的十分漂亮。	莉琉和SID的工作向來處理得十分完美。	マリルとSID各員は実に完璧な仕事を\n毎度こなしてくれている。	마리루와 SID의 일처리는 늘 아주 깔끔하지요.	Mariru and SID have always done a good job.	
+25	基尔斯	那么这段时间在各国肆虐的时空相位波动，SID应该已经掌握了更多情报吧？	這段時間在各國肆虐的時空相位波動，SID應該已經掌握更多情資了吧？	では各国で昨今猛威を振っている時空位相波動\nに関しても、\n既に多くの情報をSIDは把握しているのだな？	그렇다면 요즘 각국에서 난동을 부리는 시공 상위 파동에 대한 정보도 이미 파악했겠죠?	So, I guess SID must have found some information about recent Spacetime Fluxes.	
+26	华音泷	记录显示那个小姑娘只有15岁，派她去那种高风险区域会不会……	記錄顯示那個小姑娘只有15歲，派她去那種高風險區域會不會……	記録によると、あの少女はたったの15歳だ。\n\nそんな少女をあのようなリスクの高いエリアに\n派遣するのは……	15살밖에 되지 않은 소녀를 그 위험한 구역에 보낸 건 혹시……	According to the girl's profile, she is only 15. Would it be too risky to send her to a Flux Area?	
+27	莉琉	虽然风险确实很大，但这个代价是值得的。	雖然風險很大，但派她去是值得的。	おっしゃる通りリスクは確かに高いですが、\nその代価に見合う価値はあります。	위험이 크긴 했지만，그만한 가치가 있었습니다.	It's worth the risk.	
+28	莉琉	根据小怜帮助采集的情报，可以推断——\n时空异变本质上是概率乱流。	根據她收集的情資，可以推斷——\n時空異變在本質上是機率的亂流。	レンが収集してくれた情報から推定できるのは、\n時空異変の本質は確率の乱流ということです。	렌이 수집한 정보에 따르면\n시공 변이는 본질상으로 확률 난기류입니다.	Based on the information she collected… \n We believe that Spacetime Flux is the manifestation of probabilistic turbulence.	
+29	莉琉	将概率不足万亿分之一的事件，以100%确定的形式表达出来──	將機率不到億萬分之一的事件，以100%確定的形式表達出來──	確率が1兆分の1にも満たない事象すらも、\n100%確定した形で示せる──	확률이 1조 분의 1인 사건을 100% 확정된 형식으로 표현한다──	That is, to make an extremely unlikely event happen with 100 percent certainty.	
+30	布莱特	那不就像魔法一样！	這不就是魔法！ ！！	それは、まるで魔法ではないか！	그건 마법과 똑같지 않습니까!	Sounds like magic!	
+31	#C	那可真是……令人梦寐以求的能力啊……	那可真是……令人夢寐以求的能力啊……	なんとなんと……\n是非とも手に入れたい夢の能力でありますな……	그건 정말……꿈속에서나 바라던 능력이군요……	That's really… an ability people would die for… 	
+32	布莱特	不对不对，这种情况仅仅在理论上可能，因为需要一个超强的观测者……	不可能，這種情況理論上說得過去，但因為需要一個超強的觀測者……	いや違うな。\nその状況が成立するのは理論上だけだ。\nそれは非常に強大な観測者を必要とするだろう。\nそんな事を実現するとしたら……	아뇨, 이 상황은 이론상으로만 가능해요. 강한 관측자가 필요하기 때문이죠…	No. This is only theoretically viable… It would require an extremely competent observer… 	
+33	布莱特	不可能，就算把全人类的注意力都集中到一点也无法达到这种观测强度。	就算把全人類的專注力都集中到一點，也無法達到這種觀測強度。	──やはり有り得ない。\n\n全人類の注意をたった1つの物体に集中させたと\nしても、必要となる観測強度には到達できない。	하지만 전 인류의 주의력을 한 곳에 집중해도 이 정도 관측 강도에 도달할 수 없어요. 	But such an intensity of observation is impossible, not even if we focus all human attention on it… 	
+34	布莱特	除非……	除非……	唯一できるのは……	다만……	Unless… 	
+35	莉琉	除非是，制造了各种异质物的存在。	除非是，製造了各種異質物的存在。	唯一できるのは、\n異質物を創り出した存在…………ですね。	다만 각종 이물질을 만들어 낸 존재라면.	Unless we are talking about the one who created Substance H…  	
+36	布莱特	……	……	…………	……	… 	
+37	基尔斯	唉───	唉───	ふぅ──	하───	Whew… 	
+38	N/A	基尔斯博士长长的叹了一口气，随后是一阵沉默。	基爾斯博士長長得嘆了口氣，隨後是一陣沉默。	ギアーズ博士が長い溜め息を吐くと、\nしばしの沈黙が訪れた。	자일즈 박사가 한숨을 크게 쉬자，잠시 침묵이 흐른다.	Dr. Kirs sighs deeply. A long silence fills the room.	
+39	N/A	长期以来，关于“谁制造了异质物”一直是科学界刻意回避的话题。	長期以來，關於「誰製造了異質物」一直是科學界刻意迴避的話題。	「誰が異質物を作り出したのか」に関しては、\n長きに渡り科学界が故意に避けてきた話題だ。	오랜 시간 "누가 이물질을 만들었는가"는 과학계가 일부러 회피해 오던 화제다.	The creator of Substance H is a topic long avoided by the scientific community.	
+40	N/A	就像“谁制造了宇宙大爆炸”一样，因为答案无法被证伪，不属于科学的讨论范围。	就像「宇宙大爆炸」一樣，因為無法驗證答案，故不屬於科學的討論範圍。	それは「宇宙のビッグバンは誰が起こしたのか」\nと同義である。\n反証可能性がないモノ。\nこれらは科学にとって議論の範囲外である。	“누가 우주대폭발을 일으켰는가”처럼 답을 증명할 수 없기 때문에，과학적 토론 범위 안에 들지 않는다.	Just like the question "who created the big bang"—without falsifiability, it is beyond the scope of science. 	
+41	N/A	就像曾有科学家试图研究哈勃距离之外，那些由于宇宙空间膨胀而以超光速远离地球的星系一样。	就像曾有科學家試圖研究哈勃距離之外，那些由於宇宙膨脹而以超光速遠離地球的星系一樣。	例えばハッブル距離より遠方の場所。\n\n宇宙空間の膨張によって、地球から超光速で\n離れる星系を研究しようとした科学者がいた。	일전에 어느 과학자의 연구와 같이，우주공간 팽창은 초광속으로 지구와 떨어진 은하와 같다.	Just like scientists’ attempt to study distant galaxies beyond the capabilities of Hubble, which are moving faster than the speed of light away from Earth due to cosmological expansion.	
+42	N/A	他们认为『可观测宇宙』只是真正宇宙中的沧海一粟，而我们在有意回避我们看不到的东西。	他們認為「可觀測宇宙」只是無垠宇宙中的滄海一粟，對於看不到的部分則是避而不談。	彼らは主張した。\n『観測可能な宇宙』は氷山の一角にしか過ぎない\n私達はわざと「見えない部分」を避けているだけ\nであると。	그들은 『관측 가능한 우주』는 우주의 아주 작은 일부일 뿐이며，우리가 볼 수 없는 것에 대해서는 회피하려 했다.	They believe that the observable universe is only a tiny fraction of the whole thing. We're intentionally avoiding the rest of it.	
+43	N/A	理所应当的回避，可能这才是科学能让人感到安心的真正原因。	理所當然地迴避某些特例，才是科學能讓人感到安心的真正原因。	当たり前のように避ける。\n\nそれこそ科学が人間に安心感をもたらしてくる\n真の正体なのかもしれない。	회피하는 진정한 원인은 아마 그렇게 해야 과학이 인간을 안심시킬 수 있기 때문일 것이다.	The most reassuring part of science is that it shuts eyes to the unknown.	
+44	N/A	如果真的存在神级的观测者，在它面前，地球上的人类和彗星尾部的尘埃没有多大区别。	如果神級觀測者真的存在，那麼在它面前，地球上的人類和彗星尾部的塵埃並沒有多大差別。	もし、本当に『神』に匹敵するほどの観測者が\nこの世にいるのであれば。\nその存在の前では地球上の人類など\n彗星の尾にある塵埃も同然である。	신급의 관찰자가 존재한다면，그 앞에서 지구 상의 인간과 혜성 꼬리의 먼지는 큰 차이가 없다.	If almighty observers do exist, then humans are nothing more than comet dust to them… 	
+45	N/A	这样的神不会眷顾我们……人类只能自己拯救自己	這樣的神不會眷顧我們……人類只能自我拯救。	そんな『神』は私達を目にかけない……\n\n人類は自分で自分を救うしかない……	그런 신이 우리를 돌봐 줄 리가 없다……인간만이 스스로를 구할 수 있다.	And such a god will not bless us… Only we can save ourselves.	
+46	N/A	或许在黑暗冰冷的宇宙中，这才是最可怕的事实。	或許在黑暗冰冷的宇宙中，這才是最可怕的事實。	これは、黒く冷たい広大な宇宙の中で、\n一番恐ろしい事実であろう。	이것이 어쩌면 어둡고 찬 우주 속 가장 두려운 사실일지도 모른다. 	In the dark, cold universe… Perhaps this is the most terrifying truth.	
+47	莉琉	…综上所述，『相位波动空间』是无序的大规模概率坍缩事件。	…綜合以上所述，「相位波動空間」是無規則的大規模機率塌縮事件。	……以上により『位相波動空間』は、\n不規則かつ大規模な確率崩壊による事象である\nと思われます。	…종합하면 『상위 파동 공간』은 무질서한 대규모 확률 중력 붕괴 사건입니다. 	… In summary, the Fluxional Spacetime is an incident of large-scale erratic probability collapse.	
+48	莉琉	这种事件是由于在有限的时空，有限的尺度内召唤了超乎认知的观测者所致。	這種事件是在有限的時空和尺度內召喚了超乎目前我們認知的觀測者所導致。	この事象は有限なる時空の中、人知を超越した\n観測者を召喚する事で発生します。	이 사건은 유한한 시공과 공간에서 인식을 초월하는 관찰자를 소환했기 때문입니다.	This is triggered by summoning, from within a bounded spacetime with limited dimensions, an all-powerful observer who is beyond human comprehension.	
+49	莉琉	当召唤者的理智被观测者反噬，就会造成概率乱流引发时空异变。	召喚者的理智被觀測者反噬時，就會造成機率亂流而引發時空異變。	召喚者の理性が観測者に呑み込まれた場合、\n確率乱流の発生によって、\n時空異変が生じるようです。	소환자의 이성이 관찰자에게 삼켜지고 확률 난류를 만들어 시공 변이를 일으키는 겁니다.	Spacetime Flux, as a result of probabilistic turbulence, is created when the summoner's senses are destroyed by the observer.	
+50	莉琉	但如果能进入异变区域控制住召唤者，就能从根本上消除其影响。	但如果能進入異變區域控制住召喚者，就能從根本上消除其影響。	しかし、異変区域に入り召喚者を抑制する事で\n根本的な影響を排除する事が可能となるようで、	만약 변이구역에 들어가 소환자를 제어한다면 그 영향을 없앨 수 있습니다.	But its impact can be effectively eliminated if someone can enter the Flux Area and control the summoner.	
+51	莉琉	我已经在新丰洲的异变区域进行了多次试验，证明这是一种行之有效的对策。	我已經在新豐洲的異變區域進行了多次試驗，可以證明這是一種有效的對策。	既に新豊洲の異変区域で複数回と試しましたが、\nそれが有効な対策だと実証済みです。	이미 신토요스의 이변공간에 여러 번 실험을 진행한 결과，유효한 대책이라는 것이 증명되었습니다.	I have tested this theory several times in the Flux Area in ​​New Opulentia. And it works.	
+52	莉琉	如果不加以干预，当异变空间完全蒸发，除了会造成区域性熵值暴增──	如果不適時加以干預，當異變空間完全蒸發後，除了會造成區域性熵值暴增之外──	干渉をしなければ、異変空間は完全に蒸発。\n\n範囲内にエントロピーの爆増を\n引き起こしてしまう以外に──	만약 간섭하지 않는다면，변이공간이 완전히 증발할 때，국지성 엔트로피 수치 폭증이 일어나는 것 외에──	On the other hand, letting a Flux Area alone evaporate without any intervention will cause local entropy explosion.	
+53	莉琉	还极有可能在蒸发点出现一个或多个丧失理智的超能力者，造成进一步破坏。	還很有可能在蒸發點出現一或多個喪失理智的超能力者，造成進一步破壞。	蒸発が発生した地点で1人、または複数人の\n理性が崩壊した超能力者が出現。\nさらなる破壊に繋がる可能性が急増します。	하나 혹은 그 이상의 이성을 상실한 초능력자들이 나타나 파괴를 일으킬 겁니다.	One or more psychics are highly likely to lose their sanity within the evaporation spot, causing further damages.	
+54	莉琉	目前看来，理智丧失是不可逆的，这些袭击者的特征符合中世纪历史卷宗对『女巫』的描述。	目前看來，理智喪失是不可逆的，這些襲擊者的特徵也符合中世紀歷史卷宗對「女巫」的描述。	現時点では理性の喪失は不可逆的な物であり、\n\n攻撃者の特徴も中世の歴史文献に記述されている\n『ドール』に対する記述と一致しています。	이성을 상실한 습격자들은 비가역적이며，중세 역사 문헌의 『무녀』의 특징과 일치합니다.	So far, such insanity seems irreversible, and these psychics fit the description of witches in medieval dossiers.	
+55	莉琉	唯一值得欣慰的是，异变空间蒸发后，用常规手段也可以将女巫镇压。	唯一值得欣慰的是，異變空間蒸發後，用常規手段也可以鎮壓女巫。	唯一の幸いは異変空間が蒸発した後であれば、\n\n一般的な手段でもドールの鎮圧が可能である。\nという点でしょうか。	유일하게 안심할 수 있는 점은 변이공간 증발 후，무녀를 제압할 수 있는 방법이 있다는 점이죠.	The only good news is that witches can be suppressed by conventional means after a Fluxional Spacetime evaporates.	
+56	莉琉	以上。	以上。	……以上となります。	이상입니다.	That’s all from me.	
+57	N/A	一片死寂──	全場靜默──	静まり返る────	침묵이 흐른다──	Dead silence follows.	
+58	N/A	加密通讯的另一头传出阵阵倒抽凉气的声音，除此以外，鸦雀无声。	加密通訊的另一頭傳出陣陣倒抽一口氣的聲音，除此以外，鴉雀無聲。	機密通信の向こう側から、少し間を置こうとする\nような深呼吸の音が聞こえる。\n──それ以外は静寂のみ。	기밀 통신의 한쪽에서 깜짝 놀라 숨을 멈추는 소리가 들린다. 그리고, 쥐 죽은 듯 고요하다.	From the other end of the encrypted communication channel, only gasps in shock break the heavy silence. 	
+59	N/A	即使是新丰洲权利顶端的人，一时也难以处理如此繁复的信息。	即使是新豐洲的高層人士，一時也難以處理如此繁複的資訊。	いくら新豊洲の権力の頂点に立つ人間でも、\nこのような情報を即座に処理するなど困難だ。	신토요스의 최고 권위자라고 해도 이 복잡한 정보를 한 번에 처리하기 힘들 것이다.	Even the power elite of New Opulentia can hardly digest this information all at once.	
+60	基尔斯	确实……	確實……	確かに……	확실히…	Indeed… 	
+61	基尔斯	在新丰洲由时空相位波动造成的破坏，要远少于其他学园都市。	新豐洲遭到時空相位波動破壞的程度，遠低於其他學園都市。	新豊洲での時空位相波動による破壊被害は、\n他の学園都市に比べ遥かに少ない。	신토요스는 시공 상위 파동으로 일어난 파괴가 다른 학원도시보다 적어요.	Damages caused by Spacetime Flux in New Opulentia is far less than that in other Academy Cities.	
+62	基尔斯	我们之前一直认为，这是埃癸斯的效果所致。	我們之前一直認為，這是埃癸斯的功勞。	今まで我々はイージスの効果だと考えていたが…	그게 아이기스의 효과 때문이라고 생각했는데.	We’ve always been giving all the credits to Aegis… 	
+63	基尔斯	……这样看来，这名少女的能力，确实有必要设为『机密』。	……這樣看來，這名少女的能力，確實有必要設為「機密」。	……こうなると、その少女の能力は\n確かに『機密』にする必要がある。	……이렇게 보니，그 소녀의 능력을 『기밀』로 설정할 필요가 있겠군요.	Now I see… The girl's capability justifies absolute confidentiality. 	
+64	基尔斯	由莉琉直接监护，也是正确的选择。	由莉琉直接監護，也是正確的選擇。	マリルが直に監視保護下に置く判断も、\n正しい選択だ。	마리루가 후견을 맡는 것도 현명한 선택입니다.	And Mariru is indeed the best person as her guardian.	
+65	布莱特	但是你所说的这些，有证据吗？	但是妳所說的這些，有任何證據嗎？	しかし君が言った全てに証拠があるのだろうか？	하지만 당신이 얘기한 정보들이 증거가 있나요? 	But can you prove what you've said? 	
+66	莉琉	SID保留了完整的监测数据。	SID保留了所有完整的監測數據。	SIDはモニタリングデータを完璧な形で\n残しています。	SID에 완벽한 모니터링 데이터가 있습니다.	SID has retained all the monitoring data.	
+67	莉琉	而且有很多其他学园都市的异变区域附近出现无法沟通且破坏力强大的人型生物的情报。	這陣子，其他學園都市的異變區域附近也傳出無法溝通且破壞力強大的人型生物情報。	また、他の学園都市の異変区域近くで現れた\n意思の疎通が図れない強大な破壊能力を持つ、\n人型生物の情報も数多くあがっています。	다른 학원도시의 변이공간 근처에서 파괴력이 아주 강한 인간형 생물이 나타났다는 정보도 많이 있죠.	And there have been reports of humanlike creatures found near Flux Areas who have massive destructive power and are unable to communicate.	
+68	莉琉	前不久在江森变电所附近也出现过类似的情况。	前不久在江森變電所附近也出現過類似情況。	先日、江森変電所においても似たような状況が\n発生しました。	얼마 전 존슨 변전소 근처에서도 비슷한 상황이 발생했습니다.	A similar case occurred near Johnson Substation lately.	
+69	莉琉	这些信息，想必#C博士应该已经知道了吧？	這些消息，想必#C博士應該已經知道了吧？	この情報ついては、#C博士もご存知ですね？	이 정보는 #C박사도 이미 알고 있겠죠?	I believe Dr. #C has already heard about this.	
+70	N/A	莉琉紧盯着荧幕上的被加密的隐藏面孔。	莉琉緊盯著螢幕上的加密隱藏面孔。	マリルがスクリーン上の暗号化によって\n隠蔽された顔を見つめている。	마리루가 스크린 위 감춰진 얼굴을 응시한다. 	Mariru stares at the encrypted silhouette on the screen.	
+71	#C	莉琉阁下在开启反扫描模式的直升机上从江森变电所凯旋的英姿，自然是让人过目不忘。	莉琉閣下在開啟反掃描模式的直升機上從江森變電凱旋歸來的英姿，實在叫人難忘。	アンチスキャンモジュールが搭載されたヘリで、\n江森変電所からマリル殿が凱旋する時の雄姿は\n決して忘れる事はありませんとも。	반스캔 모드를 가동한 헬리콥터에 서있던 마리루 각하의 모습은 잊을 수가 없죠. 	The recollection of Madam Mariru stepping out of the stealth helicopter in triumph—that’s unforgettable.	
+72	#C	如果是因为那个“怜”也在直升机上的话，在下就没有什么疑问了。	如果是因為那位「憐」也在直升機上的話，在下就沒有什麼疑問了。	もしあのヘリに『レンさん』がいたとしても\n私めは何の疑問にも思いませんな。	만약 그 "렌"이라는 자가 헬기에 있었기 때문이라면 저도 의심하지 않겠습니다.	I have no other question if the girl named Ren is also in that helicopter.	
+73	莉琉	（看来南哲的部下并没有泄露情报）	（看來南哲的部下並沒有洩漏情報。 ）	（南哲の部下も、情報を漏らしていないようだ）	（남철의 부하가 정보를 누설하지 않은 것 같다）	(It seems Enzo and his men have kept their mouth shut.)	
+74	莉琉	我派小怜到天空酒店，也是为了防止在中立区域出现异变的情况。	我派小憐到天空酒店，也是為了防止中立區域發生異變。	レンをスカイホテルに派遣したのも、\n中立エリアで異変が起こる状況を防ぐためです。	렌을 스카이호텔로 보낸 것은 중립구역에 변이 상황이 생기는 걸 막기 위해서였습니다.	For the same reason, I sent Ren to the Sky Hotel in case Spacetime Flux occurred in the demilitarized zone.	
+75	莉琉	没想到关键证物被另一伙人抢走了……	沒想到關鍵證物被另一伙人搶走了……	まさか肝心な証拠品が、別の集団によって\n奪われる事になるとは思いませんでしたが……	중요한 증거물을 도둑맞을 줄은 생각도 못했지만……	I just didn't expect that someone would take away the key evidence… 	
+76	布莱特	这么说你一开始就是冲着黄金蝴──	這麼說來，妳一開始就是衝著黃金蝴──	と言う事は、君は最初から黄金バタ──	그 말은 처음부터 황금나비를──	So, right from the start, you were after the Golden B… 	
+77	基尔斯	——莉琉的判断是正确的。	——莉琉的判斷是正確的。	──マリルの判断は正しい。	——마리루의 판단은 옳았습니다.	—Mariru was right.	
+78	基尔斯	那名叫做“怜”的姑娘，你们测试过她能力的启动方法或能力边界吗？	那名叫做「憐」的姑娘，你們測試過她能力的啟動方法或能力極限嗎？	その『レン』と呼ぶ娘の能力。\nその起動方法や限界をテストした事はあるかね？	그 렌이라는 아가씨 말입니다. 능력 가동 방법이나 능력 한계를 실험한 적 있습니까?	Do you know how Ren triggers her ability? Or have you tested the triggering threshold?	
+79	N/A	基尔斯快速打断了布莱特的话并转移了话题。	基爾斯快速打斷了布萊特的話並轉移了話題。	ギアーズは素早くブライトの話を途中で遮り、\n話題をそらした。	자일즈가 재빨리 브렛의 말을 끊고 화제를 돌린다.	Kirs quickly interrupts Bright and shifts the subject.	
+80	布莱特	……	……	…………	……	… 	
+81	莉琉	（哼，露出马脚了。）	（哼哼，露出馬腳了。 ）	（ふん、ボロが出たな）	（흥, 본색을 들어내는군.）	(Huh, now you are showing your colors…)	
+82	莉琉	由于需要特殊的防护设施，暂时还没有安排实验。	由於需要特殊的防護設施，暫時還沒有安排相關實驗。	特殊な防護設備が必要なため、当面は実験計画を\n立ててはおりません。	특수 방호 설비가 필요한 관계로 실험은 진행하지 않았습니다.	We haven't arranged for an experiment as we need special protective facilities.	
+83	N/A	荧幕后方的人有些不满。	螢幕後方的人有些不滿。	モニターの向こう側は、少々不満気のようだ。	스크린 안 사람이 조금 불만스러워 보인다.	The one on the screen sounds to be annoyed.	
+84	基尔斯	如此特殊的资源，需要什么支持只要和元老院申请便好。	再怎麼特殊的資源，需要支援時只要向元老院申請即可。	これほど特別な素材は珍しい。\n協力が必要なら元老院に申請したまえ。	특수 자원이 필요하다면 원로원에 신청하면 되는 것 아닙니까. 	For such a special resource, the Senate will definitely give you full support.	
+85	N/A	莉琉低下头，露出狡猾的笑容。	莉琉低下頭，露出得逞了的狡猾笑容。	マリルは頭を下げ、狡猾な笑顔を浮かべた。	마리루가 고개를 숙이고 교활한 미소를 짓는다. 	Mariru lowers her head, hiding a sly smile.	
+86	莉琉	现在并不能确定，另一个维度的空间中，是否有我们无法应对的危险存在。	現在並不能確定，另一個維度的空間中，是否有我們無法應對的危險存在。	現時点では別次元の空間に、私達が対処不能な\n危険が存在するかどうかを確認できません。	다른 차원 공간에 우리가 대응할 수 없는 위험한 존재가 있을 수 있습니다.	For now, we don't know if there's any mortal danger in another spacetime.	
+87	莉琉	就算成功回收了某些人或物品，如何保证对方不存在攻击性呢？	就算成功回收了某些人或物品，又如何保證對方沒有攻擊性呢？	たとえ『人物』や『物品』などの回収に\n成功したとしても、\nそれらに攻撃性がない事をどうやって\n保証できるのでしょうか？	그 인간 혹은 물건을 회수한다 해도 공격성이 없다는 걸 어떻게 증명하죠?	And even we do bring back someone or something, how do we know if they are not offensive?	
+88	莉琉	毕竟历史上，可是有过“黑死病是由魔女的力量造成的”之类的传闻……	畢竟，歷史上可是有過「黑死病都是魔女造成的」這種傳聞……	歴史上には「黒死病は魔女の力で起きた」なんて\n噂もありましたからね……	역사에도 "흑사병은 마녀의 힘이 만든 것이다"라는 소문이 있지 않습니까……	After all, there have been a lot of rumors in history blaming witches for the rise of the Black Death…	
+89	布莱特	但是也不能把这么有意思的研究全都交给莉琉吧。	但是……也不能把這麼有意思的研究全都交給莉琉吧。	しかし、こんなに面白い研究を全てマリルに\n任せるわけにはいかんなっ。	하지만 이렇게 재밌는 연구를 마리루만 맡는다면 너무 불공평하지 않습니까? 	But putting Mariru in full charge of such an exciting experiment? I don't think so… 	
+90	莉琉	……	……	…………	……	… 	
+91	布莱特	不如，把那个小怜带到我的实验室？\n哈哈哈哈哈哈──	不如，把那個小憐帶到我的實驗室？ \n哈哈哈哈哈哈──	あの『レン』を是非とも、私の実験室に\n連れて来てはくれないだろうかっ？\nフッハハハハハ──	렌을 내 실험실로 데려오는 건 어때요? 하하하하──	Why not bring that Ren to my lab? \n Hahahahahaha… 	
+92	N/A	布莱特爆发出一阵带着电流音的大笑声。	布萊特爆出一陣帶著電流音的大笑聲。	ブライトは電流の音のような笑いを爆発させる。	전류음이 섞인 브렛의 웃음소리가 울린다.	Bright lets out a buzzing roar of laughter.	
+93	#C	不知道这只小猫咪自己想要谁做饲主呢……可以的话，我也想尝试饲养呢~	不知道這隻小貓咪想認誰做飼主呢……可以的話，我也想試著養看看呢～	あの子猫ちゃんは、\n誰を飼い主にしたいのでしょうかねぇ……\nできれば私も飼育してみたいのですがねぇ。	그 새끼 고양이가 누구를 주인으로 여길지는 모르는 거죠… 저도 한 번 키워보고 싶군요~	I'd say, let the kitty choose its owner… If possible, I want to keep a kitty like that too… 	
+94	基尔斯	……	……	…………	……	… 	
+95	华音泷	……	……	…………	……	… 	
+96	莉琉	作为小怜的监护人，我拒绝二位的要求。	身為小憐的監護人，恕我拒絕這種要求。	レンの保護者としてお二人のリクエストは、\n丁重に拒否させて頂きます。	렌의 후견인으로서 두 번째 요구는 거절하겠습니다.	As Ren's guardian, I decline all your requests.	
+97	N/A	莉琉笑了笑。	莉琉笑了笑。	──マリルは軽く笑う。	마리루가 웃었다.	Mariru beams a smile.	
+98	莉琉	不过──	不過──	しかし──	하지만──	But—	
+99	莉琉	既然元老院对小怜如此看重\n我倒有一个提议……	既然元老院如此看重小憐，\n我倒有個提議……	元老院の方々がこれほどまでに、\nレンを重要視されるのであれば。\nここは私に1つ提案があります……	원로원이 렌을 이렇게 중시한다니\n저에게 한 가지 제안이 있는데……	Since the Senate cherishes Ren so much, I'd like to make a proposal… 	

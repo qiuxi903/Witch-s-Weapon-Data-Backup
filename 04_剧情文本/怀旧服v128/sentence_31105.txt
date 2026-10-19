@@ -1,0 +1,218 @@
+﻿1	N/A	巴黎郊外，伊芙琳省某处。	巴黎郊外，伊夫林省某處。	パリ郊外、イヴリーヌ県内某所。		Somewhere in Yvelines, outside of Paris	
+2	N/A	呼──呼──\n哈……	呼──呼──\n哈……	ヒィ……ヒィ……\nフゥ――……		Phew…\nHow about that?	
+3	N/A	我刚才像一辆失控的重型卡车，撞飞了数十名士兵和好几道路障。	我剛才像一輛失控的重型卡車，撞飛了數十名士兵和好幾道路障。	さっきの「俺」の走りは尋常じゃなかった。\n\n兵士を蹴散らしつつバリケードも突き飛ばして\nまるで暴走する大型トラックみたいだった。		I was like a truck out of control and knocked over dozens of soldiers and several road blocks.	
+4	N/A	直到逃离那里之后，我才回望确认身后的建筑物就是凡尔赛宫。	直到逃離那裡之後，我才回頭確認後方的建築物就是凡爾賽宮。	外へと脱出してから振り返った時、\n後ろに見えたのはヴェルサイユ宮殿。\n一瞬だけアニー達の事を考えたが、\n気にする暇はなかった。		Only now, as I look back and see the building behind me, I can be sure that it IS the Palace of Versailles.	
+5	N/A	虽然不知当时跑得有多快，但那绝对是常人无法企及的速度──	雖然不知當時跑得有多快，但絕對是常人無法趕上的速度──	実際には測っていないけど、あれは絶対\n常人には出せない速度だと思う。		I have no idea how fast I ran, but definitely faster than any other human being.	
+6	N/A	迎面的风吹得我睁不开眼，而身后追击的车队不一会就被甩得没影了。	迎面的風吹得我睜不開眼，而後方追擊的車隊一下子就被甩得不見蹤影。	目が開かない程の向かい風──\n\nそして瞬きする間もなく、見えなくなった\n兵士達の姿。		The wind was blowing so hard at my face, I had trouble opening my eyes, and I shook all the chasing soldiers in an instant.	
+7	N/A	奥古斯塔全程紧闭双眼缩在我怀中，搂着我的脖子不肯松手……	奧古斯塔全程緊閉雙眼縮在我懷中，摟著我的脖子不肯鬆手……	オーガスタもずっと目を閉じたままで\n俺の懐に顔を潜めていた。\n俺の首に回した手は今も離れていない。		And during that whole time, Augusta was in my arms, her eyes closed and arms around my neck...	
+8	N/A	我从没试过跑步时双腿甩开那么大角度，甚至有段时间，校服的裙子完全翻上去了。	我從沒試過在跑步時將雙腿張開那麼大，甚至有段時間，校服的裙子整個都翻上去了。	制服のスカートは途中で完全に\n捲れ上がっていた。\nここまで歩幅を大きく広げて走った事なんて\n男だった頃でも流石に経験がない。		I had never run that fast before in my life. There was even a wardrobe malfunction—my skirt again...	
+9	小怜	（那种丢人的姿势……快点给我忘掉啊！！！）	（那種丟臉的樣子……快點給我忘掉啊！！！）	（と言うか、あんな丸見えな姿で……！）\n\n（は、はやく忘れたい……！！）		(I try hard not to think about how awkward I must've looked.)	
+10	N/A	在跑到这条乡间小路之后，我的速度终于降到了近乎散步的水平。	跑到這條鄉間小路之後，我的速度終於降到了近乎散步的水平。	現在の「俺」は田舎の小路にたどり着いてから\nようやく速度が散歩レベルまで落ちたところだ。		I keep running after a while before I finally slow down.	
+11	N/A	奥古斯塔也在刚才如梦方醒的睁开了眼睛，一边跟我聊天一边四下观察。	奧古斯塔也在剛才如夢初醒地睜開了眼睛，一邊跟我聊天，一邊四處觀察。	あまりの出来事に困惑していたオーガスタも、\n状況が落ち着いた事を確認した様子だ。\n閉じていた目を開いて、周囲を観察しながら\n俺に声をかけてくる。		Augusta opens her eyes and checks the perimeter as she asks me a question.	
+12	奥古斯塔	咱们这是到哪了？	我們現在在哪裡啊？	わ、私達はどこにいるんだ……？		Where are we now?	
+13	小怜	我还想问你呢……	我還想問妳呢……	こっちこそ聞きたいよ……		I was about to ask you...	
+14	N/A	而且您是不是可以下来自己走了！	而且您是不是可以下來自己走了！	それに、そろそろ君を降ろしたいんだけど？		And, I don't think I need to carry you any longer!	
+15	N/A	奥古斯塔没理我，出神得盯着远处夕阳下的小镇看了好一阵，才伸手指向前方右侧的岔口。	奧古斯塔沒理我，出神地盯著遠處夕陽下的小鎮看了好一陣，才伸手指向前方右側的叉路。	オーガスタは俺の疲れ顔を無視して、遠くの\n夕焼けに照らされた小さな町を暫く見つめる。\nそれから前方にあった分かれ道の右側を指した。		Augusta completely ignores me. She stares at a small town from afar for quite some time, then points at the crossroad up ahead.	
+16	奥古斯塔	去那边看看~	去那邊看看～	あっちに行くぞ――！		Let's go check there!	
+17	N/A	虽然我很想拒绝，但身体却很听话。	雖然我很想拒絕，但身體卻很聽話。	「嫌だ！」と腹の内では思ったが、「俺」の方は\n大人しく彼女の命令に従ってしまう。		I want to say no, but my body is following her order.	
+18	N/A	我索性抬头望着天边被映成金红色的云霞，巴黎乡间的傍晚美得让人沉醉。	我索性抬頭望著天邊映成金紅色的彩霞，巴黎鄉間的傍晚美得讓人沉醉。	俺は無意味な抵抗を諦め、視線を天へと向けた。\n\n空には金紅色の雲霞と暖かな夕日。\n\nパリの田舎の夕景ってこんなに美しいんだな……		I raise my head and start to appreciate the beautiful sunset—the Paris countryside is breathtaking.	
+19	N/A	这条路很安静，只有微风拂过树梢的声音。	這條路很安靜，只有微風拂過樹梢的聲音。	静かな道。\n\n周囲は風による木々の擦れる音しか聞こえない。		It's a quiet road, too. All I can hear is the breeze blowing gently past the trees on the sides.	
+20	N/A	空气中混杂着青草和泥土的味道，隐约中还有股淡淡的汽油味。	空氣中混雜著青草和泥土的味道，隱約還有股淡淡的汽油味。	空気中は草の香りに包まれている。\n\n……その中に微かに潜むガソリンの匂い。		The smell of grass and dirt is in the air. And a slight trace of gasoline.	
+21	N/A	无论是远处石墙下被烧得焦黑的战车，还是路面上坑坑洼洼的被重型履带碾过的痕迹……	無論是遠處石牆下被燒得焦黑的戰車，還是路面上坑坑疤疤被重型履帶碾過的痕跡……	石壁の近くには黒焦げの戦車があり、\nそして路面に残された履帯の痕跡が見える……		Burned tanks by the walls from afar; the deep track marks on the ground...	
+22	N/A	都暗示着这里不久前才经历过一场战事。	在在都暗示著，這裡不久前才經歷過一場戰事。	その全てが、そう遠くない過去に戦争が\nあった事を示す。		They all indicate a war happened here not long ago.	
+23	N/A	我在脑内默默整理了一下刚从奥古斯塔了解到的关于这个世界的情报──	我在腦中默默整理了一下剛才從奧古斯塔瞭解到有關這個世界的情報──	先ほどオーガスタから聞いていた、\nこの世界に関する情報を俺は脳内で整理する。		I quickly gather my thoughts based on what Augusta told me earlier about this world.	
+24	N/A	这里是1871年，我所知道的六座学园还不存在，或者说还都以它们原始的形态存在着。	這裡是1871年，我所知道的六座學園還不存在，或者說，它們都還以原始的形態存在著。	ここは1871年。\n俺の知ってる六大学園都市はまだ存在してない。\n……いや、原始な姿で存在はしてると言った方が\n正しいのか。		It's 1871. The six academy cities I know of don't exist yet—or at least, not in the same form.	
+25	N/A	但不知为何，这边某些方面的技术已经达到了非常先进的水平──比如铁路、汽车、飞机和互联网。	但不知為何，這裡的某些技術已經達到非常先進的水準──像是鐵路、汽車、飛機和網路。	19世紀ではあるのだけど、なぜか一部の技術は\n俺の知っている19世紀よりも先進していた。\n鉄道、自動車、飛行機、インターネットとか……		On the other hand, the technology level in this world is almost as advanced—railroads, cars, planes... Even the Internet.	
+26	N/A	连移动通讯和监控设备都大面积普及了，甚至还有卫星定位系统……	連行動通訊和監控設備都大量普及了，甚至還有衛星定位系統……	移動通信や監視装置までもが普及されていて、\nしかもGPSまであるなんて……		Mobile communication and surveillance devices are widely used. They even have GPS!	
+27	小怜	（似乎都是从军事技术转化而来的……？）	（似乎都是從軍事技術轉化而來的……？）	（全てが軍事技術から転化された物……だよな）		(They were all used first by the military...)	
+28	小怜	话说你们才刚刚占领巴黎不久吧……就这么跑出来会不会有什么危险？	話說你們才剛剛佔領巴黎不久吧……就這麼跑出來會不會有什麼危險？	そう言えば君達がパリを占拠したのは\n最近なんだよな？\nこんなノコノコと外を歩くのは危険じゃないか？		You said you just occupied Paris. Is it dangerous for us to be out here?	
+29	奥古斯塔	放心吧~	放心吧～	ふふん、安心するがいい。		Don't worry.	
+30	奥古斯塔	前一阵我们抵达这里的时候，本地的新闻标题是：\n“奥古斯塔陛下于今日抵达她忠诚的巴黎。”	前一陣我們抵達這裡的時候，本地的新聞標題是：\n「奧古斯塔陛下於今日抵達她忠誠的巴黎。」	先日のニュースの表題は知っているだろう？\n\n「本日オーガスタ陛下のご到着」\n「彼女に忠誠を誓ったパリへ」と書かれてたぞ。		When we arrived a while ago, the headline of the local news was:\n"Loyal servants await Her Highness Augusta in Paris"	
+31	小怜	…………	…………	…………		...	
+32	N/A	完全没法让人放心啊！	一點都無法讓人放心啊！	全然安心できないんだけど！？		That's not exactly reassuring.	
+33	奥古斯塔	而且本来统治这儿的就不是什么正统，我们已经宣布会将大部分领土交还给流亡近百年的法国王室。	而且，本來統治這裡的就不是什麼正統政府，我們已經宣佈會將大部分領土交還給流亡近百年的法國王室。	我々には元々、ここを統治する正当性が\nないからな。\nすでに百年近く流亡してるフランス王室に\n我々は領土の大部分を返還すると公表した。		The people before us weren't the rightful rulers. We've announced that we'll return most of the land to the French royal family that's been in exile for almost 100 years.	
+34	小怜	流亡……近百年？	流亡……近百年？	百年近く……流亡している？		In exile? 100 years?	
+35	奥古斯塔	就是那件事啊──\n大概一个世纪以前，1777年的一天……	就是那件事啊──\n大概一個世紀以前，1777年的某一天……	あの事件を知らないのか？\n\nヴェルサイユ宮殿を覆いつくした紫色の光は\n有名な話だろう？		Because of what happened!\n1777, almost a century ago...	
+36	奥古斯塔	凡尔赛宫上空被一团紫色的光芒笼罩，夜空被照得恍若白昼，全巴黎的人都目睹了那次异象。	凡爾賽宮上空被一團紫色的光芒籠罩，夜空被照得恍若白晝，全巴黎的人都目睹了那次異象。	おおよそ1世紀前、1777年の夜。\n\nまるで真昼のように明るくなったと\n皆が口を揃える。\n当時、パリに住まう全ての人々があの異象を\n目撃したらしい。		The skies above the Palace of Versailles were clouded by purple light. It was at night, but the night skies were as bright as day.	
+37	奥古斯塔	光芒渐渐熄灭之后，原先驻守在凡尔赛宫内的军队、仆人、全部贵族以及皇室成员都消失了。	光芒漸漸熄滅之後，原先駐守在凡爾賽宮內的軍隊、僕人、所有貴族以及皇室成員都消失了。	光の収束後、ヴェルサイユ宮殿にいたであろう\n軍隊、給仕、貴族、王族の全員が消え失せた。\n急いで近衛隊が現場に駆け付けたが彼らの消息は\n不明のまま。		Then the light faded and eventually disappeared. And along with it, all the soldiers, servants, nobles, and royal family members inside the palace!	
+38	奥古斯塔	根据禁卫军的记录，他们赶到的时候只看到几十名身着统一制服的陌生人，大多神情慌张。	根據禁衛軍的記錄，他們趕到時，只看到幾十名身著制服的陌生人，大多神情慌張。	記録だと、見知らぬ服装で統一した連中だけが\nその場にいたようだ。\n何やら随分と動揺している様子だったらしいが。		According to the royal guards' records, when they arrived, they only saw dozens of strangers in uniform, all acting nervous.	
+39	奥古斯塔	那些奇怪的人召唤出了强大的人形生物，能像恶魔般随意扭曲自己的关节，迅速击溃了禁卫军。	那些奇怪的人召喚出了強大的人形生物，能像惡魔般隨意扭曲自己的關節，還迅速擊潰了禁衛軍。	近衛隊を見た途端、変な連中は凶暴な人形生物を\n召喚し始めた。\nそれは悪魔憑きが如く関節を捻じ曲げる事ができ\n一方的な敗北を近衛隊は喫する。		They summoned a powerful humandroid who could twist its body at will and defeated the royal guards with ease.	
+40	奥古斯塔	然后那些人在更多援军到来前，迅速消失在了黑夜之中，从此音讯全无。	然後那些人形在更多援軍來到之前就迅速消失在黑夜中，從此音訊全無。	援軍が大慌てで現場に急行するも、その時には\n連中も闇夜に消えて……\n疑念だけが残って、結局は何もかもが分からず\n仕舞いだ。		Afterwards, they all vanished into the dark night before more reinforcements arrived.	
+41	小怜	（大规模失踪和……扭曲的人形生物？）	（大規模失蹤和……扭曲的人形生物？）	（大規模失踪と、関節を捻じ曲げる人形生物？）		(Tons of people gone missing... And a powerful humandroid?)	
+42	N/A	我立刻想到了莱博娜巨蛋体育场，五万名观众同时消失的事件，安妮当时也被卷入了那场异变。	我立刻想到了萊博娜巨蛋體育場，五萬名觀眾同時消失的事件，安妮當時也被捲入了那場異變。	リバーナ自由光スタジアムで5万人の観客が\n同時に消失した事件を思い出す。\n当時、その異変にアニーも巻き込まれた。		I immediately think of what happened in Lebona's Light of Freedom Dome. 50,000 people vanished all at once. Annie was involved in that accident, too.	
+43	N/A	而扭曲的人形生物难道是──	而扭曲的人形生物，難道是──	捻じ曲がった人形生物ってまさか……		Especially the powerful humandroid...	
+44	小怜	（女巫……？）	（女巫……？）	（……ドール？）		(Is she a witch?)	
+45	奥古斯塔	那件事导致异质物第一次为世人所知，同时也造成了法国几个革命派别和贵族的大混战……	那件事導致異質物第一次為世人所知，同時也造成了法國幾個革命派別和貴族的大混戰……	あの事件をきっかけに異質物の存在が世界の\n人々へと露呈した。\nそして同時にフランス国内で革命派と貴族による\n大乱戦が幕を開けた──		That was the first time Substance H came to people's attention. And wars broke out in France afterwards...	
+46	奥古斯塔	不过这些都是最基本的历史知识吧，你连这些都不知道吗？	這些都是最基本的歷史知識吧，妳連這些都不知道嗎？	……これは基礎中の基礎の歴史知識だ。\nこんな事もお前は知らないのか？		This is all basic history. Have you not heard of any of them?	
+47	小怜	我应该知道吗？	我應該知道嗎？	……俺が知っとくべき事なのか？		I'm supposed to know all that?	
+48	奥古斯塔	别的召唤兽还挺有常识的，你怎么这么笨……	別的召喚獸都還滿有常識的，妳怎麼這麼笨……	他の召喚獣はちゃんと最初から世俗的知識を\n持ち合わせているんだぞ？\nなぜお前だけが低能なのか……		You must be the dumbest summoned beast...	
+49	N/A	她不满的白了我一眼。	她不滿地給了我一個白眼。	オーガスタは不満そうに俺を見ている。		She shoots me a glare.	
+50	N/A	小丫头信不信我把你丢到地上！	小丫頭，信不信我把妳丟到地上！	地面に落とすぞ。この小娘！		You want a piece of me, little girl?	
+51	奥古斯塔	不过……还好。	不過……還好。	だが……よかった。		But... At least...	
+52	N/A	奥古斯塔轻声说道。	奧古斯塔輕聲說道。	オーガスタは小さな声で呟いた。		Augusta whispers.	
+53	小怜	嗯？	嗯？	うん？		Huh?	
+54	奥古斯塔	召唤兽是强大的上古生灵，传说只会对拥有天命之人效忠，也是各国皇室遴选继承人的标准。	召喚獸是強大的上古生靈，傳說只會對擁有天命之人效忠，也是各國皇室遴選繼承人的標準。	召喚獣とは、古き強大な生霊であり、伝説では\n天命を擁する人間にのみ忠誠を誓うと言う。\n各国の王室も継承者を選ぶ基準のひとつに\n召喚獣の忠誠を含めている。		Summoned beasts are powerful ancient creatures. Legend has it, they're only loyal to the chosen ones. So, it's become a criterion for the royal families to select their new kings and queens.	
+55	奥古斯塔	小时候皇兄死于意外，我被匆忙扶上皇位之后的质疑声就没停止过。	小時候皇兄死於意外，我被匆忙扶上王位之後的質疑聲就沒停過。	幼い頃にお兄様が事故で亡くなり、出し抜けで\n私が即位して以来、\n私に対する質疑の声が止む時など無かった。		My brother died in an accident when I was little. After I took power, doubts about the throne's legitimacy never stopped.	
+56	奥古斯塔	其实我也觉得自己没有资格，但又不敢承认……	其實我也覺得自己沒有資格，但又不敢承認……	資格がないとは認めたくなかったけど\n実は自信なんて少しもなくて……		I, too, wasn't sure I should be the one, to be honest...	
+57	N/A	奥古斯塔把头轻轻靠在我的胳膊上，轻声说道。	奧古斯塔把頭輕輕靠在我的手臂上，輕聲說道。	オーガスタは俺の肩に頭を乗せて\n軽い声で言った。		Augusta whispers as she leans her head on my arm.	
+58	奥古斯塔	还好……	還好……	だから、よかった……		So, at least...	
+59	小怜	……	……	……		...	
+60	N/A	我不知该如何回应。	我不知該如何回應。	俺はどう反応すればいいのか分からなかった。		I don't know how to respond.	
+61	N/A	虽然还不清楚具体细节，但从她的反应看来，被召唤来的应该是本就属于这个世界的生灵。	雖然還不清楚具體細節，但從她的反應看來，被召喚來的應該要是本就屬￿這個世界的生靈。	仕組みをちゃんとは知らないけど、古き強大な\n生霊と聞く限りでは、\n普通はこの世界に元々属している生霊を\n召喚するはず。		Though I don't have all the details, based on her reaction, the other summoned beast was from this world.	
+62	N/A	但我来自另一个世界啊……	但我來自另一個世界啊……	だけど恐らく、\n俺は別世界から来てると思うんだけど……		But I'm not...	
+63	奥古斯塔	放心吧──	放心吧──	大丈夫だ──		Don't worry.	
+64	N/A	奥古斯塔好像看透了我的心思。	奧古斯塔好像看透了我的心思。	俺の考え事を見越したようにオーガスタは\n話を続ける。		Augusta seems to have read my mind.	
+65	奥古斯塔	召唤兽只能在现世维持一小段时间，能量耗光后你就能回到自己来的地方。	召喚獸只能在現世維持一小段時間，能量耗光後，妳就能回到當初來的地方了。	召喚獣が現世に存在できる時間は少しだけ。\n\nエネルギーを使い切れば、お前は元いた場所へと\n戻れるよ。		Summoned beasts can only stay here for a limited time. Once your energy is used up, you'll return to your world.	
+66	小怜	能量是指？	能量是指？	エネルギー？		What energy?	
+67	奥古斯塔	比如维多利亚女王的召唤兽是公认最强的，每次足以摧毁一辆战车。	比如說，維多利亞女王的召喚獸是公認能量最強的，一次足以摧毀一部戰車。	最強とも称されるヴィクトリア女王の召喚獣は\nエネルギーだけでも、\n戦車1台を破壊できるぐらい持っている。		Queen Victoria's summoned beast is considered the most powerful. It has enough energy to destroy a tank.	
+68	N/A	我刚才撞飞好几辆算不算……	我剛才撞飛好幾輛算不算……	さっき、俺も何台か蹴り飛ばしてたっけ……		But I just knocked over several of them...	
+69	奥古斯塔	能量大概两亿焦耳左右。	能量大概兩億焦耳左右。	大よそのエネルギー量は2億ジュールぐらいか。		Which translates into about 200 million J.	
+70	N/A	等等，这边连焦耳他老人家也有吗？！	等等，這邊連焦耳他老人家也存在嗎？！	こっちにもジュール爺さんは存在するのかよ……		J? As in Joule? That old man exists in this world, too?	
+71	小怜	怎么快点把能量耗光啊……\n（那样我就能回去了吧？）	要怎樣才能快點把能量耗光啊……\n（這樣我就能回去了吧？）	えっと、どうすればエネルギーは早く切れるの？\n（切れたら俺は帰れるんだよな？）		How can I use up my energy more quickly?...\n(Then I can go home.)	
+72	奥古斯塔	不知道……\n（刚才这一路早该耗光了……）	不知道……\n（剛才這一路早該耗光了……）	それは私にも分からん……\n\n（彼女は相当なエネルギーを消費したはずだ）\n \n（すでに切れていてもおかしくないんだが……）		I don't know...\n(I'm surprised you still haven't...)	
+73	N/A	……	……	……		...	
+74	N/A	2037年，凡尔赛宫。	2037年，凡爾賽宮。	──2037年、ヴェルサイユ宮殿。		Year 2037, Palace of Versailles	
+75	N/A	拉斐尔接过安妮的手机，上面是再普通不过的wiki页面。	拉斐爾接過安妮的手機，上面是再普通不過的Wiki頁面。	アニーから渡されたスマホの画面をラファエルは\n確認する。\nそこにはいたって普通のwikiサイトが\n表示されていた。		Raphilia looks at Annie's phone. It's just normal wiki page.	
+76	拉斐尔	时间之神『埃安』又称柯罗诺斯，他创造了宇宙的银蛋，银蛋孕育出了最初之神『法涅斯』……	時間之神「埃安」又稱克羅諾斯，他創造了宇宙的銀蛋，銀蛋孕育出了最初之神「法涅斯」……	時間の神「アイオーン」またの名はクロノス。\n\nそして彼の創造した宇宙卵から生まれたのが\n原初の神「パネース」……		ÄON is also known as Chronos. He created the cosmic egg which later hatched into Phanes, the God of Creation.	
+77	拉斐尔	这个神话体系太古老了，现在没什么人知道了吧？	這個神話體系太古老了，現在沒什麼人知道了吧？	この神話の系譜はかなり古いものよ。\n\n今だと知ってる人なんてほとんど\n存在しないのじゃないかしら？		I don't think many people even heard of this ancient mythology.	
+78	安妮	你接着看下面~	妳接著看下面～	とにかく続きを読んでみて！		Keep reading.	
+79	拉斐尔	『法涅斯』既是男性，也是女性……处于隐形的神性世界和突显的人性世界之间。	「法涅斯」既是男性，也是女性……處於隱形的神性世界和突顯的人性世界之間。	「パネース」は両性具有の神。\n男性でもあり女性でもある……\n彼は隠微な神の世界と、際立つ人の世界\nその狭間に存在する。		Phanes is both male and female, a hermaphrodite.	
+80	拉斐尔	这个……\n难道说……是指那个女装癖？	這個……\n難道……是指那個女裝癖？	これって……まさか、あの女装癖の事？		...\nAre you thinking what I'm thinking?	
+81	N/A	拉斐尔表情复杂的抬头看向安妮，发现安妮正以同样玩味的表情看着自己。	拉斐爾表情複雜地抬頭看向安妮，發現安妮正以同樣玩味的表情看著自己。	複雑な表情でラファエルは顔を上げる。\n\nアニーが意味深な目でこちらを見ている事に\n彼女は気付いた。		Raphilia and Annie stare at each other, twin looks of complication on their faces.	
+82	拉斐尔	柯罗诺斯将银蛋放入了夜之女神的体内……	克羅諾斯將銀蛋放入了夜之女神的體內……	クロノスは卵を夜の女神の体内に入れ……		Chronos later inserts the silver egg inside the body of the goddess of the night...	
+83	N/A	……体、体内？？！	……體、體內？？！	……た、体内ッ！？！？		Inside of her body?!	
+84	N/A	拉斐尔惊异的将目光移向桌上的彩蛋，这东西的做那么小，难难难道是为了……	拉斐爾驚訝地將目光移向桌上的彩蛋，這東西做得那麼小，難難難道是為了……	ラファエルは驚愕しながら机の上のエッグに\n視線を移す。\nこのエッグだけ他よりサイズが小さい理由……\n\nそれはもしかして……		Raphilia looks at the egg on the table. This egg was made smaller than all the other eggs... For a special purpose?	
+85	N/A	安妮点了点头，做出一副“你懂了吧？”的表情。	安妮點了點頭，做出一副「妳懂了吧？」的表情。	「分かったでしょ？」と言わんばかりの表情で\nアニーは頷いた。		Annie nods as her way of confirming this theory.	
+86	拉斐尔	（莫莫莫莫莫莫莫莫莫莫非……？？！）	（莫莫莫莫莫莫莫莫莫莫非……？？！）	（まさか、そんな……！？！？）		(Don't tell me...)	
+87	N/A	拉斐尔吞了吞口水，脸一下红到了脖子根，伸向彩蛋的右手有些颤抖。	拉斐爾吞了吞口水，從臉一路漲紅到脖子，伸向彩蛋的右手有點顫抖。	首元まで真っ赤になったラファエルは\n唾を飲み込んだ。\nエッグへと伸ばした彼女の右手が微かに\n震えているように見える。		Raphilia's face turns red in an instant. Her right hand is shaking as it reaches for the easter egg.	
+88	N/A	不料安妮先一步拿起了彩蛋，将它对着窗外的夕阳说道──	不料安妮搶先拿起了彩蛋，將它對著窗外的夕陽說道──	錯綜する思考で何かを葛藤しているラファエル。\n\nそんな中、先にアニーがエッグを持ち上げた。\n窓の外の夕日を見ながら、話を続ける──		Annie beats her to it. She picks up the egg as she looks at the sunset outside the window.	
+89	安妮	传说中『法涅斯』诞生自含水的深渊，出生时撕裂了原有世界的黑暗状态……	傳說中「法涅斯」誕生自含水的深淵，出生時撕裂了原有世界的黑暗狀態……	伝承だと「パネース」は暗き水の深淵から\n生まれたみたい。\nそして生誕の際には元々あった世界の暗黒状態を\n引き裂いた……		In legends, Phanes was born in a watery abyss. He brought light and gave birth to the universe we know today...	
+90	安妮	我们把它放到完全不透光的水箱中试试？	我們把它放到完全不透光的水箱中試試？	っていう神話だから、このエッグを光が通らない\n水槽の中に入れてみない？		Let's put this egg in an opaque water tank, then!	
+91	安妮	嗯……？\n你的脸怎么那么红？	嗯……？\n妳的臉怎麼那麼紅？	あれ……？\n\n顔が真っ赤になってるけど、どうしたの？		Huh?\nWhy is your face so red?	
+92	拉斐尔	──没什么！！\n这里太热了！！	──沒什麼！！\n這裡太熱了！！	な、な、な、なんでもないわ！！\n\nこ、この部屋は本当に暑いわね！！		Nothing!\nJust too hot and stuffy in here!	
+93	N/A	……	……	……		...	
+94	N/A	我抱着奥古斯塔走进小镇。	我抱著奧古斯塔走進小鎮。	オーガスタを抱えながら、小さな町へと入った。		I carry Augusta and walk inside the small town.	
+95	N/A	虽然被丢得满地的传单上再三保证军队不会征用居民财物，但镇上的居民还是跑光了。	雖然滿地亂丟的傳單上再三保證軍隊不會徵用居民財物，鎮上的居民還是跑光了。	地面に散乱するパンフレットには住民の財産を\n徴発しないとの軍令が書かれていた。\nだが、すでに一人残らず町の人間は\n逃げ出した様子である。		The flies all over the ground were sent out by the military, promising people no properties would be confiscated. Those promises didn't change people's minds—they all fled.	
+96	N/A	不愧是“陛下忠诚的巴黎”。	不愧是「陛下忠誠的巴黎」。	さすがは「彼女に忠誠を誓ったパリ」だな。		So much for "loyal servants await."	
+97	N/A	天色渐暗，我们来到镇上的广场，四周的商店门口还挂着减价特卖的招牌。	天色漸暗，我們來到鎮上的廣場，四周的商店門口還掛著減價特賣的招牌。	徐々に空が暗くなると共に、俺達は町の広場へと\n入った。\n周囲の商店は割引セールの看板を掛けたままで\n放置されている。		It's getting dark as we reach the town square. The nearby shops still have their "sale" signs in front of their closed doors.	
+98	N/A	广场东侧有一座旋转木马，奥古斯塔让我将她放下来，至此我才终于恢复了对身体的控制。	廣場東側有一座旋轉木馬，奧古斯塔要我把她放下來，此時我才終於恢復了對身體的控制。	東側には止まった回転木馬があって\n静寂の深さが分かった。\n俺は彼女からの命令によってオーガスタを広場で\n降ろすと、ようやく身体の制御を取り戻す。		There's a carousel on the east side of the square. Augusta tells me to put her down, and I finally regain control of my own body.	
+99	N/A	恢复知觉的关节和肌肉并未感觉不适，反而是喉咙干渴到发痒，我赶忙冲到路边的石质饮水池喝水。	恢復知覺的關節和肌肉並未感覺不適，反而是喉嚨乾渴到發癢，我急忙衝到路邊的石製飲水池喝水。	知覚の復活した関節や筋肉からは、\n特に痛みや不快感などは感じなかった。\n代わりに喉は痒くなるまで乾ききっており、\n早急に俺は近くの水飲み場で喉を潤した。		My joints and muscles are feeling all right, but I'm parched. I rush to a nearby drinking fountain.	
+100	N/A	奥古斯塔自作主张的钻进售票亭打开了电源，旋转木马缓缓转动起来，昏暗的广场瞬间被点亮了。	奧古斯塔自作主張地鑽進售票亭打開了電源，旋轉木馬便緩緩轉動起來，昏暗的廣場瞬間被點亮了。	その間にオーガスタは広場のチケット売り場を\n勝手に調べ、中の電源を勝手にオンにする。\n回転木馬が徐々に回るのと併せて暗かった広場も\n瞬間的に明るくなった。		Augusta, at the same time, enters the ticket booth and turns on the switch. The carousel starts moving, and all the lights are lit up.	
+101	N/A	空无一人的小镇上，广场地面的石板反射着回转的绚丽灯光，好似童话中的画面。	空無一人的小鎮上，廣場地面的石板反射著旋轉著的絢麗燈光，好像童話中的場面。	誰もいない小さな町で回転木馬の華やかな灯りが\n地面に反射する。\nまるで童話の一幕のような光景だった。		In this empty town, the reflections of the beautiful lights can be seen on the ground. I feel like I'm in a fairy tale.	
+102	奥古斯塔	哇──！	哇──！	はぅわ────！		Whoa!	
+103	小怜	……你没玩过吗？	……妳沒玩過嗎？	……乗った事ないの？		Don't tell me you never rode a carousel...	
+104	N/A	奥古斯塔微微摇了摇头，像小孩子一样张着嘴，惊讶的看着这奇异的情景。	奧古斯塔微微搖了搖頭，像小孩子一樣張著嘴，驚訝地看著這奇異的情景。	オーガスタは軽く頭を横に振ると子供みたいに\n口を丸く開きながら\n目の前の光景を興味津々に見つめる。		Augusta shakes her head as she stares at the carousel, mouth wide open like a small child.	
+105	小怜	来~	來～	よし！……乗ってみようか！		Come!	
+106	N/A	我拉着她登上转动的基台，坐到一个马车车厢造型的双人座上。	我拉著她登上轉動的基座，坐到一個馬車車廂造型的雙人座上。	俺は回転する土台までオーガスタを引っ張り\n馬車の形をしている2人用の座席に座った。		I drag her onto the moving carousel and sit ourselves in a double seat.	
+107	N/A	她显得很兴奋又有些害怕，不停的左顾右盼，但眼中一直闪着光亮。	她顯得很興奮又有些害怕，不停地左顧右盼，但眼中一直閃著光亮。	興奮と恐れが入り混じった様子のオーガスタは\n目を光らせながら、キョロキョロとしている。		She looks excited but scared at the same time. She keeps looking around, her eyes sparkling the whole time.	
+108	N/A	我靠在车厢背上，看着镶在天花板的镜面中反射她的笑颜，心情稍稍放松了下来。	我靠在車廂背上，看著她的笑臉反射在鑲在天花板的鏡面中，心情稍稍放鬆了下來。	車両に背を預けた俺は天井のミラーから\nオーガスタを確認する。\n彼女は笑顔の様子で、なんだか少し安心した。		I lean back and look at the reflection of her smiling face from the mirror on the ceiling. I finally begin to relax.	
+109	小怜	（不知什么时候才能把能量耗完……）	（不知什麼時候才能把能量耗完……）	（いつになったらエネルギーは使い切れるのか）		(But how long before I can use up all my energy?)	
+110	N/A	而且耗完后真的能回去吗，甚至真的能耗完吗？	而且耗完後真的能回去嗎，甚至真的能耗完嗎？	もし、使い切ったとしても円滑に戻る事が\nできるのだろうか？\nそもそも本当に使い切れるのか……？		More importantly, will I really go back once all my energy is gone? Will it ever be all gone?	
+111	小怜	（唉，顺其自然吧~）	（唉，順其自然吧～）	（……まぁ、なんとかなるさ）		(I must let nature take its course, I guess...)	
+112	奥古斯塔	呐……	呐……	……ねぇ──		Hey...	
+113	小怜	嗯？	嗯？	うん？		Huh?	
+114	奥古斯塔	你刚才是不是想问我关于学园都市的事来着？	妳剛才是不是想問我關於學園都市的事來著？	さっき学園都市について質問していたな？		You wanted to ask me about the Academy City?	
+115	小怜	我记得你说……第四学园都市是柏林？	我記得妳說……第四學園都市是柏林？	確か君は第四学園都市はベルリンって\n言ったよね？		You mentioned earlier the Fourth Academy City was Berlin?	
+116	奥古斯塔	那个称号还没公开，是一个月前各个战胜国在伦敦会议中决定的事项。	那個稱號還沒公開，是一個月前各個戰勝國在倫敦會議中決定的事項。	実は、その名称はまだ公表されていない。\n\n各戦勝国が事項に合意したのは1か月前の\nロンドン会議だ。		It hasn't been officially announced yet. It was only decided a month ago in London.	
+117	奥古斯塔	虽然是宰相代我参会，但我认为这个名字挺好──	雖然是由宰相代表我參加會議，但我認為這個名字還不錯──	宰相が私の代わりに出席した会議なのだが\n非常に良い名だと思っている……		My chancellor attended the meeting on my behalf. I like the name, though.	
+118	奥古斯塔	铁与血的代价太过高昂了……	鐵與血的代價太過高昂了……	鉄と血の代償は、あまりにも大きすぎた……		The price of Blood and Iron is just too heavy...	
+119	N/A	我若有所思的点了点头。	我若有所思地點了點頭。	オーガスタの言葉から何とも言えない重みを\n感じて頷いた。		I nod my head.	
+120	N/A	虽然还没出现核武器，但异质物武器在这个世界的普及程度却超乎我想象的高。	雖然還沒出現核武，但異質物武器在這個世界的普及程度卻超乎我想像的高。	核兵器はまだ発明されていない様子だけど……\n\nこの世界は俺の思ったよりも遥かに異質物武器が\n普及している。		Though there are still no nuclear weapons in this world, Substance H is much more widely used than I thought.	
+121	N/A	刚看到那台被烧焦的量产战车，从主炮的形状看来绝不是发射动能炮弹的。	剛才看到那台被燒焦的量產戰車，從主炮的形狀看來絕不是用來發射動能炮彈的。	あの黒焦げになっていた量産型っぽい\n戦車の主砲だって、\n形から考えればよくある戦車砲の類では\nないのだろう……		That burned tank from earlier... Judging by the shape of its cannon, it can't fire kinetic cannonballs.	
+122	N/A	也可想而知刚刚结束的那场战争有多么惨烈……	也由此可想而知，剛結束的那場戰爭有多麼慘烈……	つい最近、この世界で終結した戦争。\n\nどれほど惨烈だったのかは容易く想像できた。		Yet the damage it caused... How fierce the battle must've been...	
+123	小怜	你总提到的那个宰相……和你很亲吗？	妳常提到的那位宰相……和妳很親嗎？	その宰相さんってさ……親しい人なのか？		The chancellor you mentioned. Is she close to you?	
+124	N/A	我注意到刚才卫戍军使用的都是麻醉武器，而且明显有种投鼠忌器的感觉。	我注意到剛才衛戍軍使用的都是麻醉武器，而且明顯有種投鼠忌器的感覺。	さっきの近衛隊は非致死性の兵器しか\n使用してなかった。\nきっとオーガスタを傷付けないためだろう。		The armed soldiers earlier all used anesthetic bullets. That must be the order from the chancellor.	
+125	奥古斯塔	嗯……	嗯……	……うん。		Hmm...	
+126	奥古斯塔	至少曾经是的……	至少曾經很親……	少なくともは、そう。\n\n……「だった」かな。		At least we used to be close... Very close.	
+127	N/A	奥古斯塔脸上闪过一丝失落，抬起头看着天花板上的镜子，似乎陷入了回忆。	奧古斯塔臉上閃過一絲失落，抬起頭看著天花板上的鏡子，似乎陷入了回憶。	少しだけ悲しい表情を見せたオーガスタは\n天井のミラーを眺めながら追憶を語る。		With a disappointed look on her face, Augusta stares at her reflection in the ceiling mirror, thinking of the past.	
+128	奥古斯塔	哥哥在我8岁那年，死于一场意外……	哥哥在我8歲那年，死於一場意外……	私には兄がいたのだけど……\n8歳の時に事故で命を落としてな。		My brother died in an accident when I was 8.	
+129	奥古斯塔	我被带到议员们面前，看他们为了继承权问题吵个不停，心里怕极了。	我被帶到議員們面前，看他們為了繼承問題吵個不停，心裡超害怕的。	その要因から継承権問題の矢面に立つ事となり\n私は良く議員達の眼前に連れ出された。\n激しい口論を交わす彼らの様相は幼心にも\n怖いと感じたものだ。		Later, I was brought in front of the chamber of deputies. I was terrified as they were arguing who should take over the throne.	
+130	奥古斯塔	当时只有一个人过来安慰我，说只要我能忍住不在议会大厅里哭出来，她就有办法保护我。	當時只有一個人過來安慰我，說只要我能忍住不在議會大廳裡哭出來，她就有辦法保護我。	あの頃、私を慰めてくれたのはたった1人。\n\n私が議事堂の中で泣かずに我慢できれば彼女は\n私の事を守ってくれると約束してくれた。		Only one person came and calmed me down. She promised me that she'd protect me so long as I didn't cry.	
+131	奥古斯塔	──她就是莱昂妮·冯·俾斯麦。	──她就是萊昂妮·馮·俾斯麥。	──その人は、ライオネ・フォン・ビスマルク。		That person was Leonie von Bismarck.	
+132	小怜	是怎么做的……？	是怎麼做的……？	ビスマルク……守ってくれるって、どうやって？		What did she do?	
+133	奥古斯塔	她在议会上发表了一次差点引起多数派议员们暴动的演说──	她在議會上發表了一次差點引起多數派議員暴動的演說──	彼女は議会の場で与党議員の怒髪天を衝くような\n演説を発表した──		She gave the Blood and Iron speech, which almost caused a riot.	
+134	奥古斯塔	“当代的重大问题不是通过演说和多数派决议所能解决的，而是要用铁和血来解决。”	「眼前的重大問題不是透過演說和多數派決議就能解決的，而是要用鐵和血來解決。」	「もはや此度の問題は演説や多数決で判断を下す\n状況ではない。鉄と血で解決するしかないのだ」		"The great questions of the time will not be resolved by speeches and majority decisions, but by iron and blood."	
+135	奥古斯塔	“为了避免我们再度陷入分裂，必须由霍亨索伦家族唯一的继承人来接替皇位。”	「為了避免我們再度陷入分裂，必須由霍亨索倫家族唯一的繼承人來接替王位。」	「再び我らが内部分裂に陥る状況を防ぐためにも\n私は徹底する」\n「皇位を受け継ぐのはホーエンツォレルン家\n唯一の跡継ぎでなければならない」		"To avoid being divided again, we must support the only living heir of the House of Hohenzollern."	
+136	N/A	听着奥古斯塔模仿那个人说话的样子，让我感觉有些熟悉。	聽著奧古斯塔模仿個人說話的樣子，我有種熟悉感。	ビスマルクの真似をしているオーガスタを見ると\nなぜかあの人を思い出す。		Augusta's impression looks and sounds familiar.	
+137	N/A	接着，她笑着摇了摇头。	接著，她笑著搖了搖頭。	言葉を止めたオーガスタは微笑みながら\n頭を振っていた。		Then, she shakes her head.	
+138	奥古斯塔	从那时起就是这种不留余地的性格呢……	從那時起就是這種不留餘地的性格呢……	容赦のない性格は、あの時から変わらない。		That's her, always determined, bold, even a bit reckless...	
+139	奥古斯塔	她发表完演说之后，立刻将我从已经炸锅的议会大厅护送回了后台。	她發表完演說之後，立刻將我從已經吵成一團的議會大廳護送回後台。	演説が終わると彼女は騒乱と化した議事堂から\nすぐに私を裏へと護送した。		After giving her speech, she escorted me out of the chaotic room.	
+140	奥古斯塔	当时我终于忍不住，哗的就哭了出来。觉得外面那些人一定会把我俩拉到歌剧广场上处决掉……	當時我終於忍不住，嘩一聲就哭了出來。覺得外面那些人一定會把我們兩個拉到歌劇廣場上處決掉……	流石の私も我慢できず大声で泣いてしまったよ。\n\n連中が絶対、私達2人を広場に連行して\n処刑すると思ったから……		And it was then that I finally couldn't hold it any longer and started crying. I was afraid those people would drag both of us out and execute us...	
+141	奥古斯塔	但她却说，人应该选择一个体面的死法，死于政治暗杀、死在绞刑架上和死在战场上并没有区别。	但她卻說，人應該選擇體面的死法，死於政治暗殺、死在絞刑架上和死在戰場上並沒有差別。	だが、ビスマルクは泣きじゃくる私に告げた。\n\n人間は死に方に体裁を選ぶ生き物だ。\n謀事で暗殺されるか、処刑台で首が落ちるか、\n戦場で命を落とすか、どれも大差はない。\n\n大事なのはいかにして後悔せず死ぬかだ。		She stayed calm. She told me an honorable death is a good death.	
+142	奥古斯塔	或许我还不懂，但为了达成我父兄的遗志，她会陪我一起，抗争到底。	或許我還不懂，但為了達成我父兄的遺志，她會陪我一起，抗爭到底。	まだ陛下には分からない事かもしれない。\n\nだが陛下の亡き父と兄の遺志を成し遂げるために\n私は最後まで共に抗う事を誓う……と。		I didn't understand what she meant. She promised me she'd carry out the will of my late father and brother and fight alongside me until the very end.	
+143	奥古斯塔	所以从那天起，她就成为了我的首相。	所以從那天起，她就成為了我的首相。	……あの日から\n彼女は私の首相となった。		Since that day, she became my minister president.	
+144	奥古斯塔	根据普鲁士宪法，首相只需听从君主，并不需要搭理议会，她是我一个人的首相。	根據普魯士憲法，首相只需聽從君主，並不需要理會議會，她是我一個人的首相。	首相はプロイセン憲法により議会に取り合う\n必要はなく、君主にだけ従えばいい。\nだから彼女は私だけの首相……だった。		According to the Constitution of Prussia, the minister president only answers to the king or queen! So, she's my minister president and mine alone!	
+145	N/A	奥古斯塔说起这段往事时嘴角微微扬起，面容也变得温暖而柔和，就像说起自己重要的家人一般。	奧古斯塔說起這段往事時嘴角微微上揚，表情也變得溫暖而柔和，就像說起自己重要的家人一般。	ビスマルクの事を話すオーガスタの表情は\nとても柔く暖かなもので、\nまるで自分の大切な家族を語るかのようだ。		Thinking of this, a faint smile tugs at her lips. She looks like she's talking about a close family member.	
+146	小怜	那之后怎么……	那之後怎麼……	その後、どうなったの……？		But what happened afterwards?...	
+147	奥古斯塔	自从我在凡尔赛宫加冕之后，一切都不一样了……	自從我在凡爾賽宮加冕之後，一切都不一樣了……	ヴェルサイユ宮殿で私は戴冠を授かった。\nそして、彼女も首相から宰相へとなった。\nだがそれ以降、全てが変わってしまった……		Everything changed after my coronation...	
+148	N/A	她缓缓低下了头。	她緩緩低下了頭。	オーガスタは緩やかに顔を伏せる。		She looks down.	
+149	奥古斯塔	之前她都会在议会和大臣对我提出无理要求的时候立刻站出来否决。	之前，只要議會和大臣對我提出無理要求時，她都會立刻站出來否決。	以前は議会や大臣が私に無理な要求を迫った時\n彼女は反対の声を上げて否決してくれた。		For so long, she's always had my back whenever the parliament and ministers were making unreasonable demands.	
+150	奥古斯塔	可上周议会提议让我与魏玛大公的儿子联姻，陆军大臣和贸易大臣都站出来表示赞成。	可是上週議會提議要我和魏瑪大公的兒子聯姻，陸軍大臣和貿易大臣都站出來表示贊成。	なのに先週、私とヴァイマル大公の息子との\n婚約を議会が提案した時に彼女は……		But not last week. The parliament proposed that I should marry the son of the Grand Duke. Most of the ministers seconded this proposal.	
+151	奥古斯塔	她明知那家伙的儿子都是什么货色，却不但没有反对，还着手安排了今天的会面。	她明知那傢伙的兒子是什麼貨色，卻沒有表示反對，還著手安排了今天的會面。	ビスマルクは相手の素性を分かっていながらも\n陸軍大臣と貿易大臣の提案に反対せず、\n挙句に今日は面会まで手配していた。		Leonie, knowing full well what kind of a person I was going to marry unless she advised against it, personally arranged the meeting that was supposed to happen earlier today.	
+152	奥古斯塔	从那天之后，她就一直拒绝与我见面，就连陆军大臣换掉我的禁卫她也不管……	從那天之後，她就一直拒絕和我見面，就連陸軍大臣換掉我的禁衛，她也不管……	それからというもの私と会うのを彼女は\nずっと避け続けて……\n私の近衛兵を陸軍大臣が異動した事に対しても\n何も言ってくれなくて……		Since that day, she's refused to see me in person. She even allowed others to change my personal guards...	
+153	N/A	旋转木马随着音乐结束渐渐停了下来，奥古斯塔也陷入了沉默。	旋轉木馬隨著音樂結束漸漸停了下來，奧古斯塔也陷入了沉默。	やがて音楽が止まり、回転木馬が止まる。\n\nオーガスタも静かに黙り込んだ。		The carousel stops along with the music. Augusta stops talking, too.	
+154	N/A	我回想起在凡尔赛宫的卧室她跟我报出的那一连串头衔，然后轻轻拍了拍她的后背。	我回想起她在凡爾賽宮的臥室中向我報出的那一連串頭銜，然後輕輕拍了拍她的後背。	ヴェルサイユ宮殿の部屋で彼女の名乗り口上を\n思い出して、彼女の背中をポンっと叩く。		All the titles she mentioned in her self introduction flash through my mind. I pat her on the back and ask:	
+155	小怜	你的那个首相……\n现在的头衔已经变成宰相了吧？	妳的那個首相……\n現在的頭銜已經變成宰相了吧？	君の首相……\n今はもう宰相になったんだったっけ？		Your minister president...\nNow her title has changed to chancellor, right?	
+156	奥古斯塔	嗯……	嗯……	……うん。		Yes...	
+157	小怜	那是因为你现在已经不仅仅是普鲁士的女王，而是德意志全境的皇帝了。	那是因為妳現在不僅僅是普魯士的女王，而是德意志全境的皇帝了。	それは君が、ただのプロイセン女王ではなくて\nドイツ全土を統一する皇帝になったからだよな。		You're not only the Queen of Prussia anymore—you're die Kaiserin von Deutschland!	
+158	N/A	大战结束之后，迫切希望恢复经济的民众与手握军权的大臣之间是最需要小心制衡的。	大戰結束之後，最需要小心制衡的就是迫切希望恢復經濟的民眾以及手握軍權的大臣。	状況が変わると配慮するべき事は増える。\nそうしなければ、余計な危険を招くから。\n特に戦争が終わった直後なんかは……君に。		The war just ended. Between the people who want the economy to bounce back and the ministers who control the military, that's a very thin line for anybody to walk.	
+159	小怜	所以，放心吧~	所以，放心吧～	でも、大丈夫だと思う。		Anyway, don't worry.	
+160	小怜	虽然我还不知道自己是怎么来到这个世界的，以及那股控制我的强大力量来自何处……	雖然我還不知道自己是怎麼來到這個世界的，以及那股控制我的強大力量來自何處……	この世界に俺がどうやって来たのか\n「俺」を操る力は何なのか。\nそれは全然、分からないけど……		Though I still don't know how I traveled to this world and where my mighty power came from...	
+161	小怜	但这次事件应该制造了足够的筹码，来让那个人说服议会，让他们认同你的价值远超他们的想象了。	但這次事件應該製造了足夠的籌碼，讓那個人得以說服議會，也使他們不得不認同妳的價值遠超出他們的想像。	でも今回の事件が巻き起こってさ？\n俺を召喚する事もできて。\n少なくとも自身に高い価値がある事を\n君は証明できたんだろう？		My presence should've gained you enough leverage for your chancellor to convince the parliament that you're far more valuable than they thought.	
+162	小怜	我说的没错吧──	我說的沒錯吧──	それは議会を説得する材料として\nもう充分なんじゃないかな──		Am I right?	
+163	小怜	宰相小姐？	宰相小姐？	ねぇ、宰相さん？		Frau Kanzlerin?	
+164	N/A	我盯着向售票亭上的监控摄像头，从我们来到广场开始，它就一直正对着我们的方向。	我盯著向著售票亭上的監控攝影機。從我們來到廣場開始，它就一直正對著我們的方向。	俺はチケット売り場の監視カメラに向かって\n話しかけた。\nあのカメラは広場に入った瞬間からずっと俺達を\n見ていた。		I've noticed the camera above the ticket booth. It's been pointing at us since we arrived.	
+165	奥古斯塔	什、什么意思？	什、什麼意思？	ど、どういう事だ？		Who're you talking to?	
+166	N/A	没等我解释，一辆装饰着金质镶边的白色豪华汽车就从广场远端的拐角缓缓驶出。	我還來不及解釋，一輛裝飾著金質鑲邊的白色豪華汽車就從廣場遠處的轉角緩緩駛出。	金色フレームの白い高級車がゆっくりと\n広場の向こう側の曲がり角から接近してくる。\nそのまま回転木馬の隣で停止した。		Before I can explain, a fancy white limo appears, slowly driving toward us...	
+167	N/A	汽车一直开到旋转木马旁边，司机殷勤的拉开后排车门，毕恭毕敬的邀请我们。	汽車一直開到旋轉木馬旁邊，司機殷勤地拉開後車門，畢恭畢敬地邀請我們。	車から運転手が降りてくると後ろのドアを開けて\n礼儀正しく俺達を乗車に誘う。		Until it pulls over next to the carousel. The chauffeur opens the back door, then politely invites us to get in.	
+168	N/A	车里坐着一位身穿白色礼服的女人，从我的角度看不到她的上半身。	車上坐著一位身穿白色禮服的女人，從我的角度看不到她的上半身。	車の中にいたのは白いドレスを着た女性だ。\n俺からだと上半身は見えない。		A woman in white is sitting inside. From where I am, I can't see her face.	
+169	N/A	奥古斯塔立刻从座椅上跳下来跑了过去。	奧古斯塔立刻從座椅上跳下來跑了過去。	オーガスタは回転木馬の馬車から降りて\n真っ直ぐ走り出した。		Augusta, however, immediately jumps off the carousel and runs toward the limo.	
+170	奥古斯塔	莱昂妮！？	萊昂妮！？	ライオネ！？		Leonie?!	
+171	N/A	与此同时，广场远端的拐角开出几辆装甲车，对面房顶上也有数个黑影在攒动。	在此同時，廣場遠處的轉角又開出幾輛裝甲車，對面屋頂上也有幾個黑影在攢動。	同時に曲がり角から数台の装甲車が現れる。\n\n向こう側の屋根の上には多くの黒い影が。		Meanwhile, several armored vehicles are driving out from around the corner. A few people can be seen moving on the roof of the building across the way, as well.	
+172	小怜	（果然，真像那个人呢……）	（果然，真像那個人呢……）	（やっぱ似ている気がするな……）		(I've become a lot like her...)	
+173	N/A	我能看出这些手段，也是因为一直在她身边耳濡目染吧~	我能看出這些手段，也是因為一直在她身邊耳濡目染吧～	俺が気付けたのも、あの人のおかげ……かな？		If I didn't spend that much time with her, I wouldn't have been able to make any of these observations.	
+174	N/A	奥古斯塔开心的回头叫我一起上车，我笑着对她摆了摆手。	奧古斯塔開心地回頭叫我一起上車，我笑著對她揮了揮手。	オーガスタは嬉しそうにコチラへ振り返り、\n一緒に乗車しようと俺に手招きする。\n対して俺は彼女に手を振った。		Augusta seems genuinely happy. She turns around and invites me to join her in the limo. I wave my hand at her.	
+175	小怜	下次吧~	下次吧～	それじゃ、また今度。		Maybe next time.	
+176	N/A	从刚才我就已经感觉到……	從剛才我就已經感覺到……	うん……この感覚がきっとそうだ。		I felt it just now...	
+177	N/A	──是时候了。	──是時候了。	────時間が来た。		It's time!	
+178	N/A	我靠在旋转木马的座椅上，慢慢闭上了眼睛。	我靠在旋轉木馬的座椅上，慢慢閉上了眼睛。	──回転木馬の座席に背を預けて。\n\n俺はゆっくりと目を閉じた──		I lean against my seat, slowly closing my eyes...	
+179	N/A	……	……	……		...	
+180	N/A	………………	………………	………………		...	
+181	N/A	黑暗中，强烈的眩晕向我袭来。	黑暗中，強烈的暈眩感向我襲來。	暗闇の中、強烈な眩暈が襲ってくる。		Dizziness strikes me in the dark.	
+182	N/A	接着是一阵刺眼的亮光和强烈的坠落感，我不禁大叫了起来──	接著是一陣刺眼的亮光和強烈的墜落感，我不禁大叫了起來──	それから眩しい光と、墜落しているような感覚。\n俺は堪えられず大声で叫んだ──		Then, followed by blinding light, I feel like I'm falling quickly. I can't help but scream...	
+183	N/A	当坠落感突然消失时，我感觉自己好像正趴在柔软的纺织品上。	墜落感突然消失時，我感覺自己好像趴在柔軟的紡織品上。	墜落感が消えると、代わりに柔軟な織物の感触がする。		Finally, the fall stops. I've landed on some soft fabric.	
+184	N/A	同时耳边传来了安妮的欢呼和拉斐尔的尖叫声。	同時耳邊傳來了安妮的歡呼和拉斐爾的尖叫聲。	アニーの歓喜の声と、ラファエルの絶叫の声が\n傍で響いた。		And I hear Annie's cheering and Raphilia's scream.	
+185	安妮	小怜回来啦？！	小憐回來啦？！	レンちゃん！！帰ってきたの！？		Ren's back!	
+186	N/A	安妮打开卧室的灯，我发现自己正以一种奇怪的姿势跪在床上──上半身紧贴床面，屁股高高翘起。	安妮打開臥室的燈，我發現自己正以一種奇怪的姿勢跪在床上──上半身緊貼床面，屁股高高翹起。	アニーが部屋の電気をつけると俺は奇妙な姿勢で\nベッドの上に転がっていた。\n上半身が寝そべっている状態でお尻だけを\n高々と上げている。		Annie turns on the bedroom light. There I am—in a position most awkward. I'm on all fours, butt raised high.	
+187	N/A	而我的脸正对着的是……	而我的臉正對著的是……	そして俺の顔の先には……		And my face is...	
+188	N/A	──坐在床上的拉斐尔岔开的两腿之间？！	──坐在床上的拉斐爾岔開的兩腿之間？！	ベッドの上に座るラファエルの……\n\n……開いた両足！？		right between the legs of Raphilia, who's casually sitting on the bed.	
+189	N/A	还没等我看清，就被她一脚蹬中面门，从床上踹了下去。	我都還沒看清楚，就被她一腳踹中臉部，從床上滾了下去。	反応するまでもなくラファエルの蹴りが顔面へと\n炸裂し、俺はベッドから蹴り落とされた。		It gets worse. Before I have the chance to take a closer look, I'm hit in my face and fall off the bed.	
+190	小怜	啊啊！！屁股疼疼疼……	啊啊！！屁股痛痛痛……	ぶっぁぁぉぉ――！ い、痛い……！		Ouch! My butt hurts!	
+191	N/A	我刚想揉，发现自己手里攥着那枚湿乎乎的彩蛋。	我才想要伸手揉，卻發現手裡握著那顆濕答答的彩蛋。	蹴られた場所を押さえとするとなぜか手の中\nに濡れている例のイースター・エッグがあった。		And what's this in my hand? A wet easter egg!	
+192	小怜	怎么……	怎麼……	これ、どう言う事……？		...	
+193	N/A	安妮手里拿着一个黑色的物体，但完全无法分辨它的形状。	安妮手上拿著一個黑色的物體，但完全無法分辨它的形狀。	アニーが黒い物体を持っている事に気付く。\nその形状は良く分からない。		Annie is holding a black object whose shape is hard to tell.	
+194	N/A	直到她把它放在桌子上，我才发现那是一个被涂黑的玻璃水杯。	直到她把它放在桌子上，我才發現那是一個被塗黑的玻璃水杯。	しかし、机の上に置かれると黒塗りされた\nガラスであることが把握できた。		Until she puts it on the table, that is—it's tinted glass.	
+195	安妮	果然所谓“不透光”指的不仅仅是可见光，还要能屏蔽一切电磁波啊。	果然所謂「不透光」指的不僅僅是可見光，還要能遮蔽所有電磁波啊。	やっぱり「光の不透過」は可視光だけじゃなくて\n電磁波も遮断しないといけなかったみたいだね。		Just like what I thought! It has to block not only visible light, but also electromagnetic waves of all kinds.	
+196	安妮	虽然我也不知道什么叫电磁波，不过还好拉斐尔的画室里有这种反光率超低的碳纳米管材料。	雖然我也不知道什麼叫電磁波，不過還好拉斐爾的畫室裡有這種反光率超低的碳奈米管材料。	細かい事はイマイチ分からないけど、\nラファエルの部屋にあったのは幸いかな？\n超低反射のカーボンナノマテリアルなんて\n便利アイテムが！		Though I don't know what electromagnetic waves are, I was able to find the carbon nanotube material with ultra-low reflectivity.	
+197	小怜	……哈？\n你说什么呢？	……嗄？\n妳說什麼？	……はい？\nえーと、全然話が見えないけど……？		??\nEnglish, please!	
+198	安妮	……可是刚才拉斐尔为什么要叫我关了灯在门外等着啊？	……可是，剛才拉斐爾為什麼要叫我關了燈在門外等啊？	だけどラファエル、なんで電気を消した上に\n私を部屋の外に待たせたの？		There's just one thing I don't get. Why did Raphilia ask me to turn off the light and wait outside the bedroom?	
+199	N/A	我正被安妮的话搞得摸不着头脑，接着就被拉斐尔丢过来的枕头击中，失去了知觉。	我正被安妮的話搞得摸不著頭緒，就被拉斐爾丟過來的枕頭擊中，失去了知覺。	アニーの話で余計チンプンカンプンになった俺は\nラファエルの繰り出した枕での追加攻撃により\n顔面アウトで気絶した。		I get more and more confused by Annie's words. Before I can ask any questions, I get hit by the pillow Raphilia throws and lose consciousness.	
+200	N/A	一段时间之后。	一段時間之後。	しばらくした後。		Some time later...	
+201	N/A	第五学园都市，新丰洲境内。	第五學園都市，新豐洲境內。	第五学園都市、新豊洲境内。		Fifth Academy City, New Opulentia	
+202	N/A	莉琉揉着还在发胀的脑袋，蓬头垢面的从洗手间走出来，手机收到了情报组发来的简报。	莉琉揉著還在發脹的腦袋，蓬頭垢面地從洗手間走出來，手機收到了情報組傳來的簡報。	乱れた髪のマリルがトイレから出てくる。\n\nズキズキする頭を押さえながら情報チームから\n受信した速報を携帯で確認する。		Mariru still has a hangover. She receives a brief on her phone as she walks out the bathroom.	
+203	N/A@莉琉	安妮把那个小笨蛋找回来了？	安妮把那個小笨蛋找回來了？	アニーがあのバカを見つけたのか？		Annie has found Ren?	
+204	N/A@莉琉	我就说没什么事儿吧……	我就說不會有事吧……	だから大丈夫と言っただろう……うん？		I told you it'd be all right.	
+205	N/A	莉琉随意的向下刷着简报，却看到了完全意料之外的内容──	莉琉隨意地向下刷著簡報，卻看到了完全意料之外的內容──	速報の続きを読んでいくとそこには\n目を疑うような内容が書かれていた──		Mariru casually reads the brief until she sees something unexpected.	
+206	N/A@莉琉	1871年……德意志帝国？？	1871年……德意志帝國？？	1871年……ドイツ帝国？		1871? The German Empire?	
+207	N/A	如果不排除记忆植入，或许只能解释为观测到了异世界或另一维度的宇宙……	如果不排除記憶植入，或許只能解釋為觀測到了異世界或另一個維度的宇宙……	記憶改竄の可能性を取り除くとすれば……\n\n異世界の観測？ または平行世界への旅行？		If we rule out memory implants, there's only one possible explanation—the Otherworld, or a parallel universe, does exist...	
+208	N/A@莉琉	钻进了兔子洞吗……	鑽進了兔子洞嗎……	……うさぎの穴にでも飛び込んだのかアイツは。		Like a rabbit hole...	
+209	N/A	……	……	……		...	
+210	N/A	…………	…………	…………		...	
+211	N/A	当夜，奥古斯塔回到卧室，侍卫已经换回了自己熟悉的那几个人。	當晚，奧古斯塔回到臥室，侍衛已經換回了自己熟悉的那幾個人。	レンと奇妙な出会いを果たした夜。\n\n寝室に戻ったオーガスタは見慣れた衛兵達が\n帰ってきた事に気が付いた。		On the same night, Augusta returns to her bedroom. Her old guards have returned.	
+212	N/A	女仆早就将卧室重新整理好，桌上还摆着宰相差人送来的一盘马卡龙。	女僕早就將臥室重新整理好，桌上還擺著宰相派人送來的一盤馬卡龍。	部屋はメイドによって綺麗に片付けられており\n机の上には宰相から贈られた品である、\nマカロンが置かれている。		The maids have already cleaned the room. A plate of macarons is sitting on the table, courtesy of the chancellor.	
+213	奥古斯塔	可恶，又在晚上给我送甜食……	可惡，又在晚上送甜食給我吃……	おのれ……\nまた夜分にスイーツを送り付けるとは……		I hate her! Always sending me sweet snacks at night...	
+214	N/A	奥古斯塔摸了摸自己的小肚子，然后从盘子上偷偷抽走一块。	奧古斯塔摸了摸自己的小肚子，然後從盤子上偷偷抽走一塊。	オーガスタは自分のお腹を撫でた後、\n秘かに皿から1個だけ取った。		Augusta touches her belly, then takes one macaron despite what she just said.	
+215	N/A	刚刚在款待魏玛大公及其家人的晚宴上，宰相以一份炼钢产业联营的合约替代了先前提出的婚约。	剛剛在款待魏瑪大公及其家人的晚宴上，宰相以一份煉鋼產業聯營的合約替代了先前提出的婚約。	宰相は先ほどのヴァイマル大公らを歓迎する宴で\n鉄鋼業共同経営の契約を婚約の代案として、\n強気の姿勢を見せつけるがまま提案していた。		During the dinner earlier, the chancellor offered the Grand Duke a steelmaking contract to replace the marriage deal.	
+216	奥古斯塔	那份合约明明早就拟定好了吧……	那份合約明明早就擬定好了吧……	あの契約はそもそも最初から婚約と関係なしに\n用意されていた話だろうけどな……		She must've drafted that contract a long time ago...	
+217	N/A	奥古斯塔走到阳台上，看着漫天的繁星，做了个深呼吸。	奧古斯塔走到陽台上，看著滿天的繁星，做了個深呼吸。	オーガスタはバルコニーに移動する。\n\n──そして星空に向かって深呼吸した。		Augusta walks to the balcony. She takes a deep breath as she looks at the starry night skies.	
+218	N/A@奥古斯塔	月色真美啊……	月色真美啊……	今宵は……\n\n月が綺麗だ……		If this isn't love...	

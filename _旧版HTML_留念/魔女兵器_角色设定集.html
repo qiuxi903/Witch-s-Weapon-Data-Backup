@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>《魔女兵器》角色设定集</title>
+<style>
+:root{--bg:#0f1116;--panel:#171a21;--panel2:#1e222b;--line:#2a2f3a;
+--fg:#e6e3de;--dim:#8f96a3;--accent:#c9a227;--accent2:#7fb3d5}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);line-height:1.8;
+font-family:"Noto Serif SC","Source Han Serif SC","Songti SC",serif}
+header{padding:56px 48px 36px;border-bottom:1px solid var(--line);
+background:linear-gradient(160deg,#1a1d26,#0f1116 70%)}
+.eyebrow{font-size:11px;letter-spacing:.34em;color:var(--accent);margin-bottom:12px;
+font-family:ui-monospace,monospace}
+h1{font-size:38px;margin:0 0 8px;letter-spacing:.08em;font-weight:600}
+.en{font-size:11.5px;letter-spacing:.3em;color:var(--dim);margin-bottom:18px;
+font-family:ui-monospace,monospace}
+.meta{font-size:13px;color:var(--dim);line-height:2}
+.meta b{color:var(--fg)}
+main{padding:36px 48px 80px;max-width:1560px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(400px,1fr));gap:20px}
+.ch{background:var(--panel);border:1px solid var(--line);border-radius:7px;
+overflow:hidden;display:flex;flex-direction:column}
+.pic{position:relative;background:#0b0d11;height:330px;display:flex;
+align-items:center;justify-content:center;overflow:hidden}
+.pic img{width:100%;height:100%;object-fit:cover;transition:transform .45s}
+.ch:hover .pic img{transform:scale(1.06)}
+.badge{position:absolute;top:10px;left:10px;background:rgba(15,17,22,.82);
+border:1px solid var(--line);border-radius:3px;padding:2px 8px;font-size:11px;
+color:var(--accent);font-family:ui-monospace,monospace}
+.noimg{color:#3a4150;font-size:12px;font-family:ui-monospace,monospace}
+.info{padding:16px 18px 20px;flex:1;display:flex;flex-direction:column}
+.info h3{margin:0 0 3px;font-size:22px;color:var(--accent);letter-spacing:.04em;font-weight:600}
+.jp{font-size:12.5px;color:var(--dim);font-family:ui-monospace,monospace;margin-bottom:5px}
+.alt{font-size:11px;color:#6b7484;font-family:ui-monospace,monospace;margin-bottom:9px}
+.meta2{display:flex;gap:10px;align-items:center;margin-bottom:10px;flex-wrap:wrap}
+.cv{font-size:12px;color:var(--accent2)}
+.lines{font-size:11px;color:#5f6674;font-family:ui-monospace,monospace}
+.q{font-size:13.5px;color:#b8b0a2;font-style:italic;padding-left:11px;
+border-left:2px solid var(--line);margin-bottom:10px}
+.intro{font-size:14px;color:#d8d3ca;margin-bottom:9px}
+.wp{font-size:11.5px;color:#6b7484;font-family:ui-monospace,monospace;margin-top:auto;padding-top:8px}
+.more{font-size:11.5px;color:#6b7484;font-family:ui-monospace,monospace;margin-bottom:8px}
+.more summary{cursor:pointer;color:#7f8797;list-style:none}
+.more summary::-webkit-details-marker{display:none}
+.more summary:hover{color:var(--accent2)}
+.more .row{margin:5px 0 0;padding-left:10px;border-left:2px solid var(--line);color:#8d94a2}
+audio{width:100%;height:32px;margin-bottom:10px}
+footer{padding:36px 48px;border-top:1px solid var(--line);color:var(--dim);font-size:12px;line-height:2}
+footer b{color:var(--fg)}
+@media(max-width:700px){header,main,footer{padding-left:18px;padding-right:18px}
+h1{font-size:26px}.grid{grid-template-columns:1fr}}
+</style></head><body>
+<header>
+<div class="eyebrow">WITCH'S WEAPON / CHARACTER PROFILES</div>
+<h1>《魔女兵器》角色设定集</h1>
+<div class="en">CHARACTER PROFILES · 37 ENTRIES</div>
+<div class="meta">
+<b>数据来源</b>：游戏配置表 <code>dictionary.csv</code>（五语名称 / 全名 / 自我介绍 / 武器描述）<br>
+<b>立绘</b>：<code>Servant00_Image_*</code> AssetBundle 导出 · <b>CV 语音</b>：日服官网<br>
+<b>台词统计</b>：解密剧情 16,687 行 · <b>语言</b>：简中 / 繁中 / 日 / 韩 / 英
+</div></header>
+<main><div class="grid">
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_100.png" loading="lazy" alt=""><div class="badge">100</div></div>
+  <div class="info">
+    <h3>塞拉伊诺</h3>
+    <div class="jp">セラエノ</div>
+    <div class="alt">Celaeno · 셀레이노 · 塞拉伊諾</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">我叫塞拉伊诺，你也是来寻求庇护的吗？<br>安心吧，我会好好保护你的。</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私はセラエノ。<br>あなたは庇護を求めに来たのか？<br>安心なさい、私がちゃんと守ってあげる。</div><div class="row"><b>英</b> I'm Celaeno. You seek for my protection, too?<br>Be assured. I'll take care of you.</div></details><div class="wp">武器：拿书娘武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_101.png" loading="lazy" alt=""><div class="badge">101</div></div>
+  <div class="info">
+    <h3>雾夕</h3>
+    <div class="jp">霧夕</div>
+    <div class="alt">Kiriyu · 키리세키 · 霧夕</div>
+    <div class="meta2"><span class="cv">CV 釘宮理恵</span><span class="lines">台词 9 句</span></div>
+    <div class="q">へっへ〜〜ん！ちょちょいっと片づけた！俺様はやっぱりすごい！</div><div class="intro">降灵之魔女雾夕参上，呐……咱们的相遇算是神明的旨意吗？</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 降霊の巫女、霧夕（きりせき）が参りました。<br>あの……私達の出会いは<br>神のご意思なのでしょうか？</div><div class="row"><b>英</b> The name's Kiriyu. See... Is it also Kamisama's will that we meet?</div></details><div class="wp">武器：神社娘武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_102.png" loading="lazy" alt=""><div class="badge">102</div></div>
+  <div class="info">
+    <h3>艾米莉欧</h3>
+    <div class="jp">艾米莉欧·史维特莱德</div>
+    <div class="alt">Emily · 에밀리오 · 艾米莉歐</div>
+    <div class="meta2"><span class="cv">CV 伊藤静</span><span class="lines">台词 223 句</span></div>
+    <div class="q">おい、命令だ。生きて帰るぞ。</div><div class="intro">我是鲜血之魔女艾米莉欧·史维特莱德，从血的味道就能判断你的出身和……唉？？？</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私は鮮血の魔女、エミリオ・スウィートライド<br>血の匂いからすぐに判ったわ……あなたの出身は…<br>…あれ？</div><div class="row"><b>英</b> Emily Schwertlaute. From the smell of your blood, I know that you are a... Wait, what???</div></details><div class="wp">武器：大剑娘武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_103.png" loading="lazy" alt=""><div class="badge">103</div></div>
+  <div class="info">
+    <h3>薇拉</h3>
+    <div class="jp">薇拉·瓦尔基里</div>
+    <div class="alt">Vera · 비라 · 薇拉</div>
+    <div class="meta2"><span class="lines">台词 69 句</span></div>
+    <div class="intro">嘁，召唤我的居然是你这种软弱的家伙吗……<br>我是薇拉·瓦尔基里，小心点别被我碾碎了！</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> チッ、私を召喚したのはこんな軟弱者か……<br>私はヴィラ・ヴァルキューレ。<br>私に押し潰されないように気をつけな！</div><div class="row"><b>英</b> Duh, a weakling like you summoned me?<br>I am Vera the Valkyrie. Watch my hammer, don't get too close!</div></details><div class="wp">武器：大锤女武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_104.png" loading="lazy" alt=""><div class="badge">104</div></div>
+  <div class="info">
+    <h3>拉斐尔</h3>
+    <div class="jp">拉斐尔·戴克斯</div>
+    <div class="alt">Raphilia · 라파엘 · 拉斐爾</div>
+    <div class="meta2"><span class="cv">CV ホワンホワン</span><span class="lines">台词 528 句</span></div>
+    <div class="q">この身に輝く芸術の光、あんたのような庶民には理解できないものだわ。</div><div class="intro">那我就谨慎地做个自我介绍吧，我是拉斐尔。<br>至于你……哼，这种癖好终于可以公之于众了么？</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> それでは謹んで自己紹介をします。<br>わたくしはラファエル。<br>あんたは…ふん、このような性癖も、堂々と<br>公にできる時代になったのか</div><div class="row"><b>英</b> Allow me to introduce myself—name's Raphilia.<br>As for you? Well, your peculiar taste in clothes speaks for itself. But hey, I'm not judging!</div></details><div class="wp">武器：拉斐尔武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_105.png" loading="lazy" alt=""><div class="badge">105</div></div>
+  <div class="info">
+    <h3>高崎明良</h3>
+    <div class="jp">高崎 明良</div>
+    <div class="alt">Akira Takasaki · 타카사키 아키라 · 高崎明良</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">我是高崎明良，扮可爱可不是我的工作~！<br>臣服在我的节奏里吧！</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私は高崎 明良<br>可愛い子ぶるのはぁ～～仕事じゃない！<br>私のリズムに屈服しなさい！</div><div class="row"><b>英</b> I'm Akira Takasaki. Being cute is not my job!<br>Surrender to my beats!</div></details><div class="wp">武器：演奏娘武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_106.png" loading="lazy" alt=""><div class="badge">106</div></div>
+  <div class="info">
+    <h3>安妮</h3>
+    <div class="jp">安妮·巴斯</div>
+    <div class="alt">Annie · 앤 · 安妮</div>
+    <div class="meta2"><span class="cv">CV 西田望見</span><span class="lines">台词 581 句</span></div>
+    <div class="q">アタシをみると元気いっぱい、やる気がでたでしょ？さぁ、アニーと一緒にがんばろっ！</div><div class="intro">你~好~哦！我是安妮·巴斯！你喜欢棒球吗？<br>对了，來和我的小熊握握手吧~</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> ど～う～も！　私はアニー・バース！<br>あなたは野球が好きなの？<br>そうだ、私のクマちゃんと握手しようね～～</div><div class="row"><b>英</b> Hello! My name's Annie Bass! Do you like baseball?<br>By the way, say hi to my bear plush!</div></details><div class="wp">武器：小熊娘武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_107.png" loading="lazy" alt=""><div class="badge">107</div></div>
+  <div class="info">
+    <h3>斯库尔德</h3>
+    <div class="jp">斯库尔德·艾克斯罗德</div>
+    <div class="alt">Skuld · 스쿨드 · 斯庫爾德</div>
+    <div class="meta2"><span class="cv">CV 田中あいみ</span><span class="lines">台词 183 句</span></div>
+    <div class="q">嫌だ嫌だぁっ、なでなでしてくれないと寝れない〜〜っ！</div><div class="intro">啊嘞？你就是她们说的那个“很特别”的姐姐嘛？我是斯库尔德，请多多关照！</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> あれ？<br>あなたがその「特別なお姉ちゃん」なの？<br>あたしはスクルド、よろしくね！</div><div class="row"><b>英</b> &quot;Oh? Are you that &quot;&quot;special&quot;&quot; girl? I'm Skuld, by the way. Nice to meet you!&quot;</div></details><div class="wp">武器：翅膀娘武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_108.png" loading="lazy" alt=""><div class="badge">108</div></div>
+  <div class="info">
+    <h3>倪克斯</h3>
+    <div class="jp">倪克斯·斯特罗齐</div>
+    <div class="alt">Nix · 닉스 · 倪克斯</div>
+    <div class="meta2"><span class="cv">CV 山田悠希</span><span class="lines">台词 148 句</span></div>
+    <div class="q">運命の歯車はすでに動き始めています。</div><div class="intro">我是闇夜之魔女倪克斯·斯特罗齐，夜幕已经降临了吗……我来陪你一起度过黑夜吧。</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私は闇夜の魔女、ニュクス・ストラッツィ。<br>夜の帳はもう降りたのかしら？　私と一緒に夜を過ごしましょうか？</div><div class="row"><b>英</b> I am Nix Strozzi, the witch of the night. The night is coming... Let me accompany you until it's over.</div></details><div class="wp">武器：黑洞娘武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_109.png" loading="lazy" alt=""><div class="badge">109</div></div>
+  <div class="info">
+    <h3>榴榴</h3>
+    <div class="jp">リリュ</div>
+    <div class="alt">Ryuryu · 류류 · 榴榴</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">晓镜容颜不舍，灯火阑珊已过……我是榴榴，东方古老守护者的后裔，你身上有很特别的感觉……</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 朝見る鏡の姿はまた名残惜しく、<br>薄明りの灯火が過ぎてく……<br>私はリリュ、東方の古の守護者の後裔。<br>あなたからは懐かしい感じがします……</div><div class="row"><b>英</b> Name's Ryuryu. Descendant of ancient guardians of the East. You give me a very special feeling...</div></details><div class="wp">武器：伞娘武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_110.png" loading="lazy" alt=""><div class="badge">110</div></div>
+  <div class="info">
+    <h3>海因里希</h3>
+    <div class="jp">海因里希·昆哈特</div>
+    <div class="alt">Henriette · 하인리히 · 海因里希</div>
+    <div class="meta2"><span class="cv">CV 植田佳奈</span><span class="lines">台词 240 句</span></div>
+    <div class="q">愛おしいマスターよ、ともに偉大なる成果を作り上げましょう。</div><div class="intro">我是苍蓝的炼金术士海因里希，让我们共同创造伟大的成就吧。</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> わたくしは蒼き錬金術士、ハインリッヒ<br>共に偉大なる成果を創り上げましょう！</div><div class="row"><b>英</b> Henriette, the azure alchemist. Let's achieve something great together.</div></details><div class="wp">武器：苍蓝骑士武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_111.png" loading="lazy" alt=""><div class="badge">111</div></div>
+  <div class="info">
+    <h3>圣莫里斯</h3>
+    <div class="jp">セイントモリス</div>
+    <div class="alt">Monica · 세인트 모리스 · 聖莫里斯</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">我将肩负您的剑，直至生命终结。以这手中的圣矛与吾的骑士之名向您与上帝起誓。</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> あなた様の剣となり、この命が尽きるまで。<br>この手にある聖槍と我が名にかけて、<br>神に誓いましょう。</div><div class="row"><b>英</b> I will bear your sword until the end of my life. Let my spear and my knight oath be with you.</div></details><div class="wp">武器：长枪娘武器描述</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_112.png" loading="lazy" alt=""><div class="badge">112</div></div>
+  <div class="info">
+    <h3>伊露卡</h3>
+    <div class="jp">イルカ</div>
+    <div class="alt">Elluka · 이루카 · 伊露卡</div>
+    <div class="meta2"><span class="cv">CV 沢城みゆき</span><span class="lines">台词 98 句</span></div>
+    <div class="q">みてみて！強くなったんだよぉっ！</div><div class="intro">我是伊露卡……操控电流与磁场的改造兵器……<br>你是我的新主人吗？</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私はイルカ……電流と磁場を操る改造兵器……<br>あなたは私の新しいご主人様ですか？</div><div class="row"><b>英</b> I'm Elluka... controller of electric currents and their magnetic fields...<br>Are you my new master?</div></details><div class="wp">武器：Isaac博士为伊露卡量身定做的武器，在吸收她体内能量转化为力量的同时，也感受到了伊露卡所经历的痛苦，最终和她产生了呼应，并作为誓约之物让她成为了魔女</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_113.png" loading="lazy" alt=""><div class="badge">113</div></div>
+  <div class="info">
+    <h3>克劳迪娅</h3>
+    <div class="jp">クラウディア</div>
+    <div class="alt">Claudia · 클라우디아 · 克勞迪婭</div>
+    <div class="meta2"><span class="cv">CV 戸松遥</span><span class="lines">台词 0 句</span></div>
+    <div class="q">世界で一番美しいのは誰？</div><div class="intro">嘘，不要出声……听，我们的心跳声——<br>彼此呼应，多么美妙……</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> しーー声を出さないで……聞いて、<br>私達の心臓の音――<br>お互いに共鳴し合う、<br>なんという美しさかしら……</div><div class="row"><b>英</b> Shh, be quite... Listen to our heartbeats...<br>They are our poetry...</div></details><div class="wp">武器：时间娘</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_114.png" loading="lazy" alt=""><div class="badge">114</div></div>
+  <div class="info">
+    <h3>芩</h3>
+    <div class="jp">ギン</div>
+    <div class="alt">Rei · 진 · 芩</div>
+    <div class="meta2"><span class="cv">CV 平野綾</span><span class="lines">台词 4 句</span></div>
+    <div class="q">小僧、わしと手合わせしたいか？</div><div class="intro">但见樱花开，令人思往事……小鬼，今后由我来教导你吧，来来来~先与我小酌一杯~</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 桜咲き、昔を思い出す……<br>若造、今後はわしが指導してやろう。<br>ほれほれ、まぁ一杯。</div><div class="row"><b>英</b> Cherry blossoms always make me nostalgic... Kiddo, be my apprentice from now on. But first things first—have a drink with me!</div></details><div class="wp">武器：刀叉娘</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_115.png" loading="lazy" alt=""><div class="badge">115</div></div>
+  <div class="info">
+    <h3>贝阿特丽切</h3>
+    <div class="jp">贝阿特丽切·波尔蒂纳</div>
+    <div class="alt">Beatrice · 베아트리체 · 貝阿特麗切</div>
+    <div class="meta2"><span class="lines">台词 140 句</span></div>
+    <div class="intro">你知道地狱的滋味吗？让炼狱净化你的罪，我在天堂的门口等你。</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 地獄はどんな場所か知ってる？ <br>煉獄があなたの罪を浄化したら、<br>天国の入口で待ってるわ。</div><div class="row"><b>英</b> Do you know what hell is like? May your sins be purified in purgatory. I'll wait for you at heaven's gate.</div></details><div class="wp">武器：三剑娘</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_116.png" loading="lazy" alt=""><div class="badge">116</div></div>
+  <div class="info">
+    <h3>阿斯塔丽尔</h3>
+    <div class="jp">アストレイル</div>
+    <div class="alt">Astariel · 아스트레일 · 阿斯塔麗爾</div>
+    <div class="meta2"><span class="cv">CV 能登麻美子</span><span class="lines">台词 0 句</span></div>
+    <div class="q">これこそ私が選んだ運命……ご命令を。</div><div class="intro">我是阿斯塔利尔，即使命运残酷，也要好好活下去……</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私は人形兵器のアストレイル。<br>たとえ運命が残酷だとしても…<br>しっかりと生きていく。</div><div class="row"><b>英</b> I'm Astariel. Life is cruel, but I'll try my best to live it...</div></details><div class="wp">武器：背后灵娘</div>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_117.png" loading="lazy" alt=""><div class="badge">117</div></div>
+  <div class="info">
+    <h3>爱丝提娜</h3>
+    <div class="jp">アイスティーナ</div>
+    <div class="alt">Estina · 아이리스디나 · 愛絲提娜</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">我是绯红之血的继承者爱丝提娜，我可以预知一些人的死期，并且从未失过手。</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私はスカーレットの血を継ぐ者、<br>アイスティーナ。<br>一部の人間の死に際を予知でき、<br>そして、一度も外れたことはない。</div><div class="row"><b>英</b> I am Estina, heir of the crimson blood. I can foresee people's death and it never failed.</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_118.png" loading="lazy" alt=""><div class="badge">118</div></div>
+  <div class="info">
+    <h3>赫莉</h3>
+    <div class="jp">ホリー</div>
+    <div class="alt">Holly · 호리 · 赫莉</div>
+    <div class="meta2"><span class="lines">台词 2 句</span></div>
+    <div class="intro">赫莉大人的酬劳可是很高的哦~！诶？没钱吗？！<br>……唔……那我要偷走你最重要的东西！</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> ホリー様のギャラは高いぞぉ～？<br>え？　お金がないって？！……ふむ<br>……それじゃ、あんたの一番大切なものを、<br>盗んであげる！</div><div class="row"><b>英</b> I'm Holly, and I'm quite expensive to hire! What? It's not paid?!<br>Fine, I'll just steal you most valuable treasure!</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_119.png" loading="lazy" alt=""><div class="badge">119</div></div>
+  <div class="info">
+    <h3>爱丽丝</h3>
+    <div class="jp">アリス</div>
+    <div class="alt">Alice · 앨리스 · 愛麗絲</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">贵安，我是爱丽丝 · 塔蕾莱卡，您就是与我共鸣的人吗？看起来或许能成为不错的奴仆……</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> ごきげんよう<br>私はアリス・テェレリッカ<br>あなたが私と共鳴した方ですか？<br>良き僕になりそうです……</div><div class="row"><b>英</b> My name is Alice. Are you the one who resonated with me? You could be a decent servant of mine...</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_120.png" loading="lazy" alt=""><div class="badge">120</div></div>
+  <div class="info">
+    <h3>索娅</h3>
+    <div class="jp">索娅·安赫莱斯</div>
+    <div class="alt">Sonya · 소야 · 索婭</div>
+    <div class="meta2"><span class="cv">CV 新井里美</span><span class="lines">台词 337 句</span></div>
+    <div class="q">あはははははは……！！ちょっと痛いかもしれないですわよ〜〜?</div><div class="intro">没想到是以这种形式再见吧～装傻也没用，现在开始我们的人生就绑定在一起了，既然无法反抗不如尽情享受吧！</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> まさかこう言う形で再会するなんて……<br>とぼけても無駄ですわよ？<br>今からわたくし達の人生はひとつになるっ！<br>もがくより楽しむのよっ！</div><div class="row"><b>英</b> You never thought we'd meet again under these circumstances, did you? Stop playing fool. We are now bound together. Enjoy!</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_121.png" loading="lazy" alt=""><div class="badge">121</div></div>
+  <div class="info">
+    <h3>星尘</h3>
+    <div class="jp">シンチェン</div>
+    <div class="alt">Stardust · 스타 더스트 · 星塵</div>
+    <div class="meta2"><span class="lines">台词 7 句</span></div>
+    <div class="intro">我是魔女星尘，你是与我命运相连的人吗？<br>说出你的心愿，让星光闪烁照亮整个世界吧~</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私はシンチェン、あなたが私と運命をつなぐ人なの？<br>願いを教えて、星の光で全宇宙を照らしましょう！</div><div class="row"><b>英</b> I'm Stardust. Are you the one who's linked to my destiny?<br>Tell me your wish, and I shall shine it upon the entire world.</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_122.png" loading="lazy" alt=""><div class="badge">122</div></div>
+  <div class="info">
+    <h3>杏</h3>
+    <div class="jp">杏</div>
+    <div class="alt">Anzu · 안즈 · 杏</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">欸~~干嘛要叫杏出来啊？真是麻烦……工作？不，不要！绝对不要！！有事情让香农去做啦~~~呜呜</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> はあ？　なんで杏を呼び出すのだ？<br>面倒くさいなあ……仕事？　い、いや！　<br>絶対嫌！！<br>何かあればシャロンにやらせてよーーむぅーー</div><div class="row"><b>英</b> Anzu's here. Why did you summon me? Did you say work? No! Never! Go bother Shannon instead! Boohoo!</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_123.png" loading="lazy" alt=""><div class="badge">123</div></div>
+  <div class="info">
+    <h3>白烛</h3>
+    <div class="jp">バイジュウ</div>
+    <div class="alt">Beth · 바이츄 · 白燭</div>
+    <div class="meta2"><span class="lines">台词 212 句</span></div>
+    <div class="intro">你好，我叫白烛，能力是操控灵魂。你的灵魂很纯净……</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> こんにちは、バイジュウです。<br>能力は魂を操ること……<br>あなたの魂はとても純粋ですね……</div><div class="row"><b>英</b> Hi, I'm Beth. I can control souls... Your soul is one of the purest I've ever seen...</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_124.png" loading="lazy" alt=""><div class="badge">124</div></div>
+  <div class="info">
+    <h3>月言命</h3>
+    <div class="jp">ミコト</div>
+    <div class="alt">Kotomi Tsuki · 미코토 · 月言命</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">我是月言命，对你这种中二病装束的小鬼没有兴……什么？男、男孩子？！让我检查一下！（兴奋）</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私はミコト<br>あんたのような中二病じみた<br>格好の小娘に興味はな……なにっ？　<br>　お、男の子っ？！　調べさせてっ！（興奮）</div><div class="row"><b>英</b> Kotomi Tsuki. I'm not interested in teenagers who dress like a...What? You're a dude? Let me give you a checkup! (Excited)</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_125.png" loading="lazy" alt=""><div class="badge">125</div></div>
+  <div class="info">
+    <h3>卡罗琳</h3>
+    <div class="jp">カロリン</div>
+    <div class="alt">Caroline · 카로린 · 卡洛琳</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">初次见面，那个，我叫卡洛琳，你的水手服好特别……肚子露出来不会着凉吗？是不良少女吗…真要命啊~</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> はじめまして！私はカロリンっていうの。<br>……あなたのセーラー服って、特別だね？　<br>おなかを出して風邪ひかないの？<br>……不良なの、やれやれ。</div><div class="row"><b>英</b> Nice to meet you. I'm Caroline. Your uniform is very special... Isn't your stomach cold? Are you like... a boss girl?</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_127.png" loading="lazy" alt=""><div class="badge">127</div></div>
+  <div class="info">
+    <h3>虎千代</h3>
+    <div class="jp">虎千代</div>
+    <div class="alt">Chiyo Tora · 토라치요 · 虎千代</div>
+    <div class="meta2"><span class="cv">CV 石川由依</span><span class="lines">台词 0 句</span></div>
+    <div class="q">そなたの征く先は、黄泉こそが相応しい。</div><div class="intro">极乐地狱之端必有光明，云雾皆散心中唯有明月。虎千代前来觐见。</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 極楽も地獄も、<br>先は有明の月の心に懸かる雲なし。<br>虎千代、見参。</div><div class="row"><b>英</b> There must be light in the greatest darkness. To see the moon you must push away the clouds first. Name's Chiyo Tora.</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_128.png" loading="lazy" alt=""><div class="badge">128</div></div>
+  <div class="info">
+    <h3>法贝拉</h3>
+    <div class="jp">ファビオラ</div>
+    <div class="alt">Fabella · 파비올라 · 法貝拉</div>
+    <div class="meta2"><span class="lines">台词 151 句</span></div>
+    <div class="intro">欢迎回来，主人！晚饭已经做好了，是法贝拉用火焰爆弹做的限定料理哦~</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> お帰りなさい、ご主人様！<br>夕食はファビオラがファイヤー爆弾で作った<br>限定料理ですよ～～♪</div><div class="row"><b>英</b> Welcome back, master! The dinner is ready. The main dish is Fabella's Special Grenade Grill!</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_129.png" loading="lazy" alt=""><div class="badge">129</div></div>
+  <div class="info">
+    <h3>莉莉娅</h3>
+    <div class="jp">莉莉娅·特里格拉芙</div>
+    <div class="alt">Liliana · 리리야 · 莉莉婭</div>
+    <div class="meta2"><span class="cv">CV 上坂すみれ</span><span class="lines">台词 0 句</span></div>
+    <div class="q">道を阻むものは全て殲滅する。</div><div class="intro">我是前『幻影』中队上尉莉莉娅 · 特里格拉芙，就算失去了祖国，我也会继续握紧制裁的铁拳，直到将敌人彻底击碎！</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 前・幻影中隊大尉<br>リリヤ・トリグラファである。<br>祖国を失っても、制裁の鉄拳を以て<br>敵を打ち砕く！</div><div class="row"><b>英</b> Liliana Triglav, captain of Phantom Squadron. My country no longer exists, but my iron fist will continue to punish our enemies!</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_130.png" loading="lazy" alt=""><div class="badge">130</div></div>
+  <div class="info">
+    <h3>巴巴罗萨</h3>
+    <div class="jp">バルバロッサ</div>
+    <div class="alt">Barbarossa · 바르바로사 · 巴巴羅薩</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">老子就是大名鼎鼎的海盗王巴巴罗萨！你这家伙看起来还不赖嘛~跟我一起来征服大海吧！</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 俺様は名高い海賊王、 バルバロッサだ！<br>てめえ、悪くない奴みたいだな。<br>俺様と一緒に、海を征服しようぜ？</div><div class="row"><b>英</b> I'm Barbarossa, the pirate captain! You look like some figure. Join my crew and let's conquer the oceans together!</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_131.png" loading="lazy" alt=""><div class="badge">131</div></div>
+  <div class="info">
+    <h3>玉藻前</h3>
+    <div class="jp">玉藻</div>
+    <div class="alt">Tamamo no Mae · 타마모노마에 · 玉藻前</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">呀……真是个可爱的孩子呢，不过不要离我太近喔……会被吃~掉~的~</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> ああ……本当にかわいい子ね、<br>私に近づかないほうがいいわよ……<br>…たべ・ちゃう・から♡</div><div class="row"><b>英</b> Ah... What a lovely kiddo. Don't get too close to me though... I might eat you.</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_132.png" loading="lazy" alt=""><div class="badge">132</div></div>
+  <div class="info">
+    <h3>库泊佐娅</h3>
+    <div class="jp">クーパーゾア</div>
+    <div class="alt">Cubozova · 쿠보조아 · 庫泊佐婭</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">我是JAX-312号库泊佐娅……实验开始了？</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私はナンバーJAX-312のクーパーゾアです……<br>実験が始まりましたか？</div><div class="row"><b>英</b> Cubozova JAX-312... Has the experiment begun?</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_133.png" loading="lazy" alt=""><div class="badge">133</div></div>
+  <div class="info">
+    <h3>格兰瑞特</h3>
+    <div class="jp">グランレット</div>
+    <div class="alt">Gwyneth · 그란루트 · 格蘭瑞特</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">在下格兰瑞特，终焉之时将至，吾等愿献上荣耀与吾主。</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私はグランレットと申します。<br>終焉の時は近い。<br>我らが栄光を我が王に捧げましょう。</div><div class="row"><b>英</b> Gwyneth is my name. When the doom is inevitable, I'll be my lord's last shield.</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_134.png" loading="lazy" alt=""><div class="badge">134</div></div>
+  <div class="info">
+    <h3>白野威</h3>
+    <div class="jp">白野 威</div>
+    <div class="alt">Takeshi Shirono · 시라누이 · 白野威</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">我……将为这满目疮痍的大地……带来光明。</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 私は……<br>この傷だらけの大地に……光をもたらす。</div><div class="row"><b>英</b> I will bring light to this devastated land.</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_135.png" loading="lazy" alt=""><div class="badge">135</div></div>
+  <div class="info">
+    <h3>瑟蕾莎</h3>
+    <div class="jp">セレサ</div>
+    <div class="alt">Theresa · 세레사 · 瑟蕾莎</div>
+    <div class="meta2"><span class="lines">台词 57 句</span></div>
+    <div class="intro">真是可爱的孩子，你想来我的房间学习抜刀术的奥义吗？</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> 本当に可愛いい子ね。<br>私の部屋で抜刀術の奥義を学んでみない？</div><div class="row"><b>英</b> What a lovely kiddo. Do you want to learn how to draw a sword like I do... in my room?</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><div class="noimg">无立绘</div><div class="badge">136</div></div>
+  <div class="info">
+    <h3>萤</h3>
+    <div class="jp">星之丘 萤</div>
+    <div class="alt">Hotaru · 호타루 · 螢</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    <div class="intro">哟！大姐头？你这家伙还蛮识相的嘛。好了，以后我会保护你这个小弟的！</div><details class="more"><summary>原文（日 / 英）</summary><div class="row"><b>日</b> おっ！ 姉御？ はは、口が上手いね！<br> よっし舎弟よ、今後あたしが守る！</div><div class="row"><b>英</b> I'm your new boss now. You'd better behave. Alright, alright. I'll take good care of you!</div></details>
+  </div>
+</article>
+<article class="ch">
+  <div class="pic"><img src="assets/chara/card_137.png" loading="lazy" alt=""><div class="badge">137</div></div>
+  <div class="info">
+    <h3>星尘·Twinkle</h3>
+    <div class="jp">シンチェン・Twinkle</div>
+    <div class="alt">Stardust Twinkle · 스타 더스트·Twinkle · 星塵·Twinkle</div>
+    <div class="meta2"><span class="lines">台词 0 句</span></div>
+    
+  </div>
+</article>
+</div></main>
+<footer>
+<b>《魔女兵器》角色设定集</b><br>
+配置表解密：XOR 0xFF · 游戏开发：北京水琴铃（WaterBell）· 日服发行：EXNOA LLC<br>
+国服已于 2024-08-17 停服 · 本档案仅供研究与保存用途。
+</footer></body></html>

@@ -1,0 +1,81 @@
+﻿1	N/A	昨晚开始，SID侦测到『天空酒店』的位置出现了数起间歇性的时空相位波动。	昨晚開始，SID就偵測到「天空酒店」那裡出現了數起間歇性的時空相位波動。	昨晩より、SIDは「スカイホテル」の地点にて、\n断続的な時空位相波動を観測している。	어젯밤부터 SID가 『스카이 호텔』의 위치에서 간헐적으로 시공 상위 파동을 탐측했다.	According to the SID, several intermittent Spacetime Fluxes have been detected near the Sky Hotel since last night.	
+2	N/A	巧合的是，萨蒙顿的考察团也于昨晚全员入住了这座地处『协约非武装区』的豪华酒店。	巧合的是，薩蒙頓的考察團也在昨晚全員入住了這座地處「協議非武裝區」的豪華酒店。	偶然にもサモントン視察団の全員が、\nこの『協定非武装区域』に存在している、\n豪華ホテルにチェックインしている。	우연의 일지인지，살몬톤의 시찰단도 어젯밤 『비무장지역』인 이 호화로운 호텔에 체크인 했다.	Coincidentally, the entire Salmonton delegation checked into this luxury hotel located at the Agreed DMZ last night.	
+3	N/A	今晚他们还要在酒店举行艺术品交流晚宴，并邀请了各个学园都市的名流。	而今晚他們還要在酒店舉行藝術品交流晚宴，並邀請了各個學園都市的名流。	彼らは今夜、各学園都市の名士を招待しての、\n芸術品交流のディナーパーティをホテル内にて\n開催する模様だ。	오늘밤，그들이 호텔에서 예술품 교류 연회를 열어 각 학원도시의 인사를 초대했다.	Tonight, they’ll throw an art exchange dinner party there for celebrities from all Academic Cities.	
+4	N/A	但拉斐尔和她的随从却没有出现在晚宴的名单上。	但拉斐爾和她的隨從卻沒有出現在晚宴名單上。	しかしラファエルと彼女の従者達は、\nディナーのゲストリストに載っていなかった。	하지만 라파엘과 그녀의 수행원은 연회 명단에 없었다.	But Raphilia and her attendant are not invited.	
+5	N/A	——因此，我和安妮再次被莉琉派到了这个麻烦的地方执行任务。	——因此，我和安妮再次被莉琉派到了這個麻煩的地方執行任務。	そのため、俺とアニーはこの厄介な場所に\n直接足を踏み入れ────\n再びマリルに与えられた任務に挑む。	——그리하여 나와 앤은 마리루의 명령으로 이 성가신 곳에서 임무를 수행하고 있다.	So, Mariru sent Annie and me to this annoying place again.	
+6	N/A	在富丽堂皇的宴会厅门口，我有些局促不安。	站在富麗堂皇的宴會廳門口，我有些侷促不安。	豪華な宴会所の入口で不安に襲われ、\n俺はそわそわしていた。	나는 웅장하고 화려한 연회장 입구에서 안절부절 못하고 있다.	Standing at the entrance of the magnificent banquet hall, I feel rather uncomfortable.	
+7	小怜	唔……	唔……	うーん……	음……	Hm…	
+8	安妮	怎么啦，你看上去很紧张呀？	怎麼啦，妳看起來很緊張耶？	どうしたの、緊張してるの？	왜 그래? 긴장했어?	Are you all right? You seem pretty nervous.	
+9	小怜	当然会紧张吧，这可是女仆装诶！	當然會緊張吧，這可是女僕裝欸！	緊張するに決まってるだろっ！\nこれメイド服だぞっ！？	당연히 긴장되지！메이드복이잖아！	Of course I do. I've never dressed up as a maid!	
+10	N/A	没错，今晚我和安妮是以伪装身份潜入的会场。	沒錯，今晚我和安妮是以偽裝身分潛入會場。	そう。\n今夜俺とアニーは変装して会場に潜入している。	그렇다. 나와 앤은 신분을 위장해 회장에 잠입했다.	Yep. Annie and I entered the venue in disguise.	
+11	小怜	而且为什么你是御樱川的学生会代表，我就是服侍宾客的女仆啊！！	而且為什麼妳是御櫻川的學生會代表，我就是服侍賓客的女僕啊！ ！	だけどなんで、アニーが御桜川の生徒会代表で、\n俺が接客担当のメイドなんだよ！！	넌 왜 사쿠라가와 학생회 대표고，난 귀빈을 대접하는 메이드냔 말이야！！	And why should I be the maid while you are a student representative of Gosakuragawa?!	
+12	安妮	女仆装不是男人的梦想吗？	女僕裝不是男人的夢想嗎？	メイド服って男の子のロマンでしょっ？	메이드복은 남자들의 로망이잖아?	All men love maid dresses, don't they?	
+13	小怜	梦想里绝对不包括“自己穿女仆装”这项吧~！	但是那絕對不包括「自己穿女僕裝」這項吧！	そのロマンには「自分がメイド服を着る」って\n項目は含まれてないからな！	그 로망에 “메이드복을 입는다”는 건 절대로 없다구~！	Well, I'm pretty sure that none of them loves wearing it themselves!	
+14	安妮	唔……\n也是呢～	唔……\n好像也是呢～	まぁ……\nそれもそうか～～	음……\n그러네～	Hmm… \nYou've got a point.	
+15	安妮	明明打扮的这么可爱，却无法欣赏到自己的身姿\n难怪你如此急躁……	明明打扮的這麼可愛，卻無法欣賞到自己的身影，\n嗯嗯，我懂，難怪妳如此急躁……	こんなに可愛いのに、自分で姿を見られないなら\n不満があってもしょうがないね……	이렇게 귀엽게 꾸며놓고 자신의 모습을 감상할 수 없다니……\n조바심이 날만도 해…	What a pity—you can't see how cute you are in this lovely dress. \nNo wonder you are so restless…	
+16	N/A	安妮退后几步，拿出手机\n“咔嚓”一下拍了张照片。	安妮退後幾步，拿出手機，\n「喀嚓」一聲拍了張照片。	アニーは少し下り、携帯を取り出して……\nパシャ！　っと写真を撮った。	앤이 뒤로 몇 걸음 물러서서 휴대폰을 들고는\n"찰칵" 사진을 찍는다.	Annie takes a few steps back, grabs her phone… \nAnd take a photo of me.	
+17	安妮	嗯……果然双马尾也很合适小怜呢。	嗯……果然雙馬尾也很合適小憐呢。	うん……\nやっぱレンちゃんはツインテールも似合う！	음……역시 렌은 양갈래 머리도 잘 어울리는구나.	Wow… Ren, you look adorable with twintails.	
+18	小怜	不要拍啊──快删掉！	不要拍啊──快刪掉！	やめろぉぉ　撮るなぁ────\n消せ、早く消せっ！	찍지 마──빨리 지워！	Stop… Delete it, now!	
+19	小怜	（这种羞耻的……）\n（万一被……）	（這種羞恥的……）\n（萬一被……）	（こんな恥ずかしい事が……）\n\n（万が一にも流しゅ……）	（수치스러워……）\n（만일 누가……）	(Such a shameful moment…) \n(If it's seen…)	
+20	N/A	安妮的手机传出了信息发送成功的音效。	安妮的手機傳出了訊息傳送成功的音效。	アニーの携帯から送信成功のメロディが流れた。	앤의 휴대폰에서 전송 완료 효과음이 울린다.	A swooshing sound from Annie's phone confirms a success transmission.	
+21	安妮	已经发给你和莉琉啦~	已經傳給妳和莉琉啦～	レンちゃんとマリルさんに送信したよ～～	이미 마리루에게 전송했어~	I've sent it to you and Mariru!	
+22	N/A	完蛋了。	完蛋了。	＼(^o^)／	망했다.	Damn.	
+23	安妮	嘿嘿，别害羞嘛~\n这种荷叶边和小怜的风格超级搭的！	嘿嘿，別害羞嘛～\n這種荷葉邊和小憐的風格超級搭的！	えへへ、そんなに恥ずかしがらなくてもさ～～\nこのフリルなんてレンちゃん超似合ってるから！	헤헤，부끄러워 하지 마~\n이런 프릴 소재는 렌의 스타일과 아주 딱이라구！	Hee-hee, don't be shy. \nThis ruffle trim suits you well!	
+24	小怜	我拿出手机，看到安妮发来的照片。	我拿出手機，看到安妮傳來的照片。	携帯を取り出し、アニーから受信した写真を\n自ら確認した。	나는 휴대폰을 들어 앤이 보낸 사진을 봤다.	I unlock my phone and the photo shows up on the screen.	
+25	小怜	似乎还……不错？	似乎還……不錯？	思ったより……悪くないかも……？	꽤……괜찮잖아？	Not bad…?	
+26	小怜	才、才没有嘞！	才、才沒有咧！	って、悪くないかも……じゃないわっ！！！	아，아니야！	You are out of your mind!	
+27	N/A	此时，耳机里传来了熟悉的声音。	此時，耳機裡傳來了熟悉的聲音。	突然、イヤホンから馴染みのある声が聞こえた。	이때，이어폰에서 익숙한 목소리가 들린다.	Suddenly, a familiar voice comes from the headset.	
+28	N/A@莉琉	好啦，小姑娘们的自拍时间到此为止，目前的状况你们都了解了吧。	好啦，小姑娘們，自拍時間結束，目前的狀況妳們都瞭解了吧。	よしよし、小娘達の自撮りタイムは終了だ。\n現在の状況は理解しているだろう？	꼬마 아가씨들의 셀카 시간은 여기까지！지금 상황은 모두 이해했지?	All right, no more selfies, girls. You've got all the details, right?	
+29	莉琉	因为第四学园都市向联合议会的申请，今晚酒店周围的保安军戒备森严。	因為第四學園都市向聯合議會申請，所以今晚酒店周圍的保安警察，全都戒備森嚴。	第四学園都市が連合議会に申請を提出した結果、\n今夜ホテル周辺は厳戒態勢に入っている。	제4학원도시가 연합회의에 오늘밤 호텔 주변의 보안 경계를 강화해달라고 요청했어.	The Forth Academic City has got the United Congress's permission to strengthen the security for the event. So, this hotel is heavily guarded tonight.	
+30	N/A@莉琉	因为第四学园都市向联合议会的申请，今晚酒店周围的保安军戒备森严。	因為第四學園都市向聯合議會申請，所以今晚酒店周圍的保安警察，全都戒備森嚴。	第四学園都市が連合議会に申請を提出した結果、\n今夜ホテル周辺は厳戒態勢に入っている。	제4학원도시가 연합회의에 오늘밤 호텔 주변의 보안 경계를 강화해달라고 요청했어.	The Forth Academic City has got the United Congress's permission to strengthen the security for the event. So, this hotel is heavily guarded tonight.	
+31	小怜	总之查明相位波动的原因就立刻撤离对吧？\n我知道啦~	總之，查明相位波動的原因就立刻撤離對吧？ \n我知道啦～	位相波動の原因を突き止めたら、\nとにかくすぐに脱出すればいいんだろ？\n分かってるって～～	어쨌든 상위 파동의 원인을 알아내는 즉시 철수하라는 거지?\n알고 있어~	All we need to do is find out the causes of the Spacetime Fluxes and pull out immediately, right? \nI got it.	
+32	莉琉	这回我不能像上次那样硬来了，所以你们俩都给我机灵点，尤其是小怜──	這回我不能像上次那樣硬來了，所以妳們倆都給我機靈點，尤其是小憐──	今回は前回のような強引な手法は使えん。\nだから、お前達も機転を利かせて行動しろ。\n特にレン、お前だ──	이번엔 지난 번처럼 내가 막나갈 수는 없으니까，두 사람 모두 정신 똑바로 차려. 특히 렌──	I can't make any bold move this time. So you two, remember to play it by ear. Especially you, Ren…	
+33	N/A@莉琉	这回我不能像上次那样硬来了，所以你们俩都给我机灵点，尤其是小怜──	這回我不能像上次那樣硬來了，所以妳們倆都給我機靈點，尤其是小憐──	今回は前回のような強引な手法は使えん。\nだから、お前達も機転を利かせて行動しろ。\n特にレン、お前だ──	이번엔 지난 번처럼 내가 막나갈 수는 없으니까，두 사람 모두 정신 똑바로 차려. 특히 렌──	I can't make any bold move this time. So you two, remember to play it by ear. Especially you, Ren…	
+34	莉琉	打扮的这么可爱，万一被抓到了，说不定会被某个权贵看上拉回自己府内……	打扮的這麼可愛，萬一被抓到了，說不定會被某個權貴看上然後帶回家……	そんなに可愛い姿になってしまったばっかりに、\n万が一にでも捕まったりしたら、\nどこかの権力者の変態紳士様によって、\n自宅へお持ち帰りされるかもしれないぞ……	그렇게 귀엽게 입고 잡혀버렸다가는 어느 집권자의 눈에 들어 저택에 끌려갈지도 모르니까~！	If one of those bigwigs takes a fancy to you, you may never get the chance to escape…	
+35	N/A@莉琉	打扮的这么可爱，万一被抓到了，说不定会被某个权贵看上拉回自己府内……	打扮的這麼可愛，萬一被抓到了，說不定會被某個權貴看上然後帶回家……	そんなに可愛い姿になってしまったばっかりに、\n万が一にでも捕まったりしたら、\nどこかの権力者の変態紳士様によって、\n自宅へお持ち帰りされるかもしれないぞ……	그렇게 귀엽게 입고 잡혀버렸다가는 어느 집권자의 눈에 들어 저택에 끌려갈지도 모르니까~！	If one of those bigwigs takes a fancy to you, you may never get the chance to escape…	
+36	小怜	你够了喂！！	妳夠了唷！ ！	変な想像させないでくれ！！	그만해！！	Enough!	
+37	安妮	啊，那边萨蒙顿教育委员会的代表在叫我\n正好趁机去偷听一下谈话。	啊，那邊薩蒙頓教育委員會的代表在叫我，\n正好趁機去偷聽一下。	あっ、あそこのサモントン教育委員会の代表さん\n私を呼んでるみたい。\nちょっとあっちの会話を探ってみるよ。	아，살몬톤 교육위원회의 대표가 날 부르네\n이 기회에 대화를 엿들어야겠어.	I gotta go. A couple of delegates from the Salmonton Education Commission wanted to talk to me. \nIt's a good chance to listen in.	
+38	安妮	小怜你也去找找机会吧！	小憐妳也去找找機會吧！	レンちゃんも！\nチャンスを探してLet'sゴーだからね！	렌도 기회를 잘 찾아봐！	Ren, just do what you need to do.	
+39	N/A	话音刚落，安妮就换上一幅商业笑容\n转身向几个穿着礼服的男人挥手然后跑过去了。	話剛說完，安妮就換上一臉商業笑容，\n轉身向幾個穿著禮服的男人揮手然後跑過去了。	話を終えると、アニーは営業スマイルに切り替え\nスーツを着た男達の方へと走って行った。	말이 떨어지기 무섭게 앤이 비즈니스 미소를 지으며\n예복을 입은 남자에게 손을 흔들며 뛰어간다.	In the blink of an eye, Annie fakes a smile and turns around, \nwaving at a group of men in suit.	
+40	小怜	安妮还真是得心应手啊……	安妮還真是得心應手啊……	アニーは本当に器用だな……	앤은 정말 능수능란하구나……	Annie is really good at this…	
+41	小怜	可是女仆到底该做些什么啊？	可是女僕到底該做些什麼啊？	しかし、メイドって何をすればいいんだろう？	메이드는 도대체 뭘 해야 하지?	But what is a maid supposed to do now?	
+42	小怜	这个酒盘，有点不好掌握平衡……	這個酒盤，有點不好平衡……	このトレイ、なんかバランス悪いし……	이 쟁반，똑바로 들 수가 없어……	Holding the serving tray is so hard…	
+43	N/A@客人甲	请给我一杯Dom Perignon，谢谢。	請給我一杯Dom Perignon，謝謝。	君、Dom Perignonを1杯もらえるかな。	Dom Perignon 한 잔 줘요. 	A Dom Perignon, please.	
+44	小怜	啊？……好的！马上来！\n唔…请麻烦您再说一次，那个叫什么名字？！	啊？ ……好的！ 馬上來！ \n唔…麻煩您再說一次，您要一杯什麼？ ！	は？……あっ、はい！　すぐに！\n\n…………………………\nえっと……すみません。\nドリンクの名前をもう一度聞いてもいいですか？	아？……네！잠시만요！\n음…죄송한데，다시 말씀해 주시겠어요? 그게 뭐라고요？！	Uh? Ugh… Of course, sir. \nHmm… Would you repeat that?	
+45	N/A@客人甲	……	……	………………	……	…	
+46	小怜	（糟糕，我好像问了很蠢的问题…）\n唔，呃……	（糟糕，我好像問了很蠢的問題……）\n唔，呃……	あっ、えっと……\n（しまった、バカな質問をしたみたい……）	（이런，너무 바보같은 질문을 한 것 같아...)\n음，어……	(Crap! Am I asking something really dumb?) \nHmmm…	
+47	N/A	没有接受过女仆的职业培训，我完全不知道这种时候该怎么应付啊。	沒有接受過女僕的職業培訓，我完全不知道這種時候該怎麼應付啊。	メイドの研修なんて受けた事ないから、\nこんな時どうすればいいか全然分からないよっ！	메이드 직업 훈련을 받아본 적이 없어서 이럴 때엔 어떻게 해야 할지 전혀 모르겠다.	Without proper training, I have absolutely no idea how to handle this. I don't even know what a maid should do.	
+48	N/A@客人甲	啧啧，明明是以女仆为特色的宴会厅\n居然这么不专业的吗？	嘖嘖，明明是以女僕為賣點的宴會廳，\n居然這麼不專業？	なんだね君は？\n今日はスタッフも一流と聞いていたが……\nまるで素人みたいではないか。	즛쯧，메이드가 특색인 연회장에서\n이렇게 능숙하지 못해서야……	Pff, you do know this place is known for its maids, right? \nHow could they let such an unprofessional one in?	
+49	小怜	对不起，那个……	對不起，那個……	すみません、その……	죄송합니다. 그게……	I'm sorry, sir…	
+50	粉色头发的女仆	喂喂，你傻乎乎地戳在这发什么呆呢？	喂喂，妳傻乎乎地在這裡發什麼呆呢？	おいおい、何ぼんやり突っ立てやがるんですか？	어이，멍청하게 거기서 뭘 머뭇거리고 있어?	Hey! Why are you standing there like a bump on a log?	
+51	小怜	啊？	為什麼？	ほぇ？	아？	Huh?	
+52	N/A	我扭过头，面前出现一位粉色头发、长相清秀、戴着红框眼镜的女仆。	我轉過頭，面前出現一位粉色頭髮、長相清秀、戴著紅框眼鏡的女僕。	振り返ると、ピンク髪で清楚な顔をした、\n赤縁メガネのメイドがそこに立っていた。	고개를 돌려보니 분홍색 머리，준수한 외모에 붉은테 안경을 쓴 메이드가 서있다.	I turn around and see a pink-haired comely maid wearing red-framed glasses.	
+53	N/A	她得体礼貌地向客人微笑了一下，在将脸转向我的瞬间表情迅速转为了愤怒。	她禮貌地向客人微笑了一下，但臉在轉向我的瞬間表情迅速轉為憤怒。	客に礼儀正しく微笑んだ彼女は、\n俺の方に顔を向けた途端、\n瞬時に怒りの表情へ切り替わった。	그녀가 예의있게 손님을 향해 미소짓고 날 향해 순식간에 분노의 눈빛을 보낸다.	She casts a polite smile to the guest. As she turns around, the sweet smile turns into fiery anger.	
+54	粉色头发的女仆	快跟我去给客人取香槟！	快跟我去給客人拿香檳！	お客様にシャンパンを取りに行くッ！\n付いて来きなさいッ！	나랑 같이 손님에게 드릴 샴페인을 가져오자！	Come on, let’s go get the champagne for the guest.	
+55	小怜	诶？你是…？\n（这身装扮看起来好像不是这家酒店的……）	欸？ 妳是……？ \n（這身裝扮看起來好像不是這家酒店的……）	えっ…と？　あなたは……？\n（ホテルの人じゃなさそうだけど……？）	에？당신은…？\n（복장을 보니 이 호텔 직원은 아닌 것 같은데……）	Huh? Who are you? \n(From the way she dresses, she doesn’t look like a waitress at this hotel…)	
+56	N/A	粉色头发的女仆不由分说地拉起我的手走向没人的角落，我才发现她的力量大得惊人。	粉色頭髮的女僕不由分說地拉起我的手走向沒人的角落，我才發現她的力量大得驚人。	ピンク髪のメイドは何も言わずに俺の手を引き、\n人がいない隅の方へと移動した。\n彼女の力は、驚くほど強い。	분홍머리 메이드가 다짜고짜 사람이 없는 곳으로 날 끌고 간다. 엄청난 힘이다...	The pink-haired maid grabs my hand and heads towards the corner, without a word. Surprisingly, she is full of strength.	
+57	粉色头发的女仆	瞧你笨手笨脚的样子，一点都不专业！	瞧妳笨手笨腳的樣子，一點都不專業！	あのぎこちない振舞いはなんだバカッ！　\n全然プロとしてなってないわッ！	얼뜨기 같은 모습 좀 보라지. 전혀 전문가 같지 않잖아！	You butterfingers! What's wrong with you?	
+58	小怜	那、那个…我……	那、那個……我……	あ、あの……俺……	그，그건……	Ugh… I… I…	
+59	小怜	对不起，我刚上任不到一个小时！	對不起，我剛就職不到一個小時！	すみません！　\nメイド経験まだ1時間未満なんです！	죄송합니다！제가 일한 지 한 시간밖에 되지 않아서...	I'm sorry. I'm new to this job. It’s my first day here…	
+60	小怜	等等，明明你说话的语气也不像女仆啊……	等等，明明妳說話的語氣也不像女僕啊……	と言うか、この人の口調も、\nメイドっぽくないんだけど……	잠깐，말투가 메이드 같지 않은데……?	Wait, the way you speak… You don’t sound like a maid either…	
+61	粉色头发的女仆	你那是什么眼神？\n难道是在质疑我身为女仆的权威吗？	妳那是什麼眼神？ \n難道是在質疑我身為女僕的權威嗎？	なんですか、その目は？\n私のメイドパワーを疑ってる目ですね？	그 눈빛은 뭐야?\n설마 내가 메이드복을 입은 귀빈이라고 의심하는 건가?	Why are you looking at me that way? \nAre you questioning my ability as a maid?	
+62	粉色头发的女仆	你听好了──在我的主人面前，我绝对是万能的女仆！这一点任何人都不准怀疑。	妳給我聽好了──在我的主人面前，我絕對是萬能的女僕！ 這一點任何人都不准懷疑。	よく聞きなさい──\n私は、御主人様の名の下において\n絶対万能のメイドです！！\nこの点は何人たりとも疑う事を許さないわ！！	잘 들어. 우리 주인님 눈에 난 만능 메이드라고！그 점은 누구도 의심하지 못해.	Listen up! As a maid, I can and will do anything for my master. No one can doubt that.	
+63	N/A	红框眼镜突然做出了自豪的宣言。	紅框眼鏡突然做出了自豪的宣言。	──赤縁メガネが突然誇らしげに宣言した。	붉은테 안경이 갑자기 자랑스럽게 얘기한다.	The girl in red glasses suddenly makes a solemn pledge in front of me.	
+64	小怜	好、好的……	好、好的……	は、はぁ……	네，네……	O… Okay…	
+65	小怜	不管怎么说，刚才多谢你替我解围……\n要不然还真不知道怎么下台。	不管如何，剛才謝謝妳替我解圍……\n不然我還真不知道該怎麼辦。	とにかく、さっきは助けてくれてありがとう……\nあの時は本当どうすればいいか分からなかった！	방금 도와주셔서 고마워요……\n혼자서는 해결하지 못했을 거예요.	Anyway, thanks for helping me out just now… \nHonestly, I didn’t know what to do next.	
+66	粉色头发的女仆	喂──所以说，你为什么会到这里来？	喂──所以說，妳為什麼會到這裡來？	ねぇ……\n\nなぜあなたは分からないのに、この場にいるの？	어이──넌 여기 왜 온 거지?	So, why are you here?	
+67	N/A	面前的人突然语气严肃起来\n透出一丝寒气	面前的人突然語氣嚴肅起來，\n透出一絲寒氣	目の前にいるメイドの口調が突如冷徹に変わり、\nわずかだが寒気を感じた。	눈 앞에 있는 사람의 말투가 갑자기 진지해지며 한기가 느껴진다.	Her voice suddenly turns cold as ice, \ncasting a chill over my spine.	
+68	粉色头发的女仆	敢撒谎的话，我就把你烧成焦炭哟！	敢撒謊的話，我就把妳燒成焦炭喲！	嘘をついたら、消し炭にするわよ？	거짓말하면 재가 될 때까지 태워버리겠어！	If you lie to me, I will burn you down to a piece of coke.	
+69	N/A	红框眼镜一边威胁我，一边露出了爽朗的笑容，给人的感觉完全不像是在开玩笑！	紅框眼鏡一邊威脅我，一邊露出了爽朗的笑容，給人的感覺完全不像是在開玩笑！	赤縁メガネは爽やかな笑顔で俺を脅す。\n全然冗談には聞こえないな、これは……	붉은테 안경이 날 협박하며 환하게 웃는다. 하지만 전혀 농담 같지가 않다！	The girl broke into silvery laughter as she uttered these intimidating words, but I'm pretty sure she wasn’t kidding!	
+70	粉色头发的女仆	怎么？是在想着怎么编谎话吗？	怎麼？ 是在想著怎麼編謊話嗎？	ん？　どうした？\n言い逃れを考えてやがる途中ですか？	뭐야？뭐라고 거짓말을 해야 하나 생각 중이야?	Are you trying to make something up?	
+71	小怜	（糟糕，我的身份暴露了吗？）\n（她…到底是什么人啊！）	（糟糕，我的身分暴露了嗎？ ）\n（她…到底是什麼人啊！ ）	（やばい、俺の正体がバレているのか？）\n（このメイドは一体何者だ……！？）	（젠장，내 신분이 들통났나?）\n（이 여자는 도대체 누구야！）	(Damn it. Am I busted?) \n(Who the hell is she?)	
+72	粉色头发的女仆	我可知道你的身份哦──\n毕竟……	我知道妳的身分哦──\n畢竟……	私はあなたの正体なんて既にお見通し──\nなにせ……	난 네 신분을 알고 있어──\n만약……	I know who you are. \nAfter all…	
+73	？？？	法贝拉，不能无礼哟。	法貝拉，不能無禮喲。	ファビオラ。あまり無礼はダメだよ。	파비올라，무례한 행동은 그만둬.	Fabella, don't be rude.	
+74	N/A	我循声望去，打断我们的，是一个穿着礼服式法兰裙袍的金发女孩。	我循聲望去，打斷我們的，是一個穿著禮服式法蘭裙袍的金髮女孩。	声に沿って視線を向ける。\n\n俺達に割って入ったのは、\nフランネルガウンを着ている金髪の少女。	우리의 대화를 끊은 것은 폴란드 풍 드레스를 입은 금발 소녀다.	Following the sound, I find a petite girl in a fabulous evening dress.	
+75	N/A	身姿娇小的少女，一头阳光般的金发编成的辫子乖巧的直落到腰间，眼神也如湖水般清澈明亮…	身材嬌小的少女，陽光般的金髮編成的辮子乖巧地落在腰間，眼神也如湖水般清澈明亮……	太陽の光のような髪。編み込みのお下げが、\n小柄な少女の腰辺りまで伸びている。\n目は湖のように澄み切っており……	아담한 체구의 소녀는 햇빛처럼 밝은 금발을 곱게 땋아 허리 부근까지 늘어뜨렸다. 눈빛이 호수처럼 맑다…	Her shiny blonde hair reaches down to the waist in braids and her eyes are bright and clear as crystal.	
+76	N/A	这个精灵般的少女，不同凡俗的气质和眼前骄奢的宴会场显得有些格格不入。	這個精靈般的少女，空靈般的氣質和眼前奢華的宴會場顯得有些格格不入。	それはまるで精霊のようだった。\n\nそして、この俗っぽい宴会場とは些か\n不釣り合いなようにも見えた。	요정 같은 소녀의 비범한 분위기는 사치스러운 연회장과 어울리지 않는다.	Such an elfin girl's presence at this flamboyant occasion is like a square peg in a round hole.	
+77	法贝拉	斯库尔德小姐！\n真的非常抱歉，居然让这种小事惊动了您。	斯庫爾德小姐！ \n真的非常抱歉，居然讓這種小事驚動了您。	ス……スクルド様！\n瑣末な事でお騒がせして、申し訳ありません。	스컬드 아가씨！\n이런 사소한 일로 시끄럽게 굴어서 죄송해요.	Miss Skurd! \nI'm so sorry that I've disturbed you.	
+78	N/A	刚才还凶神恶煞的女仆，居然在见到这个小女孩的时候，态度变得这么恭敬。	剛才還凶神惡煞的女僕，在見到這個小女孩後，態度居然變得這麼恭敬。	先程まで凶悪だったメイドが、この娘を見た途端\n謙遜な態度へ豹変した。	방금까지 살벌했던 메이드가 작은 소녀 앞에서 공손하게 변한다.	Fierce as a lion a moment ago, the maid turns into a kitten just as the little girl shows up.	
+79	斯库尔德	你看她都不敢说话啦，一定被你吓坏了。	妳看她都不敢說話啦，一定被妳嚇壞了。	驚かせ過ぎたみたいね。\n声が出せなくなっちゃったかな。	봐，너 때문에 놀라서 말도 못하잖아.	Look at the poor girl. She is too terrified to say a word.	
+80	斯库尔德	总之今天就先放过她吧，好不好？	總之今天就先放過她吧，好不好？	今日は見逃してあげて。\n\nいいでしょう？	오늘은 그냥 놔줘，알겠지?	Just let her go for now, okay?	
+81	法贝拉	遵命。	遵命。	……仰せのままに。	네，알겠어요.	Roger that!	

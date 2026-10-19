@@ -1,0 +1,51 @@
+ID,value,platform
+string,string,string
+常量名称,常量值,对应平台这个字段不一定用得上
+LOGIN_BACK_GROUND_KR,login_bg_kr,kr
+UserProtoContent_JP,同意いただけない場合はゲームをプレイすることはできません。,jp
+WarningInGuide_JP,当前正在引导中,jp
+URL_TermsOfUseGoogle,https://witchs-weapon.net/terms/google.php ,jp
+URL_TermsOfUseIOS,https://witchs-weapon.net/terms/app.php ,jp
+URL_PrivacyPolicy,https://witchs-weapon.net/privacy/ ,jp
+URL_Funds,http://witchs-weapon.net/terms/settlement.php ,jp
+URL_SpecificQuotientDerivationGoogle,https://witchs-weapon.net/terms/transaction-google.php ,jp
+URL_SpecificQuotientDerivationIOS,https://witchs-weapon.net/terms/transaction-app.php ,jp
+URL_DiamondDate,,jp
+URL_PrivacyPolicy,https://witchs-weapon.net/privacy/ ,jp
+URL_CN_LEANCLOUD_EngineServer,https://avoscloud.com,CN
+URL_JP_LEANCLOUD_EngineServer,https://EQTr5zDe.engine.lncldglobal.com,JP
+URL_KR_LEANCLOUD_EngineServer,https://OAk8TwRK.engine.lncldglobal.com,KR
+URL_TW_LEANCLOUD_EngineServer,https://sJupcMQ6.engine.lncldglobal.com,TW
+URL_CN_LEANCLOUD_RTMRouter,https://router-g0-push.avoscloud.com,CN
+URL_JP_LEANCLOUD_RTMRouter,https://EQTr5zDe.rtm.lncldglobal.com,JP
+URL_KR_LEANCLOUD_RTMRouter,https://OAk8TwRK.rtm.lncldglobal.com,KR
+URL_TW_LEANCLOUD_RTMRouter,https://sJupcMQ6.rtm.lncldglobal.com,TW
+FundsBtn,資金決済法,jp
+SpecificQuotientDerivationBtn,特定商取引法,jp
+TermsOfUseBtn,利用規約,jp
+PrivacyPolicyBtn,プライバシーポリシー,jp
+LinkData,データ引継ぎ,jp
+JPTwitterShareContent,,jp
+DiamondDate,ダイヤに関する注意,jp
+Funds,資金決済法,jp
+JPWarningBindAccountTitle,ID連携,jp
+JPWarningBindAccountContent,端末を紛失した場合や、\n新しい端末に変更した場合に、\nゲームデータを引継ぐことができます。\nID連携を行いますか？,jp
+SpecificQuotientDerivation,特定商取引法,jp
+ServiceDeclare,お問い合わせ内容の選択,jp
+JpServiceEmail,support@witchs-weapon.net,jp
+URL_Announcement,http://notice.witchweapon.com,
+URL_Announcement_KR,https://cafe.naver.com/witchweapon,
+URL_Announcement_JP,https://witchs-weapon.net/news?ingame,
+URL_Announcement_TW,https://forms.gle/XF1G5QpZtN4Ettnn8,
+URL_Wiki,http://wiki.joyme.com/mnbq,
+URL_Wiki_KR,https://witchweapon.efunkr.com/,
+URL_Wiki_JP,https://witchs-weapon.net/,
+URL_Wiki_TW,https://www.facebook.com/witchsweapon/,
+URL_BAHAMUT_TW,https://forum.gamer.com.tw/B.php?bsn=35733,TW
+JpServiceEmail,https://witchs-weapon.net/,
+JpServiceEmailConsumptionBody,注文番号:{0}\n購入日時:{1}月{2}日{3}時{4}分\nUID:{5}RID:{6},
+JpServiceEmailBugReportBody,発生日時:{0}月{1}日{2}時{3}分\nUID:{4}RID:{5},
+JpServiceEmailSuggestBody,UID:{0}\nRID:{1},
+JpServiceEmailOtherBody,UID:{0}\nRID:{1},
+URL_IOS_SCORE_JP,itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=1305730492,
+URL_Twitter_JP,twitter://user?screen_name=witchsweapon,

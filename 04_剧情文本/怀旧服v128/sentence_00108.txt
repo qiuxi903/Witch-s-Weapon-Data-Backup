@@ -1,0 +1,4 @@
+﻿1	引导精灵	啊……你好像受伤了？有些魔女拥有治愈能力，比如这位大小姐	啊……妳好像受傷了？有些魔女擁有治癒能力，比如這位大小姐	あれ……？怪我をしたの？\n一部の魔女は治癒能力がある\nみたい。例えばこのお嬢様。	앗……다쳤어? 일부 마녀는 치유 능력을 보유하고 있어. 여기 계신 아가씨처럼 말이야	Are you wounded? Some Witches have healing powers. This young lady, for example.	
+2	引导精灵	不过她的性格，大概不能算是\n“治愈系”吧……\n\n总之见到她你就知道了！	不過她的性格，大概不能算是\n「療癒系」吧……\n\n總之見到她你就知道了！	彼女の性格は「癒し系」じゃ\nないだけど……\nまぁ、会えば分かるよ！	하지만 그녀의 성격은 \n“치유계”라고 볼 수 없지……\n\n만나면 알게 될 거야！	Though she looks more like she'd,\ntear you limb from limb...\n\nAnyway, you'll know what I mean when you meet her.	
+3	FocusTrigger	
+4	拉斐尔	拉斐尔具有治愈技能\n可提高容错率，轻松达成关卡扫荡条件。	欸～真的是女生？\n奇怪，我的「直覺」應該不會錯才對……	はぁ～～！？　本当に女性なの？\nおかしい、私の『直感』が間違えるはずない…	엣~정말 여자라고? \n이상하네, 내 『직감』이 틀릴 리가 없는데……	Wow! You really ARE a girl!\nThat's weird—my instinct's never wrong...	

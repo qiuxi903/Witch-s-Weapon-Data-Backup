@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>《魔女兵器》开发遗迹</title>
+<style>
+:root{--bg:#0f1116;--panel:#171a21;--line:#2a2f3a;--fg:#e6e3de;--dim:#8f96a3;--accent:#c9a227}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);line-height:1.75;
+font-family:"Noto Sans SC","Microsoft YaHei",sans-serif}
+header{padding:52px 48px 32px;border-bottom:1px solid var(--line);
+background:linear-gradient(160deg,#1a1d26,#0f1116 70%)}
+.eyebrow{font-size:11px;letter-spacing:.34em;color:var(--accent);margin-bottom:12px;
+font-family:ui-monospace,monospace}
+h1{font-size:36px;margin:0 0 8px;letter-spacing:.08em;font-weight:600}
+.en{font-size:11.5px;letter-spacing:.3em;color:var(--dim);margin-bottom:18px;
+font-family:ui-monospace,monospace}
+.meta{font-size:13px;color:var(--dim);line-height:2}
+.meta b{color:var(--fg)}
+main{padding:32px 48px 80px;max-width:1400px}
+section{margin-bottom:46px}
+section>h2{font-size:21px;color:var(--fg);margin:0 0 4px;font-weight:600}
+.cnt{font-size:11.5px;color:var(--dim);margin-bottom:18px;font-family:ui-monospace,monospace}
+.cnt code{color:#7fb3d5}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:5px;
+padding:12px 15px;margin-bottom:10px}
+.hd{display:flex;justify-content:space-between;gap:12px;margin-bottom:6px}
+.nm{font-size:13px;color:#d98cb3;font-family:ui-monospace,monospace;font-weight:600}
+.mt{font-size:11px;color:#5f6674;font-family:ui-monospace,monospace}
+.tx{font-size:13.5px;color:#c3c8d1}
+.chips{display:flex;flex-wrap:wrap;gap:7px}
+.chip{background:var(--panel);border:1px solid var(--line);border-radius:4px;
+padding:4px 10px;font-size:12px;color:#b9bfc9;font-family:ui-monospace,monospace}
+.chip.hi{border-color:#d98cb3;color:#e8a8c8}
+.chip.test{border-color:#c9a227;color:#e0c86a}
+table{border-collapse:collapse;width:100%;font-size:12.5px}
+th,td{padding:6px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{background:#1c2029;color:#7fb3d5;font-family:ui-monospace,monospace;font-size:11.5px;
+position:sticky;top:0}
+tbody tr:hover{background:#1a1e27}
+.scroll{max-height:460px;overflow:auto;border:1px solid var(--line);border-radius:6px}
+footer{padding:36px 48px;border-top:1px solid var(--line);color:var(--dim);font-size:12px;line-height:2}
+footer b{color:var(--fg)}
+@media(max-width:700px){header,main,footer{padding-left:18px;padding-right:18px}
+h1{font-size:26px}}
+</style></head><body>
+<header>
+<div class="eyebrow">WITCH'S WEAPON / DEVELOPMENT RELICS</div>
+<h1>《魔女兵器》开发遗迹</h1>
+<div class="en">DEVELOPMENT RELICS · CUT CONTENT &amp; ARTIFACTS</div>
+<div class="meta">
+<b>内容</b>：未上线剧情 · 保留场景 · 官方废弃资源 · 怀旧服独有 · 配置表注释<br>
+<b>来源</b>：客户端解密 + 怀旧服 v128 对比
+</div></header>
+<main><section><h2 style="border-left:4px solid #d98cb3;padding-left:12px">未上线剧情</h2><div class="cnt">国服 lesson 目录止于 sentence_30318 · 以下 4 个来自怀旧服 v128</div>
+<div class="card"><div class="hd"><span class="nm">sentence_30319</span><span class="mt">349 行 · 12,308 字符</span></div><div class="tx">我的女儿娜莎今年7岁，最近她很喜欢拉着我和她一起玩拼图。</div></div>
+<div class="card"><div class="hd"><span class="nm">sentence_303190</span><span class="mt">349 行 · 50,587 字符</span></div><div class="tx">我的女儿娜莎今年7岁，最近她很喜欢拉着我和她一起玩拼图。</div></div>
+<div class="card"><div class="hd"><span class="nm">sentence_30320</span><span class="mt">341 行 · 11,081 字符</span></div><div class="tx">很多人都有信仰，并将其作为在动荡世界中建立自身秩序的锚点。</div></div>
+<div class="card"><div class="hd"><span class="nm">sentence_30321</span><span class="mt">196 行 · 5,952 字符</span></div><div class="tx">…………</div></div>
+</section>
+<section><h2 style="border-left:4px solid #8fc9a0;padding-left:12px">保留场景清单</h2><div class="cnt">preserved_stage_manifest.ab · 43 条</div><div class="chips">
+<span class="chip "># 《魔女兵器》怀旧服保留场景清单</span>
+<span class="chip "># 来源: config/preserved_stage_manifest.ab</span>
+<span class="chip ">## 战斗地图 (32)</span>
+<span class="chip ">scene/map_1000_overbridge.ab</span>
+<span class="chip ">scene/map_1001_mallsunset.ab</span>
+<span class="chip ">scene/map_1002_railwaybridge.ab</span>
+<span class="chip ">scene/map_1003_downtown.ab</span>
+<span class="chip ">scene/map_1004_metroplatform.ab</span>
+<span class="chip ">scene/map_1005_subwayinner.ab</span>
+<span class="chip ">scene/map_1006_traintracks.ab</span>
+<span class="chip ">scene/map_1007_parkgateway.ab</span>
+<span class="chip ">scene/map_1008_riverbank.ab</span>
+<span class="chip ">scene/map_1009_fountain.ab</span>
+<span class="chip ">scene/map_1010_classroomhallway.ab</span>
+<span class="chip ">scene/map_1011_classroombroken.ab</span>
+<span class="chip hi">scene/map_1012_playground.ab!</span>
+<span class="chip ">scene/map_1013_groofbroken.ab</span>
+<span class="chip ">scene/map_1014_blackmarket.ab</span>
+<span class="chip ">scene/map_1015_overpass.ab</span>
+<span class="chip ">scene/map_1016_factorycrossing.ab</span>
+<span class="chip ">scene/map_1017_factorylab.ab</span>
+<span class="chip ">scene/map_1018_factoryworkshop.ab</span>
+<span class="chip ">scene/map_1019_wharfroad.ab</span>
+<span class="chip ">scene/map_1020_basestation.ab</span>
+<span class="chip ">scene/map_1021_minefield01.ab</span>
+<span class="chip ">scene/map_1022_minefield02.ab</span>
+<span class="chip ">scene/map_1023_fighterhouse.ab</span>
+<span class="chip ">scene/map_1024_missile.ab</span>
+<span class="chip ">scene/map_1025_cityhall.ab</span>
+<span class="chip ">scene/map_1026_outlets.ab</span>
+<span class="chip test">scene/map_1026_outlets_4test.ab</span>
+<span class="chip ">scene/map_1027_spacewalk.ab</span>
+<span class="chip ">scene/map_1028_smelter.ab</span>
+<span class="chip ">scene/map_1029_hieron.ab</span>
+<span class="chip test">scene/map_9999_scene4runtest.ab</span>
+<span class="chip ">## 其他场景 (7)</span>
+<span class="chip ">scene/_documentflow.ab</span>
+<span class="chip ">scene/battlecommonaddictive.ab</span>
+<span class="chip ">scene/battleuiaddictive.ab</span>
+<span class="chip ">scene/loading.ab</span>
+<span class="chip ">scene/loadingassetbundle.ab</span>
+<span class="chip ">scene/loginfromal.ab</span>
+<span class="chip ">scene/mainrework.ab</span>
+</div></section>
+<section><h2 style="border-left:4px solid #c9a27f;padding-left:12px">官方废弃资源</h2><div class="cnt">sound.csv 中 <code>!NO_USE!</code> 前缀 · 14 条</div><div class="scroll">
+<table><thead><tr><th>ID</th><th>资源名</th><th>描述</th></tr></thead><tbody><tr><td>99120100354</td><td>UI_Barrier</td><td></td></tr><tr><td>99120100355</td><td>UI_Battle</td><td></td></tr><tr><td>99120100357</td><td>UI_Cancel_Char</td><td></td></tr><tr><td>99120100358</td><td>UI_Change</td><td></td></tr><tr><td>99120100361</td><td>UI_Cupdrop</td><td></td></tr><tr><td>99120100366</td><td>UI_Gift</td><td></td></tr><tr><td>99120100368</td><td>UI_Pack</td><td></td></tr><tr><td>99120100372</td><td>UI_Select</td><td></td></tr><tr><td>99120100373</td><td>UI_Select_Char</td><td></td></tr><tr><td>99120100376</td><td>UI_Summon</td><td></td></tr><tr><td>99120100377</td><td>UI_Summon_button</td><td></td></tr><tr><td>99120100384</td><td>UI_Weapon</td><td></td></tr><tr><td>99120100385</td><td>UI_Witch</td><td></td></tr><tr><td>99120100389</td><td>UI_Weapon_awaken</td><td></td></tr></tbody></table>
+</div></section>
+<section><h2 style="border-left:4px solid #6b7484;padding-left:12px">配置表注释行</h2><div class="cnt">dictionarystatic 中 <code>/*****</code> 分隔注释 · 29 条</div><div class="scroll">
+<table><thead><tr><th>tag</th><th>内容</th></tr></thead><tbody><tr><td>/**************公共**************/</td><td></td></tr><tr><td>/**************登录**************/</td><td></td></tr><tr><td>/**************主界面**************/（包含主界面能点开的次级面板）</td><td></td></tr><tr><td>/**************个人信息**************/</td><td></td></tr><tr><td>/**************Vip**************/</td><td></td></tr><tr><td>/**************邮件**************/</td><td></td></tr><tr><td>/**************成就任务**************/</td><td></td></tr><tr><td>/**************背包**************/</td><td></td></tr><tr><td>/**************商店**************/</td><td></td></tr><tr><td>/**************远征**************/</td><td></td></tr><tr><td>/**************抽卡**************/</td><td></td></tr><tr><td>/**************卡池公示**************/</td><td></td></tr><tr><td>/**************剧情**************/</td><td></td></tr><tr><td>/**************大活动**************/</td><td></td></tr><tr><td>/**************排行榜**************/</td><td></td></tr><tr><td>/**************公会**************/</td><td></td></tr><tr><td>/**************关卡**************/</td><td></td></tr><tr><td>/**************战斗**************/</td><td></td></tr><tr><td>/**************选人出战**************/</td><td></td></tr><tr><td>/**************武器素材副本**************/</td><td></td></tr><tr><td>/**************战斗中**************/</td><td></td></tr><tr><td>/**************战斗结算**************/</td><td></td></tr><tr><td>/**************魔女养成**************/</td><td></td></tr><tr><td>/**************符文**************/</td><td></td></tr><tr><td>/**************引导**************/</td><td></td></tr><tr><td>/**************运营**************/</td><td></td></tr><tr><td>/**************loading**************/</td><td></td></tr><tr><td>/**************圣诞追加**************/</td><td></td></tr><tr><td>/**************以下韩版不需要**************/</td><td></td></tr></tbody></table>
+</div></section></main>
+<footer>
+<b>《魔女兵器》开发遗迹</b><br>
+配置表解密：XOR 0xFF · 游戏开发：北京水琴铃（WaterBell）<br>
+国服已于 2024-08-17 停服 · 本档案仅供研究与保存用途。
+</footer></body></html>

@@ -1,0 +1,82 @@
+﻿1	爱衣	从训练的数据看，小怜的身体素质和普通的女高中生没什么区别。	從訓練的數據看，小憐的身體素質和普通的女高中生沒什麼差別。	訓練データの結果を見ていると、レンちゃんの\n身体能力は一般の女子高生と変わらないね。	훈련 데이터를 볼 때 렌의 신체 소실은 일반 여고생과 별 차이가 없어.	According to the training statistics, Ren's physical fitness is no different from the average teenage girls.	
+2	爱衣	唯一亮眼的是眼手配合能力，估计与她游戏账号上那串白金奖杯有关……	唯一亮眼的是眼手協調能力，我猜這跟她遊戲帳號上那串白金獎杯有關……	唯一、特筆すべきは目と手のシンクロ率……\n\n彼女のゲームアカウントで獲得されている\nプラチナトロフィー数との関連性が推測できる…	유일하게 뛰어난 건 눈과 손의 협응능력이야. 게임 계정을 보니 상을 많이 탔던데……	Except for eye-hand coordination. It might have something to do with the platinum trophies in her game accounts…	
+3	爱衣	安妮单独训练的时候好一些，可以达到同年龄竞技选手的水准。	安妮在單獨訓練的時候好一些，可以達到同年齡競技選手的水準。	アニーの単独訓練はレンちゃんより全然マシ。\n同年齢の競技選手レベルに達しているわ。	앤은 단독 훈련 성적이 좋아. 비슷한 나이의 운동 선수 수준이야.	Annie performs better when training alone. Almost as good as professional athletes of her age.	
+4	爱衣	但上次观测到她们俩再次一起消失在异变区域的时候就完全不同了。	但上次觀測到她們倆再次一起消失在異變區域的時候就完全不同了。	だけど前回、彼女達が再び異変区域に消えた\n状態と、現在の観測結果は全く異なっている。	하지만 지난 번 두 사람이 또 다시 이변구역으로 사라졌을 때는 완전히 달랐어. 	But what I detected the second time they disappeared in a flux area is totally different.	
+5	莉琉	哦？发现了什么有趣的？	哦？ 有什麼有趣的發現嗎？	ほお？　何か面白い発見でもしたか？	응? 뭔가 흥미로운 거라도 발견했어?	Huh? Anything Interesting?	
+6	爱衣	虽然普通人不一定能感觉到……	雖然普通人不一定能感覺到……	普通の人間には感じられないかもしれないけど…	일반 사람은 느낄 수 없긴 하지만……	People may not be able to feel it, but…	
+7	爱衣	但跟踪她们的无人机上『玻尔兹曼探针』的记录多次爆表，回收的时候已经坏掉了。	但跟蹤她們的無人機上所裝的「玻爾茲曼探針」記錄多次爆表，回收時都已經壞掉了。	彼女達を追跡したドローンの『ボルツマン探針』\nが、限界を超えた数値を何度も観測した挙句、\n回収時にはオーバーフローが起きて、\n壊れていたのよ。	추적 무인기의 『볼츠만 탐침』 기록이 여러 번 폭주했어. 회수했을 땐 이미 망가져 있었지.	The Boltzmann Probe on the tracking drone spiked off the charts a couple of times. It was already broken when salvaged.	
+8	莉琉	不可能，如果探针无异常的话…那样的话在场的人……\n不，恐怕大半条街道都会气化了。	不可能，如果探針狀況沒有異常的話…在場的人……\n不，恐怕大半條街道都氣化掉了。	そんな結果があり得てたまるか。\nもし探針での観測結果にミスがないのであれば、\nその場にいた人間は……いや、恐らく街の大半が\n高熱によって、気化しているだろう。	그럴 리가. 탐침에 이상이 없다면…\n현장에 있던 사람…\n아니，길에 있던 모두가 기화됐을 거야.	Impossible. If the probe was working well… then those in the flux area… \nI would say almost the whole area would have been vaporized.	
+9	莉琉	而且你把那么贵的玩意儿装在无人机上想做什么！	而且妳把那麼貴的玩意兒裝在無人機上到底想做什麼！	というか、あんな貴重品をドローンに装備させる\nとか何を考えているっ。	그리고 너，그렇게 비싼 장치를 무인기에 설치한 의도가 뭐야!	And were you out of your mind to attach such an expensive device on the drone?	
+10	N/A	莉琉卷起报表，精准的敲到了爱衣的头上\n爱衣发出一声短促的呻吟。	莉琉捲起報表，精準地敲到了愛衣的頭上，\n愛衣發出一聲短促的呻吟。	マリルが報告書を丸め、的確に愛衣の頭を叩く。\n愛衣は短いうめき声をあげた。	마리루가 서류를 말아 아이의 머리를 때리자\n아이가 짧은 신음을 낸다.	Mariru rolls up the document, and knocks on Aya's head\nAya lets out a quick groan.	
+11	爱衣	嘛……所以说不是热量，信息熵的暴增也可以达到这种效果啦。	嘛……就算不是熱量，資訊熵暴增也可以達到這種效果唷。	まぁ……熱量以外に、情報エントロピーの\n激増でも同じ効果を引き起こせるけどね。	……그러니까 열량이 아니라도 정보 엔트로피의 폭증 역시 이런 효과에 도달할 수 있다는 거로군.	Well… I'm not talking about thermal energy. Abrupt increases of information entropy can also lead to the same results.	
+12	爱衣	她们两个人，居然将概率不足万亿分之一的事件，以100%确定的形式表达了出来。	她們兩個人，居然將概率不到億萬分之一的事件，以100%確定發生的形式表達出來。	それにしたってこのエントロピーの莫大さ……\n2人は確率が1兆分の1にも満たない事例を、\n100％確定した形式で示したの。\nこれはすごい事だよ。	두 사람은 확률이 만분의 일도 안 되는 사건을 100% 확실한 형식으로 표현할 수 있어. 	The two girls have made this extremely unlikely event to happen with 100% certainty.	
+13	莉琉	既然安妮是魔女，那小怜……算是『异质物』所造就的容器么？	既然安妮是魔女，那小憐……算是「異質物」所造就的容器嗎？	アニーは魔女だ。レンは……\n\n『異質物』が創り出した器ってところか？	앤은 마녀라서 그렇다지만 렌은……『이물질』이 만든 용기? 	Annie is a witch, but then Ren… Is she a container created by Substance H?	
+14	莉琉	就像是小怜驱动了魔女和她们魔法一样……	就像是小憐驅動了魔女和魔法一樣……	まるでレンが魔女と、\n魔女達の魔法を動かしているかのようだ……	렌이 마녀와 마녀들의 마법을 가동하는 것처럼……	It's like Ren has enabled the witches and their magic power…	
+15	爱衣	就像是超级电池塞进了带震动电机的硅胶棒一样……	簡直就像是超級電池塞進了會震動的按摩棒一樣……	まるでスーパー電池を、\nバイブレーション・モーター付きのシリコン棒に\n詰め込んだかのようだ……	전동기기가 있는 실리콘 방망이에 뛰어난 건전지를 끼워넣는 것처럼……	Or, like a supercharged battery put in a vibrator…	
+16	N/A	指挥室传出一声巨响，爱衣的头上长出一个包。	指揮室傳出一聲巨響，愛衣的頭上長出一個包。	指令室から大きな音がすると、愛衣の頭に\n大きなタンコブができていた。	지휘실에 큰 소리가 울리고，아이의 머리 위에 혹이 생긴다.	A thud comes from the Command Room. A lump appears on Aya’s head.	
+17	莉琉	真为纳税人感到悲哀，他们缴那么多税金，怎么会培养出你这种人呢？	我真為納稅人感到悲哀，他們繳那麼多稅金，怎麼會培養出妳這種人呢？	私ですら納税者を哀れに思う日が来るとは……\n\nあんなにも多額の税金を払ってまでして、\n育てていたのがお前のような人間なんてな～～	납세자들이 참 불쌍하다. 그렇게 많은 세금을 내가지고 너 같은 사람을 배양해 내다니?	I feel so sorry for the taxpayers. Imagine how much tax money is wasted on weirdos like you.	
+18	爱衣	科学就是需要永远饥渴难耐的好奇心嘛~	科學就是需要這種永遠飢渴難耐、無法滿足的好奇心嘛～	科学には、常に飢えた好奇心が必要だもの～～	과학은 참을 수 없는 영원한 호기심을 필요로 하지~	Science is all about insatiable curiosity and lust, isn't it?	
+19	莉琉	……亏你好意思说出来。	……虧妳好意思說出來。	……よく言えたもんだ。	……뻔뻔스럽게 잘도 얘기하는구나.	… You really have no shame to say that.	
+20	爱衣	你不是也经常给我的战研部指定奇奇怪怪的研发目标嘛……	妳不也經常在我的戰研部指定些奇奇怪怪的研發目標嘛……	あなただって、いつも私の戦術研究部に性根が\nひん曲がったような変テコ研究開発目標を、\n指定してくるじゃない……	너도 우리 전투 연구부에 이상한 연구 타겟을 지정해주곤 하잖아…	Did I mention the bizarre research targets you set for my SRD?	
+21	爱衣	而且现在也一副在打坏主意的样子呢。\n说吧说吧，你想干什么？	而且妳現在正一臉打壞主意的樣子呢。 \n說吧說吧，妳想做什麼？	それに、今も悪巧みをしているようね。\n\nさあさあ、何がしたいか教えてみなさいな？	게다가 지금도 나쁜 마음을 먹은 얼굴을 하고 있는 걸\n말해 봐，뭘 하고 싶은 거야?	And your face tells me you're planning something foxy. \nTell me, what's in your mind?	
+22	N/A	爱衣发现了莉琉嘴角还没来得及收敛的微笑。	愛衣發現了莉琉嘴角還沒來得及收斂的微笑。	愛衣はマリルの口元の収まらない微笑みに、\n気付いていた。	아이는 마리루의 입꼬리에서 숨기지 못한 미소를 발견했다.	Aya noticed a smile on Mariru's face before it faded away.	
+23	莉琉	既然已经接受了一段时间的训练，是时候该看看小朋友们的成果了。	既然已經接受一段時間的訓練，是該驗收小朋友們的訓練成果了。	訓練を受けさせてから、ほどよく時間も経った。\nそろそろ、子供達の成果を見なくてはな。	훈련 시간이 짧긴 했지만，이제 꼬맹이들의 성과를 봐야할 때가 왔어. 	Since they have been trained for a while, it's time to see what they've learnt.	
+24	莉琉	（异质物，洛斯金杯，魔女，时空相位波动，都被她串联起来……）	（異質物、洛斯金杯、魔女、時空相位波動，都被她串聯起來了……）	（異質物、ロス・ゴールド、魔女、時空位相波動　全てが彼女達に直結する……）	（이물질，로우스 금잔，마녀，시공 상위 파동，모두 그녀와 연관되어 있어……）	(Substance H, the Ross Goblet, Witches, Spacetime Flux… All connected with Ren…)	
+25	莉琉	（只有她在场的时候，安妮才能进出异变区域）\n（那安妮消失的这七年……）	（只有她在場的時候，安妮才能進出異變區域，）\n（那安妮消失的這七年……）	（アニーは彼女と行動を共にしている時にだけ、　異変区域に出入りできる）\n（ではアニーが消えたこの七年間……）	（그녀가 있어야 앤이 변이구역에 들어갈 수 있어）\n（그렇다면 앤이 사라졌던 그 7년은…)	(Without her, Annie couldn’t get through a flux area.) \n(So, during the seven years when Annie disappeared…)	
+26	爱衣	这个表情……想让无知少女直面危险吗？	這個表情……妳打算讓無知少女直接面對危險嗎？	その表情……\nま～た無垢な少女を危険に晒すつもりね？	이 표정…… 아무것도 모르는 소녀를 위험에 빠트릴 생각이야?	You seem to be… planning to send the two innocent teenagers in danger?	
+27	莉琉	现阶段还没有收集到足够的信息，对于不可言说的事只能保持沉默。	現階段還沒有收集到足夠的資訊，對於不可言喻的事只能保持沉默。	現状では、まだ十分に情報を収集できていない。\nだから、\n『語り得ぬものについては、沈黙しなければ\n ならない』だな。	현 단계에서는 수집한 정보가 충분하지 않으니，말할 수 없는 일들은 침묵하는 수밖에.	Whereof one cannot speak, thereof one must be silent.	
+28	爱衣	哼~我还是比较喜欢维特根斯坦的另一句话。	哼~我還是比較喜歡維特根斯坦的另一句話。	ふむむ～～\n\n私はウィトゲンシュタインのもう1つの\n言葉の方が好きかな。	흥~난 역시 비트겐슈타인의 말이 좋아.	Humph. Ludwig Wittgenstein. I like another quote of his better.	
+29	莉琉	真正神秘的，不是世界为何存在……	真正神祕的，不是世界為何存在……	『神秘とは、世界がいかにあるかではなく……』	정말 신비로운 것은 세계가 왜 존재하느냐가 아니라…	It is not how things are in the world that is mystical…	
+30	莉琉	而是世界竟然存在。	而是世界竟然存在。	『世界があるというその事である』	세계가 존재한다는 것이다.	But that it exists.	
+31	莉琉	我当然会按照自己的原则做的。	我會按照自己的原則做的。	私も当然、自分の原則に従って行うからな。	난 나의 원칙에 따라 움직일 거야. 	I surely will stay true to my principles.	
+32	爱衣	我当然知道~	這點我當然知道～	もちろん知っているわよ～～	나도 알아~	No doubt about that.	
+33	N/A	我和安妮突然接到莉琉的命令，叫我们紧急返回公寓待命。	我和安妮突然接到莉琉的命令，叫我們緊急返回公寓待命。	俺とアニーは突然、マリルから\n「今すぐにアパートに戻って待機しろ」\nと命令を受けた。	나와 앤은 급히 아파트로 돌아가 대기하라는 마리루의 명령을 받았다. 	Annie and I suddenly receive an order from Mariru. We must return to our apartment immediately and stay on call.	
+34	小怜	是紧急任务吗？！	是緊急任務嗎？ ！	緊急任務かな！？	긴급 임무야?!	An urgent mission?!	
+35	莉琉	这个嘛……\n（盯——）	這個嘛……\n（盯——）	それは……\n（じーー）	그건……\n（빤히——）	I uh… \n(Staring—)	
+36	小怜	莉、莉琉小姐？	莉、莉琉小姐？	マ、マリル姉？	마，마리루?!	Ma… Mariru?	
+37	小怜	（怎么觉得今天莉琉的眼神有点奇怪……）	（怎麼覺得今天莉琉的眼神有點奇怪……）	（なんか今日はマリルの目つきがおかしい……）	（어째 오늘 마리루의 눈빛이 조금 이상하다……）	(I think I see a flash of hesitation in Mariru's eyes…)	
+38	莉琉	该说，一日不见，如隔三秋吗？\n你可是成长了不少啊——	該說是一日不見，如隔三秋嗎？ \n唷，妳可是成長了不少啊——	一日千秋、と言うべきか？\n随分と成長したな──	하루 못 봤더니 3년을 못 본 것 같다고 해야 하나?\n너희들 많이 컸구나——	So, time flies when we don't meet? \nYou are growing fast—	
+39	小怜	是啊……虽然生活上还是有一些地方不太习惯。	是啊……雖然生活上還是有一些地方不太習慣。	そうかな……\n生活上はまだ慣れないところがあるけど。	응……아직 적응 못 한 부분도 있긴 하지만.	Yeah… Though there are still things I'm not used to.	
+40	莉琉	哦？不习惯？	哦？ 不習慣？	ほお？　慣れない？	오? 적응을 못 해?	Really? For example?	
+41	小怜	比如说，战服的设计……\n也太令人害羞了吧？！	比如說，戰服的設計……\n那種裝扮也太令人害羞了吧？ ！	例えば、戦闘服のデザインとか……\n恥ずかし過ぎるんだよこれ！	예를 들면，전투복 디자인이라든가……\n너무 부끄럽잖아?!	Like the look of the Battle Suit… \nSuch a humiliation!	
+42	安妮	明明很帅气！	明明很帥氣！	カッコいいのにッ！？	멋있기만 한 걸!	It's obviously very cool!	
+43	莉琉	上衣的尺寸已经不合适了？\n需要重新测量一下嘛。	是上衣的尺寸不合適了嗎？ \n需要重新測量一下嗎？	上着のサイズがもう合わなくなったのか？\n是非とも、もう一度測り直す必要があるな。	상의 사이즈가 안 맞아서 그래?\n필요하면 사이즈를 다시 재보지，뭐	The top doesn't fit any more? \nWould you like a new measurement?	
+44	小怜	不、不是那个意思！	不！ 我才不是那個意思！	そっ、そういう意味じゃないっ！	그，그런 뜻이 아니야!	No, not that!	
+45	N/A	莉琉向我伸出双手，我识破她的意图，连忙躲避。	莉琉向我伸出雙手，我識破她的意圖，連忙躲避。	マリルが俺へと両手を伸ばす。\n\n彼女の意図を察して、慌てて避けた。	마리루가 내게 손을 뻗자，그녀의 의도를 알아차린 나는 황급히 숨었다.	Mariru reaches out to me. I realize her intent, and quickly dodge her.	
+46	小怜	呃——没有没有！\n很合适非常合适！	呃——沒有沒有！ \n很合適非常合適！	い、いやいやいやーーっ！\nサイズはピッタリですから──\n本当にピッタリですーーとても──っ！	윽——아니야！\n완전 딱 맞아! 	Uh—No, no! \nIt fits perfectly!	
+47	莉琉	嘁。	嘖。	ちっ。	흠.	Aww.	
+48	小怜	（你在可惜什么啊！）	（妳在可惜什麼啦！ ）	（何を残念がってるんだよ！）	（뭘 아쉬워하는 거야！）	(What are you feeling pity for!)	
+49	安妮	果然，小怜还在长身体啊……	果然，小憐的身體還在發育啊……	やっぱり、レンちゃんの身体は成長期なのね……	역시，렌은 아직 몸이 자라는구나……	Eep! Ren is still developing…	
+50	N/A	安妮露出羡慕又失落的表情。	安妮露出羨慕又失落的表情。	アニーは落ち込みつつ羨ましそうな表情を\n浮かべた。	앤이 부러움과 낙담이 섞인 표정을 짓는다.	Annie looks envious and sad.	
+51	小怜	安妮——！\n怎么连你也……	安妮——！ \n妳怎麼了……	アニー！\n君まで……	앤——！\n어떻게 너까지……	Annie—! \nHow could you be like her…	
+52	安妮	我也想和小怜一起长大啊~！\n——可惜，我的时间是静止的。	我也想和小憐一起長大！ \n——可惜，我的時間是靜止的。	私もレンちゃんと一緒に成長したいよ～～！\n\n──悲しいかな、私の時間は止まってるの。	나도 렌과 같이 자라고 싶어~！\n슬프게도 나의 시간은 멈췄지만 말이야.	I hope I could grow like you do! \n—Unfortunately, my time is at a standstill.	
+53	N/A	时间是静止的……和魔女有关吗？	時間是靜止的……和魔女有關嗎？	時間が止まっている……魔女と関係あるの？	시간이 멈춘 것은……마녀와 관련이 있을까?	Her time is at a standstill… Is it because she is a witch?	
+54	N/A	安妮开朗的表情里露出难以掩饰的哀伤，气氛一下子沉重了\n	安妮開朗的表情帶有難以掩飾的哀傷，氣氛一下子沉重了起來。 \n	アニーの明るい表情には、隠し切れない悲しみが滲み出ており、空気が急に重くなった。	앤의 밝은 표정 안에 숨길 수 없는 슬픔이 보인다. 분위기가 순간 가라앉는다.	Annie tries to look upbeat, but she can't hide the sorrow in her eyes. The air suddenly becomes heavy\n	
+55	小怜	……安妮	……安妮。	……アニー。	……앤	… Annie	
+56	安妮	所以，快让我感受一下——\n嘿啾！	所以，快讓我感受一下——\n嘿啾！	だから……成長を感じさせて──！\nてぇいっ！	그러니까 빨리 느끼게 해줘——	So, let me feel them—\nAha!	
+57	N/A	安妮从背后一把抱住了没有提防的我。	安妮從背後一把抱住了沒有提防的我。	アニーが背中から無警戒だった俺を抱きしめた。	앤이 등 뒤에서 무방비한 나를 껴안는다.	Annie unexpectedly hugs me from the back.	
+58	小怜	喂——！	喂——！	わぁぁぁーーッ！	어이——！	Hey—!	
+59	莉琉	……女儿长大了，真是不中留。	……女大不中留啊。	……娘がもう大人になって、\n嫁に行ってしまうとはな…、ほろろ。	……딸이 크면 시집을 보내야지.	… You’ve grown up, girl.	
+60	N/A	莉琉把头转向一边，偷偷擦拭眼泪。	莉琉把頭轉向一邊，偷偷擦拭眼淚。	マリルが顔を横に向け、涙をぬぐっている。	마리루가 고개를 한쪽으로 돌리고 \n몰래 눈물을 닦는다.	Mariru turns her head away, wiping her tears secretly.	
+61	小怜	真是的你们！什么跟什么啦！！	真是的，妳們！ 這是什麼跟什麼啦！ ！	ああ、もうお前らっ！　一体なんなんだよ！！	너희들! 뭐하는 거야！！	You! What nonsense!!	
+62	莉琉	咳咳──说正事！\n现在确实有个紧急任务要你们执行。	咳咳──說正事！ \n現在確實有個緊急任務需要妳們執行。	ごほん──そろそろ真面目に行こう。\n先ほどお前達に遂行してもらわなければならない\n緊急任務が発生した。	콜록. 본론을 말할게！\n너희들이 급히 해줘야 할 긴급 임무가 있어.	Ahem—Back to business! \nI do have an urgent mission for you right now.	
+63	莉琉	你们知道江森变电所吗？	妳們知道江森變電所嗎？	江森変電所を知っているか？	존슨 변전소 알아?	Have you heard of the Johnson Substation?	
+64	小怜	是东部海边的那间超大型变电站？	是東部海邊的那間超大型變電所？	東の海辺にある超大型な変電所の事？	동부 해변의 그 초대형 변전소? 	The super huge substation on the East coast?	
+65	N/A	（那边是六座学园都市在埃癸斯范围内划定出的共管区域，战后和谈就是在那里进行的。）	（那邊是六座學園都市在埃癸斯範圍內劃定出的共管區域，戰後和談就是在那裡進行的。 ）	（あそこは6つの学園都市が、イージスの範囲内\n　に画定させた共同管理区域だ）\n（戦後の講和もあそこで行われてたっけ）	（그곳은 6대 학원도시가 아이기스 범위 내에서 나눈 공동 관할구역이다.전쟁 후 평화회담도 거기서 진행됐다.）	(It's a co-administered area by the six Academy Cities within the protective field of Aegis. Post-war peace talks were held there.)	
+66	莉琉	没错，刚才接到十几个中继站点的警告，东北部地区出现了强烈的电涌。	沒錯，剛才接到了十幾個中繼點的警告，東北部地區出現了強烈的突波。	そうだ、先ほど多数の中継所から警告があり、\n北東地域では強烈なサージ電流が発生した。	맞아. 방금 십여 개 중계소의 경고를 받았어. 동북부 지역에 강렬한 전기 파도가 일어났대. 	Exactly. We've just got alarms from a dozen relay stations showing strong surges that occurred in the northeast.	
+67	莉琉	卫星检测到了时空波动状况，锁定的位置就在江森变电所。	衛星偵測到了時空波動狀況，鎖定位置就在江森變電所。	そして、衛星が時空波動を検出。\n\nポインティングされた場所が江森変電所、\nと言うわけだ。	위성이 시공 파동 상황을 검측했는데，그 위치가 바로 존슨 변전소야. 	And our satellite has detected a Spacetime Flux in the Substation.	
+68	小怜	时空波动？！难道……	時空波動？ ！難道……	時空波動！？　まさか……	시공 파동?! 설마…	Spacetime Flux? Could it be…	
+69	莉琉	如果数据无误，那么很有可能和你们两个人之前出现的情况一样。	如果數據無誤，就很有可能和妳們兩個人之前的情況一樣。	データに間違いがなければ、お前達2人が以前、\n私の前に現れた状況と酷似している。	데이터가 틀리지 않다면 너희 두 사람이 나타났을 때와 상황이 똑같아. 	If the data is correct, the situation would be the same as those you went through before.	
+70	莉琉	按说你们还不到出外勤的资格……	照理說，妳們還不符合出外勤的資格……	本来であればお前達に、まだ出撃する資格はない	너희들은 아직 외근 임무를 나갈 자격이 없지만…	You are not qualified as field agents yet…	
+71	莉琉	但是那里地处『协约非武装区』，虽然在新丰洲范围内但SID也没有行动权限。	但那裡是「協議非武裝區」，即使是在新豐洲範圍內，SID也沒有行動權限。	だが、あの場所は『協定非武装地域』であり、\n新豊洲の管轄内ではあるが、\nSIDに行動の自由は許されていない。	그곳은 『비무장 협약 지역』이라，신토요스 범위 안이라도 SID는 행동 권한이 없어. 	But the Substation is within the "Agreed Demilitarized Zone”, which means, SID has no authority to conduct operations there even though it's in New Opulentia.	
+72	莉琉	算是为“世界和平”而做出的小小让步吧。	算是為「世界和平」而做出的小小讓步吧。	「世界平和」のための譲歩ってやつだ。	“세계 평화”를 위해 내딛은 작은 발걸음이라고 해두지.	It can be seen as a minor compromise for "world peace."	
+73	莉琉	所以，现在需要你们先行前往变电所侦查，SID的行动小组会在外围待命。	所以，現在需要妳們先前往變電所偵查，SID的行動小組會在外圍待命。	というわけで、今回は特別な手段で\n変電所の偵察を行う必要がある。\nSIDの実働チームは周辺にて待機。	그러니까 너희들이 변전소를 조사해줘. SID 행동부대가 외부에서 대기하고 있을 거야. 	So, I need you to go ahead to scout out the Substation. SID teams will stand by at the perimeter.	
+74	莉琉	我会去联合议会，尽快申请正式许可。	我會去聯合議會，盡快申請到正式許可。	私は連合議会に行き、できるだけ早く\n正式な許可を申請する。	나는 연합회의에 가서 최대한 빨리 정식 허가를 신청할게. 	I'll get the approval of the United Congress asap.	
+75	小怜	我们要擅闯学园都市联盟的领地吗？\n会不会不太好啊。	呃，所以我們要擅闖學園都市聯盟的領地嗎？ \n這樣會不會不太好啊。	学園都市連盟の領地に勝手に侵入するって事？\nそれってかなり不味いんじゃ……	우리가 학원도시 연맹의 영지에 난입해야 한다고?\n괜찮은 거야?	You mean, we'll trespass on the jurisdiction of the Academy City Alliance? \nIs it really OK?	
+76	莉琉	哦？看来有人宁可让使馆区陷入大停电，也不想走一次捷径嘛。	哦？ 看來有人寧可讓使館區陷入全面停電的狀況，也不想走一次捷徑……	ほお～？　どうやら大使館区域が大停電に陥る\n可能性があると言うのに、\n全く動きたくない奴がいるようだな。	응? 지름길을 내버려두고 대사관 구역을 정전시키길 원해?	Uh-huh! Looks like someone would rather see a blackout in the embassy area than take a shortcut.	
+77	莉琉	要是出了什么乱子，那群本来就互相看不顺眼的笨蛋说不定又会打起来哦。\n要是因为这件事开战的话……	要是出了什麼亂子，那群本來就互相看不順眼的笨蛋說不定又會打起來哦。 \n要是因為這件事開戰的話……	もし何かあったら、互いに反目しあっている\nおバカさん達がまた派手に喧嘩しちゃうかもな～\nこの一件で戦争とかが始まっちゃうんだろうな～	소란이 생긴다면 서로를 못마땅해 하는 그 바보들이 다시 싸움을 일으킬지도 몰라.\n이 사건으로 전쟁이 난다면…	If trouble comes, those idiots who hate each other may just clash. \nIf the situation deteriorates into a war…	
+78	小怜	好啦我知道……	好啦，我知道了，我去就是了！	はいはい…分かりましたよ……	알았어…	Alright, alright. Whatever you say…	
+79	莉琉	而且你们两个女高中生，万一被保安军抓到，说不定卖个萌就混过去了。	而且妳們兩個女高中生，萬一被保安警察抓到，說不定賣個萌就混過去了。	それにだ、女子高生2人ってことは。\n\n万が一保安軍に捕まっても、可愛い子ぶっとけば\n誤魔化せるかもしれないだろう！	너희는 여고생들이니，만일 보안군에게 잡힌다 해도 애교로 빠져나올 수 있을지도 모르잖아.	And you are just teenagers. Even if you're caught by security soldiers, you may get away by playing cute.	
+80	小怜	能混过去才有鬼了哎！！	要是這麼簡單就可以混過去才有鬼……	それで誤魔化せたら逆にすごいわ！！	빠져나오긴 개뿔！！	Yeah, when pigs fly!	
+81	莉琉	总之，这是我的命令\n直升机就在楼顶，准备好就出发吧～	總之，這是我的命令。 \n直升機就在樓頂，妳們準備好就出發吧～	とにかく、これは「私から」の命令な？\n\n屋上にヘリを用意した、準備が出来次第出発だ。	어쨌든，이건 명령이야.\n헬리콥터가 옥상에 있으니，준비되면 바로 출발해~ 	Anyway, this is an order. \nThe helicopter is waiting on the roof. Get ready and off you go!	
+82	小怜	真是独裁……	真是獨裁……	なんて、独裁者だ……	정말 독재자라니까……	What a dictator…	

@@ -1,0 +1,4 @@
+﻿1	引导精灵	似乎是解锁了一个新的[ff9c00]关卡类型[-]呢，要不要去看看？	好像解鎖了一個新的[ff9c00]關卡類型[-]呢，要不要去看看？	新しい[ff9c00]ステージタイプ[-]が開放\nされたみたいね。\nちょっと行ってみる？	새로운 [ff9c00]스테이지 유형[-]을 해제한 것 같으니 확인해보지 않을래?	A new [ff9c00]game mode[-] has been unlocked. Do you want to check it out?	
+2	FocusTrigger	
+3	FocusTrigger	
+4	引导精灵	[ff9c00]武道场[-]如果挑战成功的话，可以获得大量的[ff9c00]硬币和经验[-]！！！！	[ff9c00]武道場[-]如果挑戰成功的話，可以獲得大量的[ff9c00]硬幣和經驗[-]！！！！	[ff9c00]武道場[-]への挑戦が成功したら、大量の[ff9c00]コインと経験値[-]を獲得　できちゃうよ！！！！	[ff9c00]무도장[-] 도전을 성공하면 대량의 [ff9c00]코인과 경험치[-]를 획득할 수 있어！！！！	Successful challenges inside the [ff9c00]Dojo[-] will earn tons of [ff9c00]Gold and EXP[-]!	

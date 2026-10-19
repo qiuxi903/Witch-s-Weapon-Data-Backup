@@ -1,0 +1,44 @@
+﻿1	N/A	被晒到喘不过气的夏日午后，我把一大摞文件撂到中庭的圆桌边，自己也瘫坐到树荫下的椅子上。	被曬到快窒息的夏日午後，我把一大疊文件放到中庭的圓桌邊，自己也癱坐到樹蔭下的椅子上。	息苦しく暑い夏日の昼下がり。\n俺は中庭の丸いテーブル付近で、\n大量に積み重ねた書類を置き、木陰の椅子に\nグッタリと座った。	무더운 여름 오후，한가득 쌓인 문서를 정원의 원탁에 내려놓고 나무 그림자 밑 의자에 주저앉았다.	It is a scorching summer afternoon. I plunk a pile of papers next to the round table in the courtyard, and sink into a chair in the shade under the trees.	
+2	N/A	看到一个漂亮的学姐很辛苦的抱着这摞东西，情不自禁的就冲上去包揽了……	看到一個漂亮的學姐很辛苦地抱著這疊東西，我就忍不住衝上去幫忙了……	綺麗な先輩が山のようなコレを大変そうに抱えていたので、思わず手伝いを申し出てしまった……	예쁜 선배가 힘겹게 물건을 들고 가는 걸 본 나는 참지 못하고 달려갔으나……	A while ago, I saw this pretty girl grappling with her pile of books. I didn’t think twice and gave her a hand.	
+3	N/A	看着学姐一脸感激的消失在我的视野中，我才意识到自己是个笨蛋。	看著學姐一臉感激地消失在我的視野中，我才意識到自己是個笨蛋。	感激しつつも俺の視界からすぐ消え去った先輩を見て、自分がバカだったという事に気付いた。	고마워하는 선배가 시야에서 사라지자마자 자신이 바보 같다는 걸 느꼈다.	Then she just hurried away, albeit thankfully. That’s when I realized I am an idiot.	
+4	小怜	呼，总算可以休息了，热死了。	呼，總算可以休息了，熱死了。	ふー、やっと休める……暑い…死ぬ……	후，드디어 쉴 수 있겠어. 더워죽겠네.	Phew... Let me take a break here... It’s so hot.	
+5	N/A	唉…原来的身体拿这些根本是小菜一碟啊	唉…要是用原來的身體拿這些東西根本就是小菜一碟啊。	はぁ……\n\n元の身体ならコレぐらい持つなんて、\n朝飯前だったんだけどなぁ……	휴…예전 몸이라면 이런 걸 드는 것 쯤은 식은 죽 먹기일 텐데.	Alas, it was a piece of cake to me when I was a boy.	
+6	小怜	而且接下来还有SID的训练……好想找个地方藏起来。	而且接下來還有SID的訓練……啊啊！ 好想找個地方躲起來。	ここからまだSIDの訓練もあるなんて……\nくそーどっかに隠れたい……	아직 SID 훈련도 남아있어……숨어버리고 싶다.	And then there’s this SID training coming up... Gosh, can I hide somewhere?	
+7	安妮	小怜，那个……\n这里可是学校哦？	小憐，那個……\n這裡可是學校哦。	レ、レンちゃん……あの……\nここは……学校だよ？	렌，저기……\n여긴 학교잖아?	Ren, watch your manner... \nThis is a school.	
+8	小怜	是安妮啊~\n怎么了？	是安妮啊～\n我知道這裡是學校啊，怎麼了？	やあ、アニー。\nどうしたの？	앤이구나~\n왜 그래?	Hey, Annie! \nWhat’s up?	
+9	安妮	虽然我能够理解你很热\n但直接撩起衣摆擦汗……好像不太好吧？	雖然我知道妳很熱，\n但是直接撩起衣襬擦汗……好像不太好吧？	暑いのはわかるけど。\n服の裾をまくり上げて汗を拭くのは……\n……あんまり良くないと思うの。	네가 많이 더운 건 알겠는데\n옷을 들어서 땀을 닦으면…좋지 않을 것 같아.	Listen... I know it’s hot. \nBut... is it really necessary to lift up your shirt to wipe sweat off?	
+10	安妮	就是……会走光啦。	就是……會走光啦。	その……丸見え。	속살이 보이잖아..	I mean… Be careful of a wardrobe malfunction…	
+11	小怜	糟糕！	糟糕！	やばい！	이런!	Damn!	
+12	N/A@同学A	那个叫小怜的转学生也太粗鲁了……	那個叫小憐的轉學生也太沒氣質了……	あのレンっていう転校生……\n粗野と言えば良いのでしょうか……	저 렌이라는 전학생 너무 거칠지 않아?……	That Ren girl is so rude...	
+13	N/A@同学B	是呀，我那天还看到她穿着裙子张开腿坐呢！	是呀，我那天還看到她穿著裙子張開腿坐呢！	そうよね～\n前にも彼女が脚を開いて座っているのを見たわ。	그러게，치마를 입고 다리를 벌리고 앉는 걸 봤다니까! 	Yeah, I saw her spreading her legs the other day, wearing a skirt.	
+14	N/A@同学A	真的吗？这样子不好吧……	真的嗎？ 這樣子不好吧……	まあ本当に？　なんてはしたない……	정말？그러면 안 되는데……	Really? Yuck…	
+15	小怜	……\n（因为我本来就不应该穿裙子啊！）	……\n（因為我本來就不應該穿裙子啊！ ）	…………………………………………\n\n（そもそも俺が、スカートを穿いてる事自体が\n　間違いなんだから、仕方ないだろ！）	…\n（그거야 원래 난 치마를 입으면 안 되는 사람이니까!）	... \n(I shouldn't have worn skirts in the first place, okay?)	
+16	N/A	那个……	那個……	あの……	저기……	Hey…	
+17	N/A	一个温柔的声音传来。	一個溫柔的聲音傳來。	物腰の柔らかい声が聞こえた。	다정한 목소리가 들린다.	What a gentle voice.	
+18	气质优雅的少女	你好，不介意的话，请用这张手帕吧。	妳好，不介意的話，請用這條手帕吧。	ごきげんよう。\nよろしければ、このハンカチをお使い下さい。	안녕，괜찮다면 이 손수건을 써. 	Use my handkerchief if you don’t mind.	
+19	N/A	出现在眼前的，是一名漂亮而优雅的女生。\n柔顺的紫色长发，紫丁香一般温柔的双眸。	出現在眼前的，是一名漂亮優雅的女生。 \n柔順的紫色長髮，紫丁香一般溫柔的雙眸。	目の前に現れたのは、優雅な雰囲気を纏った\n素敵な女性。\nしなやかな紫色の長髪に、\nライラックのような優しい瞳をしている。	눈 앞에 나타난 사람은 예쁘고 우아한 여학생이다. \n\n찰랑이는 보라색 머리카락，라일락처럼 다정한 눈동자를 가졌다.	In front of me is a beautiful and elegant girl. \nShe has long, silky, purple hair and lilac eyes.	
+20	N/A	她向我递出了一张手帕，上面还带着优雅而清新的香味。	她向我遞出了一條手帕，上面還帶著優雅清新的香味。	彼女が俺に差し出したハンカチ、\nそれはすごくファビュラスな香りがした。	그녀가 내게 손수건을 건네준다. 손수건에서 우아하고 상쾌한 향기가 난다.	She hands me a handkerchief with an exquisite and fresh fragrance.	
+21	小怜	哎？！\n谢、谢谢。	哎？ ！\n謝、謝謝。	えっ？！\nあ、ありがとうございますっ。	앗？！\n고，고마워요.	Eh?! \nThank… Thank you.	
+22	倪克斯	你们就是一年级的转校生吧？\n我叫倪克斯·斯特罗齐，是你们的学姐。	妳們就是一年級的轉校生吧？ \n我叫倪克斯·斯特羅齊，是妳們的學姐。	あなた達は1年の新しい転校生ですよね？\n私はニュクス・ストラッツィです。\nあなた達の、先輩になるのかしら？	1학년 전학생들이지？\n난 닉스 스트로치，너희들 선배야.	You are the first-year transfer students, right? \nMy name is Nix Strozzi. I’m your senior.	
+23	倪克斯	看到你似乎很热的样子，而我刚好我随身带了手帕\n希望没有打扰到你们。	我剛剛看到妳好像很熱的樣子，剛好我隨身帶了手帕，\n希望沒有打擾到妳們。	あなたが暑そうにしているのを見まして、\n手元にハンカチがありましたから……\nお邪魔でなければ、良いのですが。	너무 더워 보이길래… 마침 손수건도 가지고 있고. 내가 방해한 건 아닌지 모르겠어.	I saw you sweating, and I happen to have my handkerchief with me, so... \nI hope I’m not interrupting.	
+24	N/A	倪克斯礼貌地点了点头，我不知所措地站起来，笨手笨脚的行了个礼。	倪克斯禮貌地點了點頭，我不知所措地站起來，笨手笨腳地行了個禮。	ニュクスが礼儀正しく頷いた。俺も戸惑いながら\n立ち上がった後、不器用に会釈を返した。	닉스가 예의있게 고개를 끄덕이자 나도 모르게 일어나 바보처럼 인사했다. 	Nix nods to me politely, but I freak out. I stand up and salute in a pretty dumb way.	
+25	小怜	不、不会的！\n完全没有，真是帮了大忙啦！	不、不會的！ \n完全沒有，謝謝妳，這條手帕真是幫了大忙啦！	い、いいえっ！\nとんでもない、助かりましたっ！	아，아니에요！\n그럴 리가요! 정말 고맙습니다!	No... not at all! \nIt’s a great help!	
+26	小怜	（好温柔的学姐啊。）\n（她是外国人吧，睫毛好长…）	（好溫柔的學姐啊。 ）\n（她是外國人吧，睫毛好長……）	（優しい先輩だな…）\n（外国の人かな、まつ毛が長い……）	（다정한 선배다.）\n（외국인이겠지? 속눈썹이 정말 길어…）	(She seems very amiable.) \n(Is she a foreigner? Look at those long eyelashes...)	
+27	N/A	看着倪克斯精致的面孔，感觉心跳有些加快。	看著倪克斯精緻的臉孔，感覺心跳有些加快。	ニュクスの端整な顔立ちを見ていると、\nなんだか少しドキドキする。	닉스의 섬세한 얼굴을 쳐다보고 있자니 심장이 더 빨리 뛴다.	I look at Nix’s delicate face, my heart racing.	
+28	倪克斯	不用这么客气。\n那么…请问你的名字是……	不用這麼客氣。 \n那麼…請問妳的名字是……	そんな遠慮をなさらなくてもいいですよ。\nあなたのお名前は……？	그렇게 예의 차릴 필요 없어.\n저기…네 이름은 뭐니……?	My pleasure. \nSo... your name is...	
+29	小怜	我叫小怜，她是安妮。\n我们都是最近才转学过来的。	我叫小憐，她是安妮。 \n我們都是最近才轉學過來的。	俺はレン、彼女はアニーです。\n俺達は最近ここに転校してきたばかりで……	저는 렌，이 친구는 앤이에요.\n최근에 전학왔어요. 	I’m Ren. She’s Annie. \nWe just transferred here lately.	
+30	倪克斯	……安妮？	……安妮？	……アニー？	…앤?	… Annie?	
+31	N/A	倪克斯的表情变得有些古怪，凝视着安妮的脸。	倪克斯的表情變得有些古怪，還盯著安妮的臉看。	ニュクス先輩が少し妙な表情で、\nアニーを見つめている。	닉스가 표정을 찌푸리며 앤의 얼굴을 응시한다.	Nix seems confused and stares at Annie, albeit briefly.	
+32	N/A	但她很快朝安妮友好地微笑了一下，仿佛刚才只是我的错觉。	但她很快朝安妮友好地微笑了一下，彷彿剛才只是我的錯覺。	……と思ったけど、錯覚だったようだ。\n\n見変えれば彼女は、アニーへ友好的に\n微笑んでいるだけだった。	하지만，마치 착각이였던 것처럼 그녀가 재빨리 앤을 향해 미소를 짓는다.	Then she smiles at Annie in a friendly way. I wonder if it was only my illusion just now.	
+33	倪克斯	很高兴认识你们。	很高興認識妳們。	お知り合いになれて嬉しいわ。	만나서 반가웠어.	Glad to meet you today.	
+34	倪克斯	我还有事需要先走了，以后如果有什么需要，你们可以来找我。	我還有事得先走了，如果以後有什麼需要，妳們都可以來找我。	私はこれから少し用事がありまして、\n本日はゆっくりとお話できませんが。\nもし今後何かお困り事があれば、\n私のところに是非、来て下さいね。	난 먼저 가볼게.\n내 도움이 필요하면 언제든지 찾아와. 	But I need to go now. Let me know if there’s anything I can do to help.	
+35	小怜	谢谢学姐！	謝謝學姐！	ありがとう先輩！	고맙습니다，선배!	Thanks, Nix!	
+36	安妮	……	……	…………	……	…	
+37	N/A	安妮没有回应，有些犹豫。	安妮沒有回應，有些猶豫。	アニーは返事をせずに、何か少し躊躇っている。	앤이 대답하지 않고 머뭇거린다.	Annie hesitates without any response.	
+38	小怜	这位学姐……比其他的大小姐气质都要优雅啊。	這位學姐……比其他大小姐的氣質都還要優雅啊。	今の先輩……この学校で出会ったお嬢様達の\n中でも特別上品だったな。	저 선배……다른 선배들보다 훨씬 우아해.	This girl, Nix... she looks much classier than any of these silver-spoon girls.	
+39	小怜	安妮，你怎么了？\n从刚才起就一直不说话。	咦？ 安妮，妳怎麼了？ \n從剛才起就一直不說話。	アニーどうしたの？\nさっきから黙っちゃって。	앤，왜 그래？\n아까부터 아무 말도 하지 않고.	Annie, are you okay? \nYou have been quiet.	
+40	安妮	刚才那个学姐说，她叫斯特罗齐？	剛才那個學姐說，她叫斯特羅齊？	さっきの先輩、\n名前がストラッツィって言ったよね？	방금 그 선배，스트로치라고 했지?	Did she say she’s a Strozzi?	
+41	小怜	是啊，你认识她吗？	是啊，妳認識她嗎？	そう言ってたね。知り合い？	응. 아는 사람이야?	Uh-huh, you know her?	
+42	N/A	安妮勾住我的胳膊，露出了率性的笑容。	安妮勾住我的胳膊，露出了率性的笑容。	アニーは俺の腕を引いて、真っ直ぐな笑顔を\n浮かべた。	앤이 내게 팔짱을 끼고 밝게 웃는다.	Annie takes my arm and gives me an innocent smile.	
+43	安妮	哎？没有啦~\n我跟你都是刚转学来的，怎么会认识嘛。	怎麼可能認識！ \n我跟妳都是剛轉學來的耶。	え？　全然そんな事はないよ～？\n\nあなたと一緒で転校してきたばっかりなのに、\nどうやって知り合うのよ～～	응？아니야~\n방금 전학 왔는데，어떻게 알겠어.	Nah. \nWe're new here. How could I know her?	
+44	小怜	说得也是呢。	說得也是呢。	それもそっか。	그건 그렇지.	Yeah, you're right.	

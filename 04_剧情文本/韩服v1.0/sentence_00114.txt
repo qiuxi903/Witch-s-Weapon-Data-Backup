@@ -1,0 +1,7 @@
+﻿1	引导精灵	收集特定的『魔导器』，可以提升魔女的能力[ff9c00]星级[-]。	收集特定的「魔導器」可提升魔女的能力[ff9c00]星級[-]。	特定の『魔導器』は魔女の\n[ff9c00]星レベル[-]を上げる事ができるよ。	특정 『마도기』를 수집하면 마녀의 능력 [ff9c00]티어[-]를 향상할 수 있어.	Collect the required Catalyst to increase the corresponding Witch's [ff9c00]Star Level[-].	
+2	FocusTrigger	提升魔女	提升魔女	魔女を強化	마녀 향상	Upgrade Witches	
+3	FocusTrigger	选择魔女	選擇魔女	魔女を選択	마녀 선택	Select Witch	
+4	FocusTrigger	
+5	FocusTrigger	
+6	FocusTrigger	确认选择	確認選擇	確認する	확인	Confirm	
+7	引导精灵	感觉变强了呢！	感覺變強了呢！	強くなったのを感じるね！	더 강해진 것 같아!	Feeling powerful!	

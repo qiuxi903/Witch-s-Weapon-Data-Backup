@@ -1,0 +1,69 @@
+﻿1	N/A	莉琉走近盯着荧幕的爱衣，俯身看向桌面的显示屏上不断刷新的数据。	莉琉走近盯著螢幕的愛衣，俯身看著螢幕中不斷更新的數據。	マリルはスクリーンを見つめる愛衣に近付く。\n\n身を屈めてスクリーンを覗くと、\nデータがひたすら更新され続けている。	마리루가 스크린을 보고 있는 아이에게 다가가 계속해서 갱신되는 데이터를 쳐다본다.	Mariru walks up to Aya and bends over to read the refreshing data on the screen.	
+2	莉琉	这就是贝阿特丽切的检查报告吗？	這就是貝阿特麗切的檢查報告嗎？	これがベアトリーチェの検査報告か？	이게 베아트리체의 검사 결과야?	Beatrice's medical report?	
+3	爱衣	哈──很棒的样本！	是啊，哈哈──這真的是完美的樣本！	はぁぁぁん――なんと素敵なサンプルッ！	하하──훌륭한 샘플이야！	Uh-huh—A perfect sample!	
+4	爱衣	而且如果结合历史文献推演的话，就更有趣了。	如果再結合歷史文獻推演，就更有趣了唷～	しかも歴史文献と照合して割り出せば、\nもっとファンタスティックになるよこれッ。	역사 문헌의 추론을 결합한다면 더 흥미로워질 것 같아.	And it would be much more interesting if we could compare it with historical records.	
+5	莉琉	目前掌握的所有数据库都没有她的资料，但是战时数据库确实存在断层。	目前所有資料庫裡都沒有她的資料，但是戰時的資料庫確實存在斷層。	私達のデータベースでは彼女の情報を\n一切発見できなかった。\nまあ、戦時に欠落した空白部分が存在するし、\nそれらは証拠足り得ないだろう。	현재 파악된 모든 데이터 베이스에 그녀의 자료가 없어. 하지만 전시 데이터 베이스에 단층이 존재해.	But none of our databases contains any of her information. It might be due to the data gap caused by the war.	
+6	莉琉	不过根据她的口述记录和你报告的资料看来……	不過，根據她的口述記錄和妳報告的資料看來……	だが彼女の口述と、\nお前が報告してくれたデータによれば……	하지만 그녀의 설명과 네 보고서의 자료에 따르면…	Nevertheless, according to her statements and your report…	
+7	N/A	莉琉在屏幕中调出贝阿特丽切的档案。	莉琉在螢幕中調出貝阿特麗切的檔案。	マリルはスクリーン上にベアトリーチェの\nプロファイルを表示させた。	마리루가 스크린에 베아트리체의 파일을 띄운다.	Mariru pulls up Beatrice's profile on the screen.	
+8	爱衣	二十四岁……\n真是充满了活力的年龄呢~	才二十四歲啊……\n真是充滿活力的年齡呢～	24歳かぁ……\n色々なものが溢れ出す年齢だね～～	24세……\n활력이 넘치는 나이군~	24 years old… \nWhat a prime age!	
+9	N/A	莉琉和爱衣对视一眼，确认对方也注意到了相同的地方，二人视线又落回到屏幕。	莉琉和愛衣對看一眼，互相確認對方也注意到了同個重點，二人的視線又同時轉回螢幕。	マリルと愛衣は顔を見合わせた。\n\nお互いの着目点が同じである事を確認してから、\n2人の目線は再度スクリーンに戻った。	마리루와 아이가 같은 부분을 캐치했는지 눈을 맞췄다가 다시 스크린으로 시선을 돌린다.	Mariru and Aya exchange a look, knowing that they've noticed the same thing. Then, they turn back to the screen.	
+10	莉琉	这是发现她的当晚检测的结果？	這是發現她的當晚所檢測的結果？	これが彼女を発見した夜、実施した検査結果か？	이게 그녀를 발견한 그날 저녁에 검측한 결과야?	This is her testing result on the night she emerged?	
+11	爱衣	体内放射性元素几乎为零，不过血液中重金属的含量略高。	那可不？ 體內放射性元素幾乎為零，不過血液中重金屬的含量略高。	体内の放射性元素は限りなくゼロに近いけど、\n血液中の重金属の含有量は若干高いかな。	체내 방사성 원소가 거의 0이야. 하지만 혈액 내 중금속 합량은 조금 높아.	Virtually zero radioactive elements found in her body. Although the levels of heavy metal are relatively high in her blood samples.	
+12	爱衣	可能是由于当年的饮食器皿或者中世纪的原始化妆品……	可能是因為當年的飲食器皿或中世紀的原始化妝品……	おそらく原因は当時に使用されていた食器、\nまたは中世の原始的な化粧品……	당시 그릇이나 중세의 화장품 때문인 것 같아…	It might have something to do with the utensils or crude cosmetics in the Middle Ages…	
+13	莉琉	看来你已经有先入为主的判断了？	看來妳已經有先入為主的判斷了？	先入観に囚われた判断をしているよう思えるが？	넌 이미 선입견에 사로잡힌 판단을 한 것 같은데?	So you've got a conclusion already?	
+14	爱衣	毕竟在她的自述文件中——	唉啊，別這麼說～畢竟在她的自述文件中——	なにしろ、彼女の情報をまとめた中に──	그녀의 자술서 파일에 적혀있는 내용이야——	After all, according to the records of her statements—	
+15	N/A	爱衣划过面前荧幕中的一条记录。	愛衣伸出手指，劃過面前螢幕上某條記錄。	愛衣はスクリーン上の1つのファイルを\nスワイプして表示した。	아이가 스크린의 기록을 스크롤한다.	Aya traces her finger over a line of text on the screen.	
+16	N/A	“GMT+9 13:09:11 目标自称生于公元1265年。”	「GMT+9 13:09:11 目標自稱生於西元1265年。 」	『GMT+9 13:09:11』\n『 目標は西暦1265年生まれと自称する』	“GMT+9 13:09:11 타겟이 서기 1265년에 출생했다고 자술하다.”	GMT+9 13:09:11  Target claims 1265 AD as year of birth.	
+17	爱衣	——我还是第一次见到，来自过去的活体样本呢。	——我還是第一次見到來自過去的活體樣本呢。	──過去から来た生体サンプルを見るのは、\n私も初めてだからね。	——나도 과거에서 온 살아있는 샘플은 처음 봐.	—This is the first time I see a living sample from ancient times.	
+18	莉琉	有没有可能是和安妮一样的情况？	有沒有可能和安妮是一樣的情況？	アニーと同じ状況の可能性は？	앤과 같은 상황일까?	Could it be the same case with Annie?	
+19	爱衣	不一样哦~\n贝阿特丽切在自述中十分确定自己的死亡。	完完全全不可能哦～\n貝阿特麗切在自述中十分確定自己的死亡。	それはないかな～～\n\n彼女の話を聞く限り、彼女は自らの死に\n十分な確信を持っている。	아니，달라~\n베아트리체는 자신의 죽음을 확신했어.	Nah! \nBeatrice said she was 100 percent sure that she was dead.	
+20	爱衣	按照她的说法，导致她死亡的是一杯毒酒，而且是她自己选择喝下的。	按照她的說法，導致她死亡的是一杯毒酒，而且是她自願喝下的。	彼女によると、死亡した原因は一杯の毒酒。\nしかも、彼女が自ら選択して飲んだって。	그녀의 말에 따르면 그녀의 죽음은 독주 때문이야. 그녀가 스스로 그걸 마셨어.	She said she intentionally drank poison.	
+21	莉琉	虽然史料中也有类似的记录……但不能排除被篡改的可能性。	雖然史料中也有類似的記錄……但我們不能排除篡改的可能性。	歴史の資料にも似たような記録があるが、\n……改竄された可能性は考えられる。	연구 자료에 비슷한 기록이 있긴 하지만……왜곡의 가능성도 배제할 수 없어.	There are historical records to support this… But the possibility of falsification cannot be ruled out.	
+22	N/A	爱衣调出了另一份检测报告。	愛衣調出了另一份檢測報告。	愛衣はもう1つの検測報告を表示した。	아이가 다른 검측 보고서를 띄운다.	Aya clicks open another testing report.	
+23	爱衣	中世纪的欧洲有记录的毒剂种类不多──毒堇，颠茄，番木鳖……	在中世紀，歐洲有記錄的毒藥種類不多──毒堇、顛茄、番木鱉……	中世ヨーロッパの時代で、記録が残っている\n毒物の種類はそこまで多くない──\n──ドクニンジン、ベラドンナ、マチン……	중세 유럽에 기록된 독약 종류는 많지 않아. 독근，벨라도나，스트리키닌……	There are only a limited variety of poisons recorded in the Middle Ages. Hemlock, nightshade, vomic-nut, and etc.	
+24	爱衣	在发现她当晚抽取的血样中，确实能测出毒性生物碱的残留。	在發現她當晚所抽取的血液樣本中，確實能測出毒性生物鹼的殘留。	事件の夜の彼女の採血サンプルからは、\nなんと毒性アルカロイドの残留が検出されたの。	그날 밤 추출한 혈액 샘플에서 독성 알칼로이드의 흔적이 검측됐어.	We found residuals of toxic alkaloid in her blood samples taken on the night she emerged.	
+25	爱衣	但第二天再次检验的时候，她血液中的生物碱和重金属残留就几乎消失了。	但第二天再檢驗的時候，那些生物鹼和重金屬殘留就幾乎消失了！	だけど翌日に再度行った検査の結果だと、\n彼女の血中からはアルカロイドと──\n重金属の残留がほとんど消えてしまった。	하지만 이튿날 재검사했을 때，혈액 중 알칼로이드와 중금속 흔적이 거의 사라졌어.	But in the blood we drew the next day, there is almost no trace of any toxic alkaloid or heavy metal.	
+26	莉琉	怪不得你这么激动……	怪不得妳這麼激動……	どおりでお前がそんなに興奮しているわけだ……	어쩐지 엄청 들떠있더라니…	No wonder you look so excited…	
+27	爱衣	不不不，这还不是最关键的！	不不不，這還不是最關鍵的！	いやいやいや！一番肝心な事はそれじゃないッ！	아니！ 포인트는 이게 아니야！	Hold on, this is not the most exciting part yet!	
+28	N/A	爱衣的声音兴奋得有些颤抖。	愛衣的聲音興奮得發抖。	愛衣の声は興奮で震えている。	아이의 목소리가 흥분한 듯 조금 떨린다.	Aya's voice trembles with excitement.	
+29	爱衣	与安妮不同，贝阿特丽切的免疫特征完全就像新生儿一样，血清免疫球蛋白D的检测呈阴性。	與安妮不同的是，貝阿特麗切的免疫特徵完全像是新生兒，血清免疫蛋白D的檢測呈陰性。	アニーと違ってベアトリーチェの免疫系統は、\nまるで完璧なまでの新生児なのよ！\n免疫グロブリンDの検測結果は陰性……！	앤과 달리 베아트리체의 면역 특징은 신생아와 같아. 혈청 면역글로불린D의 검측도 음성이야.	Unlike Annie, Beatrice has an immune system found in newborns. She tested negative for IgD.	
+30	爱衣	而且……她体内的菌群特征与小怜高度一致！！	而且……她體內的菌群特徵與小憐幾乎一模一樣！ ！	しかも……彼女の体内にある菌群の特性は、\nレンちゃんと高度な一致を示してる！！	게다가……체내 균군 특징이 렌과 일치해！ ！ 	And… the properties of the microbiome in her body are almost the same as Ren's!!	
+31	莉琉	……你到底是怎么想到检测这些项目的？	……妳到底是怎麼想到檢測這些項目的？	……お前は一体どんな発想から、\nその項目を検測しようと思ったんだ……	……도대체 어떻게 이런 항목을 검측할 생각을 한 거야?	… How did you even get the ideas of taking these tests?	
+32	爱衣	直觉！本能！和对异常样本的爱！！	直覺！ 本能！ 還有對異常樣本的熱愛！ ！	直感ッ！\n本能ッ！\nそして異常サンプルへの\nラブッ♡♡♡！！	직감！본능！이상 샘플에 대한 사랑！！	Intuition. Instinct. And a passion for rare samples!!	
+33	爱衣	能够从虚无中瞬间构建出肉体……还精确的保留了那个最有趣的会吸引异性的“诅咒”。	能夠從虛無中瞬間構建出肉體……還精確保留了那個最有趣、只吸引異性的「詛咒」。	虚空から瞬時に肉体を構築……\nさらに、あの異性を惹きつける「呪い」まで\n精密に再現しちゃうなんて……ッ。	허무에서 순식간에 형성된 육체…가장 흥미로운 이성을 끌어들이는 "저주"가 정확하게 보존되었다는 것	A body created out of nothing… accurately reproducing the most interesting "curse" on the subject – the ability to attract love.	
+34	爱衣	小怜真是……太棒了！！	小憐真是……太、棒、了、啊！ ！	レンちゃんって\n……ほんっっっと、ワンダホーッ！！	렌은 정말……대단해！！	Ren is just… incredible!!	
+35	N/A	说着，爱衣紧闭双眼，双手交叉抱住自己，露出一幅陶醉的神情。	說著，愛衣緊閉雙眼，雙手交叉抱住自己胸口，露出一副陶醉神情。	そう叫ぶと愛衣は目を閉じ、両手を交差して\n自分を抱きしめながら別世界に浸り始める。	아이가 두 눈을 꼭 감고 두 팔로 자신을 껴안으며 도취한 표정을 짓는다.	Saying that, Aya closes her eyes, and crosses her arms to hug herself, looking quite intoxicated by her thoughts.	
+36	N/A	莉琉不知从哪抽出一卷报告书，毫不留情的敲在她的脑袋上。	莉琉不知從哪抽出一卷報告書，毫不留情地用力敲在愛衣的腦袋上。	マリルはどこからか取り出した報告書を丸めて、\n手加減なしで愛衣の頭を叩いた。	아이가 보고서를 돌돌말아 그녀의 머리를 가차없이 두드린다.	Mariru whips out a roll of reports and knocks hard on Aya's forehead.	
+37	莉琉	如果灵魂可以独立存在于异次元空间中的话……	如果靈魂可以獨立存在於異次元空間中的話……	魂が異次元空間中に単独で存在できるなら……	만약 영혼이 다른 차원 공간에 독립적으로 존재할 수 있다면……	If a soul can independently exist in a different Spacetime…	
+38	莉琉	是依据什么来选择，塑成灵魂的容器的呢？	那又是依據什麼來選擇，而形塑成容納靈魂的容器呢？	何に基づいて、魂の器を選定したのだろうか？	무엇에 의지해 영혼의 그릇을 만드는 걸 선택했을까?	Then how does it select a container?	
+39	爱衣	是因为那个“黄金蝴蝶”吗？	是因為那個「黃金蝴蝶」嗎？	あの『黄金バタフライ』じゃない？	그 “황금나비” 때문일까？	Could it have something to do with the golden butterfly?	
+40	莉琉	不，如果类比安妮的球棒，应该是和那块绿色宝石有关……	不，如果要與安妮的球棒類比，我倒覺得應該是和那塊綠色寶石有關……	いや、アニーのバットを例として考えると、\nあのエメラルドこそ関係が深いはずだ……	아니，앤의 야구공을 놓고 생각했을 때，그 에메랄드와 관련 있을 거야……	No, considering Annie and her baseball bat, I think Beatrice is somehow connected with the green gem…	
+41	莉琉	通过某种特定物品，“召唤”出与之相关的灵魂。	透過某種特定物品，就能夠「召喚」出與物品相關的靈魂。	ある種の物品を通じて、それに関係する「魂」を\n「召喚」する。	특정 물체를 통해 그와 관련된 영혼을 "소환"하고	It's like certain objects can summon the souls attached to them.	
+42	莉琉	涉及到时空转换、物质再造……	這涉及到時空轉換、物質再造……	それは時空変換、物質再構成にまで波及している\nということだ……	시공 전환，물질 재창조를 이뤄낸다……	This is about Spacetime travelling and body creation…	
+43	莉琉	（绝对不能让元老院知道这件事。）	（絕對、絕對不能讓元老院知道這件事。 ）	（この事は絶対、元老院に悟られてはならない）	（절대 원로원이 이 사건을 알아서는 안 돼.）	(The Senate should never know anything about this.)	
+44	爱衣	还能做到灵魂吸引啊……	還得做到靈魂吸引喔……	そして　魂が引き寄せられる、ね……	그리고 영혼 흡입까지……	So, Ren can even attract a soul…	
+45	N/A	爱衣打断了莉琉的思考。	愛衣打斷了莉琉的思考。	愛衣の一言は、マリルの思考を中断させた。	아이가 마리루의 생각을 끊는다. 	Aya breaks Mariru's train of thoughts.	
+46	莉琉	嗯？	嗯？	ん？	응？	Hmm?	
+47	爱衣	从虚空中带回既定之人的灵魂，并为其塑造灵魂的容器…听上去很像炼金术中禁忌的秘法呀。	從虛空中帶回特定的靈魂，並為其塑造特殊容器……妳不覺得很像煉金術中禁忌的祕法嗎。	虚空から特定の魂を連れ戻して、その魂の器を\n創り出す……\nそれって錬金術の禁忌とされた秘法に、\n類似してるかなって。	허공에서 영혼을 데려오고，그 영혼을 담을 그릇을 만들어낸다… 마치 연금술의 금기된 비법처럼 들려.	To get a certain soul out of nowhere, and create a body to host the soul… It sounds like forbidden alchemy.	
+48	爱衣	如果不是生在这个时代，我恐怕会像那些炼金术士一样，尝试用元素和神做灵魂的交易了。	如果不是生在現代，我恐怕會像那些煉金術士一樣，嘗試用元素和神做靈魂交易呢。	もし、この時代に生まれていなければ、\n私も錬金術士みたいに元素を使って、\n神と魂の取引を試みてたのかな。	만약 이 시대에 태어나지 않았다면，난 아마 연금술사들처럼 원소를 가지고 신과 거래를 했을지도 몰라.	If I hadn’t been living in this era, I might have tried to do soul trade with gods by using basic elements, just like alchemists.	
+49	莉琉	听上去挺像那些街头宗教宣扬的“神之子”，不过那些玩意在新丰洲没什么市场。	聽起來挺像那些在街頭宣揚宗教的「神之子」，不過那些玩意在新豐洲沒什麼市場。	街角の宗教家がたまに宣伝している\n『神の子』のようにも聞こえるが、\nああいった手合いは新豊洲では流行らない。	길거리에서 종교를 홍보하는 "신의 아들"과 비슷해. 하지만 그런 건 신토요스에서는 시장성이 없지.	Like the so-called "Son of Gods” promoted by small religious groups. But there's no market for this in New Opulentia.	
+50	爱衣	唔，我倒是比较喜欢“圣女”之类的称呼，听上去就有种令人想要侵犯的禁欲感呢。	「神之子」啊，我倒是比較偏好「聖女」這種稱呼，聽起來就有種令人忍不住想要這個那個的禁欲感呢。	まぁ　私は「聖女」的な呼称の方が好きだけど。\n\nだって、その響きって汚したくなるタブー感で\n満載じゃない？	음，난 역시 "성녀" 같은 칭호가 좋아. 침범하고 싶은 만드는 금욕적인 느낌이야.	Nah, I prefer feminine titles such as “Goddess". They give me this inner urge to defy abstinence.	
+51	莉琉	唉──我怎么会有你这样的手下……	……唉，我怎麼會有妳這樣的手下……	はぁ──どうして私の部下に、\nお前のような人間がいるのか……	휴──내가 왜 너 같은 수하를 뒀을까……	Gosh—Why on earth did I employ someone like you…	
+52	爱衣	嗯哼~也算是某种意义上的“灵魂吸引”吧~	嘿嘿～也算是某種意義上的「靈魂吸引」吧～	うふふふ～～～ある意味では、これこそが\n「魂の引かれ合い」なんじゃないかな～～	으흥~어떤 의미에선 "영혼 흡입"이라고 할 수 있지~	Uh-huh! Maybe our souls are just attracted to each other.	
+53	爱衣	——所以，就是这样。	——所以，就是這樣。	──という訳だよ。	——이렇게 된 거야.	—So, this is all I've found.	
+54	小怜	哈啊！？	哈啊！ ？	はあッッ！？！？	하아！？	Huh?	
+55	N/A	保健室内刚刚结束例行身体检查的我，一边穿衣服一边和爱衣聊到贝阿特丽切的情况。	在保健室內剛完成例行檢查的我，一邊穿衣服一邊和愛衣聊到貝阿特麗切的情況。	保健室で身体検査が終わったばっかりの俺は、\n服を着つつ愛衣とベアトリーチェに関して話す。	보건실에서 신체 검사를 마친 나는 옷을 갈아입으며 아이와 베아트리체의 상황을 얘기하고 있다.	In the health center, after the regular physical checkup, I talk to Aya about Beatrice while putting on my clothes.	
+56	N/A	如果对她身体状况的描述还算正常的话……	如果對她身體狀況的描述是真實的話……	彼女の身体状況についての説明は、\nまだギリギリ理解できる範囲の話だけど……	만약 그녀의 몸 상태가 정상이라면……	Aya's comment on Beatrice's physical conditions may make sense…	
+57	N/A	关于“灵魂”的那套说辞，听起来完全就像是忽悠人的。	關於「靈魂」的說辭，聽起來完全就像是唬弄人的。	『魂』についての部分の話に関しては、\n完全な嘘のようにしか聞こえない。	“영혼”같은 단어는 왠지 사람을 속이는 것 같은 느낌이야.	But the soul theory sounds like total crap…	
+58	小怜	（还有“圣女”什么的……）\n（虽然我曾经在游戏里攻略过这样的类型）	（還有「聖女」什麼的……）\n（雖然我曾經在遊戲裡攻略過這樣的類型……）	（それに「聖女」ってなんだよ……）\n\n（ゲームでなら攻略した事あるタイプだけど）	（“성녀”라니…）（예전에 게임 속에서 이런 타입을 공략해보긴 했지만）	(Especially the so-called "Goddess"…) \n(Though I once did capture this kind of roles in video games)	
+59	小怜	（但我才不想自己会被如此称呼啊！）	（但我才不想被這樣稱呼咧！ ）	（でも、自分にそんな設定が付くのは嫌だっ！）	（난 그런 칭호로 불리고 싶지 않아！）	(But I'd never want such a title for myself!)	
+60	N/A	我不禁抱紧自己打了个冷颤。	我不禁抱緊自己打了個冷顫。	思わず自分を抱きしめて身震いした。	난 스스로를 꽉 껴안으며 몸서리쳤다.	I can't help putting my arms around myself in a shiver.	
+61	小怜	不、不要！！	不、不要！ ！我才不要！	や、やめてくれ！！	시，싫어！！	No, never!!	
+62	爱衣	哦呀呀，你在想什么羞羞的事情啊~？	哦呀呀，妳是不是在想什麼害羞的事情啊～？	あれれ～～？\n何か恥ずかしい事、想像しているのかなぁ～～？	아하하，부끄러운 화면이라도 상상했나봐~？	Ooh la la, anything unspeakable in your mind?	
+63	小怜	所以……这就是最近检查项目增加的原因吗？	沒有！ 咳咳，所以……這就是最近增加檢查項目的原因嗎？	っていうか……\nそれが最近検査の項目が増えた理由か？	그러니까……최근 검사 항목이 늘어난 이유가 이것 때문이야?	So… This is why my checkup items have increased?	
+64	爱衣	嗯~是呢。	嗯～是啊～	うん、そうよ～。	응~맞아.	Uh-huh.	
+65	N/A	爱衣在不怀好意的坏笑，似乎在思考着什么。	愛衣看著我，露出一臉不懷好意的壞笑，似乎在盤算著什麼。	愛衣は何か考えがある様子で、意地悪く笑った。	아이가 뭔가를 꾸미고 있는 것처럼 음흉하게 웃는다.	Aya shows a foxy smile as if planning something in secret.	
+66	小怜	（是她擅自增加的项目也说不定……）	（是她擅自增加的項目也說不定……）	（愛衣が勝手に増やした項目もあるんじゃ……）	（그녀가 제멋대로 늘린 항목이 어쩌면……）	(Maybe it’s another unauthorized research …)	
+67	爱衣	可惜配套物资不是很到位，有些更加“有趣”的检查暂时没法进行……	可惜配套的資源還不是很齊全，暫時沒法進行更加「有趣」的檢查，唉……	残念ながら設備が足りてなくて、\nも～っと「楽しい」検査はできないんだけど……	물자가 다 도착한 게 아니라서 더  "재밌는" 실험은 당분간 진행할 수 없어…	Too bad I don't have enough supporting equipment; otherwise, I could do more "interesting" tests…	
+68	爱衣	对了，要不要试试看给你植入芯片的最大功率模式呀？	啊，對了，要不要試試看給妳體內晶片的最大功率模式呀？	あっ、そうだ。\n\n植え付けたチップのマキシマム・パワーモードを\nちょっとテストしてみない？	아참，너에게 이식한 칩의 최대 출력 모드를 실험해볼까?	By the way, wanna try out the maximum power mode of the chip planted in you?	
+69	小怜	不，不要！！！	不，絕對不要！ ！！	い、い、嫌だッ！\nや、やめろ～！！	시，싫어！！！	No! Thank you very much!!	

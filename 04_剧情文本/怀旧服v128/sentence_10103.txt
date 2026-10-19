@@ -1,0 +1,125 @@
+﻿1	N/A	我和安妮在特工们的“护送”下，登上了一辆黑色轿车。	我和安妮在特務們的「護送」下，坐上了一輛黑色轎車。	俺とアニーはSIDのエージェント達に\n「エスコート」され、黒い車に乗った。	나와 앤은 SID대원들의 "호송"아래 검은색 승용차에 올랐다.	“Escorted" by the agents, Annie and I hopped into a jet-black sedan.	
+2	N/A	封闭的车厢令人窒息。	封閉的車廂令人窒息。	閉鎖的な車内は、息が詰まりそうだ。	밀폐된 차 안에 있으니 숨이 막혀온다.	The passenger compartment is suffocating.	
+3	N/A	内心惴惴不安的我，蜷起身抱着自己的双膝，不知应该做些什么。	忐忑不安的我，蜷起身體抱著自己的雙膝，不知該怎麼辦。	内心不安な俺は、何をすれば良いのか分からず、ただ両ひざを抱えて座っていた。	불안해진 나는 몸을 말아 무릎을 껴안았다. 어떻게 해야 할지 모르겠다. 	I wrap my arms around my knees, bewildered.	
+4	N/A	安妮轻轻地靠在我的身旁，稍稍让我有些放松。	安妮輕輕地靠在我的身旁，稍稍讓我放鬆了些。	だけど、狼狽えてはいない。\n傍にアニーが寄り添ってくれているおかげだ。	앤이 내 몸에 기대 날 진정시켜준다. 	Annie leans on me gently, which makes me feel somewhat relaxed.	
+5	N/A@安妮	SID……那个『秘密情报局』到底是什么呀？\n你一听到就这么紧张。	SID……那個「機密情報局」到底是做什麼的呀？ \n怎麼妳一聽到就這麼緊張。	SID……『秘密情報局』って何なの？\n\nその名前を聞いてからずっと顔を曇らせている\nみたいだけど。	SID……그 『비밀정보국』은 도대체 뭐야?\n네가 듣자마자 긴장하던데.	So... what is SID? \nYou get edgy every time you hear it.	
+6	N/A@[%rolename%]	你真的不知道吗？\nSID是元老院直属的情报机构。	妳真的不知道嗎？ \nSID是元老院直屬的情報機構。	知らないのか？\nSIDは元老院直属の情報機関だよ。	정말 몰라?\nSID는 원로원 직속 정보 기관이야. 	Are you from outer space? \nSID is the intelligence department under the Senate.	
+7	小怜	你真的不知道吗？\nSID是元老院直属的情报机构。	妳真的不知道嗎？ \nSID是元老院直屬的情報機構。	知らないのか？\nSIDは元老院直属の情報機関だよ。	정말 몰라?\nSID는 원로원 직속 정보 기관이야. 	Are you from outer space? \nSID is the intelligence department under the Senate.	
+8	小怜	虽然有人说第五学园都市能一直保持中立，SID的功劳比『埃癸斯』的防护系统还要大……	雖然有人說，第五學園都市能一直保持中立，SID的功勞比「埃癸斯」的防護系統還要大……	第五学園都市が中立でいられるのは『イージス』の防衛システムよりも、\nSIDの貢献が大きいってみんなに言われてるんだ	제5학원도시가 중립을 유지한다고 하지만 SID의 공로는 『아이기스』의 방호 시스템보다 훨씬 커……	Some say SID plays a more important role than the Aegis defense system in keeping New Opulentia neutral.	
+9	N/A@[%rolename%]	虽然有人说第五学园都市能一直保持中立，SID的功劳比『埃癸斯』的防护系统还要大……	雖然有人說，第五學園都市能一直保持中立，SID的功勞比「埃癸斯」的防護系統還要大……	第五学園都市が中立でいられるのは『イージス』の防衛システムよりも、\nSIDの貢献が大きいってみんなに言われてるんだ	제5학원도시가 중립을 유지한다고 하지만 SID의 공로는 『아이기스』의 방호 시스템보다 훨씬 커……	Some say SID plays a more important role than the Aegis defense system in keeping New Opulentia neutral.	
+10	小怜	但更多是“某人被SID带走从此人间蒸发”的都市传说，总之是很恐怖的间谍机关。	但更多的是「某人被SID帶走後從此人間蒸發」的都市傳說。 總之是很恐怖的間諜機關。	「SIDに連れ去れた人間は二度と姿を見せる事はない」という都市伝説もできるぐらい。\nとにかく恐ろしいスパイ機関だよ……	SID에 끌려가면 실종된다는 도시 전설이 있을 정도로 무서운 스파이 기관이야.	But there're more urban legends about people taken by SID and never come back... It's just horrible.	
+11	N/A@[%rolename%]	但更多是“某人被SID带走从此人间蒸发”的都市传说，总之是很恐怖的间谍机关。	但更多的是「某人被SID帶走後從此人間蒸發」的都市傳說。 總之是很恐怖的間諜機關。	「SIDに連れ去れた人間は二度と姿を見せる事はない」という都市伝説もできるぐらい。\nとにかく恐ろしいスパイ機関だよ……	SID에 끌려가면 실종된다는 도시 전설이 있을 정도로 무서운 스파이 기관이야.	But there're more urban legends about people taken by SID and never come back... It's just horrible.	
+12	N/A@安妮	哦……那学园都市是什么？	哦……那學園都市是什麼？	へぇ～～……で、その学園都市って何？	오……그럼 학원도시는 뭔데? 	Okay... But then, what's the Academy City?	
+13	小怜	（喂喂……这家伙完全没有常识吗？）	（喂喂……這傢伙完全沒有常識嗎？ ）	（おいおい……それは流石に常識だろ？）	（이 녀석……상식이란 게 없는 건가?）	(Wait... Does this girl have no common sense at all? )	
+14	N/A@[%rolename%]	（喂喂……这家伙完全没有常识吗？）	（喂喂……這傢伙完全沒有常識嗎？ ）	（おいおい……それは流石に常識だろ？）	（이 녀석……상식이란 게 없는 건가?）	(Wait... Does this girl have no common sense at all? )	
+15	N/A	安妮看着我不可思议的表情，只是露出了轻松的笑容。	安妮看著我一臉不可思議的表情，只是露出了輕鬆的笑容。	不思議そうな顔で俺が見つめるのに対し、\nアニーは気楽な笑みを浮かべるだけだった。	앤이 날 어리둥절하게 쳐다보며 미소를 짓는다. 	Annie sees my surprised look... and she just gives me a relaxed smile.	
+16	N/A@安妮	总之我们不会有什么问题的啦！	總之呢，我們不會有問題的啦！	とにかく、ノープロブレムっ！\n何があっても私達は大丈夫！	어쨌든 우린 아무 일도 없을 거야! 	Just relax, we won't have any problems!	
+17	N/A@安妮	因为，你是特殊的嘛。	因為，妳很特別嘛。	だって、あなたは特別だもん。	왜냐하면，넌 특별하니까. 	Because... you're special.	
+18	小怜	……	……	…………	……	…	
+19	N/A@[%rolename%]	……	……	…………	……	…	
+20	小怜	真奇怪，安妮轻松说出的不着边际的话语让我焦虑的情绪一下子镇定了不少。	真奇怪，安妮輕鬆說出那些不著邊際的話後，我焦慮的情緒一下子緩和了不少。	アニーが気軽に口にした言葉を聞くと、\n不思議と焦りを覚えていた気持ちが落ち着いた。	이상하게도. 앤이 마음대로 내뱉은 뚱딴지 같은 말에도 조급했던 마음이 조금 가라앉았다.	It's weird that Annie's rambling has somehow calmed my agitated mind.	
+21	N/A	真奇怪，安妮轻松说出的不着边际的话语让我焦虑的情绪一下子镇定了不少。	真奇怪，安妮輕鬆說出那些不著邊際的話後，我焦慮的情緒一下子緩和了不少。	アニーが気軽に口にした言葉を聞くと、\n不思議と焦りを覚えていた気持ちが落ち着いた。	이상하게도. 앤이 마음대로 내뱉은 뚱딴지 같은 말에도 조급했던 마음이 조금 가라앉았다.	It's weird that Annie's rambling has somehow calmed my agitated mind.	
+22	小怜	似乎我们被SID带走这件事也没那么可怕了……	似乎被SID帶走這件事也沒那麼可怕了……	もうSIDに連れ去られている事も、\n怖いと思わなくなった…………	SID에게 끌려가는 것도 그렇게 무섭지 않은 것 같아……	It seems not that horrible to be taken away by SID...	
+23	N/A	似乎我们被SID带走这件事也没那么可怕了……	似乎被SID帶走這件事也沒那麼可怕了……	もうSIDに連れ去られている事も、\n怖いと思わなくなった…………	SID에게 끌려가는 것도 그렇게 무섭지 않은 것 같아……	It seems not that horrible to be taken away by SID...	
+24	小怜	（不不不，还是很可怕的！）	（不不不，這件事情還是很可怕的！ ）	（いやいやいやいや、やっぱり怖いって！）	(아니，아니! 여전히 무서워!）	(No. No. It is horrible!)	
+25	N/A	（不不不，还是很可怕的！）	（不不不，這件事情還是很可怕的！ ）	（いやいやいやいや、やっぱり怖いって！）	(아니，아니! 여전히 무서워!）	(No. No. It is horrible!)	
+26	N/A	我们的车来到了城市的繁华商业区，从一处不起眼的地下停车场直接驶入了泊车电梯。	我們的車來到了城市的繁華商業區，從一處不起眼的地下停車場直接開進了電梯。	俺達を乗せた車が都市部の商業区にたどり着く。\nそして目立たない地下駐車場の──\n自動車用エレベーターに入った。	차는 번화한 상업가에 도착해 볼품없는 지하 주차장에서 주차 엘리베이터를 탔다. 	We arrive at the city's bustling business area and drive into an ordinary basement garage where we get onto a car elevator.	
+27	N/A	探员汇报了一下，电梯开始动了起来。	探員彙報了一下，電梯開始動了起來。	エージェントの人が何かを話すと、\nエレベーターが音を立てて動き始めた。	요원이 보고하자 엘리베이터가 움직이기 시작한다. 	After the agent reports, the elevator starts to move.	
+28	N/A	能感觉到这台电梯速度很快，进行了数次长距离的下降，期间居然还有几次横向移动。	感覺這台電梯速度很快，有多次長距離的下降，當中居然還有幾次是橫向移動。	自動車用エレベーターは数回長距離を降下したと思ったら、横の移動も何回か挟み──\nそんな動作を複数回繰り返した。	엘리베이터 속도가 엄청 빠르다. 하강하다가 갑자기 가로로 이동하기도 한다. 	I can feel the swift movement of the elevator. There’s been a couple of long drops, and event horizontal conveyor movements.	
+29	N/A@[%rolename%]	（这片商业区的地下居然有如此巨大的迷宫般的构造嘛……）	（這片商業區的地下居然有如此巨大迷宮般的構造……）	（商業区の地下に、こんな巨大迷路のような空間　があったのか……）	（상업 구역 지하에 미궁 같은 거대한 구조가 있다니…）	(It's hard to imagine such an underground maze underneath the business area...)	
+30	N/A	关于SID的总部有各种各样的传说，有爆料说地点在新丰洲东南郊，整栋设施都用光学伪装包裹。	關於SID的總部有各式各樣的傳說，還有人爆料說地點在新豐洲東南郊區，整棟設施都用光學偽裝環繞。	SIDの本部には様々な伝説がある。\n\n例えば新豊洲の東南郊外に、建物全体が光学カモフラージュされて存在している。とか。	SID 본부에 대한 전설에 따르면 신토요스 동남부에 광학으로 위장된 설비가 있다고 한다.	Rumors about the SID headquarters abound. Some say it's located at the south suburbs of New Opulentia, and the whole structure is coated with optical camouflage.	
+31	N/A	对于一个在系统上“不存在”的建筑，营销媒体只要能吸引点击怎么瞎编都可以。	對於一個在世人眼中「不存在」的建築，只要能吸引點擊率，媒體怎麼瞎編都可以。	システム上「存在しない」建物なので、いつも\nマスメディアに仰々しく言われたい放題だ。	시스템 상 존재하지 않는 이 건물에 관해 미디어는 정보를 날조해서 시선을 끌기 바빴다.	Of course, for a building that doesn’t officially exist in the system, the media could make up anything as long as it attracts clicks.	
+32	N/A	而现在我踏入的地方，正是“不存在”的机关的核心区域。	而現在我踏入的地方，正是「不存在」的機關的核心區域。	そして俺がいる場所こそが、\nまさしくその「存在しない」機関の中枢……	게다가 지금 내가 들어온 곳이 바로 “존재하지 않는” 기관의 핵심 구역이다.	And where I'm stepping into is exactly the core area of this “non-existent” department.	
+33	N/A@[%rolename%]	（希望我不会在这里变成“不存在”……）	（希望我不會在這裡變成「不存在」……）	（俺もここで「存在しない」人間にならなければ　いいけど……）	（여기서 "존재하지 않는" 인간이 되지 않길 바라야지……）	(I just hope that I won't be made “non-existent” here...)	
+34	N/A	下车之后，正对着我们的只有一条金属甲板包裹的科技感十足的走廊，装置风格有一丝禁欲色彩。	下車之後，正對著我們的只有一條由金屬製成、科技感十足的走廊，裝置風格有一絲禁欲色彩。	車から降りると、厳粛な雰囲気の廊下に\nたどり着いた。\n金属プレートに包まれていて、超科学技術が\n満載っぽい。	차에서 내리자 금속 갑판으로 둘러진 과학적인 느낌이 가득한 복도가 보인다. 장식 스타일이 좀 금욕적이다.	We step off the car in front of a corridor wrapped with metal plates. It gives a sense of technology and abstinence.	
+35	N/A	我们刚走几步，电梯门就自动关闭，听到电梯迅速远去的声音，幽暗的走廊变得严肃而压抑。	我們才往前走了幾步，電梯門就自動關閉，然後傳來電梯迅速遠去的聲音。 幽暗的走廊變得嚴肅且壓抑。	数歩進むと、エレベーターは自動的に閉まり、　素早く遠ざかる音が聞こえた。\n厳粛な雰囲気はさらに重くなり、抑圧感が漂う。	몇 걸음 걸어가자 엘리베이터 문이 자동으로 닫힌다. \n\n엘리베이터가 빠르게 멀어지는 소리가 들리자 어두운 복도에 중압감이 흐른다.	The elevator door automatically shuts right after we get off. We hear it leaves as we continue along the dark corridor. The air gets stiff and dreary.	
+36	N/A	我的心也开始下沉……	我的心也開始下沉……	俺の心もまた沈み始めてきた……	내 마음도 가라앉기 시작한다……	My heart is also sinking...	
+37	N/A	我们顺着走廊径直来到了一个明亮而封闭的房间。	我們沿著走廊直走，進入了一個明亮且封閉的房間。	廊下を真っ直ぐ進むと、明るいが閉鎖的な部屋に到着した。	복도를 따라 밝고 밀폐된 방에 도착했다.	We follow the corridor and find ourselves end up in a well-lit, closed room.	
+38	N/A	看上去像是某种审讯室，但并没有桌椅，一侧的墙面是一块巨大的玻璃。	看起來像是某種審問室，但並沒有桌椅，其中一側牆面是一塊巨大的玻璃。	尋問室みたいだけど、机や椅子はない。\n一面の壁が巨大なガラス張りになっている。	취조실 같아 보이지만 테이블도，의자도 없고 한 쪽 벽이 거대한 유리로 되어있다. 	It looks like an interrogation room, although there wasn’t any tables or chairs. It also has a glazed wall.	
+39	N/A	还没等我转身观察——	我還來不及轉身觀察——	しきりに見回しながら室内を観察していると──	그리고 내가 몸을 돌리기도 전에——	Before I can turn to check on that wall—	
+40	小怜	呜啊——！	嗚啊——！	うわっ――！！	흐아——！	Whoooa—!	
+41	N/A	突然有人从背后用力揽住了我的腰。	突然有人從背後用力攬住了我的腰。	突然背後から腰周りを掴まれ、引き寄せられる。	갑자기 누군가 뒤에서 내 허리를 힘껏 끌어안는다. 	Someone forcefully reaches their arms around my waist.	
+42	小怜	啊啊诶痛痛痛痛痛——！！！！！	啊啊痛痛痛痛痛——！ ！！ ！！	あっ、あとっ、ととととああっ――！	으아악 아파아파아파——！！！！！	Ouch… It hurts!	
+43	N/A	我的身体马上要失去平衡的时候，后脑勺靠在了一个柔软又坚实的似曾相识的物体上。	我的身體快要失去平衡時，後腦勺靠到了一個柔軟堅實且似曾相識的物體上。	身体のバランスが崩れると……既視感。\n\n後頭部に柔らかくしっかりしたモノを感じた。	내 몸이 균형을 잃을 때 뒷통수에 부드럽고 튼튼한，익히 알고 있는 물체에 닿는다.	As I'm about to lose balance, I feel my head falls on something familiar, soft but firm.	
+44	N/A@女性的声音	嗯……你这种水平的核心力量，就算是间谍也达不到可以出外勤的程度。	嗯……以妳這種水準，就算是間諜也不符合出外勤的資格。	ふん……このレベルの身体能力では、\n諜報任務はできんな…	응……이 정도의 핵심 역량이라면 스파이일지라도 외근을 나갈 수 없을 정도인데.	Well... Judging from your core strength, the spy stuff is not for you.	
+45	N/A@女性的声音	刚才我还以为身体扫描的数据出错了，才来亲自确认一下。	剛才我還以為身體掃描的數據出錯了，才來親自確認一下。	先ほどのスキャン結果に誤りがあると思って、\n直接確認しに来たのだが。	신체 스캔 데이터에 오류가 있는 것 같아서 직접 확인하러 왔어.	I thought we got some body scan errors, so I wanted to personally confirm.	
+46	N/A@女性的声音	手感倒是不错……	手感倒是不錯……	……手触りだけはいいな。	촉감이 꽤 좋구나……	Feels good though.	
+47	N/A	一个有点熟悉的女性声音从我背后传来。	一個有點熟悉的女性聲音從我背後傳來。	聞き覚えのある女性の声が、背後から聞こえて\nきた。	조금 익숙한 여자의 목소리가 등 뒤에서 들린다. 	The female voice from behind me sounds familiar.	
+48	N/A	对方松手，我惊魂未定的回头\n正前方面对的是——	對方鬆手，我驚魂未定地轉頭，\n在眼前的居然是——	相手が手を放したので、驚くままに振り返った。\n目に映ったのは──	상대가 손을 놓자마자 고개를 돌려보니\n정면에 보이는 것은——	She loosens her arms. With lingering fright, I turn around. \nThe woman in front of me—	
+49	小怜	（诶？？好、好大！！！！）	（欸？ ？好、好大！ 這時候我在想什麼啊！ ！）	（こっ、この、お、大きいのは！！？？）	（엣？？어，엄청 커！！！！）	(Ah? That’s… that’s really huge!)	
+50	小怜	莉、莉琉小姐！？	莉、莉琉小姐！ ？	ま、マリルさん！？	마，마리루!?	Ms... Ms. Mariru!?	
+51	安妮	嗯？……你认识她嘛？	嗯？ ……妳們認識啊？	ん？　……お知り合い？	응？……아는 사람이야?	You know her?	
+52	莉琉	哦？这么快就透露你能识别对方情报机构的人员。\n看来你没打算隐藏身份嘛……	哦？ 這麼快就透露妳能識別對方情報員。 \n看來妳沒打算隱藏身分嘛……	ほう？　私を知っているという情報をあっさり\n漏らすとは…\nどうやら自分の正体を隠す気はないようだな……	오？이렇게 빨리 정보기관의 요원을 알아보다니\n신분을 숨길 생각이 없는 모양이구나…?	Huh? Could’t wait to reveal your knowledge of an agent from another intelligence department? \nYou don't even care to hide your identity, do you?…	
+53	小怜	（啊！不好，顺口就叫出来了……）	（糟糕！ 一不小心就脫口叫出名字了……）	（あっ！　しまった、つい叫んじゃった……）	（아！이런，나도 모르게……）	(Gosh! Silly me…)	
+54	N/A	虽然难以置信，但眼前一身军装的人，正是梦里在研究中心遇到的那个姐姐。	雖然難以置信，但眼前一身軍裝的人，正是夢裡在研究中心遇到的那個姐姐。	信じられないけど、目の前の軍服姿の女性は、\n夢の中、研究センターで会ったお姉さんだった。	믿을 수 없지만 눈 앞에 무장을 한 사람은 바로 꿈 속 연구 센터에서 만났던 그 누나다.	It’s hard to believe, but this woman in uniform in front of me is the woman I met in my dream.	
+55	N/A	高挑的身材、火红的头发、抖S的表情……	高挑的身材、火紅的頭髮、抖S的表情……	背が高く、髪色は火のように赤く……\nそして何よりもこのドＳな雰囲気……	큰 키，붉은 머리카락，완전 짓궂은 표정…	The slim figure… the red hair… the sadist look…	
+56	莉琉	那么接下来，你要诚实的回答我的问题。	接下來，妳得老實回答我的問題了。	それじゃあ、大人しく質問に答えてもらおう。	그럼 이제부터，내 질문에 솔직하게 대답해야 해.	You must answer my questions honestly now.	
+57	莉琉	别想用什么意外和巧合之类的借口蒙混过关。	別想用什麼意外啦、巧合啊之類的藉口蒙混過關。	事故とか偶然を言い訳にして誤魔化すなよ？	우연이나 사고라는 변명으로 얼렁뚱땅 넘어갈 생각은 하지 마.	Don't make any excuses or play any tricks.	
+58	莉琉	审讯技巧也算是我的特长之一。\n我可不会对你可爱的小脸蛋手下留情的~	審訊技巧也算是我的專長之一。 \n呵呵，我可不會對妳可愛的小臉蛋手下留情的～	一応、私は『尋問』が得意スキルなんでね。\n\nあどけない顔でこっちを見ても、\n手加減はしないぞ～～？	심문 기술도 내 특기 중 하나니까.\n네 귀여운 얼굴을 함부로 대하고 싶지 않다구~	Interrogation is one of specialties, you know. \nI'll pull no punches.	
+59	小怜	这种不容质疑又喜欢戏弄人的恶劣态度，还有那自信而略带嘲讽的眼神……	這種不容質疑又喜歡戲弄人的惡劣態度，還有那自信而略帶嘲諷的眼神……	この威厳あれど悪戯っぽい態度、そして\n自信満々でちょっと見下してるまなざし……	위압적이면서도 남을 놀리기 좋아하는 악랄한 태도에 자신감 넘치고 비웃음이 담긴 눈빛까지……	You're acting bossy and teasy. And you're now giving me this confident look with slight sneer.	
+60	小怜	她全名叫什么来着？\n对了，是——	她全名叫什麼來著？ \n對了，是——	彼女のフルネームは？\nそうだ、彼女の名前は──	풀 네임이 뭐였더라? \n아，그래!——	What's her full name again? \nRight, it's—	
+61	莉琉	没错，我就是SID的主管，莉琉·冯·布劳恩。	沒錯，我就是SID的主管，莉琉·馮·布勞恩。	お前が知るように、私はSIDの主任である\nマリル・フォン・ブラウンだ。	맞아. 내가 바로 SID 책임자，마리루 폰 브라운이야.	Exactly. I'm the head of SID. My name is Mariru Von Braun.	
+62	小怜	就是她！！	果然！ ！	この人だッ！！	맞아! !	Yes, it's her!	
+63	小怜	等等，SID主管？\n她不是首席科学家吗？！	等等，SID主管？ \n她不是首席科學家嗎？ ！	ちょっと待って、SIDの主任？\n首席科学者じゃないのか！？	잠깐，SID책임자?\n수석 과학자가 아니였나?! 	Wait… head of SID? \nI remembered she was the chief scientist?!	
+64	小怜	不过仔细看她衣服的样式和肩章，确实像是很大的官……	不過仔細看她衣服款式和肩章，確實像是很大的官……	だけど、服装とか肩章とか見ると、\n確かに偉い軍人っぽいし……	하지만 옷 스타일과 견장을 보니 확실히 높은 분이 맞는 것 같은데…	But having a close look at her clothes and shoulder marks, she's probably a big boss...	
+65	小怜	丝袜和高跟鞋倒是和昨天一模一样。	絲襪和高跟鞋倒是和昨天一模一樣。	ストッキングとハイヒールは昨日と同じだけど。	스타킹과 하이힐은 어제와 똑같다. 	Her stockings and high heels are the same as yesterday though.	
+66	莉琉	喂？小丫头，你眼睛在看哪呢？	喂？ 小丫頭，妳眼睛在看哪兒呢？	ん？　小娘、どこを見てるんだ？	이봐？아가씨，어딜 쳐다보고 있어? 	Hey, girl, what are you looking at, huh?	
+67	小怜	哇！没有！\n对不起！莉琉大人！	哇！ 沒有！ \n對不起！ 莉琉大人！	わぁっ！　なんでもないですっ！\n申し訳ありませんっ！　マリル様っ！	으악! 아뇨! \n미안합니다! 마리루님!	Oh! Yeah... right! \nSorry, Ma’am!	
+68	莉琉	还敢开小差，真是好胆量啊~	還敢發呆，挺有膽量啊~	この状況でボンヤリを決め込むなんて、\n良～い度胸だな～～	정신을 팔다니，정말 간이 크구나~?	You’ve got some guts, huh? Still got your head in the clouds.	
+69	莉琉	听说你向这个蓝色双马尾灌输了不少有关SID的恐怖传言？	聽說妳向那個藍色雙馬尾灌輸了不少有關SID的恐怖傳言？	話によれば、この青ツインテにSIDの怖い怖～い噂話を流しまくっていたって？	네가 이 파란색 양 갈래 머리에게 SID에 관한 무서운 소문을 주입시켰다고 들었는데? 	I've heard that you told many horrible stories about SID to this blue twin-tail.	
+70	小怜	莉琉饶有兴致的把玩着手中的教鞭，我紧张的咽了咽口水。	莉琉興致勃勃地把玩著手中的教鞭，我緊張地吞了口口水。	楽しそうに手元の教鞭を弄ぶマリルを目の前に、俺は緊張から唾を飲む。	마리루가 흥미롭다는 듯 손에 든 지휘봉을 바라본다. 긴장해서 저절로 침이 삼켜진다.	Mariru twiddles her whip in her hands. I get nervous and swallow hard.	
+71	莉琉	你猜……\n那些传闻有多少是真的？	妳猜猜……\n那些傳聞有多少是真的？	さて……その噂話……\n自分でどこまで本当か試してみるか？	네 생각엔……\n그 소문들 중 과연 진짜는 얼마나 될까?	Guess... \nHow many of them are true?	
+72	小怜	噫！对、对不起！	噫！ 對、對不起！	ひぃぃぃっ！　ご、ごめんなさいぃぃっ！	아！미，미안!	Uh! I’m… so sorry!	
+73	安妮	蓝、蓝色双马尾……	藍、藍色雙馬尾……	あ、青ツインテ……	파，파란색 양 갈래……	B… blue twin-tail…	
+74	莉琉	既然知道害怕，就从你的身份开始，如实交待清楚吧。	既然知道害怕，就如實招來吧，從妳的身分開始。	怖いと分かっているなら、\nお前の身元をまずはハッキリさせろ。	무서운 걸 알았으면，이제 너의 신분부터 솔직하게 불도록 하자. 	Now that you know fear, let's start with your identity.	
+75	N/A	莉琉打开手持终端，审讯室的墙面上立刻出现了投影。	莉琉打開手持平板，審問室的牆面上立刻出現了投影。	マリルが手にあるタブレットを操作すると、\n尋問室の壁に映像が映し出される。	마리루가 휴대 장치를 열자 취조실의 벽에 스크린이 나타난다.	Mariru opens a hand-held device to project profiles on the wall.	
+76	N/A	上面是从监控视频中调取的，不同角度的我的照片，而面部分析结果显示——	上面是從監視影片中調出，從不同角度拍到的我的照片，而面部分析結果顯示——	映像は監視カメラによって様々な角度から\n撮られた俺の写真。\nそして顔認証システムの分析結果は──	스크린 속에 감시 카메라로 찍힌 여러 각도의 내 사진들과 얼굴 분석 결과가 표시된다——	There're lots of photos of me captured by the video surveillance from different angles. Nonetheless, the facial analysis results show—	
+77	N/A	『未识别特征匹配人员。』	「該人員未具有可識別的特徵。 」	「特徴照合該当なし。識別不能」	『특정 매칭 미식별 요원』	[No matches found]	
+78	莉琉	没有入境记录，『埃癸斯』系统无法识别。	沒有入境記錄，「埃癸斯」系統又無法識別……	入国記録がないと、『イージス』システムは認識できない。	입국 기록 없음. 『아이기스』 시스템도 식별 불가.	No arrival record... Aegis fails to identify.	
+79	莉琉	要不是你身体素质太差，可以立刻作为潜入新丰洲的间谍或者恐怖分子处理了。	要不是妳體質太差，恐怕立刻就被當作潛入新豐洲的間諜或恐怖分子處理掉了。	新豊洲に潜入した工作員やテロリストとして、\n普通なら直ぐに処分しているところだが……\nお前は、あまりにも身体能力が低いからな……	신체 조건이 이렇게나 나쁘지 않았다면 진작에 신토요스에 잠입한 간첩이나 테러리스트로 처리되었을 거야.	If it wasn't your poor physical fitness, you would be immediately dealt with as a spy or terrorist intruder.	
+80	小怜	我下意识的揉了揉软软的肚子，有点不好意思。	我下意識地揉了揉軟軟的肚子，有點不好意思。	……ちょっと恥ずかしくなり、俺は無意識で\n以前より柔らくなったお腹を触った。	나는 무의식적으로 물컹물컹한 배를 만졌다. \n조금 부끄럽다.	I feel a bit embarrassed and rub my belly unconsciously.	
+81	安妮	[%rolename%]，这个姐姐好像比刚才遇到的敌人还可怕……	[%rolename%]，這個姐姐好像比剛才遇到的敵人還可怕……	[%rolename%]。このお姉さん、\nさっき戦った敵達より怖いんだけど……	[%rolename%]，이 언니，방금 만났던 적보다 더 무서워……	[%rolename%], this girl looks tougher than the enemies we ran into earlier...	
+82	小怜	（是啊，跟她说谎马上会被看穿的样子……）	（是啊，對她說謊馬上會被看穿的樣子……）	（そうだね、嘘ついてもすぐにバレる予感……）	（그래. 거짓말했다간 금방 들킬 것 같아……）	(Yeah… and she won't have any trouble seeing through my lies...)	
+83	小怜	（还是老实交代吧！啊啊啊！不管了！）	（還是老實交代吧！ 啊啊啊！ 不管了！ ）	（やっぱ正直に喋ろうっ！　あああっ！\n　もう構うもんかっ！）	（솔직하게 얘기하자！아아아！몰라！）	(I'll confess! Gosh! Whatever!)	
+84	小怜	我叫[%rolename%]，该从哪里说起才好呢……	我叫[%rolename%]，該從哪裡說起才好呢……	俺は[%rolename%]、どこから話せばいいかな……	내 이름은 [%rolename%]，어디서부터 얘기를 해야 할지……	My name is [%rolename%]. Hmm, where should I begin...	
+85	小怜	事情的经过有点复杂，我自己也很混乱。	事情的經過有點複雜，我自己也很混亂。	事情が複雑過ぎて、俺自身も混乱してるんだ。	일이 너무 복잡해서 나도 조금 혼란스러워. 	It's a bit complicated, to be honest. I'm very confused too.	
+86	小怜	你听了也不一定会相信……	妳聽了也不一定會相信……	聞いても信じてもらえないと思うけど……	내 얘기를 들으면 분명 믿지 못할 거야……	You probably won’t believe what I say...	
+87	莉琉	怎么啰里啰嗦的，我自己会判断！	別囉嗦，我自己會判斷！	御託はいい。さっさと話せ。	주절대지 말고 얘기해. 내가 알아서 판단할 테니!	Cut to the chase! I'll have my own judgement!	
+88	小怜	……我……做了个梦。	……我……做了個夢。	……俺は……夢を見たんだ。	……꾸…꿈을 꿨어.	… Well… I had this dream.	
+89	小怜	因为要完成户外教学的报告，我去研究中心听讲座……是在昨天闭馆之前才赶到的。	因為要完成戶外教學的報告，我去研究中心聽講座……是在昨天閉館前才趕到的。	単位のために、研究センターの講義を\n聴きに行く事にしたんだ……\nそれで昨日は閉館直前に間に合ったんだ。	교외 활동 보고서를 완성하려고 폐관하기 전 급히 연구 센터에 강의를 들으러 갔어…	In the dream, I went to the Research Center to attend a lecture for my outdoor teaching report… And I arrived right before the closing time.	
+90	小怜	我在那遇到了你，你说那里被人入侵了……	我在那遇到了妳，妳說那裡被入侵了……	そこでマリルさんと出会って、\n「研究センターが占領された」って\nマリルさんから聞いて……	거기서 당신을 만났고，당신은 그곳이 침입당했다고 얘기했어……	I met you there. And you said it has been captured…	
+91	N/A	莉琉像是听到了什么笑话一般。	莉琉像是聽到了什麼笑話一般。	マリルは冗談でも聞いたような表情をする。	마리루가 우스운 얘기로 듣는 것 같다. 	Apparently, Mariru takes this as a joke or something.	
+92	莉琉	你是说，在梦里见过我？	妳是說，在夢裡見過我？	──夢の中で私に会ったと？	네 말은，꿈에서 날 만났단 거야?	You mean, you met me in a dream?	
+93	小怜	是的，的确是你。\n你还不由分说的把我拖到墙角……	嗯，的確是妳。 \n妳還很突然地把我拖到牆角……	そう、間違いなくあなただった。\nあなたは強引に俺を引っ張り込んだ……	그래，확실히 당신이였어.\n날 다짜고짜 구석으로 끌고 갔어……	Yes, it was you. \nAnd you dragged me to a corner...	
+94	小怜	啊对了，你好像是元老院评定的SS级科学家……\n莉琉・冯・布劳恩博士，没错吧？	對了，妳好像還是元老院評定的SS級科學家……\n莉琉・馮・布勞恩博士，沒錯吧？	あっ、そうだ。あなたは元老院に認定された\nSS級科学者……\nマリル・フォン・ブラウン博士だよね？	원로원이 인증한 SS급 과학자……\n마리루 폰 브라운 박사 맞지? 	And you are an SS-level scientist recognized by the Senate... \nDr. Mariru Von Braun. Am I right?	
+95	莉琉	……确实我就是。	……沒錯。	……確かにそうだ。	……그래，맞아.	... That's me.	
+96	莉琉	不过，这种信息本来就是公开的，对新丰洲科学院有一定了解的人都知道。	不過，這種資訊本來就是公開的，對新豐洲科學院有一定瞭解的人都知道。	しかし、その情報は元々公開されている。\n\n新豊洲科学院をある程度知ってる人間なら、\n誰でも分かっているはずだ。	하지만 그 정보는 신토요스 학원의 웬만한 사람들은 모두 알고 있는 공개된 정보야.	But this information is not secret—anybody familiar with New Opulentia knows it.	
+97	莉琉	……也罢\n然后呢？	……算了。 \n然後呢？	……まぁいい。\nそれで？	……됐고\n그래서 그 다음은？	… Forget it. \nSo, what happened next?	
+98	小怜	然后你放倒了一个劫匪并抢了一把手枪，叫我待在原地等救援，就自己去劫持现场了……	然後妳擊倒了一個劫匪並搶了一把槍，叫我待在原地等救援，就自己前往劫持現場了……	マリルさんは覆面のテロリストを1人倒して、\n拳銃を奪い取った。\nそして大人しく救援を待っていてくれと俺に\n指示した後、占領された現場に向かった……	당신은 강도를 쓰러트리고 총을 뺐었어. 내게 지원을 기다리라고 한 후 현장을 떠났지.	You knocked down one of the intruders and got a pistol. You asked me to stay put and wait for rescue, and you went to the hijack spot.	
+99	莉琉	劫持现场？\n是什么位置？	劫持現場？ \n在哪裡？	占領された現場？\nどこのことだ？	약탈 현장?\n어느 위치였지?	Hijack spot? \nWhere exactly?	
+100	小怜	嗯，你说是『会议厅』。	嗯，妳那時是說「會議廳」。	確か『講義室』って言ってた。	응，『회의실』이라고 했어.	You said it was the Conference Hall.	
+101	小怜	当时要举行一个讲座，你本应是主讲人。	當時要舉行一個講座，妳本來是主講人。	元々そこでは講義が開催される予定で、\nマリルさんが講師だったはず。	당시 강의가 있었는데，강연자가 바로 당신이였어.	You were about to give a lecture there. You were the lecturer.	
+102	莉琉	……讲座……主讲人	……講座……主講人	………講義…………講師。	……강의……강연자	… Lecture… Lecturer.	
+103	莉琉	（……难道是沃尔夫冈那个老家伙给我安排的关于洛斯金杯的义务讲座？）	（……難道是沃爾夫岡那個老傢伙替我安排關於洛斯金杯的義務講座？ ）	（……ヴォルフガングのジジイが手配した\n　『ロス・ゴールド』に関する講義の事か？）	（……설마 볼프강 그 자식이 계획한 로우스 금잔에 관한 강의인가?）	(Is she talking about the public lecture on Ross Goblet arranged by Wolfgang?)	
+104	莉琉	（不过应该被临时取消了，她怎么会知道？）	（不過那講座臨時取消了，她怎麼會知道？ ）	（しかしあれは公表される前にキャンセルされた　はず。なぜこの子が知っている？）	（하지만 이미 취소됐는데，어떻게 알아낸 거지?）	(But it should have been canceled. How could she know about this?)	
+105	小怜	那个……莉琉小姐？	那個……莉琉小姐？	あの……マリルさん？	저…마리루?	Em… Ma’am?	
+106	莉琉	嗯，没事，继续说。	嗯，沒事，繼續說。	気にするな。続けろ。	응，계속 얘기해.	Yeah… nothing. Go on.	
+107	小怜	然后来了几个带着枪的蒙面人，我逃走时摔到了楼下，挣扎着爬到一块石板的阴影里躲了起来……	然後來了幾個配槍的蒙面人，我逃走時摔到了樓下，掙扎著爬到一塊石板的陰影裡躲了起來……	しばらくして、銃を持ったテロリストが数人\nやってきた。俺は逃げようと頑張ったけど……\n下の階に落とされてしまって。そこから石板の\n影に必死に身を隠したんだ……	복면 쓴 남자들이 총을 들고 왔어. 난 도망치다가 추락했고 석판 그림자 뒤로 숨었어.	And some masked gunmen came by. I ran downstairs and hid in the shadow of a slate...	
+108	小怜	对不起，这一段我记不太清楚了……	對不起，這一段我記不太清楚了……	ごめんなさい。その辺りから、記憶が曖昧で……	미안，그 부분은 나도 명확히 기억나지 않아…	Sorry but I can't remember what happened there…	
+109	小怜	然后我似乎晕过去了，醒过来的时候，就发现……	然後我似乎就暈過去了，醒過來的時候，就發現……	どうやら気絶していて、気が付いた時には……\nもうすでに、景色が……	그리고 난 기절했어. 그런데 깨어나보니……	I somehow fainted and when I woke up, I saw…	
+110	莉琉	发现什么？	發現什麼？	景色が……？	깨어나보니?	What did you see?	
+111	小怜	四处都是浓烟和大火	四處都是濃煙和大火。	周囲一面の煙と火の海だったんだ。	사방이 모두 연기와 불이였어.	I saw smoke and flames all around.	
+112	小怜	研究中心和周围的建筑变成了一片废墟……	研究中心和周圍建築變成了一片火海……	研究センターの建物も、廃墟と化していた……	연구 센터와 주위 건물들이 모두 폐허가 됐고……	The Research Center and the surrounding buildings were all in ruins...	
+113	小怜	空气里有一股刺鼻的味道。	空氣裡有一股刺鼻的味道。	空気中の粘り付くような臭いが、鼻を突いて……	공기 중에 코를 찌르는 냄새가 진동했어.	There was a pungent smell all around.	
+114	小怜	还有厚重的咸味，让人舌根发涩……	還有厚重的鹹味，讓人舌根發澀……	舌根が渋くなるほどの鈍重な塩辛さ……	그리고 진한 짠 맛이 났어. 혀뿌리가 뻑뻑해질 정도의……	It had a heavy saline and bitter taste...	
+115	小怜	所有人都变成了石像	在場的所有人都變成了石像。	そして全員が石像になっていたんだ……	모든 사람들이 석상으로 변했어.	All people turned into stone figures.	
+116	小怜	不，不是石头，是盐。	不，不是石頭，是鹽。	いや、石じゃない………あれは……塩だ。	아니，돌이 아니라 소금이였어.	No, not exactly stone—it was salt.	
+117	小怜	我看到一个发光的东西飘在半空	我看到一個發光的東西飄在半空中。	あとは光っているモノが宙に浮いているのを……見た。	난 공중에 빛나는 물건이 떠있는 걸 봤어.	And I saw something shining in the air.	
+118	小怜	明明是那样地狱般的景象\n却能感到一种异样的宁静……	明明是地獄般的景象，\n我卻感到一絲異樣的寧靜……	地獄のような光景なのに……\nなぜか異様な静穏を感じて……	분명 지옥 같은 장면이었지만\n알 수 없는 평온함이 느껴졌어……	It was like hell. \nBut somehow I can feel a kind of peculiar tranquility.	
+119	小怜	似乎有什么在回应我……	似乎有什麼在回應我……	何かが呼び掛けてるような……	무언가가 내게 대답하는 것처럼…	Something is responding to me...	
+120	小怜	然后我的记忆就模糊了，应该是有一道光——	然後我的記憶就模糊了，應該是有一道光——	そこからまた記憶があやふやになって、\n一筋の光が──────	그 다음은 기억이 좀 흐릿한데 아마 빛이——	And then my memory became vague... There might be a streak of light—	
+121	小怜	嗯……然后梦就到此为止了。	嗯……夢就到此為止了。	うん……夢はそこで終わった。	응……꿈은 여기까지야.	And… that's pretty much the end of the dream.	
+122	小怜	等我回过神来，发现躺在自己房间的床上，时间已经是早上了。	等我回過神來，就發現正躺在自己的床上，時間已經是早上了。	気が付いたら、家のベッドで寝てて…\nもう朝を迎えていたんだ。	정신을 차려보니 난 내 방 침대에 누워있었고 시간은 이미 아침이었어.	When I woke up, I found myself on my bed in my room, and it was already morning.	
+123	莉琉	只是……梦吗……？	只是……夢嗎……？	ただの……夢……か？	그냥…꿈이였다고…?	Only... a dream...?	
+124	莉琉	这么强烈的嗅觉记忆，好像你真的在现场一样……	這麼強烈的嗅覺記憶，好像妳真的在現場一樣……	そこまではっきりした嗅覚の記憶。\nまるでお前は実体験でもしたかのような……	이 정도로 강렬한 후각 기억이라니，마치 정말로 현장에 있었던 것처럼……	Your olfactory memory was so vivid as if you were actually there…	
+125	莉琉	（如果“刺鼻的味道”是指硫磺的话……）\n（像是《创世纪》中所多玛和蛾摩拉毁灭的方式）	（如果「刺鼻的味道」是指硫磺的話……）\n（簡直就像是《創世紀》中毀滅索多瑪和蛾摩拉的方式。 ）	（その「鼻を突いた臭い」が硫黄であれば……）\n\n（『創世記』の中でソドムとゴモラが滅びる様式　と似ている）	（코를 찌르는 냄새가 유황을 의미한다면……）\n（《창세기》 소돔과 고모라가 멸망한 방식과 같아)	(What if this pungent smell is from brimstone...) \n(It's like how Sodom and Gomorrah were destroyed mentioned in the Genesis)	

@@ -1,0 +1,142 @@
+﻿1	贝阿特丽切	这群笨蛋，基本上都是男人啊——	這群笨蛋，基本上都是男人啊──		이 바보들이 거의 다 남자라는 거야——	No. These idiots—they’re all men!	
+2	N/A	贝阿特丽切微笑着举起右手，露出那个灰绿色金属质地、微微泛着淡蓝色光晕的手环。	貝阿特麗切微笑著舉起右手，露出那個灰綠色金屬質地、微微泛出淡藍色光暈的手環。		베아트리체가 웃으며 오른손을 들자 회녹색 금속 재질, 옅은 푸른 빛을 내는 팔찌가 보인다.	On Beatrice’s right arm is a bracelet—made of mossy green metal, gleaming softly in a light blue hue.	
+3	N/A	那是爱衣用能屏蔽模因类异质物影响的特殊合金制作的可以压制『诅咒』效果的道具。	那是愛衣製作的道具，是用屏蔽迷因異質物影響的特殊合金做成的，能夠壓制「詛咒」。		저건 아이가 이물질을 차단할 수 있는 특수 합금으로 제작한 『저주』 차단 아이템이다.	An invention of Aya's. Made of special alloy that blocks the effects of meme Substance H. Can be used to suppress the effects of Beatrice’s ”curse”.	
+4	小怜	等等，你是想……	等等，妳是想……		잠깐, 너 설마……	Wait, what are you planning to—	
+5	N/A	我记得莉琉几周前对我说过，那个『诅咒』会让所有看到她的男性陷入疯狂的迷恋。	我記得莉琉說過，那個「詛咒」會讓所有看到她的男性陷入瘋狂的迷戀。		며칠전 마리루가 그 『저주』는 그녀를 본 남자들을 미혹의 상태로 만든다고 얘기했었다.	I remember Mariru telling me a couple weeks ago about the “curse”. Any male who sees Beatrice will immediately fall head over heels in love with her.	
+6	N/A@莉琉	准确的说，是她的脸──	準確地說，是看到她的臉──		정확히 말하면 그녀의 얼굴──	To be exact, it’s her face that triggers the effect.	
+7	N/A@莉琉	爱衣的一系列试验发现，直视贝阿特丽切的脸会使男性大脑的梭状回和杏仁核区域高度兴奋。	愛衣在一系列試驗後發現，直視貝阿特麗切的臉會使男性大腦的梭狀回和杏仁核區高度興奮。		아이의 실험 결과, 베아트리체의 얼굴을 직시한 남자의 대뇌 방추상회와 편도체가 고도로 흥분하게 돼.	Through a series of tests conducted by Aya, they’ve discovered that looking directly at Beatrice’s face highly stimulates the fusiform gyrus and amygdala in the male brain.	
+8	N/A@莉琉	但仅限于距离80米内的直视──照片、录像、或镜面反射都不会产生效果。	但僅限於距離80公尺內的直視──照片、錄影或鏡面反射都不會產生效果。		하지만 80미터 거리에서만 가능하고──사진, 영상, 거울 반사는 모두 효과가 없었어.	However, it’s only effective if the target is directly looking at her in a 260-feet radius. Photos, videos or reflections do not have such an effect.	
+9	N/A@莉琉	这种兴奋持续一段时间后，会使观察者的大脑产生不可逆的变化，并改变整个人的行为模式。	這種興奮持續一段時間後，會使觀察者的大腦產生不可逆的變化，並改變整個人的行為模式。		흥분 상태가 일정 시간 지속된 후 관찰자의 대뇌에 불가역 변화가 생기고 모든 사람의 행동 모드를 바꿔.	After this stimulation is in effect for a period of time, the affected person’s brain will undergo irreversible changes. This will fundamentally change the way they act.	
+10	N/A@莉琉	由迫切想要占有她，转为求而不得的焦虑、狂躁、仇恨……甚至会产生自残、纵火和暴力倾向。	從迫切想要佔有她，轉為求之不得的焦慮、狂躁、仇恨……甚至會產生自殘、縱火和暴力傾向。		그녀를 소유하고 싶은 마음이 조급함, 초조함, 분노로 바뀌고…심지어 자멸, 방화, 폭력의 경향까지 보여.	They become desperate to make Beatrice theirs. But, as they can’t, they become anxious, irritable, resentful. This may even lead to self-harm, arson or violent tendencies.	
+11	莉琉	还真是对恋爱的现实写照啊──	還真是戀愛的現實寫照啊──		정말 현실 연애의 모습 같다니까──	How sad, eh? Unrequited love...	
+12	N/A	莉琉无奈的叹了口气。	莉琉無奈地嘆了口氣。		마리루가 한숨을 내쉰다.	Mariru sighs.	
+13	N/A	我刚想问这种可怕的试验爱衣是如何做的，但思量了一下觉得还是不知道为好……	我本來想問愛衣是如何完成這種可怕的試驗，但思考了一下覺得還是不知道比較好……		그런 무서운 실험을 어떻게 했는지 물어보려고 했지만 모르는 것이 나을 것 같다……	I open my mouth to ask how exactly Aya conducted that horrible experiment, but close it again. It’s better if I remain ignorant.	
+14	小怜	（还好我不是她的小白鼠~）	（還好我不是她的白老鼠～欸？ ）		（내가 실험쥐가 아니라 다행이야~）	(Luckily I wasn’t one of her test subjects...)	
+15	小怜	……	……		……	...	
+16	小怜	等等！你昨天命令我穿着『那种衣服』单独给贝阿特丽切做历史介绍。	等等！ 妳昨天命令我穿著「那種衣服」單獨幫貝阿特麗切做歷史介紹。		잠깐！어제 나한테 『그런 옷』을 입고 베아트리체에게 역사를 소개하라고 명령한 건 	Wait! When you made me explain stuff to Beatrice alone in “that outfit” yesterday...	
+17	小怜	不会也是爱衣的试验……	該不會也是……		설마 아이의 실험은 아니겠지……?	Was that an experiment of Aya’s too?	
+18	莉琉	你才反应过来？	妳現在才反應過來？ ！		이제 알았어?	You only realized now?	
+19	N/A	果然是吗？！	果然！		역시나？！	So it was?	
+20	莉琉	啧啧……那贝阿特丽切昨天戴的手环是假的，这件事你也还不知道吧？	嘖……那貝阿特麗切昨天戴的手環是假的，這件事妳也不知道吧？		쯧쯧……베아트리체가 어제 장착한 팔찌는 가짜야. 그것도 모르고 있었지?	Hmm, then you probably haven’t realized that the bracelet Beatrice wore yesterday was fake yet, eh?	
+21	N/A	莉琉有些失望的看着满脸震惊的我。	莉琉帶著失望眼神看著滿臉震驚的我。		마리루가 실망한 얼굴로 놀란 나를 쳐다본다.	Mariru quips, looking slightly disappointed at my lack of observation skills.	
+22	莉琉	指定那身衣服，是想避免你的主观感受污染试验数据，所以用『羞耻感』来混淆『爱慕感』。	指定那身衣服，是為了避免妳的主觀感受影響實驗，所以用「羞恥感」來混淆「愛慕感」。		그 옷을 입힌 건 너의 주관이 오염된 실험 수치를 받는 걸 방지하기 위해서  『수치심』과 『설레임』을 혼란시켰어.	The reason I made you wear that outfit was to keep your subjective thoughts from messing up our test results. The “embarrassment” you were feeling would effectively cancel out your “desires”.	
+23	莉琉	而且……	而且……		게다가……	Besides...	
+24	N/A	她突然双手捏住我的肩膀，脸上露出微妙的笑容。	她突然雙手捏住我的肩膀，臉上露出微妙的笑容。		그녀가 갑자기 두손으로 나의 어깨를 잡는다. 미묘한 웃음을 지으며. 	She reaches out, places both hands on my shoulders. On her face is a subtle smirk.	
+25	莉琉	让你穿兔女郎装果然很有意思~	讓妳穿兔女郎裝果然很有意思～～		바니옷을 입은 모습은 꽤나 재밌었어~	... You looked pretty good in a playboy bunny outfit!	
+26	小怜	啊啊啊啊啊啊啊啊啊──！！！\n不要再提了啊啊啊啊啊啊啊啊！！！！	啊啊啊啊啊啊啊啊啊──！ ！！ \n不要再提了啊啊啊啊啊啊啊啊！ ！！ ！		아아아아아아아아──！！！\n다시는 얘기하지마！！！！	Aaaaaaaaaa!\nCan’t we just stop bringing that up?	
+27	N/A	那地狱般的一个多小时，我穿着兔女郎装在封闭的房间里和贝阿特丽切面对面。	那地獄般的一個多小時，我穿著兔女郎裝在密閉的空間裡和貝阿特麗切面對面。		그 지옥같은 몇시간 동안 나는 바니옷을 입고 밀폐된 공간에서 베아트리체와 대면했다.	I spent that one hellish hour in a playboy bunny outfit, alone with Beatrice, in an enclosed room.	
+28	N/A	满脸通红的我紧张得一句整话都说不出来，走路都顺拐了…	滿臉通紅的我緊張到話都說不清楚，連走路都有點不穩……		얼굴이 달아오른 나는 한마디도 하지 못하고 길을 걸을 때도 비틀비틀 거렸다…	I was so nervous I could barely get out a whole sentence. I couldn’t even walk properly.	
+29	N/A	贝阿特丽切也全程强忍着笑意安慰我……	貝阿特麗切也全程強忍著笑意安慰我……		베아트리체는 처음부터 끝까지 웃음을 참으며 날 위로했다……	And Beatrice spent the hour comforting me, even though she was on the verge of bursting in to giggles, I’m sure.	
+30	莉琉	爱衣说当时你大脑的3D扫描像烟火表演一样，要不是后来脑压过高，她才不愿喊停呢。	愛衣說，當時妳大腦的3D掃描就像煙火表演一樣，要不是後來腦壓過高，她才不想喊卡呢。		아이가 너의 대뇌 3D스캔이 불꽃 같다고 했어. 뇌 압력이 올라가지만 않았어도 실험을 멈추지 않았을 거야.	Aya said the 3D scan images of your brain then was like a fireworks show. She really enjoyed it, would have let it go on for much longer if your brain pressure hadn’t been a bit high.	
+31	莉琉	不过现在能确认，虽然你的大脑会像男性一样对贝阿特丽切表现出兴奋，却不会留下任何创伤。	不過，能夠確定的是，雖然妳的大腦會像男性一樣對貝阿特麗切表現出興奮，卻不會留下任何創傷。		너의 대뇌가 남자처럼 베아트리체에게 흥분하긴 했지만 어떤 상처도 남지 않는다는 걸 확인했지.	Anyway, now we know that, though your brain reacts to Beatrice’s curse just like any normal male’s, no trauma will be left behind.	
+32	莉琉	换成其他人的话，短则四十秒，最长八分钟，就会留下永久的烙印。	換成其他人的話，最短四十秒，最長八分鐘，就會留下永久的烙印。		다른 사람이였다면 짧으면 40초 길면 8분 안에 영구적인 낙인이 남았을 거야.	On the other hand, other men will suffer from permanent brain damage after a period of looking at Beatrice’s face. The period ranges from forty seconds to eight minutes.	
+33	莉琉	是不是很安心啊？	是不是很安心啊？		이제 좀 안심이 되지 않아?	So you’re safe. Aren’t you relieved?	
+34	小怜	安心个屁啊──！！！	安心個屁啊──！ ！！		안심은 개뿔──！！！	I’m certainly not relieved!	
+35	N/A	……	……		……	...	
+36	N/A	最近希望消除掉的回忆有点太多了。	最近希望徹底刪除的回憶有點太多了。		요즘 지워버리고 싶은 기억이 많아진 것 같다. 	Ah, that’s another one of my memories I wish I could just erase.	
+37	小怜	（所以，如果在这里解除手环的话……）	（所以，如果在這裡解除手環的話……）		（그러니까, 만약 여기서 팔찌를 벗으면……）	(So... if she takes off her bracelet here...)	
+38	N/A	贝阿特丽切对我温柔的笑了笑，随后将我抱住，双手搭在我身后。	貝阿特麗切對我溫柔地笑了笑，隨即將我抱住，雙手搭在我身後。		베아트리체가 날 보며 다정하게 웃는다. 이어서 날 안고 두 손을 나의 등 뒤에 올린다.	Beatrice smiles sweetly at me, then pulls me into a hug.	
+39	N/A	我的视野被整个遮挡，面前一片漆黑。	我的視線完全被遮住，眼前一片漆黑。		시야가 완전히 가려져 칠흑 같다.	Everything goes dark in front of me as my face is smushed into her chest.	
+40	N/A@小怜	唔？	嗯？		음?	Huh?	
+41	N/A@贝阿特丽切	一会我说“开始”之后，你们有30秒的时间。	等一下我說「開始」之後，妳們有30秒的時間。		내가 “시작”이라고 말하면 너희에게 30초의 시간이 생기는 거야.	I’ll say “go”. After that, you have thirty seconds.	
+42	N/A@贝阿特丽切	救出伊露卡后咱们分开行动，在附近的新井中心公园汇合，那一带没有示威的人群。	救出伊露卡後，我們到附近的新井中心公園會合，那一帶沒有示威的人群。		이루카를 구한 후 각자 행동하자. 근처 신토요스 중심 공원에서 다시 만나. 거기엔 시위대가 없어.	Grab Elluka, and we’ll split up and meet up in Newell Central Park. Fewer protesters there.	
+43	N/A@贝阿特丽切	──听明白了吗？	──聽清楚了嗎？		──알았니?	Got it?	
+44	N/A	我点了点头，尽量不去想象面前软软的触感。	我點了點頭，盡量不去想像臉上軟軟的觸感。		나는 고개를 끄덕이고 앞에서 느껴지는 부드러운 촉감을 상상하지 않으려 노력했다.	I nod, trying my best not to think about the soft chest in my face.	
+45	N/A@索娅	我、我也要──	我、我也要──		나, 나도──	Hey, I want a turn too!	
+46	N/A	“咯”	「咯」！		“덜컥”	“Click”	
+47	N/A	金属卡扣碰撞的声音，手环被解除了。	金屬卡扣碰撞聲，手環被解開了。		금속 버클이 부딪히는 소리가 나고 팔찌가 벗겨졌다.	The clasp of the bracelet falls open. The curse is now in effect.	
+48	N/A	在索娅眼中，整个电器街瞬间被笼罩了一层粉红色的光幕。	在索婭眼中，整個電器街瞬間被一層粉紅色的光幕籠罩。		소야의 눈 앞에 전자 상가가 모두 분홍색 광막으로 뒤덮혔을 것이다.	In the eyes of Sonya, Electronics Street is now a world of pink.	
+49	N/A	下午跟小怜她们逛书店的时候，凡是散发出这种颜色气息的书，内容似乎都“很有保证”。	下午跟小憐她們逛書店的時候，凡是散發出這種顏色氣息的書，內容似乎都「很精彩」。		오후에 렌과 함께 서점을 구경할 때 이런 색깔을 발산하는 책은 모두 “내용 보장"이라고 적혀있었다.	The same kind of pink she saw shrouding certain books with explicit content back when they were shopping in the bookstore this afternoon.	
+50	索娅	你也是魔女？！	妳也是魔女？ ！		너도 마녀야？！	You’re a witch too?	
+51	贝阿特丽切	哦？你能辨别魔女的特征吗？	哦？ 妳能辨別出魔女嗎？		오? 넌 마녀의 특징을 분별할 수 있구나?	Ah. You can tell?	
+52	索娅	但和伊露卡、拉斐尔她们有些不一样──	嗯，但是妳和伊露卡、拉斐爾她們有點不一樣──		하지만 이루카, 라파엘과는 조금 달라──	But you’re not like Elluka or Raphilia...	
+53	索娅	你和小怜的气息，都像婴儿一样纯净！	妳和小憐的氣息都像嬰兒一樣純淨！		너와 렌의 기운은 갓난아이처럼 순결해！	You, like Ren, have an aura as pure as a baby’s!	
+54	索娅	……简直，太有趣了！！	……簡直，太有趣了！ ！		……너무 재밌잖아！！	... This is fascinating!	
+55	N/A	索娅的声音异常兴奋，拼命摇着我的后背。	索婭的聲音異常興奮，拚命搖著我的後背。		소야가 흥분한 목소리로 나의 등을 흔든다.	Sonya exclaims, shaking my shoulders in excitement.	
+56	小怜	唔唔哇呜咿呃！！\n（要无法呼吸了！！）	唔唔哇嗚咿呃！ ！\n（要無法呼吸了！ ！）		오아아아으악！！\n（숨을 쉴 수가 없어！！）	Wahhhhh!\n(Stop it! Can’t breathe!)	
+57	贝阿特丽切	这幅身体确实比我印象中轻呢──\n多亏了这个小可爱~	呵呵，這個身體確實比印象中還要輕盈呢──\n多虧了這個小可愛～		이 몸은 확실히 생각보다 가벼워──\n귀염둥이 덕분이야~	Your seem to weigh less than I remembered.\nAren’t you a cutie?	
+58	N/A	巨乳大姐姐将怀中的小怜抱得更紧了些。	巨乳大姐姐將懷中的小憐抱得更緊了。		거유 누님이 품 속에 렌을 꽉 껴안는다.	The busty lady holds Ren even tighter.	
+59	N/A	小怜似乎很激动，手拼命的在空中比划。	小憐似乎很激動，雙手拚命在空中比劃。		렌이 흥분한 것처럼 공중에 손을 휘두른다.	Meanwhile, Ren is flailing desperately, trying to escape her suffocating embrace.	
+60	索娅	……你究竟是什么人？	……妳究竟是誰？		……넌 도대체 누구야?	... Anyway, who are you?	
+61	贝阿特丽切	啊，似乎忘了做自我介绍呢~\n我叫贝阿特丽切·波尔蒂纳。	啊，一直忘了自我介紹呢～\n我叫貝阿特麗切·波爾蒂納。		아, 내 소개를 깜빡했네~\n나는 베아트리체 폴티나야.	Oops, forgot to introduce myself.\nI’m Beatrice Portinari.	
+62	N/A	90分钟前。	90分鐘前。		90분 전.	<90 minutes ago>	
+63	N/A	协约非武装区内，新丰洲鹭华园酒店。	協議非武裝區內，新豐洲鷺華園酒店。		협의 비무장지대 내, 신토요스 로화원 호텔.	<Agreed Demilitarized Zone, New Opulentia Stork Garden Hotel>	
+64	N/A	顶层宴会厅──听鹂堂门外。	頂樓宴會廳──聽鸝堂門外。		옥상 연회 로비 밖.	<Outside Birdsong Hall, the banquet hall on the top floor>	
+65	莉琉	居然在99层修了个露天庭院……是不是华云宫的人都喜欢这么干？	居然在99樓蓋了個露天庭院……是不是華雲宮的人都喜歡這麼浮誇？		99층을 야외 정원으로 꾸미다니……화운궁 사람들은 이런 걸 좋아하나봐?	Whoa, they’ve got a garden up here on the 99th floor. Do people in Hovering Palace enjoy luxuries like this all the time?	
+66	N/A	莉琉看着庭院顶部大厦的玻璃屋顶不屑的笑笑。	莉琉看著庭院上方大廈的玻璃屋頂，不屑地笑了笑。		마리루가 빌딩의 유리 옥상을 보며 비웃는다.	Mariru surveys the glass rooftops, smirking half-heartedly.	
+67	斯库尔德	可能越高越显得尊贵吧……而且99这个数字听起来比较吉利？	可能高度越高看起來就越尊貴吧……而且99這個數字聽起來比較吉利？		높을수록 더 존귀해 보이기 때문 아닐까?……게다가 99는 행운의 숫자 같잖아	Maybe the higher the garden is, the more luxurious it seems? Or maybe 99 is the owner’s lucky number?	
+68	N/A	金发少女困惑的挠了挠头。	金髮少女困惑地搔了搔頭。		금발 소녀가 곤혹스러운 듯 고개를 젓는다.	The blond girl scratches her head, confused.	
+69	斯库尔德	你到底是怎么锁定这场拍卖会的？	妳到底是怎麼鎖定這場拍賣會的？		도대체 언제 이 경매장을 확정지은 거야?	How did you decide that this auction is what we’re looking for anyway?	
+70	N/A	莉琉目光转向了宴会厅门口的喷绘。	莉琉目光轉向了宴會廳門口的噴墨廣告。		마리루가 연회장 입구의 팜플렛을 쳐다본다.	Mariru trains her gaze on the spray-painted billboard at the entrance of the banquet hall.	
+71	N/A	大标题是“致元博物馆秋季拍卖会”\n下面一行小字：艺术与金融交汇新模式	大標題是「致元博物館秋季拍賣會」。 \n下面一行小字寫著：藝術與金融交匯新模式		주제는 “제일 박물관 가을 경매”\n아래 작은 글씨: 예술과 금융을 융합한 새로운 형식	On it is the heading “Johnson’s Museum Autumn Auction”,\nfollowed by the subtitle: where art meets finance.	
+72	N/A	蓝底白字的设计非常刺眼，让人很难相信这是艺术品拍卖会。	藍底白字的設計非常礙眼，讓人很難相信這是藝術品拍賣會。		바란색 배경의 흰 글자가 눈을 자극한다. 예술품 경매장이라고 믿기 힘들다.	The white text seems especially jarring over the blue background. Nothing artistic about it.	
+73	斯库尔德	太难看了吧？一幅诈骗的样子……	太難看了吧？ 怎麼看都很像詐騙……		너무 이상하지않아? 꼭 사기꾼 같아……	Is this really an auction for artworks? Doesn’t seem very aesthetically pleasing to me.	
+74	N/A	莉琉笑着点了点头。	莉琉笑著點了點頭。		마리루가 웃으며 고개를 끄덕인다.	Mariru nods and grins.	
+75	莉琉	但这场拍卖会的五百个位置座无虚席，63件拍品已经卖出去了60件，没有一件流拍。	但這場拍賣會的五百個席位全坐滿了，63件拍賣品也已經賣出了60件，沒有一件流標。		하지만 이 경매장의 500석이 가득 찼어. 63개 경매품 중 60개가 팔렸고 단 한 점도 유찰되지 않았어.	But all five hundred seats are filled. Out of the sixty-three items, sixty have already been sold.	
+76	莉琉	目前这60件拍品的累积成交额已经超过15亿了。	目前這60件拍賣品的累積成交金額已經超過15億了。		현재 60개 경매품의 누적 거래액은 15억이 넘었지.	A total of 1.5 billion has been made.	
+77	斯库尔德	这么多？！这属于世纪级拍卖会了吧？\n怎么我都没听过……	這麼多？ ！這已經是世紀級的拍賣會了吧？ \n為什麼我都沒聽過……		그렇게나 많이？！글로벌 경매장이야?\n난 왜 들어본 적이 없지……	That much? This auction must be huge, then.\nBut I haven’t heard a thing about it...	
+78	莉琉	你之前提供的那些电子加密货币账户里，总共有几十亿的资金。	妳之前提供的那些電子加密貨幣帳戶中，總共有幾十億的資金。		네가 예전에 준 그 전자 기밀 화폐 계좌 안에 총 십억이 넘는 자금이 있었어.	The electronically encrypted accounts you tipped us on... they contain funds worth billions.	
+79	莉琉	数目虽不算少，但也就能造两栋这样的大厦而已。	數目雖然不少，但也只夠蓋兩棟這樣的大廈而已。		적지 않은 금액이라 이 빌딩 두채를 살 수 있었지.	That’s a lot, but only enough to build two skyscrapers of this type.	
+80	莉琉	想用这点钱影响联合议会几万亿的重建基金，只有一种可能──	想用這點錢影響聯合議會幾兆的重建基金，只有一種可能──		이 돈으로 연합회의의 몇만억의 재건 자금에게 영향을 미치려면 한가지 가능성이 있었어──	To use this amount of money to create an impact on the trillions of rebuilding funds the United Congress owns, there should be only one way...	
+81	斯库尔德	特意用加数字密货币的话……用来行贿？	刻意用加密貨幣的話……是想賄賂？		일부러 숫자를 더한 기밀 화폐를 이용한 거라면……뇌물?	Bribery? That’s why they chose encrypted currency?	
+82	莉琉	虽然账户是加密的，可交易会在全网广播，这种规模的转移想不引起注意是不可能的──	雖然帳戶是加密的，但交易可是會全程公開，因此這種規模的金額流通想要不引起注意也難──		기밀 계좌라고 해도 이런 규모의 전이가 주의를 끌지 않는 건 불가능한 일이지──	The accounts may be encrypted, but any transactions made can be seen by everyone in the network. And a transaction this size—no way people won’t notice it.	
+83	斯库尔德	所以需要提供一个合理的解释……	所以需要提供一個合理的解釋……		그래서 합리적인 설명이 필요했어……	That’s why they need a feasible reason for the transaction...	
+84	N/A	斯库尔德歪头飞速思考着，忽然眼前一亮。	斯庫爾德歪著頭快速思考著，忽然眼睛一亮。		스컬드가 고개를 기울이며 생각에 빠졌다가 갑자기 눈을 번쩍인다.	Skuld tilts her head to one side, thinking. Then she exclaims:	
+85	斯库尔德	拍卖会！	拍賣會！		경매장!	Oh, that’s why they’re holding an auction!	
+86	斯库尔德	用无法定价的古董很容易转移大额资金，瓷器玉器古画这种艺术品拍出几百万也不会惹人注意。	無法定價的古董可輕鬆用來轉移大筆資金，像瓷器玉器古畫這種藝術品，賣個幾百萬也不會有人懷疑。		가격을 정할 수 없는 골동품을 거액의 자금으로 만들기 쉬워. 기와 같은 골동품은 주의를 끌지 않지.	Antiques without a set price are a good excuse for transactions worth a large amount. Stuff like china, jade, old paintings... no one would bat an eye if they saw someone bidding millions for them.	
+87	斯库尔德	又是发生在国际领土的交易，各国税务部门都有追税权力，结果反而无法收税。	而交易又是發生在國際領土上，各國稅務部門都有追稅的權力，反而因此無法收稅。		국제 영토에서의 거래라면, 각국 세무부서가 세금을 걷지 않아.	And the transaction is held on international territory too. Makes it impossible for the tax departments from different nations to collect tax.	
+88	斯库尔德	只要联系好交易双方，再以某个私人博物馆的名义卖点垃圾就能名正言顺的做到。	只要聯繫好交易雙方，再以某個私人博物館的名義來賣點垃圾，就能名正言順地完成交易。		거래 쌍방에게 연락하고 개인 박물관의 명의로 쓰레기를 팔면 정정당당하게 거래할 수 있어.	All they need is to contact both sides of the trade and sell off some junk under the name of some privately-owned museum.	
+89	斯库尔德	但不能让会场有懂行的人，否则可能被戳破……	但會場內不能有熟知拍賣交易這行的人，否則可能會露餡……		하지만 경매장에 전문가가 있어서는 안돼. 그렇지 않으면 발각될 테니까……	But they can’t let real art connoisseurs into the venue, because they’ll be able to tell something’s up at a glance.	
+90	斯库尔德	啊，所以才座无虚席！\n都是他们安排好的自己人？	啊，所以才座無虛席！ \n那些都是他們安排好的自己人？		아, 그래서 빈 자리가 없구나！\n모두 너희쪽 사람들이지?	So that’s why all seats are filled!\nThey’ve filled the seats with their own people!	
+91	N/A	莉琉摸了摸斯库尔德的头。	莉琉摸了摸斯庫爾德的頭。		마리루가 스컬드의 머리를 쓰다듬는다.	Mariru pats Skuld’s head approvingly.	
+92	莉琉	你每天在御樱川的初中部上课不会无聊吗？	妳每天在御櫻川的初中部上課不會無聊嗎？		매일 사쿠라가와 초등부에서 수업받는 거 지루하지 않아?	Very clever. You probably get bored at school a lot, huh?	
+93	斯库尔德	秘密~	祕密～		비밀이야~	What do you think?	
+94	N/A	斯库尔德有些得意的看着莉琉。	斯庫爾德有點得意地看著莉琉。		스컬드가 득의양양한 표정으로 마리루를 쳐다본다.	Skuld beams up at Mariru, looking proud.	
+95	莉琉	哼，那我再教你点东西吧──	那我再教妳點東西吧──		흠, 그럼 내가 몇가지 더 가르쳐줄게──	Let me tell you something else, then.	
+96	莉琉	『战后重建基金』本质上是联合议会放的贷款，借钱的政府不敢倒债，否则就是与六大国为敌。	「戰後重建基金」本質上是聯合議會放出的貸款，借錢的政府不敢倒債，否則就是與六大國為敵。		『전쟁 후 재건 자금』의 본질은 연합의회의 대출금이야. 돈을 빌린 정부가 빚을 갚지 않으면 우리 6대국의 적이 되지.	The “post-war rebuilding funds” are basically loans provided by the United Congress. The governments that borrowed from them must pay the money back, or face the wrath from the six major nations.	
+97	莉琉	但历史上这种贷款基本没有能按期还上的，这里就会产生很大的谈判空间。	但歷史上來說，這種貸款通常沒人能夠如期歸還，因此會產生很大的談判空間。		하지만 역사상 이런 대출은 제시간에 갚을 수 없어. 여기서 교섭할 기회가 생기게 돼.	But historically, no nation was ever able to repay a loan this size within the deadline. That’s where scope for negotiation comes in.	
+98	莉琉	以董事会那几人的财力，应该只是想把最有利可图的那小块切走，比如电力和通信这种基础设施。	以董事會那幾個人的財力，應該只想吞下最有利可圖的那塊，比如電力和通訊這種基礎設施。		이사회의 재력으로 이익을 취할 수 있는 부분을 떼어갈 거야. 전력이나 통신 같은 기본적인 설비 같은 것.	The Committee is filthy rich. All they want for themselves is probably the most lucrative sector, for example basic infrastructures like power and communications.	
+99	莉琉	只要跟政府首脑说电力设施的贷款不用还了，条件是永久占有电网30%的股份。	只要跟負債的政府說電力設施的貸款可以不用還了，但條件是將電力設備的30%股份永久讓給董事會。		정부 수뇌에게 전력 설비의 대출금은 갚을 필요 없다고 얘기하면서 전력망의 30% 지분을 영구 점유하는 거야.	They can simply make a proposal to the heads of the governments that borrowed money: that they won’t need to pay the borrowed amount back as long as they permanently give the Committee 30% of the shares of their telecommunications network.	
+100	莉琉	那种手头缺现金的政府多半会同意，甚至国家元首私下主动要求返利也说不定。	手上缺現金的政府多半會同意，有些國家元首還會私下主動要求回扣。		자금이 없는 정부는 대부분 동의하겠지. 심지어 개인적으로 이익을 취하는 국가 원수도 있어.	The governments, unable to pay back the loans, will usually agree. Some of the nation leaders may even actively request rebates in private.	
+101	斯库尔德	那要怎么才能切走那小块呢？	要怎樣才能吞下那塊呢？		그럼 어떻게 해야 이익을 취할 수 있는데?	So how does the Committee gain control over the “sectors” they want?	
+102	斯库尔德	得让联合议会同意跨国企业进驻基金，而且能有一定的自主选择权吧……	得讓聯合議會同意跨國企業進駐基金，而且能有一定程度的自主選擇權……		연압의회가 글로벌 기업이 자금에 개입하는 걸 동의하고 일정한 자주선택권이 있어야겠지……	They have to convince the United Congress to let multinational corporations own funds and have a certain degree of autonomy...	
+103	斯库尔德	这种让步也太大了，真的可能吗？	這種讓步也太大了，真的有可能嗎？		너무 많이 양보하는 거 아니야? 정말 이게 가능해?	That’s a lot to ask for. Will they really agree?	
+104	N/A	莉琉没有回答，而是提了个问题。	莉琉沒有回答，反而提了個問題。		마리루가 대답하지 않고 오히려 질문을 한다.	Instead of answering, Mariru simply asks another question.	
+105	莉琉	这个喷绘如此粗糙，说明什么？	妳覺得這個噴墨如此粗糙，代表什麼意思？		이 분회가 이렇게 거친 건 무슨 의미일까?	This spray-painted art looks like a kindergartener did it. What does that tell you?	
+106	斯库尔德	说明伪装工作不上心。	代表偽裝工作做得不夠好。		위장 작업을 어영부영했다는 의미겠지.	That whoever did it wasn’t trying hard enough to conceal the fact that it’s all fake.	
+107	莉琉	这么大的交易额，花钱包下了酒店顶层，还雇了几百号人，为什么不好好伪装呢？	這麼大的交易額，花錢包下酒店頂樓，還雇用了幾百人，為什麼不好好偽裝呢？		이렇게 큰 거래 금액을 호텔 옥상에 쏟아붓고 수백명의 사람을 고용했으면서 왜 허술하게 위장하지?	A lot of money is involved, though. They had to rent the top floor of the hotel and hire hundreds of people. They already spent so much—so why didn’t they spend a lot on the graphics too?	
+108	斯库尔德	嗯……	嗯……		음……	Hm...	
+109	N/A	斯库尔德一时接受了太多信息，脑子有点转不动。	斯庫爾德一時接受了太多資訊，腦子有點轉不動。		스컬드가 갑자기 너무 많은 정보를 얻어 뇌가 잘 돌아가지 않는다.	Skuld pouts, stumped by all the new information.	
+110	莉琉	因为这种事在这里或其他地方，早已发生过不知多少次了──	因為這種事在這裡或其他地方，早就發生過不知多少次了──		이런 일이 이곳이나 다른 곳에서 얼마나 많이 일어났는지 모르기 때문이야──	Well, it’s because this isn’t new to them. It’s happened countless times already. Both here and somewhere else.	
+111	莉琉	从没被发现或质疑过，所以不会上心。	從來沒被發現或質疑過，所以沒必要在偽裝上多費心思。		발견하지 않았거나 의심하지 않아서 전념하지 못하는 거지.	No one‘s ever suspected or called them out. So they no longer bother to conceal it.	
+112	莉琉	贿赂本身也是种学问，尤其是这种地下交易，更需要收集大量情报，安排好上下各级人员的利益。	賄賂本身也是種學問，尤其是這種地下交易，更需要收集大量情報，安排好上下各級人員的利益。		뇌물은 일종의 학문이야. 특히 이런 지하 거래는 많은 정보 수집과 각 인원의 이익 분배가 필요해.	Bribery is an art in itself, especially this underhanded type of bribery. They need to collect an immense amount of information and make sure everyone involved is satisfied at every level.	
+113	莉琉	为了这些情报，不知要长年累月的进行多少调查、拉多少人下水、做多少次今天这种利益交换──	為了這些情報，不知要經年累月進行多少調查、拉多少人下水、做多少次今天這種利益交換的準備──		이 정보들을 위해 얼마나 긴 세월 조사했는지, 누가 얽혔는지 얼마나 이익 거래를 했는지 몰라──	Heaps of investigations have to be done. Countless people become part of the operation. Exchanges of benefits, like this one we see today, have happened numerous times.	
+114	莉琉	协调官员、媒体、工会、非政府组织甚至犯罪团体中哪些位置的哪些人……	協調好官員、媒體、工會、非政府組織，甚至是犯罪團體中哪些位置的哪些人……		협조 관원, 미디어, 노동조합, 비정부조직 심지어 범죄단체 중 어떤 위치의 누군가……	They’ll have to negotiate with heaps of people. Officials, media channels, worker alliances, non-governmental organizations, even those in a high position in organized crime.	
+115	莉琉	就可以影响联合议会的关键决策。	就可以影響聯合議會的關鍵決策。		연합의회의 중요 정책에 영향을 미칠 수 있어.	That’s how they influence key decisions made by the United Congress.	
+116	N/A	莉琉两眼放光的看着宴会厅的大门。	莉琉眼睛閃閃發光地看著宴會廳大門。		마리루가 반짝이는 눈으로 연회장의 대문을 쳐다본다.	Mariru nods at the closed door of the banquet hall.	
+117	莉琉	──这才是这场拍卖会中最有价值的东西。	──這才是這場拍賣會中最有價值的東西。		──이게 바로 이 경매장의 가장 가치 있는 물건이지.	That’s what’s actually worth the most in this auction.	
+118	N/A	斯库尔德垂下头叹了口气。	斯庫爾德垂下頭嘆了口氣。		스컬드가 고개를 숙이고 한숨을 내쉰다.	Skuld hangs her head and sighs.	
+119	斯库尔德	好讨厌……感觉又被碾压了。	好討厭……感覺又拿他們沒辦法了。		짜증나……또 뭉개진 느낌이야.	This sucks... it feels so dishonest...	
+120	斯库尔德	等等，你一开始就是这么打算的吧！？	等等，妳一開始就是這麼打算的吧！ ？		잠깐, 처음부터 이럴 계획이였지！？	Wait, was that what you’ve been planning since the beginning?	
+121	斯库尔德	根本不是想将影响重建计划的人绳之以法……	根本不是想將影響重建計劃的人繩之以法……		재건 계획에 영향을 미치는 사람들을 법으로 제재할 생각이 없었던거야……	You didn’t want to arrest those masterminds manipulating the rebuild project...	
+122	N/A	突然，宴会厅的大门打开一道小缝，法贝拉伸出一只手比着“OK”的手势。	突然，宴會廳的大門打開一道小縫，法貝拉伸出一隻手比著「OK」。		갑자기 연회장의 대문이 열리고, 라파엘이 손을 내밀어 “OK” 손동작을 한다.	Suddenly, the door to the banquet hall opens by a small crack. Fabella holds out a hand, giving them an OK sign.	
+123	N/A	那是拍品全部拍完，进入电子加密货币转账环节的信号。	那是拍賣品全數售出，準備進入電子加密貨幣轉帳程序的暗號。		경매품이 모두 팔렸으니 전자 기밀 화폐 계좌 단계로 진입한다는 신호다. 	It’s the signal that all items have been sold and the transaction between the electronically encrypted accounts is about to happen.	
+124	N/A	莉琉拿起对讲机──	莉琉拿起對講機──		마리루가 무전기를 꺼내든다──	Mariru picks up her walkie-talkie.	
+125	莉琉	回收队封锁99层的电梯通风管和全部出口，通知酒店98层检测到了大剂量的辐射污染物。	回收隊，封鎖99樓的電梯、通風口和所有出口，通知酒店，在98樓檢測到了大量的輻射污染物。		회수대는 99층의 엘리베이터와 모든 출구를 봉쇄하고 호텔 98층에서 대량의 오염물이 발생했다고 알린다.	Retrieval team, block all entrances to the 99th floor, including the elevator shaft. Alert the hotel that a large dose of radioactive pollution substances have been detected on the 98th floor.	
+126	莉琉	切断大楼的有线网路和所有频段通信信号，行动开始后全员进入无线电沉默。	切斷大樓的有線網路和所有頻段通訊訊號，行動開始後全員進入無線電靜默。		빌딩의 유선 네트워크와 모든 통신 신호를 차단하고 행동 시작 후 전원 무선 침묵한다.	Cut all network signals and means of communication in the building. Once I say go, impose radio silence.	
+127	莉琉	行动！	行動！		행동 개시!	Go!	
+128	N/A	…………	…………		…………	...	
+129	N/A	贝阿特丽切终于放开憋得满脸通红的我，将我调转方向背对着她并耳语了几句。	貝阿特麗切終於放開憋得滿臉通紅的我，將我轉為背對著她，並在我耳邊說。		베아트리체가 드디어 얼굴이 달아오른 나를 놓고 나와 등을 진 뒤 귓가에 속삭인다.	Beatrice finally lets me breathe. She prods me to turn around so that my back is facing her, and whispers into my ear.	
+130	贝阿特丽切	一会等我说“开始”，还有不要偷看哦~	等我說「開始」，還有，不要偷看哦～		잠시 후에 “시작”이라고 하면 절대 날 몰래 봐서는 안돼~	Wait until I say “go”. And don’t peek!	
+131	N/A	之后她就将我推向了伊露卡花车的方向──我拼命挤进人群，索娅紧跟在后。	之後她就將我推向伊露卡所在的花車方向──我拚命擠進人群，索婭緊跟在後。		그녀가 날 이루카 퍼레이드 카가 있는 방향으로 밀자 힘겹게 인파를 해쳐나갔다.	She then shoves me towards the direction of the truck which Elluka is on. I try my best to force my way through the crowds, with Sonya following from behind.	
+132	N/A	贝阿特丽切气定神闲的走向附近的另一辆花车，像女王一样一个个推开了挡在前面的男人。	貝阿特麗切氣定神閒地走向附近的另一輛花車，像女王一樣地一個個推開了擋路的男人。		베아트리체가 차분하게 근처 퍼레이드 카로 걸어가 길을 막은 남자들을 여왕처럼 밀쳐낸다.	Meanwhile, Beatrice calmly stalks off towards another truck nearby, pushing men out of the way like a high and mighty queen.	
+133	N/A	那些被推开想发火的家伙一看到她的脸，立刻就进入发呆模式。	那些被推開且正想發火的傢伙一看到她的臉，立刻就進入發呆模式。		화를 내려던 남자들이 그녀의 얼굴을 본 순간 어리둥절한 상태가 된다.	Whoever turns around to scream at her loses their senses immediately when they see her face.	
+134	N/A	贝阿特丽切轻巧的爬上了一辆没有表演的花车，两个工作人员正在车顶调试音响。	貝阿特麗切輕而易舉地爬上一輛沒有表演的花車，兩個工作人員正在車頂調試音響。		베아트리체가 퍼레이드 카 한대로 올라갔다. 직원 두명이 차 위에서 음향을 테스트하고 있다.	Beatrice nimbly climbs up onto an unoccupied truck, where two workers are performing a sound check on the roof.	
+135	N/A	她毫不费力的要来了麦克风，看着我和索娅摸到了伊露卡附近后示意工作人员开到最大音量。	她毫不費力就要來到麥克風，看著我和索婭一路闖到伊露卡附近後，就示意工作人員將音量開到最大。		그녀가 주저없이 마이크를 들었다. 나와 소야가 이루카 근처에 도착한 걸 보고 마이크를 최대 음량으로 맞춘다.	She grabs a mike and watches until Sonya and I manage to squeeze as closely to Elluka’s truck as possible, then motions at the workers to turn her mike to max volume.	
+136	贝阿特丽切	开始！	開始！		시작!	Go!	
+137	N/A	听到她声音清晰的从背后传来，我对索娅点了点头。	聽到她的聲音從背後清晰傳來，我對索婭點了點頭。		그녀의 목소리가 등 뒤에서 들려오자 나와 소야가 고개를 끄덕였다.	Hearing her orders, I nod at Sonya.	
+138	小怜	行动！	行動！		행동 개시!	Go!	
+139	N/A	贝阿特丽切的下一句发言将透过那台刚调试好，功率开到最大的音响，穿彻整个电器街。	貝阿特麗切的下一句發言將透過那台調整完畢、音量已開到最大的音響，穿透整條電器街。		베아트리체의 다음 발언이 전체 전자 상가에 울려 퍼진다.	With the speaker on max volume, whatever Beatrice says next will reach the ears of every single person on Electronics Street for sure.	
+140	N/A	只见她站在车头，闭上眼睛后深深的吸了一口气。	只見她站在車頭，閉上眼睛後深深吸了一口氣。		그녀가 차 앞부분에 서있는 걸 확인하고 눈을 감은 후 숨을 깊이 들이마셨다.。	Standing proud on the roof of the truck, she takes a deep breath and screams into her microphone, letting her voice carry.	
+141	贝阿特丽切	你们这群渣滓──	你們這群雜碎──		이 쓰레기들아──	You’re garbage, all of you!	
+142	贝阿特丽切	不折不扣的变态！！	不折不扣的變態！ ！		구제불능 변태들아！！	Go to hell, perverts!	

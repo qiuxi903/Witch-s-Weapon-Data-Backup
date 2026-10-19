@@ -1,0 +1,150 @@
+﻿1	N/A	很多人认为，记忆就像视频文件。	很多人認為，記憶就像影片檔案。	人々にとって、記憶は映像のようなものだと\n思われていた。	많은 사람들이 기억은 영상 파일과 같은 것이라고 생각한다.	Some may think memories are like video files.	
+2	N/A	回忆时只需找到相应的时间点，按下播放键就能观看。	回憶過去時，只要找到對應的時間點，按下PLAY就能觀看。	時間軸上の適切なポイントさえ探し当てれば、\nあとは再生ボタンを押すかの如く、\n好きに思い出を確認する事ができる。	회상할 때 해당 시점을 찾아 플레이 버튼을 누르면 바로 볼 수 있는.	When we try to recall them, we just find the correct time point and press play.	
+3	N/A	但人脑在编码记忆时，并非是如摄影机那样工作的──而它只会记录下一些碎片。	但是，人腦為記憶編碼時，並不像攝影機那樣──它只會記錄一些片段。	だが、人の脳内は思い出を記憶に変換する際、\nフィルムのように働くわけではなく──\n──いくつかの断片を記録しているだけなのだ。	하지만 뇌가 기억을 편집할 때 카메라와 달리──몇몇의 조각만 기록할 뿐이다.	But our brains aren’t programmed that way. Brains are not video-cameras. Instead of whole film reels, all it records is fragments.	
+4	N/A	在回忆时，大脑会给这些记忆碎片提供一个想象空间，然后用推理的方法还原“当时”的场景。	回憶時，大腦會為這些記憶片段提供一個想像空間，然後用推理的方法還原「當時」的場景。	思い出そうとする際に、脳は記憶の断片に\n自由な「想像」の空間を与える。\nそして「当時」のシーンを推定によって\n復元する。	회상할 때，뇌는 기억 조각에게 상상의 공간을 제공하고， "당시"의 화면을 추측한다. 	When we recall memories, the brain leaves a scope of imagination for these memory fragments, and then sort of “infer” what had happened at that time point.	
+5	N/A	所以，就像某部电影中所说的──	所以，就像某部電影中所說的──	つまり、とある映画の登場人物が言っていた\nセリフと同じ──	한 영화에서도 이렇게 얘기한 적 있다──	So, like they said in a movie—	
+6	N/A	『记忆只是一种演绎，而非记录。』	「記憶只是一種演繹，而非記錄。 」	『記憶は思い込みだ、記録じゃない』	『기억은 추론일 뿐 기록이 아니다.』	“Memories are interpretations, not records.”	
+7	N/A	在斯库尔德好奇的目光下，我盯着手中的糖盒头皮一阵发麻。	在斯庫爾德好奇的目光下，我盯著手中的糖果盒，頭皮一陣發麻。	スクルドの好奇心に満ちたまなざしを横目に、\n俺は手に持った飴の缶を見て、背筋が凍った。	스쿨드의 호기심 가득한 눈빛을 받으며 사탕상자를 바라보던 나는 잠시 얼떨떨해졌다.	I feel my brain freeze under Skuld’s scrutinizing gaze.	
+8	N/A	这个糖盒上的图案，还有外面的广告牌──	這盒子上的圖案，還有外面的廣告牌──	このキャンディー缶の絵……\n\nそして外に見える広告の看板……	이 사탕상자 위의 그림，그리고 바깥에 있는 광고판까지──	The design on this candy box... and the billboard I saw out there...	
+9	N/A	绝不可能出现在法贝拉两年前的记忆中。	絕不可能出現在法貝拉兩年前的記憶中。	こんなものが2年前のファビオラの記憶に\n存在するはずがない。	파비올라의 2년 전 기억 속에 절대로 나타날 수 없는 것들이다.	This design couldn’t have existed in Fabella’s memories of two years ago. It hadn’t even been created yet then.	
+10	N/A	爱衣和莉琉也不会用这么特殊的标识。	愛衣和莉琉也不會用這麼特殊的標記物。	愛衣とマリルも、こんな特殊な目印は使わない。	아이와 마리루도 이런 특수한 표식을 사용할리가 없다.	Unless Aya and Mariru are using it as a sort of marker for me inside this memory... but no, it can’t be. They aren’t into game characters.	
+11	N/A	如果它们是被什么人有意放在这个世界中，就只有一种可能──	如果它們是被誰刻意放這個世界裡，就只有一種可能──	誰かによって意図的に、この世界に配置された\nとするのであれば……\nその「誰か」は1人しかありえない──	누군가 그것들을 이 세계 속에 일부러 넣은 것이라면，단 한 가지 가능성은──	Whoever deliberately placed the design in this world must be...	
+12	小怜	（那个人，就是我自己。）	（我自己。 ）	（「俺」自身だ……）	（그 누군가는 바로 나 자신이다.）	(Me. It has to be me.)	
+13	N/A	我在法贝拉的记忆中，放入了本不该存在的东西。	我在法貝拉的記憶中，放入了原本不該存在的東西。	俺自らが、ファビオラの記憶に存在するはずの\nないものを配置したのだ。	나는 파비올라의 기억 속에 존재해서는 안되는 물건들을 투입했다.	I placed something that shouldn’t even have existed inside Fabella’s memories.	
+14	N/A	不过，到底是什么时候……	不過，我究竟是什麼時候做這些事的……	でも、いつ配置したのか……	하지만 도대체 언제……	But when did that happen?	
+15	N/A	我做这些，又是为什么？	又是為了什麼而做？	そして、何のために……	난 도대체 무얼 했고 왜 그랬을까？	And why would I even do that?	
+16	N/A	……头痛。	……頭真痛。	……頭痛がする。	……머리가 아프다.	... I feel a headache coming up.	
+17	小怜	（完全想不起来~~）	（完全想不起來……）	（……さっぱり思い出せないぞ？）	（전혀 떠오르지 않아~~）	(I can’t remember at all.)	
+18	小怜	（那么除了这个图案，还有什么是本不该存在于这段回忆中的吗……）	（除了這個圖案，還有什麼是不該存在這段回憶中的嗎……）	（考え方を変えよう……）\n\n（あの絵以外に存在するはずのないモノが、\n　この記憶に紛れ込んでいないだろうか……）	（그렇다면 이 그림 말고 기억 속에 존재해서는 안 될 다른 것들이 더 있는 걸까……）	(Besides that design, is there something else in this world that shouldn’t have existed?)	
+19	N/A	对了，气凝胶！	對了，氣凝膠！	そうだ！エアロゲルスプレー。	맞아，에어로젤！	Oh, the aerogel spray!	
+20	N/A	──我带的那罐还是爱衣两周前为南极任务改良的最新型号。	──我帶的那罐還是愛衣兩週前為南極任務改良的最新款。	俺が持っていたのは2週間前に、\n愛衣が南極任務のため改良した最新型だ。	──내가 들고 있던 그 깡통은 아이가 2주전 남극 임무를 위해 개량한 최신 모델이다.	The can I had on me was the newest model, designed two weeks ago by Aya especially for our Antarctica trip.	
+21	N/A	要是没有它，很大几率会被那个大蜘蛛团灭吧……	要是沒有它，八成會被那隻大蜘蛛全體殲滅吧……	エアロゲルがなければ、あの大蜘蛛によって\n俺達は全滅していただろう……	만약 그게 없었다면 그 대형 거미에게 소멸당했겠지……	Without it, we’d probably have been destroyed by those spiders...	
+22	N/A@小怜	（应该还有，再想想……）	（應該還有，我再想想……）	（まだ他にもあるはず、思い出すんだ……）	（분명 더 있을 거야. 생각해보자……）	(And... something else? Let me see...)	
+23	N/A	潜入之后，那些特殊而至关重要的道具──	潛入之後，那些特殊且重要的關鍵裝備──	潜入してから使った、特殊で重要な道具……	특수하고 중요한 아이템──	What are some other things I’ve “brought” into this memory?	
+24	N/A	非牛顿流体填充的战术夹克。	非牛頓流體填充的戰術夾克。	非ニュートン流体が詰め込まれた\n戦術ジャケットか！	비뉴턴 유체 충전물 전투 자켓.	Oh, the non-Newtonian fluid combat jacket.	
+25	N/A@小怜	（好像《SID探员作战装备指导》上有介绍过！）	（好像曾經在《SID探員作戰裝備指南》上看過！ ）	（『SID捜査員作戦装備マニュアル』で\n　たしか装備が紹介されてたはず……）	（《SID요원 작전 장비 가이드》에서 본 적 있어！）	I remember reading about it on the Guide to SID Agent Combat Equipment.	
+26	N/A	如果不是这件有点宽大的外套，最初翻车的那一系列冲击可能已经让我散架了……	如果不是這件有點寬大的外套，我可能早在一開始翻車的那場衝擊中陣亡了……	このジャケットが無かったら、最初の車の\n横転によって起きた衝撃で、\n俺の体はバラバラになっていたかもしれない……	만약 이 자켓이 없었다면 차가 뒤집혔을 때 충격으로 이미 녹초가 됐을 것이다……	If it weren’t for this bulky jacket, I would have probably died during the car crash.	
+27	N/A	蝰蛇式战术面罩。	蝰蛇式戰術面罩。	バイパー式ゴーグル戦闘マスクもか……	독사형 전술 마스크.	And the Viper tactical goggles.	
+28	N/A	那时被呛得快窒息，全靠它才能走出浓烟。	那時被嗆得快窒息，全靠它才能走出濃煙。	煙で窒息しそうになった俺は、こいつのおかげで\n煙から抜け出せた。	그 때 질식하기 직전 이걸 사용해서 연기를 빠져나갔다.	I was choking on the smoke. Without it, I would have suffocated.	
+29	N/A	短剑冲锋枪，体贴的超低后坐力，是SID射击训练场里我最喜欢的武器。	短劍衝鋒槍，體貼的超低後座力，是我在SID射擊訓練場中最愛用的武器。	──Vector。\n\n親切設計の超低反動だから、SIDの射撃訓練場で\n俺が一番好きな武器だ。	벡터 기관단총，반동이 적어 SID사격 훈련장에서 내가 가장 좋아했던 무기다.	And my KRISS Vector. I’ve always favored it during target practice in the SID due to its reduced recoil.	
+30	N/A	我靠它打中了气凝胶喷罐，而三个备用弹匣正好够抵御那群小蜘蛛。	我靠它打中了氣凝膠噴霧罐，三個備用彈匣正好夠抵抗那群小蜘蛛。	この銃だからこそエアロゲルスプレーを\n撃ち抜けた。\nそして3つの予備マガジンは、あの小型蜘蛛達の\n襲撃を防ぐのにピッタリの数だった。	이걸로 에어로젤 깡통을 명중했다. 게다가 예비 탄창 3개로 작은 거미들을 막아냈다.	I used the gun to hit the aerogel spray canister. And its three spare rounds were just enough to keep off the smaller spiders.	
+31	N/A	甚至还有──	甚至還有──	さらに──	심지어──	And...	
+32	小怜	（丝袜……）	（絲襪……）	（ストッキング……）	（스타킹……）	(The silk stockings...)	
+33	N/A	这个牌子的颜色和弹性都刚刚好，没穿的话我们可能在狙击手那里就被干掉了。	這個牌子的顏色和彈性都剛剛好，沒它的話，我們可能在狙擊手那裡就被幹掉了。	このブランド物のストッキングの色と弾力性が\nちょうど役に立った。\nもし穿いていなければ、最初の場所で\nスナイパーにやられていたかもしれない。	색과 신축성이 딱 좋았다. 이걸 입지 않았다면 우리는 이미 저격수에게 제거됐을 것이다.	Perfect shade, perfect stretchiness. Without it, the sniper would probably have taken us out already.	
+34	小怜	（嗯嗯……战术丝袜！）	（嗯嗯……戰術絲襪！ ）	（うん……戦術ストッキングに違いないッ！）	（으음……전술 스타킹！）	(Yup, let’s call them... tactical silk stockings!)	
+35	小怜	（这些装备似乎无论少了哪样，我都死定了…）	（回想這些裝備，無論少了哪樣，我應該都死定了…）	（この装備達が1つでも欠けていたら……）\n\n（俺はきっと死んでいた……）	（이 장비들이 하나라도 없었다면 난 이미 죽었을 거야…）	(Without any of these, I’d be dead by now.)	
+36	N/A	诶？等一下……	欸？ 等一下……	え？　今……	에？잠깐……	But wait...	
+37	N/A	『死』定了……吗？	「死」定了……嗎？	『死んで』いた……？	『죽었다』……？	Dead?	
+38	N/A@爱衣	我亲自升级了保险装置，绝不会出现那种脑内受伤或死亡会牵连本体的状况。	我親自升級了保險裝置，絕不會出現那種腦內受傷或死亡會牽連本體的狀況。	しかも！今回は私自らの手で、安全装置を\nアップグレードしておいたから\n脳内での傷害や死によって何かの影響が\n現実の身体に及ぶ事なんて絶対にありえないわ。	보험 장치를 직접 업그레이했으니 뇌 손상이나 사망이 본체를 해치는 상황은 없을 거야.	I upgraded the failsafe system myself. Even if injuries or death happen inside the target’s head, you won’t be harmed in real life.	
+39	N/A	……	……	…………	……	...	
+40	N/A	对啊……	……這麼說來……	そうか…………	맞아……	Hmm, indeed...	
+41	N/A	这段回忆中最不该存在的，不就是我自己吗？	在法貝拉這段回憶裡，最不該存在的，不就是我嗎？	この世界で死んだとしても、本当の身体には\n影響を及ぼさない……	이 기억 속에 가장 있어서는 안 되는 것은 바로 나 자신이잖아?	What really shouldn’t have existed inside this memory... is me.	
+42	N/A	就算我在这个世界中死掉，也不会牵连本体……	就算我在這個世界中死掉，也不會牽連本體……	この記憶の中で\n一番存在してはいけないものって……\n\n俺自身じゃないか。	이 세계에서 죽는다고 해도 본체에게 영향을 미치지 않는다……	Even if I die in this world, my body would be fine...	
+43	N/A	一道光忽然划过我的脑海──	一道冷光忽然劃過我的腦海──	俺の脳裏に、1つの閃きがよぎった──	한줄기 빛이 내 뇌리를 스친다──	It hit me like a bolt of lightning.	
+44	N/A@小怜	（在此之前，我已经死过多少次了？）	（在此之前，我已經死過多少次了？ ）	（……今までに、俺は何度死んだんだ？）	（이전에 내가 몇번이나 죽은 걸까?）	(How many times have I already died before this?)	
+45	N/A	我感觉脊背发冷，手无法抑制的开始颤抖。	我的脊椎鑽進一陣寒意，雙手無法抑制地開始顫抖。	背筋が凍る。手の震えが止まらなかった。	등골이 서늘해지는 느낌이다. 손이 주체할 수 없을 정도로 떨리기 시작한다. 	A shiver runs down my spine. I begin to tremble uncontrollably.	
+46	N/A	这样一切都说得通了……	這樣看來，一切都說得通了……	これで納得できた……	이제 모든게 말이 된다……	This explains everything...	
+47	N/A	并不是斯库尔德说的那种预知能力──	這並不是斯庫爾德說的預知能力──	似たような能力だ　ってスクルドは言ってたけど\nスクルドの予知能力と全くの別物。	스쿨드가 얘기한 예지 능력같은 게 아니다──	I can’t see the future, the way Skuld said I could.	
+48	N/A	而是每次死掉，我都添加了新的应对策略。	而是每次死掉後，我都會加上新的應對策略。	「死ぬ」たびに、新たな対応策を思い付いて\nいただけだ。	죽을 때마다 스스로가 새로운 대응 전략을 추가한 것이다.	It’s just that every time I die, I find a new strategy to keep myself from dying.	
+49	N/A	那些面对危险的预感，那个广告牌，那诡异的探照灯位置，都是我在提醒自己……	那些面對危險的預感、廣告牌、詭異的探照燈位置，都是我在提醒自己……	違和感や広告看板、奇妙なサーチライトの位置。\n\n──全ては俺自身が自分に向けて警告を発して\nいただけ。	위기 예측，광고판，이상했던 조명 위치, 모든 것이 내가 나 자신에게 알려준 것이다……	My instincts. The billboard. The strange spotlight location. Those were simply me reminding myself of incoming danger.	
+50	小怜	（这不是什么预言，而是我的亲身经历啊。）	（這不是什麼預言，而是我的親身經歷啊……）	（……予言なんかじゃない）\n\n（……全ては俺が実際に体験しただけだ）	（이건 예언같은 게 아니라 내가 겪었던 경험이야.）	(I don’t have prophecy abilities at all. I just... died a lot and learned from it.)	
+51	斯库尔德	小怜姐姐，没事吧？\n你的脸色好差……	小憐姐姐，沒事吧？ \n妳的臉色好差……	レンお姉ちゃん、大丈夫？\nなんだか顔色が悪いわよ……	렌 언니，괜찮아？\n안색이 안 좋아보여……	Miss Ren, are you all right?\nYou look pale.	
+52	N/A	斯库尔德关切的拍了拍我的后背。	斯庫爾德溫柔地拍了拍我的背。	スクルドは心配そうに俺の背中を撫でる。	스쿨드가 걱정스런 얼굴로 내 등을 두드린다.	Skuld pats me on the back, looking concerned.	
+53	小怜	没，只是想起一些事……	沒事，只是想起一些事……	大丈夫、ちょっと考え事していただけだ……	괜찮아. 갑자기 뭐가 좀 생각나서……	I’m fine, I’m just... remembering some things...	
+54	N/A	对呀，无论她们当年遇到了什么危险，法贝拉和斯库尔德应该都平安度过了。	對呀，無論法貝拉和斯庫爾德當年遇到了什麼危險，應該都平安度過了。	──ここは2年前の記憶。\n\nどんな危機に遭遇したとしても、ファビオラと\nスクルドは無事に切り抜けたはずだ。	그래，그들이 그때 어떤 위기를 만났다해도 파비올라와 스쿨드는 무사할 것이다. 	Right. No matter what happened to the squad back then, Fabella and Skuld should have survived, or else I wouldn’t have met them later.	
+55	小怜	（那为什么我会重复了这么多遍？）\n（是因为法贝拉说的间谍吗……）	（那為什麼我會重複經歷這麼多遍？ ）\n（是因為法貝拉說的臥底嗎……）	（なのにどうして、俺は何度も繰り返す結果に\n　なっているんだ？）\n（ファビオラが言う裏切り者のせいか……？）	（그렇다면 어째서 이렇게 여러 번 반복한 걸까）\n（파비올라가 얘기한 스파이 때문일까……）	(Then why did I die so many times?)n\(Did the spy Fabella mentioned did something to me?)	
+56	N/A	突然，耳机中传来一阵刺耳的爆音，随后是几声枪响。	突然，耳機傳來一陣刺耳的爆破音，隨後是幾聲槍響。	悩んでいる最中……イヤホンから耳障りな爆音と\nその後に何発かの銃声が聞こえてきた。	갑자기 이어폰을 통해 귀를 찌르는 폭발음과 총소리가 들린다. 	Suddenly, my earpiece explodes with the sound of deafening blasts followed by rapid gunfire.	
+57	N/A@女声	啊啊啊啊啊啊啊────！！！！	啊啊啊啊啊啊啊───！ ！！ ！	うぁぁあああああ――ッ！！！！	아아아아아아아────！！！！	Aaahhhhhhh!	
+58	N/A	砰！砰！砰！砰！砰！	砰！ 砰！ 砰！ 砰！ 砰！	パンッ！パンッ！　パァンッ！　パァァンッ！！	펑！펑！펑！펑！펑！	Bang! Bang! Bang! Bang! Bang!	
+59	罗素	怎么回事！！	怎麼回事！ ！	どうしたッ！！	무슨 일이야!!	What’s going on?	
+60	卡塞尔	是莉娜吗！？	是莉娜嗎！ ？	リナかッ！？	리나！？	Is it Rina?	
+61	法贝拉	莉娜，报告你的位置！	莉娜，快回報妳的位置！	リナ、位置を報告してッ！！！	리나，위치를 알려줘요!	Rina, report your location!	
+62	N/A@女声	咳咳……咳咳咳咳──	咳咳……咳咳咳咳──	ゴホッ……ゴホゴホゴフッ────	크윽……크으으윽──	*coughing*	
+63	N/A	一阵撕心裂肺的呛咳过后，是带着杂音的大口呼吸音。	一陣撕心裂肺的嗆咳過後，是帶著雜音的大口呼吸聲。	心肺が引き裂かれたような咳をした後、\n喉が張り付くような重い呼吸音が聞こえた。	고통에 찬 신음소리  후 잡음이 섞인 호흡 소리가 들린다.	After a series of lung-wracking coughs, comes loud gasping mixed with gurgling.	
+64	N/A	那种典型的外伤导致肺部积液的气鸣声。	那種典型的外傷導致肺部積水的喘嗚聲。	この音は、肺部の液体貯留で引きおこされる\n典型的な症状。	저런 소리는 폐에 액체가 차서 나는 전형적인 소리다.	The kind of whistling sound made by fluid inside wounded lungs.	
+65	N/A	伤者每次呼吸都会比上次更加困难，直到从身体内部被积液溺死……	傷者的呼吸會越來越困難，直到被自己肺部的積水溺死……	呼吸するたびにより呼吸が困難になり、\n液体が肺に満たされた後、最後には溺死する。	그럴 경우 호흡은 갈수록 힘들어지고，결국 폐에 혈액이 가득차 익사하게 된다……	The fluid eventually takes over the wounded person’s lungs, making it impossible for them to breathe, until they practically drown on dry land.	
+66	法贝拉	你受伤了！？\n你在什么位置？	妳受傷了！ ？\n妳在哪？	負傷してるッ！？\nどこにいるのッ！？	다친 겁니까！？\n지금 위치가 어디죠?!	Are you hurt?\nWhere are you?	
+67	N/A@莉娜	已经，无所谓了……\n咳咳咳──	在哪都無所謂了……\n咳咳咳──	もう、どうだっていいんだよ……\nゴホゴホ……ゴフッ――	이미 소용 없어……\n크으윽──	Doesn’t matter...\n*coughing*	
+68	N/A@莉娜	你们在的仓库，也被那群东西包围了……	妳們所在的倉庫，也被那群東西包圍了……	あなた達がいるその倉庫も、\nすでにあいつらに囲まれている……	너희들이 있는 창고도 이미 포위됐어……	They’ve surrounded your warehouse too...	
+69	法贝拉	──！！！	──！！！	────ッ！！！	──！！！	—!	
+70	N/A	从刚才起，四周的墙壁和铁门就传来微小而密集的金属撞击声。	從剛才起，四周的牆壁和鐵門就傳來微小但密集的金屬撞擊聲。	周囲の壁と鉄の扉から、小さく密集した\n金属の衝撃音が聞こえてくる。	아까부터 주위의 벽과 철문에서 미세한 금속 충돌음이 들린다.	So that’s where the sounds of metal clanging on the walls and doors coming from.	
+71	法贝拉	该死……在寻找入口吗。	該死……是在找入口嗎。	くそッ……入口を探しているのか。	빌어먹을……입구를 찾고 있나?	Dammit... they’re looking for a way in, huh...	
+72	法贝拉	有办法封锁电梯井吗？	有辦法封鎖電梯井嗎？	エレベーターの昇降路を封じる方法はある？	엘리베이터 승강로를 막을 수 있을까?	Can we barricade the elevators?	
+73	罗素	这是工业电梯，开放程度太高了。	沒辦法，這是工業電梯！	工業用リフトだ、開放度が高すぎる。	공업용 엘리베이터라 봉쇄하기 어려워.	These are industrial lifts, way too open.	
+74	N/A@莉娜	它们主要是靠热成像探测目标……	它們主要是靠熱像儀來偵測目標……	こいつらは…サーモグラフィーを頼りに……\nターゲットを探してる……	녀석들은 열에 의지해 타겟을 탐측해……	Those robots... they use heat sensors...	
+75	N/A@莉娜	我的同伴也都联系不上了，这些该死的东西到底是从哪冒出来的……咳咳──	我也聯繫不上同伴了，這些該死的東西到底是從哪冒出來的……咳咳──	ゴホッ。私も仲間と連絡が付かないわ……\n本当…こいつらどこから湧いてきたのだろうね…	내 파트너도 연락이 되지 않아. 이 빌어먹을 녀석들은 어디서 나타나는 건지……커억──	I can’t... get in contact with my people... where did those bugs come from anyway... *coughing*	
+76	法贝拉	……同伴？	……同伴？	……仲間？	……파트너？	... Your people?	
+77	N/A@莉娜	哼…小丫头……你还没想明白吗……	哼……小丫頭……妳還沒搞懂嗎……	ふっ…まだ分からないのね……お嬢ちゃん……？	흥………아직도 모르겠어……?	Ha. Missy... you still didn’t realize?	
+78	小怜	难道……	難道……	まさか……	설마……	Is she...	
+79	N/A@莉娜	纽摩利达斯…真是个开放的城市啊……	紐摩利達斯……真是個好地方啊……	ニューモリダス……本当に開放的な都市だわ……	뉴모리다스는…정말 개방적인 도시야……	Newmoridas... what a city...	
+80	N/A@莉娜	无论什么人，都能获得第二次机会──	什麼人都能在這裡獲得第二次機會──	誰であろうと…2度目のチャンスが得られる──	누구든지 새로운 기회를 얻을 수 있으니까──	Anyone can receive a second chance at life here...	
+81	N/A@莉娜	包括施瓦茨那种刽子手…咳─！！	包括施瓦茨那種劊子手……咳──！ ！	シュヴァルツみたいな…人殺しまでもッ！！\n……ゴホッ──	슈와츠 그 망나니까지…컥─！！	Even Schwartz, that murderer... *cough*	
+82	卡塞尔	施瓦茨……刚才阿尔法队阵亡的那个施瓦茨？	施瓦茨？ 剛才阿爾法隊陣亡的那個施瓦茨？	シュヴァルツ……\n\nさっき、犠牲になったって言ってたアルファ隊の\nシュヴァルツか？	슈와츠라면……방금 알파 부대에서 사망한 그 슈와츠?	Schwartz? The guy on Team Alpha who died?	
+83	N/A@莉娜	他以前…是马萨达清扫队的成员…我亲眼看着他…杀了我手无寸铁的母亲和姐姐……	他以前……是馬薩達清掃隊的成員……我親眼看著他殺了我那手無寸鐵的母親和姐姐……	あいつは…昔……\nマサダブルク掃討部隊の一員だった……\n私は目の前で……武器も持っていなかった\n母と姉を殺されたわ……	그는…마사다 제거부대의 멤버였어…그 자가… 아무 무기도 지니지 않은 내 어머니와 언니를 죽이는 걸 직접 봤어……	He... used to be a member of the Masada purgers... I watched him... kill my defenseless mother and sister...	
+84	小怜	清扫队，莉娜的彩色头巾……	清掃隊、莉娜的彩色頭巾……	もしかして、リナの巻いてたスカーフって……	제거부대，리나의 두건……	The purgers... So, Rina’s colorful bandanna must be from...	
+85	N/A	我忽然想到前几年看过的新闻，联合议会向马萨达堡质询其周边发生的人道主义灾难。	我忽然想到前幾年的新聞，聯合議會向馬薩達堡質詢它周邊發生的人道危機。	何年か前に放映されてたニュースを思い出した。\n\nマサダブルクで起きた「人道的危機」の問題を\n連合議会が追求するという内容だ。	연합 회의가 마사다 성에게 최근 발생한 인도주의 재난에 대해 묻는 뉴스가 떠올랐다.	I sudden recall the news from a few years ago. The United Council was interrogating Masada Ford regarding the humanitarian catastrophe that happened in its vicinity.	
+86	N/A	虽然那时我根本不懂“人道主义灾难”是什么，但电视画面中反复出现的彩色头巾让我印象深刻。	那時我根本不懂什麼是「人道危機」，但電視畫面中反覆出現的彩色頭巾讓我印象深刻。	過失だったのか、それとも故意か……\n\n当時は「人道的危機」の意味を良く\n理解できなかったけれども、\n映像に繰り返し映る、カラフルなスカーフが\n当時の俺には印象的だった。	“인도주의 재난”이 뭔지 전혀 몰랐지만 화면에 반복해서 보이는 두건이 기억에 남았다. 	I had no idea what “humanitarian catastrophe” meant then. But I do remember the colorful bandannas that appeared in the news footage.	
+87	N/A@莉娜	很可笑吧……我的族人本以为马萨达堡是与自己有着共同敌人的“盟友”……	很可笑吧……我的族人本來以為馬薩達堡是同仇敵愾的「盟友」……	ホント…笑えるでしょ……\n\nマサダブルクは共通の敵を持つ「盟友」だと、\n私の一族は思っていたんだけどね……	웃기지않아? 우리 가족은 마사다 성이 우리와 같은 적을 둔 "동맹"이라고 생각했는데…	Funny, huh? My people... thought Masada Ford was our ally...	
+88	N/A@莉娜	但在消灭了那些敌人后，咳——！……他们立刻将枪口调转对准我们──	但在消滅了那些敵人後，咳──！ ……他們立刻將炮口轉向我們──	でも敵がいなくなった途端、ゴホッ――！\n\n……あいつら、\nすぐにこちらに銃口を向けたわ──	하지만 적을 없애자마자，컥——！……그들의 총구가 우릴 향했어─	But after we worked together to destroy our enemies ... *cough* we became their next target...	
+89	N/A@莉娜	划定所谓的“保护区”…所有限期内不迁往区内居住的人……直接被视为恐怖分子……	劃定所謂的「保護區」…所有未在期限內遷往保護區的人……就直接視為恐怖分子……	「保護区域」なんか設けて、期限以内に\n指定の区域に移住しなかった者を……\n奴らは……テロリストと見なした……	기한 내에 소위 말하는 “보호 구역”…으로 이주하지 않은 주민들은……모두 테러리스트로 간주됐어……	They marked out “preservation areas”... and those who didn’t move there before the deadline... were treated as terrorists...	
+90	法贝拉	你和你的同伴，都是抵抗组织的人？	妳和妳的同伴，都是抵抗組織的人？	あなたと仲間達は、レジスタンスなの？	당신과 당신의 파트너는 모두 저항 조직의 사람인가?	So you and your people... you’re in the Resistance?	
+91	法贝拉	如果想干掉施瓦茨派个暗杀小队就可以了，为什么要在纽摩利达斯搞这么大动静？	如果想幹掉施瓦茨，其實派個暗殺小組就可以了，為什麼要在紐摩利達斯驚動這麼多人？	シュヴァルツを殺したければ、密かに暗殺を\n狙えば良いじゃない。\nなぜニューモリダスでこんな大きな騒ぎを？	슈와츠를 제거하려면 암살부대를 보내면 되잖아. 왜 뉴모리다스에서 소란을 일으킨거지？	If you want to get rid of Schwartz, just send a team of assassins. Why do you have to bomb Newmoridas and drag all of us into this?	
+92	N/A@莉娜	咳—……你还是什么都不懂……	咳──妳還是什麼都不懂……	ゴホッ―……\nあなたは何も分かっていないわ……	큭—……넌 여전히 아무것도 몰라……	*cough* You really don’t know a thing, missy...	
+93	N/A@莉娜	马萨达堡一直参与周边战争…还大力投入研发新型武器…那么你觉得资金是由谁……	馬薩達堡一直參與著周邊的戰爭……還有餘力研發新型武器……妳覺得誰會是金主……	マサダブルクはずっと……周辺諸国の戦争に\n関与している……\n新型武器の……研究開発にも力を入れていて…\nね…その資金はどこから出ていると思う……？	마사다 성은 줄곧 전쟁에 참여하며 신형 무기를 개발했어…그 자금줄이 과연 누구일까……	Masada Ford is always at war with someone or another... and they keep inventing new weapons... but who provided them the funds?	
+94	斯库尔德	……主要贷款方是纽摩利达斯。	……主要貸款方是紐摩利達斯。	…………主なスポンサーはニューモリダスよ。	……주요 자금줄이 뉴모리다스야. 	... Mainly Newmoridas.	
+95	N/A@莉娜	董事会一边控制信贷，一边承销证券…流入马萨达的贷款在这个城市…被打包发行成债券……	董事會一邊控制信貸，一邊承銷證券……流入馬薩達的貸款在這裡被包裝成債券發行……	理事会は信用を操作しながら…証券の引き受けを\nしている……\nマサダブルクに流入した融資金は……\nこの街に流れ…債券になって発行される……	이사회는 신용대출을 제어하며 증권을 판매했어…마사다의 대출금을 이 도시에 유입했고，채권으로 발행했지……	The Committee controls the credits... underwrites the securities... and the loans that went to Masada... were repackaged as bonds in this city...	
+96	N/A@莉娜	“绅士”老爷们在收佣金的时候咳——！…可不会考虑那些钱买来的炮弹…会落在谁的头上。	「紳士」老爺們在收佣金的時候咳……可不會考慮那些錢買來的炮彈……會落在誰的頭上。	「紳士」のお偉いさん達は…金さえ入れば、\nゴホッ――！\n……その金で買われた砲弾が\n……誰の頭に落ちるかなんて……考えていない。	“세도가”들이 수수료를 거둬들일 때…그 돈으로 산 포탄이 누구의 머리 위에 떨어질지는 생각 못했을 거야.	Those gentlemen who received those commissions... *cough* certainly don’t care... the bombs created with their money... who’ll those bombs kill? Huh?	
+97	罗素	所以你们趁着国际和平论坛期间……	所以妳們才趁著國際和平論壇期間……	だから、お前達は国際平和フォーラムの\n期間中に……	그래서 국제 평화 포럼 기간을 이용했군……	So you chose to act during the International Forum of Peace...	
+98	N/A@莉娜	只要是胜利的那方…就必然是正义的…因为只有活下来的……政府才能偿还债务……对吧……	只要是勝利的那方……就必然是正義的……因為只有活下來的……政府才能還債……對吧……	勝利した側が必ず正義なの……\n生き残った政府だけが……\n責務…を返済できるから…そう…でしょう……？	승리하는 쪽이…정의다…살아남은……정부만이 채무를 상환할 수 있으니……안그래……?	The winner... is the hero... because only a government that survives... can repay its loans... right?	
+99	N/A	斯库尔德低头不语。	斯庫爾德低頭不語。	スクルドは俯いたまま、言葉を発しなかった。	스쿨드가 고개를 숙이고 아무 말도 하지 않는다.	Skuld lowers her head in silence.	
+100	N/A@莉娜	咳——！！咳咳咳——！！	咳——！！咳咳咳——！！	ゴフッ……！！ゴホッ、ゴホゴホッ……！！	컥——！！크으윽——！！	*coughing*	
+101	N/A	耳机中再次传出莉娜剧烈的呛咳声。	耳機中再次傳出莉娜劇烈的嗆咳聲。	イヤホン越しに、リナが再び激しく咳き込んだ。	이어폰으로 리나의 격렬한 기침 소리가 또 다시 들려온다. 	The earpiece is yet again filled with Rina’s ear-splitting coughs.	
+102	N/A	莉琉曾对我说，钱和钱的交流是世界上最纯粹的。	莉琉曾說過，金錢的交流是世界上最純粹的。	マリルは言っていた。\n金と金の交流は世界で最も純粋なんだと。	마리루가 그랬다. 돈과 돈의 거래는 세상에서 가장 순수한 것이라고.	Mariru once told me that transactions with just money and nothing else is the purest thing in the world.	
+103	N/A	没有语言、文化、制度、历史种种障碍，是世界上最亲密无间直截了当的尔虞我诈。	沒有語言、文化、制度、歷史等障礙，是世界上最親密無間、最直截了當的爾虞我詐。	言語、文化、制度、歴史などの、\nありとあらゆる障害が存在せず、\n世界で最も親密で率直な謀り合いだとも\n言っていた。	언어, 문화, 제도, 역사의 장애 없이 가장 단도직입적으로 서로를 속고 속일 수 있다.	It doesn’t involve language, culture, regulations, history. Just money. So intimate, so straightforward. So... emotionless.	
+104	N/A@莉娜	呼——选择那位大小姐……是因为她的父亲…是董事会中唯一不赞成和马萨达堡交易的人。	呼——選擇那位大小姐……是因為她父親……是董事會中唯一不贊成和馬薩達堡交易的人。	フ――……フ――……\n……そのお嬢さんをターゲットにしたのも\n彼女の父親だけが…唯一マサダブルクとの貿易を\n理事会で……賛同しなかった人だから……	그 아가씨를 선택한 건……그녀의 아버지가 유일하게 마사다와의 거래를 반대한 사람이기 때문이야.	We chose that girl as target because... her father... is the only one in the Committee... who doesn’t support trade with Masada Ford.	
+105	法贝拉	那为什么──	那為什麼──	なら、どうして──	그럼 왜──	Then why—	
+106	N/A@莉娜	所以…我们要给他一个在董事会发言时……能支持他立场的充分理由……	所以……我們要給他一個在董事會發言時……能支持他立場的充分理由……	発言力を与えたかった……\n\n理事会で彼の立場を支えるのに……\n十分な理由を…与えたかったのよ……	…우린 그가 이사회에서 발언할 때 그의 입장을 지지할 충분한 이유를 주고 싶었어.	We want him to have a reason... to support his stance when he speaks in the Committee...	
+107	N/A	莉娜的声音和呼吸渐渐变得虚弱。	莉娜的聲音和呼吸漸漸變得虛弱。	リナの声と呼吸が、徐々に弱くなっていく。	리나의 목소리와 호흡소리가 점점 약해진다.	Rina’s words are slurred, her breathing barely audible.	
+108	罗素	所以故意让『黄雀』在市区坠毁，并且让他的女儿亲历险境……	所以故意讓「黃雀」在市區墜毀，並且讓他的女兒身歷險境……	だから、わざとマサダブルクの兵器である\n『イエローヘッド』を繁華街に墜落させ、\n彼の娘を危険にさらした……	그러니까 일부러 『스피누스』를 시내에 보내 그의 딸을 위험에 빠트린 거군……	So you crashed a Siskin smack in the busy part of the city, and put his daughter into danger...	
+109	罗素	怪不得你一个人干掉了那边全部的狙击手，是你的同伴在配合演戏──	怪不得妳能一個人幹掉全部的狙擊手，是妳的同伴在配合演戲吧──	なるほど。向こうのスナイパー全員を1人で\n倒せたとか言えるわけだ。\nひと芝居打たれたって事か──	어쩐지 혼자서 그 많은 저격수를 처리하더라니, 모두 네 파트너와 꾸민 짓이였어──	And no wonder you took out all the snipers on your side alone. It was all an act put up by your people...	
+110	罗素	等等，你向黄雀开枪，也是为了掩饰那台机体并没有装载攻击模块吧？！	等等，妳向黃雀開槍，也是為了掩飾那台機體並沒有裝載攻擊AI？ ！	お前が『イエローヘッド』を撃ったのも……\n\nあの機体に攻撃モジュールが搭載されいない事を\n隠すためだったんだろう？	스피누스를 공격한 것도 그 기계가 공격 모듈이 없다는 걸 알고 있었기 때문이야?	Wait, so you fired at the Siskin to conceal the fact that it’s never got an attack module installed to begin with, huh?	
+111	N/A@莉娜	呵呵…罗素吗…你很有天分……	呵呵……羅素嗎？ 你很有天分……	ハッ……ラッセル……\nお前は本当に……良い才能を持っている……	하하…러셀…? 똑똑하군……	Ha... Russel... you’re clever, aren’t you...	
+112	N/A@莉娜	可惜………	可惜……	本当……何というべきか……\n\n惜しい………わね………………	아쉬워………	Too bad...	
+113	法贝拉	喂喂──莉娜？莉娜！！！	喂喂──莉娜？ 莉娜！ ！！	おいッ！　おいッ！　──リナッ？　リナッ！！	어이──리나？리나！！！	Hey! Rina? Rina?	
+114	N/A	耳机那头陷入了长长的沉默。	耳機那頭陷入了長長的沉默。	イヤホンの向こう側は、長い沈黙しか返して\nこなかった──	이어폰에서 긴 침묵이 흐른다.	In the earpiece, silence.	
+115	法贝拉	可恶……可恶！可恶！可恶！！！	可惡……可惡！ 可惡！ 可惡！ ！！	くそ……くそッ！　くそッ！　くそぉッ……！！	젠장……젠장！젠장！젠장!	Dammit! Dammit! Dammit!	
+116	N/A	法贝拉一拳重重的锤在金属货架上，发出的声响在仓库中回荡。	法貝拉重重地搥在金屬貨架上，發出的巨響在倉庫中迴蕩。	ファビオラは金属棚に全力で拳を叩き付ける。\n\n──音が倉庫内にこだました。	파비올라가 금속 진열대를 거칠게 내려치자 그 소리가 창고 안을 울린다.	Fabella punches a metal rack, the loud clang echoing off the walls of the warehouse.	
+117	法贝拉	为了政治权谋和利益，还要牺牲多少无辜的人……	為了政治權謀和利益，還要犧牲多少無辜的人……	政治上の策略と利益のために……\n罪のない人を後何人、犠牲にすれば良いのッ……	정치적 술수와 이익을 위해 무고한 사람들을 희생시키다니……	So it’s all for politics and privileges and money, huh? How many more innocent people have to die?	
+118	法贝拉	培尔纳德……	培爾納德……	べルナドット……	베르나드……	Pernard...	
+119	N/A	法贝拉低头小声抽泣着，鲜血顺着她的指尖不断滴下。	法貝拉低頭小聲抽泣著，鮮血順著她的指尖不斷滴下。	ファビオラは小声で泣き出した。\n\n拳から流れる血が、彼女の指先を伝って\nポタポタと地面へ落ちる。	파비올라가 고개를 숙이고 조용히 눈물을 흘린다. 붉은 피가 그녀의 손가락을 따라 떨어진다.	Fabella bursts into sobs, fresh blood dripping from her fingertips.	
+120	小怜	（等等，……那些蜘蛛并不是他们安排的？！）	（等等……所以，那些蜘蛛並不是他們安排的？ ！）	（待てよ……じゃあ、あの蜘蛛達はっ！？）\n\n（彼らが殺されたって事は、用意したのは\n　レジスタンスじゃないって事だろっ！！？）	（잠깐，……그 거미들은 그들이 보낸게 아니라고？！）	(Wait... did Rina say... those spiders have nothing to do with her people?)	
+121	小怜	（在这段记忆里，到底哪些才是真实的……）	（在這段記憶裡，到底哪些才是真的……）	（この記憶の中で……）\n\n（どれが真実と呼べるものなんだ……）	（이 기억 속에 도대체 뭐가 진실인 걸까……）	(In this memory... what’s real? And what’s not?)	
+122	N/A	……	……	…………	……	...	
+123	N/A	稍早之前。	稍早。	──少しだけ時間は遡る。	조금 전.	<Earlier>	
+124	N/A	播磨脑科学综合研究中心，顶层酒吧。	播磨腦科學綜合研究中心，頂樓酒吧。	播磨脳化学総合研究センター、最上階のバー。	하리마 뇌 과학 종합 연구 센터의 루프탑 바.	<Harima Tech Research Center, penthouse bar>	
+125	N/A	莉琉坐在沙发上，拿着一份印有“极秘”字样的纸质档案翻看着。	莉琉坐在沙發上，正在翻看一份印有「極機密」字樣的紙本檔案。	マリルはソファーに座り、「極秘」と\n印字された書類をパラパラとめくっている。	마리루가 소파에 앉아 ”극비”라고 새겨진 파일을 살펴보고 있다.	Mariru is sitting on the couch, flipping through a stack of files with “CONFIDENTIAL” stamped over them.	
+126	莉琉	卡洛斯·布兰科，从新丰洲纪念教堂回收的那个女仆的前任长官……	卡洛斯·布蘭科，從新豐洲紀念教堂回收的那個女僕的前任長官……	──カルロス・ブランコ。\n\n新豊洲記念教会から回収した、あのメイドの\n元上官か……	카를로스 브란코，신토요스 기념 교회에서 회수한 그 메이드의 전임 장관……	Carlos Branco. The former boss of the maid we retrieved from New Opulentia Memorial Church.	
+127	莉琉	原AUC上校，那个烂到骨髓的系统里难得能出这么一位治军严厉的军官嘛。	原AUC上校，沒想到，那個爛到爆的地方居然出了這麼一個治軍嚴厲的軍官。	元AUCの大佐……\n\n骨の髄まで腐った軍部構造で、こんな卓越した\n指導者が生まれるのは珍しいな……	전 AUC대령, 그 뼛속까지 섞은 곳에서 이렇게 훌륭한 장교를 배출하다니. 	Former AUC colonel. One of the rare few serious soldiers to have been born from that corrupted system.	
+128	莉琉	埃卢尔解散议会后，他在手臂纹上了“打倒暴君”字样的刺青，率旧部起义。	埃盧爾解散議會後，他在手臂上紋了「打倒暴君」字樣的刺青，率舊部起義。	エルゥルが議会を解散した後、彼は腕に\n『Liberation』の入れ墨を彫り、\n旧部下を率いてクーデターを起こす。	엘룰은 회의가 해산하자，팔에 “폭군 타도” 문신을 새기고，옛 부하들을 데리고 봉기했다. 	After the parliament was disbanded by Elroy, he got a “Down with the Tyrant” tattoo on his arm and led the veterans in the system to riot.	
+129	莉琉	曾带领部队在一天内翻越了安第斯山脉，指挥反埃卢尔联军参加波多西战役。	他曾帶領部隊在一天內翻越安地斯山脈，指揮反埃盧爾聯軍參加波多西戰役。	過去には部隊を率いてアンデス山脈を1日で越え\n反エルゥル連合軍を指揮し、\nポトシ戦争に参加した事もある。	인솔부대가 하루만에 안데스 산맥을 넘었고，반엘룰 연합군을 이끌어 포토시 전투에 참전했다.	He led his troops to scale the Andes in just one day and commanded the Anti-Elroy United Army in the Potosi War.	
+130	莉琉	有意思……所以才得到了这个与卡尔十四世·约翰同名的外号吧？	挺有意思的～所以才得到了這個與卡爾十四世·約翰同名的外號吧？	面白い……それがゆえにカール14世・ヨハンと\n同じ名前で呼ばれるようになったのか？	재밌군……그래서 칼14세 요한과 똑같은 별명을 얻게 됐다는 거지？	Interesting. So it’s why he got this same nickname that people gave Karl XIV Johan, huh?	
+131	N/A	莉琉被档案的内容吸引，用手指捏着酒杯的上沿在手里打转。	莉琉受到檔案內容吸引，手指捏著酒杯輕微搖晃。	マリルは彼のプロフィールに惹かれつつ、\nグラスの縁を摘まんで軽く揺さぶる。	파일 내용에 흥미를 느낀 마리루가 손에 들린 술잔을 돌린다.	Mariru murmurs, intrigued by what she’s reading in the files. Her fingers keep spinning the wine glass in her hand.	
+132	莉琉	之后在恩维拉作战时捡到了奄奄一息的法贝拉。	之後在恩維拉作戰時撿到了奄奄一息的法貝拉。	その後、エイルぺネ作戦中に虫の息だった\nファビオラを拾う。	그 후 엔빌라 작전에서 숨이 끊어져가는 파비올라를 거뒀다. 	And then, during a battle in Envira, he found Fabella, an orphan on her death bed.	
+133	莉琉	革命成功后几支起义军统领都想掌权，于是再度刀兵四起……	革命成功後，好幾個起義軍的老大都想掌權，於是再度烽煙四起……	革命自体は成功するも、クーデター軍を率いて\nいた多数の将校が権力を握ろうとして、\n再び各所で戦争が勃発。	혁명 성공 후 의병 통솔자들이 권력을 쥐려했고 다시 한 번 전란이 일어났다……	After the successful revolution, several rebel army commanders began fighting over meaningless titles and stuff like that all over again. There can never be peace, it seems.	
+134	莉琉	真是老套的故事。	真是老套的故事。	まぁ、ありきたりな話だな。	정말 상투적인 이야기군.	Boring.	
+135	莉琉	后来他作为南美最大的军阀，被怀疑是丘伦河大屠杀的主谋，被媒体称为“丘伦河屠夫”。	後來他成為南美最大的軍閥，被懷疑是丘倫河大屠殺的主謀，媒體稱之為「丘倫河屠夫」。	彼はその後、南米最大軍閥の指導者となるが\n大虐殺の首謀者であると疑われ、\n世界のメディアから『チュルン川の虐殺者』と\n称されるようになった。	훗날 남미 최대 군벌이 된 그는 미디어에 의해 츄룬 강 대학살의 주범으로 낙인찍혔다.	Branco later became the biggest gang leader in South America. He was suspected to be behind the Churun River Massacre, and got the title “Butcher of Churun River”.	
+136	莉琉	真实原因是只有他拒绝了联合议会的提议。	真正的原因是只有他拒絕了聯合議會的提議。	だが本当の理由は、彼だけが連合議会の提案を\n断ったため……	사실은 그 한 사람만 연합회의의 제안을 거절했기 때문이다. 	Though he didn’t really kill anyone. Simply declined the United Congress’s bribe.	
+137	莉琉	控制媒体确实可以为所欲为呢~	控制媒體確實可以為所欲為呢～	メディアコントロールは、情報操作のための\n基本だからな～～	미디어를 통제하면 역시 마음대로 할 수 있구나~	Monopoly over the media sure gives you the freedom to do a lot of things.	
+138	莉琉	然后联合议会宣布卡洛斯·布兰科犯有反人类及种族灭绝罪，并送去了几发钻地弹。	然後聯合議會就宣佈卡洛斯·布蘭科犯了反人類及種族滅絕罪，還對他的部隊發射了幾枚鑽地彈。	そして連合議会はカルロス・ブランコへ──\n\n人道に対する罪や集団殺害罪を宣告して、\n地中貫通爆弾を発射した。	연합회의는 카를로스 브란코에게 반인류 및 집단학살의 죄명을 씌워 대지공 미사일을 날렸다.	Then the United Congress declared that Carlos Branco committed anti-humanitarian and racial crimes and bombed him with some Penetrators. The end.	
+139	莉琉	真是空有一腔热血，却不懂政治权谋的笨蛋──	真是個空有滿腔熱血卻不懂政治權謀的笨蛋──	信念だけが取り柄の馬鹿者は、\n政治権謀には向いていない──	열정만 가득하고 정치 술책은 모르는 바보군──	That guy’s got his ideals—but didn’t know a thing about politics.	
+140	N/A	莉琉将档案随手丢在茶几上。	莉琉將檔案隨手丟在茶几上。	マリルはテーブルの上にファイルを放り投げた。	마리루가 파일을 테이블에 던져놓는다.	Mariru tosses the files on the table.	
+141	莉琉	正应了卡尔十四世形容拿破仑的那句名言……	這就像卡爾十四世形容拿破崙的那句名言……	まさにカール14世が、ナポレオンを形容した\n名言に相応しいな……	칼14세가 나폴레옹을 묘사한 그 명언과 딱 들어맞아……	Just like how Karl XIV described Napoleon...	
+142	N/A@莉琉	“因他只依赖自己的才智，所以上帝才惩罚他。”	「因他只依賴自己的才智，所以上帝才懲罰他。 」	『彼は自身の知性に頼っている』\n\n『神は彼を処罰するだろう』	“그가 자신의 재능에만 의지했기에 하느님이 그를 벌한 것이다.”	“He relied on his wits and nothing else. That was why God punished him.”	
+143	N/A@莉琉	──卡尔十四世·约翰，让-巴蒂斯特·培尔纳德	──卡爾十四世·約翰，讓──巴蒂斯特·培爾納德	──カール14世・ヨハン、またの名を……\n\nジャン＝バティスト・ジュール・ベルナドット。	──칼14세 요한，장-바티스트 베르나드	—Karl XIV John, Jean-Baptiste Pernard	
+144	N/A@莉琉	果然从那个家伙之后，南美的革命军都喜欢戴贝雷帽吗……	所以是從那個傢伙開始，南美的革命軍就喜歡戴貝雷帽了嗎……	しかし、南米の革命家たちはベレー帽をかぶる\nお約束でもあるのか……	역시 그 자 때문에 남미 혁명군이 모두 베레모를 쓰는 건가?	So all South American revolutionists who came after that guy love wearing berets, huh?	
+145	N/A	一位侍应走到莉琉身边。	一位服務生走到莉琉身邊。	──給仕がマリルの元へやってくる。	웨이터가 마리루의 곁으로 온다.	A waiter appears beside Mariru.	
+146	N/A@侍应	斯库尔德的车已经到楼下了。	斯庫爾德的車已經到樓下了。	スクルド様を乗せた車が到着しております。	스쿨드의 차가 도착했습니다.	They’ve brought Skuld. She’s downstairs now.	
+147	莉琉	知道了，把这份文件收好，带那个小丫头上来吧。	知道了，把這份文件收好，再把那個小丫頭帶上來吧。	分かった。\n\nこのファイルを片付けて、あの娘をここに\n連れてきてくれ。	알았어. 이 파일은 잘 보관해두고，그 여자애를 데리고 올라와. 	Gotcha. Put these files away and bring her up.	
+148	N/A@侍应	好的。	好的。	かしこまりました。	네.	Yes, boss.	
+149	N/A	莉琉拍了拍手，原本只有一个SID标志的黑色屏幕立刻变为了高层夜景的实时画面。	莉琉拍了拍手，原本只有一個SID標誌的黑色螢幕立刻變成顯示著燦爛夜景的即時畫面。	マリルが手を叩くと、SIDのマークだけを\n表示していた黒いスクリーンが、\n高層ビル群を映す夜景のライブ映像に変わった。	마리루가 손뼉을 치자 SID마크만 있던 스크린이 실시간 고층 야경으로 변한다. 	Mariru claps her hands once. The black screen that displayed nothing but a single SID logo immediately flashes to show real-time footage of the nighttime cityscape.	
+150	N/A	她看着窗外大厦顶部那巨大的红蓝两色广告，将杯中酒一饮而尽。	她看著窗外大樓樓頂那幅巨大的紅藍兩色廣告，然後舉杯一飲而盡。	彼女は窓の外、ビルの屋上にある\n「赤と青」の広告を眺めながら──\n──グラスの酒を飲み干した。	그녀는 창밖 빌딩 상단의 거대한 광고판을 보며 술잔을 들이켰다.	She watches the giant red-and-blue billboard on top of a building light up and downs the rest of her wine.	

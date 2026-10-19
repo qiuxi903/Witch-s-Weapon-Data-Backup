@@ -1,0 +1,6 @@
+1	T_showPicText	遇到多个敌人时，\n可使用[ff9c00]范围型[-]兵器来应对。
+2	FocusTrigger	
+3	A_speak	兵器天蝎造成范围伤害
+4	T_showPicText	一些技能释放可以[ff9c00]选择方向[-]或区域\n\n请向上拖动后不松开，\n通过[ff9c00]滑动[-]选好方向后再释放
+5	FocusTrigger	
+6	A_speak	消灭剩下的敌人

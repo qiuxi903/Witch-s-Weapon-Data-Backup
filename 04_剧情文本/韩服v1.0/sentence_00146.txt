@@ -1,0 +1,8 @@
+﻿1	引导精灵	第二章的难度还适应嘛？\n觉得困难的话要来看看还有那些[ff9c00]奖励资源[-]没有领取	第二章的難度還適應嗎？\n覺得困難的話，要來看看還有那些[ff9c00]獎勵資源[-]沒有領取	第2章の難易度は大丈夫？\n難しいと思ったら、まだ受領\nしてない[ff9c00]資源や報酬[-]をチェックしてね！	제2장 난이도는 어때?\n난이도가 너무 높으면 수령하지 않은 [ff9c00]보상 자원[-]이 있는지 확인해봐.	I hope chapter two wasn't too difficult for you.\nIf that's the case, check if you have any unclaimed [ff9c00]rewards[-].	
+2	T_showPicText	请注意您的引导任务完成情况\n注意查收领取必要任务[ff9c00]奖励[-]	請注意您的引導任務完成情況\n注意查收以領取必要任務[ff9c00]獎勵[-]	クエストの達成状況に注意して\n必要なクエスト[ff9c00]報酬[-]は忘れずに受領しよう。	튜토리얼 임무 완료 상황을 주의하세요.\n필수 임무 [ff9c00]보상[-]을 수령하는 것을 잊지 마세요.	Check your completed tutorial quests.\nMake sure you've collected all the quest [ff9c00]rewards[-].	
+3	T_showPicText	这次我们依旧要用到[ff9c00]快捷菜单[-]	這次我們依舊要用到[ff9c00]快捷功能表[-]	今回も[ff9c00]メニュー[-]を開く。	이번에도 [ff9c00]간편 메뉴[-]를 사용해야 할 것 같아요. 	You need to use the [ff9c00]shortcut menu[-] again.	
+4	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	
+5	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	
+6	FocusTrigger	点击成就	點擊成就	実績をタップ	업적 터치	Tap Achievement	
+7	引导精灵	这里可以查看成就[ff9c00]成就[-]并领取奖励	這裡可以查看[ff9c00]成就[-]並領取獎勵	ここは達成した[ff9c00]実績[-]の確認と報酬の受領ができるよ。	여기서 [ff9c00]업적[-]을 확인하고 보상을 수령할 수 있어.	Check your completed [ff9c00]Achievements[-] and collect their rewards here.	
+8	引导精灵	请用领取的资源尽情[ff9c00]强化[-]魔女们吧	請用領取的資源盡情[ff9c00]強化[-]魔女吧	受領した資源を活用して、どんどん魔女達を[ff9c00]強化[-]してね！	수령한 자원으로 마음껏 마녀를 [ff9c00]강화[-]해봐.	Use your resources to [ff9c00]enhance[-] your Witches!	

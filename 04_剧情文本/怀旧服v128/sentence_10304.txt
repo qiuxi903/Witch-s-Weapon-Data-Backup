@@ -1,0 +1,115 @@
+﻿1	N/A	午后，我半躺在树荫下的草坪上，有些惆怅的看着天空。	午後，我半躺在樹蔭下的草坪上，有些惆悵地看著天空。	午後、木陰の下、芝生の上、\n後ろに手を付き座る俺。\n少し愁いを漂わせながら、空を見つめていた。	오후，나무 그림자 아래 잔디밭에 누워 우울한 기분으로 하늘을 바라보고 있다.	On the grass under the shades, I stare moodily at the afternoon sky.	
+2	小怜	唉──	唉──	はぁ～～	에휴──	Ugh—	
+3	N/A	一道阴影遮住了我的视线。	一道陰影遮住了我的視線。	1つの影が俺の視線を遮る。	갑자기 그림자가 내 시야를 가린다.	A shadow suddenly blocks my view.	
+4	安妮	怎么啦小怜，唉声叹气的。	怎麼啦？ 小憐，唉聲嘆氣的。	どうしたのレンちゃん、\n溜め息なんかついちゃって。	왜 한숨을 쉬고 있어，렌? 	What's wrong, Ren? What's bothering you?	
+5	小怜	是安妮啊……	是安妮啊……	あぁ　アニーか……	앤이구나……	Hi, Annie…	
+6	N/A	安妮顺势坐在了我的旁边，将手里的纸袋放在膝盖上。	安妮順勢在我旁邊坐了下來，手裡的紙袋放在膝蓋上。	アニーは俺の横に座り、持っていた紙袋を\n膝の上に置いた。	앤이 옆에 앉으며 손에 든 종이봉투를 무릎 위에 올린다.	Annie sits beside me, putting a doggie bag on her knees.	
+7	小怜	──好甜的气味！	──好甜的香味！	──甘い匂いがする！	──맛있는 냄새！	—It smells so sweet!	
+8	安妮	锵锵~~新出炉的枫糖奶油饼干~\n要尝一块吗？	鏘鏘～～是新出爐的楓糖奶油餅乾唷～\n要嚐嚐嗎？	じゃ～んっ！\nでき立てのメープルクリームクッキーだよ～～！\n食べてみる？	짜잔~~새로 구운 메이플 생크림 쿠키~\n하나 먹어볼래?	Ta-dah! Freshly baked maple cream cookies! \nWanna have one?	
+9	N/A	虽然这么说，但是拆开包装的安妮并没容我拒绝的意思，直接将一块饼干塞进我的嘴里。	雖然這麼問，但是已經動手拆開包裝的安妮並沒有等我回答，就直接將一塊餅乾塞進我嘴裡。	そう言いつつ包装を開け、俺に断る隙も与えず、\n直接クッキーを1枚俺の口に押し込んだ。	앤이 내 대답을 듣기 전에 봉투를 뜯어 쿠키를 내 입에 넣는다. 	Having asked me, she doesn't seem to expect any rejection and pushes a cookie into my mouth.	
+10	小怜	唔……（嚼）\n还不错嘛！	唔……（嚼）\n還不錯嘛！	はぐっ……（もぐもぐ）\nイケるなこれ！	음……（오물오물）\n맛있다！	Umm… (Chewing) \nYummy!	
+11	安妮	对吧！刚才路过家政课教室的时候，闻到了超——香的味道，我就偷偷找人要了一袋~	對吧！ 剛才路過家政教室的時候，聞到了超——香的味道，我就偷偷找人要了一袋～	でしょでしょ？ さっき家庭科の授業をしている\n教室の前を通ったんだけど、いい匂いがしてさ。\nこっそり1袋もらって来ちゃったの！	그치? 방금 가정 교실을 지나다가 엄청 향긋한 냄새를 맡았거든！ 그래서 몰래 부탁했지！	I know! I caught a super good smell when I passed by a class learning domestic work, so I asked someone to sneak me a bag.	
+12	小怜	真好啊……安妮已经完全融入这里了。	真好啊……安妮已經完全融入這裡了。	すごいなぁ……\nアニーはすっかりここに溶け込めているな。	……앤은 이곳에 적응한 것 같아서 다행이야.	This is so nice… seeing you becoming a family member of the school, Annie.	
+13	安妮	嗯？	嗯？	ん～？	응?	Hmm?	
+14	安妮	小怜也很受欢迎啊~\n不少同学都和我打听你的情况呢……	小憐也很受歡迎啊～\n不少同學都和我打聽妳的情況呢……	レンちゃんだって人気者だよ～～？\n\n私にレンちゃんの事を訊いてくる、\nクラスメートだって多いし……	렌도 인기가 많은 걸~\n친구들이 나한테 네 얘기를 물어봤어……	Ren, you are very popular, too. \nMany classmates have asked me about you…	
+15	小怜	哎？是这样吗？	哎？ 是這樣嗎？	え？　そうなのか？	엣? 그래?	Really?	
+16	小怜	相比起过去，现在的我还真是桃花运大丰收啊？	跟過去比起來，現在的我還真是桃花朵朵開耶，但是，現在開有什麼屁用啊！ ！	もしかして昔の俺に比べると、今の俺はモテモテ\nだったりしちゃうのか？	예전보다 지금의 내가 정말 애정운이 좋아진 건가? 	My luck in romance is way much better than when I was a boy!	
+17	安妮	不过莉琉小姐禁止我们透露个人信息……所以我什么都没讲哦！	乖啦，因為莉琉小姐禁止我們透露個人資料……所以我什麼都沒講哦！	でも、マリルさんから個人情報を漏らすのを\n禁止されているから……\nだから何も話してないの！	그치만 마리루가 개인 정보를 노출시키지 말라고 해서…아무것도 알려주지 않았어！	But Ms. Mariru doesn't allow us to leak our personal information… So I never told anyone about you!	
+18	N/A	安妮一边咬着饼干，一边关心地看着我。	安妮一邊咬著餅乾，一邊關心地看著我。	アニーはクッキーを食べながら、\n心配そうに俺を見つめた。	앤이 쿠키를 씹으며 날 관심있게 쳐다본다.	Annie looks at me attentively while eating the cookies.	
+19	小怜	……	……	……	……	…	
+20	安妮	心情不好吗？	心情不好嗎？	……気分が悪いの？	기분 안 좋아?	You don't feel good?	
+21	小怜	总觉得自己无法安心的面对这种平静的日常……	總覺得自己無法安心地面對這種平靜的日常……	なんだか、こんなにも平和な日々が続くと\nなんか落ち着かないんだ……	이런 평온한 생활을 안심하고 보낼 수 없다는 생각이 들어……	Such a peaceful life kind of makes me uneasy…	
+22	安妮	不好吗？	平靜不好嗎？	平和って事でいいんじゃないの？	좋지 않아?	Isn't it good for you?	
+23	小怜	好像有什么重要的事，又不知从何做起\n这样无所事事又觉得忐忑不安……	好像有什麼重要的事，又不知從何開始，\n這樣無所事事又覺得忐忑不安……	何か大切な事があるような気がする。\nけど、何からどうすればいいか分からない。\nけど、このまま何もしないのも不安で……	중요한 일이 있는 것 같은데，어디서부터 해야 할지는 모르겠어 가만히 있으니까 뭔가 초조하고 불안해	It's like I have something important to do but don't know where  to start. \nThe fact that we have nothing to do now makes me jittery…	
+24	安妮	重要的事情……？	重要的事……？	大切な事……？	중요한 일……？	Something important?	
+25	小怜	比如说，未来会怎样……之类的。\n我现在这样的身体──	比如說，未來會怎樣……之類的。 \n我現在這樣的身體又會變成怎樣──	例えば、ここから未来はどうなるんだ……とか。\n\nだって、今の俺の身体って……こんな──	예를 들면，미래의 계획……이라든가.\n내 지금의 몸──	Let's say, what the future would be like… Things like that. \nAnd my body—	
+26	安妮	噗嗤——	噗嗤～	ぷっ──	푸핫——	Haha—	
+27	小怜	唔啊——！\n果然笑话我了吧！！！	唔啊——！ \n妳居然笑我！ ！！	うぐっ──！\nやっぱり笑うか！！！	으아——！\n날 비웃었어！！！	Hmm—! \nYou think this is funny!!	
+28	小怜	讲出这种话，实在是有点太羞耻了！！！	啊啊啊啊！ 我居然真的說出來了，好丟臉啊！ ！！	こう言う話をするのは恥ずかしいんだよッ！！	이런 말을 하기도 사실 부끄러웠단 말이야！！！	It's so embarrassing to say this!!!	
+29	小怜	那个，因、因为班上有那么多女生，会毫无顾忌的跟我聊各种话题……会很不好意思啊。	因、因為班上的女生，都毫無顧忌地跟我聊各種話題……這樣很不好意思啊。	だ、だってクラスには女の子がたくさんいるし、\nみんな遠慮せずに色々と──\n『踏み込んだ』話を俺にしてくるんだ……\n……そんなの恥ずかし過ぎる。	반 여자애들이 아무렇지 않게 이런저런 얘기를 할 때마다…민망해서.	M… many classmates would talk with me openly on all these girly topics… I just feel awkward.	
+30	安妮	哦~所以你才在这里一个人呆着？	哦～所以妳才一個人躺在這裡？	あ～～だから1人でここにいたのね？	오~그래서 혼자 여기 있었던 거야？	I see. So that’s why you are here alone?	
+31	N/A	安妮的表情似乎很轻松。	安妮的表情似乎很輕鬆。	……アニーの表情は気楽なもんだ。	앤의 표정이 풀린 것 같다.	Annie looks at ease.	
+32	小怜	是吧，有时我会不自觉的玩起自己的头发或者调整一下内衣。	……有時候，我會不自覺地玩起自己的頭髮或調整內衣。	それに、最近は女の子みたいに無意識に……\n\n髪の毛を弄ったり、\n下着とか調整したりしちゃって。	응. 가끔 나도 모르게 머리카락을 가지고 놀거나 속옷을 정리하기도 해.	Yes. Sometimes I would unconsciously fiddle with my hair, or adjust my underwear.	
+33	小怜	或者在执行任务的时候，很自然的穿短裙踩上高跟鞋……	在執行任務的時候，也能很自然地換上短裙和高跟鞋……	任務の時とか自然にスカートやハイヒールを\n穿いてたりする自分がいるし……	임무를 수행할 때 자연스럽게 짧은 치마와 하이힐을 신기도 하고……	And when heading out for a mission, I would naturally put on a skirt and high heels…	
+34	小怜	可有时一旦意识到，就觉得我怎么能这样呢！！	可是有時候會突然意識到，我怎麼會變成這樣呢？ ！	ふと、時々我に返って思うんだ。\n俺！なんて事をしているんだッ！！　って	하지만 의식하게 되면，이러면 안 돼！！ 라는 생각이 들어.	But the moment I realized what I have done, I would be like: “Gosh, how could I do this?"	
+35	小怜	我、我可是男孩子啊……	我、我可是男孩子啊……	お、俺は男なんだぞ……	나，난 남자니까……	I… I'm a boy…	
+36	安妮	男孩子也没有问题啊？	男孩子也沒有問題啊！	男の子でも問題ないと思うよ？	남자라도 문제될 건 없잖아?	Boys can do that.	
+37	N/A	安妮语气变得一本正经。	安妮語氣變得一本正經。	アニーの口調が急に真剣になってきた。	앤의 말투가 진지하게 변했다.	Annie suddenly sounds serious.	
+38	小怜	诶？	什麼？	え？	엣?	What?	
+39	安妮	高跟鞋的话，最初就是路易十四发明的。	高跟鞋啊，最初就是路易十四發明的唷～	ハイヒールを最初に発明したのは、ルイ14世。	하이힐은 루이14세가 최초로 발명했어.	High heels were invented by Louis XIV.	
+40	安妮	17世纪的时候，女性开始穿上高跟鞋，是为了让自己看起来更加阳刚呢。	17世紀時，女性會開始穿上高跟鞋，是為了讓自己看起來更陽剛喔。	女性がハイヒールを履き始めたのは17世紀で、\nその理由は自分を勇ましく見せるため。	자신의 남성미를 부각시키려고 말야. 17세기가 되서야 여자들도 하이힐을 신기 시작했어.	And in the 17th century, women started to wear high heels to make themselves look masculine.	
+41	小怜	高跟鞋是为了……阳刚？	穿上高跟鞋是為了……變得陽剛？	ハイヒールが……勇ましく見せるため？	하이힐이……남성미를 위해서라고？	High heels were meant for… masculinity?	
+42	安妮	而且，苏格兰地区的男性可是会在正式场合穿短裙的！	嗯～而且，蘇格蘭地區的男性可是會在正式場合穿短裙的！	そう。それにスコットランド地方の男性は、\n儀礼的な場所だとスカートを穿くの。	게다가 스코틀랜드 남자는 공식 석상에서 짧은 치마를 입어！	And Scottish men wear kilts on formal occasions!	
+43	小怜	好像是有听说过……	這個倒是有聽說過……	それは確かに聞いた事がある……	들어 본 것 같아……	That I know…	
+44	安妮	嗯……据说还不用穿内裤！	是啊，據說還不用穿內褲！	うん……しかもパンツを穿ないんだよ！？	응……속바지도 입지 않는다고 들었어！	Uh-huh… It's said they don't even wear underpants!	
+45	N/A	我忍不住摸了摸自己的裙子。	我忍不住摸了摸自己的裙子。	思わず自分のスカートを触った。	난 나도 모르게 치마를 만지작거렸다.	Unconsciously, I patted on my skirt.	
+46	N/A	还好还好，我不是苏格兰人！	還好還好，我不是蘇格蘭人！	よかった。俺はスコットランド人じゃなくて。	스코틀랜드 사람이 아니라서 다행이야！	Thank goodness I'm not a Scot!	
+47	安妮	所以，小怜的打扮，明明就很有男子气概！	所以啦，小憐的打扮，明明就很有男子氣概！	だからレンちゃんの格好は、とっても男らしい！	그러니까，렌의 모습에서도 남자의 기개가 느껴져！	So, Ren, you look very manly!	
+48	小怜	是、是这样的吗？	是、是這樣的嗎？	そ…、そうなのか？	그，그래？	Do… do I?	
+49	安妮	唔……至于内衣嘛……	唔……至於內衣嘛……	ん──上に関しては……	음……속옷은……	Hmm… And the underwear…	
+50	N/A	安妮的视线落在我胸口。	安妮的視線落在我胸口。	アニーの視線が俺の胸元に落ちる。	앤의 시선이 내 가슴으로 향한다.	Annie's eyes turn to my chest.	
+51	小怜	是、是吧！这个东西不会有男子气概了吧！	這種東西總不會有男子氣概了吧！	ほ、ほらなっ！\nこれはさすがに男らしくないだろう！？	여，역시 이건 남자의 기개가 느껴지지 않지?	S… see! These two are in no way manly!	
+52	安妮	……我觉得更像是运动时的负重训练用品。	……我覺得挺像運動時的負重訓練用具。	…………ウェイトトレーニングのグッズに\n似ていると思わない？	……난 웨이트 트레이닝 용품 같다고 생각해.	… I think they are similar to weight training equipment.	
+53	小怜	──啊？	──啊？	────は？	──아？	—Huh?	
+54	安妮	是啊~只要把增加的重量视作沙袋不就可以了吗？	是啊～只要把增加的重量當作掛在胸前的沙袋不就好了嗎？	そう、増えた重さは砂袋だ　って考えれば\nいいんじゃないかな？	응~늘어난 무게를 모래주머니라고 생각하면 되지 않을까?	That's right! Just take them as sandbags.	
+55	安妮	虽然我是没有这种烦恼啦……	雖然我是沒有這種煩惱啦……	私にはそんな悩みがないけど………………	난 그런 고민은 해본 적 없지만……	I wish I could have these sweet burdens…	
+56	N/A	安妮有点失落的摸了摸自己。	安妮有點失落地摸了摸自己。	アニーは自分のモノを触って、少し落ち込む。	앤이 낙담하며 자신의 것을 더듬는다.	Annie sadly touches her chest.	
+57	小怜	好像……也很有道理？	這樣，好像……也說得通。	そう考えると…………確かに男らしい？	듣고 보니……그런 것 같기도 하고?	You… sound sensible.	
+58	N/A	——才没有啊！	才沒有啦！ ！	────って、んなわけあるかッ！	——가 아니잖아！	—No way!	
+59	N/A	你以为我会被这种话说服吗？！	妳以為我會被這種亂七八糟的話說服嗎？ ！	俺がそんな言葉で納得すると思うのかッ！？	내가 그런 말에 설득당할 것 같아?！	You think I'll buy this?	
+60	安妮	不管怎么说，在我心中，小怜是很棒的男孩子呢~	不管怎麼說，在我心中，小憐就是很棒的男孩子呢～	いずれにしても私の中でレンちゃんは、\nとっても素敵な男の子に間違いないよ～～	어쨌든 내 마음속에 렌은 멋있는 남자야~	Anyway, Ren, I think you're a very good boy!	
+61	小怜	感觉脸颊一阵发烫。	我突然感覺臉頰一陣發燙。	頬が熱くなるのを感じた。	얼굴이 순식간에 달아오른다.	My face is burning.	
+62	小怜	是、是吗？？	是、是嗎？ ？	そ、そうかな？	그，그래？？	Y… you do?	
+63	小怜	（感觉有点道理，又感觉自己被骗了……）	（雖然感覺有點道理，但同時也覺得自己被唬弄了……）	（なんか言い包められている気がする……）	（맞는 말인 것 같기도 하고 \n속은 것 같기도 하고……）	(She sounds sensible, but I still feel tricked…)	
+64	N/A	看着安妮天真友善的笑容，我……还是相信她吧。	看著安妮天真友善的笑容，我……還是相信她吧。	アニーの無邪気な笑顔を見ると、俺は……\nやっぱり彼女の言葉を信じておこう。	앤의 천진난만한 얼굴을 보니……그냥 믿어보자.	Annie looks innocent and sincere, so… I choose to trust her.	
+65	N/A@莉琉	还真是无忧无虑的青春呢。	真是無憂無慮啊，青春真好呢～	なんとも気散じな青春だな。	역시 아무 근심 없는 청춘이야.	What a carefree age.	
+66	N/A	莉琉的声音突然从我的胸部传出。	莉琉的聲音突然從我的胸部傳出。	前触れもなく、俺の胸からマリルの声が響いた。	가슴에서 마리루의 목소리가 갑자기 들려온다.	Mariru's voice just came out of my chest.	
+67	小怜	呀──	呀──	ヤッ──！？	악──	Aah—	
+68	N/A	我被吓了一跳，赶紧捂住胸口，生怕被同学发现。	我嚇了一跳，趕緊左右張望後捂住胸口，深怕被發現。	俺はクラスメートにバレないか心配だったので、\n急いで胸を覆って隠す事に専念した。	깜짝 놀란 나는 다른 사람에게 들킬까 봐 서둘러 가슴을 가렸다.	Startled, I immediately cupped my chest, afraid to be caught by other students.	
+69	N/A	虽然爱衣安慰我说时间长了就适应了，但这种麻麻痒痒的感觉绝对无法适应！！	雖然愛衣安慰我說，時間久了就習慣了，但這種麻麻癢癢的感覺絕對沒有辦法習慣！ ！	時間がある程度経ったらきっと慣れるって\n愛衣が慰めてくれたけど、\nこのビリビリくすぐったい感じは、\n絶対に慣れない自信がある！！	시간이 지나면 적응될 거라고 아이가 말했지만，이 간지러운 느낌은 절대 적응이 안 될 것 같다.	Aya said I would get used to the speaker, but I think I'll never accept this weird numbness!!	
+70	N/A	我从天空酒店回来后三番五次的要求把这块奇怪的芯片取出来。	我從天空酒店回來後，好幾次要求把這塊奇怪的晶片取出來。	スカイホテルから帰ってきた後、\n何度もこの変なチップの取り外しを要求した。	스카이호텔에서 돌아온 후부터 이 이상한 칩을 빼달라고 누누이 얘기했지만	After the Sky Hotel operation, I had been requesting them to remove the stupid chip.	
+71	N/A	直到莉琉威胁我，再闹就在课上当着全班同学的面用我的胸部播放下课铃。	直到莉琉威脅我，再吵就在課堂上當著全班同學用我的胸部播放下課鈴聲。	──これ以上の要求をしてくるのであれば、\nクラス全員の目の前で、授業終了のチャイムを\nお前の胸から鳴らす事になるが良いか？\n──ってマリルに脅されるまで……	마리루는 반 친구들 앞에서 내 가슴으로 수업 끝나는 종소리를 방송하겠다고 날 협박했다.	Until Mariru threatened to ring the school bell through the chip in front of my whole class.	
+72	N/A	这个恶魔！！呜呜呜呜……	這個惡魔！ ！嗚嗚嗚嗚……	あの悪魔ッ！！　うううう……	이 악마！！흑흑흑흑……	What a devil!! Waaah…	
+73	N/A@莉琉	我可是为了你们，好一阵子没有休息过了。	我可是為了妳們，好一陣子沒休息了。	私はお前達のために、\n最近はほとんど休んでいなかったのだぞ？	너희들 때문에 요 며칠 쉬지를 못 하고 있어.	I have been working nonstop for you guys these days.	
+74	安妮	难怪最近都没有什么任务呢~	難怪最近都沒有什麼任務呢～	どおりで、最近任務がほとんどないわけね。	어쩐지 요즘 임무가 없더라니~	No wonder we don't receive any mission!	
+75	小怜	哈、哈哈……\n安妮还真是积极……	哈、哈哈……\n安妮還真是積極……	は、はは……\nアニーは積極的だな……	하，하하……\n앤은 정말 적극적이구나……	Ha… haha… \nSounds like you can’t wait to work, Annie…	
+76	N/A@莉琉	要不是因为元老院那边太难缠，早就应该搞定的……	要不是因為元老院那邊太難搞，老早就應該搞定的……	元老院の方があまりにもしつこくてな、\nさっさと片付けるべきだったのだが……	원로원이 성가시게 굴지만 않았으면，벌써 처리됐을 텐데……	If not for the headstrong Senators, I would've got everything settled…	
+77	小怜	哎？	哎？	え？	아？	Eh?	
+78	N/A	莉琉的声音有些兴奋。	莉琉的聲音有些興奮。	マリルの声が、少し興奮しているような。	마리루의 목소리가 조금 들떴다.	Mariru sounds excited.	
+79	N/A@莉琉	很快你就会知道──	很快妳就會知道──	そのうち分かるさ────	곧 너도 알게 될 거야──	Soon you'll know—	
+80	小怜	什么呀？神神秘秘的……	搞什麼呀？ 神神祕祕的……	なんだよ？　もったいぶって……	무슨 말이야？비밀스럽게……	What?	
+81	N/A@莉琉	先不说这个，训练时间马上就到了，你俩还悠闲的在校园里谈情说爱吗？	先不說這個，馬上就到訓練時間了，妳們兩個還在這裡悠閒地談情說愛啊？	それよりもだ。もうすぐ訓練の時間だが、\nお前達2人はまだ学校で乳繰り合っているのか？	그것보다，곧 훈련시간인데 캠퍼스에서 한가하게 깨소금 볶고 있는 거야?	Never mind. But it's almost time for training, and you two are still hanging around the campus. For what? Dating?	
+82	小怜	不是还有半小时吗……	不是還有半小時嗎……	まだ30分もあるじゃないか……	아직 30분이나 남았잖아……	We still have half an hour…	
+83	N/A@莉琉	没收到邮件通知？\n最近你的体能训练课程增加了。	沒收到郵件通知嗎？ \n最近妳的體能訓練課程增加了。	メールの通知が届いているだろう？\n\n喜べ。お前のフィジカルトレーニングの量を\n今回より増加しておいたぞ。	메일 확인 안 했어？\n체력 훈련이 추가됐어.	Haven't you got my email? \nYour physical training has been increased.	
+84	小怜	又要折磨人啊……	什麼？ 妳又要折磨我了？ ！	また人を拷問にかけるかのような……	또 날 괴롭히는구나……	Torture again…	
+85	N/A	可以预想无数个精疲力竭瘫痪在床的夜晚了……	可以預想之後無數個精疲力竭癱瘓在床的夜晚了……	精魂尽き果てて、ベッドの上で死んだように眠るだけになってしまうのを想像できる……	기진맥진하면서 침대에 쓰러질 화면이 예상된다……	I can already imagine numerous coming nights that I, dead worn, collapse on my bed…	
+86	N/A@莉琉	折磨？哼哼──	嘖，什麼折磨啊？	拷問？　ふん──	괴롭혀？흐응──	Torture? Humph—	
+87	N/A@莉琉	你的身体，早就属于我了哦。	妳的身體，早就屬於我了哦。	お前の身体は、とっくに私のものだが。	네 몸은 이미 내 것이였어.	Don’t forget, your body has long been mine.	
+88	小怜	不要说这种令人误会的话啊！！！	不要說這種會令人誤會的話啦！ ！！	そういう誤解を招くような発言をしないでよ！！	그런 오해를 살만한 말은 하지 말라고！！！	Hey, stop that. This doesn’t sound right!!!	
+89	N/A	莉琉面带笑意的切断了通讯。	莉琉面帶笑意地中斷了通訊。	マリルは笑みを込めながら通信を切った。	마리루가 웃음기 어린 채 통신을 끊었다.	Mariru cuts off the call with a smile.	
+90	N/A	面对着冷冰冰的荧幕，她站姿挺拔。	面對著冷冰冰的螢幕，她站姿挺拔。	冷たいモニターの前で、彼女は姿勢を正して\n立っている。	그녀가 차가운 스크린을 마주보며 서있다.	She is standing upright in front of a bleak screen.	
+91	N/A	手持终端的数据被传送到荧幕背后的几人面前。	手持平板中的數據已傳送到螢幕背後的幾人面前。	タブレット端末内のデータが、スクリーンの\n向こう側にいる数人へと送られた。	손에 든 단말기의 데이터가 스크린 뒤 몇 명의 눈 앞에 전송된다.	The data on the handset is being presented to those behind the screen.	
+92	莉琉	关于项目预算……	關於專案預算……	プロジェクトの予算についてですが……	항목 예산 관련……	Regarding the budget…	
+93	莉琉	已经向市政部门申请征用新东北地区的G-cans周围四十公里的无人区，统一划归SID管理。	已經向市政部門申請徵用新東北地區G-cans周圍四十公里的無人區，統一由SID管理。	新東北地域。\n\nG-cans周囲40キロメートルに及ぶ無人エリアの\n管理を市当局に申請。\nSIDで統一管理します。	시정부에 G-cans 주위 40킬로미터 무인지역 수용과 SID 분할 관리를 신청했습니다.	I've requested the municipal authorities to give SID the mandate to take over the uninhabited land within 25 miles of G-cans in the New Northeast region.	
+94	莉琉	相应预算为14.9亿。	相關預算為14.9億。	これに対応する予算は253.3億。	예산은 14.9억입니다.	The budget is 1.49 billion.	
+95	N/A@众人	……	……	……	……	…	
+96	莉琉	重设管道、配置交通及安保设施，均采用V级军事掩体标准。	重設管線、配置交通及保全設施，均採用V級軍事掩體標準。	配管の再設置、交通機関及び安全保護施設の\n構成に全てV級軍事掩蔽壕設計を標準採用。	파이프 재건축，교통 및 보안 설비 배치 모두 v급 군사 벙커 표준을 적용합니다.	We'll rebuild the pipes and supporting transportation and security infrastructure, all in line with V-class military bunker standard.	
+97	莉琉	相应预算为6.2亿。	相關預算為6.2億。	これに対応する予算が105.4億。	상응 예산은 6.2억입니다.	The budget is 620 million.	
+98	N/A@众人	…………	…………	…………	…………	…	
+99	莉琉	地下泄洪口并列改造，全区域电磁屏蔽，还有定制的自律武器系统。	並列改造地下洩洪口、全區屏蔽電磁波，還有特製的自律武器系統。	地下排水溝を並列化改修、全地域での電磁遮断。\nそしてカスタマイズした自律兵器システム。	지하 방수구 병렬 개조，전구역 전자파 차단막，그리고 맞춤형 자율 무기 시스템까지.	The underground flood control ports will be renovated to connect in parallel. Electromagnetic shields will be put in place across the area. A customized autonomous weapon system will be deployed.	
+100	莉琉	相应预算为5.32亿。	相關預算為5.32億。	これに対応する予算で90.5億。	상응 예산은 5.32억입니다.	The budget is 532 million.	
+101	N/A@众人	………………	………………	………………	………………	…	
+102	莉琉	改造工期约为58天。	改造工期約為58天。	改修工期は、およそ58日間です。	개조 기간은 대략 58일.	The project is expected to take 58 days.	
+103	莉琉	元老院对这部分企划没有异议的话，SID会立刻开始执行。	元老院對這部分企劃沒有異議的話，SID就會立刻開始執行。	以上について、元老院の異議がなければSIDは\nすぐに執行へと移ります。	원로원이 이 계획에 이의가 없다면，SID는 즉각 실행하도록 하겠습니다.	Senators, if you have no questions about this, SID will start the project right away.	
+104	华音泷	……有些……太贵了……吧……	……有點……太貴了……吧……	異議はあるに決まっている……\n\n高すぎる……だろ……	……조금……비싼 것 같은데…………	That's… very… pricey…	
+105	莉琉	这是三份开发报告中相对性价比最高的选择。	這是三份開發報告中性價比最好的選擇。	3つの開発試算で、最もコストパフォーマンスに\n優れたものがこの計画になりますが……	개발 보고서 3개 중 가성비가 가장 높은 선택입니다. 	This is the most cost-effective option among the three development plans.	
+106	基尔斯	……	……	……	……	…	
+107	莉琉	我倒是不介意终止这项计划。	我不介意終止這項計劃。	……私は計画が中止になっても構いません。	이 계획을 중지해도 전 개의치 않아요. 	Well, I don't mind calling an end to this project.	
+108	莉琉	不过，诸位的意见是……？	不過，諸位的意見是……？	しかし、皆様のご意見は……？	여러분의 의견은……？	But if I may say so, your opinions count…	
+109	N/A@众人	……	……	……	……	…	
+110	N/A	众人的沉默并不意味着否定。	眾人的沉默並不意味著否定。	一同の沈黙は、否定の意味ではない。	모두가 침묵하며 부정하지 않는다. 	The silence doesn't mean no.	
+111	N/A	电磁的噪音充斥着这间安静的房间。	電磁噪音充斥著這個安靜的房間。	電磁の雑音が静かな部屋に溢れる。	전자파의 잡음이 조용한 방 안에 흐른다.	Only static buzzing noise can be heard in the room.	
+112	N/A	——荧幕上逐步闪现出“确认”的字样。	——螢幕上逐步顯示出「確認」的字樣。	────スクリーン上に「承認」という\n文字が徐々に現れる。	——스크린 위에 "확인" 글자가 천천히 빛나고 있다.	— The word "Approved" shows up one after another on the screen.	
+113	N/A	直到所有人的影像下方，都出现了确认。	直到所有人的影像下方都出現了「確認」。	映像の下に全員の「承認」が出揃った。	모두의 영상 아래 확인 글자가 표시된다.	The word is shown beneath all video feeds.	
+114	N/A	莉琉满意地勾起嘴角。	莉琉滿意地勾起嘴角。	マリルは満足気に口元を上げた。	마리루가 만족스러운 듯 입꼬리를 올린다.	Mariru beams with satisfaction.	
+115	莉琉	那么──『方舟计划』启动！	那麼──「方舟計劃」啟動！	それでは────\n\n『方舟計画』始動。	그럼──『방주계획』을 시작하겠습니다！	So—I announce the start of "Project Ark"!	

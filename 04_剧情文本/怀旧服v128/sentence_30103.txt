@@ -1,0 +1,97 @@
+﻿1	N/A	呐……你有没有过那种感觉？	吶……你有沒有過那種感覺？	ねぇ……こんな経験した事はない？	저기……그런 느낌이 든 적 있어?	Hey, do you ever get that kind of feeling?	
+2	N/A	蓦然回想起某个画面，却忘记了是何时的记忆。	突然想起某個畫面，卻忘記是何時的記憶。	ある光景を急に思い出すんだけど、\nいつの記憶なのか思い出せない。	문득 어떤 화면이 떠오르는데 언제의 기억인지 생각나지 않는 것.	You remember a scene... but have no idea when it happened.	
+3	N/A	并不是那种很多人都经历过的，被称为“幻觉记忆”的体验。	我指的並不是那種很多人都經歷過的，稱為「既視感」的體驗。	それは多くの人が経験する「デジャブ」と\n呼ばれる体験とはちょっと違う。	많은 사람들이 겪을 수 없는 “환각 기억”이라 불리는 경험.	I don’t mean deja vu. Everyone has that some time or another.	
+4	N/A	而是你早就知道会发生的一幕，终于被验证了。	而是你早就知道會發生的一幕，終於被驗證了。	ずっと前から起きる事を知っていて、\n最終的には答えが証明されるような感じ。	이미 발생할 거라고 알고 있었던 사건이 마침내 검증돼.	I mean, like, there’s something you’ve always known will happen someday, and it finally happens.	
+5	N/A	你已经预知到，甚至看到了闪回般的画面，只是当时无法确认。	你已經預知到，甚至看到了似曾相識的畫面，只是當時無法確認。	あなたはそれを予知していて、\nさらにフラッシュバックのような映像を見る。\nただ、その時には確認のしようがない。	이미 예지한， 플래시백 같은 화면을 봤지만 당시에는 확인할 수 없을 뿐이지.	You’ve always known it will happen. You’ve even seen it, in the form of a flashback. You just can’t be sure when it’s going to happen.	
+6	N/A	而所谓『既视感』，仅仅是对这种预知的验证。	而所謂「既視感」，僅僅是對這種預知的驗證。	いわゆる「デジャブ」は、予測に対する\n単なる検証に過ぎないから。	소위 말하는 『데자뷰』는 이런 예지에 대한 검증일 뿐이야.	What we call deja vu is simply a sort of confirmation that your premonitions have come true.	
+7	N/A	你早知事情会变成这样的──	你早知道事情會變這樣的──	あなたは、こうなる事を知っていた──	넌 일이 이렇게 될 거라고 이미 알고 있었어──	You knew it will happen. You’ve always known.	
+8	N/A	不是吗？	不是嗎？	──そうでしょう？	그렇지 않아?	Haven’t you?	
+9	斯库尔德	唔……	唔……	う……ん……	음……	Hm…	
+10	N/A	金发少女迷迷糊糊的醒来，揉了揉眼睛，发现自己正躺在一张长凳上。	金髮少女迷迷糊糊醒來，揉了揉眼睛，發現自己正躺在一張長椅上。	金髪の少女がぼんやりと意識を取り戻す。\n\n目を擦ってから、ようやく自分がベンチに\n横たわっている事に気付いた。	금발소녀가 깨어나 눈을 비비고 자신이 벤치 위에 누워있는 것을 발견한다. 	The blond girl opens her eyes groggily, rubs her face and finds herself lying on a bench.	
+11	斯库尔德	法贝拉……这是在哪儿？	法貝拉……這裡是哪裡？	ファビオラ……ここはどこなの？	파비올라……여긴 어디야?	Fabella... where are we?	
+12	N/A	形影不离的女仆并未如往常那样，第一时间出现在自己面前。	形影不離的女僕並未如往常那樣，在第一時間出現在自己面前。	常に寄り添ってくれていたメイドが、\nいつものように自分の前に現れてくれない。	그림자처럼 따라다니던 메이드가 평상시처럼 제 눈 앞에 나타나지 않는다. 	But Fabella does not reply. Strange. The maid would usually appear the second her name is called.	
+13	N/A	空无一人的道路两旁的路灯整齐的延伸到远处，让少女产生了一种恍若隔世的诡异宁静感。	路上空無一人，兩側路燈整齊地延伸到遠方，讓少女產生了一種恍若隔世的詭異寧靜感。	誰もいない道の両側に、点々と並ぶ街灯の列が\n遠方へと伸びていく。\n少女は浮世離れした妙な静けさを感じ取る。	아무도 없는 길가의 가로등 불빛이 먼 곳까지 비춘다. 이상한 안정감이 느껴진다.	The girl looks around to see an empty street, lined by orderly streetlamps on both sides. The street seems to go on forever in eerie silence, like this were some alternate universe.	
+14	斯库尔德	我记得……刚刚在教堂……	我記得……剛剛在教堂……	あたしは……さっきまで教会に……	분명……방금 교회에 있었는데……	Weren’t we in a church...?	
+15	斯库尔德	啊──法贝拉！！！	啊──法貝拉！ ！！	ファ、ファビオラッ！！！？？	아──파비올라！！！	Ahh... Fabella!	
+16	N/A	强忍着剧烈的头痛，斯库尔德猛然从长椅上站起。	強忍著劇烈的頭痛，斯庫爾德猛然從長椅上站起。	強烈な頭痛を堪えながら、すぐにスクルドは\nベンチから立ち上がった。	극심한 두통을 참으며 스쿨드가 벤치에서 몸을 일으킨다.	Skuld gets to her feet, a hand massaging her aching temple.	
+17	N/A	刚才好像做了噩梦，彩绘玻璃上扭曲恐怖的画面还在深深刻在脑海之中。	剛才好像做了惡夢，彩繪玻璃上扭曲恐怖的畫面還深深烙印在腦海中。	まるで悪夢を見ていたかのような時間だった。\n\nあのステンドグラスが歪んだ時の恐怖が、\n未だ深く脳裏へと刻み込まれている。	악몽을 꾼 것 처럼 채색 유리가 무섭게 일렁이던 화면이 머릿속 깊이 박혀있다. 	She remembers the nightmare she had. Remembers the twisted images on the mosaic windows. But was it really just a nightmare?	
+18	N/A	最后似乎是法贝拉将自己从黑暗中推了出去……	最後似乎是法貝拉將自己從黑暗中推了出去……	最後、ファビオラが自分を暗闇から\n救い出してくれた……	마지막에 파비올라가 자신을 암흑 속에서 밀어낸 것 같다……	She remembers Fabella, throwing her out of the church, releasing her from the darkness that would have otherwise claimed her...	
+19	N/A	斯库尔德检查了身上，手机、财物和饰品都完好。	斯庫爾德檢查了身上帶的東西，手機、財物和飾品都還在。	スクルドは所持品をチェックする……\n\n携帯電話、財布、アクセサリーも全て無事。	스쿨드가 몸을 뒤져 휴대폰과 물건, 액세서리가 모두 있는 것을 확인한다.	Skuld checks her belongings. Her cellphone, her wallet, her accessories... all there.	
+20	N/A	少女拿出手机，32个未接来电。	少女拿出手機，32通未接來電。	携帯を取り出すと、32件の不在着信があった。	소녀가 휴대폰을 보니 32통의 부재중 전화가 뜬다.	There are thirty-two missed calls on her phone.	
+21	N/A	如果不是法贝拉帮自己装了反追踪软件，大使馆的人早就找来了吧……	如果不是法貝拉幫自己裝了反追蹤軟體，恐怕大使館的人早就追上了吧……	ファビオラのアンチ追跡ソフトをインストール\nしていたから──\n大使館の人は探しに来られなかったのだろう……	파비올라가 추적 차단 프로그램을 설치하지 않았다면 대사관의 사람들에게 발견됐을 것이다	If Fabella hadn’t installed an anti-tracking software on the phone, the Embassy would probably have found her already.	
+22	斯库尔德	22:18…已经这么晚了吗？	22：18…已經這麼晚了嗎？	22時18分……もうこんな時間？	22:18…시간이 벌써 이렇게 됐나?	Ten-eighteen p.m... it’s that late already?	
+23	N/A	少女坐在长椅上，闭上眼调整着呼吸，想要将纷乱的记忆与信息整理清晰。	少女坐在長椅上，閉上眼調整呼吸，試圖釐清紛亂的記憶與資訊。	少女はベンチに座り、目を閉じて呼吸を整える。\n\n混乱していた記憶と情報を整理しようとする。	소녀가 벤치에 앉아 눈을 감고 숨을 고른다. 혼란스런 기억과 정보를 정리해야 한다. 	She squeezes her eyes shut, trying her best to regulate her breathing, to sort out the tangled mess that is her memories.	
+24	N/A	父亲和法贝拉之前都教过自己应对方法——越是面临复杂危险的环境，越要保持头脑清醒。	父親和法貝拉之前都教過自己應對方法——面臨越是複雜危險的環境，越要保持頭腦清醒。	以前、パパとファビオラから教わった──\n\n複雑で危険な状況に直面している時こそ、\n冷静さを保たなければならない。	아버지와 파비올라가 가르쳐준 대응 방법——복잡하고 위험할수록 머리를 정리해야 한다. 	She must remain calm—that’s what Father and Fabella would have wanted. They always told her the more dangerous the situation, the more she needs to keep a clear head.	
+25	斯库尔德	那座教堂……还有安东神父的简讯，应该是特意针对我的陷阱。	那座教堂……還有安東神父的簡訊，應該是特別針對我所設的陷阱。	あの教会と……アントン神父からのメッセージは\nあたしに対する罠だった。	그 교회……안토니 신부의 메시지，분명 자신을 노린 함정이다.	That church... and the text from Father Anton... must be a trap.	
+26	斯库尔德	那么对方真正的目标应该是我、父亲、或者法贝拉三者之一。	所以對方真正的目標應該是我、父親或者法貝拉三者之一。	そう考えると「相手」の狙いは、\nあたし、パパ、あるいはファビオラの3つ。	그렇다면 진짜 목표는 나, 아버지, 파비올라 셋 중 하나일 것이다. 	Whoever it was must be targeting me, Father or Fabella.	
+27	斯库尔德	能隐约听到附近道路的车声，远处还有街头乐队演奏的声音，行动自由应该没有被限制。	能隱約聽到附近路上的車聲，遠處還傳來街頭樂隊演奏的聲音，自己的行動自由應該沒有受到限制。	近くの道路から車の声が微かに聞こえるし、\n遠くからもストリートバンドの演奏が聞こえる。\nどうやら監禁されているわけではないみたい。	근처 길가의 차소리와 길거리 악단의 연주 소리가 희미하게 들린다. 	I can hear cars from the roads nearby and even street performers playing a song a distance away... and I’m not tied up or anything.	
+28	斯库尔德	看手机定位，这里是新井中心公园，离那座教堂不到两公里……	依照手機定位，這裡是新井中心公園，離那座教堂不到兩公里……	携帯の位置情報によれば、\n今私がいるのは新井セントラルパーク。\nあの教会から2キロ圏内の場所……	위치를 확인하니 이곳은 신토요스 중앙 공원, 교회에서 2킬로도 떨어지지 않은 곳이다.	According to my phone GPS, I’m in Arai Central Park, not too far from the church.	
+29	斯库尔德	──将我带到这里的人，应该没有敌意。	──把我帶到這裡的人，應該沒有敵意。	──あたしをここに運んできた人に、\n敵意はないはずよ。	──날 이곳으로 옮긴 자는 악의가 없는 게 분명하다.	Whoever brought me here probably didn’t mean any harm.	
+30	斯库尔德	但不知设置陷阱的，和将我带来这里的是不是同一势力……不能贸然回去。	但不知道設置陷阱的人和把我帶來這裡的人是不是同個陣營……所以暫時也不能貿然回去。	けど罠を仕掛けた人と、あたしを運んできた人が\n同じ勢力かどうかは分からない……\n……無闇に戻るわけにはいかないわ。	하지만 함정을 꾸민 자와 같은 세력일지 모르니……무모하게 돌아갈 수 없다.	I don’t know if whoever set the trap and whoever brought me here belonged to the same faction... I can’t head back just like this.	
+31	N/A	法贝拉的号码始终没有接通，少女查了所有的记录，这段时间也没有任何她联系自己的痕迹。	法貝拉的號碼始終沒有接通，少女查了所有記錄，這段時間也沒有任何聯絡的跡象。	ファビオラの番号に電話をしてみるが\nやはり繋がらない。\n失神している間に彼女から連絡が有ったかもと、\n履歴を調べたが痕跡は何一つ存在しなかった。	파비올라는 연락이 안된다. 모든 기록을 뒤졌지만 자신에게 연락한 흔적은 보이지 않는다.	Skuld dials Fabella’s number once again. And once again, it goes to voicemail. She checks all her records and it doesn’t seem that Fabella had contacted her at all either.	
+32	斯库尔德	法贝拉……	法貝拉……	ファビオラ……	파비올라……	Fabella...	
+33	N/A	少女握紧手机，拨通父亲的号码。	少女握緊手機，按下父親的號碼。	少女は携帯を握りしめ、父親の番号を押す。	소녀가 휴대폰을 꽉 쥐고 아버지에게 전화를 건다.	Finally, she calls her father, gripping her phone tightly in her small hand.	
+34	N/A	电话几乎是拨通的瞬间就被接起，听筒中传来一个焦急的声音	電話幾乎是撥通的瞬間就被接起，聽筒中傳來一個焦急的聲音。	電話は即座に繋がり、受話器の向こうから\n焦りと心配の交ざった声が聞こえてきた。	신호음이 얼마 울리지 않아 수화기 너머로 조급한 목소리가 들려온다. 	He picks up the second the call goes through.	
+35	N/A@父亲	喂？斯库尔德吗？	喂？ 斯庫爾德嗎？	もしもしっ？　スクルドかっ？	여보세요？스쿨드니?	Skuld? Is that you?	
+36	斯库尔德	爸爸……	爸爸……	パパ……	아버지……	Father...	
+37	N/A@父亲	你跑哪去了！现在都不回去！那边已经晚上十点多了吧？	妳跑到哪裡去了！ 到現在還不回去！ 那邊已經晚上十點多了吧？	どこへ行ってたんだッ！　連絡もせずに！\nそっちはもう夜の10時を過ぎているだろう！？	너 도대체 어디로 간 거야！아직 돌아가지 않고！이미 밤 10시가 넘었잖아?	Where the heck are you? It’s already past ten p.m. where you are. Everyone’s dying with worry!	
+38	N/A@父亲	你和那个女仆都不接电话，偷跑出去就算了还玩这么晚！现在哈格蒂大使在派人四处找你……	妳和那個女僕都不接電話，偷跑出去就算了，還玩得這麼晚！ 妳知不知道哈格蒂大使派人在四處找妳……	あのメイドも電話を取らずで、\nいなくなったと思ったらこんなに遅くまでッ！\n ハグディー大使は今、お前の捜索命令を\n出しているのだぞ……ッ！	전화도 받지 않고 늦게까지 돌아다니다니! 하갈티 대사가 사람을 보내 널 찾고 있다…	And neither you nor your maid picked up the phone! What’s with you two? Ambassador Haggerty’s already sent a team out to look for you!	
+39	N/A	听到父亲劈头盖脸的一顿责骂，斯库尔德稍稍松了口气──	聽到父親劈頭就是一頓責罵，斯庫爾德稍稍鬆了口氣──	父親から頭ごなしに怒鳴りつけられたが、\nスクルドは少しだけほっとした──	아버지의 빗발치는 잔소리를 들은 스쿨드가 조용히 숨을 내쉰다──	Her father sounds mad—but Skuld is simply relieved to hear his voice.	
+40	N/A	并没有人在过去的几个小时里利用自己威胁他。	看來沒有人在過去幾小時裡利用自己威脅他。	今の反応からすれば、ここ数時間以内で彼が\n誰かから脅迫をされていないという事だ。	그 동안 자신을 이용해 아버지를 협박한 사람은 없는 것 같다.	At least no one tried to threaten him into anything, using her as hostage.	
+41	斯库尔德	我现在很安全，但是你听我说──	我現在很安全，但是您聽我說──	あたしは今のところ安全だわ。\nでも聞いて欲しいの──	전 지금 안전해요. 제 말을 좀 들어주세요──	I’m safe now, don’t worry, but listen—	
+42	N/A	电话那头的男人听到女儿严肃的口气，立刻意识到了问题。	電話那頭的男人聽到女兒嚴肅的口氣，立刻意識到了問題。	娘の厳粛な口調を聞いて、電話の向こう側にいる\n父親はすぐに問題に気付く。	전화기 너머의 남자가 딸의 진지한 목소리를 듣자마자 문제를 알아차렸다.	The man quiets down immediately at the urgency in his daughter’s tone.	
+43	N/A@父亲	……你那边有其他人吗？	……妳身邊有其他人嗎？	……そこに誰かいるのか？	……너 옆에 다른 사람이 있니? 	... Are you alone?	
+44	斯库尔德	没有，我一个人。	沒有，我一個人。	いないわ、あたしだけよ。	아니요. 저 혼자예요. 	Yeah. Just me.	
+45	N/A@父亲	你等我换个电话打过去。	好，老樣子。	分かった。\n電話を変えてかけ直す。	내가 다른 전화로 다시 거마.	Wait a sec, I’ll call you back with another number.	
+46	N/A	挂断电话，很快收到一个『未知号码』的来电。	她掛斷電話，很快接到一通「未知號碼」的來電。	電話を切るとすぐに「非通知番号」から\n着信がきた。	전화를 끊자마자 『모르는 번호』로 다시 전화가 걸려온다.	She hangs up and immediately receives a call from an unknown number.	
+47	N/A@父亲	好了，发生什么了？	好了，發生什麼事了？	よし。一体何があったんだ？	그래. 무슨 일이냐? 	Okay, you can talk now. What happened?	
+48	N/A	斯库尔德再次做了个深呼吸，根据现在的信息有两种可能──	斯庫爾德再次做了個深呼吸，根據現在的資訊，有兩種可能的情況──	スクルドはもう一度深呼吸をする。\n\n今持っている情報から推察すると、\n2つの可能性が考えられる──	스쿨드가 다시 한 번 깊은 숨을 내쉰다. 현재 정보에 따르면 두가지의 가능성이 있다──	Skuld takes a deep breath. According to what she currently knows, there should be two possibilities:	
+49	N/A	如果设置陷阱和将自己带到这的是同一拨人，那么对方的目标一开始就是法贝拉。	如果設置陷阱和把自己帶到這裡的是同一批人，那麼對方的目標一開始就是法貝拉。	罠を仕掛けた人間と、自分をここへ運んできた\n人間が同じ勢力の者だとすれば、\n彼らの目標は最初からファビオラだった。	함정을 꾸민 자와 자신을 이곳에 데려온 자가 한 팀이라면 그들의 목표는 파비올라다.	If the ones who set the trap and the ones who brought her here were from the same group, then their target must be Fabella, not Skuld herself.	
+50	N/A	如果两拨人并非同一阵营，那么对方的目标并未达成，法贝拉和安东神父则是他们手上的筹码。	如果兩批人並非同一陣營，那麼對方的目標並未達成，法貝拉和安東神父就是他們手上的籌碼。	それぞれが別の勢力だとすれば、相手の目標は\nまだ達成されていないはず。\nファビオラとアントン神父を捕らえられたとして\nその目的は交渉用の人質だろうから。	만약 그들이 한 팀이 아니라면 그들이 목표는 아직 달성되지 않았다. 	If they’re not from the same group, then she herself could be the target—whoever wanted her failed and is currently holding Fabella and Father Anton hostage.	
+51	N/A	无论如何，那个对自己最重要的人目前肯定处于危险之中……	無論如何，對自己最重要的那個人目前一定處於危險之中……	しかし、どちらにせよ今は自分にとって\n一番大事な人が危険にさらされている……	어쨌든 가장 소중한 사람이 위험에 처해있다는 것은 사실이다……	No matter which it is, her favorite person in the world is in danger.	
+52	N/A	但如果是第二种情况，自己去找法贝拉无异于自投罗网，还可能给对方机会威胁父亲和董事会。	如果是第二種情況，自己去找法貝拉絕對是自投羅網，還可能白白送上機會來威脅父親和董事會。	だからと言って焦ってはいけない。後者の場合、\n自分ひとりでファビオラを捜索などすれば、\n自ら網にかかりに行くのと同義。相手に父親と\n理事会を脅迫するチャンスを与えてしまう。	혼자서 파비올라를 찾으러 가는 것은 스스로 그물에 걸리는 것과 똑같다.	Still, if it’s the latter, she can’t just go and look for Fabella herself. It would be walking straight into a trap, and she’ll probably end up a hostage too, which the kidnappers can use against Father and the Committee.	
+53	斯库尔德	我需要您先帮我做一件事，去确认一下三一教堂安东神父的安全。	我需要您先幫我做一件事，去確認一下三一教堂安東神父的安全。	まず、最初にして欲しい事があるの。\n\nトリニティ大聖堂のアントン神父の安否を\n確認して。	저를 좀 도와주셔야 겠어요. 우선 삼일교회 안토니 신부의 안전을 확인해 주세요. 	Can you do something for me first? I need someone to check on Father Anton from Trinity Church and tell me if he’s safe.	
+54	N/A@父亲	好，我这就让人去确认。\n现在可以说你遇到什么状况了吧？	好，我這就請人去確認。 \n現在可以說妳遇到什麼狀況了嗎？	分かった、すぐに確認させる。\n今はどんな状況だ？	그래. 지금 당장 알아보마. \n이제 무슨 상황인지 알려주겠니?	Sure, I’ll send someone right away.\nNow, tell me what’s going on.	
+55	斯库尔德	刚才，我和法贝拉在大使馆附近被埋伏了，应该是某种迷幻类药剂或者异质物武器。	我和法貝拉剛剛在大使館附近遇到埋伏了，應該是某種迷幻藥劑或是異質物武器。	さっきファビオラと大使館付近で待ち伏せに\nあったの。\n相手は幻覚作用のある薬剤か、異質物武器を\n使っていたと思う。	저와 파비올라가 대사관 근처에서 급습당했어요. 환각제나 이물질 무기가 분명해요.	Fabella and I were ambushed near the Embassy not long ago. They probably used some kind of hallucinogen or drugs made with Substance H.	
+56	N/A@父亲	什么──？？！	什麼──？	なに――ッ！！？	뭐라고──？？！	What?	
+57	N/A	在国际领土使用化学或者异质物武器，如果被发现背后的支持者，无异于向联合议会发布宣战声明。	在國際領土上使用化學或異質物武器，不管是誰，都等同於向聯合議會發佈宣戰聲明。	国際領土で化学兵器または異質物兵器を使用し、\nさらに背後に支援者がいるともなれば、\n連合議会に宣戦布告したも同然だ。	국제 영토에서 이물질 무기를 사용하는 것은 전쟁을 선포하는 것이나 다름없다.	Using chemical weapons or those made with Substance H in an international territory is pretty much equal to declaring war against the United Congress.	
+58	斯库尔德	法贝拉拼命救出了我，但她自己现在下落不明……	法貝拉拚命把我救出來，但她自己現在下落不明……	ファビオラは命がけであたしを助けてくれたの\nだけど、彼女自身が行方不明になっているわ……	파비올라가 목숨을 걸고 절 구했어요. 하지만 지금 그녀의 행방을 알 수 없어요……	Fabella risked her life to save me. I don’t know where she is now...	
+59	斯库尔德	那些人应该是伪装成安东神父…给我发信息诱导我过去的。	那些人應該是偽裝成安東神父，傳訊息誘導我過去的。	相手はアントン神父を装い……\nメッセージを送ってあたしを誘い出してきたの。	그 자들이 안토니 신부로 위장해서…정보를 보내 저를 유인한 것 같아요.	Those guys must have sent me a text pretending to be Father Anton and lured me there.	
+60	N/A@父亲	……我明白了。	……瞭解。	……事情は分かった。	……알겠다.	… I see.	
+61	N/A@父亲	下个月就要召开和平论坛，早说过不要在这个敏感的时间来新丰洲你偏不听……	下個月就要召開和平論壇，早說過不要在這個敏感的時間來新豐洲，妳偏不聽……	来月には平和フォーラムが開かれる。\n\nだからあれほど言ったじゃないか……この危ない\n時期に新豊洲に行くのはよしなさいと……	다음달에 평화 포럼이 열리니 예민한 시기에 신토요스에 오지 말라고 그렇게 얘기했건만……	The Forum of Peace is next month... why did you have to go to New Opulentia at such a sensitive timing...?	
+62	N/A@父亲	那帮人敢这么做，肯定会特别小心地隐藏起自己的身份。	那幫人敢在這個時機點這麼做，一定會特別小心隱藏自己的身分。	こんな事をする連中だ、自分達の身元を隠すため\n細心の注意を払っているはず。	이런 일을 꾸민 작자들이라면 완벽하게 신분을 숨기고 있을 거야.	Whoever dared do this would definitely be very careful about their identity.	
+63	N/A@父亲	法贝拉之前在南美的长官虽然不在了，但也还有不少仇家……	法貝拉之前在南美的長官雖然不在了，但不少仇家可都還在……	ファビオラが狙われたと言う可能性も\n考えられるな……\n彼女が南米で世話になっていた長官は、\n消えた現在になっても依然として敵が多い。	파비올라가 남미에 있을 때 장관이 비록 죽긴 했지만 원수가 적지 않으니……	Though Fabella’s ex-boss in South America has passed away, he’s still got quite a few enemies...	
+64	N/A@父亲	你现在在什么位置？\n我先给你安排外交通道回纽摩利达斯。	妳現在在哪？ \n我先透過外交管道安排妳回紐摩利達斯。	お前は今どこにいるんだ？\n\n後は私が何とかするから、外交ルートを通じて\nお前はニューモリダスに戻るんだ。	넌 지금 어디에 있는 거냐？\n너에게 우선 뉴모리다스로 돌아올 외교 통로를 알려주마.	Anyway, where are you now?\nI’ll arrange something with foreign relations and bring you back to Newmoridas.	
+65	斯库尔德	您先跟我保证，一定要救法贝拉出来──	您先跟我保證，一定會救法貝拉出來──	その前にあたしと約束して、\n必ずファビオラを助けるって──	파비올라를 꼭 구하겠다고 먼저 약속해 주세요.──	You have to promise me first! Promise me you’ll save Fabella!	
+66	N/A	斯库尔德声音有些颤抖，眼泪在她的眼眶中打转。	斯庫爾德聲音有些顫抖，眼淚在她的眼眶中打轉。	スクルドの声は震え、瞳の中は涙が揺らめく。	스쿨드의 목소리가 떨리고 눈가에 눈물이 맺힌다.	Skuld’s voice trembles, eyes brimming over with tears.	
+67	N/A@父亲	……	……	…………	……	…	
+68	N/A	电话的另一头只有一阵沉默。	電話的另一頭只有一陣沉默。	電話の向こうから、沈黙だけが返ってくる。	수화기 너머에는 침묵만 흐른다.	On the other end of the line, silence.	
+69	N/A	她知道，以父亲的信息渠道和能力一定已经分析出了利弊，并做出了他认为的最优判断。	她知道，以父親的訊息管道和能力一定已經分析出了利弊，並做出他認為的最佳判斷。	彼女は自分の父親が優れている事は知っている。\n\nゆえに利害を分析し、計算上で最も優れた決断を\n下そうとしている事も分かっている。	아버지는 이미 정보 경로와 능력으로 이해득실을 따진 후 최선의 판단을 내렸을 것이다. 	Skuld knows that her father is extremely skilled, always well-informed. He’d be able to analyze the situation easily and decide the best course of action.	
+70	N/A	父亲是一家对冲基金的创始人，战争期间在金融市场杀伐决断，最终获得了进入『董事会』的资格。	父親是一家避險基金的創始人，戰爭期間在金融市場殺伐決斷，最終獲得了進入「董事會」的資格。	彼女の父親は、とあるヘッジファンド運用会社の\n創始者だ。\n戦争中に金融市場で思い切った決断を行い\n「理事会」への入会資格を獲得した。	헤지 펀드의 창시자인 아버지는 탁월한 결단력으로 『이사회』 가입 자격을 얻었다.	Her father is a founder of a hedge fund company, which flourished in the financial market during the war due to his excellent decision-making skills. That was how he earned a place for himself in the Committee.	
+71	N/A	但他也因此树敌无数，事实证明平时做空一只股票和战争期间做空一个国家的意义全然不同。	但他也因此樹敵無數；事實證明，平時做空一支股票和戰爭期間做空一個國家的意義全然不同。	しかし平常時に株式を空売りするのと、\n戦時中に国を1つ空売りするのではわけが違う。\nそれが原因で彼は恨まれた。\n膨れ上がる敵の数が、何よりの証拠だ。	그의 수많은 적은 주식 공매와 전쟁 중 나라를 파는 것이 다른 일이라는 걸 증명한다. 	But that was also how he earned countless enemies. Bringing down stocks is, after all, very different from bringing down a country.	
+72	N/A	斯库尔德从小就在仇恨与危险的环境中长大，但父亲不知出于何种坚持，从不为家人改变行事风格。	斯庫爾德從小就在仇恨與危險的環境中長大，但父親不知道在堅持什麼，從不為家人改變行事風格。	憎悪と陰謀が渦巻く環境下で\nスクルドは育ってしまう。\nそれでも彼は家族のために行動やスタイルを\n変えたりはしない。\n父親は自分の意思を貫き続ける人間だった。	스쿨드는 위험한 환경에서 자랐지만 아버지는 무슨 이유인지 자신의 뜻을 바꾸지 않았다.	Skuld grew up in an environment filled with hatred and danger. But her father was oddly persistent and refused to change his ways for his daughter.	
+73	N/A	可能是与很小的时候就过世的母亲有关吧……	可能跟她很小的時候就過世的母親有關吧……	過去に亡くした母親が原因で、その生き方に\n括っているのかもしれない……	어릴 때 돌아가신 어머니와 관련된 것이 아닐까……	It might have something to do with her mother, who had died when she was very young.	
+74	N/A	突然，斯库尔德发现手机屏幕上亮起一个小红框，\n那是通话期间位置被追踪时的提示。	突然，斯庫爾德發現手機螢幕上亮起一個小紅框，\n那是通話期間被定位的警示。	ふと携帯電話の画面上に、小さな赤い枠が\n点灯している事に気が付く。\nそれは通話中に位置が特定されているサイン──	이 때 스쿨드의 휴대폰 화면에 위치가 추적됐다는 붉은색 알림창이 뜬다. 	Suddenly, Skuld notices a small red frame on her phone screen.\nThis indicates that her location is being tracked during the call.	
+75	斯库尔德	──！！	──？！	────ッ！！	──！！	...!	
+76	N/A	她立刻挂断了电话。	她立刻掛斷了電話。	彼女はすぐさま電話を切った。	그녀는 곧바로 전화를 끊었다.	She immediately hangs up.	
+77	斯库尔德	位置暴露了吗？得先离开这……	暴露位置了嗎？ 得先離開這裡……	位置が気付かれたの？\nすぐにここから離れないと……	위치가 발각됐나? 우선 여길 떠나야겠어……	They have my location now! Gotta get out of here...	
+78	N/A	
+79	N/A	斯库尔德跑到了附近一座停车楼的楼梯间。	斯庫爾德跑到附近一座停車場的樓梯間裡。	スクルドは近くにある駐車場の階段まで走る。	스쿨드는 근처 주차 건물의 계단으로 달려왔다.	Skuld dashes into the stairwell of a nearby car park building.	
+80	N/A	此时她的手机上显示的是通讯录上一家洗衣店的号码，那是法贝拉交给她的『最终保险』措施。	此時她手機上顯示的是通訊錄中一家洗衣店的號碼，那是法貝拉交給她的「最終保險」措施。	この時、彼女の携帯電話に表示されていたのは\n電話帳にあるクリーニング屋の番号だった。\nファビオラが彼女に渡した『最後の保険』だ。	그녀가 휴대폰에서 세탁소 번호를 찾는다. 파비올라가 알려준 『최종 안전』 수단이다.	She calls up the number of a laundromat in her contacts. Fabella had given her this number as a last resort.	
+81	斯库尔德	……只能赌一把了！	……只能賭一把了！	……賭けるしかないっ！	……도박을 거는 수 밖에！	... Guess I don’t have a choice now!	
+82	N/A	少女蹲在楼梯台阶上，拨通了电话──	少女蹲在樓梯台階上，撥通了電話──	少女は階段でしゃがみ込んで、電話をかける──	소녀가 건물 계단에 쪼그려 앉아 전화를 건다──	Crouched on the steps, the girl dials the number.	
+83	N/A	三声铃声之后，一个温柔的女性声音接起了电话。	三聲鈴聲之後，一個溫柔的女性聲音接起了電話。	ベルが3回鳴ると、優しい女の声が電話から\n聞こえてきた。	벨소리가 세번 울린 후 수화기 너머로 부드러운 여자의 목소리가 들린다. 	After three rings, a nice lady speaks up.	
+84	N/A	您好，瑞希尔洗衣店。	您好，瑞希爾洗衣店。	お電話ありがとうございます。\nレイヒールクリーニングです。	안녕하세요. 루이시 세탁소입니다.	Rexhill Laundromat. Pleased to serve you.	
+85	斯库尔德	……我是斯库尔德·艾克斯罗德，外交识别码是AX1832。	……我是斯庫爾德·艾克斯羅德，外交識別碼是AX1832。	……あたしはスクルド・エクスロッド。\n外交識別コードはAX1832。	……스쿨드 엑스로드，\n외교 식별 코드 AX1832	... I’m Skuld Axelrod, international ID no. AX1832.	
+86	N/A	好的，请稍等……	好的，請稍等……	はい。少々お待ちください……	네, 잠시만 기다리세요……	Got it. Please wait...	
+87	N/A	您的衣服已经洗好了，要给您送过去吗？	您的衣服已經洗好了，需要替您送過去嗎？	お待たせしました。\nお召し物のクリーニングは完了しております。\n直接の配送でよろしいでしょうか？	옷 세탁이 끝났습니다. 가져다 드릴까요?	Miss Axelrod, your laundry is ready. Shall we send it to you?	
+88	斯库尔德	好，我还有朋友在新丰洲纪念教堂。	嗯，我還有朋友在新豐洲紀念教堂。	うん、新豊洲記念教会に友達もいるの。	네, 그리고 제 친구가 신토요스 기념 교회에 있어요. 	Sure. My friend at New Opulentia Memorial Church needs her laundry picked up, by the way.	
+89	N/A	嗯，我记下了。	好的，我記下了。	承知いたしました。	네，기록했습니다.	Got it.	
+90	斯库尔德	我的位置在……	我的位置在……	あたしの位置は……	제 위치는……	I’m at—	
+91	N/A	我们知道您的位置，请耐心等待~	我們知道您的位置，請稍候。	場所は存じ上げております。\n少しの間ご辛抱ください。	당신의 위치는 이미 알고 있습니다. 잠시만 기다려 주십시오~	We know where you are. Please be patient.	
+92	N/A	电话那头挂断了。	電話掛斷了。	電話は切れた。	전화가 그렇게 끊어졌다.	The lady hangs up.	
+93	N/A	10分钟后，一队黑色的SUV驶入了停车楼。	10分鐘後，一隊黑色的SUV車隊開進了停車場。	──10分後。\n\n黒色のSUVが群を成して駐車場に入ってくる。	10분 후 검은색 SUV가 주차 건물에 들어왔다.	Ten nail-biting minutes later, a black SUV rolls into the car park.	
+94	SID探员	您好，艾克斯罗德小姐。	您好，艾克斯羅德小姐。	こんばんは、エクスロッドさん。	안녕하세요. 엑스로드 아가씨.	Good day, Miss Axelrod.	
+95	斯库尔德	你们是……SID的人吗？	你們是……SID的人嗎？	あなた達は……SIDの人？	당신들은……SID의 사람인가요? 	Are you from... SID?	
+96	SID探员	是的，您的朋友已经被我们回收了。	是的，您的朋友已經被我們回收了。	ええ、あなたのご友人もすでにこちらで\n回収しました。	네，당신의 친구는 이미 찾았습니다. 	Yes. We’ve already retrieved your friend.	
+97	SID探员	请上车吧。	請上車吧。	さぁ、どうぞお乗りください。	차에 타시죠.	Please get in.	

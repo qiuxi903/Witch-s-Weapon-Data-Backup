@@ -1,0 +1,306 @@
+﻿1	N/A	小时候，我总会被各种宏大而富有想象力的假说所吸引。	小時候，我總會被各種宏大且充滿想像力的假設所吸引。	――小さい頃、壮大で想像力に溢れる仮説に\n俺は魅せられていた。	어렸을 때는 항상 각종 방대하고 상상력이 풍부한 가설에 빠졌다.	I used to find epic-sounding, highly imaginative theories attractive.	
+2	N/A	或许我们是存在于缸中的大脑、或许我们生活在一段虚拟程序中，或许地球是一个小孩的试验……	或許我們是存在於培養皿中的大腦、或許我們生活在一段虛擬程式中，或許地球只是一個小孩的試驗……	人類は単なる水槽内の脳ミソである説とか。\n\nこの世界は仮想プログラムで構成されていて、\nその中で俺達は生活しているだけと言う説とか。\n地球は、とある子供の実験場だったりする説も。	어쩌면 우리는 욕조 속 대뇌나 가상 프로그램 속에 존재할지도 모른다. 어쩌면 지구가 어린아이의 실험일지도 모른다……	Humans are actually brains floating in a cultivation tank. We’re nothing but mere simulations. The whole planet is created as a child’s experiment. Theories like these.	
+3	N/A	这些假设让人痴迷、沉醉，浑身起鸡皮疙瘩。	這些假設讓人痴迷、沉醉，渾身起雞皮疙瘩。	これらの仮説は人々を夢中にさせ、魅了して、\n鳥肌すらも立てせてくれる。\n……少なくとも俺は夢中になった。	이런 가설들은 인간을 매혹시키고 도취하게 하고 온몸에 털이 솟게 한다.	I was addicted to these ideas. Intoxicated. They gave me goosebumps.	
+4	N/A	直到有一天，我开始思考──	直到有一天，我開始思考──	だけど……ある日、俺は考え始めた──	어느 날, 난 생각하기 시작했다──	Until one day, I started wondering...	
+5	N/A	那个水缸、那个编写程序的人、还有那个小孩，他们所处的世界又是什么样的呢？	那個培養皿、那個編寫程式的人、還有那個小孩，他們所處的世界又是什麼樣的呢？	水槽の脳の世界、仮想プログラムの外の世界、\nとある子供の世界……\n俺達の先にある実際の世界はどうなっているの\nだろうか？	그 욕조를 만들고 프로그램을 쓴 사람, 그리고 어린 아이, 우리가 살고 있는 세계는 어떤 모습일까?	That cultivation tank, that programmer who created the simulation, that child who did the experiment... what kind of world are THEY living in?	
+6	N/A	其实我们和它们，甚至它们的它们，全都被困在这宇宙之中，谁也无法逃脱。	其實我們和他們，甚至他們的他們，全都被困在這宇宙中，誰也無法逃脫。	先にある世界も、またその先の世界だって同じ、\n実は全ての世界の住民が──\nこの宇宙に閉じ込められた逃げられない存在\nなのかもしれない。	사실 우리와 그들, 심지어 그들과 그들은 모두 이 우주 속에 갇혀서 누구도 빠져나갈 수 없다.	Aren’t all of us trapped in this same universe, with no means of escape?	
+7	N/A	就像《加州旅馆》中的那句歌词──你可以随时结账，但你永远无法离开。	就像《加州旅館》中的那句歌詞──你可以隨時結帳，但你永遠無法離開。	あの名曲《ホテルカリフォルニア》の歌詞と\n同じだ。\n「あなたはいつでもチェックアウトできる、\n　だが決してここから離れられない」	《캘리포니아 호텔》 속 그 가사처럼──언제든지 계산할 수 있지만 영원히 떠날 수 없어요.	Like that lyric in Hotel California: you can check out any time you like, but you can never leave.	
+8	N/A	那些神明在仰望星空时，也与我们一样好奇、一样憧憬、一样恐惧。	那些神明在仰望星空時，是否和我們一樣好奇、一樣憧憬、一樣充滿恐懼。	──神々が星空を眺めている時。\n\n俺達と同じ好奇心があって、同じ憧れがあって、\nきっと同じ恐怖を持っている……	그 신들이 별 하늘을 바라볼 때 우리처럼 호기심, 동경, 공포를 느낄 것이다.	When gods look into the starry sky, don’t they feel the same curiosity, awe and fear that we do?	
+9	N/A	……	……	……	……	…	
+10	N/A	…………	…………	…………	…………	…	
+11	N/A	小怜！	小憐！	……レンちゃんッ！	렌!	Ren!	
+12	N/A@小怜	──！！！！	──！！！！	――――ッ！！！！	──！！！！	—!	
+13	N/A	被某种刺激性气味惊醒，我发现自己正躺在一张柔软的床上。	被某種刺鼻味驚醒後，我發現自己躺在一張柔軟的床上。	刺激臭で目覚めたら、自分が柔らかいベッドで\n寝かされている事に気付いた。	자극적인 냄새에 깨어난 나는 내가 부드러운 침대 위에 누워있는 걸 발견했다.	I open my eyes to some sort of strong, pungent smell and find myself on a soft mattress.	
+14	N/A	爱衣拿着嗅盐在床边看着我，莉琉则站在床尾在用手机录像。	愛衣拿著嗅鹽在床邊看著我，莉琉則站在床尾用手機錄影。	隣には気つけ薬を持っている愛衣。\n\n足元には携帯で俺の姿を録画しているマリル。	아이가 냄새나는 소금을 들고 침대 옆에서 날 쳐다보고 있고, 마리루는 침대 끝에서 영상을 찍고 있다.	Aya is standing next to me, smelling salts in hand, while Mariru looms at the foot of the bed, filming me with her phone.	
+15	N/A@小怜	诶诶──？？	欸欸──？ ？	は、はぇ――っ？？	으아──？？	Huh?	
+16	N/A	我连忙擦掉脸上的口水和眼泪，才发现枕头居然被浸湿了一大块。	我連忙擦掉臉上的口水和眼淚，才發現枕頭居然浸濕了一大塊。	慌てて顔のヨダレと涙を拭くと、\n枕が濡れまくってる事にも気付いた。	황금히 침과 눈물을 닦아낸 후 베개가 젖은 것을 알아차렸다. 	I quickly wipe the drool and snot off my face, noticing in horror the large wet patch on the pillow.	
+17	N/A	好像睡了很久，还做了一个很悲伤的梦……	好像睡了很久，還做了一個很悲傷的夢……	長い間寝ていたようだ。\n\nしかも、とっても悲しい夢を見たような……	오랫동안 잠든 것 같다. 슬픈 꿈도 꾼 것 같고……	Feels like I’ve slept for a long time. And had a very sad dream...	
+18	爱衣	小怜的睡相真是蠢得可爱呐~	小憐的睡相真是蠢得可愛呢～	レンちゃんの寝顔、あほ可愛かったよぉ～～♪	렌은 자는 모습도 정말 귀여워~	You look adorable when you’re sleeping!	
+19	N/A	莉琉微笑着收起手机，走到床边摸了摸我的额头。	莉琉微笑著收起手機，走到床邊摸了摸我的額頭。	マリルは微笑みながら携帯を閉じると、\nベッドの隣に移動して俺の額を撫でた。	마리루가 휴대폰을 집어넣고 침대 옆으로 다가와 내 이마를 쓰다듬는다.	Mariru smiles, tucks her phone away and comes closer, placing a hand over my forehead.	
+20	莉琉	今天是周六，你已经昏睡十几个小时了。	今天是週六，妳已經昏睡十幾個小時了。	今日は土曜日、\nお前はもう10時間以上は寝ている。	오늘은 토요일이야. 열시간 정도 잠들었어. 	It’s Saturday. You’ve been out for more than ten hours.	
+21	小怜	十几个小时……这是哪？	十幾個小時……這是哪？	……10時間……ここはどこだ？	열시간이나……여긴 어디야？	That long? Wait, where are we?	
+22	小怜	──索娅！！	──索婭！ ！	──ソヤッ！？！？	──소야！！	Oh, no, Sonya!	
+23	N/A	我忽然想起，在那道电光过后变为一团火球的直升机坠落在教堂后面──	我突然想起，在那道電光過後化為一團火球的直升機墜落在教堂後面──	思い出した。\n\n電光の後、火の玉と化したヘリは教会の後ろに\n墜落した。	불꽃이 일어난 후 화구로 변한 헬리콥터가 교회 뒷쪽으로 추락하는 장면이 떠올랐다──	That’s when it all comes back to me. The glowing ball of fire that was once a military chopper. Spiraling to the ground, disappearing behind the church’s magnificent silhouette.	
+24	N/A	我绝望的望着那团冒着浓烟的火光，想喊却喊不出声。	我絕望地望著那團冒著濃煙的火光，想喊卻喊不出聲。	燃え盛る炎を唖然と眺めるしかできなかった。\n叫びたくても声すら出せなかったのだ。	나는 절망하며 짙은 연기가 피어오르는 불빛을 바라봤다. 울고 싶었지만 목소리가 나오지 않았다.	I remember being rooted to the spot, eyes fixated on the flames and the heavy smoke. I would have screamed—but it felt like something was stuck in my throat.	
+25	N/A	几秒之后，又发生了第二次更剧烈的爆炸……	幾秒之後，又發生了第二次更劇烈的爆炸……	数秒後、さらに激しい2回目の爆発が起きた……	몇초 후 두번째 격렬한 폭발이 일어났다……	And seconds later, there was another, even louder boom..	
+26	N/A@爱衣	爆炸的冲击把你震晕了……	爆炸的衝擊把妳震暈了……	その爆発の衝撃でレンちゃんは気絶したのさ。	폭발의 충격으로 네가 기절했어……	You were knocked out by the impact of the explosion.	
+27	爱衣	那架直升机的油箱被高压电弧击穿，艾尔加纳和机上的五名士兵都烧成了焦炭。	那架直升機的油箱被高壓電弧貫穿，艾爾加納和機上的五名士兵都燒成了黑炭。	給油タンクが電撃に貫かれてヘリは大爆発！\nエルガノや兵士5名は全員消し炭になったわよ。	헬리콥터의 연료탱크가 고압 전기로 폭발했고, 엘가나와 사병 5명이 잿더미가 됐어.	The helicopter’s fuel tank was blasted open by the high-voltage electric arc. Elgana and the five soldiers inside were all burnt to a crisp.	
+28	爱衣	天国之门的复制品也被烧毁，街上那些灯罩的效果在同一时刻立即消失了。	天國之門的複製品也燒毀了，街上那些燈罩的效果通通都在那一瞬間消失……	同時に天国の扉のレプリカも焼き払われたから、\n街に設置されていた照明カバーの効果も、\n全て消失しちゃったけど……	천국의 문 복제품도 타버렸고, 가로등의 효과도 동시에 사라져 버렸어.	The duplicate version of the Heaven’s Door is no more than a pile of ashes now. And as soon as it was destroyed, the lampshades on the streets lost their effect.	
+29	N/A	爱衣有些惋惜的说道。	愛衣有點惋惜地說。	愛衣は少し残念そうに言った。	아이가 조금 아쉬운 듯 얘기한다.	Aya has the audacity to sound disappointed.	
+30	小怜	索娅呢，她怎么样了？！	索婭呢，她怎麼樣了？ ！	ソヤ……ソヤはどうなったんだっ！？	소야는, 소야는 어떻게 됐어？！	And Sonya? Is she okay?	
+31	莉琉	在场的探员全都目睹索娅乘上了飞机，而且确定坠落过程中没人跳下来……	在場的探員全都目睹索婭上了直升機，也確定墜落過程中沒人跳機……	あの場にいた捜査員によれば、ソヤは確実に\nヘリに乗ったようだ。\nそして離陸後にヘリから脱出した人間は\n誰もいなかった……	현장에 있던 요원들이 소야가 헬리콥터에 타는 걸 목격했고 추락 과정에서 누구도 뛰어내리지 않았어……	All the agents present saw her enter the helicopter. And no one spotted her leaving it during the crash...	
+32	N/A	听到这里，我心中一沉。	聽到這裡，我心中一沉。	それを聞いて、胸が締め付けられる。	여기까지 들으니, 마음이 무거워졌다.	My heart sinks.	
+33	莉琉	但在残骸中并没有发现索娅的尸体，她在爆炸时应该拿着电池，却连一丁点生物残留都检测不到。	但飛機殘骸裡並沒有發現索婭的屍體；她在爆炸時應該是拿著電池，卻連半點生物體的殘留都檢測不到。	しかし、残骸の中からソヤの遺体は発見され\nなかった。\n爆発時には電池を持っていたはずなのだが、\n一切の生物的な痕跡すら検出されていない。	하지만 잔해 속에 소야의 시체는 없었어. 폭발할 때 전지를 들고 있었을텐데, 아무 것도 발견되지 않았어.	But there’s good news. They didn’t find her corpse in the wreckage. She should have been the one holding the battery when the explosion occurred, but they couldn’t detect any of her biological remains at all.	
+34	小怜	什么？	什麼？	……どういう……事？	뭐?	Eh?	
+35	莉琉	虽然残骸的清理工作不是由SID进行的，但情报应该很可靠的──	雖然殘骸的清理工作不是由SID進行的，但情報應該是很可靠──	残骸の後片付けはSIDが担当したわけではないが\n情報は信頼できるものだ。	잔해 정리 작업은 SID의 일이 아니지만 정확한 정보일 거야──	The soldiers who cleaned up the wreckage weren’t from SID, but their information should be reliable.	
+36	莉琉	毕竟我们回收了保安军指挥官的小女儿。	畢竟我們回收了保安警察指揮官的小女兒。	なにせ私達は保安軍指揮官の娘を既に\n回収しているからな～～	우리가 보안군 지휘관의 딸을 회수했으니까.	After all, we threatened them with the security soldier commander’s precious baby daughter...	
+37	N/A	莉琉露出一副得意的神情。	莉琉露出一副得意的神情。	マリルは得意げな顔をした。	마리루가 득의양양한 표정을 짓는다. 	Mariru beams in pride.	
+38	小怜	（回、回收……？）	（回、回收……？ ）	（かい、回収……？）	（회, 회수……？）	(Was that necessary?)	
+39	爱衣	而且那种爆炸应该无法损坏异质物加固的脚环，但脚环信号却突然消失了……	照理說，那種程度的爆炸應該無法損壞異質物加固的腳環，但腳環訊號卻突然消失了……	それに異質物で強化された足輪は、\nあの程度の爆発では破壊できないはずなのに、\n何故か足輪からの信号が突然消えたんだよね。	게다가 그 폭발은 이물질로 가공된 발찌를 훼손할 수 없어. 그런데 발찌 신호도 갑자기 사라졌어……	Besides, our anklets are super strong, fortified with Substance H. They should remain intact even in an explosion of that size. But the signal from Sonya’s anklet is gone...	
+40	N/A	爱衣停顿了一下，看着莉琉。	愛衣停頓了一下，看著莉琉。	愛衣は少し間をおいてマリルの方を見た。	아이가 말을 맘추고 마리루를 바라본다.	Aya pauses and gives Mariru a look.	
+41	爱衣	就像上次，小怜从方舟基地消失时一样……	就像上次，小憐從方舟基地消失時一樣……	まるで前回、レンちゃんが「方舟基地」から\n消えた時と同じみたいに……	지난 번, 렌이 방주 기지에서 사라졌을 때와 똑같아……	It was like that time Ren disappeared from the Ark...	
+42	N/A	听到那个词，我不由紧张起来。	聽到那個詞，我忍不住緊張了起來。	それを聞いて、俺は思わずドキッとする。	그 단어를 들은 나는 나도 모르게 긴장하기 시작했다.	I can’t help tensing up as soon as she mentions that place.	
+43	N/A	那里本是一座战前建成的巨型地下排水设施，莉琉用元老院的经费将其改造成了地下试验基地。	那裡原本是一座戰前建造的巨型地下排水設施，莉琉用元老院的經費將它改造成地下試驗基地。	元は戦前に建てられた巨大な地下排水施設だけど\nマリルが元老院の経費で実験施設に改造した……\nそれが方舟基地だ。	그곳은 원래 전쟁 전 지어진 대형 지하 배수 시설로, 마리루가 원로원의 경비를 사용해 지하 실험 기지로 개조했다.	The Ark used to be an intricate underground sewer system, built on a large scale way before the war. Mariru had renovated it into an underground lab with funds from the Senate.	
+44	N/A	我曾在那个地方召唤出十六世纪的炼金术士海因里希·昆哈特。	我曾在那個地方召喚出十六世紀的煉金術士海因里希·昆哈特。	かつて俺は、あそこで16世紀の錬金術士\nハインリッヒ・クンラートを召喚した事がある。	나는 그곳에서 16세기 연급술사 하인리히 쿤라드를 소환했다. 	That was where I summoned Henriette Khunrath, an alchemist who came from the sixteenth century.	
+45	N/A	接着就和她一起被卷入因果之隙──一个没有时间和方位概念的奇异空间。	接著就和她一起被捲入因果的裂縫──一個沒有時間和方位概念的奇異空間。	召喚後、俺は彼女と共に因果の挟間というやつに\n巻き込まれた。\n時間と方位の概念が存在しない異様な空間に\n放り込まれたんだ。	그리고 그녀와 함께 인과의 균열, 시간과 방위 개념이 없는 기이한 공간으로 빨려 들어갔다.	And that was where the two of us fell into the Rift of Correspondences—a mystic space where the concepts of time and orientation no longer applied.	
+46	N/A	当我们离开那个空间时，居然已经到了南极……	我們想盡辦法離開那個空間後，居然跑到了南極……	その空間から無事離脱はできたんだけど……\n\n気付けば俺達は南極にワープしていた……	그 공간을 빠져나왔을 때 우리는 남극에 있었다……	When we finally managed to exit the space, we found ourselves in Antarctica.	
+47	莉琉	虽然与索娅的设计有偏差，但或许还有一线生机。	雖然與索婭的設計有點偏差，但或許還有一線生機。	彼女の計画とは少々違うんだが、まだ一縷の\n望みがあるかもしれん。	소야의 설계와 편차가 있긴 하지만 아직 한 가닥의 희망이 있어.	Though Sonya’s plans didn’t go entirely the way she wanted, perhaps she still has a chance...	
+48	小怜	一线生机……什么意思！\n我、我能做点什么吗！！？	一線生機……什麼意思！ \n我、我能做點什麼嗎！ ！？	一縷の望みって……どういう？\n\n俺にも何かできる事があるのか！？	한 가닥의 희망……무슨 말이야！\n내, 내가 뭔가 할 수 있단 말이야！！？	A chance...? So she could still be alive?\nIs there anything I can do to help?	
+49	小怜	还有……她的设计？	還有……她的設計是什麼？	それに……彼女の計画って！？	그리고……소야의 설계라니？	And... her plans? What do you mean?	
+50	N/A	面对我连珠炮似的追问，莉琉无奈的叹口气──	面對我連珠炮似的追問，莉琉無奈地嘆了口氣──	俺が問い詰めるとマリルは、やたらと深い\n溜め息を吐いた。	속사포 같은 나의 추궁에, 마리루가 할 수 없다는 듯 한숨을 쉰다──	Mariru sighs, shaking her head fondly at my rapid-fire questions.	
+51	莉琉	你还不知道吗？	妳還不懂嗎？	……まだ分からないのか？	너 몰랐어?	Oh, so you didn’t know?	
+52	N/A	知道什么啊──！！	我應該懂什麼啊──！ ！	分からないから聞いてるんだよ――！！	몰랐냐니, 뭘──！！	Didn’t know what?	
+53	莉琉	那脚环本来是为了防止假释的犯人逃脱所设计。	唉，那種腳環本來是為了防止假釋的犯人逃脫所設計的。	あの足輪は元々、仮釈放された囚人の逃亡を\n防ぐために設計された。	그 팔찌는 원래 가석방된 범인들의 탈출을 방지하기 위해 설계된 거야.	Those anklets you were wearing... they were designed specifically for prisoners on parole. To make sure they couldn’t escape.	
+54	莉琉	每一只这种脚环都具有主动窃听功能，索娅自己肯定也知道这一点。	所以每個腳環都加裝了竊聽功能，索婭一定也知道這一點。	足輪には盗聴機能が付いている。\nもちろん、この事をソヤは知っていた。	그 발찌에는 주동 도청 기능이 설치돼 있어. 소야도 분명 알고 있었을 거야.	Naturally, they’re all bugged. I could hear everything Sonya said.	
+55	莉琉	所以她明白，自己说的每句话都可能被我所监听。	她很清楚，自己說的每句話都可能被我監聽。	つまり私に聞かれている事を重々承知で、\n彼女はお前と話してたってわけだ。	그래서, 자시이 하는 모든 말을 내가 들을 거라는 걸 알고 있었겠지. 	Sonya definitely knew this.	
+56	N/A	我疑惑的点了点头。	我疑惑地點了點頭。	疑問が解けないまま、とりあえず頷く。	고개를 끄덕였다. 	I nod, still confused.	
+57	莉琉	回想一下你们昨天的经历──	回想一下妳們昨天的經歷──	昨日のお前達の行動をよく思い出してみろ。	어젯밤 일을 떠올려봐──	Remember what happened yesterday?	
+58	莉琉	下午一起逛街的时候，索娅就在细致入微的观察你和伊露卡。	下午一起逛街的時候，索婭就很仔細在觀察著妳和伊露卡。	午後に買い物へ行っていた時……\n\nソヤはお前とイルカの事を細かく観察\nしていただろう？	오후에 쇼핑하러 다닐 때 소야가 너와 이루카를 자세히 관찰했어.	When the three of you were shopping together, Sonya had been observing you and Elluka very carefully.	
+59	小怜	（确实，在美术馆她还向拉斐尔卖弄……）	（確實，在美術館時，她還向拉斐爾賣弄……）	（確か、ソヤとラファエルが美術館で\n　会話していた時……）	（맞아, 미술관에서 소야가 라파엘에게 얘기했었어……）	(True. She even told Raphilia her findings when we were in the art gallery...)	
+60	索娅	在街上看到漂亮的女生，小怜会忽然冒出淡粉色的气息，在不扭头的情况下把眼球转到极限偷瞄。	如果在街上看到漂亮女生，小憐會忽然冒出淡粉色氣息，在不轉頭的情況下使勁偷看。	街中で綺麗な女の子を見かけますとレンさんから\n急に薄いピンクの気配がしますのよ。\n首は動かさず目だけを動かして覗いて\nおりましたわ。	길에서 예쁜 여자를 보면 렌이 갑자기 분홍색 기운을 뿜어. 몸을 돌리지 않고 최대한 몰래 훔쳐봐.	When Ren sees a cute girl on the street, she starts glowing in pink. She tries her best not to stare, but her eyeballs always betray her...	
+61	索娅	或者假装看向那个女生身后的远方，看够了再把头转向完全不相干的方向，以为这样就能洗清嫌疑。	或者先假裝看著那個女生的背後，再把頭轉向完全不相干的方向，以為這樣就不會被抓包。	他にも後ろの景色を見るフリをしつつ、\nそこから目線をそらして……\n滑稽にも見てない感じを装えば疑いが晴れると\n思っておりますのよ？	아니면 먼 곳을 보는 척 하면서 충분히 훔쳐본 후 전혀 다른 방향을 쳐다봐. 들키지 않을 거라고 생각하면서.	She sometimes pretends to stare far into the distance behind the girl and then twists her head in another direction in hopes that she’ll seem less like a creep.	
+62	莉琉	从美术馆出来后，她向你逼问出女巫与魔导书相关的情报。	從美術館出來後，她逼問妳有關女巫和魔導書的情報。	美術館から出た後、彼女はドールと魔導書に\nついてお前を問い詰めている。	미술관에 나온 후 너에게 무녀와 마도서에 관한 정보를 추궁했어.	And after you left the art gallery, she forced herself upon you, demanding to learn more about witches and grimoires.	
+63	莉琉	其实当时她还透露过教廷对女巫掉落的魔导书残页的处置方法。	其實當時她還透露了教廷對女巫掉落的魔導書殘頁的處置方法。	その際、彼女も私達に教えてくれたのさ。\n\n教皇庁がどのようにしてドールから回収した\n魔導書の残ページを処理しているのかを。	사실 당시 소야가 교황청이 무녀가 떨어트린 마도서 페이지를 처리하는 방법을 누설했었어.	That was when she revealed how the church dealt with grimoire fragments left behind by witches.	
+64	索娅	魔导书？是书本之类的吗……	魔導書？ 是書本之類的嗎……	魔導……書？ \nそれって書物みたいなモノですわよね……	마도서？책 같은 건가……	Grimoire? Is it like a kind of book?	
+65	N/A	索娅似乎忽然想到了什么，一幅恍然大悟的样子。	索婭似乎忽然想到了什麼，一臉恍然大悟。	ソヤがハッと何かを思い出す。	소야가 갑자기 뭔가 생각난 듯 당황한 표정을 한다. 	Sonya’s eyes widen, as if she’s suddenly realized something.	
+66	索娅	之前消灭女巫的时候，确实经常会见到书页一样的东西……	喔～之前消滅女巫的時候，的確經常看到像書頁一樣的東西……	この前ドールを殲滅する際、確かに本のページ\nみたいな物を見かけましたわ。	예전에 무녀를 소멸할 때 책 같은 물건을 자주 본 것 같아……	I do remember seeing pieces of paper drifting around when I dealt with witches sometimes...	
+67	N/A	索娅一边回想一边说道──	索婭一邊回想一邊說道──	ソヤが回想しながらそう言った。	소야가 기억을 떠올리며 얘기한다──	Sonya reminisces.	
+68	索娅	但修道院的嬷嬷说那些东西的感染性太强，圣赦院的人会在事后清理时统一收集焚烧。	但修道院的人總是說那些東西的感染性太強，所以聖赦院的人會在事後清理時統一集中焚燒。	でもあれは感染性が強すぎますので……\n\n後始末の際に内赦院の者がまとめて燃やすと、\n修道院のマザーは言っておりましたわ。	하지만 수도원의 수녀님이 그 물건은 감염성이 강해서 한꺼번에 태워버린다고 했었어.	But the nuns at the Abbey always said those could contaminate people, and the people from the Penitentiary would collect them all and burn them in a heap when cleaning the scene.	
+69	小怜	圣赦院……？\n（似乎有点耳熟？）	聖赦院……？ \n（似乎有點耳熟？ ）	内赦院……？\n（どこかで聞いたような？）	성사원……？\n（어디서 들어본 것 같은데？）	Penitentiary...?\n(Have I heard that term before?)	
+70	莉琉	后来你们在电器街见到了贝阿特丽切，她发现你们俩身上都有“很干净的味道”。	後來妳們在電器街遇見了貝阿特麗切，她發現妳們身上都有「很乾淨的味道」。	電気街でベアトリーチェと合流した時、\n彼女は「純粋な匂いがしています」と\nお前達2人に言ったよな？	이후 전자 상가에서 베아트리체와 만났고, 너희 둘에게서 “깨끗한 냄새”가 난다고 했었어	And then you guys met up with Beatrice on Electronics Street. Sonya noticed that both you and Beatrice smelled “pure”...	
+71	N/A	爱衣突然插话──	愛衣突然插話──	迷いのない言葉で語るマリルの間を割って、\n愛衣も口を挟み始める。	아이가 갑자기 끼어든다──	Aya suddenly interjects:	
+72	爱衣	之前我也发现，小怜和贝阿特丽切体内的放射性同位素比新生儿从母体继承的还要低~	之前我也發現，小憐和貝阿特麗切體內的放射性同位素比新生兒從母體繼承的還要低～	以前発見していた事だけど、レンちゃんと\nベアトリーチェの体内の放射性同位体は、\n産まればかりの赤ちゃんよりも低かった。	나도 렌과 베아트리체의 방사성 동위원소가 신생아가 모체에서 물려받은 것보다 낮은 걸 발견했었지~	I noticed that too! The radionuclide content in Ren’s and Beatrice’s bodies is even lower than what a newborn should have inherited from their mother.	
+73	爱衣	共感觉连这种事都能看出来吗？\n真想好好做一番试验呐……	聯覺連這種事都能看出來嗎？ \n有機會的話，真想好好做一下實驗啊～	共感覚ってそんな事も分かるのかな？\n\nこれはもう色々実験しなきゃだね……っ！！	공감각은 이런 것도 알아볼 수 있는 건가？\n실험 해보고 싶은 걸……	Does that mean scientific stuff like this is actually detectable by people with synesthesia?\nWow, I’d love to conduct an experiment on that...	
+74	莉琉	结合这些信息，当她在教堂门口向我提出交易要求时就猜到了，但转念一想也不是什么坏事。	綜合這些訊息，當她在教堂門口向我提出交易要求時，我就猜到了，但仔細想想也不是什麼壞事。	彼女が出してくれた情報を鑑みれば\n推察も容易い。\n\n教会の外で取引を持ち掛けられた時点で、\n私も彼女の意図を汲み取って行動していた。\n考えてみれば悪い事ではないのだが。	이 정보들을 결합해서, 당시 소야가 교회 입구에서 내게 거래 조건을 말할 때 알아챘지. 나쁜 일은 아니라고 생각했어.	Anyway, Sonya revealed all of the above, knowing that I’d hear. So when she brought up her conditions in front of the church entrance, I could already guess what she must have been planning. And I just went along with the plan...	
+75	N/A	莉琉拍了拍我满是问号的脑袋。	莉琉拍了拍我滿是問號的腦袋。	マリルは「？？？」になっている俺の頭を\n適当にトントンと叩きながら告げた。	마리루가 물음표가 가득한 내 머리를 쓰다듬는다.	Mariru pets me on the head, while I continue to stare, as confused as ever.	
+76	莉琉	当时她已经决定要成为魔女了吧~	當時她已經決定要成為魔女了吧。	あの時点で彼女は魔女になると決意して\nいたのだろうな。	당시 소야는 이미 마녀가 되기로 결정한 거야~	She must have already made her decision—to become a witch.	
+77	小怜	──！！？	──！！？	――ッ！！？	──！！？	What?	
+78	莉琉	一开始她宁愿与我合作，也不想被爱衣检查，就是怕自己身体的秘密被发现。	一開始她寧可和我合作也不想被愛衣檢查，就是怕自己身體的祕密被發現。	最初の内は愛衣に検査されるぐらいならと\n私達に協力的だった。\n自分の身体の秘密がバレる事を恐れて\nいたからだ。	나와 협조하기로 했을 때 아이의 검사를 받지 않겠다고 했어. 자신의 비밀이 들킬까봐 걱정됐겠지.	Remember? In the beginning, she’d rather cooperate with me than let Aya do an examination on her. It was because she feared that the dark secret eating up her body would be discovered.	
+79	莉琉	但后来，她用那个秘密只交换了两件事──	但後來，她用那個祕密只交換了兩件事──	しかし後々から、彼女はその秘密と引き換えに、\n2つの要求を改めて提案した。	하지만 그 비밀로 두가지를 교환했어──	But she revealed the secret herself later, in exchange for two things:	
+80	莉琉	第一，要求我解锁了脚环的最大距离，给予自己行动的空间。	第一，要求我將腳環的放電距離設為最大，讓她有自由行動的空間。	1つ目は自分の行動できる範囲を広めるようにと\n足輪の最大拘束距離の調整を願った。	첫째, 발찌의 최대 거리를 해제해 행동 공간을 확장하는 것.	First, she wanted me to maximize the distance allowed between her anklet and yours. That was because she needed enough space to act.	
+81	莉琉	第二、她想知道贝阿特丽切和你的关系，为了确保情报的真实性还要求由你亲口讲述。	第二、她想知道貝阿特麗切和妳的關係；為了確保情報的真實性，還要求由妳親口告訴她。	2つ目に彼女はお前とベアトリーチェの関係を\n知りたがった。\nしかも情報の信憑性を確定させるため、\nお前の口から直接な。	둘째, 너와 베아트리체의 관계를 알려줄 것. 그것도 네 입으로 직접.	Second, she wanted to know about the relationship between you and Beatrice. She even asked you to tell her yourself, in order to ensure the reliability of the information.	
+82	莉琉	我想她早就知道，教廷并没有将魔导书烧掉，而是秘密封存起来。	我想她早就知道，教廷並沒有將魔導書燒毀，而是祕密封存起來。	おそらく彼女は気付いたのだろう。\n\n教皇庁は後始末で燃やすと言いながらも、\n裏で封印と称して魔導書を保管している事に。	소야는 교황청이 마도서를 태우지 않고 비밀스레 보관했다는 걸 이미 알고 있었을 거야.	I’m guessing she already knew since a long time ago that the church never really burned the grimoire pages. They just archived them in secret...	
+83	莉琉	就当艾尔加纳在教堂里帮你治疗时──	正當艾爾加納在教堂裡幫妳治療時──	エルガノがお前を治療していた際の、\nあのタイミング──	엘가나가 교회에서 널 치료할 때──	And therefore, while Elgana was working on your waist in the church...	
+84	莉琉	她去艾尔加纳的房间，偷出圣赦院封存在秘匣中的魔导书残页。	她去了艾爾加納的房間，偷出聖赦院封存在祕匣中的魔導書殘頁。	彼女はエルガノの部屋に潜入し、保管していた\n魔導書の残ページを盗み出した。	소야가 엘가나의 방에서 성사원이 밀봉한 상자에서 마도서 페이지를 몰래 훔쳤어. 	Sonya sneaked into Elgana’s room and stole the remaining fragments the Penitentiary had sealed in a secret box.	
+85	小怜	诶？？！	什麼？ ？！	ええっ！？	뭐？？！	What?	
+86	莉琉	特工清点艾尔加纳个人物品时，发现那个匣子里已经空了。	特務清點艾爾加納私人物品時，發現那個匣子裡頭已經空無一物。	エルガノの私物を押収しようとした際に\n禁忌の箱と呼ばれているモノの中身が、\n空っぽだったと捜査員から報告を受けている。	특공대가 엘가나의 개인 물품을 정리할 때 그 상자가 비었다는 걸 발견했어.	When our agents were checking Elgana’s personal belongings, they found the box empty.	
+87	小怜	确实……艾尔加纳好像问过她……	確實……艾爾加納好像問過她……	そう言えば、エルガノがソヤに言ってたな……	맞아……엘가나가 소야에게 물었던 것 같아……	Hmm, right... Elgana did ask her...	
+88	艾尔加纳	索娅，圣赦院封存的秘匣是你打开的吗？	索婭，聖赦院封存的祕匣是妳打開的嗎？	ソヤ……内赦院が封じていた禁忌の箱を\n開いたのはあなたでしたか。	소야, 성사원의 밀봉된 상자를 네가 열었니?	Sonya, was it you who opened the secret box sealed by the Penitentiary?	
+89	索娅	……	……	…………	……	…	
+90	小怜	？	？	……？	？	?	
+91	艾尔加纳	唉──你总是这么管不住自己的好奇心啊……	唉──妳總是這麼管不住自己的好奇心啊……	あなたはいつも、自身の好奇心を抑えられないの\nですね……	넌 항상 호기심을 제어하지 못해……	You’ve always been a curious one, huh...	
+92	爱衣	当时卫星也检测到，新丰洲纪念教堂突然出现时空相位波动，但只持续不到5秒。	當時衛星也偵測到，新豐洲紀念教堂突然出現時空相位波動，但只持續不到5秒。	衛星の観測記録によると、新豊洲記念教会に\n時空位相波動が発生したんだけど──\n──持続時間はわずか5秒未満。	당시 위성이 신토요스 교회에서 갑자기 시공 상위 파동이 일어난 걸 관측했어. 5초만에 사라졌지만.	The satellite detected a sudden spacetime flux at the New Opulentia Memorial Church during those five seconds when Sonya opened the box.	
+93	爱衣	能让魔女之茧瞬间蒸发……果然很有天赋呢~	能讓魔女之繭瞬間蒸發……果然很有天賦呢～	魔女の繭を一瞬で蒸発させるなんて……\nあの子やっぱ才能があるんだね～～	마녀의 고치를 순식간에 증발시키다니……역시 재능있어~	She made the witch cocoon evaporate in an instant... quite a talented one!	
+94	莉琉	在之后的电话里，她再次向贝阿特丽切确认过她的身份。	在之後的電話裡，她再次向貝阿特麗切確認了她的身分。	その後も彼女は電話で、ベアトリーチェの\n正体について本人に問い詰めていた。	그후 소야가 다시 한 번 베아트리체에게 그녀의 신분을 확인했어. 	And after that, when Beatrice called you on the phone, Sonya asked her a few questions to confirm her identity.	
+95	索娅	哼哼！小怜全都告诉我了哦~！！	哼哼！ 小憐全～部～都告訴我了哦！ ！	えっへんっ！\nレンさんが全部教えてくれましたわよ～～っ！！	흐응！렌이 나한테 전부 알려줬어~！！	Ren told me everything, actually!	
+96	索娅	你真的是但丁笔下的那个大美人？	妳真的是但丁筆下那個大美人嗎？	あなたがダンテの詩に登場する人物という事も、\n全てレンさんからお聞きしましたわ～～っ！	네가 정말 단테가 쓴 그 미녀야? 	Are you really the same beauty in Dante's masterpiece?	
+97	莉琉	不得不说是场豪赌啊……	不得不說是場豪賭啊……	とは言え、それは彼女にとって本気の\n大博打だったのだろうな……	도박이였지만…	That was a risky gamble...	
+98	爱衣	不过还好她当时那么做了──	不過幸好她當時那麼做了──	まあ、上手くいってくれて良かったよ……	소야가 그렇게 행동해서 다행이야──	But luckily she took the risk.	
+99	小怜	还……好？	幸……好？	よかった……のか……？	다…행？	Luckily?	
+100	N/A	成为魔女是很沉重的负担吧……	成為魔女是很沉重的負擔吧……	魔女になるのは相当な覚悟がいるだろう……	마녀가 되는 것은 엄청난 부담이 따르겠지……	Why would it be lucky? Being a witch must be a hard burden to bear...	
+101	爱衣	不然在第一大道遇袭时，你以为你们几个是靠什么解围的？	不然妳以為，在第一大道遇襲時，妳們幾個是靠什麼解圍的？	中央通りでレンちゃんが黒い戦闘服を着た\n連中から奇襲を受けた時、\n何を頼りに包囲を突破したと思う！？	제1도로에서 습격을 받았을 때 너희들이 어떻게 빠져 나왔다고 생각해? 	Well, how else did you think you guys managed to survive that attack on First Avenue?	
+102	N/A	爱衣的声音逐渐更加兴奋。	愛衣的聲音逐漸興奮起來。	愛衣の声が興奮で昂り始める。	아이의 목소리가 점점 들뜨기 시작한다.	Aya becomes increasingly animated as she speaks.	
+103	爱衣	要不是我特意改装了一下，当时无人机上的玻尔兹曼探测器就又要爆掉了！！	要不是我刻意改裝了一下，當時無人機上的玻爾茲曼探測器就又爆掉了！ ！	前回の反省で色々と改造してなかったら、\nまたドローンに搭載したボルツマン探針が、\n爆発を観測して壊れちゃうところだったよ！	내가 개조하지 않았으면 당시 무인기에 설치된 볼츠만 탐측기가 또 폭발했을 거야！！	Her weapon was an ultimate piece of art. It would have shattered the Boltzmann machine on the drone if I hadn’t fortified it sometime ago!	
+104	爱衣	那像绞肉机一样绚丽华美的──哎呀~	那像絞肉機一樣絢麗華美的──哎呀！	あの肉挽き機のスライサーのような\n絢爛華麗の――おっふぅッ！？	그 고기 분쇄기 같이 화려하고 아름다운──아야~	Those soldiers had no chance against her chainsaw... it was so glorious, so bloody, so aesthetically pleasing. Like meat going through a shredder... ow!	
+105	N/A	莉琉重重敲了下爱衣的头打断她。	莉琉重重敲了一下愛衣的腦袋，打斷她的話。	これ以上の暴走はダメだと、マリルは愛衣の頭を\n手刀で叩いた。	마리루가 아이의 머리를 때려 그녀의 말을 끊는다.	Mariru whacks Aya on top of her head, and the latter reluctantly shuts up.	
+106	莉琉	好奇心强的人想要离开安全地带，往往会遭遇比常人多得多的危险。	好奇心強的人想要離開安全地帶，往往會遭遇比常人更多的危險。	好奇心の強い人間が安全地帯を離れた場合、\n普通よりも危険な目に遭う可能性が高くなる。	호기심이 강한 사람은 안전 지대를 떠나 큰 위험과 마주치지. 	Curious people always tend to run into dangerous situations when they leave their comfort zones.	
+107	莉琉	这时更需要随时观察周围信息，冷静分析并大胆下注，才可能从困境中生存下来。	這時更需要隨時觀察周遭情況、冷靜分析並大膽下注，才有可能從困境中生存下來。	常に周囲の状況を観察し、冷静に分析し、\n時として大胆な博打に出なければ──\n窮地の中で生き残るなどは不可能だ。	그때 주위 정보를 관찰하고 냉정히 분석해 결정해야만 곤경 속에서 살아남을 수 있어.	That’s why they need to be good observers, calm analysts, and bold gamblers. That’s how they survive.	
+108	莉琉	可能这几年，索娅对艾尔加纳的行为也有预感吧。	可能這幾年，索婭對艾爾加納的行為也多少有些預感吧。	おそらくここ数年間、ソヤもエルガノの行動に\n関して何かしらの推察があったのかもしれない。	아마 요몇년간 소야가 엘가나의 행동에 대해 예감했을 거야.	Sonya might have already sensed that Elgana was up to something these few years.	
+109	莉琉	她偷走电池的时候，就已经做了最坏的打算──	她偷走電池的時候，就已經做了最壞的打算──	車内で電池をこっそりと懐に忍ばせたその時から\n彼女はすでに最悪の事態を見越していたのさ。	소야가 전지를 훔칠 때 최악의 계획을 세웠거든──	She must have been planning for the worst when she stole the battery...	
+110	莉琉	在乘直升机前用河豚毒素麻痹你，是怕你泄露电击脚环的事情让那些人起疑。	搭乘直升機前先用河豚毒素麻痹妳，是怕妳洩露電擊腳環的事情會導致那些人起疑。	ヘリに乗る前、フグ毒でお前を麻痺させたのも\nお前が足輪の放電機能について、\n口にする可能性があったからだ。\n\n連中に疑念を抱く隙すら、あの娘は与えない。	헬리콥터가 이륙하기 전 테트로도록신으로 널 마비시켰어. 네가 전자 발찌가 누설할까봐.	Paralyzing you with the pufferfish toxin was her way to keep you from mentioning the anklets and arousing suspicion.	
+111	莉琉	还在临别前把自己的武器垫在你身后，这就是她的设计──	臨別前還把自己的武器墊在妳背後，這就是她的設計──	しかも別れる時、自身の武器をお前の背中の\n後ろに置いていったのも計画の一部だろう──	그리고 떠나기 전 자신의 무기를 네 등 뒤에 받쳤어. 이게 바로 소야의 설계야──	And she placed her weapon behind your back as a “parting gift”—so that you’ll have access to it later. All part of her plan.	
+112	爱衣	那孩子还是真优秀呢……	那孩子還是真優秀呢～	本当に……いや、優秀過ぎじゃない？	그 아이, 정말 대단하다니까……	Very bright kid, huh?	
+113	N/A	爱衣揉着脑袋上鼓起的包说道。	愛衣揉著腦袋上鼓起的腫包說道。	愛衣は頭のコブをさすりながら言った。	아이가 머리 위에 생긴 혹을 만지며 말한다.	Aya comments, one hand massaging the bump on her head.	
+114	N/A	我的眼睛一亮，马上从床上跳起来。	我的眼睛一亮，馬上從床上跳起來。	俺はベッドから飛び起きる。\n\n説明を全て聞いて、ようやく事態が理解できた。	나는 반짝이는 눈을 하고 곧장 침대에서 일어났다.	My eyes widen, and I spring up from the bed.	
+115	小怜	是那个电锯吗！？	是那把電鋸嗎！ ？	あのチェーンソーの事か！？	그 전기톱 말이야！？	You mean she left me the chainsaw?	
+116	N/A	如果能像安妮和贝阿特丽切时那样，由我触碰一下武器就将她带回来的话……	如果能像安妮和貝阿特麗切那樣，只要我碰一下武器就能夠將她帶回來的話……	アニーやベアトリーチェの時と同じく\n俺が魔導器に触れる事によって、\n彼女を魔女として召喚する事ができれば……！	만약 앤과 베아트리체처럼 내가 무기를 만져서 소야를 데려올 수 있다면……	So, if I touch the weapon, I could bring her back the way I brought back Annie and Beatrice?	
+117	莉琉	可能没那么简单……	這次可能沒那麼簡單……	そう簡単にはいかないかもしれないが……	그렇게 간단한 일은 아니야……	It probably won’t be that easy.	
+118	N/A	莉琉走到门口，回头对我说道。	莉琉走到門口，回頭對我說道。	マリルは部屋のドアを開けると、俺に振り返り\nながら告げる。	마리루가 입구로 걸어가 고개를 돌려 나에게 말한다.	Mariru says from where she’s standing in the doorway.	
+119	莉琉	你准备好就出来吧。	妳準備好就出來吧。	……準備ができたら来い。	준비가 끝나면 나와.	Anyway, I’ll wait for you outside.	
+120	N/A	……	……	……………………	……	…	
+121	N/A	我稍稍整理了一下，就迫不及待的冲出门──	我稍微整理了一下，迫不及待地衝出門──	素早く支度した後、待つまでもなく部屋から\n飛び出した──	나는 대충 정리한 후 서둘러 밖으로 나갔다──	I quickly wash my face, make sure I’m presentable, and heads to the door—	
+122	小怜	欸──	欸──？	えっ……	엣──	Eh?	
+123	N/A	这里是……	這裡是……	ここは……！	여긴……	Where am I…	
+124	小怜	方舟基地？！	方舟基地？ ！	方舟基地！？	방주 기지?!	The Ark?	
+125	N/A@？？？	好久不见啊──主人。	好久不見啊──主人。	お久しぶりですわ──マスター。	오랜만이에요──주인님.	It’s been a while, Master.	
+126	N/A	等等，这熟悉的称谓……	等等，這熟悉的稱謂……	それに、このお馴染みの呼び方は……	잠깐, 이 익숙한 칭호는……	Wait, this title...	
+127	海因里希	听说主人最近在打工做“服务性职业”呢。	聽說主人最近在做「服務性質」的工作呢。	どうやらマスターは最近「サービス業」の\nバイトをしていらっしゃるようですね。	주인님이 요즘 “서비스업”에서 아르바이트를 한다고 들었어요.	I heard that Master is working part-time in the “service industry”!	
+128	小怜	海因里希？	海因里希？	ハインリッヒ！？	하인리히?	Henriette?	
+129	小怜	别听拉斐尔瞎说！\n我、我……	別聽拉斐爾胡說！ \n我那個、我欸……	ラファエルのデマを信じるな！\n俺、俺は……っ！	라파엘이 얘기해줬구나！\n나, 난……	Did Raphilia tell you that?\nIt’s not what you think—	
+130	海因里希	一定非常特别吧？改天我也去捧场。	一定是很特別的工作吧！ 改天我也去捧場好了。	とても特別なサービスなのでしょう？ \n\nいつかわたくしも伺いますわね？	분명 엄청 특별하겠죠？저도 보러 갈게요.	It sounds fun! I should visit your workplace too.	
+131	小怜	请务必不要！！	千萬不要！ ！	是非お断り申し上げます！	절대 오지마！！	Please don’t!	
+132	海因里希	主人很紧张呢……难道是那种职业？	嗯～主人看起來很緊張呢……難道是那種職業？	なぜ否定なさるのですかマスター……\nもしかして、あちら系の仕事でしょうか？	뭘 그렇게 긴장하세요……설마 그런 직업인가요？	Master seems nervous. Is it... that kind of job?	
+133	N/A	哪种职业啊！！	哪、哪種職業啊！ ！	へ……変な事を想像するなっ！！	그런 직업이라니！！	What kind of job do you mean, huh?	
+134	小怜	怎么你也在这……拉斐尔没和你一起吗？	怎麼妳也在這……拉斐爾沒和妳一起嗎？	はぁ……話を戻すけど、なんでハインリッヒが\nここにいるの？\nラファエルは一緒じゃないのか？	네가 왜 여기 있어……라파엘은 같이 안 왔어？	Anyway, what are you doing here? And is Raphilia not with you?	
+135	海因里希	因为这次的事件和『门』有关，我只是来收集一下研究材料。	因為這次的事件和「門」有關，我只是來收集一下研究材料而已。	今回の事件は『扉』と関係しておりますので、\n研究材料の収集に参りましたわ。	이번 사건이 『문』과 관련있다고 들어서, 연구 자료를 수집하러 왔어요.	Just here to collect materials for my research. I heard that what happened here had something to do with the “door”.	
+136	N/A	我回想起海因里希似乎说过，她曾用炼金术打开了一扇大门……	我想起海因里希似乎說過，她曾用煉金術打開了一扇大門……	確か以前、ハインリッヒは錬金術を使って扉を\n開けた事があると言っていた……	하인리히가 연금술로 그 문을 연 적이 있다고 얘기한 게 기억난다……	Ah. I remember Henriette mentioning opening a door with her alchemy...	
+137	海因里希	对了，这是我最近做出来的──	對了，這是我最近做出來的──	此度に至っても探求心は尽きませんわね？\nこちら最近わたくしが作ったものですが──	아참, 이건 제가 최근에 만든 거예요──	By the way, this is my new creation!	
+138	N/A	海因里希得意的拿出一枚弹球大小的无色宝石。	海因里希得意地拿出一枚彈珠大小的透明寶石。	ハインリッヒが得意げに取り出したのは、\nビー玉ぐらいの大きさをした無色の宝石だ。	하인리히가 총알 크기의 무색 보석을 자랑스럽게 꺼낸다.	Henriette proudly takes out a marble-sized, transparent gem from her pocket.	
+139	小怜	哈，这是治愈宝石吗？\n昨天多亏了它呢~~	喔喔，這是治癒寶石嗎？ \n昨天多虧了它呢～	あっ、それって治癒の宝石！？\n昨日はそれのお陰で助かったんだよ！	앗, 이건 치유 보석이잖아？\n어제 이거 덕분에 살았어~~	Oh, a healing gem, right?\nI got one from Raphilia. It saved my life yesterday!	
+140	海因里希	治愈……？	治癒……？	治癒……ですか？	치유……？	Healing...?	
+141	N/A	海因里希似乎有些奇怪，接着恍然大悟的样子。	海因里希似乎有些不懂，沒幾秒後就露出恍然大悟的表情。	ハインリッヒは少し困惑した様子だが、\nすぐ状況を察したようだ。	하인리히가 영문을 모르겠다는 표정을 하다 뭔가 깨달은 듯 하다.	Henriette looks puzzled for a second, then nods in understanding.	
+142	海因里希	哦──是拉斐尔给你的话，就是治愈效果了。	哦──如果是拉斐爾給妳的寶石，的確是有治癒效果。	なるほど、ラファエルが力を込めたのであれば、\n治癒の効果となるのでしょうね。\nマスターは色付きの宝石をラファエルから\n頂いたりしましたか？	오──라파엘이 준 거라면 치유 효과가 있겠네요.	If it’s from Raphilia, then yeah, it should have healing effects.	
+143	小怜	嗯？	嗯？	うん？	네?	Hmm?	
+144	海因里希	这种宝石就像充电电池一样，可以临时存储一部分魔法效果。	這種寶石就像充電電池一樣，可以暫時儲存一部分的魔法效果。	この宝石は充電電池のようなものです。\n一部の魔法効果を簡易的に保存できますわ。	이 보석은 건전지를 충전하는 것처럼 마법 효과를 저장할 수 있어요.	This gem is sort of like a chargeable battery, except we “charge” it with magical effects.	
+145	海因里希	充电和放电的时候，只要与体液接触就可以。	只要與體液接觸就可以充電和放電。	「充電」と「放電」を行いたい場合は、\n体液を接触させる必要があるのですが……	충전과 방전할 때 체액을 접촉하기만 하면 돼요.	Once in contact with body fluid, it either unleashes its effects or starts charging.	
+146	小怜	体、体液？！	體、體液？ ！	た、体液っ！？	체, 체액？！	Body fluid?	
+147	海因里希	昨天……主人亲自试过啦？	昨天……主人已經親自試過啦？	マスターは昨日……\nご自分でお試しになったのですね？	어제……주인님께서 직접 시도해 보셨군요? 	You tried it yesterday, Master? With what kind of body fluid, hm?	
+148	N/A	海因里希的脸上露出一个神秘的微笑。	海因里希的臉上露出神祕的微笑。	ハインリッヒが意味深な微笑みを浮かべる。	하인리히가 신비한 미소를 짓는다. 	Henriette smiles, serenely.	
+149	N/A	停！不要乱想！！\n不要胡思乱想！！！	停！ 不要亂想！ ！\n不要胡思亂想！ ！！	ストップ！ 妄想しないでッ！！\n変な妄想はやめてッッ！！！！	멈춰！이상한 생각하지마！！\n그만 생각하라고！！！	Stop it!\nIt’s not what you think!	
+150	N/A@莉琉	咳咳──	咳咳──	──コホン	크흠──	Ahem.	
+151	N/A	喇叭中传出莉琉的声音，同时我们面前升起一座通往对面平台的浮桥。	喇叭中傳來莉琉的聲音，我們面前與同時升起了一座通往對面平台的浮橋。	──スピーカーからマリルの声が響く。\n\n同時に向かい側へと通じる浮橋が、\n俺達の目の前に伸び始めた。	확성기에서 마리루의 목소리가 들려옴과 동시에 우리 앞에 다리가 올라온다.	Mariru’s voice comes blasting from the speakers. That’s when a suspended bridge rises ahead of us, leading towards the platform across.	
+152	N/A@莉琉	我和爱衣在观察室，一会海因里希也上来吧。	我和愛衣都在觀察室，等等海因里希也一起過來吧。	私と愛衣はモニタールームで待機している。\n\n後ほどハインリッヒもこちら側に移動して\nもらうぞ。	나와 아이는 관찰실에 있어. 잠시 후 하인리히도 여기로 올라와. 	Aya and I are in the observation room. Henriette can come up too later.	
+153	N/A@莉琉	电锯已经放在基台上了，规矩你都知道吧──	電鋸已經放在基台上了，程序妳都知道吧──	チェーンソーは台座の上に置いてある。\n手順は分かっているな？	전기톱은 기단 위에 있어. 규칙은 너도 알고 있지──?	The chainsaw is on the platform. You know the drill.	
+154	N/A@莉琉	这次武器系统全都关闭了，如果遇到极端情况可以从基台右侧地板上的安全门进入地下隔离区。	這次武器系統全都關閉了，如果遇到危急狀況，可以從基台右側地板的安全門進入地下隔離區。	今回の実験は、緊急用の武器システムを全て\n機能停止した状態で敢行するぞ。\nもし何らかの事態が発生した場合は、台座右側の\n床にある安全扉から地下隔離区域に入れ。	이번 무기 시스템은 모두 닫혔어. 극단적인 상황이 발생하면 기단 우측에 있는 안전문으로 지하 격리 구역에 가면 돼.	We’ve deactivated all weapon systems. In the case of an emergency, you can enter the underground safe zone through the hatch on the ground to the right of the platform.	
+155	小怜	只是索娅的话，不用这么兴师动众吧……	只是索婭的話，不用這麼勞師動眾吧……	ソヤを召喚するだけだろ？\nこんな大げさにしなくてもいいのに……	소야라면 사람들을 끌어들이지 않았겠지……	We’re just gonna try and summon Sonya, right? Do we need that many safety measures?	
+156	海因里希	还是小心一点为好。	還是小心一點比較好。	……用心した方がよろしいかと。	어쨌든 조심하는 게 좋아요.	Better be safe then sorry.	
+157	海因里希	索娅不是说过，她可能被那家伙讨厌了吗？	索婭不是說過，她可能被那傢伙討厭了嗎？	ソヤさんは言っていませんでしたか？\n\n彼女は「あいつ」から嫌われてるかも\nしれないって。	소야가 그 녀석에게 미움을 받고 있다고 얘기했잖아요?	Didn’t Sonya say “he” must hate her now?	
+158	小怜	那家伙……是你说的『那位大人』？	那傢伙……就是妳說的「那位大人」？	あいつってさ……ハインリッヒが言ってた\n『あの方』なのか？	그 녀석이라면……네가 말한 『그 분』？	“He”? You mean... the “he” she mentioned is the same as that “The One” you speak of?	
+159	N/A	那个强迫海因里希用灵魂签订契约的家伙……	那個強迫海因里希用靈魂簽訂契約的混蛋傢伙……	ハインリッヒの魂を使って強引に契約を\n結んだ野郎……	하인리히와 강제로 영혼 계약을 맽은 녀석……	The One... he forced Henriette to enter a pact, to put her soul at stake...	
+160	海因里希	是有这种可能，不过──	是有這種可能，不過──	可能性はあります。\n\nただ──	그럴 수도 있죠. 하지만──	It’s possible, but...	
+161	海因里希	但如果是主人的话，我相信一定没问题。	如果是主人的話，一定沒問題的。	マスターでしたら、きっと平気だと信じますわ。	주인님이라면 분명 문제 없을 거예요.	But it’ll all work out if it’s you. I believe in Master.	
+162	N/A	海因里希用从容而坚定的眼神看着心虚不已的我。	海因里希用從容且堅定的眼神看著心虛不已的我。	ハインリッヒは落ち着いた目で、気が早っている\n俺を見つめる。	하인리히가 굳은 눈빛으로 자신 없는 날 바라본다.	Henriette gazes at me, eyes trusting and resolute. I certainly don’t feel very deserving of that trust!	
+163	小怜	对了，要不要准备点衣服？	對了，要不要準備一些衣服？	そうだ！ 何か服を用意しなくでいいの？	아참, 옷을 준비하는 게 어때? 	Oh, by the way, should we prepare some clothes?	
+164	海因里希	嗯？	嗯？	……はい？	네?	Hmm?	
+165	小怜	万一又像你刚被召唤出来时……\n（全、全裸……）	萬一又像妳被召喚出來時那樣……\n（全、全裸……）	万が一、ハインリッヒを召喚した時と同じく……\n（全、全裸……っ！）	만약 그 때 네가 소환됐을 때처럼…\n（저, 전라……）	What if, after I summon Sonya, she appears the same way you did...\n(Completely naked?)	
+166	N/A	不过好像贝阿特丽切那次就不是？	不過，好像貝阿特麗切那次就不是，為什麼呢？	──あれ？\n\nでもベアトリーチェの時はちゃんと服を\n着ていたよな？	그치만 베아트리체를 소환했을 때는 옷을 입고 있었잖아？	But Beatrice appeared fully dressed...	
+167	海因里希	哈哈哈哈，应该不需要。	哈哈哈哈，應該不需要。	ふふ、その必要ありませんわ。	하하하하, 필요 없을 거예요.	Haha, it should be fine.	
+168	海因里希	主人应该是以我记忆中最根深蒂固的印象将我创造出来的。	主人應該是以我記憶中最根深蒂固的印象將我創造出來的。	わたくしの記憶の中で最も印象深いイメージを\n元にして、わたくしは創造されたのでしょう。	주인님은 제 기억 속에 가장 근본적인 기억으로 절 창조했으니까요.	When Master recreated me, the form I manifested in was likely based on the state my brain believed I was usually in.	
+169	海因里希	我在工作时习惯保持最天然的状态，这样最利于大脑的思考~	我在工作時習慣保持最天然的狀態，這樣有利於思考～	仕事をする時は生まれたままの姿が一番好ましい\nと思いませんか？\n何かに縛られたままで実験結果を出しても、\n刺激的な考えは導き出せませんから……	전 일할 때는 자연스러운 상태를 좋아해요. 그래야만 대뇌가 빠르게 돌아가거든요~	And I was usually naked, most of the time. I like being one with nature. It helps my brain do its work.	
+170	小怜	天然……的状态？	最天然……的狀態？	生まれたままの……姿？	자연스러운…상태？	Being one... with nature?	
+171	N/A	等等，你现在也那样在实验室里跑来跑去吗？！	等等，所以妳現在也都是以那個狀態在實驗室裡跑來跑去嗎？ ！	ちょっと待って、今もあの姿で実験室を\nウロウロしてるのか！？	잠깐, 지금도 그 상태로 실험실을 돌아다닌다고？！	Wait, so you still hang out naked in your lab?	
+172	N/A	海因里希向我抛了个媚眼，便转身走向通往观察室的电梯。	海因里希向我拋了個媚眼，便轉身走向通往觀察室的電梯。	ハインリッヒは俺にウィンクをした。\n\nそして振り返って、モニタールームに通じる\nエレベーターの方へと去っていく。	하인리히가 날 향해 윙크하고 몸을 돌려 관찰실로 통하는 엘리베이터를 향해 걸어간다.	Henriette simply winks at me and walks off towards the elevator leading to the observation room.	
+173	N/A	我压抑着自己的胡思乱想，一路通过浮桥来到基台面前。	我壓抑著自己的胡思亂想，一路通過浮橋來到基台面前。	ふざけているのか本気なのか……どちらにせよ\n今はそれを考えてる場合じゃない。\n俺は頭に浮かぶ変な妄想を抑えて、\n橋から台座の前へ向かった。	나는 애써 잡생각을 누르고 다리를 건너 기단 앞으로 걸어갔다.	Trying to keep my imagination from straying to dangerous places, I cross the bridge and arrive in front of the platform.	
+174	N/A@莉琉	准备好了就开始吧──	準備好了就開始吧──	準備ができたら始めるとしよう──	준비 됐으면 시작하자──	We’re ready when you are.	
+175	N/A@莉琉	记得不要太逞强。	記得不要太逞強。	無理はしないように。	너무 무리하지마.	Remember, don’t push yourself too hard.	
+176	N/A	看着那个电锯，我不禁紧张起来。	看著那個電鋸，我不禁緊張起來。	俺はチェーンソーを見つめながら、\n気を引き締める。	그 전기톱을 보고 있으니 나도 모르게 긴장된다.	I feel my palms getting sweaty as I gaze down at the chainsaw.	
+177	小怜	（万一，什么都没有发生……）	（萬一，什麼都沒有發生……）	（もし、何も起きなかったら……）	（만약, 아무 것도 발생하지 않는다면……）	(What if... what if it doesn’t work?)	
+178	N/A	虽然每一次都毫无实感，但我从未如此期待自己的能力可以应验。	雖然每一次都沒什麼真實感，但我從未像這次一樣，如此期待自己可以做些什麼。	自分の力が正しく発動しますように……\n\nいつも実感はなかったけど、こんなに成功を\n期待するなんて今までなかったと思う。	매번 실감은 나지 않지만 스스로의 능력을 이렇게 기대해 본 적이 없다.	I have never been looking forward to seeing my powers work so much, even though I don’t have the least idea how to use them.	
+179	N/A	感受着自己加速的心跳，我慢慢将手伸向了基台上的电锯……	我感受著自己加速的心跳，慢慢將手伸向了基台上的電鋸……	加速する鼓動を感じながら、俺は台座の上にある\nチェーンソーにゆっくりと手を伸ばした……	빠르게 뛰는 심장을 느끼며 천천히 기단 위 전기톱으로 손을 뻗었다……	Heart beating furiously in my throat, I reach out towards the chainsaw...	
+180	N/A	……	……	…………	……	…	
+181	N/A	──	──	────	──	...	
+182	N/A@小怜	？	？	…………？	？	?	
+183	N/A	在我碰到电锯的瞬间，四周突然陷入一片漆黑──	我碰到電鋸的瞬間，四周突然陷入一片漆黑──	──チェーンソーに触れた瞬間、\n周囲が漆黒に包まれた。	전기톱을 만지는 순간, 주위가 갑자기 칠흑으로 변했다──	The second my fingertips touch the weapon, everything goes dark.	
+184	N/A	基地内设备运转的背景噪音也突然消失，周围就这样变得一片死寂。	基地內設備運轉的背景噪音突然消失，周圍就這樣變得一片死寂。	基地設備の稼働音さえも突然消えた。\n\n全てが静まり返っている。	기지 안 기기가 돌아가는 잡음도 갑자기 사라지고 주위가 쥐 죽은 듯 고요해졌다.	And quiet. Not even the background noise of the whirring machines in the base can be heard.	
+185	N/A	我甚至能清晰的听到自己逐渐加速得心跳和呼吸。	我甚至能清楚聽到自己逐漸加速的心跳和呼吸。	鮮明に聞こえるのは、自分の鼓動……\n\nそして呼吸だけ……	심지어 빠르게 뛰는 심장 소리와 호흡 소리마저 선명하게 들린다. 	My rapid heartbeat and unsteady breathing become incredibly loud in my ears.	
+186	N/A@小怜	这是……怎么回事？	這是……怎麼回事？	これは……どうなったんだ？	이게……어떻게 된 거지？	What’s going on...?	
+187	N/A@小怜	莉琉？	莉琉？	マ…マリル？	마리루?	Mariru?	
+188	N/A	我能感受到重力，而且自己正踩在某个平面上。	我能感受到重力，而且知道自己正踩在某個平面上。	重力は感じる。\n\n自分が平面上に立てている事も分かっている。	중력이 느껴지고 내가 어느 평면 위를 밟고 있는 것이 느껴진다.	I’m not floating or anything, I note. There’s still gravity, and my feet are firmly planted on the ground.	
+189	N/A@小怜	（还能呼吸……但说话完全没有回声。）	（還能呼吸……但說話完全沒有回音。 ）	（呼吸はできてるよな……）\n\n（だけど声を出しても、まったく反響しない）	（그리고 숨도 쉴 수 있어……하지만 목소리가 나오지 않는다.）	(I can still breathe... but there’s no echo when I speak.)	
+190	N/A	就像置身于空无一物的旷野之中。	就像置身於空無一物的曠野之中。	何もない、無限に広がる荒野の中にいるようだ。	마치 아무 것도 없는 광야 속에 놓인 것 같다. 	It’s like I were in an empty field that goes on forever.	
+191	N/A	在纯黑的环境下我不敢迈步，似乎一脚踏空就会坠入无尽的深渊。	在純黑的環境下我不敢邁開腳步，似乎一踏空就會墜入無盡深淵。	この暗闇の中、一歩でも前に踏み出せば、\n果てのない深淵に落ちてしまうような……\nそんな恐怖が、俺の身体を侵食する。	순흑색의 환경 속에서 발걸음을 내딜 수가 없다. 허공을 밟았다간 끝없는 심연에 빠질 것 같다.	I don’t dare take a single step—what if the pitch blackness in front of me leads to a bottomless abyss?	
+192	N/A	我只能双脚站在原地，伸出手试着向四周摸索。	我只能站在原地，伸出手試著摸索四周。	その場で立ち尽くすしかできない俺は、\n闇を払うかのように手を振るった。	나는 제자리에 서서 손을 뻗어 주위를 더듬을 수 밖에 없었다.	All I can do is stand rooted to the spot, reaching out my arms in attempt to find something solid to hold on to.	
+193	N/A@小怜	索娅……	索婭……	ソヤ……	소야……	Sonya...	
+194	N/A@小怜	索娅──！！	索婭──！ ！	ソヤ――――ッ！！！！	소야──！！	Sonya!	
+195	N/A	在黑暗中，我大声呼喊着她的名字。	在黑暗中，我大聲呼喊著她的名字。	暗闇の中、俺は大声で彼女の名前を叫んだ。	어둠 속에서 그녀의 이름을 불렀다.	I shout her name, letting my voice carry in the darkness.	
+196	N/A	突然像是回应我的呼唤般，虚空中一道竖直的金色细线将黑暗划成两半。	像是回應我的呼喚一樣，虛空中突然出現一道筆直的金色細線，將黑暗劃成兩半。	突然、俺の叫びに答えるかのように\n垂直な金色の細いラインが、\n虚空の暗闇を2つに切り裂いた。	나의 부름에 대답하는 것처럼 허공에서 직선의 황금선이 나타나 어둠을 둘로 가른다.	And as if in reply, a thin, vertical golden thread appears in the void, slicing the darkness in half.	
+197	N/A	在黑暗的空间里，从看不到尽头的底部一直延伸到无限遥远的顶部。	在黑暗的空間裡，從看不到盡頭的底部一直向上延伸到無限遙遠的頂端。	黒き空間の遥か底から遠い天空まで、\n金色のラインは無限に伸びる。	어둠의 공간 속에서 끝이 보이지 않는 바닥에서 저 멀리 꼭대기까지 길게 뻗어있다.	It extends all the way from the top of the black space to the very bottom.	
+198	N/A@小怜	那是……门缝？	那是……門縫嗎？	あれは……扉の隙間？	저건……문틈？	Is that... a crack? From an open door?	
+199	N/A	我顾不得脚下马上朝着亮光跑去，却好像怎么跑也无法接近。	我不管會不會踩空了，馬上朝著亮光跑去，卻好像怎麼跑也無法接近。	そう考えた途端、身体が勝手に動いていた。\n\n恐怖も捨てて、光の方へ全力で走る自分がいた。\n\nだけど……いくら走っても近付けない。	발 아래를 신경쓸 틈도 없이 빛을 향해 달려갔다. 어떻게 뛰어도 가까이 다가갈 수 없을 것 같다.	I begin sprinting towards the source of light in desperation. But no matter how fast I go, the “door” doesn’t seem to get any closer.	
+200	N/A	不知跑了多久，体力耗尽的我只能双手扶膝盖停下喘着粗气。	不知跑了多久，體力耗盡的我只能雙手扶著膝蓋停下喘氣。	どれだけ走ろうとも光の景色は何も変わらず、\n次第に体力が尽きてしまう。\n俺は膝に両手をついて荒い息を吐いた。	얼마나 달렸는지, 체력이 모두 소진된 나는 두손을 무릎에 대고 거친 숨을 내뱉었다.	I run for what feels like hours, years, until I’m completely spent, bent over my knees, gasping for air.	
+201	N/A	完全的黑暗会模糊距离的概念，分不清那道光是近在眼前还是在无限远的地方。	完全的黑暗模糊了距離感，我無法判斷那道光究竟是近在眼前還是在無限遠的地方。	完全な暗闇の中だと距離の概念が曖昧になる。\n\n光が目の前にあるのか、無限の彼方にあるのか、\n判断がつかない。	완전한 어둠은 거리의 개념을 흐릿하게 만든다. 그 빛이 눈 앞에 있는지 저 멀리 있는지 구분할 수조차 없다.	The darkness effectively blurs away the concept of distance. I can no longer tell whether that one slit of light is right in front of me, or infinitely far away.	
+202	N/A	也不知那是希望还是绝望。	也不知那是希望還是絕望。	果たしてあれは希望なのか──\n\nそれとも絶望なのか──	저것이 희망인지 절망인지도 알 수 없다.	And will that light bring hope or despair? No idea either.	
+203	N/A@？？？	小怜……	小憐……	レンさん……	렌……	Ren...	
+204	N/A	冥冥中传来一个熟悉的的声音。	冥冥中傳來一個熟悉的的聲音。	闇の中から……聞き慣れた声がした。	어둠 속에서 익숙한 목소리가 들려온다.	A voice, shattering the silence of nothingness.	
+205	N/A@小怜	索娅！？	索婭！ ？	ソヤッ！？！？	소야！？	Sonya?	
+206	N/A	我猛然伸出手，那条金线似乎突然就被我拉到我的面前。	我猛然伸出手，那條金線似乎就這麼被我拉到面前。	不意に手を伸ばした。\n\nすると引き込まれるかのように、\n金色のラインが俺の目の前まで近付いてくる。	손을 뻗으니 그 금선이 갑자기 앞으로 당겨진다.	I reach out blindly, and it’s as if the golden thread has been violently yanked in my direction.	
+207	N/A	我把手伸进门缝中，用力向外拉。	我把手伸進門縫中，用力向外扳開。	手の届く距離に輝きがあると理解した俺は\nそれに両手を差し込み、\n強引に抉じ開ける事を試みた。	나는 문틉 사이로 손을 넣어 힘껏 당겼다.	My hand seems to have made it through the crack, and I begin pulling with all my might.	
+208	N/A	门后那道奇异的金色光芒似乎是光线和声音的混合体，盯着它的时候会有杂乱的噪音涌入脑中。	門後那道奇異的金色光芒似乎是光線和聲音的混合體，盯著它的時候會有雜亂的噪音湧入腦中。	金色の光は視覚と聴覚を混合的に刺激する\n異常な存在だ。\n直視すると、目から乱雑としたノイズが\n流れ込んできて脳を掻き乱す。	문 뒤 그 기이한 빛은 광선과 소리가 섞인 혼합체같다. 바라보고 있으면 혼란스런 잡음이 머릿속에 들어온다.	The eerie golden glow seems to be some sort of combination of light and sound. When I look at it, I hear rumbling noises too.	
+209	N/A@索娅	小怜……	小憐……	レンさん…………	렌……	Ren...	
+210	N/A	索娅的声音就像隔着厚厚的屏障，逐渐被那噪音覆盖，越来越微弱。	索婭的聲音就像隔著厚厚的屏障，逐漸被那股噪音覆蓋，越來越微弱。	ノイズがソヤの声を徐々に覆い尽くし、\n分厚い壁を通したような音に変わった。	소야의 목소리가 두꺼운 장벽 너머로 들리는 것 같다. 그 잡음에 묻혀 점점 더 미약해진다.	Sonya’s voice, as if coming from behind by a thick barrier, slowly fades away in the heavy thundering, until it’s barely audible.	
+211	N/A	我用尽全力扒开那道门，眼看缝隙被我越拉越大，那股噪音也越来越强。	我用盡全力扒開那道門，眼看縫隙被我越拉越大，那股噪音也越來越強。	全身の力を使って扉を開ける事に集中する。\n\n扉の隙間が大きくなると共に、ノイズも比例して\n強くなっていく。	나는 힘껏 그 문을 열었다. 틈이 점점 더 커지고 그 잡음도 점점 더 강해진다.	I use everything I have to claw at the door, dragging it open bit by bit, the noise roaring in my head.	
+212	N/A	停下──！！\n住手！！！！	停──！ ！\n給我住手！ ！！ ！	うるさい――ッ！！\n\n黙れッッッ！！！！！	그만──！！\n멈춰！！！！	Stop!\nStop it!	
+213	N/A	杂乱的噪音渐渐融为一体，就像无数人在同时对我呐喊。	雜亂的噪音漸漸合而為一，就像無數人同時對我吶喊。	まるで無数の人間が同時に叫ぶかのような。\n\n乱雑なノイズが徐々に1つになっていく。	난잡한 잡음이 점점 일체가 되고, 수많은 사람들이 동시에 내게 외치는 것 같다. 	The noise explodes into a cacophony of voices, as if millions of people are screaming at me all at once.	
+214	N/A@小怜	我管你那么多──！！	誰、理、你、啊！ ！	お前らなんか……ッ！！！！ \n\n知ったぁ事かあああぁぁぁッッッ！！！！	신경 꺼──！！	No way I’m stopping!	
+215	N/A	无视那个巨大意识体的阻挠和咒骂，我用尽全力将门拉开到足够让人通过的程度。	我不理會那個巨大意識體的阻礙和咒罵，用盡全力將門拉開到足以讓人通過的寬度。	襲い来る巨大な意識体の絶叫と罵声を\n跳ね除ける。\nそして必死に扉に力を込め、なんとか1人分\n通れる程度の隙間を作り上げた。	그 거대한 의식체의 저지와 저주를 무시하고 사람이 통과할 수 있을 정도로 문을 힘껏 당겼다.	I ignore the curses and shrieks, using every ounce of my strength to peel the door open, until the crack is big enough for someone to come through it.	
+216	N/A	虽然除了刺眼的金光外什么都看不到，但我能强烈的感到索娅就在门的另一侧。	雖然除了刺眼的金色光芒以外，什麼都看不到，但我能強烈感覺到索婭就在門的另一側。	まぶしい金色の光以外は何も見えないが、\nソヤが扉の向こうにいる事を強く感じる。	눈부신 빛을 제외하고 아무 것도 볼 수 없었지만 소야가 문 안에 있는 것 같은 강렬한 느낌이 든다.	I can’t see a thing now except blinding golden light. But something inside me is convinced that Sonya’s on the other side of the door.	
+217	N/A	我做了个深呼吸，将胳膊伸进门内，拉住那只柔软手腕的一瞬间我就知道是她──	我做了個深呼吸，將手臂伸進門內，握住那個柔軟手腕的瞬間，我就知道找到了──	俺は深呼吸した後、扉の中に片手を入れた。\n\n光の中で見つけた柔らかい腕……\n\n彼女の腕を俺は決して離さない──	깊게 숨을 들이마시고 팔을 문 안으로 넣었다. 연약한 손목을 잡히자 그녀라는 걸 직감적으로 깨달았다──	I take a deep breath and thrust my arm inside. The second I wrap my fingers around the soft wrist, I know I’ve found her.	
+218	N/A	我一把将索娅拽出来，门内的金光像是被撕开逆鳞的巨龙一般，突然发出凄烈刺骨的嚎叫。	我一把將索婭拉出來，門內的金色光芒像是被撕開逆鱗的巨龍一樣，突然發出淒烈刺骨的嚎叫。	一気にソヤを引っ張り出す。\n\n逆鱗を剥かれたドラゴンのような悲鳴を、\n金色の光が叫び散らかした。	소야를 잡아 끌자 문 안의 금빛이 비늘이 찢긴 거대한 용처럼 날카로운 비명을 내지른다.	I yank Sonya out as the golden light screeches on, like a dragon whose scales have been torn off the wrong way.	
+219	N/A@索娅	小怜！	小憐！	──レンさんっっ！！！	렌!	Ren!	
+220	N/A	索娅娇小的身躯在我怀中吓得不停发抖，眼看那道光就要夺门而出将我们吞噬。	索婭嬌小的身軀在我懷中嚇得不停發抖，眼看那道光就要奪門而出吞噬我們。	ソヤの小さな身体が、腕の中で震え続けていた。\n\n金色の光は今にも扉を突き抜け、\n俺達を飲み込もうと迫っている。	소야의 작은 몸이 나의 품 안에서 떨고 있다. 그 빛이 문을 박차고 나와 우리를 삼킨다.	The next thing I know, Sonya is there, right there, trembling in my arms, as the light descends upon us, ready to devour us whole.	
+221	N/A	我左手轻轻抚着她的头，扭头盯着那道已经泛出微红色光晕的暴怒的光芒──	我左手輕輕撫著她的頭，回過頭盯著那道已經泛出微紅色光暈的暴怒光芒──	左手でソヤの頭を軽く撫で、\n俺は猛りながら赤く滲み出す光を睨んだ。	왼손으로 그녀의 머리를 쓰다듬으며 붉은색을 띈 분노의 빛을 흘겨봤다──	I pet Sonya’s head gently with my left hand and turn around to glare at the raging light, which is now thrumming in a faint red.	
+222	N/A@小怜	滚回去。	滾回去！ ！	────失せろ。	꺼져.	Get lost.	
+223	N/A	那光就像笼中的猛兽般对我不停愤怒的嘶吼着，却无法越出大门半步。	那光芒就像困在籠中的猛獸般不停憤怒嘶吼著，卻始終無法跨出大門半步。	檻の中の猛獣のように憤怒の絶叫を\n俺に浴びせ続けたが、\nその光が扉の外へと出てくる事はなかった。	그 빛은 우리 안에 갇힌 야수처럼 날 향해 끊임없이 분노의 비명을 질렀지만 문을 통과하진 못한다.	The beam of light continues roaring at me like a caged monster, but I know it cannot reach us now.	
+224	N/A	我伸出右手，将那道门缓缓合上。	我伸出右手，把那道門慢慢關上。	俺は右手を伸ばして、扉をゆっくりと閉じる。	나는 그 문을 천천히 닫으려 오른손을 뻗었다.	I use my free hand to gently close the door.	
+225	N/A@索娅	别碰──	別碰──	触っちゃ……ダメ……	만지지마──	Don’t touch the door—	
+226	N/A	索娅一把将我的手拉回来，却发现手掌并没有什么异样。	索婭一把將我的手拉了回來，卻發現我的手掌沒有任何異樣。	ソヤが俺の手を持って止めるが、俺の手に\n異常は発生していない。	소야가 나의 손을 잡아당긴다. 손바닥에 아무런 이상도 없다. 	Sonya cries out, trying to pull my hand back. But she then sees that my palm contains no hostile black traces from the door.	
+227	N/A	反倒是门上像烙铁一样，印上了我的手印。	反倒是門上印了我的掌印，宛如烙鐵烙下的痕跡。	逆に扉には、俺の手形が焼印のように\n貼り付いていた。	하지만 문 위에 인두처럼 나의 손자국이 각인됐다.	Instead of the door leaving its evil traces on me, I seem to have left a trace of myself on the door, in the form of a handprint.	
+228	N/A@小怜	没事。	妳看，沒事的。	──大丈夫。	괜찮아.	See? I’m fine.	
+229	N/A	我对她笑笑，继续用力推门，直到光线与声音渐渐消失在黑暗中……	我對她笑了笑，繼續用力推門，直到光線與聲音漸漸消失在黑暗中……	俺はソヤに笑顔を向けてから、光と音が闇の中へ\n消え去るまで扉を押し続ける。	그녀를 향해 욷으며 계속해서 문을 밀었다. 그 빛과 소리가 어둠 속으로 사라질 때까지……	I smile at Sonya, continuing to push the door, until the light and screams gradually disappear into nothingness.	
+230	N/A	在门完全关闭的同时，周围的光线与背景噪音瞬间恢复。	門完全關上的同時，周圍的光線與背景噪音瞬間恢復了。	扉が完全に閉まったと同時に、方舟基地の\n光と音が帰ってきた。	문을 완전히 닫자 주위 빛과 잡음이 순식간에 돌아왔다.	And as the door finally closes fully, I can see again, hear again. We’re back in the lab.	
+231	索娅	这里是……	這裡是……	ここ……は……っ？	여긴……	Where am I…	
+232	N/A	索娅不安的张望着四周。	索婭不安地張望著四周。	ソヤが不安そうに周囲を見渡す。	소야가 불안한 듯 주위를 둘러본다.	Sonya is sitting on the platform, eyes darting around frantically.	
+233	小怜	放心，我们回来了。	放心，我們回來了。	大丈夫……俺達、帰ってきたよ。	걱정마. 돌아왔어.	Hey, it’s okay. We’re safe now.	
+234	N/A	看到我们，海因里希从浮桥另一侧冲了过来。	看到我們，海因里希從浮橋另一側衝了過來。	俺達の姿を見ると、ハインリッヒが浮橋の\n向こうから飛び出してきた。	우리를 본 하인리히가 다리 건너편에서 이쪽으로 뛰어온다.	Henriette comes dashing over to us from the other end of the bridge.	
+235	海因里希	主人！\n你消失了两个多小时──	主人！ \n妳消失了兩個多小時──	マスター！\n2時間以上も消えていましたが──	주인님!\n두시간이나 사라졌어요──	Master!\nYou were gone for two hours!	
+236	索娅	主人？	主人？	ま、ますたー？	주인님?	Master?	
+237	N/A	索娅瞄我一眼。	索婭瞄了我一眼。	ソヤが俺をちらりと見る。	소야가 날 쳐다본다.	Sonya turns and gives me a suspicious look.	
+238	小怜	啊？有那么久吗……	啊？ 有那麼久嗎……	え？ そんなに長かったのか……？	아? 그렇게 오래됐어……?	Huh? Two hours?	
+239	N/A	感觉上只有十分钟左右……	感覺上只有十分鐘左右……	10分ぐらいのような感じだったけど……	십분 밖에 안 지난 것 같은데……	It felt like either ten minutes or twenty years have passed. Not two hours.	
+240	N/A	海因里希追问我们刚才的情况，听到我在门上留下手印的时候，忍不住大笑起来。	海因里希追問我剛才的情況，聽到我在門上留下手印的時候，忍不住拍手大笑。	俺達の身に起きた事をハインリッヒに説明した。\n\n俺が扉に手形を残してきたと聞いた途端、\n彼女は大笑い始める。	하인리히가 방금 전 상황을 묻고, 문 위에 손자국 남겼다는 걸 듣자 참지 못하고 폭소한다.	Henriette demands that we fill her in on what happened. When we get to the part where I left a handprint on the door, she bursts out laughing.	
+241	N/A	我看着宏伟的基地大厅，刚刚的一切有种恍若隔世的感觉。	我看著宏偉的基地大廳，有種恍若隔世的感覺。	地下基地のホールを見ると、先程までの出来事が\n現実でないように思えてきた。	커다란 기지 로비를 바라봤다. 방금 그 모든 것이 마치 딴 세상 같은 느낌이다.	Everything seems surreal to me now as I look around at the grand lobby of the domed base.	
+242	N/A	与此同时，浮桥另一侧。	在此同時，浮橋另一側。	──同時刻。浮橋の反対側。	이 시각. 다리 반대편.	<Meanwhile, on the other end of the suspended bridge>	
+243	爱衣	在他们回来之前有5秒左右的时间，全世界都接收到剧烈的时空相位波动。	她們回來之前大約有5秒左右的時間，全世界都接收到劇烈的時空相位波動。	彼女達が戻る前の5秒間ほど、世界中で激しい\n時空位相波動が発生したみたい。	저 둘이 돌아오기 5초 전, 전세계가 강렬한 시공 상위 파동을 받았어.	A dramatic spacetime flux had been detected all over the world for around five seconds when the two of them returned.	
+244	爱衣	不过因为信号太过强烈，估计他们无法判断出源头。	不過因為訊號太過強烈，其他人應該無法判斷出源頭。	だけど信号が強すぎるから、発信源がここだって\n特定するのは無理だろうね。	하지만 신호가 너무 강렬해서 출처를 알아낼 수 없을 거야. 	No one would be able to trace it to us though, since the signal was too strong and impossible to capture.	
+245	爱衣	除非……	除非……	ただ……	하지만……	Unless…	
+246	莉琉	除非什么？	除非什麼？	ただ、なんだ？	하지만 뭐?	Unless what?	
+247	爱衣	除非有人像我这样──	除非有人像我這樣──	私と同じ事をしてる人がいたら──	하지만 나같은 사람이 있어──	Unless someone was doing the same thing I did...	
+248	N/A	爱衣将手中的平板设备递给莉琉。	愛衣將手中的平板裝置遞給莉琉。	愛衣はタブレットをマリルに渡す。	아이가 태블릿 기기를 마리루에게 건넨다. 	Aya hands her tablet to Mariru.	
+249	N/A	屏幕上，一道金红色的光芒穿过大气层直冲天际。	螢幕上，一道金紅色的光芒穿過大氣層直衝天際。	画面には天空から宇宙の果てまでも貫く、\n赤く滲んだ金色の光が映っていた。	스크린안에 붉은색 빛이 대기층을 뚫고 하늘을 향해 뻗어있다.	On the screen is a stunning rose-gold beam of light, breaking straight through the atmosphere into the skies.	
+250	N/A@莉琉	这是……	這是……	これは……	이건	What’s…	
+251	N/A@爱衣	这道光持续有5秒左右，虽然肉眼无法看到，是我将探测相位波动的卫星调集过来拍到的──	這道光持續了5秒左右，肉眼無法看到，是我將探測相位波動的衛星調過來才拍到的──	この光は位相波動を探知する衛星を使用して\n私が撮影した物だよ。\n発生した位相波動と同じく5秒ほど続いたけど、\n肉眼では認識できない……	이 빛은 5초간 지속됐어. 육안으로 확인할 수 없지만 상위 파동 탐측 위성으로 찍은 거야──	The beam isn’t visible to the naked eye. I captured it through a dozen satellites used to sense phase fluctuations.	
+252	N/A@爱衣	当时我鸡皮疙瘩都出来了，以为世界末日终于要降临了呢。	當時我雞皮疙瘩都冒出來了，以為世界末日終於降臨了呢。	もう鳥肌モノだよこれ。\n世界の終焉が来たかと思った。	당시 온 몸에 소름이 돋았어. 세계 종말이 시작된 줄 알았거든. 	It was right there, for around five seconds. Gave me the creeps! I thought doomsday’s come for sure.	
+253	N/A	爱衣的声音有些颤抖，不知是恐惧还是激动。	愛衣的聲音有點顫抖，不知是恐懼還是激動。	恐怖によるものか、それとも興奮しているのか、\n愛衣の声は少し震えている。	아이의 목소리가 조금 떨린다. 공포 때문인지 흥분 때문인지 알 수 없다. 	Aya’s voice trembles. From fear or excitement? Who knows.	
+254	N/A	爱衣望着浮桥对面的三人。	愛衣望著浮橋對面的三人。	愛衣は浮橋の向こうにいる3人を確認する。	아이가 다리 반대편 세사람을 바라본다.	She raises her head to look at the trio at the other end of the bridge.	
+255	爱衣	你不是想收编她吗？要不要用保险措施……	妳不是想收編她嗎？ 要不要用保險措施……	彼女を確保したいんじゃないの？ \n保険は……いる？	저 아이를 처리한다고 하지 않았어? 보험 대책을 사용하는 게 어때……	You want to take her in as one of us, right? Shall we go with the safest method—	
+256	N/A	莉琉对着平板叹了口气，望向远处正抱住小怜疯狂骚扰索娅。	莉琉對平板嘆了口氣，再抬頭望向遠方正瘋狂騷擾小憐的索婭。	マリルはタブレットに向かって溜め息をついた。\n\n向こう側を見れば、タガの外れたソヤがレンに\n抱き着いてセクハラをしまくっている。	마리루가 태블릿을 향해 한숨을 쉬고 저 멀리 렌을 껴안은 채 소란을 피우는 소야를 바라본다.	Mariru sighs and glances up at Henriette, who’s hugging Ren while teasing Sonya.	
+257	莉琉	暂时……不需要吧。	暫時不需要吧。	今しばらくは……必要なさそうだな。	일단은……됐어.	Eh, not now.	
+258	N/A	第二天。	第二天。	──翌日	다음 날.	<The following day>	
+259	N/A@新闻	今天中午，联合议会的闭门会议结束，并于今天下午一点召开新闻发布会。	今天中午，聯合議會的閉門會議終於結束，並於今天下午一點召開了記者會。	本日の正午、連合議会の閉鎖会議が遂に\n終了いたしました。\nそして午後1時より、記者会見が開かれた\n模様です。	금일 정오에 연합의회의 비밀 회의가 종료된 후 오후 1시 뉴스 발표회가 개최됐습니다.	The closed meeting of the United Congress ended at noon today. A press conference was held at one p.m.	
+260	N/A@新闻	发布会上公布了数十项合作计划，第三学园都市总理施恩内曼宣布将在未来三年内逐步裁军。	記者會上公佈了數十項合作計劃，第三學園都市總理施恩內曼宣佈將在未來三年內逐步裁軍。	会見ではそれぞれの協力項目が発表されました。\n\nまずマサダブルクのシャイネルマン首相は、\nこれからの3年間で段階的に軍縮する事を宣言。	발표회에서 수십 항목의 합작 계획이 공개됐는데요. 제3학원도시 총리 슈니만이 3년 군축 계획 발표했습니다.	In the conference, dozens of collaboration projects were announced. Scheinermann, Prime Minister of the Third Academy City, declared that the nation would be working on disarmament within the next three years.	
+261	N/A@新闻	为应对可能的突发情况，各国同意逐步将一批EX异质物运往萨蒙顿进行保管。	為應對可能的突發狀況，各國同意逐步將一批EX異質物運往薩蒙頓進行保管。	次に突発的な状況の対応策として、各国は一部の\nEX異質物の移送を認め、\nサモントンにて保管する事を決定。	돌발 상황해 대비하기 위해 각국이 EX이물질을 살몬톤이 보관하는 것을 동의했습니다.	In order to deal with possible emergencies, the nations have unanimously agreed to send a batch of EX-class Substance H to Salmonton for “safekeeping”.	
+262	N/A@新闻	戴克斯博士表示近期将宣布一个重大消息……外界对此猜测不断。	戴克斯博士表示近期將宣佈一個重大消息……外界對此猜測不斷。	デックス博士は近く重大発表があるとしており、\n外部から憶測が絶えない状況となっております。	덱스 박사가 근래 중대한 소식을 발표한다고 말해……외부에서 이에 대한 추측이 끊이지 않습니다. 	Dr. Deckers has teased a coming announcement of something major... netizens offer many interesting theories.	
+263	N/A	莉琉关上了大屏幕上的新闻。	莉琉關掉了新聞頻道。	マリルは巨大スクリーンに映るニュースを\n閉じた。	마리루가 스크린 위 뉴스를 끈다. 	Mariru groans and shuts off the TV.	
+264	莉琉	果然对那么大规模的游行只字不提──	完全不提那麼大規模的遊行，果然是媒體啊──	あれほどの大規模なデモが起きたというのに、\nやはり一言も触れないか──	역시 대규모 시위 행렬에 대해서는 한마디도 하지 않는 군──	They didn’t mention a thing about the marches. Well, just like I expected.	
+265	小怜	索娅的检查结果怎么样了？	索婭的檢查結果怎麼樣了？	ソヤの検査結果はどうだった？	소야의 검사 결과는 어때？	How’s Sonya’s examination results coming?	
+266	莉琉	经过爱衣的全面检查，确认索娅体内的那种黑色异质物已全部消失。	經過愛衣的全面檢查，確認索婭體內的那種黑色異質物已經全部消失了。	ああ、特に異常もなかったさ。\n体内の黒い異質物は全て消失した様子だ。	아이의 검사를 통해 소야 체내의 각종 흑색 이물질이 모두 사라진 걸 확인했어.	Aya checked her thoroughly. The dark substance in her body is all gone.	
+267	莉琉	不过不像贝阿特丽切和海因里希，她的身体还保持着原来的样子──	不過跟貝阿特麗切和海因里希不同，她的身體還是原來的樣子──	さらにベアトリーチェやハインリッヒと違って、\n元の身体構造から変化もなかったらしい。	하지만 베아트리체, 하인리히와 달리 소야의 몸은 기존의 모습을 유지하고 있어──	Besides that, still same old Sonya. Her body didn’t undergo any changes, unlike Beatrice and Henriette.	
+268	莉琉	无论抗体结构还是体内的放射性同位素，都是14岁少女的正常状态。	無論抗體結構還是體內的放射性同位素，都是14歲少女的正常狀態。	体内の抗体構造と放射性同位体は間違いなく、\n14歳女性の正常な状態だと結果が出ている。	항체 구조와 체내 방사성 동위 원소 모두 14세 소녀의 상태와 똑같아.	Antibody structure, radionuclide level, various other figures—all normal. Like an average fourteen-year-old girl.	
+269	N/A	听到这里我长舒一口气。	聽到這裡我終於放下心來。	それを聞いて、ようやく俺は気が休まった。	난 안도의 한숨을 뱉었다.	I exhale in relief.	
+270	莉琉	不过奇怪的是，索娅的脚环也消失了，要知道她的衣服上还残留着那些黑衣士兵的血迹……	不過奇怪的是，索婭的腳環也跟著消失了，但她的衣服上還殘留著那些黑衣士兵的血跡……	不思議なのは、ソヤの装着していた足輪が\n跡形もなく消えてしまった事だ。\n服は戦闘時に付着した血液が残っていたから\n元と同じ物だと判明しているが……	이상한 건, 소야의 발찌가 사라졌다는 거야. 옷 속에 남은 사병드의 혈흔을 알아내야 하는데……	What’s weird, though, is that her anklet disappeared. Yet it was the only that did. Even the blood of the soldiers she killed could still be detected from her outfit...	
+271	小怜	是因为脚环上有异质物金属吗？	是因為腳環上有異質物金屬嗎？	足輪に異質物が使われていたからかな？	발찌에 이물질 금속이 있기 때문일까？	So... why is the anklet the only thing that’s gone? Because it’s got Substance H in it?	
+272	莉琉	不清楚，不过我从没见过爱衣那么累……	不知道，不過我從來沒看過愛衣那麼累。	……分からん。\n\nとはいえ、あれほど疲れた姿見せた愛衣は\n今までに見た事がないな……	확실하지 않아. 아이가 그렇게 힘들어 하는 건 처음 봤어……	No idea, but Aya seemed to be having the time of her life examining Sonya...	
+273	小怜	……啥？	……什麼？	……どういう事？	……뭐 ?	... What?	
+274	莉琉	昨天爱衣的实验室里不断传出不知是大笑还是惨叫的声音，持续了一整晚。	昨天愛衣的實驗室裡不斷傳出不知是大笑還是慘叫的聲音，整晚沒停過。	昨日の愛衣の実験室は一晩中、笑い転げてるのか\n悲鳴なのか分からない声が続いていた。	어제부터 아이의 실험실에서 웃음소리인지 울음소리인지 모를 소리가 하루종일 났어.	I heard a lot of laughing and screaming coming from her lab last night. Went on for a whole night.	
+275	莉琉	两个人出来时双双累的虚脱，爱衣回办公室在沙发上倒头就睡，现在还没醒。	她們兩個人走出來時累到虛脫，愛衣回到辦公室一躺在沙發上就起不來了，到現在還沒醒。	2人が実験室から出てきた時には完全に\n消耗しきった状態だったな。\nオフィスに戻った瞬間にソファーで倒れて、\n2人とも未だ眠っている。	두 사람 모두 허탈한 상태로 나왔고 아이는 사무실 소파에서 잠든 후 아직도 일어나지 않았어.	When the two of them left the lab, they seemed exhausted. Aya crashed on the couch the second she got back to her office. Hasn’t woken up yet.	
+276	N/A	她们俩到底做了什么啊！！！	她們到底做了什麼事情啊！ ！！ ！	あいつら一体何をしてたんだよッ！？	그 두 사람 도대체 뭘 한 거야！！！	Wow, what did they do exactly?	
+277	莉琉	另外……	另外……	それと……	그리고……	By the way...	
+278	N/A	莉琉在大屏幕上调出一份档案。	莉琉調出一份檔案顯示在螢幕上。	マリルはスクリーン上で1つのファイルを\n開いた。	마리루가 스크린 위에 파일을 띄운다.	Mariru calls up a file on the big screen.	
+279	莉琉	经过SID和保安军的全面统计，天国之门的感染者总共只有326人。	經過SID和保安警察的全面統計，天國之門的感染者總共只有326人。	SIDと保安軍の統計によると、『天国の扉』の\n感染者は合計326人。	SID와 보안군의 전면 통계를 통해 천국의 문 감염자가 총 326명이라는 걸 알아냈어. 	According to the statistics from SID and the security soldiers, only three hundred and twenty-six civilians were affected by Heaven’s Door.	
+280	小怜	……才这么点？	……才這麼一點點？	……たったそれだけなのか？	……그렇게 적다고？	... That few?	
+281	莉琉	而且这326人中实际参加游行的只有两百多人。	而且這326人當中，實際參加遊行的只有兩百多人。	しかもデモに参加していたのは326人中、\n大体200人ぐらいだ。	게다가 이 326명 중 실제 시위에 참여한 사람은 200명 정도 밖에 안돼.	And out of them, only some two hundred actually went to the rallies.	
+282	莉琉	可以说正是这两百多个小火星，点燃了总计十几万人的游行示威，并引发了七处暴乱。	但就是這兩百多個星星之火，點燃了超過十幾萬人的示威遊行，並引發了七處暴動。	この200個の小さな火花が合計何十万人にも\n及ぶデモの参加者に火をつけ、\n7つの場所で暴動を引き起こしたといっても\n過言ではないだろう。	이백여개의 작은 화성이 수십만명의 시위에 불을 붙이고 7개 지역의 폭동을 일으킨 셈이지.	It’s like these two hundred sparks ignited a whole march with more than a hundred thousand involved. Also caused seven riots.	
+283	莉琉	人一旦成为群体的一员，他的所作所为就不会再承担责任，每个人都会暴露出自己不受约束的一面。	人一旦成為群體的一分子，就不會想再承擔自己的社會責任，於是每個人都會暴露出最不受約束的那一面。	ひとたび集団の一員になると個別の行動に\n責任を背負う必要がなくなり、\n人間は無責任な一面を曝け出すようになる。	인간은 무리의 일원이 되면 책임감을 벗어버리고 속박을 받지 않는 다른 면을 폭로하게 돼.	When a human becomes part of a group, they no longer have to be responsible for their own actions. That’s when they go wild, revealing their deepest desires.	
+284	莉琉	一个狂热分子顶多能煽动周围的几十个人，但这些人的情绪可以互相加强，并向更广的地方蔓延。	一個狂熱分子頂多能煽動周圍幾十個人，但這些人的情緒可以互相加強，並且繼續蔓延。	1人の狂信者につき10人程度を扇動するのが\n関の山ではあるが、\nしかし人の情緒は扇動される度に互いの力を強め\nねずみ講のように広範囲に蔓延していく。	광신도 한 명은 주변의 몇십명만 선동시킬 수 있지만 이들의 감정이 점차 강해져 먼 곳으로 확산돼.	A single fanatic can only incite excitement in maybe a dozen people around him. But that dozen people can become fanatics too after seeing that there are others like them. And then, dozen by dozen, the passion spreads.	
+285	N/A	听到这里，我不禁背脊发凉……	聽到這裡，我不禁背脊發涼。	そうやって聞くと、背筋が冷えてくる……	나도 모르게 등골이 서늘해진다……	A chill runs down my spine.	
+286	莉琉	不过我还是想问你，在那个黑暗空间的时候，你怎么知道那道光不会冲出门？	不過我還是有個問題，在那個黑暗空間中，妳怎麼知道那道光不會衝出門？	そういえば、お前に聞きたい事があった。\n\nあの暗闇の空間の件だが、なぜあの光が\n扉の外から出られないと分かったんだ？	묻고 싶은 게 있어. 그 어두운 공간에 있을 때 어떻게 그 빛이 문을 나오지 못하는 걸 알았지?	But what I’d really like to know is... back when you were in that dark void, how did you know that the light wouldn’t reach beyond the door?	
+287	小怜	其实我也不确定……	其實我當時也無法確定……	実は俺も良く分かっていないんだ……	사실 나도 잘 몰라……	I’m not sure either...	
+288	小怜	但如果它能自己出来，就不用蛊惑人去开门了吧？	但如果它能自己出來的話，就不用蠱惑其他人去開門了吧？	でも、アレが自力で外に出られるのなら……\n\n人に扉を開けるように言い聞かせる必要は\nないんじゃないかなって。	하지만 스스로 나올 수 있었다면 다른 사람을 꾀어서 그 문을 열게 하지 않았겠지?	But if it could leave by itself, it wouldn’t have needed to entice humans to open it, right?	
+289	N/A	莉琉笑着摸了摸我的头。	莉琉笑著摸了摸我的頭。	マリルは微笑みながら俺の頭を撫でた。	마리루가 웃으며 나의 머리를 쓰다듬는다.	Mariru smiles and pets my head fondly.	
+290	莉琉	冷静分析，大胆下注……	冷靜分析，大膽下注……	冷静に分析し、大胆な賭けをする……	냉정한 분석, 대담한 결정……	A calm analyst, a bold gambler...	
+291	莉琉	没准你也挺有天赋的呢~	沒想到妳也挺有天賦的呢～	お前は案外才能があるかもしれないな～～	너도 꽤 재능 있는 걸~	Maybe you’re a talented one yourself too.	
+292	N/A	过奖了！其实我当时也吓傻了，昨晚回家通宵打游戏一夜都没敢睡……	過獎了！ 其實我當時也嚇傻了，昨晚回家玩遊戲一整晚都不敢睡……	ほ、褒めすぎだってマリル！\n\nあんな決断をした自分に今も驚きっ放しだし、\nそのせいで昨日の夜とか眠れなくて……\n気を紛らわせるためにゲームしてたら、\n結局一睡もできない状態で朝に……	사실 나도 당시에 너무 놀라, 어제밤 집에 돌아가서 게임을 하며 밤을 샜다……	No way! No way a terrified kid who had to play video games all night to forget the horror he saw could be talented!	
+293	莉琉	教宗大人似乎对艾尔加纳的研究并不知情，相关经费也都是通过电子加密货币调拨的。	教宗大人似乎對艾爾加納的研究並不知情，相關經費也都是透過電子加密貨幣調撥的。	教皇様もエルガノの研究は知らなかったようだ。\n\n研究の関連経費も電子暗号化通貨で\n調達されていた。	교황은 엘가나의 연구에 대해 전혀 모르고 있었던 것 같아. 경비도 전자 비밀 화폐로 충당했어.	The Pope doesn’t seem to know a thing about Elgana’s research. She received her funds through encrypted currency.	
+294	莉琉	天堂之门原是弗洛伦撒圣约翰洗礼堂的大门，诗人但丁当年就是在那里受洗的。	天堂之門原本是佛羅倫斯聖若翰洗者洗禮堂的大門，詩人但丁當年就是在那裡受洗的。	天国の扉は元々、フィレンツェにあった\nサン・ジョヴァンニ洗礼堂の正門だ。\n詩人ダンテもそこで洗礼を受けている。	천국의 문은 원래 플로렌스 성 요한 세례당의 대문이야. 시인 단테가 그곳에서 세례를 받았어.	Heaven’s Door used to be the gate of the Florence St. John Baptistery. That was where Dante Alighieri was baptized.	
+295	莉琉	唉，可惜在战争中被毁掉了……	唉，可惜在戰爭中毀掉了……	残念ながら、戦争によって壊されたが……	전쟁 중에 모두 타버리긴 했지만……	Too bad it got destroyed in a war...	
+296	小怜	圣……约翰？	聖……約翰？	あれ？ サン・ジョヴァンニって\n聖人ヨハネの……\n英語でセント・ジョン……	성……요한？	St. John...? John?	
+297	小怜	（啊哈哈，只是巧合吧？）	（啊哈哈，只是巧合吧？ ）	（あはは、ただの偶然だろ）	（아하하, 그냥 우연이겠지？）	(Haha, probably just a coincidence, right?)	
+298	小怜	（说来，不知道那家伙伤势怎么样了……）	（話說回來，不知道那傢伙的傷勢怎麼樣了……）	（そう言えば……）\n\n（あいつの怪我ってどうなったんだろう……）	（그나저나, 그 녀석의 부상은 어떻게 됐을까……）	(Hmm, I wonder how that guy’s doing...)	
+299	N/A	昏暗的房间内，少年一瘸一拐的拿着手机。	昏暗的房間內，少年一拐一拐地拿著手機。	──薄暗い部屋の中。\n\nジョンは足を引きずりながら携帯を持つ。	어두운 방 안, 소년이 절뚝거리며 휴대폰을 쥐고 있다.	In a dimly-lit room, the limping youth is talking on his phone.	
+300	N/A@约翰	啊──疼疼疼疼疼……	啊──痛痛痛痛……	ッッ――いたたたた……	아──아파……	Ow ow ow ow!	
+301	约翰	唉，还是太冲动了啊……	唉，還是太衝動了啊……	う～ん…やはり衝動的過ぎだったかな……	에휴, 너무 충동적이였나……	Ugh, my leg... that was so stupid of me...	
+302	N/A	为了接触她不惜消除自己的记忆，这样值得吗！？	為了接近她而不惜消除自己的記憶，這樣值得嗎！ ？	「彼女と接触するため自分の記憶を消すとは…」\n\n「そこまでする価値があるのか？」	그녀에게 접근하기 위해 스스로의 기억을 지우다니, 이럴 가치가 있다고 생각해!?	To meet her, you were willing to sacrifice your memories... was it really worth it?	
+303	N/A	电话另一头传来责备的声音。	電話另一頭傳來責備的聲音。	電話の向こうから非難の声が聞こえてきた。	수화기 너머로 꾸짖는 목소리가 들려온다.	On the other end of the receiver, a reprimanding voice can be heard.	
+304	约翰	啊哈哈──别这么生气嘛。	啊哈哈──別這麼生氣嘛。	あはは――そんなに怒らないでよ。	아하하──너무 화내지마.	Hey, chill! Don’t be mad!	
+305	N/A	约翰憨憨的笑了笑，走到桌边敲击着键盘。	約翰憨憨地笑了笑，走到桌邊敲打著鍵盤。	ジョンは無邪気に笑いながら、机の側で\nキーボードを叩いた。	요한이 웃으며 테이블로 걸어가 키보드를 두드린다.	John grins, face innocent and oafish, as he sits down by the desk and begins typing.	
+306	N/A@约翰	还是…挺值得的嘛……	還是……挺值得的呢……	結構……価値はあったからね……	꽤…가치있었어……	It was... totally worth it...	

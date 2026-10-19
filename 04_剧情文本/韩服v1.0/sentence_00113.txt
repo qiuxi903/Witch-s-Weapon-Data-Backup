@@ -1,0 +1,7 @@
+﻿1	引导精灵	魔女所拥有的[ff9c00]『兵器』[-]可通过强化进行[ff9c00]『提升』[-]，查看兵器请先进入魔女详情页面\n	魔女所擁有的[ff9c00]「兵器」[-]可透過強化進行[ff9c00]「提升」[-]；若要查看兵器，請先進入魔女詳情頁面\n	魔女が所有する[ff9c00]『兵器』[-]は強化による[ff9c00]『上昇』[-]も可能。兵器の詳細は魔女の画面からアクセスできるよ。\n	마녀가 보유한 [ff9c00]『병기』[-]는 강화를 통해 [ff9c00]『향상』[-]할 수 있어. 마녀 상세 화면에서 병기 정보를 확인할 수 있어.\n	Enhance [ff9c00]weapons[-] to [ff9c00]increase[-] their attributes. Go to the Witch interface to view their weapons.	
+2	FocusTrigger	
+3	FocusTrigger	选择魔女	選擇魔女	魔女を選択	마녀 선택	Select Witch	
+4	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	
+5	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	
+6	FocusTrigger	
+7	FocusTrigger	选择献祭	選擇獻祭	イモレーションを選択	제물 선택	Select Enhance	

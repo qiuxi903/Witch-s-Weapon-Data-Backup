@@ -1,0 +1,5 @@
+﻿1	引导精灵	『世界的观测者』为每个达成[ff9c00]成就[-]的人都准备了丰厚的奖励，来看看吧~	「世界的觀測者」為每個達成[ff9c00]成就[-]的人都準備了豐厚的獎勵，來看看吧~	『世界の観測者』は[ff9c00]実績[-]を達成した者に豪華な報酬を用意してるよ♪それじゃあ見てみよう～	『세계의 관찰자』는 [ff9c00]업적[-]을 달성한 사람에게 풍부한 보상을 지급해줘. 확인해보자~	Awesome rewards await upon completing each and every [ff9c00]achievement[-]! Take a look!	
+2	FocusTrigger	
+3	FocusTrigger	
+4	FocusTrigger	
+5	引导精灵	在这里可以查看[ff9c00]成就[-]的达成情况并领取奖励。	這裡可以查看[ff9c00]成就[-]的達成情況並領取獎勵。	ここでは[ff9c00]実績[-]の達成状況の確認と報酬を受領できるよ。	여기서 [ff9c00]업적[-]의 달성 상황을 확인하고 보상을 수령할 수 있어.	You can view the completion status of the [ff9c00]achievements[-] and collect your rewards here.	

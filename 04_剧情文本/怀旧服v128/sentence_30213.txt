@@ -1,0 +1,137 @@
+﻿1	N/A	或许你曾听说过这样的故事──	或許你曾聽過這樣的故事──	──こんな話を聞いた事があると思う。	이런 이야기를 들어본 적이 있을 것이다──	Perhaps you’ve heard stories like this before...	
+2	N/A	士兵在厮杀结束之后，才发觉自己的身体早已严重受伤甚至开膛破肚。	有些士兵在廝殺結束後，才發覺自己早已受到重傷，甚至開膛破肚。	自らの身体に酷い怪我を負っても、\n例え腹部に穴を開けられたとしても、\n兵士は殺し合いが終わるまで気付かない。	병사가 교전이 끝난 후에야 자신의 몸이 심각한 부상을 입고 배가 갈라진 걸 알게 됐다.	A soldier only notices that he’s already seriously injured, entrails all over the ground, after the battle is over. Before that, he didn’t feel a thing.	
+3	N/A	登山运动员看到自己被冻僵坏死手指之后，才开始感觉到冻伤的剧痛。	登山的人看到自己被凍到壞死的手指之後，才開始感覺到劇痛。	登山家は寒さで壊死した指を目視してから、\n初めて凍傷による激しい痛みを感じる。	알피니스트가 자신의 손가락이 동사했다는 걸 본 후에야 동상의 통증을 느끼기 시작했다.	A hiker only feels pain in his fingers after he looks down and realizes they’re frozen. Before that, he didn’t feel a thing.	
+4	N/A	甚至有人可以用催眠的手段暂时关闭对象的痛觉。	甚至有人可以利用催眠暫時關閉痛覺。	催眠を使用すれば、相手の痛覚を一時的に\n遮断する事さえもできる。	심지어 어떤 사람은 최면으로 상대의 통각을 잠시 닫아버릴 수 있다.	Some hypnotism experts can even temporarily “shut down” their target’s ability to sense pain.	
+5	N/A	因为疼痛，是一种很主观的感受。	因為，疼痛是一種很主觀的感受。	──なぜなら痛みは、主観的な感覚なのだから。	통증은 일종의 주관적인 감각이기 때문이다.	Because pain, after all, is subjective.	
+6	N/A	戴眼镜的男生果然对这一带非常熟悉──	戴眼鏡的男生果然對這一帶非常熟悉──	案内すると言うだけあって、メガネの男は\nこの辺りに詳しいようだ。	안경을 쓴 남자는 이 일대를 잘 알고 있는 듯 하다──	The bespectacled guy is, true to his word, quite familiar with the area.	
+7	N/A	他领着我们拐进路边的一家餐厅，和老板娘打了个招呼就推开厨房的后门。	他帶著我們轉進路邊一家餐廳，和老闆娘打了招呼後就推開廚房的後門。	俺達を連れて道端のレストランに入ると、\n女将さんと挨拶をして、\nキッチンから裏門へと抜けていく。	그가 우리를 이끌고 길가의 식당에 들어가 사장님과 인사한 두 주방 뒷문을 열었다.	He leads us into a restaurant concealed in an alley, greets the shopkeeper, and brings us through the kitchen to the back door.	
+8	N/A	绕过几条狭长的暗巷之后，我们终于甩掉了那几个不依不饶的亲卫队员。	繞過幾條狹長的暗巷之後，我們終於甩掉了那幾個一路緊追的親衛隊員。	狭く長い路地を何度も回り込み、ようやく\nあの執念深い親衛隊員どもを振り切った。	좁고 어두운 골목을 몇개 지난 후 드디어 그 친위대들을 따돌릴 수 있었다.	We then wind through a few more dark, narrow alleys, finally managing to shake off the persistent fanclub members.	
+9	N/A	小巷两侧的墙上挂满了空调排风扇，路边堆着一排排的垃圾桶和不知谁会光顾的自动贩卖机。	小巷兩側牆上掛滿了空調的排風扇，路邊堆著一排排的垃圾桶和不知誰會光顧的自動販賣機。	路地の両側の壁には空調の換気扇が、\nたくさん取り付けられていた。\n道端にはゴミ箱が並んでおり、誰も利用しないで\nあろう自販機がなぜか設置されてある。	골목 양쪽 벽에 에어컨 환풍기가 달려있다. 길가에 쌓인 쓰레기통과 누가 관리하는지 모를 자판기가 있다.	The alleys are lined by shabby walls, with air-conditioner fans mounted on them. Alongside the path are garbage cans and vending machines that look like they haven’t seen any action in a while.	
+10	N/A	没想到繁华的电器街背后，还有这样错综复杂如迷宫一样的地方。	沒想到，繁華的電器街背後還有這樣錯綜複雜宛如迷宮的地方。	賑やかな電気街の裏に、こんな迷路みたいな\n複雑な場所があるなんて……	번화한 전자 상가 뒷쪽에 복잡한 미궁 같은 곳이 있을 줄은 상상도 못했다.	I didn’t know there was a whole maze of decrepit alleys behind the bright Electronics Street.	
+11	N/A	几分钟后，通过一道铁丝网构成的栅栏门，我们终于来到了大路上。	幾分鐘後，穿越一道鐵絲網柵欄，我們終於來到了大馬路上。	数分後、鉄線網のフェンスゲートを通って、\nようやく大通りへと到達する。	몇분 후 철조망으로 구성된 난간문을 지나 드디어 큰 길가로 왔다.	Minutes later, we pass through a barb wire fence to arrive on a main road.	
+12	戴眼镜的男生	那边就是你们要去的新井中心公园吧？	那邊就是妳們要去的新井中心公園吧？	あそこが目的地の新井センターパークだと\n思います。	저쪾이 바로 가려고 했던 신토요스 공원 맞죠?	That’s where you’re headed, right? Newell Central Park?	
+13	小怜	居然这么快就到了！\n看手机地图要绕好大一圈呢……	居然這麼快就到了！ \n看手機地圖要繞好大一圈呢……	すごい、こんなに早く着くのか！\n\n携帯のマップだと、かなり遠回りしないと\n到着しないって表示されるのに……	이렇게 빨리 도착하다니！\n휴대폰 지도를 봤으면 한바퀴는 돌았을텐데……	Wow, we’re here already?\nI thought it’d take longer judging from the stupid map on my phone...	
+14	N/A	我观察着四周的环境，街对面亮灯的巨型拱门就是新井中心公园的东大门。	我觀察著四周，對面亮著燈的巨型拱門就是新井中心公園的東大門。	道路の向こう側にある、明かりを灯した\n巨大なアーチは新井センターパークの東門だ。	건너편 가로등의 거대한 아치문이 바로 신토요스 공원의 동대문이다.	I look around. The gigantic dome-shaped gate across the street, decorated with colorful lights, is indeed the east gate to Newell Central Park.	
+15	N/A	与热闹的电器街相比，这条没有民居和商铺的街道显得格外冷清，走路时甚至能听到自己的脚步声。	與熱鬧的電器街相比，這條沒有民房和店面的街道顯得格外冷清，一路上只聽見我們自己的腳步聲。	賑やかな電気街と比べれば、この大通りは民家や\nショップもないし、かなり閑散としている。	번화한 전자 상가와 달리 주민과 점포가 없는 이곳은 아주 한적하다 못해 걸음 소리마저 들린다.	The street, devoid of residences and shops, is quiet and a bit desolate. Our footsteps are audible as we head down the street.	
+16	N/A	了无生气的路灯发出滋滋的电流音，空气中似乎有一股淡淡的血腥味。	了無生氣的路燈發出滋滋的電流聲，空氣中似乎有一股淡淡的血腥味。	無機質な街灯からジジ……ッと電流の音が響き、\n空気中にうっすらと血の臭いを感じた。	생기가 없는 가로등에서 전류음이 돌리고 공기 중에 옅은 피냄새가 나는 것 같다.	In the air is the fizzling electricity from the street lamps, and for some reason a faint coppery smell of blood.	
+17	小怜	咱们快点过去吧……	我們得加緊腳步……	早く行こう……	어서 건너가자……	Hurry, Beatrice is probably waiting!	
+18	N/A	我想尽快离开这里，而且一直背着酣睡的伊露卡跟在我们后面的索娅也发出了抗议。	我想盡快離開這裡，而且一直背著酣睡的伊露卡、拼命跟上腳步的索婭也發出了抗議。	一刻も早くここから離れたい……\n\nそう思った矢先、熟睡中のイルカを背負っている\nソヤから抗議が飛んできた。	최대한 빨리 이곳을 떠나야 한다. 잠든 이루카를 업고 있는 소야가 불만을 토로한다.	Sonya, who’s carrying a sleeping Elluka, starts complaining.	
+19	索娅	这小丫头沉死了！	這小鬼重死了！	この小娘、本当に重いのですわ……っ！	이 꼬마 무거워 죽겠어！	This kid weighs a ton!	
+20	索娅	身为男生都不懂得主动搭把手吗？	身為男生都不懂得主動幫忙嗎？	男性として進んで手を貸すべきじゃ\nありませんの……！？	남자라면 먼저 도와줘야 하는 거 아니야？	Shouldn’t a real gentleman have offered his help already?	
+21	小怜	对、对不起──	對、對不起──	ご、ごめん……	미, 미안──	S-sorry...	
+22	戴眼镜的男生	啊抱歉，刚刚只顾着跑……	啊，抱歉，剛剛只顧著跑……	あ、すみません。\n走ってばかりで、僕が気付くべきでした……	아 죄송해요. 도망다니느라 바빠서……	Oh, sorry, I wasn’t thinking...	
+23	N/A	看到我也下意识的道歉，金发少年有些莫名，索娅则露出一幅不怀好意的笑容。	看到我下意識的道歉，金髮少年一臉疑惑，索婭則露出一副不懷好意的笑容。	無意識に謝ってしまった俺を見て、\n少年は不思議そうにしている。\n一方、ソヤは嫌な笑顔を浮かべた。	무의식적으로 사과한 날 본 금발소년이 어리둥절해 하고 소야가 음흉한 미소를 짓는다.	I gulp, realizing that I’m a girl now and shouldn’t have apologized. The blond guy look up in confusion, while Sonya simply smirks knowingly.	
+24	索娅	哦厚──？	哦厚──？	おやおや～～？	오호──？	Oh?	
+25	小怜	（诶？该不会……）	（欸？ 該不會……）	（え？ まさか……）	（엣? 설마……）	(Dang, did I give my identity away?)	
+26	索娅	算了，她的重量对我来说不算什么。	算了，她的重量對我來說不算什麼。	まあ良いですわよ、彼女の重さはわたくしに\nとって大した枷ではありませんわ。	됐어. 이 무게는 나한테 아무것도 아니야. 	Ah, whatever, I can carry her. I’m strong.	
+27	索娅	不像有些人──\n被大姐姐迷得神魂颠倒，还流鼻血……	不像有些人──\n被大姐姐迷得神魂顛倒，還流鼻血……	そんな事よりも誰かさぁ～～ん？\n\n先ほどのお姉様にメロメロで、鼻血まで流してた\nみたいですが……♡	난 누구처럼──\n누님한테 홀려서 코피나 쏟고 그러지 않아……	I’m not useless like a certain someone...\nWho fell head over heels for a pretty lady... even got a nosebleed...	
+28	N/A	刚才我丢人的样子果然被她发现了！！	剛才我丟人的樣子果然被她發現了！ ！	やっぱり見られてたのか！？	방금 그 부끄러운 모습을 들켜버리다니！！	Oops, she totally saw my embarrassing episode!	
+29	N/A	还有谁流鼻血了？！	不過，哪裡有誰流鼻血啊？ ！	でも、さすがに鼻血は流してないぞ！！	누가 코피를 흘렸다는 거야？！	And... nosebleed? I got a nosebleed?	
+30	女性的声音	被迷得神魂颠倒？	被迷得神魂顛倒？	──メロメロだったの？	홀렸다고？	Fell head over heels, huh?	
+31	N/A	贝阿特丽切从我们身后的阴影中走了出来。	貝阿特麗切從我們背後的陰影中走了出來。	俺達の背後の影から、ベアトリーチェが現れる。	베아트리체가 뒷편 그림자에서 걸어나온다.。	Beatrice pipes up, emerging from the shadows behind us.	
+32	贝阿特丽切	你们几个还挺快的嘛~	妳們幾個還挺快的嘛～	結構早かったわね、あなた達……	너희들 꽤 빨리 도착했네~	You made it here pretty quickly.	
+33	小怜	你什么时候到这里的？	妳什麼時候到的？	い、いつの間に、ここに？	넌 언제 여기 왔어？	When did you arrive?	
+34	索娅	喂喂，你隐蔽气息的能力也太强了吧……	喂喂，妳隱藏氣息的能力也太強了吧！	ちょっとあなた……気配を隠す能力が、\n凄過ぎますわよ……	어이, 기운을 숨기는 능력이 꽤 강하잖아……	Hey, you’re a bit too good at concealing your aura...	
+35	贝阿特丽切	我从小就习惯了~\n不想男人看到就要把自己藏好──	我從小就習慣這樣了～\n不想男人看到，就得把自己先藏好──	小さい頃から慣れてるのよ。\n\n男の人にジロジロ見られたくないから、\n上手に自分を隠す方法を身に着けて……	어렸을 때부터 습관이 됐어~\n남자에게 보이고 싶지 않을 때 자신을 숨기지──	I’m used to that sort of thing.\nGotta hide myself well if I don’t want men to see me, right?	
+36	贝阿特丽切	嘘！先躲起来。	噓！ 先躲起來。	──しっ！ 隠れて。	쉿! 우선 숨자.	Shh, stay down.	
+37	N/A	贝阿特丽切警觉的将我们拉到暗处，远处一辆装甲车飞速驶来，在我们面前呼啸而过。	貝阿特麗切警覺地將我們拉進暗處，遠處一輛裝甲車急速駛來，從我們面前呼嘯而過。	ベアトリーチェが俺達を暗い場所に引き寄せる。\n\n遠くから装甲車が走ってきて、目の前を\n通り過ぎていった。	베아트리체가 우릴 어두운 곳으로 데려간다. 먼 곳에서 장갑차 두대가 우리 앞을 지나간다.	Beatrice suddenly pulls us into the shadows. Seconds later, an armored truck speeds by, flying right past us.	
+38	贝阿特丽切	这条路经常有军队的车经过，咱们换个地方。	這條路經常有軍隊的車經過，我們換個地方。	この道は軍隊の車両が良く通るわ。\n場所を変えましょう。	이 길은 군대가 자주 지나는 곳이야. 장소를 바꾸는 게 좋겠어	Lots of military vehicles pass by the area. Let’s go somewhere else.	
+39	N/A	……	……	…………	……	…	
+40	N/A	我们来到新井中心公园的主干道，索娅轻轻的将睡熟的伊露卡放在路边长椅上。	我們來到新井中心公園的主幹道，索婭輕輕地將睡熟的伊露卡放在旁邊的長椅上。	俺達は新井センターパークのメインストリートに\n着いた。\nソヤはぐっすり眠っているイルカをベンチに\nそっと下ろす。	신토요스 공원의 간선도로에 왔다. 소야가 조심스레 잠든 이루카를 벤치에 눕힌다. 	We arrive on the main pedestrian path in Newell Central Park. Sonya gently lowers the slumbering Elluka onto a bench.	
+41	N/A	这里虽看不到人，但隐约能听到远处小孩和宠物玩耍的声音，让人觉得安心了许多。	這裡雖看不到人，但隱約能聽到遠處小孩和寵物玩耍的嬉鬧聲，讓人覺得安心許多。	人の姿が見えない場所だけど、遠くから子供や\nペットの遊ぶ声がかすかに聞こえてくる。\nようやく安心できる場所に着いたんだと\n実感が持てた。	인적은 없지만 멀리서 아이와 동물이 노는 소리가 들려 안심이 된다.	While we don’t see anyone nearby, we can hear kids and dogs playing in a distance. It makes me feel much safer.	
+42	N/A	贝阿特丽切打量着刚才帮我们解围的向导。	貝阿特麗切打量著剛才幫我們解圍的男孩。	ベアトリーチェは俺達を助けてくれた案内人を\nじっくりと観察する。	베아트리체가 우릴 도와준 가이드를 쳐다본다.	Beatrice studies the kind boy who led us away from the fiasco.	
+43	贝阿特丽切	这位是──？	這位是──？	この方は──？	이 분은──？	Who’s this?	
+44	戴眼镜的男生	啊！都忘了自我介绍……	啊！ 都忘了自我介紹……	あっ！自己紹介が遅れました……	아! 제 소개를 잊었네요……	Oh, sorry, forgot to introduce myself...	
+45	N/A	金发少年面对贝阿特丽切有些慌张，似乎不知该把眼睛放在哪。	金髮少年面對貝阿特麗切有些慌張，似乎不知該把眼睛看向哪。	少年はベアトリーチェを前に、どこを見たら\n良いのか分からず慌てている様子だ。	금발소년이 베아트리체를 보며 눈을 어디에 둬야할지 모르고 당황한다. 	The blond youth seems (understandably) nervous in front of Beatrice, like he doesn’t know where to direct his gaze.	
+46	N/A	他本想直视对方的脸，眼睛却总被下面那对壮观的东西吸引，只得欲盖弥彰的扭开头。	他本想直視對方的臉，視線卻總被下面那對壯觀的東西吸了過去，只能欲蓋彌彰地轉過頭。	なんとか顔を直視しようと頑張るが、\n胸元の立派なモノが気になってしまい、\n目線を逸らして誤魔化そうとしても、それが\nかえって目立ってしまう。	원래 상대방의 얼굴을 쳐다보려 했지만 거대한 부위에 시선을 뺏겼다가 빠르게 고개를 돌린다.	At her face? At the impressive breasts underneath? Eventually, he has to turn away and just choose to not look at all.	
+47	小怜	（嗯嗯，我懂的！）	（嗯嗯，我懂的！ ）	（うんうん、分かるぞ！）	（으음, 이해해！）	(Bro, I totally get how it feels!)	
+48	N/A	但没想到这个掩饰的动作如此明显──	只是沒想到這種掩飾的動作如此明顯──	しかし、ここまであからさまに分かって\nしまうとは……	하지만 감추는 모습이 이렇게 티날 줄은 몰랐어──	I just didn’t realize turning away would make it even more obvious that I’m interested...	
+49	小怜	（看来以后不能用了……）	（看來以後不能用這招了……）	（もうこの手は使えないな……）	（앞으로 저러지 말아야지……）	(Guess I need to be more careful in the future...)	
+50	戴眼镜的男生	我叫约翰，在电器街的店里打工。	我叫約翰，在電器街的店裡打工。	ぼ、僕の名前はジョンと言います。\n電気街のお店でアルバイトしてまして。	전 요한이라고 합니다. 전자 상가에서 아르바이트하고 있어요.	I’m John. I work part-time in a shop on Electronics Street.	
+51	索娅	约翰？真是普通的名字。	約翰？ 真是普通的名字。	ジョン？\n\n教科書とかに登場しそうな、没個性的な名前を\nお持ちですのね？	요한? 정말 평범한 이름이군.	John? What a nondescript name.	
+52	约翰	是、是有点普通啦……	是、是有點普通啦……	た、確かに良くある感じの名前ですが……	조, 조금 평범하긴 하죠……	Yeah, it’s... quite common...	
+53	N/A	约翰腼腆的推了推眼镜。	約翰靦腆地推了推眼鏡。	ジョンは恥ずかしそうにメガネを上げた。	요한이 수줍어하며 안경을 밀어올린다.	John pushes up his glasses awkwardly.	
+54	约翰	抱、抱歉！刚才我在远处看到你在花车上很帅气的骂人，就情不自禁的……	抱、抱歉！ 剛才我看到妳在花車上很帥氣地罵人，就忍不住……	ご、ごめんなさい！ \n\nさっきパレードカーで叫んでいたあなたの姿が\n格好良かったので、つい……	미, 미안합니다！방금 멀리서 멋지게 욕하는 모습을 보고 저도 모르게……	S-sorry... I saw you yelling at people on top of your truck... I thought it was so cool, so I...	
+55	贝阿特丽切	情不自禁的？	忍不住？	つい？	저도 모르게？	You what?	
+56	约翰	偷偷用手机录了像……	偷偷用手機錄影了……	こっそり携帯で録画……しました……	몰래 휴대폰으로 영상을 찍었어요……	Filmed you...	
+57	索娅	嘛……是为了回家慢慢回味吧~	嘛……是為了回家慢慢回味吧～	あら……帰ってから、じっくりと味わう\nおつもりかしら～～？	……집에 가서 천천히 감상하려고 그랬겠지~	You totally want to watch it on repeat at home, eh?	
+58	小怜	（虽然我理解，但这种事情不可以招供的啊！）	（我理解我理解， 但是這種事情不可以輕易就招了啊！ ）	（気持ちは分かるけど……）\n\n（そういう事は白状しちゃダメだぞ！）	（나도 이해하긴 하지만 이런 일은 자백하면 안된다고!）	(I understand how you’re feeling, buddy, but you can’t just own up to doing stuff like that!)	
+59	约翰	我无意间拍到了旁边的花车，后来看到你们被人追，也、也不知哪来的勇气……	我無意間拍到了旁邊的花車，看到妳們被人追，也、也不知哪來的勇氣……	たまたま隣のパレードカーを撮っていた時、\n君達が追いかけられていたのを見まして。\nど、どこから勇気が湧き上がってきたのか、\n僕自身にも分かりませんが……	옆에 있는 퍼레이드 카를 찍다가 여러분들이 쫓기는 걸 보고 어, 어디서 나온 용기인지……	I... I accidentally filmed the truck nearby too. That was why I saw you guys... so when I noticed people chasing after you, I had to man up and help...	
+60	N/A	约翰偷偷瞄了我一眼，脸一下子红到了脖子根，说话的声音也越来越小。	約翰偷偷瞄了我一眼，臉上的紅暈已經蔓延到脖子，說話的聲音也越來越小。	ジョンは俺の方をチラッと見ると、\n顔から首の付け根まで真っ赤にして……\n声もだんだん小さくなっていった……	요한이 날 몰래 힐끗 쳐다본다. 목부터 얼굴까지 달아오르고 목소리도 점점 작아진다.	John sneaks a glance at me, face beet red, voice decreasing in volume.	
+61	小怜	……	……	…………	……	…	
+62	N/A	我想起以前在网游里玩女性角色，结果一个经常和我组队的男生吱吱呜呜想对我告白的情景。	我想起以前在網遊裡玩女性角色，結果一個經常和我組隊的男生支支吾吾想對我告白的情景。	昔オンラインゲームでネカマをやっていた時、\n仲間の男性が俺に告白してきたのを思い出した。	예전에 여자 캐릭터로 게임할 때 나와 자주 파티를 맺던 남자가 나에게 고백하던 장면이 떠올랐다.	I remember back when I still played those MMOs. I chose to play a female character just for the heck of it. A guy in my guild ended up confessing his feelings to me, stammering all the way.	
+63	N/A	我只是不想玩游戏的时候一直对着人类男性角色壮硕的屁股而已……	我只是不想在玩遊戲時一直對著人類男角的大屁股而已……	俺はただ、ゲームをする際にずっと男キャラの\n尻を眺めるのが嫌なだけだったんだけど……	난 그저 게임을 하면서 남성 캐릭터의 커다란 엉덩이를 보고 싶지 않았을 뿐이다……	Dude, gamers who play female characters are not necessarily girls!	
+64	小怜	（唉，那时还觉得还挺对不住人家的~）	（唉，那時還覺得挺對不起人家的……）	（まぁ、あの時は申し訳ないと思ったけどな…）	（에휴, 그때도 엄청 미안한 감정이 들었었지~）	(Poor dude... he must have been devastated...)	
+65	N/A	贝阿特丽切走到他身边，低下头温柔的说道──	貝阿特麗切走到他身邊，低下頭溫柔地說道──	ベアトリーチェは彼に近づき、頭を下げて\n優しく話し始める──	베아트리체가 그의 곁으로 다가가서 고개를 숙이고 다정하게 얘기한다──	Beatrice moves to John’s side and says gently:	
+66	贝阿特丽切	男生看到漂亮的女孩子落难，都会变得有勇气。	男生看到漂亮的女孩子落難，都會變得有勇氣。	男の子だもの……可愛い女の子が困っているのを\n見て、勇気が湧いちゃったのよね。	남자는 예쁜 여자가 곤경에 빠진 걸 보면 용기가 생기지.	Of course. You’re a gentleman. A gentleman always mans up when he sees pretty girls in trouble, right?	
+67	约翰	对、对不起，录像我会删除的！打碎的招牌我也会去向店家赔罪的！！	對、對不起，我會把錄影刪掉！ 那個打破的招牌，我也會去向店家賠罪的！ ！	ご、ごめんなさい、動画は削除します。\n壊した看板もお店の人に謝ってきますから！！	미, 미안해요. 영상은 삭제할게요! 깨진 간판도 꼭 배상하도록 할게요！！	I’m... I’m so sorry... I’ll delete the video! And I’ll pay the store for the smashed billboard too...	
+68	N/A	约翰一边说一边鞠躬道歉赔罪，一看就是从小在新丰洲长大的。	約翰一邊說一邊鞠躬道歉，一看就是從小在新豐洲長大的。	お辞儀して謝るジョン。\n新豊洲育ちだって事がすぐ分かる行儀の良さだ。	요한이 허리를 숙이고 사과를 한다. 보아하니 어렸을 때부터 신토요스에서 자란 것 같다.	John keeps bowing as he apologizes. Definitely born and bred in New Opulentia. People here have no backbone.	
+69	索娅	真是个好孩子啊……	真是個好孩子啊……	本当に良い子ですわね……	정말 착한 친구네……	Very polite, isn’t he?	
+70	小怜	你还好意思说──	妳還好意思說──	さっきは手伝ってくれなかった事を\n怒っていた癖に……	너, 그런 말이 나와──?	If only you were more like him...	
+71	N/A	不过看他现在的样子，真的难以想象和刚才果断摔碎灯箱拦住亲卫队的是同一个人。	不過看他現在的樣子，真的難以想像他和剛才果斷摔碎燈箱並攔住親衛隊的男孩是同個人。	今の彼を見ている限り、看板を派手に壊して\n親衛隊を足止めするなんていう、\n大胆な事ができる人物とは思えないぐらいに\n良い奴である。	그치만 그의 모습을 보니 방금 네온사인을 깨트려서 친위대를 막던 사람과 동일 인물 같지 않다.	Still, it’s hard to imagine that this timid boy is the same as the one who resolutely smashed an illuminated billboard to ward off Elluka’s fanclub.	
+72	N/A	当时灯泡爆裂玻璃碴碎了一地，短路的电线在还在灯箱里呲呲作响，场面让人印象十分深刻。	當時燈泡爆裂，玻璃碎片散落一地，短路的電線在還在燈箱裡滋滋作響，場面讓人印象十分深刻。	あのシーンはとても印象に残っている。\n\nガラスの破片が地面に散らばり、ショートした\n電線が看板の中で音を立てていた。	네온사인 유리가 깨지고, 골목의 전선이 형광등 안에서 지직거리던 장면이 아주 인상 깊었다.	The ground, covered with glass shards. The short-circuited wires, fizzling with electricity. Left quite an impression on me.	
+73	小怜	（估计他自己也没料到动静会那么大吧……）	（他自己也沒料到會有這麼大的動靜吧……）	（彼自身も実行する前はそこまで大騒ぎになる\n　なんて思わなかったんじゃないかな……）	（저 남자도 그렇게 큰 소란이 일어날 줄은 몰랐겠지……）	(He probably didn’t realize how big a commotion he’d cause, eh?)	
+74	贝阿特丽切	哈哈哈，没关系的。	哈哈哈，沒關係啦。	うふふ、消さなくても大丈夫よ。	하하하, 괜찮아.	It’s all right.	
+75	N/A	贝阿特丽切拍了拍他的肩膀，	貝阿特麗切拍了拍他的肩膀，	ベアトリーチェは彼の肩を優しく叩く。	베아트리체가 그의 어깨를 두드린다.	Beatrice pats the young man on his shoulder.	
+76	贝阿特丽切	我也是忍了好多年，今天才第一次发泄出来，觉得格外舒畅呢~	我也是忍了好多年，今天才第一次發洩出來，覺得通體舒暢呢～	あれは私が長年ずっと我慢していた事だから。\n\n今日は初めて発散できて、\n気分がとてもすっきりしたわ～～	나도 몇년동안 참았던걸 오늘 처음 풀어서 아주 상쾌해~	I’ve been bottling those feelings inside for years. It felt really good to finally scream it all out for the first time!	
+77	N/A	今天是第一次吗？真是太有天赋了！	今天是第一次嗎？ 真是太有天賦了！	あれが初めてって素質が半端ないな！？	오늘이 처음이라고? 엄청 능숙하던 걸！	So it was her first time? She’s a natural!	
+78	贝阿特丽切	以后要不要经常试试呢……	以後三不五時就來發洩一次好了……	今後も時折やってみようかしら……	앞으로 자주 해볼 생각이야……	I should do this more often in the future!	
+79	小怜	（会引起暴动的！）	（會引起暴動的！ ）	（そのたびに暴動が起きるぞ！）	（폭동이 일어날 거라고！）	(That’ll just cause more riots!)	
+80	贝阿特丽切	啊对了──	啊！ 對了──	あ、そうだわ──	아참──	Oh, right...	
+81	N/A	贝阿特丽切向我走来，一只手绕到后面轻轻扶住我的腰。	貝阿特麗切走向我，一隻手繞到後面輕輕扶住我的腰。	ベアトリーチェが俺の方に来ると、\n片手で俺の腰を支える。	베아트리체가 날 향해 걸어와 한 손으로 내 허리를 부축한다.	Beatrice moves to my side, wrapping an arm around my waist.	
+82	贝阿特丽切	看你刚才走路的样子……你的腰受伤了？	看妳剛才走路的樣子……腰是不是受傷了？	さっきあなたの歩いていた姿を見たけど……\n腰を怪我したの？	방금 걷는 모습을 보니……허리를 다쳤어？	You were walking a bit weird. You hurt your waist?	
+83	N/A	她手稍稍一按，疼得我眼泪都出来了。	她手稍微一按，我馬上痛到眼淚飆出來。	彼女が軽く抑えただけで、腰の痛みによって\n涙が出そうになった。	그녀가 손가락으로 살짝 누르자 아파서 눈물이 나올 것 같다.	She presses her fingers on my skin, only lightly, but the pain brings tears into my eyes.	
+84	N/A	我本能的想要躲开，却一下倒进她怀里，贝阿特丽切有些心疼的摸着我的头说道──	我本能地想要躲開，卻雙腿一軟倒進她懷裡。 貝阿特麗切有點心疼地摸著我的頭說──	俺は本能的に避けようとして、彼女の腕の中に\n倒れてしまう。\nベアトリーチェは慈むような優しい表情で、\n俺の頭を撫でながら言った。	본능적으로 피하려고 했지만 그녀의 품에 안겨버렸다. 베아트리체가 내 머리를 쓰다듬으며 말한다──	I instinctively try to shift away, but falls into Beatrice’s lap instead. The lady pats my head fondly.	
+85	贝阿特丽切	应该是扭伤了，得在状况恶化之前尽快处理。	應該是扭傷了，必須在狀況惡化前盡快處理。	捻挫のようね、悪化する前に早く手当しないと。	허리를 삔 것 같아. 상황이 악화되기 전에 빨리 치료해야 돼.	You might have twisted something. Gotta fix it before it gets worse.	
+86	N/A	贝阿特丽切看了看自己的手。	貝阿特麗切看了看自己的手。	ベアトリーチェは自分の手を見て確かめる。	베아트리체가 자신의 손을 들여다본다.	She looks down at her hands.	
+87	贝阿特丽切	并没有出血……	還好沒有出血……	血は……出ていないわね……	피는 안 나는데……	Hmm, no bleeding.	
+88	贝阿特丽切	本部离这里太远，我送你去附近的医院？	本部離這裡太遠，我送妳去附近的醫院好嗎？	本部はここから遠いし、近くの病院まで\n送りましょうか？	본부는 여기서 멀리 있어. 내가 근처 병원에 데려다 줄까?	The headquarters are a bit far. Should I bring you to a nearby hospital?	
+89	小怜	我现在应该是被通缉的状态，这附近的医院和保安军都是联网的吧？	我現在應該是被通緝的狀態，這附近的醫院和保安警察應該都有聯絡網吧？	この近くの病院は保安軍と繋がりがあるかも。\n\n今の俺達は指名手配されていると思うから……	지금 지명수배 상태일 거야. 이 근처 병원과 보안군은 모두 연합이잖아.	I’m kinda on the run though... the hospital might contact the security soldiers...	
+90	索娅	如果是扭伤的话，艾尔加纳嬷嬷应该有办法。	如果只是扭傷的話，艾爾加納媽媽應該有辦法。	捻挫でしたら、エルガノのマザーが何とかして\nくれますわ。	만약 허리를 삔 거라면 엘가나 수녀님이 방법을 알고 있을 거야.	If it’s just a sprain, Mother Elgana might be able to help.	
+91	贝阿特丽切	艾尔加纳？	艾爾加納？	エルガノ？	엘가나?	Elgana?	
+92	约翰	被通缉……嬷嬷？	被通緝……媽媽？	指名手配……マザー……？	지명수배……수녀님？	On the run...? Mother?	
+93	N/A	约翰听着我们的对话，完全搞不清状况。	約翰聽著我們的對話，完全搞不清狀況。	ジョンは俺達の話を聞いているが、\nまったく状況をつかめていない様子である。	요한이 우리의 대화를 듣더니 전혀 상황을 파악하지 못한다.	John listens on, expression confounded.	
+94	索娅	是我小时候在修道院的嬷嬷，上周才被枢机院指派到新丰洲教区新建成的一座教堂，离这很近。	是我小時候在修道院的媽媽，上週才被樞機院指派到新豐洲教區一座新蓋好的教堂，離這很近。	わたくしが小さい頃にいた修道院のマザーで、\n先週、新しく建った教会に異動されましたの。\n場所は新豊洲教区、ここから近いですわ。	내가 수도원에 있을 때 수녀님이야. 신토요스 교육 지역에 새로 지은 교회로 발령을 받으셨어.	I knew her back from when I was in the Abbey. She got appointed to a newly-built church in New Opulentia only last week. It’s pretty close.	
+95	索娅	她之前专为信理部和圣赦院配药，针对肌肉和筋腱损伤的疗效比医院的常规药物好多了。	她之前專為信理部和聖赦院配藥，針對肌肉和肌腱受傷的療效比醫院的藥有用多了。	マザーは昔、信理部と内赦院のために\n薬を調合していましたの。\n筋肉や腱損傷については、病院の通常薬品よりも\n効果が高い事を私が保証しますわ。	예전에 신앙부와 성사원에서 약을 제조하셨어. 근육과 힘줄 상처 치료는 병원 약물보다 더 좋을 거야.	She used to prescribe medicine for the CDF and the Penitentiary. Her drugs are much more effective against muscle and tendon injuries than the ones you get in the hospital.	
+96	约翰	总之就是很厉害的医生？那我们快走吧！	總之就是個很厲害的醫生吧？ 那我們快去吧！	とにかく凄いお医者さんなんですよね？ \nそれじゃあ、早く行きましょう！	어쨌든 뛰어난 의사란 말이죠? 그럼 어서 빨리 가요!	So she’s a really skilled doctor? Let’s go, then!	
+97	N/A	贝阿特丽切意味深长看了看比我还急切的约翰。	貝阿特麗切意味深長看了看比我還著急的約翰。	ベアトリーチェは俺よりも焦っているジョンを\n意味深く見つめる。	베아트리체가 나보다 더 급하게 구는 요한을 의미심장하게 쳐다본다.	Beatrice glances meaningfully at John, who seems even more worried than I am.	
+98	约翰	我、我是说……\n我也陪你们去吧……	我、我是說……\n我也陪妳們去吧……	え、えっと……\nぼ、僕も同行してもよろしいですかね……？	제, 제 말은……\n저도 같이 갈게요……	I... I mean...\nI’ll come with you...	
+99	贝阿特丽切	有人好像很关心你呢，小兔子~	有人好像很關心妳呢，小兔子～	あなたの事が心配みたいよ？\nう・さ・ぎちゃん♡	누가 너한테 관심이 많은 모양이야~	Someone seems to care about you an awful lot, bunny...	
+100	小怜	啊啊啊啊你别说那件事啊！！！！	啊啊啊啊妳別說出來！ ！！ ！	うおああぁぁ言わないでくれえぇぇッ！！	아아아아아, 그런 말은 하지마！！！！	Aaaahh! Leave the bunny outfit out of this!	
+101	索娅	什么事什么事？？	什麼事什麼事？ ？	なんですの！？　なんですのッ！？？	무슨 일이야~？？	What bunny outfit?	
+102	N/A	索娅摇着尾巴凑了过来。	索婭搖著尾巴湊了過來。	ソヤは尻尾を振りながら擦り寄ってくる。	소야가 꼬리를 흔들며 다가온다.	Sonya leans in, looking annoyingly eager.	
+103	小怜	什么也没有！！	什麼也沒有！ ！	何でもない！！	아무것도 아니야! ! 	Nothing! Nothing whatsoever!	
+104	N/A	贝阿特丽切清了清嗓子，表情严肃的总结了一下现状。	貝阿特麗切清了清嗓子，表情嚴肅地總結了一下現狀。	……そんなこんなのひと悶着をした後。\n\nベアトリーチェは咳払いをして、真剣な表情で\n現在の状況をまとめる。	베아트리체가 목소리를 가다듬고 진지한 표정으로 상황을 종합한다.	Beatrice clears her throat and summarizes her decision, face serious.	
+105	贝阿特丽切	那咱们先去教堂看看，我派车去那边待命，如果不行就直接送你回总部治疗。	那先去教堂看看，我派車去那邊待命，如果不行就直接送妳回總部治療。	ではまず、教会に行ってみましょう。\n\nそちらに車を手配させるから、もしダメだったら\nその車で本部までね。	그럼 우선 교회로 가자. 그쪽에 차를 대기시켜 놓을게. 만약 상황이 나빠지면 본부에 데려가 치료할 거야.	Let’s head to the church, then. I’ll send a car over too. If Mother Elgana can’t fix your waist, we’ll bring you back to the headquarters.	
+106	小怜	也只能如此了。	嗯，也只能這樣了。	そうするしかないな。	그것 밖에 방법이 없어.	Sounds good.	
+107	N/A	她随即拨通了电话──	她隨即撥通了電話──	ベアトリーチェは電話をかけ始める──	그녀가 바로 전화를 건다──	She then dials a number.	
+108	贝阿特丽切	洗衣店吗？\n给我安排一下车队……	洗衣店嗎？ \n替我安排一下車隊……	──クリーニング屋さんでしょうか。\nお車は出せますか？\n受け取って欲しい衣服があるから、\n少し待っていて欲しいのだけど……	세탁소죠？\n차를 보내주세요……	Hey, laundromat, right?\nI need transportation...	
+109	N/A	……	……	…………	……	…	
+110	N/A	待贝阿特丽切布置好，索娅再次背起了伊露卡。	等貝阿特麗切安排好，索婭再次背起了伊露卡。	ベアトリーチェの要請による対応を待つ間、\nソヤは再びイルカを背負って歩き出す。	베아트리체가 통화를 끝내고 소야가 다시 이루카를 등에 업는다	After Beatrice has everything set up, Sonya picks Elluka up onto her back once more.	
+111	N/A	索娅说的教堂确实离这里很近，距离公园步行只需要十分钟左右。	索婭說的教堂確實離這裡很近，從公園步行過來只要十分鐘左右。	ソヤが言っていた教会は確かに近く、\n公園から歩いて10分くらいの距離だった。	소야가 말한 교회는 정말 가까웠따. 공원에서 10분 정도 거리에 있었다.	The church she mentioned is indeed quite close, only a ten-minute walk from the park.	
+112	小怜	好大──！	好大──！	広――いッ！！	엄청 크다──！	Wow, it’s enormous!	
+113	N/A	这座教堂是棕黄色的石质建筑，外墙有一幅巨大的宗教壁画。	這座教堂是淺褐色的石造建築，外牆有一幅巨大的宗教壁畫。	黄色い石造りの建物で、外壁には巨大な\n宗教壁画が描かれている。	노란 석재 건물로 외벽에 거대한 종교 벽화가 그려져 있다.	The church is a brown-colored stone building, its outer walls covered by a massive religious mural.	
+114	N/A	教堂的广场中央有一个小型喷泉，大理石边缘还有防水条的施工痕迹，看起来这里才建成不久。	教堂廣場中央有一個小型噴泉，大理石邊緣還有防水條的施工痕跡，看起來這裡才落成不久。	広場の真ん中には小さい噴水があった。\n\n大理石の縁に防水工事をした形跡があり、\nここが建ったばかりである事が分かる。	교회의 광장 중앙에 작은 분수가 있고 대리석 테두리에 방수 시공 흔적이 있다. 지은 지 얼마 되지 않은 것 같다.	In the center of the plaza sits a small fountain. Traces of waterproof strips can still be found on the marble. The construction must have finished not long ago.	
+115	N/A	主体建筑顶部的十字架一直伸向漆黑的夜空，引人注目的大门在灯光映衬下显得金碧辉煌。	主體建築頂端的十字架朝著漆黑的夜空延伸，引人注目的大門在燈光映襯下顯得金碧輝煌。	建物の屋上にある十字架は真っ黒な夜空に\n伸びていく。\n明かりに照らされている扉は、\n目を奪われるほどに綺麗だ。	건물 꼭대기의 십자가가 검은 밤 하늘을 가르고 있다. 대문이 등불 아래서 금색으로 보인다.	The cross on the roof extends upward into the dark night sky. The impressive gate seems especially glorious under the lighting.	
+116	贝阿特丽切	……	……	…………	……	…	
+117	小怜	大门上的那个光泽……难道是黄金？	大門上的那個光澤……難道是黃金？	扉のあの光沢……まさか金とか？	대문 위에 저 빛……설마 황금？	The gate is shining... is it made of gold?	
+118	索娅	估计是镀金吧……反正这里用的是教廷和联合议会的预算，客气什么~	應該是鍍金啦……反正這裡用的是教廷和聯合議會的預算，沒必要省錢～	どうせ金メッキでしょうね……\n\nここに使われている予算は教皇庁と連合議会の\nものでしょうし、遠慮の必要はありませんわよ？	도금일 거야……어쨌든 여기 쓰인 돈은 교황청과 연합의회의 예산이니까, 아낄 필요 없지~	Probably just plating. Still, it’s got funds from both the church and the United Congress. Makes sense that it’ll be expensive.	
+119	索娅	而且和萨蒙顿的那些教堂比起来，这种规模简直不能再穷酸了。	而且和薩蒙頓的教堂比起來，這種規模簡直就是窮酸！	サモントンの教会群と比べれば、取るに足らない\n小さな規模でありますし。	게다가 살몬톤의 교회들과 비교하면 이 정도 규모는 아무 것도 아니야.	Besides, compared to the churches in Salmonton, this one is actually really shabby.	
+120	N/A	确实，在新丰洲这个崇尚科学的地方，很难见到如此规格的宗教建筑。	確實，在新豐洲這個崇尚科學的地方，很難見到如此規格的宗教建築。	とはいえ科学至上の新豊洲で、ここまでの\n規格の宗教建築物は珍しい。	확실히, 과학을 숭상하는 신토요스에서 이런 규격의 종교 건물을 보기 어렵다.	That’s true. New Opulentia is a science-oriented City. There aren’t a lot of religious buildings of this scale.	
+121	N/A	但如果拉斐尔见到的话，估计会嗤之以鼻吧？	但拉斐爾看到的話，大概會嗤之以鼻吧。	でもラファエルが見たら、鼻で笑ってクドクド\n言うだろうな……	하지만 라파엘이라면 콧웃음을 쳤겠지?	But if Raphilia sees this, she’ll probably laugh and look all scornful...	
+122	约翰	前面……马上就……	前面……馬上就……	この先……もうすぐ……	앞에……곧……	We... almost... there...	
+123	小怜	约翰，你的脸色有点──	約翰，你的臉色有點──	ジョン、顔色が悪いけど──	요한, 얼굴색이 조금──	John, you don’t look too good...	
+124	N/A	我还没说完，只见他失去血色的嘴唇笑了一下，接着就失去意识栽倒在地。	我還沒說完，只見他沒了血色的嘴唇笑了一下，接著就失去意識倒在地上。	俺が言い終わる前に突然、彼が倒れてしまう。	내 말이 끝나기도 전에 그가 혈색 없는 입술로 웃더니 그대로 의식을 잃고 쓰러진다. 	Before I can finish my sentence, John’s pale lips twitch, and the next thing I know he’s collapsed onto the ground.	
+125	小怜	怎么回事！！	怎麼回事！ ！	──どうした！！？	무슨 일이야！！	What’s going on?	
+126	N/A	贝阿特丽切立刻上前查看，她的手刚碰了一下，立刻就抽了回来。	貝阿特麗切立刻上前查看，她的手才碰到約翰，就立刻抽了回來。	ベアトリーチェがすぐに様子を見る。\n\n彼の身体に触れた瞬間に違和感を覚え、\n触れた自分の手を戻して確認する。	베아트리체가 바로 달려와 손을 갖다 대더니 곧바로 손을 뗀다.	Beatrice immediately steps forward to check on him. She reaches out to touch John’s motionless body, and draws her hand back immediately, as if shocked.	
+127	贝阿特丽切	这是……血！？	這是……血！ ？	これは……血？	이건……피！？	... Blood?	
+128	N/A	约翰的黑色长裤上有一大片已经干涸的血迹，是由单一出血点渐渐浸润造成的。	約翰的黑色長褲上有一大片已經乾涸的血跡，是由單一傷口長時間出血浸染造成的。	ジョンの黒いズボンを良く見ると、\n赤黒い乾いた血の跡で覆わていた。\n出血した場所から徐々に滲んで広がったように\n見える。	요한의 검은색 바지 위에 굳은 혈흔이 있다. 출혈점이 점점 스며든 것이다. 	On John’s black pants is a huge patch of congealed blood. It must have come from a single source, gradually increasing in size.	
+129	N/A	我们刚才以不同形式感觉到的血腥味都来自于此。	我們剛才一路上感覺到的血腥味都來自於此。	俺達が感じていた血の臭いは、彼から漂って\n来ていたのか……	우리가 방금 다른 형식으로 맡은 피냄새의 출처가 바로 이것이였다.	That was why we’ve been smelling—or sensing, in Sonya’s case—blood for a while.	
+130	N/A	他面色苍白，脉搏快速而微弱，一切都符合失血过多的症状。	他臉色蒼白，脈搏快速但微弱，一切都符合失血過多的症狀。	彼の顔は青白く、脈拍は小刻みに弱々しく\n打っている。\n全てが出血多量の症状と一致した。	얼굴이 창백하고 맥박이 약해졌다. 모두 과다 출혈의 증상이다. 	The boy’s face is utterly colorless. His pulse is quick and weak—all symptoms of blood loss.	
+131	N/A	贝阿特丽切立刻让停在教堂门口的黑色SUV将约翰送往最近的医院，她自己也跟了过去。	貝阿特麗切立刻請停在教堂門口的黑色SUV將約翰送往最近的醫院，她自己也跟了過去。	即座にベアトリーチェは教会の前に待機させてた\n黒いSUVを呼んだ。\n最寄りの病院へとジョンを送り届ける事にして、\n彼女自身もSUVに乗り込み大事に備える。	베아트리체가 교회 앞에 세워진 검은색 SUV에 요한을 태우고 함께 근처 병원으로 갔다.	Beatrice asks the black SUV at the church gate to bring John to the closest hospital right away. She hops in as well.	
+132	N/A	同时她安排了另外两辆车，一辆将还在睡觉的伊露卡送回SID本部，另一辆留在教堂门口待命。	她還另外安排了兩輛車，一輛將還在睡覺的伊露卡送回SID本部，另一輛留在教堂門口待命。	彼女は3台の車を用意していた。\n\n1台はジョンを病院まで、1台は未だ眠っている\nイルカをSIDの本部へと送るために使い、\n最後1台だけを教会の前で待機させる。	차 두대를 더 불러 한대는 잠들어있는 이루카를 태우고 SID본부로 갔고 한대는 입구에서 대기 중이다.	Out of the two other vehicles she requested, one is tasked to drive Elluka back to the SID headquarters, while the other remains in spot waiting for us.	
+133	N/A	临走前她再三叮嘱我们不要随意外出。	臨走前，她再三叮囑我們不要隨便離開。	SUVに乗り込む前、彼女は何度も俺達に\n念押しをした……\n「外には出ないでね」と。	떠나기 전 그녀가 재차 함부러 돌아다니지 말라고 얘기했다.	Before she leaves, Beatrice warns us multiple times to stay indoors at all times.	
+134	贝阿特丽切	今晚实在太诡异了……	今晚實在太詭異了……	今夜は妙にざわつくわね……	오늘 밤은 정말 이상해……	Seems like it’s going to be an eventful night.	
+135	N/A	索娅检查时在约翰的大腿上发现了一处两厘米大小的伤口，上面还插着一小片玻璃。	索婭檢查時，在約翰的大腿上發現了一處兩公釐大小的傷口，上面還插著一小片玻璃。	ソヤが確認したところ、ジョンの太ももには\n2センチ幅の大きな傷があり、\nそこにガラスの破片が刺さっていたようだ。	소야가 요한의 허벅지에서 2센티미터 크기의 상처와 유리 조각을 발견했다.	Sonya tells me she discovered a wound on John’s thigh, less than one inch long. A glass shard was still stuck inside.	
+136	N/A	应该是他刚才放倒灯箱时被割伤的，带着这样的伤口走路本应是极痛苦的事。	應該是他剛才踹倒燈箱時割傷的，帶著這樣的傷口走路本來應該是很痛苦的事。	彼が看板を倒した時にできた傷だと思うが、\nこんな傷で歩くのは相当な痛みを伴うはずだ。	네온사인을 쓰러트릴 때 베인 것 같다. 이런 상처를 달고 걸어다니다니, 고통이 상당했을 것이다.	He must have hurt himself when he knocked over the billboard. He should’ve been in tremendous pain, having to walk with a wound like that...	
+137	N/A	然而不知为何，他全程似乎没有一点感觉……	但不知為何，他全程似乎沒有一點感覺……	なのに彼は……なぜか……\n\n『何も』感じなかったみたいだった……	하지만 왠지 모르게 그는 아무런 감각이 없는 것 같아 보였다……	But, in fact, he didn’t seem to have felt it at all.	

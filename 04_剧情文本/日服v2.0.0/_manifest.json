@@ -1,0 +1,886 @@
+[
+ {
+  "file": "sentence_00001",
+  "chars": 3202
+ },
+ {
+  "file": "sentence_00002",
+  "chars": 537
+ },
+ {
+  "file": "sentence_00003",
+  "chars": 237
+ },
+ {
+  "file": "sentence_00004",
+  "chars": 1735
+ },
+ {
+  "file": "sentence_00005",
+  "chars": 4371
+ },
+ {
+  "file": "sentence_00100",
+  "chars": 1629
+ },
+ {
+  "file": "sentence_00101",
+  "chars": 1899
+ },
+ {
+  "file": "sentence_00102",
+  "chars": 747
+ },
+ {
+  "file": "sentence_00103",
+  "chars": 542
+ },
+ {
+  "file": "sentence_00104",
+  "chars": 1069
+ },
+ {
+  "file": "sentence_00105",
+  "chars": 2719
+ },
+ {
+  "file": "sentence_00106",
+  "chars": 1576
+ },
+ {
+  "file": "sentence_00107",
+  "chars": 613
+ },
+ {
+  "file": "sentence_00108",
+  "chars": 780
+ },
+ {
+  "file": "sentence_00109",
+  "chars": 291
+ },
+ {
+  "file": "sentence_00110",
+  "chars": 3178
+ },
+ {
+  "file": "sentence_00111",
+  "chars": 1828
+ },
+ {
+  "file": "sentence_00112",
+  "chars": 1010
+ },
+ {
+  "file": "sentence_00113",
+  "chars": 643
+ },
+ {
+  "file": "sentence_00114",
+  "chars": 502
+ },
+ {
+  "file": "sentence_00115",
+  "chars": 595
+ },
+ {
+  "file": "sentence_00116",
+  "chars": 1030
+ },
+ {
+  "file": "sentence_00117",
+  "chars": 784
+ },
+ {
+  "file": "sentence_00118",
+  "chars": 603
+ },
+ {
+  "file": "sentence_00119",
+  "chars": 566
+ },
+ {
+  "file": "sentence_00120",
+  "chars": 2441
+ },
+ {
+  "file": "sentence_00121",
+  "chars": 1093
+ },
+ {
+  "file": "sentence_00122",
+  "chars": 985
+ },
+ {
+  "file": "sentence_00123",
+  "chars": 1032
+ },
+ {
+  "file": "sentence_00124",
+  "chars": 180
+ },
+ {
+  "file": "sentence_00125",
+  "chars": 1524
+ },
+ {
+  "file": "sentence_00126",
+  "chars": 853
+ },
+ {
+  "file": "sentence_00129",
+  "chars": 3183
+ },
+ {
+  "file": "sentence_00130",
+  "chars": 585
+ },
+ {
+  "file": "sentence_00131",
+  "chars": 583
+ },
+ {
+  "file": "sentence_00140",
+  "chars": 48
+ },
+ {
+  "file": "sentence_00141",
+  "chars": 48
+ },
+ {
+  "file": "sentence_00142",
+  "chars": 48
+ },
+ {
+  "file": "sentence_00143",
+  "chars": 2396
+ },
+ {
+  "file": "sentence_00144",
+  "chars": 48
+ },
+ {
+  "file": "sentence_00145",
+  "chars": 1405
+ },
+ {
+  "file": "sentence_00146",
+  "chars": 1380
+ },
+ {
+  "file": "sentence_00147",
+  "chars": 438
+ },
+ {
+  "file": "sentence_00148",
+  "chars": 842
+ },
+ {
+  "file": "sentence_00149",
+  "chars": 307
+ },
+ {
+  "file": "sentence_00151",
+  "chars": 48
+ },
+ {
+  "file": "sentence_00152",
+  "chars": 625
+ },
+ {
+  "file": "sentence_00200",
+  "chars": 704
+ },
+ {
+  "file": "sentence_00501",
+  "chars": 247
+ },
+ {
+  "file": "sentence_00502",
+  "chars": 1413
+ },
+ {
+  "file": "sentence_00503",
+  "chars": 589
+ },
+ {
+  "file": "sentence_00504",
+  "chars": 257
+ },
+ {
+  "file": "sentence_00905",
+  "chars": 410
+ },
+ {
+  "file": "sentence_00906",
+  "chars": 4388
+ },
+ {
+  "file": "sentence_00907",
+  "chars": 6037
+ },
+ {
+  "file": "sentence_00908",
+  "chars": 6334
+ },
+ {
+  "file": "sentence_00909",
+  "chars": 5959
+ },
+ {
+  "file": "sentence_00910",
+  "chars": 506
+ },
+ {
+  "file": "sentence_01001",
+  "chars": 1112
+ },
+ {
+  "file": "sentence_01002",
+  "chars": 1103
+ },
+ {
+  "file": "sentence_01003",
+  "chars": 401
+ },
+ {
+  "file": "sentence_04004",
+  "chars": 99
+ },
+ {
+  "file": "sentence_04098",
+  "chars": 525
+ },
+ {
+  "file": "sentence_04099",
+  "chars": 1970
+ },
+ {
+  "file": "sentence_10001",
+  "chars": 2752
+ },
+ {
+  "file": "sentence_10002",
+  "chars": 5830
+ },
+ {
+  "file": "sentence_10003",
+  "chars": 1623
+ },
+ {
+  "file": "sentence_10004",
+  "chars": 2660
+ },
+ {
+  "file": "sentence_10005",
+  "chars": 11335
+ },
+ {
+  "file": "sentence_10006",
+  "chars": 641
+ },
+ {
+  "file": "sentence_10007",
+  "chars": 3858
+ },
+ {
+  "file": "sentence_10009",
+  "chars": 699
+ },
+ {
+  "file": "sentence_10101",
+  "chars": 2973
+ },
+ {
+  "file": "sentence_10102",
+  "chars": 7157
+ },
+ {
+  "file": "sentence_10103",
+  "chars": 21785
+ },
+ {
+  "file": "sentence_10104",
+  "chars": 10498
+ },
+ {
+  "file": "sentence_10105",
+  "chars": 9637
+ },
+ {
+  "file": "sentence_10106",
+  "chars": 9288
+ },
+ {
+  "file": "sentence_10107",
+  "chars": 3231
+ },
+ {
+  "file": "sentence_10108",
+  "chars": 6519
+ },
+ {
+  "file": "sentence_10109",
+  "chars": 19073
+ },
+ {
+  "file": "sentence_10110",
+  "chars": 6130
+ },
+ {
+  "file": "sentence_10111",
+  "chars": 14484
+ },
+ {
+  "file": "sentence_10112",
+  "chars": 18584
+ },
+ {
+  "file": "sentence_10113",
+  "chars": 10885
+ },
+ {
+  "file": "sentence_10114",
+  "chars": 8261
+ },
+ {
+  "file": "sentence_10115",
+  "chars": 12426
+ },
+ {
+  "file": "sentence_10116",
+  "chars": 6197
+ },
+ {
+  "file": "sentence_10117",
+  "chars": 9184
+ },
+ {
+  "file": "sentence_10118",
+  "chars": 6997
+ },
+ {
+  "file": "sentence_10119",
+  "chars": 14606
+ },
+ {
+  "file": "sentence_10120",
+  "chars": 5568
+ },
+ {
+  "file": "sentence_10121",
+  "chars": 14078
+ },
+ {
+  "file": "sentence_10122",
+  "chars": 10174
+ },
+ {
+  "file": "sentence_10123",
+  "chars": 16837
+ },
+ {
+  "file": "sentence_10124",
+  "chars": 17206
+ },
+ {
+  "file": "sentence_10125",
+  "chars": 5225
+ },
+ {
+  "file": "sentence_10201",
+  "chars": 9964
+ },
+ {
+  "file": "sentence_10202",
+  "chars": 12582
+ },
+ {
+  "file": "sentence_10203",
+  "chars": 8288
+ },
+ {
+  "file": "sentence_10204",
+  "chars": 8722
+ },
+ {
+  "file": "sentence_10205",
+  "chars": 12975
+ },
+ {
+  "file": "sentence_10206",
+  "chars": 12859
+ },
+ {
+  "file": "sentence_10207",
+  "chars": 10374
+ },
+ {
+  "file": "sentence_10208",
+  "chars": 12026
+ },
+ {
+  "file": "sentence_10209",
+  "chars": 14451
+ },
+ {
+  "file": "sentence_10210",
+  "chars": 12760
+ },
+ {
+  "file": "sentence_10211",
+  "chars": 13690
+ },
+ {
+  "file": "sentence_10212",
+  "chars": 13401
+ },
+ {
+  "file": "sentence_10213",
+  "chars": 13901
+ },
+ {
+  "file": "sentence_10214",
+  "chars": 13261
+ },
+ {
+  "file": "sentence_10215",
+  "chars": 18043
+ },
+ {
+  "file": "sentence_10216",
+  "chars": 19604
+ },
+ {
+  "file": "sentence_10301",
+  "chars": 15825
+ },
+ {
+  "file": "sentence_10302",
+  "chars": 18249
+ },
+ {
+  "file": "sentence_10303",
+  "chars": 12394
+ },
+ {
+  "file": "sentence_10304",
+  "chars": 15428
+ },
+ {
+  "file": "sentence_14001",
+  "chars": 2757
+ },
+ {
+  "file": "sentence_14002",
+  "chars": 64
+ },
+ {
+  "file": "sentence_14003",
+  "chars": 348
+ },
+ {
+  "file": "sentence_20109",
+  "chars": 3875
+ },
+ {
+  "file": "sentence_20112",
+  "chars": 1862
+ },
+ {
+  "file": "sentence_20116",
+  "chars": 3558
+ },
+ {
+  "file": "sentence_20124",
+  "chars": 4741
+ },
+ {
+  "file": "sentence_20206",
+  "chars": 1745
+ },
+ {
+  "file": "sentence_30000",
+  "chars": 5105
+ },
+ {
+  "file": "sentence_30001",
+  "chars": 19791
+ },
+ {
+  "file": "sentence_30002",
+  "chars": 8039
+ },
+ {
+  "file": "sentence_30003",
+  "chars": 21246
+ },
+ {
+  "file": "sentence_30004",
+  "chars": 19504
+ },
+ {
+  "file": "sentence_30005",
+  "chars": 20439
+ },
+ {
+  "file": "sentence_30006",
+  "chars": 20520
+ },
+ {
+  "file": "sentence_30007",
+  "chars": 26347
+ },
+ {
+  "file": "sentence_30008",
+  "chars": 25697
+ },
+ {
+  "file": "sentence_30009",
+  "chars": 17257
+ },
+ {
+  "file": "sentence_30010",
+  "chars": 21703
+ },
+ {
+  "file": "sentence_30011",
+  "chars": 18155
+ },
+ {
+  "file": "sentence_30012",
+  "chars": 20151
+ },
+ {
+  "file": "sentence_30013",
+  "chars": 26920
+ },
+ {
+  "file": "sentence_30014",
+  "chars": 28446
+ },
+ {
+  "file": "sentence_30015",
+  "chars": 22156
+ },
+ {
+  "file": "sentence_30016",
+  "chars": 19631
+ },
+ {
+  "file": "sentence_30017",
+  "chars": 29979
+ },
+ {
+  "file": "sentence_30018",
+  "chars": 18103
+ },
+ {
+  "file": "sentence_30019",
+  "chars": 22213
+ },
+ {
+  "file": "sentence_30020",
+  "chars": 14338
+ },
+ {
+  "file": "sentence_30021",
+  "chars": 26804
+ },
+ {
+  "file": "sentence_30022",
+  "chars": 23844
+ },
+ {
+  "file": "sentence_30023",
+  "chars": 35699
+ },
+ {
+  "file": "sentence_30024",
+  "chars": 25223
+ },
+ {
+  "file": "sentence_30025",
+  "chars": 19052
+ },
+ {
+  "file": "sentence_30101",
+  "chars": 26562
+ },
+ {
+  "file": "sentence_30102",
+  "chars": 20553
+ },
+ {
+  "file": "sentence_30103",
+  "chars": 18691
+ },
+ {
+  "file": "sentence_30104",
+  "chars": 20775
+ },
+ {
+  "file": "sentence_30105",
+  "chars": 22387
+ },
+ {
+  "file": "sentence_30106",
+  "chars": 19942
+ },
+ {
+  "file": "sentence_30107",
+  "chars": 14739
+ },
+ {
+  "file": "sentence_30108",
+  "chars": 18891
+ },
+ {
+  "file": "sentence_30109",
+  "chars": 18050
+ },
+ {
+  "file": "sentence_30110",
+  "chars": 21580
+ },
+ {
+  "file": "sentence_30111",
+  "chars": 18459
+ },
+ {
+  "file": "sentence_30112",
+  "chars": 21587
+ },
+ {
+  "file": "sentence_30113",
+  "chars": 26081
+ },
+ {
+  "file": "sentence_30114",
+  "chars": 27308
+ },
+ {
+  "file": "sentence_30115",
+  "chars": 45481
+ },
+ {
+  "file": "sentence_30201",
+  "chars": 29100
+ },
+ {
+  "file": "sentence_30202",
+  "chars": 33261
+ },
+ {
+  "file": "sentence_30203",
+  "chars": 28144
+ },
+ {
+  "file": "sentence_30204",
+  "chars": 24558
+ },
+ {
+  "file": "sentence_30205",
+  "chars": 21675
+ },
+ {
+  "file": "sentence_30206",
+  "chars": 18708
+ },
+ {
+  "file": "sentence_30207",
+  "chars": 20001
+ },
+ {
+  "file": "sentence_30208",
+  "chars": 21804
+ },
+ {
+  "file": "sentence_30209",
+  "chars": 23465
+ },
+ {
+  "file": "sentence_30210",
+  "chars": 24835
+ },
+ {
+  "file": "sentence_30211",
+  "chars": 29099
+ },
+ {
+  "file": "sentence_30212",
+  "chars": 18966
+ },
+ {
+  "file": "sentence_30213",
+  "chars": 25388
+ },
+ {
+  "file": "sentence_30214",
+  "chars": 27824
+ },
+ {
+  "file": "sentence_30215",
+  "chars": 39243
+ },
+ {
+  "file": "sentence_30216",
+  "chars": 52919
+ },
+ {
+  "file": "sentence_30217",
+  "chars": 23033
+ },
+ {
+  "file": "sentence_30218",
+  "chars": 33274
+ },
+ {
+  "file": "sentence_30219",
+  "chars": 82008
+ },
+ {
+  "file": "sentence_30220",
+  "chars": 55989
+ },
+ {
+  "file": "sentence_30301",
+  "chars": 24537
+ },
+ {
+  "file": "sentence_30302",
+  "chars": 35124
+ },
+ {
+  "file": "sentence_30303",
+  "chars": 17414
+ },
+ {
+  "file": "sentence_30304",
+  "chars": 20651
+ },
+ {
+  "file": "sentence_30305",
+  "chars": 26125
+ },
+ {
+  "file": "sentence_30306",
+  "chars": 23922
+ },
+ {
+  "file": "sentence_30307",
+  "chars": 24544
+ },
+ {
+  "file": "sentence_30308",
+  "chars": 14315
+ },
+ {
+  "file": "sentence_30309",
+  "chars": 12463
+ },
+ {
+  "file": "sentence_30310",
+  "chars": 13861
+ },
+ {
+  "file": "sentence_30311",
+  "chars": 18028
+ },
+ {
+  "file": "sentence_30312",
+  "chars": 12955
+ },
+ {
+  "file": "sentence_30313",
+  "chars": 12575
+ },
+ {
+  "file": "sentence_30314",
+  "chars": 18610
+ },
+ {
+  "file": "sentence_30315",
+  "chars": 12331
+ },
+ {
+  "file": "sentence_30316",
+  "chars": 8951
+ },
+ {
+  "file": "sentence_30317",
+  "chars": 13149
+ },
+ {
+  "file": "sentence_30318",
+  "chars": 21743
+ },
+ {
+  "file": "sentence_30401",
+  "chars": 14257
+ },
+ {
+  "file": "sentence_30402",
+  "chars": 12566
+ },
+ {
+  "file": "sentence_30501",
+  "chars": 14560
+ },
+ {
+  "file": "sentence_31101",
+  "chars": 12874
+ },
+ {
+  "file": "sentence_31102",
+  "chars": 18892
+ },
+ {
+  "file": "sentence_31103",
+  "chars": 18639
+ },
+ {
+  "file": "sentence_31104",
+  "chars": 25252
+ },
+ {
+  "file": "sentence_31105",
+  "chars": 35103
+ },
+ {
+  "file": "sentence_40001",
+  "chars": 19353
+ },
+ {
+  "file": "sentence_40101",
+  "chars": 11470
+ },
+ {
+  "file": "sentence_40102",
+  "chars": 19240
+ },
+ {
+  "file": "sentence_40103",
+  "chars": 22076
+ },
+ {
+  "file": "sentence_40104",
+  "chars": 4215
+ },
+ {
+  "file": "sentence_99800",
+  "chars": 176
+ },
+ {
+  "file": "sentence_99900",
+  "chars": 304
+ },
+ {
+  "file": "sentence_99901",
+  "chars": 609
+ },
+ {
+  "file": "sentence_99904",
+  "chars": 678
+ }
+]

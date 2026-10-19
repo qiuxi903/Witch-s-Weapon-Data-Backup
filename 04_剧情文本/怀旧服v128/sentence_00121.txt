@@ -1,0 +1,5 @@
+﻿1	引导精灵	[ff9c00]集会所[-]好像已经解锁了呢！一起去看看吧~	[ff9c00]集會所[-]好像已經解鎖了呢！一起去看看吧～	[ff9c00]集会所[-]が開放されたみたい\nだね！\n一緒に見に行ってみよう～～	[ff9c00]길드[-]가 해제된 것 같아! 같이 확인해보자~	The [ff9c00]Guild[-] feature has just been unlocked! Check it out!	
+2	FocusTrigger	
+3	引导精灵	在这里可以认识更多朋友，也可查找并申请加入和自己志同道合的集会所	在這裡可以認識更多朋友，也可尋找並申請加入和自己志同道合的集會所	ここでは集会所に加入申請をできるの。\n自分の目的や趣味に合わせて\n同じ志を持つメンバーの一員\nになっちゃおう！	여기서 더 많은 친구를 사귈 수 있어. 길드를 조회하고 가입 신청을 할 수도 있어. 	Search and find a guild you like, then join the adventure together with your guild members!	
+4	引导精灵	加入集会所可享受到集会所祝福加成等多种福利…嗯…应该会有可乐喝吧？	加入集會所即可享有集會所祝福加成等多種福利……嗯……應該會有可樂喝吧？	集会所に加入すると、集会所\nによる祝福などなど、色んな\nお得な特典がもらえるよ～～\nえっと……\nサイダーもあるかも？	길드에 가입하면 길드 축복 보너스 등 여러가지 혜택을 누릴 수 있어…음…아마 콜라도 마실 수 있겠지?	You'll also be able to receive Guild Blessings amongst other benefits.	
+5	引导精灵	当小怜你的等级达到[ff9c00]Lv20[-]后，就可以[ff9c00]创建[-]属于自己的集会所了	小憐妳的等級達到[ff9c00]Lv20[-]後，就可以[ff9c00]建立[-]屬於自己的集會所了	あなたが[ff9c00]Lv20[-]になったら、\n自分の集会所を[ff9c00]創設[-]する事もできるからね。	렌의 레벨이 [ff9c00]Lv20[-]가 되면, 자신만의 길드를 [ff9c00]창설[-]할 수 있어.	Moreover, once you've reached [ff9c00]Lv.20[-], you can [ff9c00]create[-] your own guild!	

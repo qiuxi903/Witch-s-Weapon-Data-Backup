@@ -1,0 +1,69 @@
+﻿1	N/A	刚回到总部，莉琉就支使安妮和伊露卡去执行别的任务。	剛回到總部，莉琉就指使安妮和伊露卡去執行別的任務。	本部に戻るや否や、マリルはアニーとイルカを\n別の任務に送り出した。	본부로 돌아오자마자 마리루가 앤과 이루카에게 다른 임무를 배정했다.	Mariru sends Annie and Iruka away just as we return to the Headquarters.	
+2	N/A	我有些忐忑，不知道是否又会面对奇怪的拷问……	我有些忐忑，不知道是否又會面對奇怪的拷問……	また妙な尋問をされる予感がして、\n俺は内心不安になる……	이번에는 또 어떤 이상한 고문이 기다리고 있을지，조금 걱정이 된다……	Now I'm upset. I don't know if I would be interrogated with strange questions again… 	
+3	小怜	发生什么事了？	發生什麼事了？	何かあったの？	무슨 일 있어?	What happened?	
+4	莉琉	没事的话，你就想一直在伊露卡旁边像个变态一样傻笑吗？	沒事的話，妳想一直在伊露卡旁邊像個變態一樣傻笑嗎？	何もなければ、イルカの隣でずっと変態みたいな\nニヤケ面を晒し続けるつもりだったか？	아무 일 없으면，이루카 옆에서 변태처럼 웃고만 있으려고?	What if nothing happens? Are you gonna keep on smirking at Iruka like a pervert?	
+5	小怜	你、你果然在用学校的监控像头偷窥吧！	妳、妳果然用學校的監視器偷窺！	なっ…！や、やっぱり学校の監視カメラで\n盗み見していたな！	역시 학교 감시 카메라로 몰래 훔쳐 보고 있었구나! 	You… You must have been watching me through the surveillance camera!	
+6	莉琉	呵呵呵~~你只能想到那么老土的方式吗？	呵呵呵～～妳只能想到那麼老土的方式嗎？	はっはっはっ～～\nお前はそんなダサい方法しか思いつかないのか？	하하하~~생각한 게 고작 그런 촌스러운 방법이야? 	Hehe, is that all you can think of?	
+7	小怜	那还有什么方法……	那還有什麼方法……	えっ…それ以外にどうやって……	그럼 또 무슨 방법이……	What else could it be… 	
+8	莉琉	比如说──	比如說──	例えばだな──	예를 들어──	For example—	
+9	N/A	莉琉上下打量着我，露出了邪恶的神情。	莉琉上下打量著我，露出了邪惡的神情。	マリルは俺を上から下まで嘗め回すように見つめ\n邪悪な表情を浮かべる。	마리루가 날 위아래로 훑으며 사악한 눈빛을 한다. 	Mariru looks at me evilly from head to toe.	
+10	莉琉	战研部有一种晶片，植入以后连你什么时候想上厕所都能完美的控制。	戰研部有一種晶片，植入以後連妳什麼時候想上廁所都能完美的控制。	戦術研究部にとある特殊なチップがある。\n\nそれを植え付けてしまえば、排泄欲求まで\n完全にコントロールが可能だ。	전투 연구부에 네가 언제 화장실이 가고 싶은지까지 완벽히 제어할 수 있는 칩이 있어.	The Research Department has developed a wafer that can even decide when you go to the bathroom!	
+11	小怜	控、控制？\n那也太不妙了！！	控、控制？ \n那也太糟糕了！ ！	コ、コントロールッ？\nま、マジでそれは倫理的にダメなやつ！	제，제어？\n너무 이상하잖아！！	What… bathroom? \n Ugh, sounds gross! 	
+12	小怜	这种奇怪的东西多半是爱衣做的吧……\n等等，你们不会偷偷给我植入了吧！	這種奇怪的東西多半是愛衣做的吧……\n等等，妳們不會偷偷給我植入了吧！	そんな怪しい物、どうせ愛衣の発明だろうけど…\n\nって、ちょっと待って！\nあんたら、まさかそれを俺に……っ！	그런 이상한 물건은 아이가 만든 게 분명해…\n잠깐，설마 이미 몰래 이식한 건 아니지?	It must be invented by Aya! \n Wait, don't tell me you've secretly implanted it in my body!	
+13	莉琉	开玩笑的。	開玩笑的。	────冗談だ。	농담이야.	I was just kidding.	
+14	N/A	这么敷衍的回答，一点也不像开玩笑！！	這麼敷衍的回答，一點也不像開玩笑！ ！	そんな適当な返事をされても、まったく冗談に\n聞こえないからな！	그렇게 성의 없이 대답하면，조금도 농담 같지 않다고! !	The way you say it is nothing like a joke!	
+15	莉琉	还是说……你想到什么奇怪的事情了？	還是說……妳想到什麼奇怪的事情了？	それともなんだ……何か心当たりでもあるのか？	혹시…… 뭔가 이상한 일이라도 생각났어?	Or… Is there something strange that crosses your mind?	
+16	小怜	唔，可恶……	唔，可惡……	うっ……それは……	윽，이런……	Ugh, darn it… 	
+17	小怜	（上次全校集会的时候我忽然闹肚子……）\n（难、难道是！？）	（上次全校集會的時候我忽然鬧肚子……）\n（難、難道是！ ？）	（この前の全校集会で並んでいた時に……\n 　突然お腹が痛くなったのは……）\n（も、もしやッ！？）	（지난 번 전교생 조회 때 갑자기 배탈이 난 것도……）\n（서，설마！？）	(Last time I had the runs during the school assembly…) \n (Does that mean…?)	
+18	莉琉	哈哈哈哈~~你居然当真了吗？	哈哈哈哈～～妳居然當真了喔？	……ぷっ、くくははは～～\n本気でそんなモノを埋め込まれたと思ったのか？	하하하하~진짜라고 생각한 거야?	Hahahaha! Don't take it seriously!	
+19	N/A	莉琉大笑着揉了揉我的脑袋。	莉琉大笑著揉了揉我的腦袋。	マリルは大笑いしながら、俺の頭を揉みしだく。	마리루가 웃으며 내 머리를 쓰다듬는다.	Mariru laughs out loud, rubbing my head forcefully.	
+20	莉琉	那种东西，爱衣只做了一个原型机就被我骂惨了\n怎么可能用在你这种没价值的目标身上。	那種東西，愛衣只做了一個原型機就被我罵慘了，\n怎麼可能用在妳這種沒價值的目標身上。	そんなモノ、愛衣がプロトタイプを作った時点で\n私が厳しく叱っている。\nそ～もそも、お前みたいな無意味な目標に\n超高度テクノロジーを使う必要がないしな～	시제품 하나 만들었다가 나한테 엄청 욕 먹었었지\n어떻게 너처럼 가치 없는 몸에 그걸 사용하겠어?	Aya only made a prototype before I called the project off. \n Why would we use it on a nobody like you!	
+21	小怜	那还真是多谢了哈……	沒價值的目標……還真是謝謝妳啊……	そりゃ、ありがたい事で……	그것 참 고맙네……	Oh, should I say thank you?	
+22	莉琉	话说，你刚才在想什么丢人的画面啊~	話說，妳剛才在想什麼丟人的畫面啊～	ところで、先程はど～んな恥ずかしい事を\n思い出していたのかな～～？	그나저나，방금 무슨 부끄러운 화면을 생각한 거야~?	Haha, you've got filth on your mind, right?	
+23	N/A	呜呜……还好没有显示思考画面的机器，不然我真要找个地缝钻进去。	嗚嗚……還好沒有顯示思考畫面的機器，不然我真要找個地洞鑽進去。	ううっ……\n思考を可視化できる機械とかなくて良かった。\nじゃないと……\nどこかの穴に入らなくちゃいけなくなる。	흑흑……생각을 볼 수 있는 기계가 없어서 다행이다. 안 그랬다면 쥐구멍에라도 숨고 싶었을 거야.	Ahh… Thank goodness there's no mind-reading machine! Just think how shameful it would be!	
+24	莉琉	别马上摆出认命的表情嘛，这样就一点都不好玩儿了。	別馬上擺出認命的表情嘛，這樣就一點都不好玩了。	なんだ、すぐ諦めたような顔をするな。\nそれでは面白さがなくなるじゃないか。	그렇게 빨리 단념하지 마~ 이러면 하나도 재미가 없잖아.	Hey, don't suck it up. It's so much fun watching you fighting back.	
+25	小怜	让你失望了，真是对不起。	讓妳失望了，真是對不起。	……がっかりさせて、悪かったな。	실망시켜서 정말 미안하네요!	Sorry for letting you down.	
+26	莉琉	哎，以你现在的能力，不知道能不能完成向重要目标套取信息的工作。	哎，以妳現在的能力，不知道能不能完成向重要目標套出資訊的工作。	やれやれ。現在のお前の能力で重要人物から、\n情報を聞き出すという任務を全うできるか……	에휴，지금 네 실력으로 중요 타겟의 정보를 캐내는 임무를 해낼 수 있을지 모르겠어.	Hmm… I wonder how could a simpleton like you dig out information from key targets.	
+27	N/A	莉琉抹了抹因为爆笑而盈在眼角的泪水，转换成平时傲慢而自信的表情。	莉琉抹了抹因大笑而盈眶的淚水，轉換成平時傲慢而自信的表情。	マリルは笑いすぎで出てきた涙を拭き、\nいつもの自信満々の表情に切り替える。	웃느라 눈가에 맺힌 눈물을 닦아낸 마리루가 평소의 거만하고 자신감 넘치는 표정으로 돌아왔다.	Mariru wipes tears of laughter and puts on her usual arrogant face.	
+28	小怜	重要人物……虽然比满足你的恶趣味有意义，但人家会跟我一个学生说什么啊。	重要人物……雖然比滿足妳的惡搞有意義，但人家哪會跟我一個學生透露什麼啊。	重要人物って……マリルの悪趣味を\n満足させるよりは、よっぽど有意義と思うけど。\nでも一介の学生ごときに何が聞き出せるんだよ。	중요 인물…… 너의 악취미를 만족시키는 것보다 의미 있겠지만，그 사람이 나 같은 학생이랑 무슨 말을 하겠어.	Key targets… Sounds like more meaningful than catering to you… But why would Mr. Big talk to a high school kid!	
+29	莉琉	就是要利用你学生的身份，这次的目标是第四学园都市考察团的代表──	就是要利用妳學生的身分，這次的目標是第四學園都市考察團的代表──	そう今回はまさに、お前のその学生という身分を\n利用するんだ。\n今回の目標は第四学園都市視察団の代表──	바로 네 학생 신분을 이용하는 거야. 이번 타겟은 제4학원도시 시찰단의 대표──	This time you will approach your target as a student. The target…  	
+30	莉琉	拉斐尔·戴克斯，萨蒙顿市市长的孙女，可是如假包换的超贵族大小姐哦。	拉斐爾·戴克斯，薩蒙頓市市長的孫女，可是如假包換的超級貴族大小姐哦。	サモントン市長の孫娘、ラファエル・デックス。\n\n正真正銘、貴族のお嬢様だぞ。	라파엘 덱스야. 살몬톤시 시장의 손녀지. 틀림없는 진짜 귀족 아가씨야.	Raphilia Dekkers, granddaughter of the mayor of Salmonton. She'll come with the Salmonton Delegation.	
+31	莉琉	是不是很激动？	是不是很激動？	どうだ、すごい興奮するだろう？	설레지 않아?	She's a real highborn girl. Excited?	
+32	小怜	这有什么好激动的。	這有什麼好激動的。	何にだよッ！	설렐 게 뭐가 있어.	Why should I be excited? 	
+33	莉琉	啧，果然只有小女孩才能让你兴奋起来吗……	嘖，果然只有小女孩才能讓妳興奮起來嗎……	ふむ、やはりお前はちっちゃな女の子にしか、\n興奮できないのか……	쳇，역시 어린 여자한테만 설레나 보구나?……	Tut-tut, you only like little girls, huh?	
+34	小怜	不要把这种犯罪者的设定安到我身上啊！	不要把這種犯罪者的設定套用到我身上啊！	その危険人物設定を俺に押し付けるなッ！	그런 범죄자 컨셉 내게 갖다 붙이지 마!	Hey, stop describing me like a criminal!	
+35	小怜	……咳咳。\n总之你要我向那位大小姐打听什么信息？	……咳咳。 \n總之妳要我向那位大小姐打聽什麼消息？	……ゴホンっ。とっ…とにかく、\nそのお嬢様から何を聞き出したいんだ？	……크흠.\n어쨌든，그 아가씨한테서 정보를 알아내란 말이지?	… Ahem. \n Anyway, what do you want me to get from this highborn girl?	
+36	莉琉	转移话题的功夫真差劲……\n你不会真的一上来就被识破吧。	轉移話題的功夫真差勁……\n妳不會真的一開始就被識破吧。	話題をそらす技術が下手だなぁ……\n一瞬でバレそうで心配だ。	화제를 돌리는 기술이 형편없구나……\n바로 들켜버리는 건 아니겠지?	Ugh, you're not much of a talker… \n Hope you can get through at least one day.	
+37	莉琉	先不计较了，关于第四学园都市你有多少了解？	先不計較了，妳有多瞭解第四學園都市？	まあ、それはさておき。\n\nお前は、第四学園都市についてはどれぐらい\n知っている？	일단 그건 넘어가고，제4학원도시에 대해 얼마나 알고 있어?	Okay, seriously, what do you know about Salmonton?	
+38	小怜	唔……我记得是现在最大的粮食出口国？	唔……我記得是現在最大的糧食出口國？	え――っと……確か現在は、最大の食料輸出国\nって事は知っているけど……	음……현재 최대 식량 수출 국가?	Umm… I guess it's the biggest food exporter?	
+39	N/A	说起萨蒙顿市，第一印象就是莱茵河畔林立的几十层楼高的立体温室。	說起薩蒙頓市，第一印象就是萊茵河畔林立的幾十層樓高的立體溫室。	サモントン市の第一印象は、ライン河畔に林立した数十階にも及ぶ立体温室が印象に残っている。	살몬톤의 첫 인상은 라인 강 주변에 있는 수십 층짜리 입체 온실이다.	Speaking of Salmonton… what comes to my mind is the tens of high-rise greenhouses lining the Rhine.	
+40	N/A	那一大片从温室群的玻璃罩透出的生机盎然的绿色\n一向是屏幕壁纸的绝佳素材。	那一大片從溫室群的玻璃罩裡透出生機盎然的綠色，\n一向是電腦桌布的絕佳素材。	温室群のガラス窓を覗くと、生気に満ち溢れる\n緑色が見える。\nディスプレイの壁紙として人気だったはずだ。	그 커다란 온실들의 유리막에 내비치는 생기 가득한 녹색\n배경 화면에 완전 어울리는 소재다.	The verdant gardens behind greenhouses… \n Always make perfect wallpapers.	
+41	小怜	另外萨蒙顿好像有很多教堂，大家都有宗教信仰，还成立了一个『神圣联盟』之类的……	另外，薩蒙頓好像有很多教堂，大家都有宗教信仰，還成立了一個「神聖聯盟」之類的……	そう言えば、サモントンって教会が多くて\nみんなが信心深いんだっけ。\n『神聖同盟』とか言うのも設立してたり……	살몬톤에는 교회가 많다. 모두들 종교 신앙을 가지고 있고，『신성연맹』을 세우기도 했다.	And there are a lot of churches. All citizens have a religious belief. They've even formed a Sacred Alliance… 	
+42	N/A	只记得这些了，地理这种知识点分散又需要大段背诵的课程真是想想就胃和头一起疼。	只記得這些了，像地理這種知識重點分散又需要大段背誦的課程，光想就開始胃痛加頭痛。	覚えているのはこれぐらいだ。\n\n地理とかいう知識の丸暗記科目を思い出すと、\n頭も胃もダブルで痛くなった。	이것밖에 몰라. 지리처럼 방대하고 외울 것이 많은 수업은 생각만해도 머리가 아파.	That's all I can remember. I'm not good at geography. Too much memorization of random facts.	
+43	莉琉	第四学园都市的经济和话语权，在很大程度上取决于他们对农作物基因的控制力。	第四學園都市的經濟和話語權，在相當程度上取決於他們對農作物基因的控制力。	第四学園都市の経済と発言力の根源は、\n農作物の遺伝子コントロール技術に、\n大きく依存している。	제4학원도시의 경제권과 발언권은 대부분 그들의 농작물 유전자 제어력에 달려있어.	Salmonton's economic and political power largely depends on its control over crop genes.	
+44	莉琉	不过『洛斯金杯』消失后发生的一系列事件，恐怕也威胁到了他们的根基。	不過「洛斯金杯」消失後發生的一連串事件，恐怕也威脅到了他們的根基。	しかし『ロス・ゴールド』が消えた後に\n起き始めた一連の事件が、\n彼らの根源を揺るがす脅威となった。	『로우스 금잔』이 사라진 후 일련의 사건이 발생하면서，그들의 기초도 위협을 받은 것 같아.	But incidents after the Ross Goblet disappeared have posed severe threats to them.	
+45	小怜	威胁是指……空间异变？	威脅是指……空間異變？	脅威って言うと……空間異変の事？	위협이라면……공간 변이？	By threats, you mean… the Spacetime Flux? 	
+46	莉琉	没错，虽然有报告侦测到第四学园都市境内也发生了多处异变，但一直无法判断其损失情况。	沒錯，雖然報告指出第四學園都市境內也發生了多處異變，但一直無法判斷其損失情況。	そうだ、第四学園都市の領内にて異変多発との\n報告があった。\n実際の損失状況は不明ではあるが……	맞아. 제4학원도시 안에서 이변 현상이 발생됐다는 보고는 받았지만，\n손실 정도는 판단하지 못 하고 있어.	That's right. According to my information, it has suffered from multiple fluxes. But the damage is still unknown.	
+47	莉琉	从这几天谷物和豆类期货的异动看来，影响估计不小……会在局部地区引起饥荒也说不定。	從這幾天穀物和豆類期貨的異動看來，影響應該不小……會在局部地區引起飢荒也說不定。	ここ数日の穀物と豆類における先物取引の異様な\n価格変動から察するに、\n影響はそれなりに大きいと見える……\n一部地区に飢饉が起こる可能性もあるだろう。	요 며칠간 곡물과 콩류의 선물 변동으로 볼 때，어쩌면 일부 지역에서 기근이 일어날 수 있어.	Judging from the recent volatility in the price of grain futures, the impact seems fairly large… Maybe sporadic famines will occur.	
+48	小怜	这么严重吗……	這麼嚴重嗎……	そんなに深刻なのか……	그렇게 심각해?……	That's severe!	
+49	N/A	虽然不懂那个什么市场，但我之前一直认为，异变最多威胁到小范围区域。	雖然不懂那個什麼市場，但我之前一直認為，異變最多只會威脅到小範圍區域。	その先物なんちゃらは詳しくないけど、\n\n空間異変の脅威は限られた範囲だけのものだ\nと思っていた。	그쪽 시장은 잘 모르지만，변이는 작은 범위의 구역만 위협할 수 있다고 생각해왔다.	I know nothing about the futures market. I thought the impact was confined to a small area.	
+50	莉琉	是啊，粮食减产引起的问题通常有一定的滞后，毕竟各国都有风险储备。	是啊，糧食減產引起的問題通常有一定的遲滯現象，畢竟各國都有風險儲備。	そうだな。食糧減産の影響は、通常ある程度\n遅れてからやって来るものだ。\nそれに、各国にはリスクに対して備えもある。	맞아. 식량 생산 감소 문제가 일으키는 문제는 통상 반응이 좀 느리지만，\n결국 각국의 저축량이 위험해질 거야.	Yeah… Crop failure won't cause immediate harm. Countries have risk reserves anyway.	
+51	莉琉	看来另外五个学园都市里，首先按捺不住的就是他们。	看來另外五個學園都市裡，首先按捺不住的就是他們了。	だが、どうやら他の5つの学園都市の内で、\n最初に我慢できなくなったのは彼らのようだ。	나머지 5개 학원도시 중에 그들이 가장 참을 수 없을 거야. 	Seems Salmonton is the first to collapse, among all Academy Cities.	
+52	莉琉	萨蒙顿筹备了一支考察团，已经出发前往新丰洲了。	薩蒙頓籌備了一支考察團，已經出發前往新豐洲了。	サモントンは視察団を結成し、すでに新豊洲へと出発している。	살몬톤의 시찰단이 이미 신토요스로 출발했어. 	It has dispatched a delegation to New Opulentia, which is already on the way.	
+53	莉琉	我们作为主要粮食进口国，是无法拒绝他们的请求的。	我們作為主要糧食進口國，是無法拒絕他們的請求的。	こちらとしても主要食糧輸入国として、\n彼らの要求を拒否する事はできない。	우리는 주요 식량 수입 국가니까，그들의 요청을 거절할 수 없어.	As their major food importer, we cannot say no.	
+54	小怜	难道他们……会怀疑到我和安妮头上吗？	難道他們……會懷疑到我和安妮頭上嗎？	もしかして……俺とアニーが疑われているのか？	설마 그들이……나와 앤을 의심할까? 	Will they… suspect Annie and me?	
+55	莉琉	这就是我找你来的原因。	這就是我找妳來的原因。	さあ、どうだろうかな……？\n兎にも角にも、この視察団が非常に厄介だ。	그게 바로 내가 널 찾은 이유야.	That's what you're going to do.	
+56	小怜	诶？	什麼？	何か問題があるのか？	엣?	Eh?	
+57	莉琉	虽然打着“艺术交流”的旗号，但这支考察团可是由皇家保卫局亲自负责保密和安全工作的。	雖然打著「藝術交流」的名號，但這支考察團可是由皇家保衛局親自負責保密和安全工作的。	今回彼らは『芸術交流』という名目を掲げて、\n新豊洲までわざわざ来て下さる訳だが。\n彼ら視察団の安全管理を務めているのが、\nどうやら皇家保衛局らしくてな。	“예술교류”가 명목이긴 하지만，이 시찰단은 황실보위국이 직접 기밀과 안전 작업을 책임지고 있어.	Although it's under the banner of a "cultural exchange" program,  the delegation has been closely guarded by the Royal Security Service.	
+58	N/A	皇家保卫局……第四学园都市的情报机构，又称十字玫瑰（Rosenkreutz）。	皇家保衛局……第四學園都市的情報機構，又稱十字玫瑰（Rosenkreutz）。	皇家保安局……第四学園都市の情報機関\n別名『十字薔薇』（Rosenkreutz）\n優秀なのは言わずもがな。	황실보위국……제4학원도시의 정보기관으로 십자장미（Rosenkreutz）라고도 부른다.	The Royal Security Service… The intelligence agency of Salmonton, also known as Rosenkreutz.	
+59	N/A	虽然是间谍组织，但却因为描写其7号特工的系列电影而众所周知。	雖然是間諜組織，卻因為描寫其7號特務的一系列電影而眾所周知。	諜報機関なのに割と有名なのは、この機関に\n所属していたエージェント77（ダブルセブン）\nを描いた有名映画シリーズが出ているせいだ。	스파이 조직이지만，그 7번 첩보원 시리즈 영화 때문에 모두가 알고 있다.	For an intelligence service, it's too famous thanks to the Agent No. 7 movies.	
+60	小怜	那不是很麻烦吗？	那不是很麻煩嗎？	それって相当厄介じゃないのか？	그럼 엄청 곤란한 거 아니야?	Will it cause some troubles?	
+61	莉琉	没错，SID就算想做个背景调查都会处处受限。	沒錯，就算SID想做個背景調查都會處處受限。	そうだ、SIDも動きが制限されており、\n調査を行いたくても、中々手が届かない。	맞아. SID가 배경을 조사해보려 했지만 제한이 있어. 	Of course. SID even has difficulty in collecting background information.	
+62	莉琉	目前得到的消息里，与你有关的，就是那位贵族大小姐会去参观御樱川女子中学。	目前得到的消息中，與妳有關的，就是那位貴族大小姐會去參觀御櫻川女子中學。	お前と関係してくるのはここからだ。\n現在入手した情報によれば、例の貴族のお嬢様は\n新豊洲のとある場所へ見学に訪れるのだそうだ。\n………そう御桜川女子高等学校に。	현재까지의 정보 중 너와 관련된 정보는 그 귀족 아가씨가 사쿠라가와 여자 고등학교를 참관한다는 거야.	So far, what's relevant to you is that the girl will visit the Gosakuragawa Girls' High School.	
+63	小怜	来我的学校？！	來我的學校？ ！	俺の学校に！？	우리 학교에 온다고?!	My school?!	
+64	莉琉	这倒是不奇怪，她的年纪应该在读高二，也是高中生。	這倒是不奇怪，她的年紀應該在讀高二，也是高中生。	別に特におかしな事ではないぞ。\n彼女の年齢を普通に考えると、\n現在は高校二年生にあたるのだからな。	이상할 것도 없어. 고2 수업을 들을 나이니까，고등학생이기도 하고.	That's to be expected. She's about the age of a high school student.	
+65	莉琉	所以需要你在她参观的过程中，搞清楚考察团的具体目的。	所以需要妳在她參觀的過程中，搞清楚考察團的真正目的。	お前の任務は端的に言えばこうだ。\n\n彼女が見学している間に、\n視察団の具体的な目標とその真意を探り出せ。	학교를 참관할 때 시찰단의 구체적인 목적을 알아내도록 해.	So what you need to do is to find out the real purpose of their visit.	
+66	莉琉	我让情报部将萨蒙顿和戴克斯家族的背景知识做成了一本小册子，回去好好温习一下吧。	我請情報部將薩蒙頓和戴克斯家族的背景知識做成了一本小冊子，回去好好溫習一下吧。	情報部門に頼んで、サモントンとデックス家に\n関する情報をまとめさせた。\n帰ってから、ちゃんと勉強するように。	정보부에게 살몬톤과 덱스 가문의 배경 지식을 책으로 만들라고 할 테니，그걸로 예습해.	The intelligence services made a booklet about Salmonton and the Dekkers family. Now off you go and read it through.	
+67	小怜	哎，又要背书啊……\n总之交给我吧！	哎，又要背書啊……\n總之交給我吧！	えぇぇ――また暗記かよぉ……\nまぁ、とりあえず俺に任せろ！	아，또 책 외우기……\n어쨌든 나에게 맡겨!	Oops, memorization task again… \n I'll take care of it!	
+68	莉琉	回家的时候要小心色狼哦。	回家的時候要小心色狼哦。	あーそれと帰る時は変質者に気を付けるんだぞ。	집에 갈 때 변태 조심하고~!	By the way, watch out for the pervert on your way home.	
+69	小怜	喂！什、什么啦！	喂！ 什、什麼啦！	おいっ！　ど、どういう意味だよっ！	무，무슨 소리야!	W... what!	

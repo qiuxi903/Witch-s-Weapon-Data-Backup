@@ -1,0 +1,28 @@
+﻿1	N/A	江森变电所，战前建造的大型露天变电所，后被第一学院都市的江森重工整体收购。	江森變電所，戰前建造的大型露天變電所，後來被第一學院都市的江森重工收購。	江森変電所は、戦前に建てられた\n大型の屋外変電所で、\n第一学園都市の江森重工が買収したものだ。	존슨 변전소，전쟁 전 지어진 대형 노천 변전소로 훗날 제1학원도시의 존슨 중공업이 인수했다. 	The Johnson Substation is a huge open-air substation built before the war and later acquired by Johnson Heavy Industries based in the First Academy City.	
+2	N/A	这几年，随着『协约区』的用电需求骤增而不断扩容，如今的容量已经扩大了20倍。	這幾年，隨著「協議區」的用電需求暴增而不斷擴張，如今的容量已經擴大了20倍。	ここ数年『協定区域』の電気需要の急増を\n皮切りに、供給力を急激に拡大した。\n現在の最大供給量は20倍にも拡張されている。	요 몇 년간 『협약구역』의 전기 수요가 늘어감에 따라 현재 용량은 20배로 확장됐다.	Over the years, to meet the rocketing electricity demands in the "Agreed Zone," the Substation’s capacity has increased twenty-fold.	
+3	N/A	我和安妮从铁丝网的缺口处小心的进入变电所。	我和安妮從鐵絲網的缺口處小心地進入變電所。	俺とアニーは金網の欠けたところから用心深く\n変電所に侵入した。	나와 앤은 철조망 구멍을 통해 조심스럽게 변전소에 들어왔다.	Annie and I sneak into the Substation through a hole in the barbed wire fence.	
+4	小怜	这就是定位点了，情况看上去有点糟糕啊……\n我们来晚了吗？	這就是定位點了，看起來有點糟……\n我們來晚了嗎？	ここが指定された場所か、なんだか雰囲気が\nおかしいな………遅かったのか？	여기가 바로 그 지점이야. 상황이 조금 안 좋아 보이는데…\n우리가 늦은 걸까? 	This is the checkpoint, but it looks terrible… \nAre we late already?	
+5	N/A	此时，变电所周围回响着一种电流过载特有的嗡嗡声，电力设备上时不时喷出电火花。	此時，變電所周圍回響著一片電流過載時特有的嗡嗡聲，電力設備也不時噴出火花。	こうしている瞬間も、変電所の周辺はブーンと\n電流の過負荷時に響く特有の音を発生させ、\n設備からは時折火花が飛び散っている。	이때，변전소 주위에 전류 과부화 특유의 웅웅거리는 소리가 울리고，전력 설비에서 이따금 불꽃이 튄다.	The fixture in the Substation is giving out humming noise. Electric sparks come off from time to time.	
+6	N/A	地面和墙壁都有大片的树状灼痕，就像是被雷电侵蚀过……	地面和牆壁都有大片的樹狀焦痕，就像是被雷電侵蝕過……	地面と壁には大きな樹木模様の焼け跡が幾つも。\nまるで雷に侵食されたかのようだ……	땅과 벽에 커다란 나무 형태의 그을린 흔적이 있다. 마치 번개에 침식당한 것 같다…	Large tree-like burns appear on the floor and walls, as if they were struck by lightning…	
+7	安妮	这里似乎没有之前异变区域的感觉呀，莉琉该不会想让我们来维修变压器吧？	這裡似乎沒有之前身處異變區域的感覺，莉琉該不會只是讓我們來維修變壓器吧？	この前の異変区域のような感じはしないけど……\n\nマリルさんは私達に変圧器の修理をさせる\nつもりじゃないよね？	변이 구역의 기운이 느껴지지 않아. 마리루가 변압기를 고치라고 우릴 보낸 건 아니겠지?	I don't think the situation here is similar to previous flux areas. Is Mariru expecting us to repair the transformers here?	
+8	安妮	物理课的电学部分，我、我最头疼了……	物理課的電子學部分最讓我頭痛了……	物理の授業の電気何とか系は、\n私、一番頭が痛くなるのに……	물리 수업의 전기학은 정말 머리가 아파…	The physics of electronics … really a headache for me…	
+9	N/A	安妮说话时声音发抖，似乎回想起了被无法分清的左右手定则支配的恐惧。	安妮說話時聲音發抖，似乎回想起了被搞不清楚的左右手定律支配的恐懼。	アニーの声が震える。見分けがつかない\n左手と右手の法則に支配されていた、\nあの恐怖をきっと思い出しているのだろうか。	왼손법칙과 오른손법칙을 구분하지 못해 느꼈던 공포가 생각났는지 앤의 목소리가 떨린다.	Annie's voice is shaking. Looks like she has recalled the fear caused by the confusion of left- and right-hand rules.	
+10	小怜	等等，你听──\n前面好像……	等等，妳聽──\n前面好像……	待って、聞こえる──\nこの先に、なんか……	잠깐，들어 봐\n저 앞에……	Wait. Listen— \nIt’s in the front…	
+11	小怜	什么声音？！	什麼聲音？ ！	何の音！？	무슨 소리지?!	What's that?!	
+12	安妮	在、在上面──	在、在上面──	う、上ッ！　上に──	위，위에──	L… look up—	
+13	N/A	我抬起头，看到天上有一名全身电光环绕，手上戴着与体型不相称的金属拳套的蓝发少女——	我抬起頭，看到天上有一名全身電光環繞，手上戴著與體型不相稱的金屬拳套的藍髮少女——	見上げると、空が雷光に彩られている。\n\nその中に、体形に不釣り合いの金属グローブを\n装着した青髪の少女がいた。	고개를 들어보니 온몸이 전기로 둘러진，체형에 어울리지 않는 금속 장갑을 끼고 있는 파란머리 소녀가 있다.	I look up, and see a blue hair teenage girl in the air. She is surrounded by an electric glow, and wearing a pair of disproportionately large metal boxing gloves—	
+14	N/A	在她的周围，一群举止怪异的家伙，正在轮番对她发动猛攻。	在她的周圍，一群舉止怪異的傢伙，正在輪番對她發動猛攻。	少女の周囲には猟奇的な動きをしている連中が、\n手を休めず連続の猛攻撃を仕掛けている。	그녀의 주위에 행동이 괴의한 무리들이 차례로 그녀에게 맹렬한 공격을 개시하고 있다. 	She is being brutally attacked by a bunch of weird people.	
+15	N/A	其中一个女性周身环绕着像鬼火一样的东西。	其中一個女性身旁環繞著像鬼火一樣的東西。	そのうち1人の女性は、火の玉のようなものを\n全身に纏っていた。	그 중 한 여자의 몸 주위에 도깨비불 같은 것이 에워싸고 있다.	Among them is a woman immersed in will-o'-the-wisp.	
+16	N/A	从咽喉中发出尖锐的咯咯咯的声音，让人本能的感到不悦。	從咽喉中發出尖銳的咯咯聲，讓人本能地感到不悅。	喉からケラケラと甲高い声を出し、\n本能的な不快感を覚える。	목에서 각각각각 하는 날카로운 소리를 낸다. 본능적인 불쾌감을 준다.	Her throat is producing sharp, repulsive clucks.	
+17	N/A	而其他人……或者说无法确定是不是人的存在，似乎被什么支配着。	而其他人……或者說無法確定是不是人的存在，似乎被什麼支配著。	他の人は……\nいや、そもそも人かどうかも怪しい存在達は、\n何かに支配されているようだった。	나머지 녀석들은…인간인지 확신할 수 없지만，무언가에 지배당하고 있는 것 같다.	The other people… or creatures perhaps, seem controlled by something else.	
+18	N/A	在一轮轮的猛烈的攻击中，甚至身体也随着攻击的动作扭曲成不可能的角度。	在一輪輪的猛烈攻擊中，身體也隨著攻擊的動作扭曲成不可能的角度。	次から次へと繰り出す猛烈な攻撃の動きに伴い、\n四肢が人間ではありえない角度に曲がっている。	차례차례 이어지는 맹렬한 공격 중 심지어 몸도 공격 동작에 따라 불가능한 각도로 비틀어진다.	In rounds after rounds of fierce attack, their bodies bend and distort into impossible positions.	
+19	伊露卡	呼……哈、哈啊……	呼……哈、哈啊……	う……は、はぁ……はぁ……	후……하，하아…	Phoo… Huh… Huh…	
+20	N/A	蓝发的小姑娘被轮番攻击之下\n身上已经伤痕累累，只能勉力招架。	藍髮的小姑娘受到輪番攻擊之下，\n身上已經傷痕累累，只能勉強招架。	青髪の少女は、連続の攻撃の下に晒され続けた。\n\n身体中傷だらけになるも、懸命に堪える事しか\nできていない。	연속된 공격으로 이미 상처를 입은 파란머리 소녀가 애써 공격을 막아내고 있다. 	After waves of attacks, \nThe blue hair girl is seriously hurt. She can barely fight back.	
+21	N/A	不、与其说是少女，不如说是小女孩……\n毕竟她的外表看上去，只有十岁左右的样子。	不、與其說是少女，不如說是小女孩……\n畢竟看她的外表，只有十歲左右的樣子。	あんな小さな子なのに、ボロボロに……\n見た目からすると……10歳くらいかな？\n女子……というより女児…？	아니，소녀라기 보다，아이……\n외모를 보니 10살 정도의 어린 아이다. 	No, it's not even a teenager, but just a kid… \nShe looks only about 10 years old.	
+22	N/A	……呃，现在是纠结这种细节的时候吗？	……呃，現在是糾結這種細節的時候嗎？	──なんて、今そういう細かい事を気にしてる\n場合じゃないってッ！	……윽，지금 이런 걸 생각할 때가 아니잖아?	… Uh, is it the right time to focus on such a trivial thing?	
+23	小怜	安妮，你看——	安妮，你看——	アニー、ほら──	앤，저것 봐——	Annie, look—	
+24	疯狂的袭击者	伟大…的…タカDůマm─smrti─ガハラ─\n微光……黄泉…咯咯咯咯…	偉大…的…タカDůマm─smrti─ガハラ─\n微光……黃泉…咯咯咯咯…	偉大…なる…タカDůマm─smrti─ガハラ─\n微光……黄泉……ケケケケ…	위대…한…タカDůマm─smrti─ガハラ─\n미광…황천…각각각각…	The… great … タカDůマm—smrti—ガハラ—\nglimmer… hell… Ahahahaha…	
+25	疯狂的袭击者	全部…全部…全部…全部全部全部全部全部全部全部全部全部全部全部全部全部全部全部全部都！！！	全部…全部…全部…全部全部全部全部全部全部全部全部全部全部全部全部全部全部全部全部都！ ！！	全部…全部…全部…\n全部全部全部全部ゼンブぜんぶ\nゼンブゼェンブゼェェンブゼェェエッッッ！！！	전부…전부…전부…전부전부전부전부전부전부전부전부전부전부전부전부전부 다！！！	All… All… All… Aaaaaaall of them!!!	
+26	伊露卡	呃啊——！	呃啊——！	ぁ、ぁ、あぁッッ！！	크아——！	Ouch—!	
+27	安妮	那个小女孩，看上去快撑不住了！	那個小女孩，看起來快撐不住了！	あの女の子、もう堪えられないみたい！	저 아이，얼마 버티지 못할 것 같아!	The little girl seems worn out!	
+28	小怜	这群家伙——\n给我住手！！	這群傢伙——\n給我住手！ ！	おまえら──\nやめろぉッ！！	네 이 녀석들——\n멈춰！！	Bastards—\nStop!!	

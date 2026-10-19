@@ -1,0 +1,81 @@
+﻿1	N/A	『气凝胶喷雾』是爱衣博士发明的像发胶一样的罐装喷剂，可以瞬间喷出超大量的泡沫。	「氣凝膠噴霧」是愛衣博士發明、像髮膠一樣的罐裝噴劑，可以瞬間噴出超大量的泡沫。	『エアロゲルスプレー』愛衣博士が発明した\n缶タイプのスプレーだ。\n一見すればヘアスプレーのように見えるけど、\n一瞬で超大量の泡を噴射できる。	『에어로젤 분무기』는 아이 박사가 발명한 헤어스프레이 같은 깡통 분무기로 순식간에 대량의 거품을 만든다.	The Aerogel Spray is a hairspray-like weapon invented by Dr. Aya. It produces large amounts of foam in a split second.	
+2	N/A	泡沫在接触空气后会快速膨胀并凝固，凝固后的强度可以抵抗步枪子弹的冲击。	泡沫接觸空氣後會快速膨脹並凝固，凝固後的強度可以抵抗步槍子彈的衝擊。	泡は空気に接触すると同時に、\n素早く膨張して凝固する。\nゲルが固まった時の強度は、小銃の弾程なら\n簡単に防ぐ事ができる代物だ。	거품이 공기와 만나면 빠르게 팽창하고 응고된다. 응고 후에는 총알의 충격을 막을 수 있을 정도로 단단해진다. 	Once in the air, the foam will quickly inflate and solidify, becoming so hard that’s impenetrable even by bullets.	
+3	N/A	安妮拿着气凝胶喷雾在房门周围忙活的时候，我的注意力再次被地上的黄金蝴蝶吸引了。	安妮拿著氣凝膠噴霧在房門周圍忙碌的時候，我的注意力再次被地上的黃金蝴蝶吸引了。	アニーがエアロゲルスプレーを扉の周囲に\n吹きかけている最中、\n俺の注意は再び床にある黄金の形をした蝶に\n惹きつけられていた。	앤이 에어로젤 분무기로 방문을 봉쇄할 때 난 또 다시 황금나비에게 시선을 뺏겼다.	As Annie seals the door with aerogel, I'm again attracted by the golden butterfly on the floor.	
+4	小怜	（看上去只是精巧的艺术品嘛……）	（看上去只是精巧的藝術品嘛……）	（見た目は、精巧な芸術品に見えるだけ……）	（정교한 예술품 같이 생겼어……）	(It seems just a gorgeous artwork…)	
+5	小怜	（好想摸摸看……）	（好想摸摸看……）	（でも……触ってみたい……）	（만져보고 싶다……）	(I really wanna touch it…)	
+6	N/A	我感到小腹一阵发热，眼前的光亮不断扩散，情不自禁的想要伸出手──	我感到小腹一陣發熱，眼前的光亮不斷擴散，情不自禁地想要伸出手──	下腹部が熱くなり、\n目の前で光が拡散していくのを感じる。\n思わず手を伸ばそうとして──	배에서 열이 느껴지고 빛이 계속해서 퍼진다. 손을 뻗고 싶은 걸 참을 수 없다.	A burning urge catches me, and everything in front of me gives out a dazzling glow. I can't help reaching out—	
+7	安妮	喂！！小怜！！	喂！ ！小憐！ ！	ちょ、ちょっとッ！！ちょっとッ！！\nレンちゃんッ！！	어이！！렌！！	Stop!! Ren!!	
+8	N/A	安妮一把抓住了我的手腕，我才突然回过神来。	安妮一把抓住了我的手腕，我才突然回過神來。	アニーに腕を掴まれ、俺は我に返った。	앤이 내 손목을 잡자，갑자기 정신이 돌아왔다.	Annie grabs my wrist. Then I suddenly come to myself.	
+9	安妮	这东西可能会影响人的精神……所以他们才要装在那种手提箱里保存吧？	這東西可能會影響人的精神……所以他們才要裝在那種手提箱裡保存吧？	これって、人の精神に影響するモノかも……\n\nだからこの人達もアタッシュケースに入れて\n保管してたんじゃないかな？	이게 사람의 정신을 홀리게 하는 것 같아...그래서 저 케이스 안에 보관한 거겠지?	Maybe this thing can invade people's mind… Is that why they have to keep it in that suitcase?	
+10	小怜	啊！我差点……	啊！ 我差點……	はっ！　俺もう少しで……	아！하마터면……	Ah! I almost…	
+11	安妮	这个黄金蝴蝶，有一种熟悉的气息……\n我怀疑，它是某种『魔导器』。	這個黃金蝴蝶，給我一種熟悉的感覺……\n我懷疑它是某種「魔導器」。	この金色の蝶から、知っている気配を感じる……\nこれは一種の『魔導器』だと思うの。	이 황금나비，익숙한 느낌이 들어…\n혹시 『마도기』가 아닐까?	This golden butterfly seems familiar… \n I suspect this is a Witch's Shard.	
+12	小怜	魔导器？	魔導器？	……魔導器？	마도기？	A Witch's Shard?	
+13	安妮	唔，怎么说呢……	唔，怎麼說好呢……	う～ん、なんて言ったらいいか……	음，어떻게 얘기해야 하나……	Hmm, how should I put it…	
+14	安妮	所谓魔法，其实是由一种特殊的『信息』经人的大脑转化而成的知识。	所謂魔法，其實是一種特殊的「訊息」經由人的大腦轉化而成的「知識」。	魔法って、特殊な『情報』を人間の脳によって\n転換した知識そのものなの。	마법은 사실 일종의 특수한 『정보』가 사람의 대뇌를 지나 전환된 지식이야.	Magical power is actually a kind of knowledge that a human's brain absorbs from a unique type of "information".	
+15	安妮	但人类获得和积累这种知识，往往是以丧失理智为代价的……	但人類想要獲得和累積這種知識，往往是以喪失理智做為代價……	だけど、人間がそんな知識を獲得して蓄積すると\n代償として理性を失うリスクが付きまとう……	하지만 인간이 이 지식을 누적하면 그 대가로 이성이 상실되곤 하지……	But people obtain and secure this knowledge usually at the cost of their sanity.	
+16	小怜	我想到了之前在变电所遇到的女巫和异变空间中的那些敌人。	我想到了之前在變電所遇到的女巫和異變空間中的那些敵人。	それを聞いてこの前変電所で遭遇したドールや、\n異変空間にいた敵達の事を思い出した。	변전소에 봤던 무녀와 변이공간 안의 적들이 생각났어.	The witches in the Substation and enemies in flux areas come into my mind.	
+17	小怜	那就是因为获得了自己无法承受的『知识』，而完全丧失了理智的状态吧。	那就是因為獲得了自己無法承受的「知識」，反而完全喪失了理智吧。	あいつらは自分の許容範囲を超えた『知識』を\n手に入れたことで完全に理性を失った状態に、\nきっとなってしまったんだろう。	그게 바로 감당할 수 없는『지식』을 얻어서 이성이 상실된 상태지? 	Their insanity must be caused by the over accumulation of "knowledge" that their body cannot stand.	
+18	安妮	那种『信息』其实是可以切割和分块存储的，魔导器就是能存储这种小块『信息』的载体。	那種「訊息」其實是可以切割和分塊儲存的，魔導器就是能儲存這種小塊「訊息」的載體。	でも、この『情報』って実は分割して個別に\n保存できちゃうのよ。\n分割された『情報』を保存する受け皿。\n……それが魔導器。	그 『정보』는 분할해서 저장할 수 있어. 마도기가 바로 그런 『정보』 조각의 저장 장치야.	The "information" can actually be divided into pieces and stored separately. A Witch's Shard is a container of such small pieces of “information".	
+19	安妮	至于为什么有这样的设计，我猜可能是为了方便人们追求自己的极限吧……	至於為什麼有這種設計，我猜可能是為了方便人們探求自己的極限吧……	なんでこんな方法があるのかと言うと、\n\nおそらくだけど、人間が自分の許容を限界まで\n追求していくためにあるんだと思う……	인간이 자신들의 한계를 탐구하기 편하려고 이렇게 설계한 것 같아……	As to the reason for this design, I guess it's created for humans to push their limits…	
+20	小怜	为了测试自己在不丧失理智的情况下所能承受的极限，而靠魔导器一点一点吸收魔法的知识？	為了測試自己在不喪失理智的情況下所能承受的極限，而靠魔導器一點一滴地吸收魔法的知識？	自分が理性を失わず、堪えれる限界を試すため、\n魔導器で少しずつ魔法の知識を吸収するって事？	어디까지 이성을 상실하지 않고 수용할 수 있는지 한계를 실험하기 위해 마도기의 지식을 조금씩 흡수한다고?	To figure out the extent to which they can get away with without losing their sanity, they use Witch's Shards to absorb knowledge little by little?	
+21	小怜	这件事本身听起来就很疯狂了！	這件事聽起來就很瘋狂了！	そんなの行為自体が既に狂ってるじゃないか。	듣기만 해도 미친 짓 같은 걸！	The act itself sounds crazy enough!	
+22	安妮	会不断的如饥似渴的探求新的知识，不如说这是人类的天性吧……\n就算是注定会走向毁灭……	人類會不斷渴求新的知識，可能是天性吧……\n就算是注定最後會走向毀滅……	絶えず新しい知識を貪り求めてしまう。\n人間の本性っていうか……\nたとえそれが、滅びに繋がる運命だとしても……	새로운 지식을 추구하는 게 인간의 본성이겠지....\n설령 소멸된다고 해도....	It's probably human nature to eagerly devour new knowledge… \n Even if the result is set to be disastrous.	
+23	小怜	那接触到魔导器的普通人，如果没有足够的天赋\n会不会也会像变电所的女巫那样……	如果沒有足夠天賦的普通人接觸到魔導器，\n是不是就會變成變電所的女巫那樣……	じゃあ、もし魔導器に接触した一般人に、\n十分な素質がない場合は……\n変電所のドールのように……	마도기를 만진 일반인이 충분한 재능을 가지고 있지 않으면\n변전소의 무녀처럼 변할까?	What if an ordinary girl gets the Witch's Shard, but hasn’t got the knack to use it \n Will she become one of the witches we met in the Substation…	
+24	安妮	很有可能，而且魔导器上没有覆盖结界，任何人都可以直接触碰。	很有可能，而且魔導器上沒有覆蓋結界，任何人都可以直接觸碰。	うん、その可能性は高いね。\n\nそれに魔導器は結界とかに覆われてないから、\n誰でも直接触る事ができてしまうの。	가능성 있어. 게다가 마도기는 결계가 없어서 누구라도 만질 수 있으니까.	Very likely. And there's no shield around the Witch's Shard, so anyone can directly touch it.	
+25	小怜	那岂不是超危险啊！！	這樣不是超級危險！ ！	それって、超危険じゃないか！！	그렇다면 엄청 위험하잖아！！	Isn't it super dangerous then?!	
+26	N/A	──轰！\n──轰！	──轟！ \n──轟！	──カツン……ッ！\n――ドンッ！！！	──쾅！\n──쾅！	—Boom! \n —Boom!	
+27	N/A	外面突然传来木质大门受到重击的声音。	突然間，房外傳來木質大門受到重擊的聲音。	外から、木製の扉を強く打ち付ける音がした。	바깥에서 목재 대문이 충격을 받는 소리가 들려온다. 	Outside the room come low and deep sounds of heavy hammering on the wood door.	
+28	小怜	是保安军！	是保安警察！	保安軍か……！?	보안군이야！	The security soldiers!	
+29	N/A	──喀啦啦！！\n只撞了两下，皇室套房的大门就被破门锤砸烂了。	只撞了兩下，皇室套房的大門就被破門錘砸爛了。	──バキィッ！！！\n\nたった2回の音がしただけで、\nロイヤルスイートの扉の元は破られた。	──콱 와르르！！\n두 번의 충격에，황실 스위트룸의 대문이 박살났다.	—Crack!! \n After just two hits, the door of the Royal Suite is smashed into pieces by a door breaker.	
+30	N/A	──咚~──咚~──咚~\n──咚~──咚~──咚~	──咚～──咚～──咚～\n──咚～──咚～──咚～	──ドンッ！！　ドンッ！！　ドンッ！！\n──ドンッ！！　ドンッ！！　ドンッ！！	──퉁──퉁──퉁\n──퉁──퉁──퉁	—Thump! —Thump! —Thump! \n —Thump! —Thump! —Thump! 	
+31	N/A	随后传来的，是破门锤徒劳的砸在气凝胶干块上的声音。	隨後傳來的，是破門錘徒勞無功地砸在硬化氣凝膠上的聲音。	今度は凝固したエアロゲルを打ち付ける音が\n聞こえたが、音の響きはさっきより断然薄く、\n突入部隊は大分、手こずっているようだ。	이어서，부서진 문의 추가 에어로젤 덩어리에 부딪히는 소리가 들린다. 	Then come the sounds of door breakers hitting the solid aerogel foam in vain.	
+32	安妮	应该能拖到莉琉小姐到达吧……\n爱衣博士的装备真厉害呢。	應該能撐到莉琉小姐到吧……\n愛衣博士的裝備真厲害呢。	マリルさんの到着までは耐えれそうだね……\n愛衣博士の発明って本当にすごい。	마리루씨가 올 때까지 버틸 수 있겠지?\n아이 박사의 장비는 정말 대단해.	Maybe it could hold on until Ms. Mariru arrives… \n See, Dr. Aya's invention works!	
+33	N/A	我摸了摸自己被强行添加了扬声器功能的胸部。	我摸了摸自己被強行添加了擴音器功能的胸部。	──知らぬ間にスピーカー機能が内蔵された\n自分の胸元を触ってみた。	나는 마이크 기능이 강제로 추가된 가슴을 만졌다. 	I touch my chest, where Mariru has the speaker planted without my knowledge.	
+34	小怜	啊哈哈……\n是很厉害呢……	啊哈哈，雖然體檢時總是怪怪的……\n但是她的確很厲害呢……	アハハ……ホントニスゴイヨナ……\nっておわッ！？！？	아하하……\n대단하네……	Aha… \n Yeah, it works…	
+35	N/A	突然，不知何时醒来的拉斐尔连着绑着她的椅子向我摔了过来。	突然，不知何時醒來的拉斐爾連著綁著她的椅子一同朝我撞了過來。	──突然\nいつの間にか眠りから目覚めたラファエルが、\n椅子に縛り付けられたまま俺に向かって\n倒れ込んできた。	갑자기，라파엘이 언제 일어났는지 몸이 묶여있는 의자를 날 향해 휘두른다.	Suddenly, Raphilia now awake, hurls herself towards me, the chair still tied to her body.	
+36	拉斐尔	绝不会……让你拿走任何东西！	絕不會……絕不會讓妳拿走任何東西！	何1つ奪わせたりはしない……絶対にっ！	절대……어떤 것도 가져갈 수 없어！	Never… will you take anything away!	
+37	拉斐尔	你这个内置音响的死变态！！	妳這個內建音響的死變態！ ！	このオーディオ内蔵仕様の変態め！！	몸에 마이크를 심은 변태 자식 ！！	You speaker-mounted pervert!!	
+38	N/A	拉斐尔趁着椅子倒地的冲击力挣脱了束缚，紧接着就想要抢走地上的那只黄金蝴蝶。	拉斐爾趁著椅子倒地的撞擊掙脫了束縛，緊接著就想搶走落在地上的黃金蝴蝶。	ラファエルは椅子が地面に倒れた時の衝撃を\n利用して束縛から抜け出し、\n床に落ちている黄金の蝶を取り戻そうとする。	라파엘이 의자가 넘어진 충격을 빌어 결박을 풀고 바닥의 황금나비를 가져가려고 한다.	Raphilia breaks free as the chair hits the floor. Then she rushes to grasp the golden butterfly.	
+39	N/A	我见状立即扑了过去，眼看马上就要和拉斐尔撞在一起──	我見狀立即撲了過去，眼看馬上就要和拉斐爾撞在一起──	その様子を見て俺もすぐに飛び掛かった。だが、\n今にもラファエルとぶつかりそうになって──	서둘러 라파엘을 덮친 내가 그녀와 부딪히려고 할 때──	Seeing this, I pounce towards the butterfly, almost about to crash into her—	
+40	安妮	不行啊小怜！！	不行啊！ 小憐！ ！	ダメだよ！！レンちゃんッッ！！！	안 돼，렌！！	No, Ren!!	
+41	N/A	！！！	！ ！！	っ！！！	！！！	!!!	
+42	N/A	砰──！	砰──！	ゴツン――ッ！	펑──！	Bang—!	
+43	N/A@小怜	（诶？我抢到了吗？）\n（不对……）	（欸？ 是我搶到了嗎？ ）\n（不太對……）	（あれっ？　俺が取ったのか？）\n（いや違う……）	（엣？뺏은 건가？）\n（이상해……）	(Uh? Did I get it?) \n (Oops…)	
+44	N/A@小怜	（这柔软的触感是……）	（這種柔軟的觸感……）	（この柔らかい感触は……）	（이 부드러운 촉감은……）	(The soft thing is…)	
+45	N/A@小怜	（有点熟悉的手感，似乎不久前还摸到过）	（還有熟悉的手感，似乎不久前還摸到過……）	（なんだかこの感触、少し前にも触った事が\n　ある気がする）	（조금 익숙한 촉감，얼마 전에 만져본 것 같은데）	(It feels familiar. I just touched it)	
+46	N/A@小怜	（等等，难道……！）	（等等，難道……！ ）	（ちょっと待ってくれ、まさか……！）	（잠깐，설마……！）	(Wait. Could it be…!)	
+47	N/A@拉斐尔	你……你这个！	你……你這個！	こ……この、あんたッ！	너……너！	… You!	
+48	N/A@拉斐尔	臭流氓！！！	臭流氓！ ！！	ど、ど変態めッ！！！	변태자식！！！	Pervert!!!	
+49	N/A	──啪！	──啪！	──バチンッ！！	──찰싹！	—Slap!	
+50	N/A	随着一个清脆的巴掌，一阵失重的眩晕感传来。	一個清脆的巴掌後，一陣失重的眩暈感傳來。	はっきりと聞こえるビンタの音。\nまるで無重力のような目眩を感じた。	뺨을 때리는 소리와 함께 현기증이 몰려온다.	The resounding slap makes me dizzy.	
+51	N/A	许多支离破碎的影像碎片在我的脑海中闪过，周围的声音在刹那间全部消失了。	許多支離破碎的影像碎片在我的腦海中閃過，周圍的聲音在剎那間全消失了。	走馬灯みたいな映像の破片が、\n俺の脳裏を走っていく。\nそして周りの音はあっという間に全てなくなる。	수많은 조각난 화면이 내 머릿속을 스치고 주위 소리가 순식간에 사라진다.	Visual images flash through my mind, everything was muted in an instant.	
+52	N/A	我好像进入了另一个世界。但那种奇怪的感觉，转瞬即逝。	我好像進入了另一個世界。 但那種奇怪的感覺，轉瞬即逝。	まるで別の世界に入ったかのように。\n\nだけど、その変な感覚は一瞬で消えた──	마치 다른 세계에 들어온 것 같다. 하지만 그 이상한 느낌은 곧 사라져 버렸다.	I feel like in another world. The strange feeling disappears in the blink of an eye.	
+53	N/A	当我再次睁开眼时，发现自己依旧站在酒店的房间里。	當我再次睜開雙眼時，發現自己依舊站在酒店的房間裡。	再び目を開けた時、自分は依然としてホテルの\n部屋の中で立っていることに気づいた。	다시 눈을 떴을 때는 여전히 호텔 방 안이었다.	As I open my eyes, I find myself still in the Royal Suite.	
+54	N/A	那个黄金蝴蝶的饰品好像活了一样展翅飞到了我的胸口上，变成了一道耀眼的闪光。	但那個黃金蝴蝶好像活起來了，展翅飛到我的胸口上，形成了一道耀眼的閃光。	黄金の蝶のアクセサリーが、\nまるで生きているかのように羽ばたく──\nそして俺の胸に飛び込み、眩い輝きに変わった。	그 황금 나비의 장식은 살아있는 것처럼 내 가슴 위로 날아와 눈부신 빛으로 변했다.	The golden accessory comes alive and lands on my chest, beaming a glistening light.	
+55	小怜	怎么会……？	怎麼會……？	そんな……？	어떻게 이럴수가……？	How would this…?	
+56	N/A	当光芒化作星沙，缓缓消失之后，我感觉脸颊被轻柔的抚过，有一种奇秒而温软的触感刻在了心里。	當光芒化作星沙，緩緩消失之後，我感覺臉頰被輕柔的撫過，有一種奇妙而溫軟的觸感刻到了心裡。	──輝きが星の砂となり薄らかに消えていく。\n\n直後、俺の頬が優しく撫でられるのを感じ、\n奇妙にも柔らかい触感が心に刻まれた。	빛이 별가루가 되어 사라진 후 기묘하고 다정한 촉감이 마음 속에 각인된다. 	When the light grows dimmer and gradually disappears, I feel my face gently caressed. That soft, magical touch is engraved on my mind.	
+57	小怜	──咦？	──咦？	──あれっ？	──에？	—Eh?	
+58	N/A	房间原本的空地上，出现了一位美艳动人的女性。	房間原本的空地上，出現了一位美艷動人的女性。	部屋の元々空いていたスペースに…\n\n……美しい女性が現れた。	방 안，원래 아무것도 없던 자리에 아름다운 여성이 나타났다.	In the open space of this room, a gorgeous woman appears.	
+59	N/A	淡红的双眸与长发，颀长的身姿，凝脂般无暇的肌肤，令人无法移开目光……	淡紅的雙眸與長髮，修長的身形，柔白無瑕的肌膚，令人無法移開目光……	薄赤い瞳と長い髪。すらっとした姿。\nきめ細やかな肌から、目線をそらせない……	옅은 붉은색 눈동자와 긴 머리，늘씬한 자태，흠 없이 매끄러운 피부，눈을 뗄 수가 없다……	My eyes are fixated on her light-red eyes and hair, slim body, and jade-like skins.	
+60	小怜	（……发生什么了？）\n（嘴唇，刚刚好像被什么给碰了一下！）	（發生什麼事情了？ ？）\n（嘴唇，剛剛好像被什麼給碰了一下！ ）	（……一体何が起こった？）\n（唇が、さっき何かに触れたみたいだけど！）	（……무슨 일이 일어난 거지？）\n（방금 입술에 뭔가 닿은 것 같아！）	(… What happened?) \n (My lips were touched by something!)	
+61	小怜	（……哈哈哈，不对不对！）\n（我在想什么呢，这种事不可能的！）	（……哈哈哈，不對不對！ ）\n（我在想什麼呢，才不可能發生這種好事呢！ ）	（……あはは～、違う違うっ！）\n（何考えてるんだ俺、そんな事はあり得ない！）	（……하하하，안 돼. 안 돼！）\n（무슨 생각을 하는 거야. 그럴 리가 없잖아！）	(… Hahaha, nothing!) \n (What was I thinking about? It's impossible!)	
+62	小怜	（不、不可能的！！！）	（不、不可能的！ ！！ ）	（あ、あり得ないんだってッ！！！）	（그，그럴 리 없어！！！）	(No… not impossible!!)	
+63	小怜	（糟糕，这种感觉，这种感觉……）	（糟糕，這種感覺，這種感覺……）	（やばい、この感覚、この感覚は……）	（젠장，이 느낌，이 느낌은……）	(Crap, the feeling… The feeling…)	
+64	突然降临的女性	啊，感受到了久违的温度呢。	啊，終於感受到久違的溫度了。	あぁ、──久しぶりに温度を感じたわ。	아，오랜만에 온도를 느꼈어요. 	Hmmm, the long-lost warmth of a human's body.	
+65	突然降临的女性	晚上好啊，诸位年轻的小姐~	晚安啊，各位年輕的小姐～	こんばんは、うら若きお嬢さん達。	좋은 밤이에요，어린 아가씨들~	Good evening, young ladies!	
+66	小怜	……	……	…………	……	…	
+67	N/A	我的心跳不断加快，情不自禁的向她靠近，四肢都不听使唤了。	我的心跳不斷加快，情不自禁地靠近她，四肢完全不聽使喚。	俺の鼓動の加速が止まらない。\n\n手と足も言う事を聞かなくなり、思わず彼女に\n近付いてしまう。	심장박동이 빨라지고，나도 모르게 그녀에게 다가간다. 사지가 말을 듣지 않는다. 	My heart is beating faster. I can't help walking towards her. My limbs are no longer mine.	
+68	N/A	就在众目睽睽下，我张开双臂，用力抱住了她。	眾目睽睽下，我張開雙臂，用力抱住了她。	みんなの目の前であるにも関わらず、\n俺は両腕を広げ、力一杯に彼女を抱きしめた。	모두가 보는 앞에서，두 팔을 벌리고 그녀를 꽉 안았다.	I spread my arms and wrap them tightly around her, in full view of everyone.	
+69	突然降临的女性	哎，这位漂亮的小姐，你是身体不适吗...？	哎，這位漂亮的小姐，妳身體不適嗎……？	あらあら、可愛らしいお嬢さん、\n具合でも悪いのかしら……？	이 아름다운 아가씨는 몸이 안 좋으신가요...？	Hello, sweetie. You don’t feel well, are you…?	
+70	小怜	请问……	請問……	あ…あのぅ……	저……	Excuse me…	
+71	小怜	你愿意告诉我你的名字吗……	可以告訴我妳的名字嗎……	名前を……教えてくれませんか……	이름을 알려주실 수 있으신가요……	May I know your name please…	
+72	N/A	奇怪，对方的身体好像在不断变重……\n连体温也在不断变热啊……	奇怪，對方似乎不斷變重……\n連體溫也不斷地升高……	おかしいな……\n俺の身体がすごく重くなってきたように感じる…\nなんか体温も異様に熱くなってきて……	이상해. 상대방의 몸이 점점 무거워지고\n체온도 계속 올라간다……	It's weird. Her body seems to get heavier and heavier… \n And her temperature rising…	
+73	N/A	我到底是……怎么了啊！！	我到底是……怎麼了啊！ ！	俺は一体……どうなっちまったんだ……ッ！！	나 도대체……왜 이러는 거야！！	What’s wrong with me!!	
+74	突然降临的女性	……哎呀呀\n真是不可思议。	……哎呀呀！ \n這還真是不可思議呢。	……あらら\n不思議なものね。	……아하하\n정말 불가사의하군요.	… Ooh la la! \n This is so unbelievable.	
+75	拉斐尔	！！？	！ ！？	ッ！！？	！！？	!!?	
+76	安妮	──小怜！！	──小憐！ ！	────レ、レンちゃぁん！！！	──렌！！	—Ren!!	
+77	N/A	安妮一把将我从对方怀中拉开。	安妮一把將我從對方懷裡拉開。	アニーが部屋に現れた女性の懐から、\n俺を一気に引き剥がした。	앤이 상대방의 품에서 나를 끌어낸다.	Annie drags me away from the woman.	
+78	拉斐尔	你……究竟是谁？	妳……究竟是誰？	あなた……一体何者？	당신은……도대체 누구지？	Who… are you?	
+79	贝阿特丽切	如果我的名字在这个时代没有被列入禁忌的话……请唤我为贝阿特丽切吧。	呵～如果我的名字在這個時代沒有被列入禁忌的話……請叫我貝阿特麗切吧。	私の名前が、この時代においてタブーとされて\nいなければ……\nベアトリーチェと呼んでちょうだい。	만약 제 이름이 이 시대에 금기된 이름이 아니라면……베아트리체라고 불러주세요.	If my name is not a taboo in your era… Please call me Beatrice.	
+80	小怜	好好听的名字啊……	不但人美，連名字都好好聽喔……	素敵な名前だなぁ～……	예쁜 이름이다……	What a beautiful name…	
+81	安妮	小怜……\n小怜好像变成花痴了啊！！	小憐……\n小憐好像變成花痴了啊！ ！	レンちゃぁん……\nレンちゃんの頭の中が……\nお花畑になっちゃったああぁぁぁ――ッッ！！！	렌……\n렌 정말 변태로 변한 것 같아！！	Ren… \n You start to look like a horndog!	

@@ -1,0 +1,119 @@
+﻿1	牛奶	通行权限……搞定。	通行權限……搞定。	入室権限……よしっ。	통행 권한……완료.	Request access... okay, done. We’re in.	
+2	N/A	哔——\n监控室的大门应声打开。	嗶——\n監控室的大門應聲打開。	ピ──\n\n音と共に監視室の扉が開く。	삐——\n제어실의 대문이 열린다. 	Beep—\nThe door to the control room swings open.	
+3	N/A	室内的音感监控同时开启，白烛和牛奶互相搀扶着走进了房间。	室內的聲音感測器同時開啟，白燭和牛奶互相攙扶著走進房間。	室内の音感監視システムも同時に作動した。\n\nバイジュウとミルクはお互いを支え合いながら、\n部屋へと入る。	실내의 음성 센서가 동시에 켜지고，바이츄와 밀크가 서로를 부축하며 안으로 들어선다.	The sound-sensing surveillance system in the room begins operating as well. Supporting each other, Beth and Milk enter the room.	
+4	白烛	咳、咳咳——	咳、咳咳……	ゴホッ、ゴホッゴホ――	큭、커억——	*Coughing*	
+5	牛奶	呼，哈啊……	呼，哈啊……	ふぅ、はぁ……っ	후，하아……	*Heavy panting*	
+6	白烛	这里暂时应该是安全的……	這裡暫時應該是安全的……	ここなら、しばらく安全なはず……	여기는 잠시 안전할 거야.	We should be safe here... for now.	
+7	牛奶	嗯，我去看一下系统。	嗯，我去看一下系統。	そうだね……\nちょっとシステムの様子を見ておくよ。	응，난 시스템을 살펴볼게.	Yeah. I’ll check the system.	
+8	N/A	牛奶走到主控台前检查屏幕信息，对好友刚才展现出的异能和惊人的作战能力闭口不谈。	牛奶走到主控台前檢查螢幕訊息，絲毫不提及好友剛才展現出的異能和驚人的作戰能力。	ミルクはメインコンソールの前に移動し、\nスクリーンの情報を確認する。\n先ほど親友が見せた異能と驚異的な戦闘能力には\n一切触れない。	밀크가 그녀의 이능과 작전 능력에 대해서는 한 마디도 하지 않고 메인 콘솔의 스크린을 살펴본다. 	Milk walks over to the control panel and checks out the messages on the screen. They don’t talk about the elephant in the room—the skills that Beth had just unleashed. Clearly not human.	
+9	牛奶	哎嘿~居然是通用Genuine……	哎嘿～居然是通用Genuine……	ほほうっ！ まさかの汎用Genuineと来たか……	오호~통용 Genuine라……	Ooh, they‘re using Genuine for their security system. Nice.	
+10	N/A	牛奶曾对白烛炫耀过，在军总三部的电子对抗考核中，她是最快攻破这套安保系统的。	牛奶曾向白燭炫耀過，在軍總三部的電子戰考核中，她是最快破解這套保全系統的。	以前、ミルクがバイジュウに自慢した事がある。\n全軍合同の電子戦テストにおいて、\n彼女はこの保安システムを最速でハッキングした\n記録を持っていると。	밀크가 전자 대항 시험에서 가장 빨리 보안 시스템을 풀었다고 자랑한 적이 있다.	Milk loves boasting about her hacking expertise to Beth. The Genuine system—piece of cake for her. She’s done much harder.	
+11	白烛	牛奶，我……	牛奶，剛才，我……	ミルク、私……	밀크，나……	Milk, I...	
+12	牛奶	安心安心~我明白的。	放心放心～我都懂。	心配しないで、分かってるよ～～	안심해~ 알고 있어.	Shh, it’s fine, I get it.	
+13	N/A	牛奶看着面露不安的少女，有些心疼的摸了摸她的头。	牛奶看著面露不安的少女，有點心疼地摸了摸她的頭。	不安そうな表情をしている親友を見て、\nミルクは愛しげに彼女の頭を撫でた。	밀크가 불안한 표정을 하고 있는 소녀의 머리를 조금 마음 아파하며 쓰다듬는다. 	Milk pets the shaken younger girl on the head with one hand, fondly.	
+14	N/A	她不仅完全理解，甚至有些庆幸好友对自己隐瞒了那种能力。	她不僅完全理解，甚至有些慶幸好友隱瞞了那種能力。	彼女は完全に理解していた。\n\nその能力を隠していた事は今回の場合、\n幸いにもありがたい事だった。	그녀는 친구가 자신에게 그런 능력을 숨긴 것을 다행이라고 생각했다.	She really does get it. It’s not like her friend had been hiding her skills on purpose to spite her.	
+15	N/A	不然以Boss的风格，大概不会轻易放过这样的“战略资源”吧……	不然以Boss的風格，大概不會輕易放過這樣的「戰略資源」吧……	Bossのやり口なら、こんな「戦略的資源」を\n簡単に見逃すはずがないだろうから……	그렇지 않았다면 Boss의 스타일 상 이런 "전략 자원"을 가만 두지 않았을 것이다.	After all, if the Boss found out, he’d be way too delighted to utilize this “tactical resource” to the max.	
+16	N/A	牛奶顺手从白烛头上取下了一根黑色金属发卡，白烛有些意外的看着她，不知要做什么。	牛奶順手從白燭頭髮上取下一根黑色金屬髮夾，白燭一臉疑惑地看著她。	ミルクはバイジュウの頭から黒い金属製の\nヘアピンを外す。\n目的が何なのか分からず、バイジュウは少し\n不思議そうにミルクを見つめている。	밀크가 바이츄의 머리에서 검은색 금속 머리핀을 떼낸다. 바이츄가 뜻밖이라는 듯 그녀를 본다.	As she pets her head, Milk removes a black metal hairpin from Beth’s hair. Beth stares, confused.	
+17	N/A	牛奶扮了个鬼脸，然后转身轻巧的钻到了主控台的桌子下面。	牛奶扮了個鬼臉，然後轉身輕巧地鑽到主控台的桌子下面。	ミルクはおどけた顔をした後、\nメインコンソールの下に潜り込んだ。	밀크가 익살스런 표정을 하고 몸을 돌려 메인 제어대의 테이블 아래로 넘어간다. 	Milk makes a face at her and crouches down swiftly, disappearing under the control panel desk.	
+18	N/A@牛奶	用金属把这里短路的话，就会触发过载保护。	用金屬讓機器短路的話，就會觸發過載保護。	金属でここをショートさせると、過負荷保護を\n誘発できるの。	금속으로 이곳에 합선을 일으키면 과부하 보호가 발동되지.	If I use a metal object to short-circuit the system, it triggers the automatic overload defense.	
+19	N/A	一阵微小的放电声后，主控台上两排指示灯同时熄灭，中央屏幕上的影像也变成一片雪花。	一陣微小的放電聲後，主控台上兩排指示燈同時熄滅，中央螢幕上的影像瞬間成了雪花。	小さな放電音の後、メインコンソール上にある\n両列の指示ランプが同時に消え、\n中央スクリーンの映像もノイズへと変わった。	미세한 전기 소리와 함께 메인 콘솔의 양쪽 지시등이 동시에 꺼진다. 중앙 스크린의 영상 역시 눈보라 같은 화면이 된다.	After a tiny, fizzling sound, the two rows of indicator lights on the panel go out at once. The central screen is now all static.	
+20	N/A	接着牛奶从桌底钻出来，取出自己手表里内置的数据线缆，插在了桌面的接口上。	牛奶隨即鑽了出來，取出藏在錶內的數據纜線，插到桌面的連接埠上。	机の下から出てきたミルクは、自分の腕時計に\n内蔵したケーブルを取り出し、\n机上の端末に挿し込む。	밀크가 테이블 아래에서 나와 내장된 데이터 케이블을 테이블의 포트에 꽂는다.	Scrambling out from under the desk, Milk pulls out a data cable from inside her watch and plugs it into the desktop jack.	
+21	N/A	几秒钟后，主控台的指示灯重新亮起，散热风扇再次开始转动。	幾秒鐘後，主控台的指示燈重新亮起，散熱風扇再次開始轉動。	数秒後、メインコンソールの指示ランプが\n再び点灯し、放熱ファンも再度運転を始めた。	몇 초 후 메인 콘솔의 지시등이 다시 켜지고 냉각팬도 다시 돌아가기 시작한다.	Seconds later, the indicator lights blink on again, and the fans begin whirring once more as well.	
+22	牛奶	只要赶在系统自动重启前将闪存加入自检队列，就可以注入代码了。	只要趕在系統自動重設前將快閃記憶體的資料加到啟動程式中，就可以輸入程式碼啦。	システムが自動的に再起動される前に、\nフラッシュメモリをセルフチェックシーケンスへ\n混入させることで、コードが書き換え放題に\nなるのよ。	시스템 자동 부팅 전 플래시 메모리에 자체 검열 대열을 추가하면 코드를 주입할 수 있어.	As long as I add the flash memory into the self-test queue before the system restarts, we’ll be able to enter the code.	
+23	牛奶	所以说通用安保系统根本行不通嘛~	所以說，通用保全系統根本行不通嘛～	だ～から汎用保安システムって使っちゃ\n「ダメ」なんだよね～～	이래서 통용 보안 시스템은 안 된다니까~	See? This security system... not so secure after all.	
+24	白烛	即使软件设计的再天衣无缝，如果能从硬件层面破解的话就毫无意义吗……	就算軟體設計得天衣無縫，如果能從硬體層面破解的話就毫無意義嗎？	たとえソフトウェアの設計が完璧でも、\nハードウェアをハッキングされてしまえば、\n意味などないという事でしょうか……	소프트웨어 설계가 완벽하다고 해도 하드웨어 암호를 풀면 아무런 의미가 없어…	So no matter how seamlessly the software is designed, there’s still a way to break in through the hardware...?	
+25	N/A	白烛想起牛奶曾经在一家茶餐厅眉飞色舞的讲过半天这些理论，也不管自己能听懂多少。	白燭想起牛奶曾經在一家茶餐廳裡，眉飛色舞地談論這些理論談個沒完，也不管自己能聽懂多少。	昔とある喫茶店で、ミルクが得意げにこの理論を\n一日中語っていたのをバイジュウは思い出した。\nあの時のミルクは、私が既に理解をしていようが\nお構いなしだった。	바이츄는 밀크가 한 식당에서 득의양양하게 이 이론을 펼쳤던 게 생각났다. 	Milk had ranted to Beth about stuff like this, when they were having lunch together in their favorite teahouse. Beth didn’t understand a word, of course.	
+26	N/A	牛奶头也不回的盯着屏幕，左手快速敲击键盘的同时，伸出右手做了个“比心”的手势。	牛奶頭也不回地盯著螢幕，左手快速敲擊鍵盤的同時，伸出右手比了一個「手指愛心」。	スクリーンに集中するミルクが、\n左手でキーボードを高速タイピングしながら\n右手に指ハートのサインを作る。	밀크가 스크린을 주시하며 왼손으로 자판을 두드리고 오른손으로 “하트” 손모양을 한다.	Milk continues glaring at the screen, typing in quick commands with her left hand, sending Beth a finger heart with her right.	
+27	N/A	看到这个傻乎乎的熟悉手势，白烛感到心里一暖，有种如释重负的感觉。	看到這個傻乎乎的熟悉手勢，白燭心裡一陣溫暖，有種如釋重負的感覺。	この見慣れたサインを見ると、心が暖まり\nホッと息を吐けるような感じがした。	익숙한 손모양을 보니 바이츄의 마음이 무거운 짐을 벗어던진 것처럼 따뜻해진다.	A finger heart—so out-of-place in a situation like this, yet to Beth, it feels like warmth, relief, home.	
+28	N/A	──和心意相通的人，其实不必解释什么。	──和心意相通的人相處，一切盡在不言中。	──心の通じ合う人に、説明なんていらない。	──마음이 통화는 사람과는 사실 어떤 말도 필요 없다. 	There’s no need to explain her skills to Milk after all. They’re... soulmates, right?	
+29	N/A	牛奶用超驰控制运行了自己的软件，逐步接管了基地所有的监控设备。	牛奶用覆寫控制啟動了自己的軟體，逐步接管基地所有的監控設備。	ミルクはオーバライド制御を利用して、自分の\nハッキング用ソフトウェアを作動させた。\n徐々に基地内の監視設備を全て掌握していく。	밀크가 오버라이드 제어로 자신의 소프트웨어를 작동한 후 기지의 모든 제어 설비를 장악한다.	Milk has overridden the system and is now running one of her own softwares, gradually gaining control over all monitoring devices in the base.	
+30	N/A	白烛观察着房间内的其它装置，主控台的一侧有一排用图不明的控制器，不过没时间研究了。	白燭觀察著房間內其他裝置，主控台的一側有一排用途不明的控制器，不過沒時間研究了。	一方、バイジュウは他の装置を観察してみる。\n\nメインコンソールの側に用途不明の制御機械が\n置かれているが、使い方を調べる余裕はない。	바이츄가 둘러보니 메인 콘솔 한쪽에 용도를 알 수 없는 제어기기가 있지만 연구할 시간이 없다. 	Beth stands there, observing the other devices in the room. There’s a row of equipment next to the main control panel, but she has no idea what those are used for. Nor does she have time to find out.	
+31	N/A	牛奶面前的大屏幕上，逐渐显示刚刚获取的监控画面。	牛奶面前的大螢幕上，逐漸顯示剛剛獲取的監視影像。	ミルクの前の巨大スクリーンに、先ほど掌握した\n監視映像が徐々に映り始めた。	큰 스크린에 방금 획득한 감시 화면이 천천히 표시된다.	On the large screen in front of Milk, surveillance camera footage begin popping up.	
+32	N/A	屏幕中央，之前被特遣队射击倒地的敌人，现在大多七扭八歪地爬了起来。	螢幕中央，之前被特遣隊擊倒的敵人，現在大多歪七扭八地爬了起來。	スクリーンの中央に、先ほど隊員の射撃によって\n倒れた敵達が映る。\n案の定戦闘不能には陥っておらず、その大半が\nよろよろと起き上がる。	스크린 중앙，기동대에게 총을 맞고 쓰러진 적이 비틀거리며 일어나고 있다.	In the center of the screen, the enemies shot to the ground by the squad are slowly getting back to their feet, limbs still distorted.	
+33	N/A	虽然行动上还有些迟缓，但身上的伤口，已经开始收敛。	雖然行動還有些遲緩，但身上的傷口已經開始復原。	動きは少し遅いが、傷口は既に治りかけている。	비록 행동은 조금 느렸지만 상처가 아물기 시작했다.	They’re moving slowly, but their wounds are gradually healing.	
+34	N/A	如果放大的话，能看到在这群家伙的伤口上附着着一种绿色的藤网状组织。	把影片放大後，還能在這群傢伙的傷口上看到一種綠色的藤網狀組織。	カメラを拡大して見てみると、傷口の上に緑色の\n網状のようなモノが付着しているのが見えた。	화면을 확대하면 녀석의 상처 위에 붙어있는 녹색의 그물 조직이 보일 것이다.	Milk zooms in. There’s a green, vine-like organism attaching itself to the wounds like a sort of net.	
+35	牛奶	（那种痕迹，我在一份报告中见到过……）	（那個綠色藤網，我在一份報告中看過……）	（あの痕跡、レポートで見た事ある……）	（저 흔적，보고서에서 본 적 있어……）	(I’ve seen something like that before in a report...)	
+36	N/A	在人工干预下，一种藤网状生物会渐渐使它们寄生的人类丧失理智，成为行尸走肉般的杀人机器。	在人工干預下，某種藤網狀生物會寄生在人類身上，逐漸使其喪失理智，成為行屍走肉般的殺人機器。	ある種の網状生物を人工的な手法で人類に\n寄生させれば、宿主の理性を奪う事ができる。\nそして対象は生ける屍のような殺戮兵器と化す。	인공적 개입으로 그물 형태의 생물이 인간의 이성을 잃게 만든 후 걸어다니는 살인기기를 만든다.	That’s a kind of ivy-like plant that’s been genetically modified to latch onto humans, steal their consciousness and make them zombie-esque killing machines.	
+37	N/A	牛奶十分清楚，这种技术在军事上的意义……	牛奶十分清楚這種技術在軍事上的意義……	この技術の軍事上の意義を、ミルクは良く\n理解していた。	이런 기술이 군사상으로 어떤 의미가 있는지 밀크는 잘 알고 있다……	Milk knows only too well what damage this kind of technique could bring on the battlefield.	
+38	牛奶	──糟了。	──糟了。	──まずいね。	──큰일이야.	... We’re in trouble.	
+39	N/A	顺着牛奶的视线，白烛看向左侧的监视屏。	順著牛奶的視線，白燭看向左側的監視畫面。	ミルクの視線に沿って、バイジュウは左側の\n監視モニターをチェックする。	밀크의 시선을 따라 바이츄가 좌측의 감시 화면을 쳐다본다. 	Following Milk’s Gaze, Beth turns to the monitor on the left.	
+40	N/A	几组监控画面显示，目前基地内除了刚才与小队交战过的那几个，还有至少两组敌人。	幾組畫面顯示，目前除了與小隊交戰過的那幾個以外，基地內至少還有兩組敵人。	複数の監視モニターから把握した状況によると\n基地内には初めに小隊と交戦した連中以外に、\n少なくとも2組の敵がいる。	기지 안에는 방금 부대와 교전한 적 외에 최소 두 그룹의 적이 더 있다. 	According to the surveillance footage, besides those who had engaged the squad in battle, there are at least two other groups of enemies currently in the base.	
+41	N/A	一组是她们三分钟前刚甩掉的家伙，另一组有七八个人，正极快的从基地东翼向这边前进。	一組是她們三分鐘前剛甩掉的傢伙，另一組有七八個人，正以極快的速度從基地東翼向這邊前進。	1組はおおよそ3分前、彼女達2人が振り切った\nばかりの連中。\nもう1組は凄まじい速度で基地の東側から\nこちらへ向かってきている。	한 그룹은 3분전 따돌린 녀석들이고 다른 그룹은 일고여덟 명으로 기지 동쪽에서 빠른 속도로 이쪽으로 오고 있다.	One of them, the two had just shaken off three minutes ago. The other group, consisting of seven, eight members, is currently moving in neck-breaking speed towards the east wing.	
+42	白烛	（照这个速度，最近的一组敌人三分种内就能察觉到我们的位置。）	（照這個速度，最近的敵人在三分鐘內就能察覺到我們的位置。 ）	（このスピードだと、一番近い敵が……）\n\n（私達の位置を知るまで、あと3分でしょうか）	（이 속도라면 3분 안에 우리의 위치를 알아낼 거야.）	(If this goes on, the closest group of enemies will come upon us within three minutes.)	
+43	N/A	白烛的视线移向另一组画面，找到了刚刚与她们二人分兵的另外几个特遣队员模糊的影像。	白燭將視線移向另一組畫面，找到了剛才與她們二人分開行動的幾個特遣隊員的模糊影像。	バイジュウの視線は別の映像へと移る。\n\n画面には彼女達と別れた、数人の隊員が\n映っていた。	바이츄의 눈에 방금 그녀와 흩어진 기동대원의 흐릿한 영상이 보인다. 	Beth turns her direction to another set of footage, where she finds blurry images of the rest of the squad members who’ve gotten separated from them not long ago.	
+44	N/A	刚才手持防爆盾的队友一条小腿已经没了大半，正被另外二人架着向医务室前进。	手持防爆盾的隊友一條小腿已經沒了大半，正被另外二人架著往醫務室前進。	ライオットシールドを持っていた隊員は\n膝から下の大半が失われ、\n他の2人が彼を医務室に運んでいる途中だった。	방폭 방패를 들고 있던 대원의 종아리가 사라져 다른 두사람이 의무실로 옮기고 있다.	The member holding the shield has lost half a leg and is currently on a stretcher, which two others are carrying towards the infirmary.	
+45	白烛	（他们的弹药应该不多了…如果继续像这样沿东翼前进的话，五分钟内就会与另一组敌人遭遇。）	（他們的彈藥應該所剩無幾了……繼續往東翼前進的話，五分鐘內就會遇到另一組敵人。 ）	（彼らの弾薬はそう多くはないはず……）\n\n（このまま東側に向ったら……）\n\n（5分以内にもう1組の敵と遭遇してしまう…）	（탄약이 부족할텐데…만약 동쪽을 따라 이동한다면 5분 안에 적과 만난다.）	(They don’t have much ammo left, it seems. If they continue along the east wing like this, they’ll encounter another group of enemies within five minutes.)	
+46	牛奶	那个家伙……！	那個傢伙……！	──あの野郎……ッ！！	저 녀석……！	Is that...	
+47	N/A	牛奶发现了其中一个小屏幕上的人影。	牛奶發現了其中一個小螢幕上的人影。	ミルクは1つの小さなモニターに映っている\n人影を発見した。	밀크가 작은 스크린 안에서 인형을 발견한다.	Milk notices a figure on one of the small windows.	
+48	N/A	刚刚那个动作最快的敌人，正漫不经心的拎着一名特遣队沾满血液的靴子。	剛剛那個動作最快的敵人，正漫不經心地拎著一只血跡斑斑的特遣隊員靴子。	最も動きが早かった敵が、血にまみれた隊員の\n靴をさり気なく持ち上げる。	아까 그 동작이 가장 빠른 적이다. 아랑곳하지 않고 어느 기동대원의 피묻은 신발을 들고 있다.	It’s the fastest enemy of the group. She’s just wandering along the corridor now, swinging a blood-stained boot that belonged to one of the squad members.	
+49	N/A	她似乎感受到了来自另一侧的注视，特意将脸朝向镜头，露出了一个瘆人的笑容。	她似乎感受到了來自另一側的注視，刻意將臉朝向鏡頭，露出了一個駭人的笑容。	監視カメラからの視線を感じたのか\nわざとらしくレンズに顔を向け、\nこちらを挑発するような笑みを浮かべた。	그녀가 자신을 주시하는 것을 느꼈는지 카메라를 향해 소름끼치는 미소를 짓는다. 	As if sensing Beth’s gaze, she tilts her face up towards the camera, and smiles—a horrifying, toothless grin.	
+50	牛奶	混账……可恶！！！	那些混蛋！ 可惡！ ！！	くっそ……畜生がッッッ！！！	빌어먹을……개자식！！！	Darn it!	
+51	白烛	冷静，冷静。	冷靜、冷靜。	落ち着いて、冷静に。	진정해，진정.	Stay calm, stay calm.	
+52	N/A	白烛轻轻拍了拍牛奶的肩膀，然后抬起头快速扫视着房间内数十个监控画面。	白燭輕輕拍了拍牛奶的肩膀，然後抬起頭快速掃視著數十個監視畫面。	バイジュウはミルクの肩を軽く叩き、部屋中に\n設置された監視モニターを素早く見回した。	바이츄가 밀크의 어깨를 두드리고는 고개를 들어 방 안의 수십 개의 감시 화면을 훑어본다.	Beth pats Milk comfortingly on the shoulder, then begins rapidly scanning the dozens of monitoring screens in the room.	
+53	N/A	此时她正在脑海中展开基地的立体结构图，并与这些监控画面进行对比，试图规划一个最优方案。	她正在腦中畫出基地的立體構造圖，並與這些監視畫面進行比對，試著規劃一個最好的方案。	彼女は基地の立体構造図を脳内に展開し、\n監視映像と対比させる。\n採れる最良の案を考えようと試みているのだ。	머릿속으로 기지의 입체 구조도를 펼치고 제어 화면과 대조하며 최선의 방안을 찾는다.	She quickly puts together a 3D layout map of the base in her head and compares it with the footage, in attempt to come up with the most optimal plan possible.	
+54	N/A	牛奶看着好友的神情，知道她又进入了那种出神的演算状态。	牛奶看著好友的表情，知道她又進入了那種出神的演算狀態。	ミルクは親友の表情を見て、彼女がトランス状態\nのような演算に入った事を理解した。	친구의 표정을 보던 밀크가 그녀가 또 연산 상태에 돌입했다는 걸 알아차린다.	Milk can tell that Beth’s in one of those calculating modes just by glancing at her face. When she’s having one of those episodes, there’s no snapping her out of it.	
+55	N/A	但这一次，想找到理想的方案几乎不可能。	不過，這一次，想找到理想的方案幾乎不可能。	しかしこの状況下で理想案を見つけるなど、\nほぼ不可能である。	하지만 이번에는 이상적인 방안을 찾는 것이 불가능하다. 	But considering the situation, there’s really no way she can come up with a workable plan... right?	
+56	牛奶	嗯嗯，小白烛最厉害了……	嗯嗯，小白燭最厲害了……	うんうん、バイジュウちゃんは……\nやっぱりすごい……	으응，바이츄가 최고야……	Mm. Bethy’s good at this...	
+57	N/A	牛奶的声音逐渐变小。	牛奶的聲音逐漸變小。	ミルクの声が小さくなる。	밀크의 목소리가 점점 작아진다.	Milk’s voice fades away into a whisper.	
+58	N/A	她忽然注意到东翼的那组敌人正在对基地进行地毯式扫荡，却略过了一处合金门闸。	她注意到東翼那組敵人正在對基地進行地毯式掃蕩，卻略過了一處合金閘門。	彼女には、にわかに気付いていた事があった。\n\n東側の敵は基地内で無差別殺戮を行っているが、\nなぜか1つの合金ゲートだけ無視し続けている。	동쪽에서 기지를 융단 공격하고 있는 적들이 합금문을 지나쳐 가는 것을 발견한다. 	She notices on the screen that the group of enemies combing through the east wing has somehow skipped checking an alloy barrier.	
+59	牛奶	……	……	…………	……	…	
+60	N/A	牛奶闭上眼睛思索片刻，然后下定决心。	牛奶閉上眼睛想了一下，隨即下定決心。	ミルクは目を閉じて……\n\n考えながらも決心をした。	밀크가 두 눈을 감고 잠시 생각한 후 결심을 내린다. 	Milk closes her eyes, ponders, then makes up her mind.	
+61	N/A	她快速的在键盘上输入了一串指令信息，并发送出去。	她快速在鍵盤上輸入了一串指令，並發送出去。	彼女はキーボードで素早くメッセージを入力し、\nとある場所にデータ送信をした。	그녀가 신속히 자판 위에 지령 정보를 입력하고 송출한다. 	In a flash, she types in a series of commands on the keyboard and sends them.	
+62	N/A	十秒之内，亚洲某山区的地下军事数据中心，就会收到这条——	十秒之內，亞洲某山區的地下軍事資料中心，就會收到這條——	10秒以内にアジアのとある山地に存在する\n地下軍事データセンターが、\nこのメッセージを受信するだろう──	10초 안에 아시아의 어느 지하 군사 데이터 센터가 이 정보를 수신할 것이다. 	An underground military data center, located in the hills somewhere in Asia, will receive the message within ten seconds.	
+63	N/A	并非呼叫支援，而是阐述死亡的讯息。	並非呼叫支援，而是闡述死亡的訊息。	それは支援を求めるものではなく\n全員死亡という報告──	지원 요청이 아닌 사망을 진술한 메시지다.	Not a plea for help, but a message informing them of the squad’s demise.	
+64	牛奶	（……抱歉。）	（……抱歉了。 ）	（…………ごめんね）	（……미안.）	(... I’m sorry.)	
+65	N/A	牛奶看着焦急思考中的白烛。	牛奶轉過頭，看著焦急思考中的白燭。	ミルクは思考を深めながらも、焦燥に駆られる\nバイジュウを見た。	밀크가 초조하게 생각 중인 바이츄를 바라본다. 	Milk smiles sadly at Beth, who’s still deep in thought.	
+66	N/A	黑发少女的身上，闪烁着淡淡的银色辉光。	黑髮少女的身上，閃爍著淡淡的銀色輝光。	黒髪の少女の身体から、淡い銀色の光が燦々と\n煌めいている。	흑발소녀의 몸에서 희미한 은색 빛이 빛나고 있다. 	The dark-haired girl seems to be glowing in a faint silver color.	
+67	N/A@牛奶	……小白烛~	……小～白～燭～啊～	…………バイジュウちゃん～～	……바이츄~	... Bethy...	
+68	N/A@牛奶	还记得咱们最初相遇的时候吗？	妳還記得我們最初的相遇嗎？	私達が最初に出会った時の事、覚えてる？	우리 처음 만났을 때 기억 나?	You remember when we first met?	
+69	白烛	嗯？	嗯？	はい？	응?	Hmm?	
+70	N/A	白烛聚精会神地盯着屏幕，丝毫没注意到牛奶的动作。	白燭聚精會神地盯著螢幕，絲毫沒注意到牛奶的動作。	一心不乱でモニターを見つめてたバイジュウは、\nミルクの動きに気付かなかった。	바이츄는 스크린에 정신을 집중하느라 밀크의 행동을 눈치채지 못한다.	Beth, still immersed in her planning, barely notices what Milk is doing.	
+71	N/A@牛奶	那时候，我当着你的面偷了一份研究报告……	那時候，我當著妳的面偷了一份研究報告……	あの時ね、あんたの目の前で研究レポートを\n盗んだけど……	그때，네가 보는 앞에서 연구 보고서를 훔쳤었지……	Back then, I stole a research report right in front of you. Remember that?	
+72	白烛	怎么突然提起这个？	怎麼突然提起這件事？	突然どうしたのですか？	갑자기 그 얘기를 왜 해?	Why mention this all of a sudden?	
+73	N/A@牛奶	你从没主动问过我为什么要那么做，又是为了谁在做这件事呢……	妳從沒問過我為什麼要這麼做，也不好奇我是為了誰這麼做……	なぜそんな事をしたのか、誰から指示されたのか\n……結局、あんたは一回も聞かなかったよね。	넌 왜 그런 짓을 하느냐고，누가 시킨 거냐고 내게 묻지 않았어……	You’ve never asked me why I did that, and who I did it for.	
+74	N/A	白烛察觉到有些不对劲，转过头来。	白燭察覺到牛奶話語中的不對勁，轉過頭來。	バイジュウはミルクの様子が少しおかしい事に\nようやく気付き、振り返った。	바이츄가 뭔가 잘못된 것을 느끼고 고개를 돌린다.	Beth turns around, finally detecting the strange emotions in Milk’s voice.	
+75	牛奶	她的面前，是单手持枪对准自己的牛奶。	在她面前，是單手持槍瞄準自己的牛奶。	目の前にはこちらへと銃を向ける\nミルクが……	그녀 앞에 한손에 총을 들고 자신을 조준하고 있는 밀크가 보인다.	She looks up to meet the eyes of her leader, who’s pointing at her with a revolver in one hand.	
+76	牛奶	一直以来，你都是这样……	一直以來，妳都是這樣……	ずっと、あんたはそうだった……	넌 항상 그랬어…	You’ve always been like this...	
+77	白烛	……	……	…………	……	…	
+78	N/A	白烛并未在意牛奶的异常举动。	白燭並未在意牛奶的異常舉動。	それでもバイジュウはミルクの異常な行動を\n気にしなかった。	바이츄가 밀크의 이상한 행동을 마음에 두지 않는다.	Beth determinedly ignores Milk’s strange behavior.	
+79	N/A	她瞥了一眼监控视频，接着推开牛奶的枪口。	她瞥了一眼監視畫面，然後單手推開牛奶的槍口。	彼女は監視映像を1度確認し、ミルクの銃口を\n押しのける。	그녀가 제어실 영상을 흘겨보며 밀크의 총구를 밀어낸다.	She glances back at the screens, and pushes the muzzle out of the way impatiently.	
+80	白烛	别闹了，还有六十秒那群家伙就要找到咱们了。	別鬧了，還有六十秒那群傢伙就會找到這裡了。	やめてください。後60秒で私達はあの連中に\n見つかってしまうのですよ。	장난치지 마. 60초 후면 그 녀석들이 우릴 찾아낼 거야.	Stop kidding around. We have less than a minute. Those guys will find us soon.	
+81	N/A	牛奶自嘲似的笑笑。	牛奶自嘲似地笑了笑。	ミルクは自嘲するように笑った。	밀크가 자조하는 듯 웃는다.	Milk laughs, self-deprecatingly.	
+82	牛奶	你看，就连这种时候，你都不会怀疑我……	妳看，就連這種時候，妳都不會懷疑我……	ほら、こんな時でも、あんたは私を疑わない……	봐봐. 이 순간에도 넌 날 의심하지 않잖아……	See? I’m pointing a gun at you. And still, you trust me...	
+83	白烛	你又不会伤害我。	反正妳又不會傷害我。	──あなたは私を傷つけません。	넌 날 해치지 않아.	I know you’ll never hurt me.	
+84	N/A	白烛的话，让牛奶感到一丝被拆穿的狼狈。	白燭的話，讓牛奶感到一絲被拆穿的狼狽。	バイジュウの言葉にミルクは少し狼狽えた。	바이츄의 말에 밀크가 속마음을 들켜 당황한다.	Milk gulps at the words, knowing that her friend sees right through her.	
+85	N/A	牛奶给手枪上膛，打开保险，绷紧的手指压住扳机后再次对准了白烛。	牛奶將手槍上膛，打開保險，繃緊的手指壓住扳機後再次瞄準了白燭。	銃に弾を込め、セーフティーロックを外し、\nやや引き攣った指でトリガーを押さえながら。\n銃口を再度バイジュウに向けた。	바이츄가 총을 장전하고 안전장치를 푼 뒤 손가락으로 방아쇠를 누른 후 다시 한 번 바이츄를 겨눈다. 	She loads her pistol, pops the safety off, places her finger on the trigger, and points it right back at Beth.	
+86	牛奶	退后。	退後。	…………下がれ。	물러서.	Stand back.	
+87	白烛	……	……	…………	……	…	
+88	N/A	隐约中，白烛猜到了对方想要做些什么。	白燭似乎猜到了對方的想法。	一瞬でバイジュウは親友の意図を理解した。	은연 중 바이츄가 상대의 생각을 알아차렸다. 	Beth suddenly gets a vague idea of what exactly her leader is planning.	
+89	牛奶	──退后！！	──退後！ ！	────下がれと言ったッッ！！	──물러서！！	—Stand back!	
+90	白烛	……	……	…………	……	…	
+91	N/A	白烛的背触到了监控室的后门。	白燭的背接觸到了監控室的後門。	バイジュウの背中が監視室の裏口に触れた。	바이츄의 등이 제어실의 뒷문에 닿는다. 	Beth backs up until her back is up against the back door of the control room.	
+92	N/A	大门应声开启，露出一条倾斜的通道。	大門應聲開啟，露出一條傾斜的通道。	裏口が開き、中には傾斜したトンネルのような\n通路が見える。	대문이 열리자 경사 통로가 보인다.	The door swings open, revealing a sloping passage.	
+93	N/A	白烛随着牛奶的动作后退着。	白燭因牛奶的逼近而不斷後退。	バイジュウはミルクの動きと合わせ後退する。	바이츄가 밀크의 동작에 따라 뒤로 물러선다.	Beth continues backing up, with Milk’s gun muzzle still pointing between her eyes.	
+94	牛奶	还记得那个问题吗？	還記得那個問題嗎？	この問題を、まだ覚えているかな？	그 질문 기억해?	Hey, you remember that question?	
+95	白烛	不要闹了，牛奶……	不要鬧了，牛奶……	もうやめてください。ミルク……	이러지 마，밀크…	Stop kidding around, Milk...	
+96	牛奶	一辆失控火车的前方岔道口，左侧轨道上是你的队员们，右侧轨道上只有你自己。	現在有一列失控的火車，前方有個岔道，左側軌道上是妳的隊員，右側軌道上只有妳自己。	暴走する列車の前方に分岐点があるの。\n\n左側のレールに仲間達、\n右側のレールには自分がいる。	고장난 기차 앞에 갈림길이 있어. 왼쪽 철로에는 너의 대원들，오른쪽 철로에는 너. 	There’s a train that simply can’t stop. There’s two ways it can go. One way, it crushes your teammates. Another, it crushes you.	
+97	牛奶	你会选择救谁呢……	妳會選擇救誰呢？	バイジュウちゃんなら、どっちを選ぶ……？	넌 누굴 구할 거야…?	Who do you save?	
+98	白烛	──牛奶！！	──牛奶！ ！	────ミルクッッ！！！	──밀크！！	—Milk!	
+99	N/A	白烛意识到好友在刻意掩饰着悲伤。	白燭意識到好友刻意掩飾著悲傷。	親友が必死に悲しみを押し殺している……\n\n分かってる、分かっているのに……	밀크는 친구가 일부러 슬픔을 숨기고 있다는 것을 알았다.	The grief on Milk’s face is obvious, tragically so.	
+100	牛奶	我选择……救我喜欢的人—	我啊，我會選擇……救我喜歡的人—	私ならね……好きな人を救う――	난…내가 사랑하는 사람을 선택할 거야—	I choose to save... the one I love...	
+101	N/A	牛奶忽然露出一个狡猾的笑容，向前猛冲，将白烛撞入了隧道墙壁上的暗门内。	牛奶忽然露出奇怪的笑容並向前猛衝，將白燭撞入了暗門後的通道中。	ミルクはずるい笑みを浮かべながら突進をして、\n体当りでバイジュウを通路へと突き飛ばす。	밀크가 갑자기 교활한 미소를 짓으며 돌진해 바이츄를 터널 벽 검은 문 안으로 밀어 넣는다.	With a shrewd smile, Milk charges forward, forcing Beth into a trapdoor on the tunnel wall.	
+102	N/A@白烛	──？！！	──？！	──ッッ！？！？	──？！！	Huh...?	
+103	N/A	白烛来不及防备，顺着几阶楼梯跌下去──这是基地中仅有的两处有合金门闸保密仓库之一。	白燭防備不及，順著樓梯跌了幾階──這是基地中僅有的兩處合金閘門保密倉庫之一。	防御が間に合わずバイジュウは階段を何段か\n転げ落ち、違う部屋へと押し込まれた。\nそこは基地内にわずか2か所しか存在しない\n合金ゲートで守られている秘密倉庫だった。	바이츄가 막을 새도 없이 계단 밑으로 떨어진다. 여기는 기지 안에 두 개 있는 합금 게이트가 달린 비밀 창고 중 하나다.	Before Beth can even react, she’s rolling down the stairs into one of the only secret warehouses in the base, protected by an alloy barrier.	
+104	N/A	而仓库的开闭，只能由外部控制。	而倉庫的開閉，只能從外部控制。	倉庫のゲート開閉は外部操作でしか制御が\nできない。	창고의 문은 외부에서만 조작할 수 있다. 	A barrier that can only be opened from the outside.	
+105	牛奶	——小~白~烛~	「小～白～燭～」	バ～イジュ～ウちゃ～ん！	——필~디~아~	Bethy...	
+106	N/A	系统语音响起──\n“安全系统锁定，闸门即将关闭”	系統語音響起──\n「安全系統鎖定，閘門即將關閉」	システム音声が流れる──\n「安全システムロック完了。ゲートが閉じます」	시스템 음성이 울린다──\n“안전 시스템 잠금，문이 닫힙니다.”	The digital voice speaks in a monotone.\n“Security system locked. Barrier closing.”	
+107	N/A	白烛面前，牛奶绽放出一个灿烂的笑容。\n而白烛眼前的视野正在迅速缩小。	牛奶在白燭面前綻放出燦爛的笑容。 \n而白燭眼前的視野正在迅速縮小。	バイジュウの眼前の視界が急激に縮小する。\n\nその視界の中にいるミルクは、\n華やかな笑顔を浮かべた。	바이츄의 눈 앞에 밀크가 찬란한 미소를 짓고 있다. \n바이츄의 시야가 급속히 좁아진다.	In front of Beth’s eyes, Milk smiles, brighter than ever.\nThe barrier gates begin to close.	
+108	N/A	门闸开始合拢。	閘門開始闔上。	ゲートが締まり始める。	문이 닫힌다. 	Too quickly.	
+109	N/A@系统	“3——”	「3——」	「3──」	“3——”	“Three...”	
+110	N/A@牛奶	下个圣诞节，提前预约给我好不好~	先說好了喔～下個聖誕節我們一起過唷！	次のクリスマスまでには少し早いけど、\n私が予約を入れてもいいかな？	다음 성탄절엔 나랑 보내기로 미리 약속하자~	Let’s celebrate next Christmas together. What do you say?	
+111	N/A@系统	“2——”	「2——」	「2──」	“2——”	“Two...”	
+112	N/A	白烛想要伸手抓住牛奶，却看到牛奶笑嘻嘻地做了一个飞吻的动作。	白燭拼命站起身，試圖伸手抓住牛奶，卻看到牛奶笑嘻嘻地拋了個飛吻。	バイジュウは手を伸ばし、彼女を掴もうとした。\n\nだが届かず、ミルクがニコニコしながら\n投げキッスするのを見ている事しかできない。	바이츄는 손을 뻗어 밀크를 잡고 싶었다. 밀크가 웃으며 키스를 날리는 동작을 한다. 	Beth reaches out desperately, trying to clutch at Milk, but the latter shrinks away, sends her a flying kiss.	
+113	N/A@系统	“1——”	「1——」	「1──」	“1——”	“One...”	
+114	N/A	白烛露出无法相信的表情。	白燭露出無法置信的表情，看著牛奶的嘴型，那一個無聲的再見。	バイジュウは信じられないという表情をする。	바이츄가 믿을 수 없다는 표정을 짓는다.	Beth stares in disbelief.	
+115	N/A	一秒钟，仿佛被累加折叠出了无数爆裂的情绪浮现在少女脸上。	短短一秒鐘，各種複雜難以言喻的情緒湧現在少女臉上。	たった1秒の間に、無数に積み重ねられた\n爆発的な感情が少女の顔に浮かんだ。	1초 동안 소녀의 얼굴에 수많은 감정들이 겹쳐진다. 	One second left. Beth’s face distorts, a thousand emotions surfacing at once.	
+116	N/A@牛奶	笑一个啦──	笑一個吧──	ほら笑って────	웃어줘──	Come on, smile! Smile for me!	
+117	N/A	对方的话音未落，白烛眼前的那道壁门，残忍而决绝地重合了起来。	對方的話還沒說完，白燭眼前的那道壁門就殘酷地重重閉合起來。	ミルクの声を待たずして、\nバイジュウの目の前のゲートが残酷にも閉じる。	상대의 말이 떨어지기도 전에 눈 앞의 문이 잔인하게 닫혀버린다.	That’s the last thing Beth hears before the barrier gates slam shut, merciless, emotionless.	
+118	N/A	随后隧道内传来一声巨响，是白烛用力捶在墙壁上的声音。	隨後隧道內傳來一聲聲巨響，那是白燭用力捶門的聲音。	その直後、通路から伝わってくるのは大きな音。\nバイジュウが力いっぱい壁にぶつかる音。	터널 안에 바이츄가 힘껏 벽을 두드리는 소리가 울린다. 	The sound of Beth pounding on the wall echoes through the tunnel.	
+119	N/A	相隔着Ti-451型多重复合型合金板，少女的敲击声显得格外沉重──	隔著Ti-451型多重複合型合金板，少女的敲擊聲顯得格外沉重──	Ti-451型多重複合型合金プレートを隔てなお、\n少女の叩く音は格別に重く聞こえる──	Ti-451형 다중 복합형 금속판을 두드리는 소리가 아주 슬프게 들린다──	How heavy it sounds, on the multiple layers of Ti-451 alloy boards...	

@@ -1,0 +1,8 @@
+﻿1	引导精灵	点击头像[ff9c00]切换兵器[-]\n划动头像[ff9c00]释放召唤技[-]\n这些是最基础的作战指令	點擊大頭貼可[ff9c00]切換兵器[-]\n滑動大頭貼可[ff9c00]釋放召喚技[-]\n這些是最基本的作戰指令	アイコンをタップで[ff9c00]兵器の切替[-]スワイプで[ff9c00]召喚スキルを使用[-]\nこれらが基本の作戦指示になるよ。	프로필을 클릭해서 [ff9c00]병기를 \n전환[-]할 수 있어. \n프로필을 드래그하면 [ff9c00]소환 스킬을 시전[-]할 수 있어.\n이게 바로 가장 기본적인 작전 지령이야.	Tap Avatar to [ff9c00]switch weapons[-].\n[ff9c00]Swipe Avatar to [-]release Active Skill.\nRemember these basics by heart!	
+2	FocusTrigger	
+3	FocusTrigger	选择魔女	選擇魔女	魔女を選択	마녀 선택	Select Witch	
+4	FocusTrigger	需要姐姐的力量	需要姐姐的力量	力を借りる	언니의 힘이 필요합니다.	You need me, huh?	
+5	FocusTrigger	然后是安妮	然後是安妮	そしてアニーも	다음은 앤	Next, Annie!	
+6	FocusTrigger	最后	最後	最後にヴィラ	마지막	And last!	
+7	FocusTrigger	选好了	選好了	準備完了	선택 완료	All done!	
+8	FocusTrigger	出发吧	出發吧	作戦開始！	출발합시다	Let's go!	

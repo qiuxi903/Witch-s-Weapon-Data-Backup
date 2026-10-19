@@ -1,0 +1,5 @@
+﻿1	引导精灵	哎？~刚、刚刚是不是又有什么解锁了……？	哎？～剛、剛剛是不是又有什麼解鎖了……？	あれ？　また何か開放されてるみたい……？	앗？~바, 방금 또 뭔가 해제된 것 같아……？	What was it? Something new's been unlocked...?	
+2	FocusTrigger	
+3	FocusTrigger	
+4	FocusTrigger	
+5	引导精灵	这次是[ff9c00]时空裂隙[-]哟~如果挑战成功的话，可以获得大量的[ff9c00]魔女原质道具[-]呢！	這次是[ff9c00]時空裂隙[-]喲～如果挑戰成功的話，就可以獲得大量的[ff9c00]魔女原質道具[-]呢！	今回は[ff9c00]時空の裂け目[-]だね。\n挑戦が成功すれば、大量の[ff9c00]神秘アイテム[-]を入手できるよ！	이번엔 [ff9c00]시공 균열[-]이구나~도전에 성공하면 대량의 [ff9c00]마녀 본질아이템[-]을 획득할 수 있어!	It's the [ff9c00]Space-Time Rift[-]! If you successfully challenge its stages, you'll earn tons of [ff9c00]Sephirot[-]!	

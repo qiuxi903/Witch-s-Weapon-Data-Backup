@@ -1,0 +1,53 @@
+﻿1	N/A	诡异的恶梦、意义不明的对话、梦中的黑影\n以及全网推送的AAA级通缉令……	詭異的惡夢、意義不明的對話、夢中的黑影，\n以及在全世界網路放送的AAA級通緝令……	不気味な悪夢、不思議な会話、夢の中の黒い影。\nそしてネットの海にアップされている……\n\nAAA級の指名手配画像……	이상한 꿈，의미를 알 수 없는 대화，꿈 속의 검은 그림자\n그리고 전 인터넷에 푸시 된 AAA급 지명 수배령…	The bizarre nightmare, the vague conversation, the shadow in the dream. \nPlus a red alert notice…	
+2	N/A	在我勉强接受了新的身份和生活，重新开始振作起来的时候，它们将所有的一切，都再次打乱了。	在我勉強接受了新的身分和生活，重新開始振作起來的時候，它們又把這一切打亂了。	やっと新しい身分と生活を受け入れて\n立ち直り始めたって時なのに……\nそれらが俺の全てを再び狂わせたのだ。	억지로 새로운 신분과 생활을 받아들이고 다시 시작하려고 할 때，그것들이 모든 걸 다시 흔들어놓았다.	Just as I’m about to accept my new identity and decide to pull myself together, they messed everything up again.	
+3	小怜	──莉琉！	──莉琉！	────マリルッ！	──마리루！	Mariru!	
+4	莉琉	嗯？	嗯？	ふむ？	응?	Hmm?	
+5	小怜	你看到新闻了吗？\n他……不对，是我，我出现了啊！	妳看到新聞了嗎？ \n他……不對，是我，我出現了啊！	ニュースを見たか？\n彼……いや、お、俺が現れたぞ！！	뉴스 봤어?\n그……아니，내가，내가 나왔어！	Did you see the news? \nIt’s him! No, me, it's me!	
+6	莉琉	我又没瞎，当然看见了你正满头大汗的傻乎乎的站在我面前呢。	我又沒瞎，當然看見了妳正滿頭大汗又傻乎乎地站在我面前呢。	私は盲目ではない。\n当然、お前が汗まみれのアホみたいな顔して、\n目の前に立っているのも見えているぞ。	나도 알아. 눈 앞에 땀 범벅이 되어서 안절부절 못하는 네가 잘 보인다구.	I'm not blind. Of course, I know it's you right before me, you sweating, silly girl.	
+7	小怜	不是啦——\n可恶，是新闻上！！	不是啦——\n可惡，是新聞上那個啦！ ！	違うよ──\nくっそ、ニュースの事だよッ！！	그게 아니라——\n뉴스에 말이야！！	No! \nDamn it. it's me on the news!	
+8	N/A	忙乱之中，我一时间不知应该从哪里说起\n莉琉哼了一声，用手刀敲了下我的脑袋。	忙亂之中，我一時不知該從何說起，\n莉琉哼了一聲，用手刀敲了下我的腦袋。	パニック状態で、どこから話せばいいのか\n分からなくなった。\nマリルはフンと鼻を鳴らして、手刀で俺の頭を\nポカッと叩いた。	혼란스러워서 어디서부터 얘길 해야할지 모르겠다.\n마리루가 코웃음을 치며 손날로 내 머리를 친다.	In a panic, I don't even know where to start. \nMariru grunts and knocks my head with her hand.	
+9	莉琉	训练这么久，你怎么还是这么没用啊，连这点事都不能向长官准确回报。	訓練這麼久，妳怎麼還是這麼沒用啊，連這點事都不能向長官準確回報。	あれだけ訓練を受けていると言うに、\nなぜそれを活かせない。\nこのぐらいの事で長官への正確な報告すらも\nできなくなるとは……	훈련을 그렇게 해놓고도 소용이 없구나. 이런 일 하나도 장관에게 정확히 보고하지 못하다니.	Such a useless idiot. After all these trainings, you can't even report to your officer clearly.	
+10	莉琉	不就是一个和以前的你长得很相似的人，抢劫了第二学园都市的收容基地，被全世界通缉了吗？	不就是一個和以前的妳長得很相似的人，搶劫了第二學園都市的收容基地，然後被全世界通緝了嗎？	つまりは昔のお前と似た顔をしている誰かが、\n第二学園都市の収容基地へ強盗に入り込み、\n全世界に指名手配されたって事だろう？	예전의 너와 닮은 사람이 제2학원도시의 수용 기지를 털어서 지명 수배령이 내린 것?	Isn’t it just about a guy that looks like you getting wanted worldwide because he burgles the Collection and Research Center of the Second Academy City?	
+11	小怜	对对对，就是这样没错！	對對對，就是這樣沒錯！	そうそうっ、そう、その通り！	응，맞아！	Yes, yes, yes! Exactly!	
+12	莉琉	这种网上乱飞的消息，情报部门的人早就报上来了。	這種在網路上瘋傳的消息，情報部門的人早就報上來了。	ネット上で飛び交っているニュースは、\n情報部門からとっくに報告があがってきている。	인터넷에 퍼진 정보는 정보부 요원이 이미 보고했어.	The intelligence services had reported the news long before it went viral.	
+13	莉琉	瞧你一幅花容失色的样子，实在太蠢了～	瞧妳一副花容失色的樣子，實在太蠢了～	お前と来たら、顔面蒼白状態で戸惑って、\n実に滑稽だったぞ～～	놀라서 창백해진 얼굴이 정말 바보 같아~	You look silly when you are terrified~	
+14	N/A	莉琉小姐扯了扯我的嘴角，我连忙抓住莉琉小姐乱动的手。	莉琉小姐捏了我的嘴角，我連忙抓住莉琉小姐亂動的手。	マリルが俺の口元を左右に引っ張った。\n俺は慌ててマリルの動かす手を掴んだ。	내 입가를 잡아당기는 마리루의 손을 황급히 잡았다. 	Mariru pinched my cheek. I tried to stop her right away.	
+15	小怜	……莉琉，现在是开诸（这）宗（种）玩笑的时候吗？	……莉琉，現在是開諸（這）宗（種）玩笑的時候嗎？	……マ～リ～ル～、\n今はふぉんな冗談を言っふぇる場合ふぁ？	……마리루，지금 그런 농담을 할 때가 아니잖아?	Mariru, get serious!	
+16	小怜	被全球通缉诶，怎么能算小事？	被全球通緝欸，這怎麼能算小事？	全世界に指名手配されちゃったんだ。\nただ事じゃ済まないでしょッ？	전세계에 지명수배가 내려진 게 어떻게 사소한 일이야?	Most wanted worldwide. It’s not a joke!	
+17	小怜	我做梦也不会想到，第一次上新闻居然是因为这种事啊！	我做夢也想不到，第一次上新聞居然是因為這種事啊！	初めてニュースに載るのが、こんな形だなんて\n夢にも思わなかったぞ！	이런 일로 뉴스에 나올 줄은 꿈에서도 생각 못했다구！	It could never have crossed my mind that one day I would be on the news for burlary.	
+18	小怜	而且是AAA级通缉！！我记得上一个获此殊荣的家伙是在南美的山区里被钻地弹直接打爆的。	而且是AAA級通緝！ ！我記得上一個獲此殊榮的傢伙是在南美山區裡被鑽地彈直接打爆的。	し・か・もAAA級の指名手配！！　\n確か以前にAAA級の指名手配を受けた奴が、\n南米の山奥で地中貫通爆弾による直接爆撃を\n食らっていたのを覚えているぞっ！！	게다가 AAA급 지명수배야！지난번 같은 급의 범죄자가 남미 산에서 폭탄을 맞았어！	And it's a triple-A notice! As I recall, the last wanted guy with such an alert level was bombed to death in South America by a bunker buster.	
+19	小怜	这个可恶的抢劫犯，就这么偷走了我的人生……想到这里我快要急得哭出来了。	這個可惡的搶劫犯，就這麼偷走了我的人生……想到這裡我就著急到快哭出來了。	あの強盗犯め……\n俺の人生を無茶苦茶にしやがって……\n……そう思ったら急に泣けてきた。	빌어먹을 강도가 내 인생을 이렇게 망가트리다니…생각만해도 눈물이 나올 것 같아.	This damned burglar stole my previous identity just like that… I am almost in tears at the thought of this.	
+20	小怜	如果那样……\n我能依靠的，只有莉琉了……	如果是這樣……\n我能依靠的，只有莉琉了……	こうなったら……\n頼れるのは、マリルしかいない……	만약 그렇다면……\n지금 의지할 수 있는 사람이 마리루 밖에 없어……	In this case… \nThe only one I can count on is Mariru.	
+21	莉琉	虽然很想继续欣赏你花枝乱颤的样子……	雖然很想再繼續欣賞妳花容失色的樣子……	お前の慌てふためく様子を、\nもう少し楽しみたかったのだが……	너의 울먹거리는 모습을 계속 감상하고 싶지만…	As much as I want to watch you suffer like this…	
+22	莉琉	不过嘛，你再确认一遍消息看看。	不過，妳要不要再確認一遍看看。	まあいい、もう一度ニュースを確認してみろ。	가서 다시 정보를 확인해 보도록 해.	I have to ask you to check the news again.	
+23	小怜	这种事还需要再确认吗？新闻上的信息都已经一清二楚地印刻在我脑海里了。	這種事還需要再確認嗎？ 新聞上的資訊已經完全印刻在我腦海裡了。	再確認する必要なんてあるのか？\nニュースの内容は完全に覚えているぞ？	무슨 확인이 필요해? 뉴스 정보가 빠짐없이 내 머릿속에 각인됐다고！	Is it necessary? I’ve got the whole thing engraved in my mind already.	
+24	小怜	那上面的图像虽然不太清楚，但和我男生时样子完全一样，几乎就是我本人啊！	雖然那上面的影像不太清楚，但和我男生時樣子完全一樣，幾乎就是我本人啊！	画像が荒くて見えにくいけど、俺が男の時の姿と\n全く一緒だ、ほぼ俺自身だよッ！	선명하지는 않지만 내가 남자일 때 모습이랑 완전 똑같아. 거의 나였어！	The image might not be crisp and clear, but I am sure he looks almost exactly like me as a boy!	
+25	N/A	虽然嘴上这么说着，但我还是不服气地拿出手机打开了那个新闻页面。	雖然嘴上這麼說著，但我還是不服氣地拿出手機打開了那個新聞網頁。	納得せずに口ではそう言った俺だったが、\nとにかく携帯を取り出して、\n朝に見たニュースページを開いてみた。	난 여전히 인정할 수 없다는 듯 휴대폰을 꺼내 뉴스 페이지를 열었다.	To prove what I said, I pull up the news on my phone.	
+26	小怜	你看，这明明就——\n诶？！	你看，這明明就——\n咦？ ！	ほら、ちゃんと────\nええッ！？	이것 봐. 여기——\n에？！	See, this is… \nEh?	
+27	N/A	今天清晨那则让我惊慌失措的通缉令，已经变成了一则普通的寻人启示。	今天清晨那則讓我驚慌失措的通緝令，已經變成了一則普通的尋人啟示。	俺を混乱の渦に叩き込んだ指名手配のニュースは\n普通の人探しのお知らせになっていた。	오늘 새벽에 날 깜짝 놀라게 한 지명수배령이 실종 신고 공지로 바뀌어 있다.	The wanted notice that freaked me out is no longer there. It was replaced by a normal missing person announcement.	
+28	N/A	70岁的漫画家井上先生于近日走失\n如有能够提供线索者，请及时与警察联系……	70歲的漫畫家井上先生於近日走失，\n如有能夠提供線索者，請及時與警察聯絡……	70歳の漫画家井上先生が、ここ数日行方不明と\nなっております。\n何らかの情報をお持ちの方は、直ちに警察まで\nご連絡ください……	70살 만화가 이노우에씨가 최근 실종됐습니다.\n단서를 아는 분은 즉시 경찰에 연락…	Seventy-year-old cartoonist Mr. Inoue went missing recently. \nIf anyone knows his whereabouts, please contact the police immediately.	
+29	N/A	我又翻查其他的网站，甚至用关键词搜索，那则新闻就像从未存在过一样。	我又翻查其他網站，甚至用關鍵詞搜尋，那則新聞就像從未存在過一樣。	他のニュースサイトも確認し、各検索エンジンで\n検索してみたが、あのニュースは見当たらない。\n……まるで最初から存在しなかったかのように。	다른 사이트에서 키워드를 검색해봤지만，그 뉴스는 처음부터 없었던 것처럼 사라졌다.	I checked other websites, and even searched with keywords, but the news was nowhere to be found.	
+30	N/A	望着眼前笑得有些不怀好意的莉琉，我心中涌上了一股感激之情。	望著眼前笑得有些不懷好意的莉琉，我心中湧上了一股感激之情。	意地悪く笑っているマリルを見て、\n思わず堪えていた涙が込み上げてくる。	의미심장하게 웃고 있는 마리루를 보자 마음 속에서부터 감동이 솟아오른다. 	Looking at Mariru's told-you face, I'm very grateful.	
+31	小怜	是、是你做的吗？……	是、是妳做的嗎？ ……	マ、マリルがやったのか……？	네，네가 한 거야？……	Was it you…?	
+32	N/A	莉琉走进我，轻轻的擦了擦我的眼角。	莉琉走近我，輕輕地擦了擦我的眼角。	マリルが俺に近付くと、俺の目尻を軽く拭った。	마리루가 내게 다가와 다정하게 내 눈가를 닦아준다.	Mariru comes over and wipes my tears.	
+33	莉琉	你看你，快要哭出来了。	妳看妳，都快要哭出來了。	ほら、泣きそうになっているぞ。	이것 좀 봐. 곧 울 것 같잖아.	Look at you—all choked up.	
+34	莉琉	如果真的想要感谢的话，今后就为我做牛做马一辈子供我驱使吧~	如果真的想要感謝我的話，今後就為我做牛做馬，一輩子供我使喚吧～	本当に感謝しているのなら、今後一生私に仕えて\n馬車馬のように働け～～	정말 고마우면，오늘 이후로 평생 열심히 날 위해 희생하라구~	If you really want to thank me—be my slave then~	
+35	莉琉	而且……	而且……	それに……	그리고……	And…	
+36	莉琉	你说着“我能依靠的只有莉琉了”这种话的样子\n实在是可爱的让人欲罢不能呢……	妳說出「我能依靠的只有莉琉了」這種話的樣子，\n實在是可愛地讓人欲罷不能呢……	「頼れるのは、マリルしかいない」\nと言ってたお前の姿が。\n実に可愛くてたまらない……	의지할 수 있는 사람이 마리루밖에 없어"라는 말은\n정말 너무 귀여워서 참을 수가 없는데…… 	When you said "the only one I can count on is Mariru", \nyou looked so cute…	
+37	N/A	莉琉用食指轻轻抬起我的下巴。	莉琉用食指輕輕抬起我的下巴。	マリルは人差し指で、俺の顎を軽く持ち上げた。	마리루가 손가락으로 내 턱을 들어올린다. 	Mariru raises my chin tenderly with her index finger.	
+38	小怜	别、别捉弄我啦~！	別、別捉弄我啦～！	か、からかわないでよ――ッ！	노，놀리지마~！	Hey, stop that!	
+39	N/A	而且从现状看来，我也一直在为你做牛做马嘛……	而且從現狀看來，我也一直在為妳做牛做馬啊……	そもそも既に、馬車馬のように働かされている…	지금 상황으로 보니 나도 널 위해 희생하는 것 같은데……?	As far as I can see, I am already enslaved…	
+40	莉琉	——虽然很想说是我有这个本事，但是能做到让全世界的媒体都乖乖听话的，目前只有一个机构。	——雖然很想說我有這個本事，但是目前能做到讓全世界的媒體都乖乖聽話的，目前只有一個機構。	しかしまぁ、私がやった──\nと言いたいところなんだがな。\n全世界のマスコミを操作するなんて芸当は、\n現状世界で1つの機関しかできない。	내 능력이라고 말하고 싶지만，전세계의 미디어를 다룰 수 있는 건 한 기관밖에 없어.	I wish I could do that. But to my knowledge, there’s only one agency that can shut up the entire social media worldwide.	
+41	小怜	哎？	哎？	えっ？	엣?	Eh?	
+42	莉琉	是『联合议会』下达的强制令。	是「聯合議會」下達的強制令。	『連合議会』からの強制命令だ。	『연합회의』가 하달한 강제령이야.	It must be an executive order from the United Congress.	
+43	小怜	六个学园都市联合组成的最高议会……居然会下令撤除我的新闻？	六個學園都市聯合組成的最高議會……居然會下令撤除我的新聞？	『連合議会』って6つの学園都市から構成された\n最高議会だよな……\nそれがなんで俺のニュースの隠蔽を命令したの？	6개 학원도시 연합이 만든 최고 회의가…내 뉴스를 없애라고 했단 말이야?	The supreme congress representing all six Academy Cities… decided to take down the news?	
+44	小怜	为什么……	為什麼……	どうして……	어째서…	Why…	
+45	N/A	莉琉定神打量了我片刻，勾起一个神秘的笑容。	莉琉定神打量了我片刻，勾起一抹神祕的笑容。	マリルは俺を見つめ、謎の微笑みを浮かべた。	마리루가 내 얼굴을 쳐다보더니 신비로운 미소를 짓는다. 	Mariru looks at me and gives me a mysterious smile.	
+46	莉琉	你少自以为是了，他们这么做显然不是为了保护劫匪。	妳少自以為是了，他們這麼做顯然不是為了保護劫匪。	お前はちょっと思い上がっているようだな。\n\n 彼らが今回このような真似に出たのは、\nお前を守るためにやった訳じゃない。	멋대로 생각하지 마. 그들이 이렇게 한 건 강도를 보호하기 위해서가 아니니까.	Don't be silly. Obviously, they didn't do this to protect the burglar.	
+47	莉琉	而是不能让公众知道，被抢走的是什么。	而是不能讓大眾知道，被搶走的是什麼。	盗まれたものが一体何なのか、一般市民に\n知られたくないだけだ。	뭘 도난당했는지 사람들에게 알리고 싶지 않아서야. 	They just don't want the public to know what was taken.	
+48	小怜	那个劫匪究竟是谁，他为什么会以我的身份出现？	那個劫匪究竟是誰，他為什麼會以我的身分出現？	あの強盗犯はいったい誰で、どうして俺の姿で\n現れたんだろう？	그 강도가 누군지는 모르겠지만，왜 내 신분으로 나타났을까?	Who is this burglar? Why did he use my identity?	
+49	莉琉	能闯入阿卡特拉兹收容基地并全身而退的人，十分值得钦佩啊~	能闖入阿卡特拉茲收容基地並全身而退的人，十分值得欽佩啊～	アルカトラズ収容基地を強襲して、\n無傷で逃亡したのは確かに感心したがな。	알카트라즈 수용 기지에 들어갔다가 멀쩡히 빠져나가다니，정말 대단해~	Whoever he is, he must be a genius to be able to get out of Akatraz's Collection and Research Center in one piece.	
+50	莉琉	真正的问题是，这样的人如果想要遮住样貌应该很简单。	真正的問題是，這樣的人如果想要遮住樣貌應該很簡單。	しかし問題は、そこまでの実力があるのに、\n一切顔を隠さなかった点だ。	진짜 문제는 이런 사람에게 모습을 감추는 것쯤은 간단한 일이라는 거지.	The thing is, it’s not difficult for him to cover his face.	
+51	小怜	但那个家伙非但不遮挡，还很嚣张的在楼顶站了一会……	但那個傢伙非但不遮掩，還很囂張地在樓頂站了一會……	顔を隠すどころか、屋上で姿を見せた挙句\nしばらくアイツは悠々と突っ立っていた。	하지만 그 녀석은 모습을 감추지 않고 옥상에 당당하게 서있었어……	But he didn’t, and even dare to go on the roof of building for a while…	
+52	小怜	培训课程里学过，最容易被忽视的，是那些本该出现但却没有……	培訓課程裡學過，最容易被忽視的，是那些本該出現但卻沒有……	以前、訓練で教えてもらった。\n\n見落としやすいのは、\n必要な情報が自然と欠けているものか──	훈련 수업에서 배운 적 있어. 가장 놓치기 쉬운 것은 나타나야 할 것이 없는 것……	According to the special training, the most negligible things are either absent from where they are supposed to appear…	
+53	莉琉	──以及本不该有却出现了的信息。	──以及本不該有卻出現了的訊息。	分かりやすい情報の裏に、\n潜んでいる本当の意味か──	──그리고 있어선 안 되는 정보가 나타나는 것.	… Or are present where they should not be.	

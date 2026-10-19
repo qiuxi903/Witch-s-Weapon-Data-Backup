@@ -1,0 +1,3 @@
+﻿1	安妮	Helloooooooo~	Helloooooooo~	Hello～♪		Helloooooooo!	
+2	安妮	恭喜，你在本次冒险中已经接近[ff9c00]学园都市[-]的真相了！	恭喜，您在本次冒險中已經接近到了[ff9c00]學園都市[-]的真相了！	おめでとう！ 今回の冒険であなたは[ff9c00]学園都市[-]の真実に近づく事ができたね！		Congrats! You're this close to finding out the truth in the [ff9c00]Academy City[-]!	
+3	安妮	在下一次相遇时（公测），请使用相同账号登陆游戏，你会收到一份专属礼物哦！	在下一次相遇時（公測），請使用相同帳號登入遊戲，您會收到一份專屬禮物噢！	次に会うときは（正式リリース）同じアカウントでゲームにログインすると、専属プレゼントを獲得できるよ！		When we meet again (open beta), log into the game using the same account to receive an exclusive reward!	

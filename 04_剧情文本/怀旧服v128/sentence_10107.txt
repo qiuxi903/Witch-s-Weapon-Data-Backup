@@ -1,0 +1,19 @@
+﻿1	小怜	刚才真是好险……\n总算回来了~~	剛才真是好險……\n總算回來了～	さっきは危なかったな……\n\nでもやっと帰ってこれた～～	아깐 정말 위험했어……\n드디어 돌아왔다~~	That was close… \nThank goodness, we're safe now~	
+2	安妮	[%rolename%]，你受伤了？\n手臂流了好多血！	[%rolename%]，妳受傷了？ \n手臂流了好多血！	[%rolename%]怪我したのっ！？\n腕から血がたくさん出てるっ！	[%rolename%]，괜찮아?\n팔에 피가 흐르잖아!	[%rolename%], you're hurt! \nThere's lots of blood on your arm!	
+3	小怜	没关系，只是擦伤而已\n这点伤对男生来说算不了什么!	沒關係，只是小擦傷而已，\n這點傷對男生來說算不了什麼的！	平気平気、かすり傷だって！これくらいの怪我、\n男にとってどうって事ないって！	괜찮아. 가벼운 찰과상일 뿐이야.\n남자에게 이 정도쯤은 아무것도 아니야~!	No big deal, just a bruise. \nNothing to a boy!	
+4	安妮	但现在明明就是女生嘛，不要太逞强啦！\n而且你的脚也扭伤了吧……	但妳現在明明就是女生嘛，不要太逞強啦！ \n而且妳的腳也扭傷了吧……	今は女の子なんだから、無理しないでよっ！\nそれに足も挫いたでしょ……	하지만 지금은 여자잖아，너무 무리하지 마！\n다리도 삐었지…?	But you're a girl now. Don't try to be a hero! \nAnd you've sprained your ankle…	
+5	小怜	嗯…看来事情并不简单,如果不能把麻烦都解决掉,\n说不定还会有很多人受伤……	嗯…看來事情並不簡單，如果不能把麻煩都解決掉，\n說不定還會有很多人受傷……	う、うん……\nでも、そう簡単にうまくいかないと思うけど、\nこの問題を解決しないと……\nもっと大勢の人が怪我をするかもしれないし……	이건 간단한 일이 아니야, 잘 해결하지 않으면, 더 많은 사람들이 다칠지도 몰라…	Well… Seems we are in big trouble. If we fail to fix it, \nMaybe more people are gonna hurt…	
+6	安妮	拜托你多爱惜下自己好不好嘛！\n手臂还在流血呢。	不管怎樣，拜托妳多愛惜一下自己好不好！ \n妳看，妳的手臂還在流血呢。	もっと自分も大切に！\nほら、まだ腕の血が止まってないっ。	너 스스로를 먼저 챙기란 말이야!\n팔에서 아직도 피가 나는 걸.	Please, watch out for yourself! \nYour arm is still bleeding.	
+7	小怜	我会的。谢谢你，安妮~	我會的。 謝謝妳，安妮～	大丈夫だよ。ありがとな、アニー。	그럴게. 고마워，앤~	I will. Thank you, Annie.	
+8	小怜	不过……还是没什么线索啊……\n要不我们继续去下一个区域吧？	不過……還是沒什麼線索啊……\n我們繼續去下一個區域吧？	だけど……手がかりは見つからず仕舞いだな……\n次の区域に行ってみようか？	하지만……아직 단서를 찾지 못했어……\n다음 구역으로 이동할까?	But… Still no clue at all… \nWhat about moving to the next area?	
+9	莉琉	（突然出现在面前）你这小丫头……	（突然出現在面前）妳這小丫頭……	この小娘が……\n（突然目の前に現れる）	（갑자기 나타나）이 계집애가……	(Suddenly appears) Hey, you!	
+10	小怜	莉琉博士，啊不，长官！\n你是在等我们吗？	莉琉博士，啊不，長官！ \n妳在等我們嗎？	マリルさんっ！　あっ、いや……長官っ！\n俺達を待っててくれたの？	마리루 박사，아니，장관님！\n여기서 우릴 기다린 건가요? 	Dr. Mariru. Oh, no, Ma’am! \nAre you waiting for us?	
+11	小怜	我们正准备去下个区域探查…	我們正準備去下一個區域探查……	これから次の区域の調査に向かう所なんだけど…	마침 다음 구역을 조사하러 갈 참이였는데…	We're about to explore the next area…	
+12	莉琉	等一下，你……是不是刚刚战斗过？！	等等，妳……是不是剛剛戰鬥過？ ！	ちょっと待て！！\nお前……まさか戦っていたのかッ！？	잠깐，너…방금 전투를 한 거야?	Wait. Have you just… fought a battle?!	
+13	小怜	呃，我也…只是勉力试试…	呃，嗯。 我也……只是盡力試試……	あっ、いや……俺は、\n少し調査を頑張ってただけで……	윽，나도…어쩔 수 없었어…	Oh well… I was just… having a try…	
+14	莉琉	我可记得跟你说过，不可以勉强自己的吧！！	我不是跟妳說過不要勉強自己嗎！ ！	私は言ったはずだ！無理だけはするなとッ！！	내가 무리하지 말라고 얘기했었지! !?	Remember I told you not to push yourself too hard?	
+15	莉琉	如果出了不可控的危险，对我可是莫大的损失！\n看看，现在就已经受伤了吧！	如果發生了無法控制的危險，對我而言可是莫大的損失！ \n看，妳現在受傷了吧！	不測の事態でも起きたら、莫大な損失なんだぞ！\n見てみろ、現に怪我しているだろうが！	막을 수 없는 위험이 생기면 나한텐 막대한 손해라고!\n이것 봐! 벌써 이렇게 다쳤잖아!	Any unmanageable danger would be a great loss to me! \nSee? You hurt yourself!	
+16	莉琉	医疗组！有人受伤，给她处理下、马上带回总部！	醫療組！ 有人受傷，幫她處理一下，馬上帶回總部！	医療班！　怪我人だッ！　彼女の処置をして、\n速やかに本部に持ち帰るぞッ！	치료팀！부상자가 있다. 어서 본부로 데려가! 	Medics! I've got someone in here! Give her some treatment and bring her back to the headquarters, right now!	
+17	安妮	[%rolename%]，莉琉长官好像很担心你呢……\n我们要不就……？	[%rolename%]，莉琉長官好像很擔心妳呢……\n不然我們……？	[%rolename%]、\nマリル長官、すごく心配してるみたいだよ……\nね、さすがに戻ろう……？	[%rolename%]，마리루 장관이 널 꽤나 걱정하는 모양이네… 그럼 우선…	[%rolename%], Officer Mariru seems to be concerned about you… \nHow about…?	
+18	小怜	……嗯	……嗯。	……うん。	……응	… Fine.	
+19	N/A	一丝难以言说的慌乱悄悄爬上了心间。	一絲難以言喻的慌亂悄悄爬上了心頭。	内心、何とも言えないシュンとした気持ちで、\n胸が一杯になった。	표현할 수 없는 혼란스러움이 느껴진다.	A hint of fluster creeps up on me.	

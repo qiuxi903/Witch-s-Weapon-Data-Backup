@@ -1,0 +1,153 @@
+﻿1	N/A	『现实』是什么？	「現實」是什麼？	『現実』とは何だ？	『현실』은 뭘까？	What is reality?	
+2	N/A	我们所认为的现实，或许只是一个线上游戏。	我們所認為的現實，或許只是個線上遊戲。	私達が普段感じている『現実』とは、\nただのゲーム中での出来事なのかもしれない。	우리가 소위 알고 있는 현실은 어쩌면 게임일지도 모른다. 	Maybe the reality as we know it is but a computer game. 	
+3	N/A	角色们在被登录时醒来，被下线时沉睡，被删除时死亡。	角色在登入時醒來、登出時沉睡、帳號刪除時死亡，	キャラクター達はログイン時に目覚め、\nログアウト時に眠り、デリート時に死亡する。	캐릭터가 접속하면 깨어나고 종료하면 깊은 잠에 빠지고，삭제하면 사망한다.	Log in, the characters wake up; log out and they fall asleep. When accounts are closed, they die.	
+4	N/A	却渐渐产生了拥有『灵魂』的错觉。	卻漸漸產生了自己擁有「靈魂」的錯覺。	そうしている内にキャラクターは\n自分が『魂』を持っていると錯覚し始めた。	그리고 점점 『영혼』이 있다는 착각을 하게 된다.	As time goes by, they develop the perception of the soul.	
+5	N/A	理所当然地觉得自己被控制做出的种种行为，完全是出于『自由意志』。	理所當然地覺得那些被控制做出的種種行為，完全是出於自己的「自由意志」。	『自由意志』から生まれたものだと、\n当たり前のように思ってしまう。\n本当は自分の行為がコントロールされている\nとしても。	당연하게 자신이 제어당한 모든 행위가 『자유의지』에서 온 것이라고 생각한다.	They believe all those preprogrammed actions are taken out of their free will.	
+6	N/A	公式、定律、语法、守则……在获得自由之前，每个角色都要被灌输这些不知由谁制定的游戏规则。	公式、定律、語法、守則……在獲得自由之前，每個角色都要被灌輸這些不知由誰制訂的遊戲規則。	公式、定律、文法、法則……自由を得る前に\nキャラクター全員は注ぎ込まれていく。\n誰が創ったかも分からないゲームのルールを。	공식, 법칙, 어법, 수칙……자유를 얻기 전 모든 캐릭터들은 누가 만든지 모를 규칙들을 주입당한다. 	Formulas, laws, grammar rules, codes of conduct… every character is given these rules to follow without knowing who created them… until they are finally freed.	
+7	N/A	即使某天，天空中出现了因渲染故障而撕裂的巨大马赛克像素色块──	即使某天，天空中出現了因渲染故障而撕裂的巨大馬賽克像素色塊──	仮にある日。\n\nレンダリングのミスにより、引き裂かれた\n巨大なモザイクが上空に現れたとしても───	설령 어느 날 공중에 렌더링 고장으로 거대한 모자이크 화소 덩어리가 생겨난다고 해도──	Even if a huge patch of the sky becomes pixelated due to a rendering error—	
+8	N/A	角色们也不会承认那是『未知』，而是编造各种神话或信仰来解释。	角色們也不會承認那是「未知」，而是編造各種神話或信仰來解釋。	キャラクター達はそれを『未知』だと認めず、\n神話や信仰だと捻じ曲げて説明しようとする。	그것을 『미지』라고 인정하지 않고 각종 신화나 신앙으로 설명하려 할 것이다.	They just rationalized it with fairy tales or religious beliefs, instead of admitting that it is beyond their knowledge.	
+9	N/A	因为承认『未知』意味着无法否定那最让人无法心安的可能──	因為，承認「未知」意味著無法否定那最讓人擔憂的可能──	なぜなら『未知』を認めるという事は、\n最も畏れている可能性を否定できなくなるから。	『미지』를 인정하는 것은 사람을 가장 불안하게 만드는 가능성을 부정할 수 없다는 것을 의미한다──	Because accepting the unknown means the most disturbing possibility—	
+10	N/A	可能所谓『现实』，只是一种幻觉。	所謂的「現實」，只是一種幻覺。	もしも、いわゆる『現実』というものが、\nただの幻だったら。	소위 말하는 『현실』，그것은 일종의 환각일 뿐이다.	That the so-called reality might be nothing but an illusion.	
+11	N/A	一场梦。	一場夢。	ただの夢だったら──	한 차례의 꿈.	A pipe dream.	
+12	N/A	我慢慢睁开双眼，发现自己身处一片朦胧的世界。	我慢慢睜開雙眼，發現自己身處一片朦朧之中。	ゆっくり目を開くと、自分が朦朧とした世界に\n存在している事に気が付いた。	두 눈을 천천히 뜬 나는 내가 몽롱한 세계에 있다는 걸 깨달았다. 	I open my eyes slowly and find myself in a haze.	
+13	N/A	雾气缭绕中，一串串水珠诡异的悬浮在半空。	霧氣繚繞中，一串串水珠詭異地懸浮在半空。	霧の中、ゆらゆらと水玉が不気味に宙を\n漂っている。	안개가 피어오르는 곳에 물방울이 공중에 흩날린다.	I'm surrounded by the mist. Strangely, strings of raindrops are hanging in midair.	
+14	N/A	我伸手去触碰，那些“水珠”立刻消散于无形。	我伸手觸碰，那些「水珠」立刻消散於無形。	手を伸ばし触れようとすると、「水玉」は\nすぐさま形を無くして消えていった。	손을 뻗어 만지니 “물방울”이 사라져 버린다. 	I reach out and try to touch them, but they evaporate immediately.	
+15	N/A@小怜	这里是……	這裡是……	ここは……	이곳은……	Where am I… 	
+16	N/A	我正站在某个平面上，并且能感到重力，然而低头却看不到地面，视觉有产生一种奇妙的下坠感…	我正站在某個平面上，能感到重力，低頭卻看不到地面，視覺上有一種奇妙的下墜感……	平面な場所に立ってはいるようで重力は感じる。\n\nだが、下を見ても地面は見えず、\n視覚は奇妙な墜落感を常に感じさせてくる。	평면 위에 서 있고，중력도 느껴진다. 고개를 숙이니 지면이 보이지 않아서 시각적으로 추락하는 느낌이 든다. 	I'm standing on a solid surface, and can feel gravity. But I can't see the ground… as if my sight is absorbed into the void.	
+17	N/A	周围的背景噪音掺杂着某种特殊的异响，但在没有参照系的空间无法判断方位。	背景的噪音摻雜著某種特殊異響，但在沒有參照座標的空間卻無法判斷方位。	周囲の環境音は何かの特殊な音が混ざっている。\n\nしかし、判断材料のない空間では\nどこから聞こえてくるのかさえ判別が付かない。	주위 소음에 특이한 소리가 섞여 있다. 참고 대상이 없는 공간인지라 방향을 판단할 수 없다.	There is an unusual buzz in the background. Without any frame of reference, directions are imperceptible.	
+18	N/A	我抬头，看到上空漂浮着一个树状的镂空图腾。	我抬頭，看到上空漂浮著一個樹狀的鏤空圖騰。	空を見上げると、上空には透かし彫りにされた\n模様のような樹状の紋章が浮いていた。	고개를 드니 나무 형태의 토템이 공중에 표류하고 있는 게 보인다.	I look up and see the outline of a tree-like totem floating along high above me.	
+19	N/A	图腾在天空中像毯子一样展开，发着微微的亮光。	圖騰在天空中像毯子一樣展開，發著微微的亮光。	紋章は絨毯のように空中に広がっていて、\n微かに光を放っている。	토템은 공중에 카펫처럼 펼쳐져 미세한 빛을 발산하고 있다.	It spreads like a glimmering blanket in the sky.	
+20	N/A	图腾上的10个圆环缓慢的转动着，其中一个圆环散发出淡红色。	圖騰上的10個圓環緩慢轉動著，其中一個圓環散發出淡紅色。	その紋章の上をなぞるようゆっくりと回るのは、\n10個の輪。\nその中の1つは薄く赤い色をしていた。	토템 위 10개 링이 천천히 회전하고 있고，그 중 하나는 엷은 붉은 빛을 내고 있다.	Ten rings on the totem rotate slowly, one emitting a reddish ray.	
+21	N/A	随后，我的脚下也展开了由巨大的线条和铭文构成的图形，构成了概念上的『地面』。	隨後，我的腳下也展開了由巨大的線條和銘文構成的圖形，構成了概念上的「地面」。	しばらくすると、俺の足元に巨大な線と刻銘で\n構成された図形が展開され、\n概念上、足元は『地面』となった。	내 발 밑에도 거대한 선과 명문으로 구성된 도형이 펼쳐져，개념상의  『지면』을 이루고 있다.	Then a huge pattern composed of lines and inscriptions unfolds beneath my feet, forming what can be called the ground.	
+22	N/A	仔细观察，地面上是与天空一样的图腾，只是比从远处看起来大得多。	仔細觀察，地面與天空都是一樣的圖騰，只是比從遠處看起來大得多。	よく見ると地面の図形は空の紋章と同一だ。\nただ、遠くから見るよりも明らかに大きい。	자세히 살펴보니 지면도 하늘과 같은 토템이다. 멀리서 보면 더 클 뿐. 	The totem on the ground is the same as the one in the air, but much bigger looking from short distance.	
+23	N/A	被以某种规则连接起来的圆环，每一个直径都超过5米，图腾中穿插着不知年代的铭文。	被以某種規則連接起來的圓環，每一個直徑都超過5公尺，圖騰中穿插著不知年代的銘文。	ある種の規則性が存在していそうな円環は、\n全て直径5メートルを超えていそうだ。\n紋章の刻銘は──意味も年代も一切が不詳。	어떤 규칙으로 연결된 링은 모두 직경 5미터가 넘는다. 토템에 시대를 알 수 없는 명문이 새겨져 있다. 	The rings, each about 15 ft in diameter, are connected in a certain order. Inscriptions on them look ancient.	
+24	小怜	（我是在…做梦吗？）	（我是在……做夢嗎？ ）	（俺は……夢でも見ているのか？）	（내가 지금…꿈을 꾸고 있나?）	(Am I… dreaming?)	
+25	N/A	之前的训练中有学习过识别幻觉或梦境的方法。	之前的訓練裡有學過判斷幻覺或夢境的方法。	以前の訓練で、幻覚や夢を識別する方法を\n学んだ事がある。	예전에 훈련에서 환각과 꿈을 식별하는 방법을 배운 적 있다. 	I've been trained to identify hallucinations and dreams… 	
+26	N/A	那个重要的『问题』是什么来着……	那個重要的「問題」是什麼來著……	たしか『質問』を自分へ投げかけるのだけれど、\n何だっけ……	그 중요한 『문제』가 뭐였더라……	What's that important question again… 	
+27	小怜	──我，是怎么来到这里的？	──我，是怎麼來到這裡的？	──俺、どうやってここにたどり着いたんだ？	──나는，어떻게 여기에 왔을까? 	—How did I come here?	
+28	N/A	记忆慢慢开始浮现，刚才我们还在方舟基地，然后似乎突然开始坠落，然后……	記憶慢慢開始浮現，剛才我們還在方舟基地，然後似乎突然開始墜落，然後……	記憶がだんだんと蘇る。\nさっきまで俺達は方舟基地にいて……\nそれから急に落下して……それから……	방금까지 우리는 방주 기지에 있었다. 그리고 갑자기 추락했고…	Memories come back. I was in the Ark Base and everything began to fall… Then… 	
+29	N/A	这里，不是梦境。	這裡，不是夢境。	これは、夢なんかじゃない。	이건 꿈이 아니다.	No. This is not a dream.	
+30	小怜	（和刚才出现的那个女生有关吗？）	（和剛才出現的那個女生有關嗎？ ）	（さっき現れた女の子と関係があるのか？）	（방금 나타났던 그 여자와 관련이 있을까？）	(Does it have anything to do with that girl?)	
+31	小怜	（上来就叫我“主人”，而且还……）	（一出現就叫我「主人」，而且還……）	（いきなり『マスター』とか呼んでくるし……）\n\n（おまけに……）	（날 "주인님"이라고 불렀다. 그리고……）	(She called me Master, and even…)	
+32	N/A	啊──\n不对！才不是回味那种画面的时候！	啊──\n不對！ 現在才不是回味那種畫面的時候！	ぬあ──ッ！！　違うっ！\nあんな映像を振り返ってる場合じゃない！	아──\n아냐! 그런 걸 생각할 때가 아니라구!	Aww— \n No… It's not the time for fantasy… 	
+33	N/A	安妮呢？还有拉斐尔？！	安妮呢？ 拉斐爾呢？ ！	アニーは！？　それにラファエルは！！？	앤은？그리고 라파엘은?!	Where is Annie? And Raphilia?	
+34	N/A	她们两个……应该和我一起被卷进来了！	她們兩個……應該和我一起被捲進來了！	あの2人も、俺と一緒にここに落下したはず！	두 사람……분명 나와 함께 끌려들어왔다!	They must also get sucked into this place!	
+35	N/A	我在雾气中紧张的四处张望，忽然一个温暖的身体从身后抱住了我。	我在霧氣中緊張地四處張望，忽然一個溫暖的身體從身後抱住了我。	緊張感を持ちつつ、俺は霧の中をあちらこちらと\n見回す。\nすると急に、背後から暖かい何かによって\n抱きしめられた。	안개 속에서 긴장하며 사방을 둘러보는데，따뜻한 몸이 갑자기 내 등 뒤에서 끌어안는다.	I look around into the mist for them. Unexpectedly, a pair of warm arms of holds me from behind.	
+36	N/A@金发少女	不要紧张，主人──	不要緊張，主人──	どうか緊張なさらないで、マスター。	긴장하지 마세요，주인님──	Do not worry, Master—	
+37	N/A	出现了！\n那个一丝不挂的家伙正从后面搂着我的腰！	出、出現了！ \n那個一絲不掛的傢伙正從後面摟著我的腰！	で、で、で、出やがったな！\n\nあの一糸も纏ってない奴が、\n背後から俺の腰を抱きしめている！	나타났다！\n실오라기 하나 걸치지 않은 녀석이 뒤에서 내 허리를 안고 있어!	It's her! \n The naked girl is hugging me from the back!	
+38	N/A	我很想质问她，又不知该不该回头……	我很想質問她，又不知該不該回頭……	彼女に色々と質問したいけれど、\n振り向いていいかどうかさえ分からない……	물어볼 것이 있는데，고개를 돌려도 될지 모르겠다…	I have many questions for her. But I hesitate to look back… 	
+39	小怜	（而且“主人”这个称呼……）\n（让我想起了动画片里很多奇怪的角色啊！）	（而且「主人」這個稱呼……）\n（讓我想起動畫裡很多奇怪的角色啊！ ）	（それにあの『マスター』って呼び方……）\n\n（アニメとかマンガの色々なキャラ達が……）\n\n（いっぱい思い浮かんでくる！！）	（그리고“주인님”이라니…）\n（애니메이션 속 이상한 캐릭터를 떠올리게 하잖아!）	(Master… How strange!) \n (Just like weirdos in cartoon movies!)	
+40	N/A	她似乎在摸索着什么.手掌划过我的腰，最后停留在我那不管如何训练都长不出肌肉的小腹。	她似乎在摸索著什麼，手掌劃過我的腰，最後停留在我那不管如何訓練都長不出肌肉的小腹。	彼女は何かを手探りしているようだ。\n\n手のひらを俺の腰に軽く当てたかと思うと、\n今度はどう鍛えても割れない俺の腹筋に触れる。	그녀는 무언가를 더듬듯 허리에 있는 손을 어떻게 해도 근육이 생기지 않는 내 배로 옮긴다.	She seems to be groping for something. Her hands crawl along my waist, and stop at my flat belly.	
+41	N/A	在寂静的环境中，她的呼吸轻拂着我的头发，我的心跳不断加快……	一片寂靜中，只有她的呼吸輕拂著我的頭髮，我的心跳不斷加快……	静寂の中、彼女の呼吸が優しく俺の髪を撫で\n俺の心拍数はどんどん加速していく……	조용한 공간에서 그녀의 호흡은 내 머리카락을 스쳐 지나가고，나의 심장은 더 빠르게 뛴다.	In the silence, I can hear my heart beating fast as her breath is tickling my hair… 	
+42	小怜	（她、她要干什么？）	（她、她要幹什麼？ ）	（な、な、何する気なんだ？）	（뭐, 뭘 하려는 거지？）	(What… is she going to do?)	
+43	N/A@金发少女	哦~？	哦～？	おや？	오~?	Oh?	
+44	N/A	她好像发现了什么有趣的事情，手掌轻轻一按，我的肚子立刻不争气的发出“咕─”的一声。	她好像發現了什麼有趣的事情，手掌輕輕一按，我的肚子立刻不爭氣的發出「咕～」的一聲。	彼女は何か面白い事に気付いたようで、\n軽く俺のお腹を押さえた。\nすると、俺のお腹が情けなく「ぎゅるる」と\n音を立てた。	그녀가 흥미로운 걸 발견한 것처럼 손바닥으로 내 배를 누르자 "꾸룩"하는 소리가 난다. 	She seems to find something interesting. She presses gently on my empty stomach, which grumbles at once. 	
+45	N/A	在本就安静的环境中，这个声音格外明显。	原本就安靜的環境中，這個聲音格外明顯。	元々が静かな環境で、この音は非常に目立つ。	조용했던 공간에 소리가 선명하게 들린다.	The sound is especially loud and clear in the quietness.	
+46	小怜	（诶？？为什么……）	（欸？ ？為什麼……）	（え？？　なんだか……）	（앗？？어째서……）	(Eh? Why…)	
+47	小怜	（感觉……好丢人啊啊啊啊！！！）	（感覺……好丟人啊啊啊啊！ ！！ ）	（これ……めっちゃ恥ずかしいじゃんッ！！？）	（……너무 부끄럽잖아아아아아！！！）	(Ahhhhhhh… So embarrassing…)	
+48	N/A	我拨开她的手，少女步伐轻巧的绕到我面前，用好奇的眼神打量着我。	我撥開她的手，少女卻步伐輕巧地繞到我面前，用好奇的眼神打量著我。	思わず手を払いのけた。\n\n彼女は軽やかに俺の目の前に回り込み、\n好奇の目で俺を見つめる。	그녀의 손을 떨쳐내자 그녀가 눈 앞으로 걸어와 호기심 가득한 눈으로 날 훑어본다.	I break away from her. She walks up to me and looks at me curiously.	
+49	N/A@金发少女	原来主人的身体也被改造过？\n……真是完美的炼金产物啊！	原來主人的身體也被改造過？ \n……真是完美的煉金產物啊！	マスターも身体を改造なされたのですね？\n\n……何と素晴らしい、錬金術の成果ですわ！	주인님의 몸도 개조되었군요？\n……정말 아름다운 연금의 산물이에요!	Has Master's body been modified as well? \n … What a perfect product of alchemy!	
+50	N/A	我刚想捂住眼睛，发现她已经穿好了衣服。	我正想捂住眼睛，卻發現她已經穿好了衣服。	俺は自分で目を塞ごうと思ったけど、\n彼女はすでに服を着ていた。	눈을 가리려다가 그녀가 옷을 다 갖춰입은 상태라는 걸 깨달았다. 	I want to cover my eyes, but realized she’s already dressed.	
+51	N/A	等等，她刚才说我的身体被改造过？！\n另外她这身装束……	等等，她剛說我也被改造過？ ！\n而且，她這身裝扮……	待って、彼女はさっき俺の身体が改造された\nって言ったよなっ？！\n\nそれに彼女のこの格好……	잠깐，내 몸이 개조됐다고？！\n그리고 저 복장은……	Wait, did she just say my body has been modified?! \n And… what is she wearing?	
+52	N/A	就算只用肉眼观察，也能看出海因里希的服装是以非常先进的材料制作的。	就算只用肉眼觀察，也能看出海因里希的服裝是以非常先進的材料製作的。	ハインリッヒの服装は肉眼で見ただけでも、\n非常に先進的な材質で構成されてるのが分かる。	육안으로 보아도 하인리히의 옷은 최첨단 재료로 만든 것인 걸 알 수 있었다. 	One look at Heinrich's costume is enough to tell its state-of-the-art material.	
+53	N/A	无论质感还是设计，都不是16世纪的工艺可以达到的……不，就算是现在也不一定能做到。	無論質感還是設計，都不是16世紀的工藝可以達到的……不，就算是現在也不一定能做到。	質感もデザインも、16世紀の工芸技術で\n生み出せるような物じゃない……\nいや、現代においても不可能かもしれない。	질감과 디자인 모두 16세기의 솜씨로는 만들 수 없는 것이다…… 아니，지금도 불가능할 것이다.	Judging from the texture and design, it can’t be made the 16th century… No, it’s even beyond modern craftsmanship. 	
+54	小怜	（难道莉琉的情报有误？）\n（还有，她是如何知道我身体的事情的？）	（難道莉琉的情報有誤？ ）\n（還有，她是如何得知我身體的事情？ ）	（まさかマリルの情報が間違っている？）\n\n（後、彼女にはどうして身体の事がばれたの？）	（설마 마리루의 정보가 틀린 걸까？）\n（어떻게 내 몸에 대해 알고 있는 거지?）	(Is Mariru's information wrong?) \n (And how does she know about my body transformation?)	
+55	N/A	在我思考要先问哪个问题的时候，衣服的帽子突然被人用力向后扯。	在我思考要先問哪個問題的時候，連衣帽突然被人用力向後扯。	どの質問を先に聞こうか考えている最中、\n急に服のフードを誰かに引っ張られた。	어떤 것부터 물어봐야 할지 고민하고 있을 때，후드가 뒤로 잡아당겨졌다.	As I try to verbalize my thoughts, someone gives me a sudden pull backwards.	
+56	N/A	拉斐尔把我拉到身后，挡在了我和金发少女之间。	拉斐爾把我拉到身後，擋在我和金髮少女之間。	ラファエルが俺を後ろに引っ張る。\n\n俺と金髪の少女の間を割って、立ちはだかった。	라파엘이 날 자신의 뒤로 잡아당긴 후 나와 금발소녀 사이를 가로막는다.	It's Raphilia. She grabs me by my hood, steps forward and stands between me and Heinrich.	
+57	拉斐尔	你这家伙，到底是谁？！	妳到底是誰？ ！	あんたは、いったい誰なんだッ！！？	너，도대체 누구야?!	Tell me, who are you?!	
+58	金发少女	──哦？	──哦？	──あら？	──오？	—Well?	
+59	N/A	金发少女看着拉斐尔，露出轻蔑的微笑。	金髮少女看著拉斐爾，露出輕蔑的微笑。	金髪の少女は、ラファエルを見ながら\n軽蔑な笑みを浮かべた。	금발소녀가 라파엘을 보며，경멸의 미소를 짓는다. 	Heinrich turns to Raphilia, a scornful smile on her face.	
+60	金发少女	你是问名字吗？\n那种东西我用过上百个~	妳是問名字嗎？ \n那種東西我用過上百個～	名前を尋ねているのでしょうか？\nわたくしは以前、そういったモノを100通りほど\n持っておりましたが……	내 이름을 묻는 거야? \n그런 건 백 개도 넘게 있는데~	Are you asking my name? \n I have hundreds of them.	
+61	金发少女	不过告诉你也无妨，海因里希·昆哈特──这就是我的“契约”之名。	不過告訴妳也無妨，海因里希·昆哈特──這就是我的「契約」之名。	教えてあげても構いません。\nハインリッヒ・クンラート──\nそれがわたくしの『契約』の名前。	하지만 알려줘도 괜찮겠지. 하인리히 쿤라드. 그게 바로 나의 "계약"명이야. 	But you can call me Henriette Khunrath—that's the one on the Contract.	
+62	拉斐尔	别开玩笑了！	別開玩笑了！	ふざけるな！	농담하지 마!	That's not funny!	
+63	拉斐尔	姑且不说所有历史记录中，海因里希都是男性──	姑且不說所有歷史記錄中，海因里希都是男性──	あらゆる歴史文献において、ハインリッヒが\n男性である事はさておいても──	모든 역사 기록 속 하인리히는 모두 남자였어──	Heinrich is a man in all historical records—	
+64	拉斐尔	就你这身轻浮的打扮……\n你是错误的理解了内衣的定位吗？	就妳這身輕浮的打扮……\n還有，妳是誤解了內衣的定義嗎？	あんたのような浮付いた格好……\n\nあんた下着の穿き方を知らないのかしらッ？	네 경박한 옷차림……\n속옷의 위치를 잘못 알고 있는 거 아니야?	And besides, look what you're wearing! \n Have you mistaken underwear for outerwear?	
+65	拉斐尔	海因里希是有名的炼金术士，绝不是你这种毫无廉耻、随意叫别人主人、并且……说什么精华……	海因里希是有名的煉金術士，絕不是妳這種不知羞恥、隨意叫別人主人、還……還說什麼精華……	ハインリッヒは有名な錬金術士よ。\n\n決してあんたみたいに破廉恥で、\n勝手にこいつをマスターとか呼んだりしないわ！\nそれに……精気とかなんて……ッ!	하인리히는 유명한 연금술사야. 너 같이 부끄러움도 모르고 멋대로 다른 사람을 주인이라고 부르지 않아!	Don't defile Heinrich the great alchemist, you shameless girl! Stop calling people “master" and… and taking people’s essence…	
+66	N/A	拉斐尔的脸可疑地红了一下。	拉斐爾的臉可疑地紅了一下。	ラファエル\n自分で言いながら顔が赤くなってきてるけど。	라파엘의 얼굴이 수상하게 붉어진다.	Raphilia blushes as she speaks.	
+67	拉斐尔	……你到底是什么人！	……妳到底是什麼人！	……あんたは一体何者よッ！	……넌 도대체 누구야!	… Who on earth are you!	
+68	N/A	她们对峙时，我在拉斐尔身体的掩护下，情不自禁的从缝隙中观察海因里希。	她們對峙時，我忍不住從拉斐爾的背後偷偷觀察海因里希。	俺はラファエルに庇ってもらいながらも\n隙間から、ハインリッヒの事を観察する。	그들이 대치할 때，나는 라파엘의 뒤에서 나도 모르게 하인리히를 관찰했다.	As they face off against each other, I couldn't help but peep at Heinrich from Raphilia's back.	
+69	小怜	（她上半身的衣服到底是什么材质……）\n（好惊人的包裹性！还能同时向不同的方向抖吗）	（她上半身的衣服到底是什麼材質……）\n（好驚人的包覆性！ 還能同時向不同方向抖嗎？ ）	（彼女の上の服……一体どんな材質なんだ……）\n（な、何という締め付け感！）\n（なんだと…同時に違う方向に揺れるのか…！）	（저 상의는 도대체 무슨 재질일까……）\n（놀라울 정도의 착용감! 동시에 다른 방향으로 흔들리고 있어.)	(What's the material of her costume…) \n (Amazing wrap! How could her breasts shake in different directions?)	
+70	N/A	突然间，海因里希与我目光相接，我低下头满脸通红的扯着裙角，不敢再看她。	突然間，海因里希與我目光相接，我低下頭滿臉通紅地拉著裙角，不敢再看她。	突然、ハインリッヒと目が合った。\n\n顔が真っ赤になってスカートの裾を弄りつつも、\nこれ以上は彼女を直視できない。	갑자기 하인리히와 눈이 마주친 나는 고개를 숙이고 얼굴을 붉인채 치마자락을 잡았다. 	Our eyes meet and I blush at once. In a panic, I look down at my skirt, avoiding further eye contact.	
+71	海因里希	哦？我以为完美炼成了这幅躯体的主人，并不会对自己的作品产生动摇……	哦？ 我以為煉成了這個完美軀體的主人，並不會對自己的作品產生動搖呢。	おや？　この肉体を完璧に錬成したのは、\nマスター自身でありますよね？\nご自身の作品に動揺される事はないのでは……	어라? 이 몸을 완벽하게 연성한 주인님은 자신의 작품에 동요하지 않을 줄 알았는데……	Well? I thought Master wouldn't be struck by your own masterpiece… 	
+72	N/A	不不不，我（以前）可是男孩子啊……	不不不，我（以前）可是男孩子啊……	いやいやいや、俺は男だぞ……（だったぞ……）	아니，난（예전에）남자란 말이야……	No no no, I am (or, was) a boy… 	
+73	N/A	海因里希说着拉了拉自己胸口的衣服。	海因里希說著拉了拉自己胸口的衣服。	ハインリッヒはそう言いつつ自分の服の胸元を\n引っ張った。	하인리히가 가슴 부분의 옷을 끌어당긴다.	Heinrich points to her chest.	
+74	海因里希	似乎比以前大了些……是主人的兴趣吗？	似乎比以前大了一些……是主人的興趣嗎？	以前より大きくなっているようですが……\nこれはマスターの趣味でしょうか？	예전보다 조금 커진 것 같긴 한데……주인님의 취향인가요? 	Bigger than they used to be… Is this Master's taste?	
+75	N/A	拉斐尔回头瞪了我一眼。	拉斐爾回頭瞪了我一眼。	ラファエルが振り返って俺を睨んだ。	라파엘이 고개를 돌려 날 쳐다본다.	Raphilia looks back and casts me a stern look.	
+76	小怜	不！！我不是！我没有！！	不！ ！我不是！ 我沒有！ ！	いやッ！！　違うッ！　俺じゃない！！	아니야!! 난 아니라고!! 그렇지 않아!!	No! Not me! I didn't!!	
+77	小怜	我只是不小心打碎了萨蒙顿的国宝级文物……	我只是不小心打碎了薩蒙頓的國寶級文物……	俺はただ不注意で、サモントンの国宝級文化財を\n壊しちゃっただけで……	난 그냥 실수로 살몬톤의 국보급 문물을 깨트린 것 뿐이야……	I just broke Salmonton's national treasure by accident… 	
+78	小怜	还有，别叫我主人啦……叫我小怜就行。	還有，別叫我主人啦……叫我小憐就好。	そっちの君も俺をマスターって呼ばないで……\nレンでいいよ。	그리고，날 주인님이라고 부르지 마…… 그냥 렌이라고 불러.	And, please don't call me master… Just call me Ren.	
+79	海因里希	小怜……？\n没想到如此伟大的您…居然有着这样可爱的名字。	小憐……？ \n沒想到如此偉大的您……居然有著這樣可愛的名字。	レン……さん……？\n\n偉大なる貴方様が……そのような可愛らしい\nお名前でいらっしゃるとは。	렌？\n위대한 당신에게 이렇게나 귀여운 이름이 있을 줄이야.	Ren…? \n I didn't expect a great person like you would have such a lovely name… 	
+80	小怜	那么你呢？你真的是那个海因里希？	那麼妳呢？ 妳真的是那個海因里希？	それで君は？　本当にあのハインリッヒなのか？	그럼 넌？네가 정말 하인리히야?	What about you? Are you really Heinrich?	
+81	N/A	金发少女犹豫了一下，看了看手腕上的数字，有点无奈的叹了口气。	金髮少女猶豫了一下，看了看手腕上的數字，有點無奈地嘆了口氣。	金髪の少女は少し躊躇ったが、手首にある数字を\n確認して、仕方なしとばかりに溜め息を吐いた。	금발소녀가 머뭇거리더니 손목 위 숫자를 보고 어쩔 수 없다는 듯 한숨을 내쉰다.	She hesitates, looks at the numbers on her wrist, and sighs slightly.	
+82	海因里希	已经过去400多年了啊……	已經過400多年了啊……	もう400年以上も過ぎていましたか……	벌써 400년이 지났다니…	It’s already 400 years… 	
+83	N/A	等等，她手腕上有电子表或者万年历之类的吗！？	等等，她手腕上有電子錶或者萬年曆之類的嗎！ ？	ちょっと待って、腕にデジタル時計とか\nカレンダーでもついているのか！？	잠깐，손목 위에 전자표나 달력 같은 게 있나!?	Wait, is there any watch or calendar on her wrist!?	
+84	海因里希	无论是研究、发表论文书籍还是行医，我确实一直都使用的是男性身份。	過去，無論是研究、發表論文書籍還是行醫，我確實一直都使用男性身分。	以前は研究や論文の発表にしても、\n医者として活動するにしても、\n確かにわたくしは男性の身分を使用して\nいました。	연구, 논문 서적, 그리고 의사 신분까지 모두 남자 신분을 사용했어요. 	I did pose as a man to do research, publish papers or practice medicine.	
+85	海因里希	所以历史上能有如此记载也很正常。	所以歷史上有那些記載也是正常的。	なので後の歴史の記録に、そう記載されていても\n別に不自然ではありません。	그러니 역사에 그렇게 기록된 것은 사실 당연해요.	So I'm not surprised by the way history records me. 	
+86	海因里希	因为在我那个时代，大学不招收女生，教会也不准女人行医──	因為在我那個時代，大學不招收女生，教會也不准女人行醫──	なぜなら、わたくしが生きた時代\n女性は大学へ招かれませんでしたし──\n教会も女性が医者となる事を\n許してはくれませんでした──	그 시대 대학은 여학생을 뽑지 않았고，교회는 여자가 의술을 행하는 걸 허락하지 않았어요.	In my time, universities didn't admit girls, and the church forbade women to practice medicine—	
+87	海因里希	至于炼金术……哼哼，如果女性的身份去研究，很快就会被宗教法庭找上门吧？	至於煉金術……哼哼，如果女性的身分去研究，很快就會被宗教法庭找上門吧？	錬金術に関しても……\n\nふふ、女性の身分がバレてしまっていたら、\nすぐ宗教裁判所の者が尋ねてきた事でしょうね。	연금술은 말해 뭐하겠어요……여자의 신분으로 연구했다면，종교 재판에 끌려갔겠죠?	Let alone becoming an alchemist… Hmm, I don't want to get into trouble with the religious court.	
+88	拉斐尔	……\n	……\n	……\n	……\n	… \n	
+89	N/A	不知为何，最近听到这些种种对女性的压迫，我就有一种感同身受的愤愤不平。	不知為何，最近聽到這些對女性的種種壓迫，我就會感同身受、憤憤不平。	なぜか最近、こういった女性に対しての様々な\n暴挙を聞く度に、他人事ではない怒りを感じる。	왠지 모르겠지만，요즘 들어 여성의 핍박같은 걸 들으면，동질감이 느껴져 마음이 편치 않다.	Somehow, I start to feel indignant every time I learn about the oppression of women.	
+90	海因里希	虽然想要处理掉那些“教廷的警犬”易如反掌，但凡夫俗子不值得我浪费宝贵的时间。	雖然要處理掉那些「教廷的警犬」易如反掌，但凡夫俗子不值得我浪費寶貴的時間。	「教皇庁の番犬」を処理するのは簡単でしたが、\n\nそういった凡人にわたくしの『貴重な時間』を\n費やす価値はございませんでした。	“교황청의 개”를 제거하는 건 쉽지만，평범한 사람에게 내 소중한 시간을 낭비할 필요가 어디 있겠어요.	It's easy to get rid of those dogs of the court, but they're not worth my time. 	
+91	小怜	好像……很厉害的样子……	好、好像……很厲害的樣子……	なんか……すごいな……	엄청……대단해 보여……	Wow… sounds cool… 	
+92	N/A	拉斐尔的表情也有些动摇。	拉斐爾的表情也有些動搖。	ラファエルも表情から少し動揺がうかがえる。	라파엘의 표정도 조금 동요한다.	Raphilia looks at Heinrich thoughtfully.	
+93	小怜	等等，女生可以伪装成男孩子上大学吗？\n	等等，女生真的可以偽裝成男孩子上大學嗎？ \n	ちょっと待って、\nどうやって男を装って大学へ行けていたんだ？	잠깐，여자가 남자로 위장해서 대학에 들어갈 수 있어？\n	Wait, how did you get to enter the university as a boy? \n	
+94	N/A	我忽然很好奇她用了什么方法，说不定……	我忽然很好奇她用了什麼方法，說不定……	彼女が一体どんな方法を使ったのか、\nすごく気になってきた。もしかしたら……	그녀가 무슨 방법을 썼는지 갑자기 궁금해졌다. 설마……	I am suddenly curious about how she got in. Maybe…	
+95	海因里希	我只是剪短头发，伪造了几封推荐信，然后用假名混进了莱比锡大学。	我只是剪短頭髮、偽造幾封推薦信，再用個假名，就混進萊比錫大學了。	わたくしはただ髪の毛を短く切り、\nいくつかの推薦状を偽造して、\n仮名でライプツィヒ大学に紛れ込んだだけ\nですわ。	머리를 짧게 자르고 추천서를 위조했어요. 그 다음 가명으로 라이프치히에 입학했죠.	I just cut my hair short, forged several references, and got into the University of Leipzig under a pseudonym.	
+96	小怜	只……剪短头发就可以吗？	只是剪短頭髮就可以嗎？	髪の毛を……切るだけでいいのか？	머리만 짧게 잘랐는데 그게 가능했다고?	Just a haircut?	
+97	小怜	我又看了看她的胸部，400年前的人难道真的像电视剧里一样瞎到看不出女扮男装？	我又看了看她的胸部，400年前的人難道真的像電視劇裡一樣瞎到看不出女扮男裝？	彼女の胸を改めて注視する。\n\n400年前の人達は、本当にドラマの中みたいに\n男装が分からないほど目が節穴だったのか？	그녀의 가슴을 쳐다봤다. 400년 전 사람들은 설마 남장여자도 못 알아보는 거야?	I look at her chest. Are people 400 years ago all blind?	
+98	海因里希	当时我刚10岁，大学入试题目太简单了。	當時我剛滿10歲，大學入學考的題目太簡單了。	当時、わたくしは10歳になったばかりでしたが\n大学の入試問題なんてとても簡単でして。	그 때 전 10살이였고 대학 입시 시험은 너무 간단했어요.	I was ten years old then. The university entrance exam was too easy.	
+99	N/A	海因里希不屑的笑了笑。	海因里希不屑地笑了笑。	ハインリッヒは舐めるような笑みを浮かべた。	하인리히가 하찮다는 듯 웃는다.	Heinrich smiles disdainfully.	
+100	小怜	打扰了！	啊！ 失敬失敬！	失礼しましたっ！	미안!	Huh? Never mind.	
+101	N/A	无论哪个时代，学霸都太可怕了！！	無論在哪個時代，學霸都令人敬畏啊！ ！	どの時代でも、秀才って怖いなッ！！	어느 시대든 공부의 신은 너무 무섭다！！	No matter how the world changes, whiz kids are always awesome!	
+102	拉斐尔	那你现在这身装束作何解释？	那妳怎麼解釋現在這身裝扮？	じゃあ今現在のあんたの格好については、\nどう説明するのかしら？	그렇다면 지금 이 복장은 어떻게 설명할 거지？	Then how do you explain this costume?	
+103	拉斐尔	海因里希是医生和炼金术士，但你的护具和武器明显是为了战斗配置的。	海因里希是醫生和煉金術士，但妳的護具和武器明顯是為了戰鬥配置的。	ハインリッヒは医者であり、\n錬金術士だったと語られているけど、\nあんたの防具と武器は明らかに戦闘のための\nものよね？	하인리히는 의사이자 연금술사였어. 그런데 네 방어구와 무기는 모두 전투용이잖아.	Heinrich was a doctor and alchemist, but your armor and weapon are obviously for battles.	
+104	N/A	海因里希微笑着退后一步。	海因里希微笑著退後一步。	ハインリッヒは微笑みながら、1歩下がった。	하인리히가 웃으며 뒤로 한발 물러난다.	Heinrich takes a step back, smiling.	
+105	海因里希	——哦，抱歉，这是我的疏忽。	——哦，抱歉，這是我的疏忽。	──ああ、申し訳ございません。\nこれはわたくしの不注意なのです。	——오，죄송해요，제가 간과했네요.	Oh, sorry, it's my fault.	
+106	N/A	海因里希右手按在胸前，随后她服装的表面开始浮现出碎片。	海因里希右手按在胸前，隨後她服裝的表面開始浮現出裂痕。	ハインリッヒは右手で胸元を押さえると、\n彼女の服の表面から破片が浮かび上がった。	하인리히가 오른손으로 가슴에 얹자 옷의 표면이 떠올라 조각으로 변하기 시작한다.	She presses her right hand on her chest, and the costume begins to crack.	
+107	N/A	蓝白色的缎带和各色晶石环绕在她的四周，围绕金发少女的身体发出光芒。	藍白色的緞帶和各色晶石環繞在她的四周，圍繞金髮少女的身體發出光芒。	藍白色のリボンと多種多彩な晶石が彼女を囲み\n金髪の少女の身体を包んで輝く。	파란색과 흰색이 섞인 리본과 오색의 결정이 그녀의 주위를 맴돌고，금발소녀의 주위에 빛이 발산된다.	Her body, now surrounded by blue and white ribbons and colorful crystals, begins to shine.	
+108	N/A	青金色的光芒退却之际，海因里希的身上渐渐……	青金色的光芒退卻之際，海因里希的身上漸漸……	青金石のような綺麗な色をした光が、\n消えていくにつれ……\nハインリッヒの身体がだんだん……	청금색의 빛이 사라지려는 순간 하인리히의 몸에 점점…	When the blue and golden light starts to fade, her body gradually…	
+109	N/A	渐渐……诶？	漸漸……咦？ ？	だんだん……だんだん……\n\n……え？	점점…앗?	Gradually… Eh?	
+110	N/A	拉斐尔冲到我面前紧紧的捂住了我的眼睛。	拉斐爾瞬間衝到我面前緊緊捂住我的眼睛。	ラファエルは即座に駆け寄ってきてしっかりと\n俺の目を覆った。	라파엘이 내 눈 앞으로 달려와 급히 내 눈을 가린다.	Raphilia rushes up and covers my eyes tightly with her hands.	
+111	N/A@拉斐尔	够了！我明白了──	停！ 我明白了──	もういいッ！　分かったから──	됐어！알았으니까──	Enough! I see!	
+112	N/A@拉斐尔	你个暴露狂，快把衣服穿回去！！	妳這暴露狂，快把衣服穿回去！ ！	この露出狂、早く服を着なさい！！	변태 자식，다시 옷을 입으란 말이야！！	Put your clothes on, exhibitionist!	
+113	N/A@拉斐尔	还有女装癖，你看什么看！	還有女裝癖，你看什麼看！	それに女装癖、あんたは何を見ているのよ！！	그리고 너! 뭘 보고 있어!?	And where are you looking, cross-dresser!	
+114	N/A	我明明什么都没看见！！	都被妳遮住了，我能看見什麼啦！	俺、何も見てないのに！！	난 아무것도 못 봤단 말이다！！	I haven't seen anything!!	
+115	N/A	拉斐尔移开手掌的时候，海因里希已经恢复了刚才的装束。唉……	拉斐爾移開手掌時，海因里希已經恢復了剛才的裝扮。 唉……真可惜都沒看到	ラファエルが手を放すと、すでにハインリッヒはさっきの格好に戻っていた。\n……はぁ。	라파엘이 손을 치우자，하인리히가 원래 복장으로 돌아왔다. 에이……	When Raphilia removes her hands, Heinrich is already dressed in the same costume again. Ugh… 	
+116	海因里希	这是魔法战服，和主人身上的类似，只不过制造者是更上位的存在。	這是魔法戰服，和主人身上的類似，只不過製造者是更高階的存在。	これは魔術による戦闘服です。\n\nマスターが着ているものと似てはいますが、\n製造者はもっと上位の存在です。	이건 마법 전투복이에요. 주인님의 것과 비슷한. 제작자가 더 높은 존재일 뿐이죠.	This is a magical Battle Suit, similar to the one on Master. But mine is made by superior beings.	
+117	海因里希	至于款式，可能是『那位』的恶趣味……	至於款式，可能是「那位」的惡趣味……	このデザインについては『あの方』の\n悪趣味かもしれませんが……	이 디자인은 아마 『그 분』의 취향일 거예요……	As for the design… I'm afraid The One has a terrible taste…	
+118	拉斐尔	『那位』？	「那位」？	『あの方』？	『그 분』？	The One?	
+119	海因里希	我曾经以炼金之法，制造了这个空间的『门』。	我曾經以煉金之法，製造了這個空間的「門」。	かつてわたくしは錬金術で、この空間の『扉』を\n創り出しました。	난 예전에 연금술로 이 공간의 『문』을 만들었어.	I made the Doorway to this space using alchemical techniques.	
+120	海因里希	但凡人窥视真理总要付出代价，『那位』将我的灵魂强行定下了契约……	但凡人窺視真理總要付出代價，因此「那位」與我的靈魂強行定下了契約……	しかしながら、凡才が真理を覗くには代価を\n払わなければなりませんわ。\nだから『あの方』は強引にわたくしと魂の契約を\n結びました。	진리를 보기 위해선 대가를 치러야 했고，『그 분』이 나의 영혼과 강제로 계약을 맺었지.	Mortals are not supposed to know the truth… So I had to pay the price. The One forced me to sign a contract regarding my soul… 	
+121	N/A	海因里希的表情有些无奈。	海因里希的表情有些無奈。	ハインリッヒは達観したような表情を見せる。	하인리히가 어쩔 수 없었다는 표정을 짓는다.	Heinrich looks somewhat helpless.	
+122	海因里希	（嘟囔）上次我明明已经把身体炸得完全粉碎，契约居然还能以新的肉体启动……	（嘟囔）上次我明明已經把身體炸得完全粉碎，沒想到居然還能以新的肉體來啟動契約……	前回は自分の身体を粉々に爆発したのに……\n（ぶつぶつ）\nまさか契約がこの肉体でも続いてるだなんて……\n（ぶつぶつ）	（중얼중얼）몸을 완전히 조각냈었는데 새로운 육체로 계약이 시작되다니……	(Mumbling) My original body was completely smashed last time… Why does the contract remain valid on the new one… 	
+123	海因里希	真是阴魂不散……	真是陰魂不散……	本当に永々無窮と付きまとうのですね……	잔재가 여전히 남아 있구나……	Why don’t you give me a break… 	
+124	小怜	？	？	────？	？	?	
+125	N/A	我正奇怪海因里希在说什么，安妮颤抖的声音突然从浓雾中传来。	我正因為海因里希說的話而感到疑惑，安妮顫抖的聲音突然從濃霧中傳來。	ハインリッヒが何を言っているのかを\n不思議に思っている時、\nアニーの震えた声が急に濃霧の中から\n伝わってきた。	하인리히의 말에 의아해 하고 있을 때 앤의 떨리는 목소리가 안개 속에서 들려온다.	As I'm wondering what Heinrich is saying, Annie's quivering voice suddenly comes from the mist.	
+126	N/A@安妮	小怜──	小憐──	レンちゃん……	렌──	Ren—	
+127	小怜	安妮？！	安妮？ ！	アニーッ！？	앤?!	Annie?!	
+128	N/A	我们循声跑过去，发现安妮正缩成一团蹲在地上全身不住的发抖。	我們循聲跑過去，發現安妮正縮成一團蹲在地上全身不停地發抖。	俺達は声の方に走っていく。すると\n地面にうずくまり震えているアニーを見つけた。	소리가 나는 곳으로 달려가니，앤이 바닥에 웅크리고 앉아 온몸을 떨고 있다. 	We run towards where the voice came from, and find Annie lying sprawled on the ground, trembling.	
+129	N/A@安妮	救、救我……	救、救我……	た、助けて……	구, 구해줘…	H… Help… 	
+130	N/A@安妮	……我不要、不要……	……我不要、不要……	いや……やだよ……	……싫어,싫어……	… Don't… Please… 	
+131	N/A	我连忙上前安抚安妮，在我的手接触到她身体的一刹那──	我連忙上前安撫安妮，在我的手接觸到她身體的剎那──	俺は急いでアニーに駆け寄り、\n震えた彼女を落ち着かせようとした。\n俺の手が彼女の身体に触れた瞬間──	나는 재빨리 앤을 달랬다. 내 손이 그녀의 몸에 닿는 그 찰나──	I rush to her. Just as my hand touches her body—	
+132	N/A	一股无形但柔软的东西迅速滑过了我的手背，并带着粘稠的热浪迅速远离。	一股無形但柔軟的東西迅速滑過了我的手背，帶著黏稠的熱浪迅速遠離。	形のない柔らかなモノが手の甲を素早く滑り、\n粘り気のある熱波を帯びながら、遠くに離れた。	무형의 부드러운 뭔가가 내 팔을 스치고 끈적한 열기를 내며 빠르게 멀어진다. 	A viscous and hot breeze flows through my hand and sweeps past me quickly.	
+133	N/A	我打量了一下四周，并没有什么异常，只是海因里希有些吃惊的注视我。	我環顧四周，並沒有發現什麼異常，只有海因里希一臉驚訝地注視著我。	周りを見回したが、特に異常はない。\n\nただハインリッヒは少し驚いている様子で、\n俺を見つめている。	주위를 살펴봤지만，아무런 이상이 없다. 그저 하인리히가 조금 놀란 듯 날 주시한다.	I look around but find nothing unusual, except that Heinrich is gazing at me in bewilderment.	
+134	小怜	没事的，安妮！	沒事的，安妮！	大丈夫だよ、アニーっ！	괜찮아，앤!	You'll be fine, Annie!	
+135	小怜	安妮？	安妮？	……アニー？	앤?	Annie?	
+136	N/A	颤抖的安妮显然很不对劲。	顫抖的安妮顯然很不對勁。	震えているアニーの様子が、明らかにおかしい。	몸을 떠는 앤의 상태가 심각해 보인다.	For some reason, Annie is shivering violently.	
+137	N/A	我能够理解对未知空间的担忧……但是四周空旷完全看不到敌人的样子。	我能夠理解對未知空間的擔憂……但是四周空曠完全沒有敵人蹤影。	未知の空間への恐怖は分かるが……\nこの広々とした空間に、敵の気配は全くない。	미지 공간에 대한 불안은 이해되지만 주위에 적의 모습은 보이지 않는다. 	I understand unknown places bring worry… But there is no sign of enemies in the vast empty space.	
+138	N/A	我只能抱紧安妮，尝试给她一些安慰。	我只能抱緊安妮，試著給她一些安慰。	俺は最大限に彼女を落ち着かせようと、\nアニーを抱きしめた。	난 앤을 꽉 안고，그녀를 달랠 수 밖에 없었다. 	I hold Annie close, trying to comfort her.	
+139	N/A	拉斐尔看到安妮的状态，转向海因里希。	拉斐爾看到安妮的狀態，轉向海因里希。	ラファエルはアニーの様子を見てから、\n改めてハインリッヒの方を向く。	라파엘이 앤을 상태를 보고 하인리히에게 몸을 돌린다.	Seeing this, Raphilia turns to Heinrich again.	
+140	拉斐尔	你刚才说的“这个空间”，是不是『因果之隙』？	妳剛才說的「這個空間」，是不是「因果的裂縫」？	さっきあんたが言っていた「この空間」って\n『因果の狭間』の事か？	네가 방금 “이 공간”이 『인과의 틈』이라고 했지?	You mentioned this space… Is it the Crevice of Causality?	
+141	海因里希	这是刻印在『生命之树』上的名字……	這是刻印在「生命之樹」上的名字……	それは『セフィロトの樹』に刻まれた名前……	그건 『생명의 나무』에 각인된 이름이야……	That's the name inscribed on the Tree of Life… 	
+142	小怜	『生命之树』？	「生命之樹」？	『セフィロトの樹』？	『생명의 나무』？	Tree of Life?	
+143	拉斐尔	擅自把我们带到这种地方，你到底想做什么？	擅自把我們帶到這種地方，妳到底想做什麼？	勝手に私達をこんな場所に連れてきて、\nあんたは一体どういうつもり？	멋대로 우릴 이런 곳에 데려오다니 도대체 어쩔 셈이야?	Why did you take us here? What do you want from us?	
+144	N/A	海因里希耸了耸肩。	海因里希聳了聳肩。	ハインリッヒは肩をすくめた。	하인리히가 어깨를 으쓱한다.	Heinrich shrugs.	
+145	海因里希	不是我。	不是我。	原因はわたくしではありませんわ。	내가 아니야.	Not me.	
+146	海因里希	事实上，你们本不可能出现在这里的……	事實上，妳們本來不可能出現在這裡的……	本来なら、貴方達はここにたどり着けるはずが\nないのです……	사실 너희들은 이곳에 나타날 수 없어…	In fact, you couldn't have been here… 	
+147	小怜	哎？	哎？	うぇ？	뭐?	Eh?	
+148	海因里希	除非是『那位』……或者更高位存在的意志。	除非是「那位」……或者更高階存在的意志。	『あの方』……もしくはさらなる上位に存在する\n意志でもない限り。	『그 분』이 아니라면……더 높은 존재의 의지일지도 몰라.	… Without the intent of The One… or even from more superior beings.	
+149	小怜	你说的『那位』究竟是……	妳說的「那位」究竟是……	さっきから君が言う『あの方』って一体……	네가 말하는 『그 분』은 도대체……	Who is The One?	
+150	海因里希	按照契约，我不能直呼其名，但『那位』的名字实在太多了。	按照契約，我不能直呼其名，但「那位」的名字實在太多了。	契約により、わたくしは名前を口にする事が\nできません。\nですが『あの方』には多くの呼び名があります。	계약에 따라 난 그 이름을 직접 부를 수 없어. 『그 분』의 이름을 정말 많거든.	I'm obliged not to call him by his name… But The One has too many titles… 	
+151	海因里希	『真理』、『道路』、『门』。	「真理」、「道路」、「門」。	『真理』　『道』　『扉』	『진리』,『길』,『문』.	The Truth, the Way, the Doorway… 	
+152	海因里希	从最初……到最终。	從最初……到最終。	全ては始まりから……終わりまで。	최초에서…최종까지.	From the beginning… to the end.	
+153	拉斐尔	……？！！	……？ ！！	……！！？	……？！！	…?!	

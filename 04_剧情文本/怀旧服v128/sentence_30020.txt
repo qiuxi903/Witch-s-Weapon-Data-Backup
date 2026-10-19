@@ -1,0 +1,80 @@
+﻿1	N/A	牛奶回到监控室，用椅子将大门死死卡住。	牛奶回到監控室，用椅子將大門卡死。	ミルクは監視室に戻り、椅子で扉をしっかりと\n固定した。	밀크가 제어실로 돌아와 의자로 대문을 막는다. 	Milk returns to the control room and jams the main door with a chair.	
+2	N/A	最近一组敌人还有几十秒就会抵达这里，而东翼的队友也会在两三分钟内与另一组敌人遭遇。	最近一組敵人再幾十秒就會抵達這裡，而東翼的隊友也會在兩三分鐘內遭遇另一組敵人。	最も近くの敵は、あと1分も経たずにここに\n到達するだろう。\nそして東側に残された隊員達も2、3分後に\nもう1組の敵と遭遇する。	몇 십 초 후면 적이 이곳에 도착할 것이다. 동쪽 아군들도 2，3분 내로 적들과 마주칠 것이다. 	The closest group of enemies will arrive in mere minutes. The other group will come upon Milk’s squad in the east wing soon as well.	
+3	牛奶	是啊，我早该想到的……	是啊，我早該想到的……	そうだよね、もっと早く気付くべきだった……	그래，진작에 알아야 했어……	Hmm. I should have thought of this earlier...	
+4	N/A	如果我有一群行动力惊人、听觉异常敏锐、还有超强回复能力的士兵的话──	如果我有一群行動力驚人、聽覺異常敏銳，還有超強恢復能力的士兵的話──	もし私が、驚異的な機動力、異常に鋭敏な聴覚、\n\nなおかつ超強力な回復力を持つ兵士を\n従えているのなら──	만약 놀라운 행동력，예민한 청각，그리고 강한 회복 능력이 있는 병사들이 있다면──	If I had my own troop of extremely agile soldiers with sharp hearing and incredible self-healing abilities...	
+5	N/A	为什么只给她们配备冷兵器呢？	為什麼只給她們配備冷兵器呢？	なぜ古典的な武器しか配備しないのだろう？	왜 그들에게 화약을 사용하지 않는 무기만 줬을까？	Why equip them with blades and not firearms?	
+6	N/A	需要团队行动，只能以超强的个体战斗力弥补战术上的低效。	需要團隊行動，只能以超強的個體戰鬥力彌補戰術上的不足。	知能的な集団戦術を取る事ができず、策を講じる\nよりも身体能力を全面的に押し出した方が、\n作戦運用として早いのかもしれない。	단결력이 필요할 때 강한 개체의 전투력으로 전술의 저효율을 보충할 수밖에 없었던 것이다.	These enemies move in groups, have no strategy to speak of, even though they’re all insanely effective fighters.	
+7	牛奶	那些东西，早就不能称之为『人』了啊……	那些東西，早就不能稱為「人」了啊……	ああいうのは、もはや「人」とは呼べないね……	그것들은 『인간』이라고 부를 수 없어……	They can no longer be considered human, these girls...	
+8	N/A	牛奶看了看主控台左侧的一排控制器，上面是白烛刚刚留在那里的样本箱。	牛奶看了看主控台左側的一排控制器，上面是白燭剛剛留在那裡的樣本箱。	ミルクはメインコンソールの左側にある\n制御機械を見た。\n現在、その上にはバイジュウが残した\nサンプル収用箱が置いてある。	밀크가 메인 콘솔 우측의 제어기기를 바라본다. 그 위에 바이츄가 남긴 샘플상자가 있다.	Milk glances over at the row of equipment to the left of the main control panel. On it sits the specimen box Beth has left behind.	
+9	牛奶	现在任务已经不重要了……	枉費小白燭這麼努力，可惜任務已經不重要了……	任務なんて、今となってはどうでもいい……	이제 임무는 중요하지 않아……	The mission... it doesn’t matter anymore.	
+10	牛奶	这里的攻击性防御策略还是挺全面的嘛~	不過，這裡的攻擊性防禦策略還是挺全面的～	ここの攻性防御策は割と用意周到だね。	이곳의 공격격 방어 전략이 꽤 전면적인 걸~	I guess the strategic offensive defense measures employed here aren’t too bad after all...	
+11	牛奶	希望那个扩音器还能用吧。	希望那個擴音器還能用。	この拡声器がまだ使えるのならいいけど。	저 확성기가 작동되길 바라야지. 	I hope the speaker still works...	
+12	N/A	少女深吸了一口气后下定了决心，在控制器前输入一连串指令……	少女深吸一口氣後，毫不猶豫地在控制器前輸入一連串指令……	少女は深く息を吸って、決意を露にする。\n制御機械の前で一連のコマンドを入力した……	소녀가 깊게 숨을 들이마신 후 제어실 앞에서 지령 코드를 입력한다……	She takes a deep breath, steadies herself, before keying in a series of commands in the control panel...	
+13	N/A	昏暗的仓库内，白烛焦急的不断摸索着。	昏暗的倉庫內，白燭焦急地不斷摸索著。	薄暗い倉庫の中、バイジュウは焦り、模索する。	바이츄가 조급하게 어두운 창고 안을 더듬는다.	Meanwhile, in the dark warehouse, Beth flutters around the room, frantically searching for something that might not even be there.	
+14	白烛	密码……\n密码是……	密碼……\n密碼是……	パスワード……\nパスワードは何……ッ！？	비밀번호……\n비밀번호가……	The password...\nWhat’s the password?	
+15	N/A	少女颤抖的手指，已无法准确点按仓库内壁上的密码按键。	少女的手指顫抖個不停，無法準確按下倉庫內壁上的按鍵。	少女の震える指では、倉庫の内壁にある\n暗号ボタンを正確に押すことも難しい。	소녀의 떨리는 손가락이 창고 벽에 있는 비밀번호 버튼을 계속해서 빗나간다. 	With her fingers trembling, she barely has any idea what keys she’s pressing on the lock panel anymore.	
+16	N/A	如果白烛输入正确的密码，就能从这里出去与好友一起并肩作战。	如果能輸入正確的密碼，就能夠出去與好友並肩作戰。	暗証番号さえ正しく入力できれば、バイジュウは\nここから脱出して親友と一緒に戦う事ができる。	바이츄가 정확한 비밀번호를 입력한다면 여기서 나가 친구와 함께 싸울 수 있다.	If she gets the password right, she can exit the warehouse and fight alongside her friend.	
+17	N/A	但是这次，门壁另一侧的牛奶没有留下任何破解密码的提示。	但是這次，另一側的牛奶沒有留下任何可以破解密碼的提示。	しかし、今回だけはゲートの反対側にいる\nミルクから一切のヒントをもらっていない。	하지만 이번에는 밀크가 어떤 힌트도 남기지 않았다. 	But Milk, on the other side of the wall, did not leave any hints as to what the password could be.	
+18	N/A	又或者，再也不会给她任何提示了……	又或者，再也不會給她任何提示了……	あるいは、\nバイジュウに2度とヒントを与える事はない……	어쩌면 다시는 그녀의 힌트를 받을 수 없을지도 모른다……	Perhaps she’ll never leave her another hint again...	
+19	白烛	不可能！！！\n不可能不可能不可能不可能不可能不可能……	不可能！ ！！ \n不可能不可能不可能不可能不可能不可能……	分からないッ！！分からないッ！！\n分からない分からない分からない分か……ッ！！	안 돼！！！\n안 돼 안 돼 안 돼 안 돼 안 돼……	No! No!\nI can’t accept this! I won’t accept this!	
+20	N/A	即使白烛不计后果的疯狂敲击着壁门，她所期望的那一幕仍旧没有发生。	即使白燭不計後果地瘋狂敲擊著金屬閘門，她所期望的那一幕仍舊沒有發生。	バイジュウは理性を捨てて、無策でゲートを\n叩き続けた。\nだが、彼女の期待に何も応えてはくれない。	바이츄가 미친 듯이 벽문을 두드렸지만 그녀가 바라던 일은 발생하지 않는다.	Frenzied, Beth continues pummeling on the door with her fists, but her attempts to break out are futile.	
+21	N/A	在黑暗寂静的封闭空间内，少女想象着接下来壁门另一侧会发生的事情。	在黑暗寂靜的密閉空間內，少女停下了動作，想像著接下來門的另一側會發生什麼情形。	暗く静かに閉ざされた空間の中で、これから扉の\n向こう側で起きるであろう事を少女は想像した。	어둡고 조용한 밀폐 공간 안，소녀가 벽 맞은 편에서 일어날 일을 상상한다. 	All she can do is imagine what will happen next at the other side of the wall, all alone in the dark, silent, confining space.	
+22	白烛	不要……	不，我不能接受……	嫌だ…………	안 돼……	Please, no...	
+23	N/A@白烛	（是因为……）	（是因為……）	（原因は……）	（충분한 힘이……）	(I’m useless...)	
+24	N/A@白烛	（没有足够的力量吗……）	（我沒有足夠的力量嗎……）	（力が足りないからですか……）	（없기 때문인가……?）	(Can’t save anyone...)	
+25	N/A@白烛	（父亲也是……牛奶也是……）	（父親也是……牛奶也是……）	（お父さんも……ミルクも……）	 ( 아버지도……밀크도……）	(Not Father... not Milk...)	
+26	N/A@白烛	（为什么……会这样……）	（為什麼……會這樣……）	（どうして……こんな事に……）	（왜……이렇게……）	(How... did this happen...?)	
+27	N/A@白烛	（无力。）	（無力。 ）	（無力で）	（무력하고）	(Why am I so weak...?)	
+28	N/A@白烛	（弱小。）	（弱小。 ）	（弱くて）	（작고）	(So helpless...)	
+29	N/A@白烛	（……又自私。）	（……又自私。 ）	（……そして利己的で）	（……이기적일까）	(... And selfish.)	
+30	N/A@白烛	（为什么？）	（為什麼？ ）	（どうして……ッ）	（왜?）	(Why?)	
+31	白烛	只是想抓住些微的温暖……	我只是想要一些些溫暖而已……	ほんの少しの温もりを掴みたいだけなのに……	따뜻함을 붙잡고 싶은 뿐인데……	All I want is to not be lonely, not be cold...	
+32	白烛	为什么如此微小的愿望也……	為什麼連如此渺小的願望也無法成真……	なぜ、こんな些細な願い事さえも…………	왜 이런 작은 소망마저……	I’m not asking for too much, am I...?	
+33	N/A	黑暗中，少女泣不成声。	黑暗中，少女泣不成聲。	暗闇の中、少女は声にならない涙を流す。	소녀는 암흑 속에서 소리 없이 울었다.	The girl sits alone in the dark, shoulders shaking with sobs.	
+34	N/A	白烛没有意识到刚才接连高强度的战斗，已经让自己的身体严重透支。	白燭沒有意識到剛剛接二連三的高強度戰鬥，已經讓自己的體力嚴重透支。	激しい戦闘はすでに彼女の身体を限界まで\n追い込んでいた。\n極度の疲労にさえ気付かないまま、\nバイジュウは打ちひしがれる。	바이츄는 강도 높은 전투로 몸이 지친 것을 알아차리지 못했다.	She hardly notices that the continuous intense combat has exhausted her body to the core.	
+35	N/A	深海后遗症逐渐将她的心智淹没。	深海後遺症逐漸將她的心智淹沒。	深海で活動していた時の後遺症が、彼女の心を\n更に深く沈める。	심해후유증이 그녀의 마음을 점점 침몰시킨다. 	Decompression sickness is muddling up her brain.	
+36	N/A	脑内轰鸣的水声一点一点将她的精神抽离。	腦內轟鳴的水聲一點一滴地將她的精神抽離。	脳内で轟くような水の音が、1粒、1粒と\n彼女の精神を現実から引き離していく。	머리 속에서 요란하게 울리는 물소리가 한 방울 한 방울 그녀의 정신을 가라앉게 만든다.	It’s like there’s water churning in her head, messing with her consciousness bit by bit.	
+37	N/A	或许在黑暗的深海中，她并没看到那个存在……	或許在黑暗的深海中，她並沒看到那個存在……	暗闇の深海で彼女は「あれ」を本当に\n見たのかどうかさえ……\n分からなくなって……	어쩌면 어두운 심해 속에서，그녀는 그 존재를 보지 않은 게 아닐까…	Perhaps she didn’t see that being in the dark, deep ocean, after all...	
+38	N/A	少女仿佛身置一片冰川，细密而尖锐的冰碛深深的刺穿了她的心。	少女彷彿置身冰川當中，細密而尖銳的冰磧深深地刺穿了她的心。	氷河に身をやつしたかのように、細く鋭い氷が\n彼女の心へ深く突き刺さった。	소녀의 몸이 빙하에 놓인 것처럼 얇고 날카로운 빙퇴석이 그녀의 마음을 깊이 찔렀다.	She feels like she’s on top of a glacier—nay, inside one. The ice, sharp and dense, pierces through her heart, her soul.	
+39	N/A	她柔软的身体逐渐变得冰冷，血液似乎也开始凝结。	她柔軟的身體逐漸變得冰冷，血液似乎也開始凝結。	柔らかな身体は徐々に凍りつき、\n血液すらも凝結し始めている。	그녀의 부드러운 몸이 천천히 차갑게 변하고 혈액이 응고되기 시작한다. 	Her supple body freezes, little by little, and her blood begins to congeal.	
+40	N/A	无数纯白的光团环绕在周围，直到完全覆盖了她的存在。	無數個純白的光團圍繞著她，直到將她完全覆蓋。	無数の白光が彼女を囲み、やがて彼女の存在を\n完全に覆った。	무수한 순백의 빛 뭉치가 주위를 감싸 그녀의 존재를 완전히 덮어버린다. 	Countless pure white halos surround her, overtake her, until she becomes one with them.	
+41	N/A	痛苦也好，孤独也好。	痛苦也好，孤獨也好。	痛みも────\n\n孤独さえも────	고통도，외로움도 괜찮다.	There’s no longer pain, no longer loneliness.	
+42	N/A	全都被涂抹的一干二净。	都不存在了。	──全てを跡形もなく消えた。	모조리 덧칠해진다.	No more.	
+43	N/A	在一片纯白中，忽然响起一个熟悉的旋律。	在一片純白中，忽然響起一個熟悉的旋律。	白い世界の中、聴き慣れた旋律が突然響き渡る。	순백의 공간 안에 갑자기 익숙한 멜로디가 들려온다. 	In this world of pure white, she hears a familiar melody.	
+44	N/A@白烛	……牛奶？	……牛奶？	ミルク……？	……밀크？	... Milk?	
+45	N/A	那是她和她最喜欢的歌。	那是她和牛奶最喜歡的歌。	それは……私と彼女が一番好きな歌……	그것은 그녀들이 가장 좋아하는 노래다. 	That’s their favorite song. Their song.	
+46	N/A	白烛的体内突然爆发出数百个光团──	突然，數百個光團從白燭的體內爆發而出──	バイジュウの身体から、100を超える光弾が\n浮かび上がってくる──	바이츄의 체내에서 수백 개의 빛 뭉치가 폭발한다──	In an explosive burst, hundreds of glowing orbs fly out of Beth’s body.	
+47	N/A	少女渐渐睁开眼睛，随着刺眼的白光和一声巨响，壁门已经被整体吹飞。	少女逐漸睜開眼睛，隨著刺眼的白光和一聲巨響，厚重的金屬門已經被吹飛。	少女が目を開け、眩い光と爆音と共にゲートが\n吹き飛ばされた。	소녀가 천천히 눈을 뜬다. 눈부신 빛과 큰 소리가 나면서 벽문이 날아가버린다.	The girl blinks open her eyes. The blinding white light, in a deafening boom, has blown the entire wall away.	
+48	N/A	监控室的扩音器中正播放着牛奶手表里的歌，音乐在隧道中回荡。	監控室的擴音器正播放著牛奶手錶裡的歌，音樂在隧道中迴盪。	監視室の拡声器を通し、ミルクの腕時計から\n歌が流れ通路にこだまする。	제어실의 확성기에서 밀크의 손목시계 노래가 흘러나와 복도에 울린다. 	The speaker in the control room is playing their song, echoing all the way down the tunnel. Milk must have used the audio file she stored in her watch.	
+49	N/A	几十名循声而来的敌人聚集在附近，基地里潜伏的敌人远比她们刚刚看到的更多。	幾十名循聲而來的敵人聚集在附近，看來，基地裡潛伏的敵人遠比她們剛剛看到的更多。	多量の敵達が音に釣られ集まってくる。\n\nどうやら基地内に潜む敵は、\n把握していた数を遥かに上回っていたようだ。	기지 안에 매복해 있던 적들이 소리를 듣고 근처로 몰려온다. 조금 전 보았던 것보다 훨씬 많다.	Dozens of enemies have gathered, attracted by the sound. So many of them, far more than they had counted on the screen.	
+50	N/A	十几个敌人已经聚拢在了监控室门前──	十幾名敵人已經聚在監控室門前──	敵はすでに監視室の前に、大量に集まっている。	이미 열 명이 넘는 적들이 제어실 문 앞에 몰려들었다.	The enemies have surrounded the entrance of the control room.	
+51	N/A	此时少女距离中控室只有三十米左右的距离。	此時少女距離監控室只有三十公尺左右的距離。	少女と監視室の間、およそ30メートルの距離。	중앙 제어실에서 30미터 정도 떨어진 거리에 소녀가 서있다. 	Beth is a mere thirty meters from the control room now.	
+52	白烛	（只要十秒……不，五秒！）	（只要十秒……不，五秒！ ）	（10秒……いいえ、5秒さえあればッ！）	（10초만……아니，5초만！）	(All I need is ten seconds... no, five...)	
+53	N/A	她就可以出现在好友面前，阻止那个笨蛋。	她就可以出現在好友面前，阻止她做傻事。	親友の前にたどり着いて、あのバカを止める事が\nできる。	곧 그 바보를 막을 수 있을 것이다.	Five seconds to reach her idiot best friend, stop her from doing whatever she’s gonna do.	
+54	N/A	大群寄生士兵立刻涌向了白烛，几柄利刃突然她从身后袭来。	大群寄生士兵立刻衝向白燭，幾柄利刃突然從她身後襲來。	多数の寄生された兵士がバイジュウに迫り、\n彼女の背後を数本の鋭い刃が襲う。	기생 병사떼가 바이츄에게 돌진한다. 날카로운 검이 그녀의 뒤를 습격한다. 	The hordes of possessed soldiers surge upon Beth, attacking her from the back with sharp blades.	
+55	N/A	白烛转身从枪刃中射出数发伴着强光的霰弹，瞬间将几个敌人打成了墙壁上的碎浆。	白燭轉身從槍刃中射出數發伴隨著強光的霰彈，瞬間將幾個敵人打成黏在牆上的碎漿。	すぐさま振り返り、光をまとった弾を数発放つ。\n\n瞬間的に敵達の何人かが、ただの肉片と化す。	바이츄가 몸을 돌려 강한 빛을 동반한 산탄을 여러 발 발사하자 적들이 순식간에 조각난다.	She turns around, firing several rounds of bullets in the form of bright beams of light, blasting her targets into smithereens on the wall.	
+56	N/A	她毫不停顿地向监控室奔袭，身上散发着从未如此耀眼的辉光。	她毫無停頓地朝著監控室狂奔，身上散發著陽光般閃耀的光芒。	────彼女は立ち止まらない。\n\nその身体をかつてないほどに眩しく輝かせ、\n監視室へ強行突破を始める。	소녀가 멈추지 않고 제어실을 향해 돌진한다. 몸에서 찬란한 빛을 발산하며.	She continues dashing towards the control room, body glowing in a light, brighter than ever before.	
+57	N/A	奔跑中巨大的能压剥落了隧道的内壁，闪耀的强光像是一曲神圣的挽歌。	奔跑中的巨大氣場使得隧道內壁不停剝落，她身上閃耀的強光像是一曲神聖的輓歌。	彼女が疾走する中、纏った巨大なエナジーが\n通路の内壁を剥がしていく。\n美しい白光は、まるで神聖なる挽歌のようだ。	거대한 에너지 압력이 터널의 내벽을 벗겨낸다. 눈부신 빛은 마치 신성한 추모곡 같다.	The energy waves radiating from her body tear off the inner walls of the tunnel. She glows, blindingly, like a requiem from the Heavens.	
+58	N/A	已经没人能阻止这股力量了……	已經沒人能阻止這股力量了……	この力は、もはや誰にも止められない……	이미 이 힘을 막을 사람은 없었다……	No one can stop her now.	
+59	N/A	此时从白皇后基地射出无数道强光，极夜的星空也被照耀得恍若白昼。	此時，從白皇后基地射出無數道強光，連永夜的夜空也被照耀得恍若白晝。	────南極大陸\n\nスノークイーン基地から放たれた無数の光が、\n極夜の星空さえ真昼のように照らしていた。	이때 화이트퀸 기지에서 수많은 불빛이 발사되어 극야의 하늘을 대낮처럼 밝힌다.	Countless shattering white beams shoot out from Snedronningen Base, lighting up the starry skies, as if dawn has fallen on the slumbering continent.	
+60	N/A	这一切……似乎在迎接神明的降临。	這一切，似乎在迎接神明的降臨。	全てが……\nまるで神の降臨を迎えているかのようだ。	이 모든 것이……신의 강림을 영접하는 것 같다.	Like a welcoming rite for a deity, almost.	
+61	N/A	突然整块大陆开始颤抖……	突然間，整個大陸板塊開始顫抖……	────突如、大陸全体が震え始めた。	갑자기 대륙 전체가 흔들리기 시작한다……	Suddenly, the whole continent begins to quake...	
+62	N/A	在短短几秒内斩杀数十敌人的白烛，视野逐渐被光斑所侵染。	在短短數秒內斬殺幾十名敵人的白燭，視野逐漸被光斑所浸染。	わずか数秒で多量の敵を斬り裂いたバイジュウの\n視界は、次第に光の斑点に侵食されていく。	단 몇 초만에 수십 명의 적을 제거한 바이츄의 시야가 천천히 빛으로 뒤덮힌다.	In a mere few seconds, Beth has slain dozens of enemies all at once. She falls back, vision clouded by the flaring light.	
+63	N/A	体内激驰的力量似乎要将她自己一同吞噬。	體內激昂的力量似乎快要連她一同吞噬。	身体中から発された力が、彼女諸共\n飲み込もうとしているようだ。	체내에 솟아오른 힘이 그녀의 몸을 통째로 삼켜버릴 것만 같다.	The power surging from her body is close to swallowing her whole.	
+64	N/A	就在少女右手的利刃划开一个阻挡在面前敌人的瞬间。	就在少女右手的利刃劃開一名敵人的瞬間。	少女の右手に持つ刃が、目の前にいる敵を\n切り裂いた瞬間。	오른손의 날카로운 검이 앞을 가로막은 적을 베는 순간. 	As she throws an enemy out of the way with the blade in her right hand...	
+65	N/A	十几个敌人同时攻破了监控室的大门并一拥而入—	十幾名敵人同時攻破了監控室的大門並一擁而入—	虫のように迫る敵達が監視室の扉を破り、\n雪崩のように一斉に押し入った──	열 명이 넘는 적들이 동시에 제어실의 대문을 부수고 몰려 들어온다. 	A dozen of enemies crash through the jammed door of the control room and charge inside.	
+66	白烛	笨蛋……等我……！	笨蛋……等我……	バカ……ッ！　待って……ッ！	바보……기다려……！	Wait for me... idiot...	
+67	N/A	“我来了……”	「我來了……」	「私は来たの──」	“나 왔어……”	“I’m coming...”	
+68	N/A	轰——！	轟——！	ドン――――ッ！！！	쾅——！	Boom!	
+69	N/A	少女眼前，监控室内先是放出一道巨大的电弧，随后在一秒内传出数十次强烈地爆闪。	少女眼前的監控室，先是釋放出一道巨大的電弧，隨後在一秒內傳出數十次強烈的爆炸。	少女の目の前で監視室から巨大な放電が起きた。\n次の1秒内に幾度にも渡る閃光が炸裂する。	제어실 안에서 먼저 거대한 아크가 방출되고 이어서 강렬한 폭발이 연속으로 일어난다. 	A gigantic electric arc shoots out from the control room. Then the explosions come, countless flaming explosions in a second, right in front of Beth’s eyes.	
+70	N/A	时间仿佛凝滞了。	時間彷彿就停滯在那瞬間了。	時間が止まったのように。	시간이 멈춰버린 것 같다.	It’s like time is standing still.	
+71	N/A	距离监控室仅有几米的地方，少女踉跄着停住了脚步。	少女距離監控室僅僅幾公尺，踉蹌著停住了步伐。	監視室からわずか数メートルの場所で、\n少女は立ち止まった。	제어실에서 몇 미터 떨어지지 않은 곳에 소녀가 비틀거리며 걸음을 멈췄다.	She stops in her tracks, falling to her knees, only meters away from the control room.	
+72	N/A	此时，这片毫无慈悲、终年被冰架覆盖的大陆，如梦初醒般睁开了眼睛。	此時，這片毫無慈悲、終年被冰層覆蓋的大陸，向大夢初醒般睜開了眼睛。	その瞬間、無慈悲な氷の大陸は、永遠の眠りから\n目覚めるかのように運命の歯車を狂わせる。	이때 일 년 내내 얼음에 덮여 있는 자비 없는 대륙이 꿈에서 깬 것처럼 눈을 뜬다. 	That’s when this icy continent, ruthless and cold, finally opens its eyes from its never-ending slumber.	
+73	N/A	黑暗中，从地底的冰层一直冲破隧道地板飞出一个金色的影子，无声的贯穿了少女的身体。	黑暗中，一個金色影子從地底冰層飛出，一直向上衝破了隧道地板，同時無聲地貫穿了少女身體。	闇の中、金色の一筋の影が地底の氷層から\n通路の床を突き破る。\nそして少女の身体を無音で貫いた。	어둠 속，지하 얼음층에서 터널을 뚫은 금색 그림자가 소녀의 몸을 관통한다.	In the darkness, a golden shadow bursts out from the underground ice layers, rips through the ground of the tunnel, silently pierces through the girl’s torso.	
+74	N/A	那是一杆样貌朴素的长枪，只在枪头镶着金色的包边。	那是一支樣式樸素的長槍，只在槍頭鑲著金色的滾邊。	穂先に金色の装飾が施されている以外は、\n素朴な外観を持つ槍だった。	그것은 평범한 모양의 장창이였다. 창끝에 금색 테두리가 둘러져 있다.	It’s a spear, plain-looking if not for the intricate gold patterns swirling around the spearhead.	
+75	N/A@白烛	……	……	…………	……	…	
+76	N/A	一股温暖的热流划过枪尖，顺着枪身，和血液融合在一起。	一股暖流劃過槍尖，順著槍身和血液融合在一起。	暖かい熱流が槍の穂先を掠め、槍身に沿って\n血液と融合している。	따뜻한 기운이 창을 타고 혈액과 융합된다. 	A warm surge of heat pours out of the spearhead, into the spear itself, becoming one with the blood in the girl’s veins.	
+77	N/A	少女的双手无力垂下，双眼不甘地盯着前方，而瞳孔已经逐渐涣散。	少女的雙手無力垂下，心有不甘地盯著前方，瞳孔卻逐漸開始渙散。	少女の両手は無力に垂れ、両目は無念を滲ませ\n前方を見つめている。\n────彼女の瞳孔が徐々に散らばっていく。	소녀의 두 손이 힘 없이 떨어지고 두 눈은 앞을 바라본다. 동공이 점점 흐릿해진다. 	Her arms fall limply to her sides. Even as her pupils dilate, she glares, like she’s not ready to give up yet.	
+78	N/A	血液滴在地上。	血滴滴答答地落到地上……	血液が、地面に滴り落ちた。	피가 바닥으로 떨어진다.	On the ground, crimson blood.	
+79	N/A	──啪嗒。	──啪嗒。	──────	──툭.	Drip. Drip. Drip.	
+80	N/A	极地的闪光熄灭了。	極地的閃光熄滅了。	──────極地の閃光が消えた。	극지의 빛이 소멸됐다.	The bright light enveloping the continent fades away.	

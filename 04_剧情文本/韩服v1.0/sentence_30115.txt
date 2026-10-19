@@ -1,0 +1,259 @@
+﻿1	N/A	安东盲目症。	安通－巴賓斯基症候群。	『アントン症候群』	안톤의 실명.	Anton’s Blindness.	
+2	N/A	这种疾病表现为：患者虽已失明，却仍坚定地认为自己能够看见。	這種疾病的症狀是，雖然患者已失明，卻仍堅定認為自己看得見。	失明しているのに視覚に支障はないと信じ、\n\n想像上での光景を、まるで本当に見えているかの\nように話す。	이 병에 걸린 환자는 비록 이미 실명하였으나，본인은 볼 수 있다고 강하게 믿는다. 	A disease where the patient, though blind, persists in believing that they can still see.	
+3	N/A	即使身上有多处因磕碰而造成的外伤，病人依然会脑补虚构出各种情节将之合理化。	即使身上有多處因碰撞而造成的外傷，患者依然會腦補出各種情節將其合理化。	失明が原因で外傷を負ったとしても、\n当人は失明と結び付けはしない。\n頭の中で合理化できる理由を形成して、\nそれを無自覚に本当に起きた事としてしまう。	여기저기 부딪혀 외상을 입어도 뇌가 허구를 만들어내 각종 상황을 합리화한다. 	Even though the patient may have small bruises on their limbs from running into things, they’ll still come up with different reasons to explain it.	
+4	N/A	大脑就是这样──为了给无法接受的现象一个合理的解释，会不停编造虚假的记忆。	大腦就是這樣──面對無法接受的現象時，為了給自己一個合理的解釋，會不停編造虛假的記憶。	脳というのはこのように──\n\n矛盾した現象を合理的に解釈するために、\n脳は虚実のイメージを作り続ける。	받아들일 수 없는 현상을 합리적으로 설명하기 위해 대뇌가 계속 허구의 기억을 만들어낸다.	That’s how the brain works. It forges new memories to provide an explanation for things that it cannot understand.	
+5	N/A	这是人类在面对未知事物时一种自我保护的原始本能。	這是人類在面對未知事物時，一種自我保護的原始本能。	これは人間が、未知の物事に直面した時の\n原始本能。	인간이 미지의 사물을 만났을 때 자신을 보호하는 일종의 본능이다.	That’s a sort of self-preservation instinct we have when facing the unknown.	
+6	N/A	或许因为我们还没做好准备，直面星空背后的那片黑幕……	這或許是因為我們還準備好直接面對星空背後的那片黑洞吧。	人類は未だ、星の輝きの裏ある黒き真実に\n立ち向かう準備ができていないのである……	어쩌면 우리가 별 뒤에 숨겨진 어둠을 직면할 준비가 안됐기 때문일지도……	Perhaps it’s because we’re simply not yet prepared to face the darkness behind the starry skies?	
+7	N/A	如果那些蜘蛛不是一开始袭击我们的人所安排……	如果那些蜘蛛不是一開始襲擊我們的人所安排的……	──もし蜘蛛の大群が、俺達を襲った人間達の\n放ったものでなければ。	만약 그 거미가 처음부터 우리를 습격하지 않았다면……	Hm. If those spiders weren’t sent by Rina’s people...	
+8	N/A	那如此大规模的机械兵器就这么堂而皇之的出现在第二学园都市，简直不可思议──	那麼，如此大規模的機械兵器就這麼堂而皇之地出現在第二學園都市，實在很不可思議──	あんな大規模なロボット兵器が第二学園都市に\n堂々と現れた事、それ自体がおかしい──	대규모 기계 병기가 이렇게 당당히 제2학원도시에 나타나다니 불가사의하다──	Then where did they come from? Mechanical weapons, at such a large scale, appearing inside the Second Academy City just like that. Unheard of.	
+9	小怜	（还有其他人在影响这段记忆吗？）	（難道有其他人在影響這段記憶？ ）	（他の誰かが……）\n\n（この記憶に影響を与えているのか……？）	（누군가 이 기억을 조작하고 있는 걸까?）	(Maybe someone else has brought certain elements into this memory too? Not just me?)	
+10	N/A	或者其他“有意识的东西”。	或者是，其他「有意識的東西」。	──あるいは『意識のある何か』	아니면 다른 “의식이 있는 무언가”일까	Or maybe it’s not someone, but... something with its own will.	
+11	N/A	我记得行动之前……	我記得，在行動之前……	確か作戦の前に……	내 기억에 임무를 시작하기 전……	I remember, before this mission began...	
+12	N/A	……	……	…………	……	...	
+13	莉琉	斯库尔德说法贝拉是体内寄宿了火焰魔法的魔女。	斯庫爾德說，法貝拉是體內寄宿了火焰魔法的魔女。	スクルドによれば、ファビオラは体内に\n炎の魔法を宿した魔女だそうだ。	스쿨드가 파비올라는 몸 속에 화염마법이 기숙하고 있는 마녀라고 했어.	Skuld told us that Fabella is a fire witch. Possessed by fire magic.	
+14	小怜	寄宿……？	寄宿？	宿した……？	기숙……？	Possessed?	
+15	莉琉	与伊露卡那种能直接操作电场的类型不同，法贝拉的状况是『某种庞大的信息』将她作为了宿主。	與伊露卡那種能直接操作電場的類型不同，法貝拉的狀況是「某種龐大的訊息」將她當成了宿主。	イルカのように電磁場を直接操作できるタイプと\n異なり、彼女の場合は寄生とでも呼ぶべきか……\n『ある種の膨大な情報』が自ら彼女を\n宿主として選択した。	전기장을 조작하는 이루카와 달리 『방대한 정보』가 파비올라를 숙주로 삼고 있어.	Fabella’s not like Elluka, who can control electric fields directly. Her situation is more like... “certain powerful information” has chosen to possess her.	
+16	小怜	怎么说的好像活物一样……	宿主，怎麼說的好像生物一樣……	それじゃあ、まるで生き物じゃないか……	살아있는 생물처럼 들리는 걸……	You’re talking as if information had a will of its own.	
+17	爱衣	确实如此。当信息的密度足够大，熵值足够低，就很可能产生自我意识。	確實如此。 當訊息的密度夠大，熵值夠低，就可能會產生自我意識。	まるでじゃない、生き物なんだよ。\n高密度な情報量と、十分に低いエントロピー値。\nこの2つの条件を満たしているのであれば、\n自己意識の誕生は有り得るのよね。	맞아. 정보의 밀도가 높고 엔트로피가 낮아 자아의식을 만들어낼 수 있어.	They do. If a string of information has a high enough density and a low enough entropy value, it can gain a will.	
+18	莉琉	随着法贝拉自身的理性离线，那种『活的信息』开始慢慢侵蚀她的身体……	隨著法貝拉陷入沉睡、理智斷線，那種「活的訊息」就會開始慢慢侵蝕她的身體……	ファビオラの理性が薄れていくのにつれ、\nその『生きている情報』は、\n彼女の身体をゆっくりと浸食し続けていく……	파비올라의 이성이 끊어짐에 따라，그 『살아있는 정보』가 그녀의 몸을 천천히 침식하기 시작했어……	When Fabella lost consciousness, the “living information” began taking over her body...	
+19	N/A	……	……	…………	……	...	
+20	N/A	活的信息……侵蚀？	活的訊息……自我意識……侵蝕？ ！	生きている情報……\n\n……浸食？	살아있는 정보……침식?	Living information... taking over...	
+21	小怜	难道说──！	難道說──	まさかッ──！！！	설마──！	Can it be?	
+22	N/A	那些机械蜘蛛，是寄宿法贝拉体内的东西所制造的！？	那些機械蜘蛛，是寄宿在法貝拉體內的東西所製造的！ ？	あの機械の蜘蛛は、ファビオラの身体に\n宿っているものが創り出したのか！？	저 기계 거미들은 파비올라 몸속의 기생물이 만들어 낸건가!?	Those robot spiders are created by that “something” that’s possessing Fabella?	
+23	N/A	因为那个『意识体』扭曲了法贝拉的记忆，所以我才不得不介入吗……	那個「有意識的東西」扭曲了法貝拉的記憶，所以我才不得不介入嗎……	その『意識体』がファビオラの記憶を歪めて\nしまったから、彼女は記憶の中で死を迎える。\nだから、誰かしらが介入せざるを得ない状況に\nなったのか……	『의식체』가 파비올라의 기억을 왜곡해서 내가 어쩔 수 없이 개입된 걸까?……	And that’s why I have to show up, to keep that “information with a will” from twisting Fabella’s memories?	
+24	N/A	但重复那么多次，每一次我都失败了吧…	但是，之所以重複那麼多次，是因為我每次都失敗了吧…	そして何度繰り返しても、その度に俺は失敗を\nしてきたんだろう……	이렇게 많이 중복됐다는 건 내가 매번 실패했단 뜻이겠지…	But it seems that I’ve tried a lot of times and kept failing.	
+25	小怜	（到底，要怎么对付那种东西……）	（所以到底要怎麼對付那種東西啊！ 真煩！ ）	（あんなの、どう対処すればいいんだよ……）	（도대체 어떻게 저 물건을 처리할 수 있을까……）	(How should I deal with those bugs, then?)	
+26	N/A	我不安的检查着身上所剩的装备，如果每件道具都是如此重要的话──	我不安地檢查身上剩餘的裝備。 如果每件道具都是如此重要的話──	俺は残りの装備を確認する。それぞれの装備に\n意味があるとするならば──	나는 몸에 남아있는 장비를 살폈다. 만약 모든 물건이 중요하다면──	Nervously, I rummage through my equipment. If every item on me has a purpose...	
+27	N/A	唯一还没使用的，只剩下一个小型急救包。	唯一還沒派上用場的，只剩下一個小型急救包了。	唯一残っているのは、小型救急セットだけだ。	아직 사용하지 않은 건 소형 구급팩 하나다. 	The only one I haven’t used yet is the small emergency kit.	
+28	小怜	（怎么想都是“微量回复生命”的低级道具吧！）	（怎麼想都是那種「恢復少量生命值」的低等道具吧！ ）	（どう考えても『HPを少しだけ回復する』\n　って感じの良くある基本アイテムでしょ！）	（어떻게 봐도 “소량 생명 회복”의 초급 아이템이잖아!）	(It can’t do much except, you know, “recover minimal HP”, though... considered pretty much useless in those zombie games...)	
+29	N/A	我摸着挎包里那个柔软包装的立方体小袋子。	我摸著隨身包裡那個包裝柔軟的方形小袋子。	俺は救急セットの中にあった、\n立方体に包装された柔らかな小さい袋に触れる。	나는 가방 안에 있는 부드러운 사각팩을 만졌다.	I run my fingers over the softly packaged cube-shaped bag in my backpack.	
+30	小怜	（等等……）\n（这个手感──）	（等等……）\n（這個手感──）	（待て待て……）\n\n（この手触りって……）	（잠깐……）\n（이 촉감──）	(Wait...)\n(This feels like...)	
+31	罗素	糟了！那群东西爬上来了！！	糟了！ 那群鬼東西爬上來了！ ！	まずいッ！！　あいつらが登ってきたぞッ！！	큰일이다！떼로 올라왔어！！	Shoot, those bugs are coming.	
+32	N/A	我循声看过去，十几只蜘蛛已经顺着电梯井爬了上来，后面还有更多在往上涌。	我循聲看過去，十幾隻蜘蛛已經順著電梯井爬了上來，後面還有更多黑影不停湧入。	昇降路から這いあがってきたと同時に、\n留まる事を知らぬかのように湧いてくる蜘蛛達。	소리가 나는 방향을 보니 수십마리의 거미가 승강로를 타고 올라오고 있었다.	I follow the scuttling sounds and see over a dozen spiders scaling the elevator shaft. More are coming from behind them.	
+33	法贝拉	准备迎击！！	準備迎擊！ ！	迎撃用意ッ！！	공격 준비！！	Everyone, in your position!	
+34	N/A	突击队员立刻进入战斗状态开始射击。	突擊隊員立刻進入戰鬥狀態。	隊員達はすぐに戦闘体勢を整え、射撃を始めた。	돌격대원들이 곧바로 전투 상태에 진입해 사격을 시작한다.	The squad immediately gets into battle mode and begins firing.	
+35	N/A	法贝拉单手给霰弹枪上膛，左手反持匕首，将枪架在左手小臂上开始射击。	法貝拉單手將霰彈槍上膛，左手反握匕首，將槍架在左手小臂上，開始射擊。	ファビオラは右手で散弾銃の弾を込め、\n左手でナイフを逆手に持ちつつ、\n腕に銃を乗せ射撃を行う。	파비올라는 한손으로 샷건을 장탄하고，왼손에 단검을 거꾸로 든 뒤，총대를 왼팔 위에 올려 사격을 시작한다.	Fabella loads her shotgun with one hand, grasping a dagger with the other. She uses her left forearm as a support for the gun as she aims.	
+36	N/A	她先是两枪干掉了两只蜘蛛，然后用匕首和右脚直接扯碎了第三只，似乎要将满腔怒火都发泄出来。	她先開兩槍幹掉了兩隻蜘蛛，然後用匕首和右腳直接扯碎了第三隻，似乎要將滿腔怒火都發洩出來。	最初の2発で2匹の蜘蛛を倒すと、\n次の3匹目をナイフと右足で叩き割った。\nまるで心中に渦巻く怒りをぶちまけるかの如く。	우선 두 마리를 제거하고，단검과 오른발로 세 번째 거미를 찢어버린다. 마치 가슴 가득한 분노를 모두 발산하는 것 같다.	She takes out two spiders with two clean shots, then rips apart a third with her dagger and left foot, overcome with rage at those monsters that took her friend.	
+37	卡塞尔	我快没子弹了！！	我快沒子彈了！ ！	もうすぐ弾が切れちまうッ！！	탄알이 다 떨어졌어！！	I’m running out of ammo!	
+38	N/A	罗素将弹匣扔给卡塞尔。	羅素將彈匣丟給卡塞爾。	ラッセルはマガジンをキャセールに投げ渡した。	러셀이 탄창을 카셀에게 던진다. 	Russel tosses a magazine to Cassel.	
+39	罗素	最后一个了！你去看看货架那边有什么能当武器的！	這是最後一個了！ 你去貨架那邊看看有什麼能當武器的！	最後の1つだッ！！\n\n向こうの棚で武器になりそうな物がないか\n探しに行ってくれ！	마지막 하나야！진열대로 가서 무기가 될 만한 걸 찾아봐! 	This is the last one. Go check the storage racks and see if something’s usable.	
+40	N/A	卡塞尔换上弹匣一边点射一边后退，闪进一排货柜后面。	卡塞爾換上彈匣後，一邊開槍一邊後退，最後閃進一排貨架後面。	キャセールはマガジンを交換し、バースト射撃を\nしながら後退する。\nそして、貨物棚の後ろに身を隠した。	카셀이 탄창을 교체한 뒤，사격하며 후퇴하여 컨테이너 뒤쪽으로 빠르게 이동한다. 	Cassel nods, reloads his gun and keeps backing up as he continues firing, until he disappears behind a row of storage racks.	
+41	小怜	斯库尔德，站到我身后！	斯庫爾德，躲到我後面！	スクルド！　後ろに隠れてッ！！	스쿨드，내 뒤에 서!	Skuld, get behind me!	
+42	N/A	我紧握着冲锋枪，调成单发模式。	我緊握著衝鋒槍，調成單發模式。	俺もVectorを握りしめ、\n弾を節約するために単発モードへ切り替える。	나는 기관단총을 꽉 쥐고 단발 모드로 조정했다. 	I grip my submachine gun tight, switching it to single-shot mode.	
+43	小怜	（这是最后十几发子弹了……）	（這是最後十幾發子彈了……）	（残り10発ぐらい、弾も少ない……）	（열발 조금 넘게 남아있다…）	(I only have around a dozen bullets left...)	
+44	N/A@卡塞尔	嘿！罗素你猜我发现什么了！！\n一整箱15年前的波兰蒸馏伏特加──	嘿！ 羅素，這裡有好東西啊！ ！！ \n一整箱15年前的波蘭蒸餾伏特加──	おいッ！　ラッセル、こいつはツイてるぜッ！！\n15年物のスピリタスが丸々1箱だ──	러셀! 내가 뭘 발견했는지 맞춰봐！！\n15년된 폴란드 보드카 한 상자──	Hey, Russel, guess what I found!\nA whole crate of Polish distilled vodka, fifteen years old.	
+45	N/A	货架后突然传来卡塞尔兴奋的声音。	貨架後突然傳來卡塞爾興奮的聲音。	貨物棚の裏から、キャセールの興奮した声が\n聞こえた。	진열대 뒷편에서 카셀의 흥분한 목소리가 들려온다. 	Cassel sounds extraordinarily excited.	
+46	罗素	白痴，你是想做燃烧弹吗？	白痴喔，你該不會是想做燃燒彈吧？	馬鹿野郎ッ！　火炎瓶でも作る気かっ！？	멍청아，소이탄을 쓰고 싶은 거야?	Idiot, are you trying to make a Molotov cocktail?	
+47	N/A@卡塞尔	不行吗？这玩意上写着酒精含量96%啊，真的是给人喝的吗。	不行嗎？ 這東西上面寫了酒精含量96%啊，不是給人喝的吧。	ダメなのか！？これアルコール度数96%って\nラベルに書いてあるぜ？\n──つうか、本当に人の飲むもんかよコレッ。	안돼？알코올 함량이 96%라고. 사람이 마실 수는 있는 건가?	I think it’d work. It says 96% alcohol content... surely it’s not meant for drinking.	
+48	小怜	莉娜刚才确实说过，那些小蜘蛛是靠热成像探测目标的……	莉娜剛才確實說過，那些小蜘蛛是靠熱像儀偵測目標的……	リナは確か、蜘蛛達はサーモグラフィーで\nターゲットを探しているって……	작은 거미는 열에 의지해 타겟을 탐측한다고 리나가 얘기했었어……	Rina did say those spiders detect their targets by sensing heat.	
+49	法贝拉	『莫洛托夫鸡尾酒』可不是那么好做的──	要做出「莫洛托夫雞尾酒」可沒那麼簡單──	『モロトフ・カクテル』ってそんな簡単に\n作れるものじゃないわ──	『화염병』은 그리 간단히 만들 수 있는 게 아니야──	Molotov cocktails are not that simple to make.	
+50	法贝拉	需要密封好瓶口，否则很容易先烧到自己，并且还要布条之类能吸水的引信。	得確實密封好瓶口，不然還沒炸到對方就先自焚了。 重點是，要有布條之類可吸水的引信才行。	瓶の口をしっかり密封しないと、自分に燃え\n移るかもしれない。\nそれに吸水性に優れた布の信管も必要よ。	병 입구를 잘 막지 못하면，너에게까지 불이 옮겨붙을 거야. 그리고 물을 흡수할 수 있는 천같은 게 필요해.	You have to seal the opening of the bottle first, or else you’ll probably burn yourself. And you need something that can soak up water, like a strip of cloth, to use as the fuse.	
+51	N/A	法贝拉此时已经干掉了近十只小蜘蛛，但更多的蜘蛛正从电梯口争相涌进这间仓库。	法貝拉已經幹掉將近十隻小蜘蛛了，但後面還有更多蜘蛛正從電梯口湧進倉庫。	ファビオラはすでに、かなりの数の蜘蛛を\n倒している。\nしかし、エレベーターの入り口から迫りくる\n蜘蛛の群れは一向に止まらない。	파비올라가 열마리 가까이 제거했지만 더 많은 거미가 창고 안으로 쏟아져 들어온다. 	Fabella has already taken down around ten spiders by now, but more are pouring in from the elevator doors.	
+52	N/A	随着弹药不断消耗，我们只能逐渐收拢阵型后撤。	隨著彈藥不斷消耗，我們只能逐漸收攏隊形往後撤。	弾薬も絶えず消耗し、俺達は徐々に陣形を\n後退させる他なかった。	탄약이 점점 떨어져 우린 그저 진영을 모아 철수할 수 밖에 없다.	We’re running out of ammo and have no choice but to back up, drawing close together.	
+53	罗素	咱们的衣服都是防水加强纤维的，去哪找合适的材料，撕自己的内裤吗？	我們的衣服都是加強防水的，是要去哪找布條，難道要撕下內褲嗎？	俺達の服は防水仕様の強化繊維だし、いい感じの\n素材なんてどこにもないぞ？\n下着でも脱いで引き裂くか！？	우리 옷은 모두 방수 섬유잖아. 어디서 찾지? 내 속옷이라도 찢을까?	Our outfits are all made of waterproof fiber. Where do we find fabric that can absorb liquid? We gotta strip to our underwear or something?	
+54	小怜	那、那个……试试这个！	那、那個……試試這個！	そ、それじゃ……これを使って！	저，저기……이걸 사용해！	H-hey, try this!	
+55	N/A	我将那个“小型急救包”丢给卡塞尔，然后立刻转身跑开。	我將那個「小型急救包」丟給卡塞爾，然後立刻轉身跑開。	俺は『小型救命セット』をキャセールに渡し\n…………すぐに背を向けて走り去った。	나는 “소형 구급팩”을 카셀에게 던진 후，곧바로 몸을 돌려 달려갔다.	I toss my “small emergency pack” to Cassel before turning around and running for the hills.	
+56	N/A@卡塞尔	嗯？什么玩意儿？	嗯？ 這是什麼？	──うん？　なんじゃこりゃ？	응? 이건 뭐야?	Hm? What’s this?	
+57	N/A@卡塞尔	F系列……18枚，棉柔无荧光剂……	F系列……18片，柔膚棉質，不含螢光劑……	Fシリーズ……18枚入り、ふんわりタイプ、\n蛍光剤無配合……	F시리즈……18매，무형광 순면……	F-series... pack of 18... high breathability, no fluorescent agent...	
+58	小怜	别……	夠了……	やめッ……	그만……	Stop reading it out loud!	
+59	N/A@卡塞尔	生理中……敏感肌，250mm……\n难道是──？？！	生理期……敏感肌適用，25公分……\n難道是──？ ？！	生理中……敏感肌、250ｍｍ……\nこれは、まさか――ッ？？？！	생리 중……민감성，250mm……\n설마──？？！	Menstruation period... for sensitive skin... 250-mm long...\nCan it be...	
+60	小怜	不要念了啊笨蛋！！！！！！！	不要念出來啊！ ！！ ！！ ！！	読むなこのバカァッ！！！！！	읽지마，바보야！！！！！！！	C’mon, idiot, don’t read it out loud!	
+61	法贝拉	哦？那个应该再合适不过了~	哦？ 那個應該很合適～	あらっ？\nちょうど良いもの持ってるじゃないっ？	오？그거라면 충분하겠어~	Ah, I see what it is. It’s perfect.	
+62	N/A	法贝拉向我投来一个微妙的眼神。	法貝拉向我投射了一個微妙的眼神。	ファビオラは何とも言えない複雑な目を\n俺に向けた。	파비올라가 날 향해 미묘한 눈빛을 보낸다.	Fabella sends me a meaningful glance.	
+63	N/A@卡塞尔	我靠这么好用！？\n吸水之后还会膨胀，正好能封住瓶口！	吸水後會膨脹……正好能封住瓶口欸！ \n哇靠，沒想到這東西這麼好用！	うぉぉ　これスゲーーッ！？\n\n水を吸うと膨らむから、瓶の口を簡単に\n密閉できるぜッ！？	와 엄청나잖아！？\n물을 흡수한 후 팽창해서 병 입구를 꽉 막았어！	Ooh, this is wonderful!\nIt even puffs up a little after absorbing water. It’ll seal the bottle up just right!	
+64	小怜	（不需要这么详细的说明！拜托了！！！）	（謝謝你這麼仔細又生動的說明啊！ ！不如一槍斃了我吧……）	（説明はいらないから速くしてっ！）\n\n（頼むっ！！！）	（자세하게 설명할 필요 없어！제발！！！）	(Do you really have to go into detail? Come on...)	
+65	N/A	……	……	…………	……	...	
+66	N/A	不一会，卡塞尔带着做好的燃烧弹意气风发的从货架后跑出来。	沒多久，卡塞爾就帶著做好的燃燒彈，意氣風發地從貨架後跑出來。	しばらくするとキャセールが出来上がった\n火炎瓶を持ち、意気揚々と棚の裏から出てきた。	잠시 후 카셀이 소이탄을 들고 의기양양하게 진열대 뒤에서 뛰어나왔다.	Soon, Cassel reappears from behind the rack with his newly created Molotov cocktails.	
+67	N/A	在法贝拉的指挥下，我们掩护卡塞尔突进到电梯口附近。	在法貝拉的指揮下，我們掩護卡塞爾突進到電梯口附近。	ファビオラの指揮の元、俺達はキャセールを\n援護しつつエレベーターの昇降口まで突進する。	파비올라의 지휘 아래 우리는 카셀을 엄호하며 엘리베이터 근처로 돌진했다.	Following Fabella’s orders, we keep Cassel covered as we all move as one to the elevator.	
+68	N/A	几发燃烧弹丢过去，电梯口马上成为一片火海。	幾枚燃燒彈丟過去後，電梯口馬上成為一片火海。	数発の火炎瓶が投げ放たれ、エレベーターの\n入り口はたちまち火の海と化した。	소이탄 몇 개를 투척하자 엘리베이터 입구에 불바다가 일어난다.	He tosses a few Molotov cocktails and the entrance to the elevator goes up in flames.	
+69	N/A	之后我们用尽最后的弹药和近战武器，终于将仓库内的小蜘蛛清理干净。	我們用盡最後的彈藥和近戰武器後，終於把倉庫內的小蜘蛛清除乾淨。	なけなしの弾丸と近接武器も使用して、ついには\n倉庫内に侵入した小型蜘蛛の清掃が完了した。	그 후 우리는 마지막 탄약과 근거리 무기로 창고 안 거미들을 제거했다. 	We take out the rest of the spiders with our remaining ammo and melee weapons.	
+70	罗素	暂时应该能拖一会了……	暫時又爭取一些時間了……	これでしばらくは持つか……	잠시 숨 좀 돌릴 수 있겠어……	We should be okay for now...	
+71	N/A	罗素的胳膊上被划出几个口子，卡塞尔的腿也被狠狠的扎了一下。	羅素的手臂被劃出幾道傷口，卡塞爾的腿也被狠狠扎了一下。	そう話したラッセルの腕には、\nいくつもの切り傷ができていた。\nキャセールも足に突き刺されたかのような\n傷穴を開けている。	러셀은 팔에 몇 군데 상처를 입었고，카셀의 다리는 심하게 찔렸다.	Russel has several scratch marks on his elbow, and Cassel’s got a wound in one leg.	
+72	N/A	法贝拉在激战后稍稍平复情绪，走到我身边一言不发的拍拍我的后背。	法貝拉激戰後稍稍平復了情緒，走到我身邊一言不發地拍拍我的後背。	ファビオラは戦闘で昂った気持ちを落ち着かせ、\n俺に近付くと無言のまま俺の背中を叩いてきた。\n少し憐みの笑顔を、なぜか俺に向けている。	파비올라가 격전 후 마음을 조금 가라앉힌 다음 내 곁으로 걸어와 말 없이 내 등을 두드린다.	Fabella finally calms down a bit after the chaotic battle. She approaches me and pats me silently on the back.	
+73	小怜	（什、什么意思？）	（這是，什、什麼意思？ ）	（いや、あの……もう気にしてないから）	（무，무슨 뜻이지？）	(W-what does she mean by that?)	
+74	小怜	（为什么她那么意味深长的看着我笑啊~~）	（妳幹嘛笑的這麼曖昧？ ！）	（だから、意味深に笑わないで）\n\n（今は深刻な状況の方が大事だし……）	（왜 그런 의미심장한 눈으로 날 보며 웃냔 말이야~~）	(And why is she smiling like she knows something?)	
+75	N/A	弹匣里只剩下最后两发子弹。	彈匣裡只剩下最後兩顆子彈。	──残りはもうマガジンに残弾が2発だけ。	탄창 안에 탄알이 두발 남아있다.	I have only two bullets left in my magazine.	
+76	N/A	虽然暂时渡过危机，但现在已经用掉所有的道具了。	雖然暫時渡過了危機，但我已經把所有道具都用光了。	危機は凌げたけど、今ので大体の装備を\n使い果たしてしまった。	잠시 위기를 넘기긴 했지만 모든 아이템을 다 써버린 상태다. 	Though we’re safe for now, I really don’t have any useful items left.	
+77	小怜	（该不会上一次，我就是止步于此吧……）	（該不會我上一次就是在這裡敗北的吧……）	（もしかして前回は……）\n\n（ここでゲームオーバーになったんじゃ……）	（설마 지난번에도 여기서 멈춘 건 아니겠지……）	(Maybe in the, uh, last round, I... died here?)	
+78	N/A	我不安的盯着电梯口那片橘红色的火光，一个疑问在心中盘旋──	我不安地盯著電梯口那片橘紅色的火光，心中浮起一個疑問──	エレベーターの入り口で燃え盛るオレンジ色の\n炎をじっと見つめる。\nその時、1つの疑問が心の中を渦巻いた──	나는 불안한 마음으로 엘리베이터의 화염을 쳐다봤다. 마음 속에 의문이 맴돈다──	I stare anxiously at the orange flames devouring the elevator entrance, and wonder...	
+79	N/A	这样一次次的轮回，真的有用吗？	這樣一次次的輪迴，真的有用嗎？	こうして繰り返す事に……本当に意味が\nあるのかな？	이렇게 계속해서 반복하면 정말 효과가 있을까?	Just what’s the point of this groundhog day situation?	
+80	N/A	可能我重复再多次，有再多的装备都无济于事……	可能重複再多次、有再多的裝備都無濟於事……	何度繰り返しても、どれだけ装備を整えても、\n解決に至ってない……	다시 여러 번 반복한다해도 더 많은 장비가 있다해도 아무 소용 없을지도 모른다……	No matter how many times I repeat this experience... how many new gadgets I bring with me...	
+81	N/A	我会被永远困在这里吗。	我會永遠困在這裡嗎？	俺は永遠に、この場所でループし続けるのか？	난 영원히 여기에 갇히는 걸까?	I’ll still die again and again?	
+82	N/A	……	……	…………	……	...	
+83	莉琉	你要尽量找到目标回忆中的关键信息，不能放过每一个细节。	妳要盡量找到目標回憶中的關鍵資訊，不能放過每一個細節。	接続した記憶の中に埋まっている情報を\nできるだけ探し出し、\n細部に至っても見逃さないようにしろ。	최대한 타겟의 기억 속 중요 정보를 찾아야 해. 작은 디테일 하나도 놓쳐서는 안돼. 	What you gotta do is to find key information in the target’s memories. Don’t leave any stone unturned.	
+84	莉琉	目标现在处于深度昏迷中，我们对她的过往经历了解不多，不知道她被锁定在了哪段回忆中。	目標現在處於深度昏迷中，我們對她的經歷瞭解並不多，不知道她被鎖定在哪段回憶中。	ターゲットは現在、深い昏睡状態にある。\n\n私達は彼女の生い立ちを良く知らない上、どんな\n記憶の中に閉じ込められているかも分からない。	타겟은 현재 혼수 상태야. 정보가 부족해서 어느 기억 속에 갇힌 건지 알 수 없어. 	The target is currently high on the coma scale. We don’t know much about her past, so we’re not sure what part of her memory she’s currently stuck in.	
+85	爱衣	就是说，即使目标要去洗澡，你也不能放过哦~！	也就是說，就算目標要去洗澡，妳也不能放過其中任何細節哦～	つまり！\n例えターゲットがお風呂に入っていたとしても！\nその細部まで見逃してはいけないって事よ！！	그러니까 타겟이 목욕 중이라고 해도 그냥 지나쳐서는 안 된단 말이지~！	Which means you gotta pay attention to every detail... even if your target’s in the shower!	
+86	N/A	不对，这段对话到底是发生在医院还是在SID总部来着……	啊，這段話到底是發生在醫院還是在SID總部……	この会話をしたのは……病院か、それとも\nSIDの本部だったか……	이 대화는 병원에서 나눈 것일까，아니면 SID총본부에서 나눈 것일까……	Wait. When did this conversation happen? In the hospital? In the SID headquarters?	
+87	N/A	我的记忆也开始模糊了吗？	我的記憶也開始模糊了嗎？	俺の記憶まで、曖昧なものになってきている\nのだろうか……	내 기억도 모호해지기 시작한 건가?	My memory is getting all blurry...	
+88	N/A	莉琉所说的『关键信息』到底是什么……	莉琉所說的「關鍵資訊」到底是什麼？	マリルが言っていた『重要な情報』って、\n何なのだろう……	마리루가 얘기한 『중요 정보』는 도대체 뭘까……	What was that “key information” Mariru mentioned?	
+89	N/A	或者她…真的说过这段话吗……	還是，她……真的說過這段話嗎……	いや……そもそも……\nマリルとそんな話をしたのかな……	아니면 마리루가…정말 이 말을 했었던가……?	Did she even mention this term at all?	
+90	N/A@斯库尔德	小怜姐姐~	小憐姐姐～	レンお姉ちゃん～～	렌 언니	Miss Ren...	
+91	斯库尔德	小怜姐姐──	小憐姐姐──	レンお姉ちゃん──	렌 언니──	Miss Ren!	
+92	N/A	斯库尔德的小手扯了扯我的衣服，将我的思绪拉回。	斯庫爾德的小手拉拉我的衣服，將我的思緒拉了回來。	スクルドの小さな手が服を引っ張り、\n俺を思考から引き戻した。	스쿨드가 작은 손으로 내 옷가지를 잡아당겨，난 상념에서 빠져나왔다.	Skuld tugging me on the sleeve brings me back to reality.	
+93	小怜	嗯？	嗯？	うん？	응?	Huh?	
+94	斯库尔德	刚才你给卡塞尔的这个……是什么呀~？	剛剛妳丟給卡塞爾的……是什麼東西啊？	さっきキャセールに渡したこれって……なに？	방금 카셀한테 준 이거……뭐야~？	That thing you gave Cassel... What’s that?	
+95	N/A	斯库尔德手里拿着一个方形的无纺布包，一脸好奇的看着我。	斯庫爾德手裡拿著剛才那個布包，一臉好奇地看著我。	四角い不織布のパックを手に持って、\nスクルドは興味津々に俺を見る。	스쿨드가 부직포팩을 손에 들고 호기심 가득한 얼굴로 날 쳐다본다. 	Skuld asks, studying the square-shaped bag in her hands with pure, innocent eyes.	
+96	小怜	啊……那个──	啊！ 那個，呃──	えっと……それはッ──	아……그건──	Uh... it’s...	
+97	小怜	（救命！别当着大家的面问我这种事啊！！）	（拜託！ 別當著大家的面問我啊！ ！）	（勘弁してくれよっ！）\n\n（みんなの前でそんな事、聞かないでくれ！）	（살려줘！모두의 앞에서 이런 걸 물어보지말라고！！）	(Heaven help me! Don’t ask me this in front of everyone!)	
+98	小怜	你、你还没到用那个的年纪啦……啊哈哈哈哈。	妳、妳還小，長大就知道了……啊哈哈哈哈。	ス、スクルドの年じゃまだ早いかな……アハハ。	너，넌 아직 이걸 쓸 나이가 아니야……아하하하하.	You’re... you’re not old enough for that, haha.	
+99	小怜	（其实我也是新手……）	（其實我也是新手……）	（俺も初心者だから人の事は言えないけど…）	（사실 나도 미숙해……）	(I’m not that experienced in using it either...)	
+100	N/A	我生硬的想要支开话题，总觉得要是给这么小的女孩子讲这种东西的话，我就……	我尷尬地想要轉移話題，總覺得不該對這麼小的女孩子解釋這個……	俺は話題を逸らそうと試みる。\n\nこんな小さな女の子相手に、例の話をするハメに\nなったら、どうしたらいいんだよ俺は……	나는 일부러 화제를 돌렸다. 이렇게 작은 아이에게 이런 걸 설명했다간……	I awkwardly try to change the subject. I really don’t want to explain something like this to a little girl this young...	
+101	N/A	……	……	…………	……	...	
+102	N/A	这么小的女孩子──？	這麼小的女孩子──？	こんな……小さな女の子──？	이렇게 작은 아이──？	Wait. A little girl this young...	
+103	小怜	（我第一次见到斯库尔德时，她只比伊露卡稍微大一点吧……）	（我第一次見到斯庫爾德時，她只比伊露卡稍微大一點吧……）	（初めてスクルドに会った時、\n　イルカより少しだけ大きいくらいだった……）	（처음 스쿨드를 봤을 때 이루카보다 조금 컸었는데……）	(The first time I met Skuld, she was only slightly older than Elluka.)	
+104	N/A	可这是法贝拉两年前的记忆……两年的时间里，这个年纪的小孩子应该有很大变化才对。	不過，這是法貝拉兩年前的記憶……這種年紀的小孩在兩年間的改變應該很大才對。	でもここは、ファビオラの2年前の記憶の中……\n\nあの年齢ぐらいの子供は、2年もあれば\n大きな変化があるはずだ。	하지만 이건 파비올라의 2년전 기억이다……2년 전이라면 뭔가 달라야 한다.	But this memory should be from two years ago. Girls at this age usually change a lot in two years.	
+105	斯库尔德	但现在我面前的斯库尔德，与之前在医院见到的一模一样──	現在我面前的斯庫爾德，卻跟之前在醫院見到的一模一樣──	なのに俺の前にいるスクルドは、病院で見た姿と\n全く同じ──	하지만 지금 내 앞에 있는 스쿨드는 병원에서 봤던 모습과 똑같다──	But this Skuld I see in front of me looks the exact same as the one I saw in the hospital.	
+106	斯库尔德	无论服装、发型、身高、样貌……甚至头发上那股淡淡的奶香，都完全一致。	無論服裝、髮型、身高、樣貌……甚至頭髮上那股淡淡的奶香，都一模一樣。	服装、髪形、身長、顔立ち……\n\n髪から匂ってくるミルクの香りさえも\n完全に一致している。	옷，머리스타일，키，외모……심지어 머리카락에서 나는 옅은 우유향까지 모든게.	Her outfit, hair style, height, face, even the faint milky smell in her hair... exactly the same.	
+107	斯库尔德	她……是按照我的记忆构建的？	她……是按照我的記憶構建的？	目の前の彼女は……\n\n……俺の記憶によって再現されたスクルド？	내 기억이 만들어낸 건가？	Did I... “construct” her according to my own memories?	
+108	N/A	法贝拉原本是第二学园都市情报机构『帕兰蒂尔』的攻击队队长。	法貝拉原本是第二學園都市情報機構「帕蘭蒂爾」的攻擊隊隊長。	ファビオラは元々、第二学園都市情報機関\n『パランティア』の攻撃部隊隊長だ。	파비올라는 제2학원도시 정보 기관 『팔란티어』의 공격부대 대장이다.	Fabella used to be a special force squad leader under Ritnalap, intelligence organization in the Second Academy City.	
+109	N/A	后来却成为了斯库尔德的女仆兼保镖。	後來卻成為斯庫爾德的女僕兼保鏢。	その後、スクルドのメイド兼ボディーガードに\nなった。	훗날 스쿨드의 메이드겸 보디가드가 되었다. 	But she later became a maid-slash-bodyguard for Skuld.	
+110	N/A	如果这是她们第一次相遇的话，到底是什么契机造成了这样的转变……	如果這是她們的第一次相遇，那到底是什麼契機造成了這樣的轉變……	もしこれが2人の最初の対面なら……\n何が彼女をそうさせたのか……	만약 이게 그들의 첫번째 만남이라면 도대체 중간에 어떤 일이 있었던 걸까……	If this were the first time they met.. what exactly happened here?	
+111	罗素	该死，那些东西又从天台爬进来了！！	該死，那些東西又從天台爬進來了！ ！	くそっ、あいつら屋上から入ってきたぞッ！！	빌어먹을，저것들이 또 천장에서 기어들어왔어! ! 	Hey, those bugs are pouring in from the roof!	
+112	N/A	罗素突然指着天花板喊道。	羅素突然指著天花板大喊。	ラッセルは突然、天井を指差して叫んだ。	러셀이 갑자기 천장을 가리키며 소리지른다.	Russel suddenly yells, pointing at the ceiling.	
+113	N/A	几只小蜘蛛顺着仓库顶部的通风口爬了进来，紧跟在后面更多的蜘蛛开始侵入。	幾隻小蜘蛛沿著倉庫頂端的通風口爬了進來，後面又有更多的蜘蛛準備一擁而上。	何匹かの小型ロボットの蜘蛛が、\n倉庫の天井にある通風孔から這い出てきたのだ。\nその背後からも、ロボットの蜘蛛達はゾロゾロと\n侵入してくる。	작은 거미 몇 마리가 창고 꼭대기의 환풍구를 통해 들어왔다. 뒤에 더 많은 거미들이 있다!	Several small robot spiders have scuttled in from the air vent above the warehouse.	
+114	法贝拉	所以说……我最讨厌这种小虫子了！！	所以說……我最討厭這種小蟲子了！ ！	これだから私は……虫なんて大嫌いなのよッ！！	난 벌레가 제일 싫다고 했잖아! ! 	Ugh, I hate bugs!	
+115	N/A	我愣愣的看着斯库尔德，并没有像其他三人那样拿起近身武器准备最后一搏。	我傻傻地看著斯庫爾德，並沒有像其他三人那樣拿起近戰武器準備最後一搏。	しかし俺は他の3人のように、最後の一戦である\nとの覚悟は決めなかった。\nただ呆然と、スクルドを見つめていた。	나는 다른 세 사람과 달리 무기를 들지 않고 멍하니 스쿨드를 쳐다봤다.	I continue staring at this “Skuld” and do not even bother to pick up a melee weapon for our last stand.	
+116	N/A@小怜	（我不停在这个世界，添加自己需要的东西…）	（我不停在這個世界裡加入自己需要的東西…）	（俺はこの世界に、必要なアイテムを追加して\n　きた……）	（난 이 세계에서 끊임없이 필요한 물건을 추가해왔다…）	(I keep bringing new items I need into this world...)	
+117	N/A	但其实，一直以来压制着那个『意识体』的则是法贝拉本人。	但事實上，一直以來壓制著那個「有意識的東西」的，是法貝拉本人。	だけど、本来は俺の助けがなくとも\nあの『生きている情報』を抑え続けていたのは…\n……ファビオラ自身だ。\n\nだから機械の蜘蛛を倒す手助けをしても、\n彼女が目を覚ます結果になりはしない。	하지만 줄곧 『의식체』를 억제해왔던 건 파비올라 본인이다.	But the one who’s actually in charge of keeping that “information with a will” at bay is Fabella herself.	
+118	N/A	我真正应该改变的，在第一只机械蜘蛛袭击之前就出现过了……不是吗？	我真正應該改變的條件，在第一隻機械蜘蛛襲擊之前就出現了，不是嗎？	俺が本当に変えるべきモノは、機械の蜘蛛が\n襲撃してくる前にすでに俺に前に現れていた……	진짜로 바꿔야 할 건 첫 번째 기계 거미가 습격하기 전에 나타났을 것이다……그렇지 않나?	The key to turning the tide had already appeared before the first robot spider even did, right?	
+119	N/A	那个一直在吸引我的，让我不禁想要伸手触碰的─	那個一直吸引著我、讓我忍不住想伸手觸碰的──	眺めていたのは好奇心だったけど、今思えば──	계속 내 신경을 끌고 있는 그것을 난 참지 못하고 손을 뻗어 만졌다─	That item... it seemed to be demanding my attention, urging me to touch it...	
+120	小怜	斯库尔德，这个借我一下……	斯庫爾德，這個借我一下！	スクルド、それ貸して……	스쿨드，이것 좀 빌려줘……	Skuld, let me borrow this for a bit.	
+121	N/A	我将斯库尔德一直拿在手中的黑色鳄鱼皮文件夹接过，抽出那张发黄的古文本。	我拿走斯庫爾德一直不離手的黑色鱷魚皮文件夾，從中抽出那張發黃的古文手稿。	スクルドが手に持っていた黒いワニ皮の\nフォルダを受け取り、\n中から黄ばんだ古文書を取り出す。	난 스쿨드가 손에 들고 있던 검은 악어가죽 파일에서 노란색 고대 문서를 꺼냈다.	I take the black crocodile-skin folder from Skuld and pull out the faded ancient manuscript.	
+122	N/A	从我的手接触到文稿那一刻，上面的文字和图案就开始扭曲变化，直到变成完全无法理解的状态。	我的手接觸到手稿的那一刻起，上面的文字和圖案就開始扭曲變化，變成完全無法理解的狀態。	取り出した古文書に俺の手が触れた瞬間、\n書かれていた文字と絵が歪み──\n全く理解できない形へと変化した。	문서에 손을 대자 문자와 그림이 이해할 수 없는 형태로 변한다. 	The second my hand touches the paper, the text and patterns on it twist and morph into something completely incomprehensible.	
+123	N/A	仔细观察，文稿上每个古代字母我都可以看清，然而一旦想连起来读，就马上变成糅杂的乱码。	仔細一看，手稿上的每個字母我都會念，可是一旦想要整串連著讀，字母就立刻變成雜亂的亂碼。	良く観察すると、古代文字の1文字1文字は\nくっきりと見えるが、\n繋げて読もうとすると一瞬で文字化けみたいに\n見えてしまう。	자세히 관찰하니 고대 문자를 알아볼 수 있었지만 읽으려고하자 깨진 글자로 변한다.	If I observe carefully, I can actually distinguish every rune. But put them all together and I can’t understand a thing.	
+124	小怜	（果然……和第一次遇到伊露卡那时一样。）	（果然……和第一次遇到伊露卡時一樣。 ）	（やっぱり……イルカと初めて会った時と同じ）	（역시……이루카를 처음 만났을 때와 똑같아.）	(Just like the first time I met Elluka...)	
+125	小怜	（这个古代文本，是某本『魔导书』的残页……）	（這個古文手稿，是某本「魔導書」的殘頁……）	（この古文書……）\n\n（何かの『魔導書』の一部だ……）	（이 고대 문서는 『마도서』의 일부다……）	(This manuscript must be a page from a Grimoire...)	
+126	N/A	天花板的小蜘蛛纷纷坠下来并向我们逼近，攻击队员们开始用铁棒和撬棍做着顽强的抵抗。	掛在天花板的小蜘蛛紛紛落地逼近我們，攻擊隊員們開始用鐵棒和鐵撬做最後的頑強抵抗。	天井から小型の蜘蛛が次から次へと落ちてきて、\n俺達に迫る。\n各隊員達は、鉄棒とバールで粘り強く抵抗した。	천장의 거미들이 우릴 향해 접근해오자 공격 대원들이 철근과 지레로 힘겹게 저항한다.	The small spiders come hopping down from the ceiling and crawling towards us. The squad members begin whacking at them with steel poles and crowbars.	
+127	N/A	我趁着攻击的空档，把法贝拉拽到自己身边。	我趁著攻擊的空檔，把法貝拉抓到身旁。	俺は攻撃の合間を見て、ファビオラをこちらに\n引き寄せる。	공격 틈을 타 파비올라를 옆으로 끌어왔다.	I pull Fabella aside amidst all the chaos.	
+128	法贝拉	你干什么──！	妳幹什──！	な、何するのよ――ッ！！	뭐하는 거야──！	Hey! What do you think you’re doing?	
+129	N/A	我没有回答，而是一把拉过她的手，和斯库尔德的手搭在一起。	我沒有回答，只是一把拉著她的手，和斯庫爾德的手疊在一起。	俺は質問に答えず、ただ彼女の手を引いて、\nスクルドの手に重ねた。	난 말없이 그녀의 손을 잡아 스쿨드의 손과 합쳤다. 	I simply grab her hand and place it into Skuld’s.	
+130	小怜	虽然我也无法解释，但你应该很快就能明白……	我暫時無法解釋，但妳應該很快就能明白……	うまく説明できないけど、すぐに分かるはず……	나도 설명할 수 없지만 넌 곧 알게 될 거야……	I can’t really explain now, but you’ll get it in no time—	
+131	N/A	因为这是属于你的──你的『魔导书』	因為這是屬於妳的──妳的「魔導書」！	だってこれはファビオラの記憶のページ──\n\n──君の『魔導書』なのだから。	이건 너의─너의 『마도서』니까.	Because this belongs to you. It’s your Grimoire.	
+132	N/A	是你在两年前第一次遇到斯库尔德时，自己选择背负的东西。	這是妳兩年前第一次遇到斯庫爾德時，自己選擇背負的東西。	君が2年前──\n\n初めてスクルドと会った時に、自ら背負うと\n覚悟した「記憶」の断片なのだから。	너는 2년전 스쿨드를 처음 만났을 때 스스로 책임져야할 걸 선택했어.	You made the choice to let it possess you two years ago, the first time you met Skuld.	
+133	N/A	我将古文本放在法贝拉手上，那张发黄的纸页立刻化作一道炫目的强光。	我將那張古文手稿放在法貝拉手上，它立刻化作一道炫目的強光。	古文書をファビオラの手の上に乗せる。\nすると黄ばんだ紙は一瞬にして眩い光を放った。	고대 문서를 파비올라의 손에 올리자 노란 종이에서 눈부신 빛이 뿜어져 나온다.	I stuff the manuscript into Fabella’s hand. The very next second, the faded paper transforms into a beam of blinding light.	
+134	N/A	一个周身被火焰包围的巨大光球赫然出现在仓库中央，像个跳动着的精灵般缓缓下落。	一個被火焰包圍的巨大光球赫然出現在倉庫中央，像躍動的精靈般緩緩落下。	炎に包まれた巨大な光の球が倉庫の中央に現れ、\n舞い踊る精霊のようにゆっくりと降下していく。	화염에 둘러싸인 거대한 구슬이 갑자기 창고 중앙에 나타나 정령처럼 천천히 떨어진다.	A gigantic flaming sphere pops up in the middle of the warehouse and slowly drifts down like some kind of apparition.	
+135	N/A	光球随着下落越来越小，逐渐融入进法贝拉身体里……	光球越來越小，最後逐漸融進法貝拉的身體裡……	降下するにつれ、光玉は小さくなって\nファビオラの身体に溶け込んでいく。	구슬은 떨어질수록 작아지다가 점점 파비올라의 몸안에 흡수되었다……	The sphere gradually decreases in size as it descends, and disappears into Fabella’s body, becoming part of her...	
+136	N/A	法贝拉的手臂包裹着一层跃动的火焰，但我拉着她的手却丝毫不觉得烫。	她的手臂上出現一層跳動的火焰，此時我還拉著她的手，卻絲毫不覺得燙。	彼女の腕は躍動する炎をまとっていた。\n\n俺は彼女の手を握っていたけど、\n炎で火傷する事はなかった。	파비올라의 팔뚝이 화염에 휩싸였지만，그녀를 맞잡은 손이 전혀 뜨겁지 않다.	A layer of lively flames are wrapped around Fabella’s arm—yet I don’t feel any heat, even though my hand is holding hers.	
+137	斯库尔德	火焰的……魔法……	火焰……魔法……	炎の……魔法……	화염의……마법……	Fire... magic...	
+138	N/A	突然一只小蜘蛛跳起，径直扑向斯库尔德。	突然間，一隻小蜘蛛跳起來，直接撲向斯庫爾德。	突如1匹の蜘蛛が飛び跳ねて、スクルドに\n襲いかかる。	거미 한마리가 갑자기 뛰어올라 스쿨드를 덮치려 한다. 	Suddenly, a small robot leaps up and pounces on Skuld.	
+139	N/A	法贝拉下意识的反击一拳打在它身上，黑色的机械蜘蛛顿时被一团火焰所吞噬。	法貝拉下意識地一拳揮過去，黑色的機械蜘蛛頓時被一團火焰吞噬。	ファビオラは無意識に拳で反撃した。\nすると、機械の蜘蛛が瞬時に炎に包まれる。	파비올라가 반사적으로 거미를 향해 주먹을 휘두르자，검은색 기계 거미가 순식간에 화염에 삼켜진다.	Fabella reflexively punches it squarely on the body. In less than a second, the black robot spider is devoured by a ball of flames.	
+140	N/A	那台机体先是碎裂成无数细小的零件，然后在坠落到地面之前，所有的零件就都烧成了灰。	蜘蛛先是碎裂成無數細小的零件，然後在落地之前，所有的零件都已成灰燼。	激しい高温に晒され、ロボットは\n無数の小さな部品に分解されていく。\n地面へ落下する前には、全てが灰と化していた。	수많은 부품으로 조각난 후 바닥에 떨어지기 전 모든 부품이 재로 변해버렸다. 	It shatters into countless tiny components, which all burn to ashes before they even hit the ground.	
+141	法贝拉	这是──？	這是──？	これは──？	이건──？	What’s this...?	
+142	N/A	法贝拉困惑的看着自己手上的火光，它们正向四周的空间蔓延，形成一个没有实体的屏障。	法貝拉困惑地看著纏繞在自己手上的火光，它正往四周蔓延開來，形成一個沒有實體的屏障。	ファビオラは戸惑いながらも、自らの手が放った\n炎を見つめる。\nその炎は周囲の空間に広がり、実体のない\nバリアを形成していた。	파비올라가 당황하며 자신의 손 위의 불빛을 쳐다보자，주위로 퍼져나가 실체가 없는 벽을 형성했다.	Fabella stares at the flames on her hands in confusion. They spread outward, forming a barrier around her.	
+143	N/A	任何蜘蛛只要稍稍靠近屏障的边缘，就会自己燃烧起来。	任何蜘蛛只要稍稍靠近屏障的邊緣，就會著火。	蜘蛛が少しでも炎に近付けば、\nたちまち自然発火して朽ちていく。	거미들이 벽 주위에 살짝 부딪히기만 해도 스스로 타버린다. 	Any spider that dares approach its periphery spontaneously combusts.	
+144	N/A	火焰屏障的范围越来越大，就像在三维空间中燃烧一张二维平面上的画一般──	火焰屏障的範圍越來越大，就像在三維空間裡燃燒一張二維平面的畫一樣──	炎のバリアはさらに広がり、1枚の平面な\n絵のように3次元空間へと燃え盛る──	화염 장벽의 범위가 점점 커진다. 3차원 공간에서 2차원 평면 그림을 태우는 것처럼──	The flaming barrier continues expanding in range, like a 2D picture being burned in a 3D space.	
+145	N/A	仓库内的空间似乎被更高维度的烈焰所点燃，四周都闪烁着异样的白光。	倉庫似乎被更高維度的烈焰所點燃，四周都閃爍著異樣的白光。	炎が留まる事はなく、極度の熱が加速し続けて\n倉庫内の空間に広がっていく。\n周囲は異様な白い光で煌めいていた。	창고 안 공간이 더 높은 차원의 화염에 불을 붙이듯이 주위에 기이한 빛이 깜빡인다.	All remaining space in the warehouse seems to be gleaming in an eerie white light, as if ignited by flames coming from an even higher plane.	
+146	N/A	在难以名状的高维火焰中，仓库内的小蜘蛛开始迅速蒸发。	在無法形容的高維度火焰中，倉庫內的小蜘蛛開始迅速蒸發。	形容しがたい高次元の炎の中、\n倉庫内の蜘蛛達は跡形も残さず全てが蒸発する。	형언할 수 없는 고차원 화염 속에서 창고 안 거미들이 증발해버리기 시작한다.	That’s when all the small spiders seem to evaporate—	
+147	N/A	同时消融的，还有仓库四周的墙壁……	和蜘蛛一起消融的，還有倉庫的牆……	同時に、倉庫の壁も溶けていった……	동시에 창고의 벽이 녹아내린다……	And the warehouse walls evaporate with them too.	
+148	N/A	……	……	…………	……	...	
+149	N/A	头痛。	頭痛。	──頭痛がする。	머리가 아프다.	I have a headache.	
+150	N/A	剧烈的头痛。	劇烈的頭痛。	──猛烈な頭痛だ。	깨질 듯이.	A really serious headache.	
+151	N/A	又是那种把一袋水泥倒进我的脑袋里，然后慢慢搅拌……	又是那種把一袋水泥倒進腦袋裡，然後慢慢攪拌的感覺……	誰かが脳にセメントを流し込んで、\nじわじわとかき混ぜているかのようだ……	누군가 내 뇌에 시멘트를 들이붓고 천천히 휘젓는 것 같다……	Feels like a sack of cement in my brain, and someone’s stirring it. Feels familiar...	
+152	N/A	……	……	…………	……	...	
+153	N/A	睁开眼后，能看到头顶巨大的半弧形设备，那是播磨脑研的大脑潜入装置。	睜開眼後，我看到了正上方巨大的半圓形設備，那是播磨腦研的大腦潛入裝置。	目を開けると、頭上に巨大な半円形状の設備が\n見えた。\nこれは播磨脳研の脳潜入装置だ。	눈을 뜨자 정수리에 커다란 반부채꼴 장치가 보인다. 하리마 연구소의 대뇌 잠입 장치다. 	I open my eyes to an arc-shaped object over my head. I recognize it as Harima Tech’s brain-hacking device.	
+154	小怜	已经……过去多久了……	已經……過多久了了？	どれくらい……経ったんだ……	시간이……얼마나 지났지?……	How much time has passed...?	
+155	N/A	我揉着眼睛起身，打了个哈欠后向四处查看，病房的窗外依然是夜晚。	我邊揉眼邊起身，打了個哈欠後四處查看，病房的窗外依然是夜間景色。	目をこすりながら身体を起こして、\nあくびをしつつ周囲を確認する。\n病室から見える窓の外は、依然として夜だった。	눈을 비비며 일어나 하품을 하고 주위를 둘러봤다. 병실 창 밖은 여전히 밤이다.	I rub my eyes and get up, yawning as I look around the room. The city is still sleeping outside the window.	
+156	N/A	远处大楼顶部播放着《哔咔之星》45周年新版游戏的广告，粉红色的主角翱翔在蓝天中……	遠處大樓樓頂播放著《嗶咔之星》45週年新版遊戲的廣告，粉紅色的主角翱翔在藍天中……	遠くのビルの屋上には『てぃんくる・ぽぽ』\n45周年版のCMを流すスクリーン看板があり、\nピンク色の主人公が青空を飛び回っている。	저 멀리 빌딩 옥탑에서 《비카의 별》 45주년 신규 버전 게임 광고가 흘러나오고 있다. 핑크빛 주인공이 파란 하늘을 날아오르며……	The new ad for the forty-fifth anniversary of the Becca Star franchise is visible on top of a skyscraper in the distance. The pink main character soars in the blue sky, so happy and carefree.	
+157	N/A	我扭头看向另一张病床，金发小姑娘正趴在那边睡觉，口水顺着嘴角浸湿了一小片。	我轉頭看著另一張病床，金髮小女孩趴著睡得香甜，口水沿著嘴角浸濕了一小片床單。	振り返って別のベッドを見た。\n\n金髪の少女がファビオラの側で、\n口元によだれを垂らしながら寝ていた。	고개를 돌리자 금발소녀가 엎드려 자고 있다. 입가에 침이 조금 고여 있다. 	I twist my head to look at the hospital bed beside mine. The blond girl is sleeping face-down, drooling over the sheets.	
+158	N/A	虽然看不到被设备挡住的法贝拉的表情，但此时她的手正温柔地轻抚着斯库尔德柔顺的头发。	雖然被設備擋住了，我看不到法貝拉的表情，但她的手正溫柔地輕撫著斯庫爾德柔順的頭髮。	スクルドの髪を優しく撫でる手……\n設備に隔たれて、ファビオラの表情は見えない。	기기에 가려져 표정이 보이지 않지만 파비올라의 손이 스쿨드의 머리를 쓰다듬는다.	I can’t see Fabella’s expression as the equipment is in the way, but I can see her hand gently carding through Skuld’s soft hair.	
+159	N/A	我试着活动了一下胳膊，似乎做了个非常复杂的梦，脑子完全没有得到休息。	我試著活動一下筋骨，似乎做了個非常複雜的夢呢，腦子完全沒有得到休息。	俺は肩を動かしてみた。\n\nなんだか非常に複雑な夢を見てたような……\n頭が全然休まった気がしない。	팔을 이리저리 움직여 보았다. 매우 복잡한 꿈을 꾼 듯，뇌가 꽤 피곤하다.	I try to wriggle my arms a bit. I seem to have had a really complicated dream. My brain doesn’t feel well-rested at all.	
+160	N/A	法贝拉稍稍起身对我做了个“嘘”的手势，然后露出一个坏笑，小声朝我说──	法貝拉稍稍起身對我做了個「噓」的手勢，然後露出一個賊賊的笑容，小聲對我說──	ファビオラが少し身を起こすと、\n俺に「しっ」とジェスチャーをした。\nそれから悪戯じみた笑みを浮かべ、\n小声で──	파비올라가 조심스레 몸을 일으켜 "쉿" 자세를 취한 뒤，썩소를 날리며 작은 목소리로 말한다──	Fabella straightens up, holds a finger to her lips and smirks at me. She whispers:	
+161	法贝拉	你穿白色的丝袜也不错呢~	妳穿白色的絲襪也不錯呢～	白ストッキングのあんたも、悪くないわね。	흰색 스타킹도 꽤 잘어울리는데~?	Hey, you don’t look too bad in white stockings either.	
+162	小怜	……什、什么意思？？	……白色絲襪？ 什、什麼意思？ ？	……ど、どういう事？？	……무，무슨 뜻이야？？	... W-wait, what?	
+163	N/A	根据屏幕上的时间，我只睡了不到两个小时。	根據螢幕顯示，我只睡了不到兩個小時。	スクリーンに表示されてる時間によれば、\nたった2時間しか寝ていなかったようだ。	스크린의 시간에 따르면 나는 2시간도채 자지 않았다. 	According to the clock on the screen, I had been asleep for less than two hours.	
+164	N/A	爱衣提醒过，我醒来之后就会像做梦一样，将刚才的绝大部分经历都忘掉。	愛衣說過，我醒來之後就會將絕大部分的經歷忘掉，像作夢一樣。	目覚めると夢を見たような気分になり、\n夢の中の体験をほとんど忘れてしまうって\n愛衣は注意していたっけ。	일어나면 꿈을 꾼 것처럼 거기서 겪었던 것들의 대부분을 기억하지 못할 것이라고 아이가 얘기했었다.	Aya had told me that I would forget everything that happened during my brain-hacking session. Like it was just a dream.	
+165	N/A	这是莉琉对我的“特别关照”。	這是莉琉對我的「特別關照」。	これはマリルの「特別な配慮」だ。	이건 나에 대한 마리루의 “특별 대우”이다.	Mariru had made sure it was so.	
+166	小怜	（不就是个梦嘛，有什么了不起的……）	（不就是個夢嘛，有什麼了不起的……）	（ただの夢……どうって事ないか……）	（그저 꿈일 뿐이잖아. 뭐 그리 대단한 일이라고……）	(It was just a dream, right? Not a big deal!)	
+167	N/A	与此同时。	同一時間。	──同時刻。	이 시각.	<Meanwhile>	
+168	N/A	SID指挥室，加密频道通话。	SID指揮室，加密頻道通話。	──SID指令室、暗号化回線通話。	SID지휘실，기밀 영상 통화.	<Encrypted channel conversation, SID control room>	
+169	莉琉	那几个电子加密货币账户的实际控制人，你这么快就核实了？	妳這麼快就找出那幾個電子加密貨幣帳戶的實際擁有者了？	あの電子暗号化通貨口座の事実上の制御者を、\nもう突き止めたのか？	전자 기밀 화폐 계좌의 실제 관리자를 벌써 알아낸 건가?	So you’ve already verified the actual person behind the electronically encrypted account? You’re fast.	
+170	N/A@女性的声音	当然，确认无误。	當然，確認無誤。	もちろん、間違いないわ。	물론이지. 확실해.	Of course. It’s confirmed.	
+171	N/A@女性的声音	『帕兰蒂尔』的情报主任罗素一直欠我个人情呢。	「帕蘭蒂爾」的情報主任羅素一直都欠我人情呢。	『パランティア』情報主任のラッセルには、\nずっと貸しがあるからね。	『팔란티어』의 정보 주임 러셀이 내게 진 빚이 있거든.	Russel, Intelligence Department Director of Ritnalap, still owes me one.	
+172	N/A@女性的声音	不过话说回来，你是怎么搞到这种东西的？	話說回來，妳是怎麼搞到這東西的？	それにしてもコレ……どうやって手に入れたの？	그런 그렇고 어떻게 이런 걸 손에 얻은 거야?	Anyway, how did you get your hands on this thing?	
+173	莉琉	哼哼，商业秘密~	哼哼，商業機密囉～	ふふっ、そいつの情報開示はできないなぁ～～	흐응，상업 비밀이야~	It’s a trade secret, ha.	
+174	莉琉	对了，下个月你会和『董事会』的代表一起来参加国际和平论坛吧？	對了，下個月妳會和「董事會」的代表一起來參加國際和平論壇吧？	ところで、来月は『理事会』の代表と一緒に\n国際平和フォーラムに参加するのだろう？	아참，다음달에 『이사회』 대표와 국제 평화 포럼에 함께 참석한다며?	Anyway, you’ll be here for the International Forum of Peace next month with the other Committee representatives, right?	
+175	N/A@女性的声音	当然，想和老同学喝一杯叙叙旧？	當然，想和老同學喝一杯敘敘舊嗎？	古い学友と一杯飲みたいわけ？	물론，오랜 친구와 한 잔 하고 싶지 않아?	Yup. Want to grab a drink with your old friend?	
+176	莉琉	你不怕我又把你灌醉然后……	妳不怕我又把妳灌醉然後……	また酔わされて、あんな事やこんな事をされても\n平気ってわけだな……	넌 네가 취한 뒤가 겁나지 않나봐……	You’re not worried about getting drunk?	
+177	N/A@女性的声音	无聊！不想跟你说了。	無聊！ 不想跟妳說了。	ふん、下らない事を言って……話はお終いよ。	됐어！그만 얘기할래.	Shut up.	
+178	莉琉	哈哈哈哈，下次见咯──秋子。	哈哈哈哈，下次見啦──秋子。	ハッハッハ、また会おう────秋子。	하하하하，다음에 만나자──아키코.	Haha. Anyway, I’ll see you then. —Akiko	
+179	N/A	这边刚结束通信，莉琉就收到另一条视频邀请。	才剛結束通訊，莉琉就收到另一則視訊邀請。	マリルが通信を終えた直後、\nすぐに別のビデオ通話の要請が届く。	통화를 끝낸 마리루가 또 다른 영상 통화를 받는다.	The conversation has just ended, and Mariru has already received another videochat invitation.	
+180	N/A	屏幕上出现一个身着白色衬衫的女性。	螢幕上出現一個穿著白色襯衫的女性。	モニターに映っているのは、白いワイシャツを\n着た女性だ。	스크린에 흰색 셔츠를 입은 여자가 보인다.	A woman in a white shirt appears onscreen.	
+181	莉琉	状况如何？	情況如何？	──状況はどうだ？	상황은 어때?	How’s things going?	
+182	贝阿特丽切	纽摩利达斯大使馆的哈格蒂大使完全接受我们的剧本，并十分乐意配合。	紐摩利達斯大使館的哈格蒂大使完全接受我們的劇本，而且十分樂意配合。	ニューモリダス大使館のハグディー大使は、\n私達が提案したシナリオを、\n喜んで受け取ってくれたわ。\nそれこそ、こちらに協力は惜しまないと。	모리다스 대사관의 하갈티 대사가 우리의 대본을 받아들였어. 흔쾌히 도와주겠다더군.	Ambassador Haggerty from the Newmoridas Embassy is happy to go along with our plans.	
+183	莉琉	你那边进展的很顺利嘛。	看起來，妳那邊進展的很順利嘛。	そっちは上手くいっているようだな。	그쪽도 꽤 순조롭구나.	So everything’s going well over there, I see.	
+184	贝阿特丽切	呵呵，这些小伙子们都很可爱呢。	呵呵，這些小夥子都很可愛呢。	うふふ、こちらの若い子達はみんな可愛いわ。	하하，그 녀석들 엄청 귀엽던데? 	Yep. Those kids sure are adorable.	
+185	贝阿特丽切	尤其是那个叫卡塞尔的队长……\n我还没解除手环，他就殷勤的不得了~	尤其是那個叫卡塞爾的隊長……\n我都還沒解除手環，他就不斷地獻殷勤～	特にあの隊長さん……\nキャセールって名前だったかしら……\nブレスレッドを解除する前から、\n私に親切にして下さるのよ……？	특히 칼이라는 대장……\n내가 팔찌를 풀기도 전에 비위를 맞추더라고~	Especially that Captain Cassel...\nI hadn’t even removed the bracelet and he was already super eager.	
+186	莉琉	因为你的“说服力”太强了……	那因為妳的「說服力」太強了……	お前の『説得力』が高過ぎるからだ……	네 강한 “설득력”때문이겠지……	You’re just very “persuasive”, I suppose.	
+187	莉琉	总之辛苦你了~	總之辛苦妳了。	とりあえず、ご苦労だったな。	어쨌든 수고했어~	Anyway, thanks for the hard work.	
+188	贝阿特丽切	哪里，是我主动要求介入此次事件的。	妳太客氣了，是我主動要求介入此事件的。	礼には及ばないわ。\n今回は私が自ら介入を希望したわけだから。	뭘，내가 먼저 이 일에 개입한 건데.	No big deal. I asked to be part of this myself.	
+189	贝阿特丽切	我们只是，各取所需。	我們只是，各取所需罷了。	たまたま欲しいモノが、そこにあっただけよ。	우리는 그저 각자의 필요를 채우는 것뿐이야.	It’s a win-win situation for both of us.	
+190	N/A	大屏幕上突然弹出一个病房监视器的视频窗口。	大螢幕上突然彈出一個病房監視器的監視影像。	大きなスクリーンに、病室の監視カメラ映像が\n表示された。	큰 스크린에 갑자기 병실 감시 카메라 영상이 팝업된다. 	A window displaying surveillance footage of a hospital ward pops up.	
+191	N/A	屏幕中斯库尔德抱着病床上的法贝拉哭个不停，而爱衣正把小怜按在床上做着强制检查。	螢幕中，斯庫爾德抱著醒來的法貝拉哭個不停，愛衣則正把小憐按在床上強制檢查。	ベッドのファビオラに抱き付いて泣き止まない\nスクルド。\nそして愛衣に押し倒され強制検査を受けている\nレンの姿。	스쿨드가 병상 위 파비올라를 안으며 울고 있고 아이는 렌을 억지로 눕혀 검사하고 있다. 	Skuld is bawling in the arms of a wide-awake Fabella, and Aya is holding Ren down on a bed, checking over his vitals.	
+192	N/A	视频下面有一行留言：“任务完成，两人的身体和精神状态正常~”	影片下面有一行留言：「任務完成，兩人的身體和精神狀態都正常～」	画面の下方に出ている文字列は……\n『任務完了、2人の身体及び精神に異常なし』	영상 아래 메시지가 표시된다：\n“임무 완료，두 사람의 신체와 정신 상태 모두 정상~”	Under the footage is a message: “Mission successful! Both target and agent are unharmed physically and mentally.”	
+193	N/A	莉琉的脸上露出满意的微笑。	莉琉的臉上露出滿意的微笑。	──マリルは満足そうに微笑んだ。	마리루가 만족스런 미소를 짓는다.	Mariru smiles, satisfied.	
+194	N/A	……	……	…………	……	...	
+195	N/A	几天后。	幾天後。	──数日後。	며칠 후.	<A few days later>	
+196	法贝拉	所以，一会要去你们的学校参观吗？	所以，晚點要去妳們學校參觀嗎？	……と言うわけですので、\n後で学校見学に行きますからね？	그러니까 너희들 학교를 참관해야 한다고? 	So, we’re gonna visit your school in a bit?	
+197	N/A@小怜 	嗯嗯，等我刷个牙……	嗯嗯，不過先等我刷個牙……	うう……ちょっと待って、歯磨きするから……	응응，우선 양치 좀 할게……	Yeah. Let me brush my teeth first.	
+198	伊露卡	小怜姐姐好慢。	小憐姐姐好慢。	レン姉ちゃん、おそい。	렌 언니는 너무 느려.	Miss Ren, what’s taking you so long?	
+199	斯库尔德	没、没关系，预约的时间还要90分钟呢~\n而且吃了东西以后，确实应该好好…刷、刷牙……	沒、沒關係，距離預約的時間還有90分鐘呢～\n而且吃了東西以後，確實應該好、好好地刷、刷牙……	だ、大丈夫だよ。\n予約している時間まで、後90分もあるから～～\nそ、それに、食事の後はちゃんと……\nはは、歯磨きしないとね……	괘，괜찮아，아직 90분이나 남았는 걸~\n그리고 밥을 먹었으니 양치를 해야지……	It’s f-fine, we’ve still got 90 minutes before the scheduled time!\nAnd... and we should brush our teeth after we eat, shouldn’t we?	
+200	N/A	斯库尔德有些颤抖的帮我打着圆场。	斯庫爾德用顫抖的聲音幫我打了圓場。	スクルドは震える声で、俺をフォローする。	스쿨드가 떨리는 목소리로 분위기를 수습한다.	Skuld attempts to stand up for me, though she’s quaking in her boots herself.	
+201	法贝拉	小怜是对我的料理有什么不满吗？	小憐，妳對我的料理有什麼不滿嗎？	……私の料理に不満があるのですか？	렌은 내 요리에 불만이 있나봐?	I see you’re dissatisfied with my cooking, Ren?	
+202	N/A	法贝拉用毫无掩饰的威胁语气说道。	法貝拉用毫不掩飾的威脅語氣說道。	ファビオラは、あからさまな脅迫をしてきた。	파비올라가 위협적인 어투로 얘기한다.	Fabella asks, not even bothering to hide her threatening tone.	
+203	N/A@小怜	──绝！对！没！有！	──絕！ 對！ 沒！ 有！	──ありませんッ！　決してッ！　何もッ！	──절！대！없！어！	No! No! A hundred percent satisfied!	
+204	N/A	法贝拉今天带来了她的“特制料理”作为答谢。	法貝拉今天帶了她的「特製料理」作為答謝。	先日のお礼としてファビオラが、\n「特製料理」を作りにきた。	파비올라가 감사의 뜻으로 “특제요리”를 가져왔다. 	To thank us for getting her out of the coma, Fabella brought us her “super-special dish” today.	
+205	N/A	大章鱼触手、番茄、深海鱼类、大葱之类完全不知该如何互相搭配的食材……	大章魚觸手、番茄、不知名的深海魚、大蔥等，完全不知該如何搭配的食材……	大蛸の触手、トマト、深海魚、白ネギなどを\n組み合わせた、全く新しい料理であった……	문어 다리，토마토，심해어，파 같은 전혀 서로 어울리지 않는 식재료들……	Octopus tentacles, tomatoes, deep-sea fish, leek... all of them, in the same bowl.	
+206	N/A	全部混合在难以名状的粘稠紫色汁液中……还在不断浮上气泡。	而這些食材全都混合在黏稠的紫色汁液中，紫色湯汁還不斷冒出泡泡！ ！	妙な粘り気のある紫のスープに、この材料達を\n全て放り込み……\n沸騰現象以外での気泡がスープに現れ、\nその様は形容し難い物質と化してしまっていた。	전부 섞어 넣은 괴상하고 진득한 보라색 액체에서는…… 여전히 거품이 일어난다. 	Doused in a generous amount of sticky, gooey purple sauce that keeps bubbling.	
+207	N/A	我只尝了一口，就好像看到一条大河，河对岸有个老奶奶在招我过去……	我只嘗了一口，就好像看到了奈何橋，橋的彼端有個老奶奶用和藹的微笑招手叫我快點過去……	ほんの一口舐めただけで、眼前に大きな川が\nスーッと広がり、\n向こう岸では、見知らぬおばあちゃんが\n手招きして俺を呼んでいた……	한 입 먹는 순간，강 건너편에서 내게 손짓하는 할머니를 본 것 같다……	I took just one bite and it felt like I was standing by the river Styx, ready to join the ranks of the dead.	
+208	N/A	冲进洗手间已经二十分钟了，不知是不是心理作用，到现在那股味道还萦绕不去。	衝進洗手間已經二十分鐘了，不知是不是心理作用，那股味道到現在還揮之不去。	トイレに駆け込んで早20分経つが、未だにあの\n強烈な臭いが体内中に残っているような感覚……	화장실에 들어온 지 벌써 20분，심리적인 건지 모르겠지만，아직까지 맛이 느껴진다.	I’ve been in the bathroom puking my guts out for the past twenty minutes. It may just be my imagination, but that horrible taste is still lingering in my mouth.	
+209	N/A	该不会……那个味道已经刻在灵魂里了？！	怎麼刷牙都沒用啊，該不會……那個味道已經刻在靈魂裡了？ ！	もしや……あの味が俺の魂に刻み込まれて\nしまったのだろうか！？ 	설마……그 맛이 영혼까지 스며들어갔나？！	Perhaps it’ll stay with me for the rest of my life?	
+210	安妮	小怜呀~	小憐呀～	レ～ンちゃん～～！	렌~	Ren!	
+211	N/A@小怜	唔？	嗯？	うん？	응?	Huh?	
+212	安妮	以后拍这种照片的时候，要把镜头拉远一点，更贴近胸口一些。	以後拍這種照片的時候啊，鏡頭要拉近一點，更靠近胸口一點。	こういう写真を撮る時は、携帯を胸元に寄せて\nもっとレンズを遠ざけなきゃダメだよ？	앞으로 이런 사진을 찍을 땐 렌즈를 멀리 두고 가슴을 더 내밀어봐.	In the future, when you take pics like this, remember to hold the camera further away from you, around chest height.	
+213	N/A@小怜　	什么照片……	什麼照片……	何の写真だ……	사진이라니……	What pics?	
+214	小怜	啊啊安妮你又看我手机──！！	啊啊安妮妳又偷看我手機──！ ！	ああッ！？\nアニー、お前また俺の携帯を――ッ！！	으악 앤! 너 또 내 휴대폰 봤지──！！	Annie! Get your grabby hands off my phone!	
+215	N/A	我冲到客厅，发现安妮正卧在沙发上玩我的手机。	我衝到客廳，發現安妮正趴在沙發上玩我的手機。	リビングに駆け込むと、アニーがソファーで\n寝転びながら、俺の携帯をいじっている。	거실로 달려나가니，앤이 소파 위에 엎드려 내 휴대폰을 보고 있다. 	I dash into the living room to find Annie lounging on the sofa, playing with my phone.	
+216	N/A	屏幕上正是前几天我穿女仆装练习的时候，偷偷拍的那张。	螢幕上顯示的是前幾天我穿女僕裝練習時，偷偷拍下的那張。	画面には先日、俺がメイド姿で練習した時に\nこっそり撮ったあの写真が……	화면에는 며칠 전 메이드복을 입고 연습했을 때 몰래 찍은 사진이 떠있다.	And on the screen is the selfie I took when I was practicing in my maid costume.	
+217	N/A	更糟的是，斯库尔德、法贝拉和伊露卡都凑过去围观着……	更慘的是，斯庫爾德、法貝拉和伊露卡都湊過去看了！ ！！ ！	しかも、スクルド、ファビオラ、イルカまでもが\n俺の携帯を囲んで画面を見ていて……	더 최악인 건 스쿨드，파비올라，이카루도 사진을 구경하고 있다……	What’s worse, Skuld, Fabella and Elluka have all crowded over to look at it.	
+218	N/A	这是今天的公开处刑吗！！！	這是公開處刑嗎！ ！！	これが本日の公開処刑か！！！	오늘이 공개 처형의 날인가！！！	What did I do in my past life to deserve this?	
+219	安妮	谁让你的密码那么好猜~	沒辦法，妳的密碼太好猜啦～	レンちゃんのパスワードが分かりやすいのが\n悪いんだよ～～	누가 너더러 이렇게 쉬운 비밀번호를 설정하래~	Your password was way too easy to guess!	
+220	N/A	安妮一幅得意的表情说道。	安妮用一副得意的表情回應。	アニーは得意げに言った。	앤이 득의양양한 표정으로 얘기한다.	Annie remarks, looking proud of herself.	
+221	安妮	下次按我说的方法，会显得腿更修长哦。	下次記得照我說的方法拍，腿看起來會更長哦。	次からは私の言った方法で撮ってよね。\nもっと足がスリムに見えるから。	다음에 내가 얘기한 방법대로 찍으면 다리가 더 길어보일 거야. 	Next time snap the pic the way I taught you. Your legs will look longer that way.	
+222	法贝拉	对呀，其实裙子应该再拉高一点，反正这个视角别人也看不出来──	對呀，其實裙子應該再拉高一點，反正這個視角別人也看不出來──	そうですね、\nスカートはもっと短くするべきですっ！\nどうせこのアングルなら誰に見られても\nバレませんから──	아참，치마를 더 잡아올리는 게 좋겠다. 이 각도에서는 티나지 않을 테니──	Yeah. And you can pull your skirt up higher. No one would be able to see underneath it anyway from this angle.	
+223	斯库尔德	打开美颜的话效果会更好呢~	開美肌的話效果會更好呢～	美顔機能で撮ると、さらに綺麗になるよ～～！	뽀샵질을 좀 하면 효과가 더 좋지~	And you can try some selfie retouching apps too.	
+224	伊露卡	喔~~~哦哦！	喔～～哦哦！	おぉぉ～～ほぅ、ほぅ！	오~~우와！	Ooh!	
+225	N/A	伊露卡听她们说话好像都很厉害的样子，不停的点着头。	伊露卡被她們似是而非的話唬得一愣一愣，還佩服地點著頭。	イルカは彼女達の話を聞き、感心した様子で\nしきりに頷いている。	이카루가 그녀들의 말을 들으며 계속해서 고개를 끄덕인다. 	Elluka keeps nodding, as if she’s fascinated by all the selfie tips from the older women.	
+226	小怜	我就是……偶尔…碰巧…拍一下……	我就是……偶爾……碰巧……會拍一下……	それは……俺が……偶然……\n撮ってしまっただけで……	난 그냥………어쩌다…찍은 것뿐이야……	It was just... a casual... snap...	
+227	小怜	完全不想知道这些知识啊啊！！	完全不想知道這些知識啊啊！ ！	そんな知識全く知りたくないからッ！！	그런 방법따위 전혀 알고 싶지 않다고！！	Why do I need all these selfie tips anyway?	
+228	安妮	对了，你家里人同意你留在新丰洲了吗？	對了，妳家人同意妳留在新豐洲了嗎？	そうだ、新豊洲に残るって話だけど、\nスクルドちゃんの家族は同意してくれたの？	아참，네 가족들은 네가 신토요스에 남는 걸 허락하셨어?	Oh, right, have your parents agreed to let you stay in New Opulentia?	
+229	斯库尔德	嗯……莉琉好像很轻松的就说服了父亲呢。	嗯～莉琉好像很輕鬆地就說服了父親呢。	うん、マリルがあっさりパパを説得しちゃった\nみたい。	응……마리루가 우리 아버지를 잘 설득한 모양이야.	Mariru convinced Father real quickly. It seemed so easy...	
+230	小怜	（不不，被她说服，你老爸绝不会觉得轻松……）	（不不，被她說服，妳老爸絕不會覺得輕鬆……）	（イヤイヤイヤ…マリルに説得されたんだ……）\n\n（お父さん……相当苦労したと思うぞ……）	（아니，마리루에게 설득당한 네 아버지는 불편하셨을 거야……）	(It was definitely not easy for your father...)	
+231	斯库尔德	──而且，多亏了小怜姐姐。	──而且，多虧了小憐姐姐。	──それにレンお姉ちゃんのおかげでもあるの。	──렌 언니 덕분이야. 	Also, Miss Ren helped a lot too!	
+232	N/A	斯库尔德对我露出一个太阳般温暖的微笑。	斯庫爾德對我露出一個太陽般溫暖的微笑。	スクルドは太陽のような暖かい笑顔を\n俺に向けてくれた。	스쿨드가 날 향해 태양처럼 따뜻한 미소를 짓는다. 	Skuld flashes me a smile as bright as the sun.	
+233	法贝拉	你真的……什么都不记得了？	妳真的……什麼都不記得啦？	あんた……本当に何も覚えていませんの？	너 정말……아무것도 기억나지 않아?	You really don’t remember a thing, huh?	
+234	小怜	嗯……完全是一片模糊，你还都记得吗？	嗯……完全是一片模糊，妳都記得嗎？	うん、何もかもが不明瞭な感じでさ……\nファビオラは覚えている？	응……전혀. 넌 기억나?	Uh, it was all a blur... wait, do YOU remember?	
+235	法贝拉	我也只是好像做了个印象清晰的梦，梦里还见到一些故人……	我也記不清楚，就像做了個清晰而真實的夢，夢裡見到了一些老朋友……	覚えていると言うよりは、印象的な夢を見た\n感じですね……\nすでに旅立った人達にも、\n夢の中で会えましたし……	나도 인상이 뚜렷한 꿈을 꾼 것 같아. 꿈에서 옛 친구를 만났는데……	All I remember is that I had a dream that left a huge impression on me. And I met some old friends in the dream too...	
+236	N/A	法贝拉脸上略过一丝悲伤的表情。	法貝拉臉上掠過一絲悲傷的表情。	──ファビオラは一瞬、悲しい表情を浮かべた。	파비올라가 잠시 슬픈 표정을 짓는다.	Fabella looks slightly melancholy at that.	
+237	法贝拉	不说啦不说啦~~	不說啦不說啦～～	この話はおしまいにしましょうっ！\nおしまいおしまいっ！	그만 얘기하자~~	Anyway, that’s all in the past now!	
+238	法贝拉	从这里走到你们的学校只要15分钟吧？\n那还有些时间呢……	從這裡走到妳們學校只要15分鐘吧？ \n那我們時間還夠……	ここからあなた達の学校まで、\n歩いて15分ぐらいでしょうか？\nそれなら、まだ時間がございますね……	여기서 너네 학교까지 15분이면 된댔지? \n그럼 시간 좀 있네……	It takes fifteen minutes to walk to your school, right?\nWe still have some time...	
+239	N/A	法贝拉走向阳台，望向窗外城市的风景。	法貝拉走向陽台，看著窗外的市景。	ファビオラはバルコニーに出ると、\n窓から街の景色を眺めた。	파비올라가 발코니로 걸어가 창밖 도시 경치를 바라본다.	Fabella wanders over to the balcony and gazes down at the sprawling city out there.	
+240	法贝拉	这里的风景真不错呢……	這裡的景色看起來真不錯呢……	ここは、中々良い景色ですね……	여기 경치가 정말 좋다……	The view is nice here.	
+241	伊露卡	小怜姐姐，我想打游戏。\n《哔咔之星》！	小憐姐姐，我想玩遊戲。 \n《嗶咔之星》！	レン姉ちゃん、ゲームしたい！\n『てぃんくる・ぽぽ』したい！	렌 언니，나 게임 하고 싶어 \n《비카의 별》！	Miss Ren, I wanna play a video game.\nLet’s play Becca Star!	
+242	小怜	咱们一会就出门了……\n好啦好啦，就陪你玩一会~	啊，但是我們馬上就要出門了……\n好吧！ 只能玩一下下喔～	これから出かけるんだけどな……\n\n分かった。ちょっとだけだぞ～～？	조금 있다 나가야 하는데……\n알았어，그럼 조금만 하는 거다~?	We’ll be leaving soon, though...\nOkay, okay, fine. Let’s play!	
+243	N/A	……	……	…………	……	...	
+244	N/A@法贝拉	啊啊啊啊啊啊！！！	啊啊啊啊啊啊！ ！！	うぁぁああああッッ！！？！？	으아아아아！！！	Aaaahhhh!	
+245	N/A	阳台突然传来法贝拉的大叫声。	陽台突然傳來法貝拉的尖叫聲。	バルコニーから突然、\nファビオラの大絶叫が聞こえてくる。	발코니에서 갑자기 파비올라의 비명소리가 들려온다. 	Fabella, who’s on the balcony, suddenly starts screaming.	
+246	小怜	怎么了？？！	怎麼了？ ？！	どっ、どうしたッ！？？	왜 그래？？！	What’s wrong?	
+247	法贝拉	有蜘蛛──！！！	有蜘蛛──！ ！！	蜘蛛よ――ッッ！！！	거미──！！！	A spider!	
+248	N/A	法贝拉指着阳台角落的蜘蛛网，立刻从腿上拔出手枪打算射击。	法貝拉指著陽台角落的蜘蛛網，立刻從腿上拔出手槍準備攻擊。	ファビオラはバルコニー隅に張られている\n蜘蛛の巣を指差すと、\n太もものホルスターから銃を抜いて、\n射撃を開始した。	파비올라가 발코니 구석 거미줄을 가르키며 총을 꺼내 사격 자세를 취한다. 	Fabella shrieks, pointing at the spider web at the corner of the balcony. She pulls out a gun from her thigh holster and aims.	
+249	斯库尔德	法贝拉！不可以在别人家用武器哦！	法貝拉！ 不可以在別人家開槍喔！ ！	ファビオラっ！　人のお家で武器はダメよっ！	파비올라！다른 사람 집에서 무기를 사용하면 안돼! 	Fabella! This is somebody’s home! You can’t use weapons here!	
+250	安妮	哇！那是P226吗？\n好帅气──！	哇！ 那是P226嗎？ \n好帥氣──！	うわぁっ！　それってP226じゃないっ？\n超カッコいい――っ！	와！그거 P226이야？\n엄청 멋있다──！	Whoa, is that a P226?\nThat’s so cool!	
+251	伊露卡	喔~~帅气！	喔～好帥氣！	おぉ～～っ！　かっこ～いい～！	와~~ 멋있다!	Wow, it looks badass!	
+252	小怜	拜托，饶了我吧……	拜託妳們，饒了我吧……	もう、勘弁してくれ……	제발，좀 봐주라……	Aw, give me a break...	
+253	N/A	……	……	…………	……	...	
+254	N/A	看着小怜和嬉闹的众人，斯库尔德闭上了眼睛。	看著小憐和嬉鬧的眾人，斯庫爾德閉上了眼睛。	レンと盛り上がる友人達を見て、スクルドは\n目を閉じた。	렌과 즐겁게 떠드는 사람들을 보며 스쿨드가 조용히 눈을 감는다.	While Ren and the rest of them are bickering, Skuld closes her eyes.	
+255	N/A@斯库尔德	小怜姐姐……	小憐姐姐……	レンお姉ちゃん……	렌 언니……	Miss Ren...	
+256	N/A	我记得在一阵白光之后，看到了你的脸──	我記得在一陣白光之後，看到了妳的臉──	記憶の中……白い光のあと、\nあたしはあなたの顔を見た……	한줄기 빛이 비추는 순간 언니의 얼굴을 봤어──	I remember seeing your face after a flash of white light.	
+257	N/A	虽然只是一瞬，但我绝对不会记错。	雖然只是一瞬間，但我絕對不會記錯。	ほんの一瞬だったけど、間違えるはずがない。	비록 찰나였지만，절대 착각이 아니야. 	It was only for less than a second, but I never remember wrong.	
+258	N/A	只是和我印象中的样子──	只是，妳和我印象中的樣子──	ただ、あたしの記憶の中の姿と──	단지 내 기억 속 언니 모습과──	But you look slightly different...	
+259	N/A	稍稍有点不同呢……	稍稍有點不同呢……	「ちょっと」違ったけどね…………	조금 다를 뿐이야……	... from how I remember you.	

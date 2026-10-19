@@ -1,0 +1,118 @@
+﻿1	N/A	房间里的光芒已完全消失，倒在地上的女官和侍卫长丝毫没有苏醒的迹象。	房間裡的光芒已完全消失，倒在地上的女官和侍衛長絲毫沒有甦醒的跡象。	明かりは完全に消え、倒れている女官達と\n近衛隊隊長は全く目覚める気配がない。		The light in the room has completed disappeared. There's no sign the Chief Guard and officers will wake up any time soon.	
+2	N/A	小怜像鸵鸟一样撅在墙角，垂下的头发挡在脸上。	小憐像鴕鳥一樣縮在牆角，垂下的頭髮遮住了臉龐。	変な人間っぽい生物は、垂れた髪の毛で\n顔を隠しつつ、壁の隅でうずくまってた。		Ren is positioned in the corner, hair covering her face.	
+3	N/A	金发少女蹲下来，试探性用权杖的尖端戳了戳那只“不明生物”翘起来的屁股。	金髮少女蹲下來，試探性地用權杖的尖端戳了戳那隻「不明生物」翹起來的屁股。	オーガスタはしゃがみ込んで、王笏の先端で\n恐る恐る不明生物のお尻をつつく。		The blond girl squats down, then pokes the butt of the "unknown creature" with her scepter.	
+4	N/A	只见那东西全身条件反射似的颤抖了一下，同时发出“咿！”的叫声。	只見那東西全身反射性地抖了一下，同時發出「咿！」的叫聲。	その生物は条件反射のように震えると、同時に\n「キャウ！」という可愛い叫び声を発した。		The "creature" gives a little shiver and makes a sound.	
+5	奥古斯塔	居、居然……	居、居然……	なっ……まっ、まさか……		My "summoned beast"...	
+6	奥古斯塔	是女孩子？	是女孩子？	これ……女の子……？		Is a girl?	
+7	奥古斯塔	（难道不是瓦格纳老师说的那个人……）	（難道不是華格納老師說的那個人……）	（これはワーグナー先生が言っていた\n 『あの人』なのか……？）		(That means, she can't be the person my teacher Wagner mentioned...)	
+8	N/A	少女回想起教自己文学和历史的家庭教师。	少女回想起教自己文學和歷史的家庭教師。	オーガスタは自身に文学と歴史を教えてくれた\n家庭教師の事を思い出す。		Augusta thinks of Wagner, her literature and history teacher.	
+9	N/A	瓦格纳老师在留给她的手抄本中反复提及一个人。	華格納老師在留給她的手抄本中反覆提及一個人。	ワーグナー先生が残してくれた写本の中には、\n『とある人物』が何度も登場していた。		In the hand-written book Wagner left her, there's one person mentioned multiple times.	
+10	N/A	“终有一日，少年将于圣光中降临，效忠并拯救万岁胜者桂冠之主。”	「終有一日，少年將於聖光中降臨，效忠並拯救萬歲勝者桂冠之主。」	「いつの日か、聖なる光の中から少年が降臨し、\n 帝冠を戴く者に忠誠そして救いを齎さん」		"One day, a young man will descend amid the holy light, pledging his loyalty and saving the owner of Kaiser's Scepter."	
+11	N/A	虽然那本书用词晦涩难懂，而且不久后瓦格纳还因为“精神问题”被送去了巴伐利亚疗养院。	雖然那本書用詞晦澀難懂，而且不久後華格納還因為「精神問題」被送進了巴伐利亞療養院。	写本は難解な言葉ばかりが使われていて、\n理解のし辛い物だった。\n当のワーグナー先生も「精神的な問題」により\nバイエルン療養院に入院してしまった。		Though the words used in the book were almost incomprehensible, and Wagner was sent to a hospital in Bavaria for having "mental problems,"	
+12	N/A	但『万岁胜者桂冠』确实是她家族代代相传权杖的名字，这让少女一直对书中的预言深信不疑。	但「萬歲勝者桂冠」確實是她家族代代相傳權杖的名字，這讓少女對書中的預言一直深信不疑。	それでもオーガスタは写本に記されている預言を\n深く信じていた。\nなぜなら「ジーガークランツ」は間違いなく\n王家代々に伝わる王笏の名前であったからだ。		Kaiser's Scepter is indeed her family's heirloom. For that reason, Augusta has always believed the prophecies in the book.	
+13	N/A	奥古斯塔不知幻想过多少次与少年相遇的情景，但绝不是像今天这样──	奧古斯塔不知幻想過多少次與少年相遇的情景，但絕不是像今天這樣──	何度も少年に会う情景を思い描いたオーガスタで\nあったが、結果として出て来たのは……		She's already dreamt countless times about how she'd meet the young man. But not once had she imagined it would be like what she's witnessed today.	
+14	N/A	况且这个穿着丝袜的家伙怎么可能是少年啊！	況且，這個穿著絲襪的傢伙怎麼可能是少年啊！	……いや絶対に違う！\n\nこんなストッキングを履いているのが、\n私の思い描いた『あの人』なわけがない！		Besides, this girl in stockings can't a young man!	
+15	N/A	小怜双手撑地缓缓抬起头，强忍着剧烈的晕眩感，眯起眼睛环视四周。	小憐雙手撐地緩緩抬起頭，強忍著劇烈的暈眩感，瞇起眼睛環視四周。	召喚された少女は両手で地面を支えながら\nゆっくりと頭を上げた。\n目を細めて周囲を確認する様子は、猛烈な眩暈を\n感じているように見える。		Hands on the floor, Ren slowly raises her head. Still in pain, she starts to observe her surroundings.	
+16	小怜	这是……哪啊？	這是……哪啊？	……ここは……どこだ？		Wh- where am I?	
+17	N/A	这里与刚才的卧室有几分相似，但肯定不是同一个房间──	這裡和剛才的臥室有點像，但一定不是同個房間──	さっきの部屋と似てはいるが、\n絶対に同じ場所ではない──		It looks like the bedroom from earlier, but it can't be the same room.	
+18	N/A	温度忽然凉爽了许多，地毯也变成了地板，那股灰尘和淡淡的霉味也被柠檬罗勒味的熏香替代。	氣溫變得涼爽多了，地毯也變成了地板，那股灰塵和淡淡的霉味也被檸檬羅勒的薰香取代。	気温は少し下がっていて絨毯が敷かれていた床も\nフローリングに変わっている。\n埃やカビの淡い匂いも、レモンとバジルの\n良い匂いがするアロマに変わっていた。		It's much cooler here. And there's no carpet on the floor. The dusty, moldy smell is gone, too, replaced by lemon and basil flavored incense.	
+19	N/A	小怜揉着屁股慢慢坐起来，一旁的奥古斯塔难掩失望。	小憐揉著屁股慢慢坐起來，一旁的奧古斯塔難掩失望。	少女はお尻を揉みながらゆっくりと座り込む。\n\n一方、隣にいるオーガスタは分かりやすく\n落ち込んでいた。		Ren slowly sits up. Meanwhile, Augusta seems very disappointed.	
+20	N/A	那迷离的眼神、柔软的腰肢和凌乱的头发──活脱脱一幅无助少女的模样。	那迷離的眼神、柔軟的腰身和凌亂的頭髮──完全是一副無助少女的模樣。	虚ろな眼差し……\nしなやかな体形に乱れた髪……\n……どう見ても頼りにならない少女である。		Dull eyes, weak waist muscles, and messy hair... Everything suggests Ren is nothing but a hopeless girl.	
+21	奥古斯塔	（她……是被我召唤出来的吗？）	（她……是被我召喚出來的嗎？）	（彼女は……私が召喚したのか？）		(Did I really summon her?)	
+22	奥古斯塔	（看起来好弱……）	（看起來好弱……）	（率直に言えば……）\n\n（超が付くほど弱そうなんだが……）		(She looks weak...)	
+23	N/A	不过至少，应该会听命于我吧。	不過，至少應該會聽命於我吧。	──まぁ、少なくとも、私には従うだろ。		But at least, she'll follow my orders?	
+24	N/A	想到这里，奥古斯塔轻咳了两下。	想到這裡，奧古斯塔輕咳了兩下。	そう考えるとオーガスタは軽く咳払いをした。		Thinking of this, Augusta clears her throat.	
+25	小怜	诶？\n你、你是……	欸？\n你、你是……	あれ？\nきっ、君は……！？		Hmm...\nWho're you?	
+26	N/A	穿着军礼服的少女刚准备展示出王者的威严，却忽然被小怜扑过来一把抱住大腿。	穿著軍禮服的少女才準備要展現王者的威嚴，卻忽然被小憐撲過來一把抱住大腿。	オーガスタが物々しい軍服の礼装を笠に、\n王として威厳を見せつけようとしたその時──\n──突然少女が飛んで来るかのごとく\n抱き着いてきた。		Just when Augusta, Her Highness in military uniform, is about to give an order, Ren approaches her and clings to her leg.	
+27	小怜	小妹妹，你、你知不知道刚才怎么回事？？！	小妹妹，妳、妳知不知道剛才是怎麼回事？？！	お、お、お、お嬢ちゃん。\nさっき何が起きたか分かるか！？		Do you know what just happened, little girl?	
+28	小怜	那个彩蛋……\n诶──怎怎怎么怎么地上还躺着好几个？！！	那個彩蛋……\n欸──怎怎怎麼怎麼地上還躺著好幾個？！！	ええと、あのイースター・エッグは……\n\nってうおぉぉ――！？\nな、なっ、なんでこんなに倒れてる人がッ！！？		Is the easter egg still in one piece?\nHuh? There are several eggs on the floor!	
+29	N/A	看着小怜半跪在地板上手足无措的样子，奥古斯塔挣脱并皱着眉头后退几步。	看著小憐半跪在地板上手足無措的樣子，奧古斯塔掙脫並皺著眉頭後退幾步。	少女は相当、混乱しているみたいだ。\n\nオーガスタは少女の腕の中から抜け出し、\n眉をひそめながら後ろに下がっていく。		Seeing Ren confused on the floor, Augusta breaks free and steps back, frowning.	
+30	奥古斯塔	（如此不矜持，该不会是乡下来的吧……）	（這麼不矜持，該不會是鄉下來的吧……）	（な、なんと無礼な……）\n\n（こいつまさか辺境から……）		(Who acts like this? She doesn't seem to come from a civilized society...)	
+31	N/A	少女转过身背对着小怜，看着她那副花容失色的蠢样实在没法严肃的报出名号。	少女轉過身背對著小憐，看著她那副花容失色的蠢樣，實在無法嚴肅地報出名號。	オーガスタは少女に背を向けた。\n\nあんな馬鹿げた表情を浮かべている奴の前で\n厳粛に名乗る事になるとは。		Augusta turns around, her back facing Ren. It's impossible for her to introduce herself in front of the silly-looking Ren.	
+32	奥古斯塔	咳咳──\n听好了……	咳咳──\n聽好了……	んっん――\n\nよーーーく聞け……		*ahem*\nListen up!	
+33	N/A	你这只愚蠢的召唤兽。	你這隻愚蠢的召喚獸。	このバカ召喚獣め。		You silly summoned beast.	
+34	奥古斯塔	吾乃被授予天命的霍亨索伦家族的后裔，普鲁士的女王──	吾乃被授予天命的霍亨索倫家族的後裔，普魯士的女王──	我は天命を授かりしホーエンツォレルン家の末裔\nプロイセンの女王──		I'm the chosen one, the heir of the House of Hohenzollern, the queen of Prussia—	
+35	小怜	？！	？！	ッ！？		?!	
+36	N/A	背对着自己的少女故意拉长尾音，显然话还没有说完，但小怜已经意识到了什么……	背對著自己的少女故意拉長尾音，顯然話還沒有說完，但小憐已經意識到了什麼……	オーガスタはわざと語尾を伸ばして、\n壮大に自分の名を明かそうとする。\n少女はオーガスタの言葉に対して、何かをすでに\n勘付いているようだった……		Augusta hasn't finished her sentence, but Ren seems to have realized something...	
+37	奥古斯塔	德意志联邦主席，统一德意志全境的皇帝！	德意志聯邦主席，統一德意志全境的皇帝！	ドイツ連邦の主席にして。\n\nドイツ全土を統一する皇帝！		die Kaiserin von Deutschland!	
+38	N/A	穿着红黑两色斗篷的少女一边提高音量一边举起双臂，做出“赞美太阳”的姿势。	穿著紅黑色斗篷的少女一邊提高音量一邊舉起雙臂，做出「讚美太陽」的姿勢。	赤黒いマントを翻したオーガスタは声量を\n上げると共に、\n両手を広げ「太陽賛美」のポーズを取った。		The girl in the red-and-black cape raises her arms as well as her voice, making a "praise the sun" gesture.	
+39	N/A	小怜猛然想起前两天历史讲座上似乎听过那几个词，惊讶的站起身上前两步却欲言又止……	小憐猛然想起前兩天歷史講座上似乎聽過那幾個詞，驚訝地站起身前進了兩步，卻欲言又止……	この時、状況の理解が追い付かないながらも\nレンは驚き、身を起こして前進するのも止めた。\n彼女の言葉の端々は、先日睡魔と戦いながらも\n受けた歴史の授業を思い出させる。		What Augusta says rings a bell. Ren vaguely remembers hearing some of those words from a lecture a couple of days ago. She stands up, approaches Augusta, trying to say something...	
+40	小怜	（等等，普鲁士和德意志是什么关系来着？）	（等等，普魯士和德意志是什麼關係來著？）	（えっと……）\n\n（プロイセンとドイツってどんな関係だっけ？）		(Wait, what's the relationship between Prussia and Deutschland?)	
+41	N/A	那不重要啦！！！\n关键的问题是──	那不重要啦！！！\n重點是──	そこはどうでもいいんだ！！\n重要なのは――		Whatever!\nThe most important thing is...	
+42	N/A	难、难道说……	難、難道說……	まっ、まさか……		Don't tell me...	
+43	小怜	（我穿越时空了！！？）	（我穿越時空了！！？）	（俺、タイムスリップしちゃったとかッ！！？）		(I went back in time?!)	
+44	奥古斯塔	以及──	以及──	そして――		And...	
+45	N/A	奥古斯塔压低了音调，似乎要用最后的头衔为那个不妙的猜测一锤定音。	奧古斯塔壓低了音調，似乎要用最後的頭銜為那個不妙的猜測一錘定音。	オーガスタは声を抑える。\n\nそしてレンの推測に終止符を打つかのように、\n最後の一言を放った。		Augusta continues to introduce herself, except in a lower voice. Whatever she's about to say may confirm Ren's guess.	
+46	奥古斯塔	第四学园都市的最高元首──赫尔米娜·奥古斯塔·路德维希！	第四學園都市的最高元首──赫爾米娜·奧古斯塔·路德維希！	第四学園都市の最高元首――\n\nウィルヘルミナ・オーガスタ・ルートヴィヒ\nである！		The leader of the Fourth Academic City—Wilhelmina Augusta Ludwig!	
+47	N/A	金发少女将权杖重重的戳在地上，用清脆的敲击声作为气势恢宏的收尾。	金髮少女將權杖重重地戳在地上，用清脆的敲擊聲作為氣勢恢宏的收尾。	金髪少女は王笏で強く地面を叩き、軽快な音を\n周囲に響かせ、話に区切りをつけた。		The blond girl slams her scepter heavily on the floor, ending her sentence on a "high note." 	
+48	小怜	………………	………………	………………		...	
+49	小怜	哈？	哈？	はぁ？		What?	
+50	N/A	小怜的大脑一片空白，张大嘴巴愣在原地。	小憐的腦中一片空白，張大嘴巴愣在原地。	口を大きく広げて棒立ちになったレン。\n\n脳内は真っ白である。		Ren doesn't know what to think. She's frozen, mouth wide open.	
+51	奥古斯塔	还有，给我记住了……	還有，給我記住了……	あと、努々覚えて置くがいい……		And, remember...	
+52	N/A	似乎压抑许久的怒火终于找到了爆发的机会，奥古斯塔乘着刚才的气势，一边转身一边大喊。	壓抑許久的怒火似乎終於找到宣洩的機會，奧古斯塔順著剛才的氣勢，一邊轉身一邊大喊。	さらに勢いに乗じて振り向きながら──\n\n今まで抑えていた怒りをぶつける場所を\n見つけたかのように口調を荒げた。		The long-repressed anger finally bursts out. Augusta turns around and shouts.	
+53	奥古斯塔	我已经15岁了！！\n才不是什么小妹妹──	我已經15歲了！！\n才不是什麼小妹妹──	私はもう15歳だ！\nお前にお嬢ちゃん呼ばわりされる筋合いは無い！		I'm already 15!\nI'm not your "little girl!"	
+54	N/A	没想到小怜已经起身并走到自己身后，奥古斯塔转身一头埋进了小怜的胸部。	奧古斯塔沒發現小憐早已起身並走到自己背後，於是一轉身就埋進了小憐的胸部。	そう言ってオーガスタは振り返った。\n\nだが、彼女はすでにレンが自らの背後まで\n移動している事に気付いていなかった。\nそのままレンの胸元に顔を埋める形となって\nしまう。		Not realizing Ren had approached, as she turns around, her face ends up buried in Ren's chest.	
+55	N/A	…………	…………	…………		...	
+56	N/A	房间内空气凝固了五秒钟之后。	房間內空氣凝結了五秒鐘之後。	部屋内の空気が5秒ほど固まった後──		An awkward silence settles over the room.	
+57	小怜	好矮……	好矮……	小っちゃい……		You're so short...	
+58	N/A	终于回过神的小怜不经意间说出了在这座行宫里足以被判处死刑的发言。	終於回過神的小憐不經意間說出了在這座行宮裡足以被判處死刑的發言。	先に我に返ったレンが思わずこの宮殿内で\n極刑に値する言葉を発してしまった。		Ren breaks the silence, but the first thing she says is enough to invoke the death penalty inside this palace.	
+59	N/A	接着，就感到胯下遭受了一记重击……	接著，就感到胯下遭到一記重擊……	次の瞬間、股間へと一撃が襲い掛かる……		The next thing she feels is excruciating pain in her crotchal region...	
+60	N/A	与此同时。	在此同時。	──時を同じくして。		Meanwhile...	
+61	N/A	看着落在地毯上的彩蛋，安妮立刻冲向卧室的百叶窗，将大半个身子探出去寻找小怜的踪迹。	看著落在地毯上的彩蛋，安妮立刻衝向臥室的百葉窗，將大半個身子探出去尋找小憐的蹤跡。	絨毯に落ちたイースター・エッグをそのままに、\nアニーは部屋のジャロジー窓まで走る。\nそして落ちそうなぐらい身を乗り出して\nレンの行方を捜していた。		Annie rushes to the bedroom blinds and looks for Ren, half of her body outside the window.	
+62	N/A	拉斐尔怕安妮摔下去，赶忙把她拉回来，二人喘着粗气坐在壁炉旁四目相觑。	拉斐爾怕安妮摔下去，連忙把她拉了回來。兩人就這麼喘著大氣坐在壁爐旁四目相覷。	転落するかもしれないと思ったラファエルは\nアニーをすぐさま引っ張り戻した。\n二人は大きく呼吸をしながら壁炉の近くで\n座り込んで目を合わせる。		Fearing that she might fall, Raphilia pulls her back. The two of them stare at each other by the firepalce, not knowing what to do.	
+63	安妮	小怜她……	小憐她……	レンちゃんが……		Ren...	
+64	拉斐尔	……不见了？	……不見了？	……消えた？		... vanished?	
+65	N/A	拉斐尔起身捡起地上的彩蛋仔细端详。	拉斐爾起身撿起地上的彩蛋仔細端詳。	ラファエルは地面に落ちたエッグを拾い上げて\n細かくチェックを始める。		Raphilia picks up the egg and takes a closer look.	
+66	N/A	这颗彩蛋比普通鸡蛋稍大，在法贝热的诸多作品中算是相当小巧的。	這顆彩蛋比普通雞蛋稍大，在法貝熱的諸多作品中算是相當小巧的。	このイースター・エッグは鶏卵よりも少し大きい\nぐらいのサイズ感である。\nしかし、ファベルジェの数ある作品の中では\nこれは小さい方だ。		The easter egg is only slightly bigger than a normal egg. It's the smallest among all the Fabergé Eggs.	
+67	N/A	当年法贝热为沙皇打造的彩蛋大多内有玄机，但这颗彩蛋经过扫描，确定里面是实心的。	當年法貝熱為沙皇打造的彩蛋大多內藏玄機，但這顆彩蛋經過掃描，已經確定是實心的。	スキャンの結果、このイースター・エッグに\n空洞はないと以前に判明している。\nロシア皇帝のために作られた数ある\nイースター・エッグは、\nそのほとんどに何かしらの中身が内蔵されて\nいるのだが……		Most of the Fabergé Eggs are hollow with hidden items inside, but this particular one has been scanned—it's indeed solid.	
+68	N/A	安妮刚想凑过去看看，手机却突然响起，接通后另一头传来莉琉有些含糊的声音。	安妮才想湊過去看看，手機卻突然響起。接通後，另一頭傳來莉琉有些含糊的聲音。	アニーが近寄ってラファエルと一緒に確認しよう\nとした瞬間、前触れなく携帯が鳴り響いた。\n携帯からはマリルのぼやけた声が伝わってくる。		Annie wants to take a look, too, but her phone rings. It's Mariru...	
+69	N/A@莉琉	喂？安妮……	喂？安妮……	……おい？ アニー……		Hello? Annie?	
+70	N/A@莉琉	小怜的信号怎么又、又突然消失了……	小憐的訊號怎麼又、又突然消失了……	レンの信号は…なんでまた突然消えたんだ……？		Ren's signal disappeared... I'm calling to make sure everything is fine.	
+71	安妮	莉琉？\n你……怎么听起来有点怪怪的……	莉琉？\n妳……怎麼聽起來有點怪怪的……	マ、マリルさん？\nなんかいつもと声色が違うような……		Mariru?\nYou... You sound strange.	
+72	N/A	一向强势的莉琉今天的声音却特别轻柔，说话伴着呼吸声，有种暧昧的感觉。	一向強勢的莉琉今天的聲音卻特別輕柔，說話伴著呼吸聲，有種曖昧的感覺。	いつも威圧的な雰囲気を放つマリルの声が\n今日は、なぜか優しくて柔らかい。\n呼吸音を伴う話し方は曖昧な感じが漂う。		Mariru is always bossy, but today, her voice sounds gentle. The sound of her breath can be heard over the phone, too.	
+73	N/A@莉琉	刚、刚晚上和老同学喝了点……	剛、剛晚上和老同學喝了幾杯……	さっ、さっきまで昔の同級生と少しばかり\n飲んでいてな……		I had a drink with an old classmate...	
+74	N/A@莉琉	爱衣给了我……一片……据说是她研制的，可以防宿醉的……安眠药？	愛衣給了我……一片……據說是她研製的，可以防宿醉的……安眠藥？	愛衣が開発した薬を……くれてな……\n二日酔い防止の……睡眠薬……？		Then, Aya gave me a pill. She told me it's a sleeping pill she invented. It prevents hangover...	
+75	安妮	爱衣的药也敢吃啊？！	愛衣的藥也敢吃啊？！	愛衣が開発した薬を飲んじゃったのっ！？		You're brave to take Aya's medicine...	
+76	N/A@莉琉	看、看我明天不好好修理她……	看、看我明天怎麼修理她……	あ、明日に……叱っておくから……		I'll punish her... tomorrow...	
+77	N/A@莉琉	我刚吃药没一会就收到自动报警，那孩子就不能让人省点儿心吗……	我剛吃藥沒多久就收到自動警報，那孩子就不能讓人稍微放心一下嗎……	薬を飲み終わったら……すぐ警報が鳴った。\n\nあの子はもう少し……\n私に心配をかけさせないで欲しいものだな……		The alarm rang after I took the pill. What happened to Ren?	
+78	安妮	啊对了！小怜她碰到了一个彩蛋，然后就在我们眼皮底下消失了！！	啊對了！小憐她碰到了一個彩蛋，然後就在我們眼前消失了！！	あっ、そうだマリルさん！！ \n\nレンちゃんがイースター・エッグに触れた後、\n突然目の前から消えたの！！		She... she touched an easter egg and disappeared right under our noses...	
+79	N/A	电话另一头传来了手拍在脸上的声音。	電話另一頭傳來了手拍在臉上的聲音。	電話の向こう側から顔を手で押さえる様が\n伝わってくる。		A slapping sound travels from the other end of the phone.	
+80	N/A@莉琉	我怎么好像养了个特别容易被拐卖的傻女儿……	我怎麼好像養了個特別容易被拐走的傻女兒……	はは……誘拐されやすいバカ娘が……\n\n育てた私も、バカなんだがな……		I feel like I've raised a daughter that always goes missing...	
+81	安妮	你……在问我？	妳……在問我？	それで私達……どうすれば！?		Are... Are you asking my opinion?	
+82	N/A@莉琉	安妮，记住你的训练……	安妮，記住妳的訓練……	アニー、お前が受けた訓練を思い出せ……		Remember your training, Annie...	
+83	N/A@莉琉	遇到问题先收集信息，越难以理解的复杂状况越要回归常识……	遇到問題時，先收集訊息。越難以理解的複雜狀況，越要回歸常識……	問題が発生した時……まずは情報が第一だ……\n\n難解であればあるほど……\n常識的な考えが必要になる……		When facing a tough issue, sometimes common sense is key to solve the most complicated puzzle...	
+84	N/A@莉琉	比、比如……\n呼…………	比、比如……\n呼…………	たと……えば……………………\n…………………………………………………		For example...\n*snoring*	
+85	N/A	莉琉的声音越来越小，说着说着就没了动静。	莉琉的聲音越來越小，說著說著就沒了動靜。	マリルの声が段々と小さくなって\n最後には反応しなくなった。		Mariru's voice becomes lower and lower... until it can't be heard at all.	
+86	安妮	喂？喂──！\n莉琉？莉琉！	喂？喂──！\n莉琉？莉琉！	もしもし？ もしもーしーーっ！\n\nマリルさん？ マリルさんッ！！		Hello? Hello!\nMariru?	
+87	N/A	几秒之后，安妮听到一声熟悉的闷响，和她在家里经常能听到的小怜从床上滚下去的声音一模一样。	幾秒之後，安妮聽到一聲熟悉的悶響，和她在家裡經常聽到小憐從床上滾下去的聲音一模一樣。	──数秒後、知っている鈍音が聞こえてきた。\n\n良く家で耳にする、レンちゃんがベッドから\n落ちた時と同じ音だ。		After a few seconds, Annie hears a familiar sound, the same sound she's heard so often whenever Ren has fallen off her bed.	
+88	N/A	同时听筒中还传来“呀~”的一声尖叫，随后就陷入了沉默。	同時，聽筒中還傳來「呀～」的一聲尖叫，之後就陷入了沉默。	それと同時に「ギャー」という叫び声も\n聞こえたが、すぐに静まり返った。		Along with the sound is a scream. Then, there's no sound at all.	
+89	安妮	挂、挂断了……？	掛、掛斷了……？	……き、切れた……？		She hung up?	
+90	N/A	等等！刚才那个叫声是谁的？！	等等！剛才那個叫聲是誰的？！	さっきの叫び声は……\nいったい何が起きたのだろうか。		But who was screaming?	
+91	N/A	拉斐尔走过来把彩蛋递给安妮，并从手机中调出这只彩蛋的资料。	拉斐爾走過來把彩蛋遞給安妮，並從手機中調出這顆彩蛋的資料。	そうしている内、ラファエルがアニーに\nイースター・エッグを手渡してきた。\nすぐさま、このエッグに関する資料を携帯で\n確認する。		Raphilia comes to Annie and gives her the egg, then pulls the file on the egg via her phone.	
+92	拉斐尔	看来莉琉暂时帮不上忙了？	看來莉琉暫時幫不上忙了？	その様子だと、しばらくマリルの助けは\n受けられそうにないかしら？		Mariru doesn't seem like she'll be of any help for the time being, I guess?	
+93	拉斐尔	过了这么久十字玫瑰的保镖都没冲进来，应该是没监测到什么异常波动。	都過了這麼久，十字玫瑰的保鏢也沒衝進來，應該是沒監測到什麼異常波動。	結構な時間が経ったけど、私のボディーガードも\n誰一人として出てこないみたい。\n十字薔薇すら異常を観測できなかったようね。		The Rosenkreutz guards haven't rushed in, which means they haven't detected anything unusual.	
+94	N/A	安妮点了点头，观察着手中沉甸甸的彩蛋。	安妮點了點頭，觀察著手中沉甸甸的彩蛋。	アニーは頷きながら、重みのある\nイースター・エッグを観察する。		Annie nods her head while observing the easter egg.	
+95	拉斐尔	这东西的原料是从尤戈尔斯基半岛的陨石坑里找到的，外层是黑色的宝石级刚玉。	這東西的原料是從尤戈爾斯基半島的隕石坑裡找到的，外層是黑色的寶石級剛玉。	そのエッグの原材料はユゴルスキー半島にある\nクレーターで発見されたらしいわ。\n宝石級の黒いコランダムで外層を加工して\nいるのが、見た限りでは分かるけど……		The materials of this egg were found in a crater in the Yugorsky Peninsula. The outer layer was made from black corundum.	
+96	安妮	外层……？	外層……？	外層……？		The outer layer...	
+97	拉斐尔	目前只知道内核没有磁性和放射性，对电磁辐射的吸收性极好，只能通过密度猜测化学成分……	目前只知道內核沒有磁性和放射性，對電磁輻射的吸收性極好，只能透過密度猜測化學成分……	内部に関しては、調べても磁性や放射性が\nない事だけしか判明できていない。\n電磁波に対する吸収性に優れているから、\n密度分析ぐらいでしか成分を推測できないのよ。		We know very little about its inside, however. All we know is that it's not magnetic or radioactive, and it absorbs electromagnetic radiation...	
+98	N/A	拉斐尔不满的把手机丢到床上。	拉斐爾不滿地把手機丟到床上。	ラファエルは不満そうな素振りで携帯を\nベッドに投げ捨てた。		Raphilia throws her phone onto the bed, disappointed.	
+99	拉斐尔	基本上就是个黑体嘛！\n鬼知道里面是什么……	基本上就是個黑體嘛！\n鬼才知道裡面是什麼……	つまり現在の科学技術を最大限駆使したとしても\n測定不可能って事になるわ。\n中身は正体不明よ……		There's nothing useful!\nGod knows what's inside...	
+100	安妮	这上面应该没有魔女的刻印，不然小怜触碰它的瞬间就会有反应。	這上面應該沒有魔女的刻印，不然小憐觸碰它的瞬間就會有反應。	この表面には魔女の刻印はないはず。\n\nレンちゃんが触れた瞬間には、\n反応していなかったよね？		Those shouldn't be witch's engravings on this egg, or else, when Ren touched it earlier, there would have been some kind of reaction.	
+101	安妮	对了，这个十字章上的字母是什么意思？\n字母A的顶部还有两个小点──	對了，這個十字章上面的字母是什麼意思？\n字母A的頂部還有兩個小點──	そうだ。\nこの十字章にあるアルファベットの意味は？\nアルファベット「Ａ」の上に点が2つあって──		But, what do these letters mean?\nEspeciall this one—there are two small dots on the letter "A."	
+102	拉斐尔	ÄON，德语中“永恒”的意思。	ÄON，德語中「永恆」的意思。	ÄＯＮ。 ドイツ語で「永遠」を意味するわ。		ÄON. It means eternity in German.	
+103	拉斐尔	大概是沙皇希望两国的友谊万古长存吧……	大概是沙皇希望兩國的友誼萬古長存吧……	恐らくロシア皇帝が、両国の間に永遠の友情が\nありますようにと 願ったからじゃないかしら？		Perhaps it represents the eternal friendship between Russia and Germany?	
+104	N/A	拉斐尔轻蔑的笑了笑──	拉斐爾輕蔑地笑了笑──	ラファエルは軽蔑するように笑った。		A scornful smile appears on Raphilia's face.	
+105	拉斐尔	结果这个礼物送出的三年后，没常识的新任德皇就拒绝了俄国希望续订条约的请求──	結果這個禮物送出的三年後，沒常識的新任德皇就拒絕了俄國希望續訂條約的請求──	このプレゼントが贈られた3年後。\n\n新たに即位した非常識なドイツ皇帝は、\nロシア側の条約の継続願いを容易く却下した──		That'd be hilarious. Three years after this egg was given out as a gift, the new kaiser of Germany refused to renew the treaty.	
+106	拉斐尔	自以为是的摧毁了前任首相处心积虑建立起的欧洲秩序，后来还葬送了自己的帝国。	自以為是地摧毀了前任首相處心積慮建立起的歐洲秩序，後來還葬送了自己的帝國。	結果的に思い上がりも甚だしかったって事ね。\n\n前任の首相が尽力して作り上げた\nヨーロッパの秩序を散々に壊した挙句、\n最終的には己の帝国を葬る形となった。		Then, he destroyed the order in Europe, which his predecessor took a long time and effort to build. Eventually, he buried his own empire...	
+107	安妮	收集信息……常识……	收集訊息……常識……	情報……常識……		Gather information... Common sense...	
+108	N/A	安妮回想着莉琉刚才的话，默默掏出手机。	安妮回想著莉琉剛才的話，默默掏出手機。	アニーはマリルの言葉を思い出しながら、\n黙々と自分の携帯を取り出した。		What Mariru said earlier occurs to Annie. She takes out her phone.	
+109	N/A	……	……	………………		...	
+110	N/A	小怜挨了那一下，本能的捂着被打的地方蜷缩在地上颤抖着。	小憐挨了那一下，本能地捂著被打的地方蜷縮在地上顫抖著。	レンは地面にうずくまって震えていた。\n\n先ほど食らった一撃に対して、本能的に\n『大事な部分』を庇いながら。		That was a heavy blow! Ren is shaking on the floor, her hands covering her privates.	
+111	N/A	奥古斯塔以为自己下手太重，想说些什么却欲言又止，僵在原地小声嘀咕着──	奧古斯塔以為自己下手太重，想說些什麼卻欲言又止，僵在原地小聲嘀咕著──	やりすぎたと思ったオーガスタは何かを\n言いたそうにしているが、言い出せない。\n口ごもって、その場で小さく呟いたのが\n精一杯だった。		Augusta starts to think maybe she hit her too hard. She wants to say something, but instead, she mumbles to herself—	
+112	奥古斯塔	谁、谁叫你说我！……	誰、誰叫妳叫我小妹妹！……	ふっ、不敬な事を言うからだ……！		T-... to call me short! The gall!	
+113	奥古斯塔	我又没使劲，有那么疼吗……	我又沒多用力，有那麼痛嗎……	そ、そこまで力を入れてなかったのだが、\nそんなに痛むのか……？		And I didn't even use much strength. Are you really hurt that bad?	
+114	小怜	（好像……并没那么疼？）	（好像……的確沒那麼痛？）	（あれ……確かにあまり痛くないかも？）		(It doesn't hurt that bad, it seems...)	
+115	N/A	嗯，大概是幻肢痛。	嗯，大概是幻肢痛。	今はあるべきモノがないから。\n\nお、恐らく幻肢痛か……		It must be the phantom limb pain.	
+116	N/A	小怜缓缓坐起，靠在床边调整了一下呼吸。	小憐緩緩坐起，靠在床邊調整了一下呼吸。	レンはベッドの近くで呼吸を整えて、\nとにかく心を落ち着かせる。		Ren slowly sits up and adjusts her breath by the bed.	
+117	N/A	终于冷静下的她开始试着搞清楚自己到底卷入了什么状况。	終於冷靜下來的她，開始試著搞清楚自己到底捲入了什麼狀況。	それから状況を突き止めようと、\n質問を投げかけた。\n一体、自分が何に巻き込まれているのかを──		She finally calms down and tries to figure out what exactly she's gotten herself into.	
+118	小怜	所以，你刚才说……\n第四学园都市？	所以，妳剛才說……\n第四學園都市？	それで、君はさっき……\n\n……第四学園都市って言ったよね？		So, you were saying...\nThe Fourth Academic City?	

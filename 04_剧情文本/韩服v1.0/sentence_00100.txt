@@ -1,0 +1,12 @@
+﻿1	引导精灵	消灭敌人可以入手魔法道具和硬币！记得经常提升魔女和兵器的能力哦~\n	消滅敵人就可以獲得魔法道具和硬幣！記得經常提升魔女和兵器的能力哦～\n	敵が消滅すれば魔法アイテムとコインが手に入るよ！　　　　魔女と兵器の能力強化を忘れないようにね。\n	적을 처치하면 마법 아이템과 코인을 얻을 수 있어! 마녀와 병기의 \n능력을 자주 향상시키는 것 잊지 마~\n	Kill enemies to earn magic items and Gold! Remember to upgrade your Witches and their weapons!\n	
+2	FocusTrigger	[i][ff9900]长按[-][-]可获取敌人基本信息	[i][ff9900]長按[-][-]可取得敵人基本資訊	[i][ff9900]長押し[-][-]で、敵の情報を確認	[i] [ff9900]길게 누르면[-][-] 적의 기본 정보가 나타나요.	[i][ff9900]Tap and hold[-][-] an enemy's Avatar to view their basic info.	
+3	FocusTrigger	准备出战	準備出戰	出撃準備	출전 준비	Prepare	
+4	安妮	作战前可以选择出战的[ff9c00]『魔女』[-]和[ff9c00]『兵器』[-]	作戰前可以選擇出戰的[ff9c00]「魔女」[-]和[ff9c00]「兵器」[-]	作戦前の画面では出撃する[ff9c00]『魔女』[-]と[ff9c00]『兵器』[-]を\n選べるの。	작전을 시작하기 전 출전할 [ff9c00]『마녀』[-]와 [ff9c00]『병기』[-]를 \n선택할 수 있어.	Before a battle, you can deploy [ff9c00]Witches[-] and [ff9c00]weapons[-].	
+5	安妮	魔女和兵器没有强弱之分，要根据敌人与你采用的战术进行选择。	魔女和兵器沒有強弱之分，請根據敵人與你採用的戰術進行選擇。	魔女と兵器に絶対的な強弱はないよ。\n敵の戦術に応じて選ぼう。	마녀와 병기는 강약 구분이 없으니까, 적과 너의 전술에 맞춰서 선택하면 돼. 	No Witches or weapons are "better" than others—it all comes down to your enemies and the tactics you need to use.	
+6	安妮	让我们带上刚刚祈愿获得的魔女们一起出战吧~	讓我們帶上剛剛祈願獲得的魔女們一起出戰吧～	それじゃあ、召喚した魔女達を連れて、\nLet'sファイト！	방금 소원으로 획득한 마녀들과 함께 출전해보자~	Without further ado, deploy the Witches you just obtained!	
+7	FocusTrigger	点击出战	點擊出戰	タップで選択	출전하기	Tap Here	
+8	FocusTrigger	点击头像选中魔女	點擊大頭貼選擇魔女	タップで魔女を\n選択	프로필을 터치해서 마녀 선택	Tap the Avatar to select Witch.	
+9	FocusTrigger	选择第二位	選擇第二位	2人目も選択	두 번째 마녀 선택	Now, the second Witch.	
+10	FocusTrigger	最后带上薇拉~	最後帶上薇拉～	最後にヴィラを連れていく	마지막으로 비라 선택~!	Last but not least—select Vera!	
+11	FocusTrigger	整备完毕	整備完畢	準備完了	준비 완료	Ready	
+12	FocusTrigger	作战开始！	作戰開始！	作戦開始！	작전 시작!	Fight!	

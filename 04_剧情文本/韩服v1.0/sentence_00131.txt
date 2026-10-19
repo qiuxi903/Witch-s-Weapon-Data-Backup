@@ -1,0 +1,6 @@
+﻿1	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	
+2	引导精灵	又解锁了新的[ff9c00]教学任务[-]	又解鎖了新的[ff9c00]教學任務[-]	また新しい[ff9c00]チュートリアルクエスト[-]が開放されたみたい。	새로운 [ff9c00]가이드임무[-]가 또 해제됐어!	A new [ff9c00]Tutorial Quest[-] has been unlocked.	
+3	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	
+4	引导精灵	不战斗的时候，记得多来看看，说不定就解锁了新任务	不戰鬥的時候，記得多來看看，說不定就解鎖了新任務	戦闘以外の時は、ここをこまめにチェックしよう。もしかして新しいクエストが追加されてるかも。	전투를 하지 않을 땐 새로운 임무가 해제됐는지 자주 확인하는 게 좋아. 	Check here more often—you never know when you might have unlocked new quests!	
+5	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	
+6	FocusTrigger	请点击	請點擊	ココをタップ	터치하세요.	Tap Here	

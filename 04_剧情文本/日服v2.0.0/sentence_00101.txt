@@ -1,0 +1,10 @@
+﻿1	T_showPicText	敌人信息包括：\n[ff0000]血条[-]，[ff9c00]技能进度条[-]以及[ff2222]技能标签[-]，\n有时还会有[ff9c00]buff[-]信息。\n（技能进度条充满就会触发一次技能）	敵人資訊包括：\n[ff0000]血量[-]，[ff9c00]技能進度列[-]以及[ff2222]技能標籤[-]，\n有時還會有[ff9c00]buff[-]資訊。\n（技能進度列充滿時，就會觸發一次技能）	敵の情報で表示されるのは\n[ff0000]ライフバー[-]、[ff9c00]スキルバー[-]、[fa20f2]スキルラベル[-]。\n状況次第では[ff9c00]buff[-]の情報も記載されます。\n（敵はスキルバーが満タンになるとスキルを発動してきます）	적 정보：\n[ff0000]HP바[-]，[ff9c00]스킬 게이지[-] 및 [ff2222]스킬 탭[-]，\n가끔 [ff9c00]buff[-] 정보도 표시됩니다. \n（스킬 게이지가 가득 차면 스킬을 1회 시전할 수 있습니다.）	Enemy Info includes:\n[ff0000]HP Bar[-], [ff9c00]Skill Progress Bar[-], and [ff2222]Skill Icon[-].\nSometimes, [ff9c00]buff[-] info will also be displayed.\n(Skill will be triggered one time once its progress bar is full.)	
+2	T_showPicText	使用新兵器[ff9c00]天国之扉[-]，\n可对施法的敌人造成伤害并附加沉默。\n(被沉默的敌人有特殊[ff9c00]![-]标志)	使用新兵器[ff9c00]天國之扉[-]，\n可對施法的敵人造成傷害並附加沉默。\n（被沉默的敵人會加上特殊[ff9c00]![-]標記）	新兵器であるベアトリーチェの[ff9c00]『天国の扉』[-]は使用時に、\n敵にダメージを与え、同時に沈黙させることもできます。\n(沈黙された敵には特別な[ff9c00]![-]マークが付与されます)	새로운 병기 [ff9c00]천국의 문[-]을 사용해 \n적에게 피해를 입히고 침묵시킬 수 있습니다. \n(침묵 당한 적은 특수 [ff9c00]![-]마크가 표시됩니다)	This new weapon, [ff9c00]Heaven's Gate[-],\ncan deal damage to enemies that are using skills and silence them.\n(Silenced enemies are marked with [ff9c00]![-].)	
+3	A_speak	来试试我的兵器~		では、私の兵器を試しましょうか			
+4	FocusTrigger	
+5	T_showPicText	[ff9c00]贝阿特丽切[-]的召唤技：\n可以将目标敌方[ff9c00]单体沉默[-],从而[ff9c00]打断[-]敌人正在释放的技能		魔女[ff9c00]ベアトリーチェ[-]の召喚スキル：\n敵を[ff9c00]沈黙[-]の状態にする事で、敵が使おうとしているスキルを[ff9c00]中断[-]できます。			
+6	T_showPicText	[ff9c00]薇拉[-]的召唤技：\n可以将区域内的敌人[ff9c00]击飞并打断[-]		魔女[ff9c00]ヴィラ[-]の召喚スキル：\n攻撃範囲内の敵全員を[ff9c00]吹き飛ばして[-]、敵の行動を[ff9c00]中断[-]できます。			
+7	FocusTrigger	
+8	A_speak	释放技能[ff9c00]打断[-]敌方行动	釋放技能[ff9c00]打斷[-]敵方行動	スキルを使って敵の動きを[ff9c00]中断[-]してみて	스킬을 시전해서 적의 행동을 [ff9c00]중단[-]시킬 수 있어.	Now, cast a skill to [ff9c00]interrupt[-] enemies.	
+9	FocusTrigger	
+10	A_speak	我的技能也是非常强势的哦	我的技能也是非常強勢的哦	私のスキルも、あなたを\n助けられる思うわ	나의 스킬도 꽤 강하다구.	My skill kicks ass, too!	

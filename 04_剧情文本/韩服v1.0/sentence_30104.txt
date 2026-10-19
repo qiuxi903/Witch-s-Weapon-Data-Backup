@@ -1,0 +1,110 @@
+﻿1	小怜	欢迎肥来……啊不对！	歡迎肥來……啊不對！	お帰りなさい……ァッ！　間違ったっ！	안녕 돼지야……앗，아냐！	Well, come back—no, that’s not right...	
+2	小怜	欢迎回来~！主、主、主人……	歡迎回來～！ 主、主、主人……	お帰りなさいませぇ～～！\nご、ご、ご主人様ぁ……	어서오세요~！주，주，주인님……	Welcome back, M-master...	
+3	小怜	感觉还是怪怪的……	不管怎麼說，感覺都很奇怪啊！	やっぱり変な感じ……	역시 이상해……	Still sounds weird...	
+4	小怜	所以说……	話說回來……	と言うか…………	그러니까……	Anyway...	
+5	小怜	为什么我要去女仆咖啡厅打工啊！！	為什麼我要去女僕咖啡廳打工啊！ ！	なんで俺がメイドカフェでバイトしなきゃ\nいけないんだよっ！！	어째서 내가 메이드 카페에서 아르바이트를 해야 하는 거냐고！！	Why do I have to take up a part-time job in a maid cafe?	
+6	N/A	这么糟糕的伪装任务，完全是莉琉根据自己的兴趣安排的吧！	這麼糟糕的偽裝任務，完全是莉琉根據自己興趣安排的吧！	こんなふざけた潜入任務、絶対にマリルが\n趣味で手配しただろ！！	이런 거지같은 위장 임무라니，완전 마리루 취향이잖아！	What kind of secret mission is that? Mariru just wants to watch me suffer, I bet!	
+7	N/A	虽然那家位于使馆区的咖啡厅确实很有名，我之前也在网上看过介绍──	雖然那家位於使館區的咖啡廳確實很有名，我之前也在網路上看過介紹──	確かに大使館エリアにあるあのカフェは有名だし\n以前、ネットで紹介記事を読んだ事もある……	대사관 근처에 있는 카페가 확실히 유명하긴 하지. 나도 인터넷에서 본 적 있어──	The maid cafe in the embassy area is indeed quite popular and I’ve read articles online about it too.	
+8	N/A	环境优雅、食物精美、餐具考究……最重要的是女仆小姐姐们都超级可爱！！	環境優雅、食物美味、餐具考究……最重要的是女僕小姐姐們都超級可愛！ ！	優雅な雰囲気にクオリティの非常に高い食事、\n食器すらも洗練されていて……\n何よりもメイドのお姉さん達が全員超美人！！	우아한 환경，맛있는 음식，예쁜 식기……가장 중요한 건 메이드들이 아주 귀엽다는 것！！	Elegant atmosphere, great food, classy silverware... and, last but not least, the maids are all super cute!	
+9	N/A	不过那时我觉得被女生称作“主人”会很害羞，所以一次也没去过。	不過那時我覺得被女生叫「主人」會很害羞，所以一次也沒去過。	でも女性に「ご主人様」って呼ばれるのが\n恥ずかしくて実際に行った事は一度もなかった。	하지만 여자에게 "주인님"이라고 불리는 것이 부끄러워 한 번도 가보지는 못했다.	But I’m the type who gets embarrassed easily if a girl calls me “Master”, so I never went.	
+10	N/A	太天真了……	現在想想，當時真的是太天真了……	あの時の自分よ……\nお前の考えは浅はかだったぞ……	너무 순진했어……	I was so naive then...	
+11	小怜	真正会害羞的，是对着别人叫“主人”的那边啊！	真正會害羞的，是得稱呼別人為「主人」的女僕啊！	本当に恥ずかしいのは\n「ご主人様」って呼ぶ側だからッ！！	정말 부끄러운 쪽은 다른 사람을 "주인님"이라고 불러야하는 쪽이잖아! 	Because now I’m the one who’ll be calling others “Master” instead—and that’s even more embarrassing!	
+12	小怜	（而且这套女仆装的细节好多，麻烦死了~~）	（而且這套女僕裝的細節好多，麻煩死了～）	（しかもこのメイド服……）\n\n（芸が細かいと言うか……面倒くさい……）	（게다가 이 메이드복，엄청 거치적거린다고~~）	(And this maid outfit is so unnecessarily complicated!)	
+13	小怜	（裙子本来就有点短……）\n（加上裙撑之后走起路来简直……）	（裙子本來就很短……）\n（加上裙襯之後，走起路來簡直……）	（スカートは元々短く作ってあるし）\n\n（さらにパニエを着けて歩くのか……）	（원래 짧은 치마에……）\n（파니에까지 입고 걸으면 정말……）	(The skirt is already pretty short to begin with...)\n(And now, with a crinoline to puff it up, it’s even shorter! How do they expect me to walk?)	
+14	小怜	（不过吊带袜还是第一次穿……）\n（原来扣环是固定在腰上的呀？）	（不過這可是我第一次穿吊帶襪……）\n（原來扣環是固定在腰上的呀？ ）	（しかしガーターベルトを着けるのって\n　初めてだな……）\n（これって腰に固定すればいいのか？）	（그치만 가터벨트는 처음 입어본다……）\n（버클은 원래 허리 위에 있는 건가？）	(And garters... this is the first time I’ve worn them.)\n(So the clasp... it goes on the waist, huh?)	
+15	N/A	我低头看了看腿上的白色蕾丝吊带袜。	我低頭看了看腿上的白色蕾絲吊帶襪。	俺は頭を下に向け、\n装着している白レースのガーターベルトを見る。	고개를 숙여 다리 위 흰색 레이스 가터벨트를 살펴본다.	I stare down at the white lace garters on my legs.	
+16	小怜	（从第一人称视角看来是这样的感觉嘛）\n（……似乎还蛮可爱的？）	（從第一人稱視角來看是這樣的感覺啊～）\n（……似乎還蠻可愛的？ ）	（1人称視点からだと、こんな感じなのか……）\n\n（……案外可愛くないか？）	（일인칭 시점에서 보면 이런 느낌이구나）\n（……꽤 귀엽잖아？）	(So this is how garters look from a first-person perspective...)\n(... Hm, pretty cute!)	
+17	小怜	（偷偷拍张照片，绝对不会给别人看的！）	（偷偷拍張照片好了，我自己看就好，絕對不會給別人看的！ ）	（こっそり写真を撮ってみたり……）\n\n（ぜ、絶対、誰にも見せないけどなっ！）	（몰래 찍어놓고 절대로 다른 사람에게 보여주지 말아야지！）	(Lemme snap a pic. No one has to know!)	
+18	N/A	咔	咔！	──パシャッ	찰칵	Click!	
+19	小怜	咳咳，继续练习……	咳咳，好了，繼續練習……	コホン、さ、練習に戻ろうか……	크큭，계속 연습하자……	Ahem, let me practice some more...	
+20	N/A	要是培训阶段就被筛下来，绝对会被莉琉踩死。	要是培訓階段就被淘汰，絕對會被莉琉揍扁。	もし研修段階でクビにされたら、\n絶対マリルに踏み殺される。	훈련 단계에서 뒤쳐지면 마리루에게 밟혀 죽을지도 몰라.	If I get fired before I can even pass the training, Mariru would probably trample me to death.	
+21	小怜	欢迎回来~~！主人~~~	歡迎回來喵～主人～	おかえりなさいませぇ～！　ご主人様ぁ～～！	어서오세요~~！주인님~~~	Welcome back, Master!	
+22	小怜	主人想在蛋包饭上写什么喵~~	主人想在蛋包飯上寫什麼啊喵～～	ご主人様、\nオムライスに何を描きますかにゃぁ～～♡	주인님은 오므라이스 위에 뭘 적고 싶으세용~~	What would Master like me to write on your omelet, nyan?	
+23	小怜	果然……这种台词说出来羞死了啊！！！	果然……說這種台詞太羞恥了啊！ ！！	あああやっぱ死ぬぅッ！！\nこんなセリフ恥ずかし過ぎて死ぬぅッ！！	역시……이런 대사는 너무 부끄럽다구요！！！	Ugh, this is so embarrassing!	
+24	小怜	再来再来……	唉～再來再來……	いや、こんなので負けちゃだめだ……\nもう一度……	다시 다시……	Okay, let’s try it one more time...	
+25	N/A	……	……	…………	……	...	
+26	小怜	唉~都这么晚了，得赶紧换衣服睡觉！	啊！ 這麼晚啦，得趕緊換衣服睡覺！	はぁ～～……もうこんな時間か。\n早く着替えて寝ようっ！	휴~시간이 늦었으니 어서 옷을 갈아입고 자야겠다!	Ah, it’s getting late. Gotta change out of this ridiculous outfit and go to bed...	
+27	莉琉	……这身女仆装还真挺适合你的。	……這身女僕裝還蠻適合妳的。	……そのメイド服はお前に似合うと思っていた。	……그 메이드복 너한테 잘 어울리는 걸?	... This maid outfit looks good on you.	
+28	爱衣	嗯嗯~~会让人想忍不住调教一番呢！	嗯嗯～會讓人忍不住想好好調教一番呢！	うんうん！思わず調教したくなるね！	으음~~길들이고 싶어！	Yeah! You’ll make such a good maid!	
+29	N/A	从洗手间出来，我发现莉琉和爱衣坐在公寓的沙发上，似乎在强忍着脸上的笑容。	才剛從洗手間出來，我就發現莉琉和愛衣坐在公寓沙發上，臉上表情扭曲，似乎在強忍笑意。	洗面所から出ると、マリルと愛衣がソファーの\n上に座っている事に気が付いた。\nなにやら笑いを必死に堪えているようだ。	화장실에서 나오니，마리루와 아이가 소파에 앉아 억지로 웃음을 참고 있다.	I exit the bathroom to find Mariru and Aya on my apartment couch, looking incredibly amused.	
+30	小怜	莉琉？爱衣也在？？	莉琉？ 愛衣也在？ ？	マリルッ！？　愛衣までッ！！？？	마리루？아이도 여기에？？	Mariru? And Aya too?	
+31	小怜	你、你们什么时候进来的！！！	妳、妳們什麼時候進來的！ ！！	い、いつの間に入ってきてんだッ！！！	너，너희들 언제 들어온 거야！！！	When... when did you get here?	
+32	莉琉	刚刚才到。	剛到沒多久。	ついさっき♡	방금 막 들어왔어.	We’ve been here for a while, actually.	
+33	小怜	那、那那那那那你们……	那、那那那那那妳們……	そ、そ、そそそそそれじゃ……	그，그그그그그럼 너희들……	So... my practicing...	
+34	爱衣	全听到啦~！	全都～聽到啦～	全部・聞い・ちゃっ・たっ♡	전부 다 들었지~!	We heard all of it, of course!	
+35	小怜	让我死吧……！！	讓我死了吧……	聞くなああぁぁーーッ！！！\n\nい…いっそ殺してくれぇぇ……ッ！！！	나 그냥 죽어버릴래……！！	Kill me now...!	
+36	小怜	呜呜呜……你们突然过来做什么？	嗚嗚嗚……妳們突然過來做什麼啦？	うぅ……何しに来たんだよ突然……	흑흑흑……갑자기 무슨 일로 찾아온 거야？	Aw... anyway, what are you doing here?	
+37	莉琉	来看你趁大人不家的时候，半夜偷偷穿上全套女仆装对着镜子手舞足蹈啊~	來看妳趁大人不在家的時候，半夜偷偷穿上全套女僕裝對著鏡子手舞足蹈啊～	誰もいない時を見計らっているかと思えば、\n真夜中にメイド服を取り出して……\n練習だと理由を託けながら、\n鏡の前で嬉しそうに情事にふける……\nそんなヒメゴトをしている可愛いお前さんを\n見に来たわけだが？	주인님이 없을 때 몰래 메이드복을 입고 거울 앞에서 재롱을 부리는 널 보러 왔지~	To watch you dress up as a maid and act out all your fantasies in front of a mirror, of course!	
+38	小怜	为什么被你形容得那么变态啊！！\n（虽然确实大概是这样没错）	為什麼妳可以形容得那麼變態啊！ ！\n（雖然的確和事實差不了太遠……）	変態度が増すような言い方を止めろっ！！\n\n（こんな練習してる姿…っ！）	그렇게 변태처럼 얘기하지마！！\n（비록 맞는 말이긴 하지만）	Did you have to put it like that?\n(Though she’s not wrong, I suppose...)	
+39	小怜	还不是你安排的身份需要训练……	還不是妳安排的工作……	マリルが手配した任務のために、\n努力しているだけじゃないか……	네가 내린 임무 때문에 훈련하고 있었다고……	It’s not my fault I have to train for the undercover mission you gave me.	
+40	莉琉	哼~女仆的工作可不是像那几句浮于表面的台词那么简单的。	哼～女僕的工作可不是用那幾句浮誇的台詞就可以勝任。	ほう？メイドの仕事は、そんな上っ面なセリフを\n吐くだけの単純な仕事ではないんだぞ？	흥~메이드는 그런 대사 몇마디로 끝나는 간단한 일이 아니야.	You really think you’ll be a good maid just by repeating some lines? It’s not that easy, you know.	
+41	莉琉	不过看你还算用心，这次先放过你了~	不過看妳還算用心，這次就先放過妳了。	だが、お前のその心意気に免じて、\n今回はこの辺で勘弁しておいてやろう。	하지만 네가 이렇게 열심히 하니 이번에는 넘어가줄게~	But I won’t torture you too much tonight, because at least you’ve been putting in effort.	
+42	莉琉	直升机在楼顶等着呢，咱们走吧。	直升機在樓頂等著呢，我們走吧。	屋上でヘリが待機している、行くぞ。	헬기가 옥상에서 대기하고 있어. 어서 가자. 	The helicopter’s waiting on the roof. Let’s go.	
+43	小怜	咦？这么晚了有任务？\n等我先换下衣服……	咦？ 這麼晚了還有任務？ \n那我先換一下衣服……	え？ こんな夜中に任務？\n待って、これ着替えさせて……	엣？이렇게 늦은 시간에 임무? \n우선 옷 좀 갈아입고……	Huh? You’ve got a mission for me? At this time of the night?\nGimme a sec, gotta change out of this...	
+44	莉琉	不用了，这次的任务目标也是女仆，你这身……还蛮应景的噗。	不用了，這次的任務目標也是女僕，妳這身……還蠻應景的噗嗤！	いや不要だ。\n今回のターゲットはメイドなんでな。\nその衣装……ぷっ、とりあえず相応しいから\nそのままで行こう。	됐어，이번 임무 목표도 메이드야. 네 복장……아주 적절다고，풉.	It’s fine. Our target for this mission is actually a maid too, so you’ll fit right in.	
+45	N/A	她在笑对吧！她刚才绝对在笑吧！！	她在笑對吧！ 她剛才絕對是在笑吧！ ！	笑ったよねっ！？　今絶対笑ったよねっ！？	지금 웃고 있는 거지?！방금 진짜로 웃었어！！	Did she just smirk? She definitely did! Ugh!	
+46	小怜	可这身……	可是這身裝扮……	でも、この衣装ままって……	하지만 이 복장……	But... this outfit...	
+47	爱衣	你上次见到她们的时候，穿的也是这身衣服呢。	妳上次見到她們的時候，穿的也是這身衣服呢。	大丈夫！\n前回彼女達にあった時も、その格好だったから！	지난번 그들을 봤을 때 똑같은 옷을 입고 있었어.	Won’t be a problem. When you last ran into the target, you were dressed in a maid outfit too.	
+48	小怜	诶？	什麼？	へっ？	엣？	Huh? What do you mean?	
+49	爱衣	到那里你就知道了。	到了妳就知道了。	行けば分かるって。	거기 가보면 알게 될 거야.	Just come with us and you’ll see.	
+50	N/A	……	……	…………	……	...	
+51	N/A	我、莉琉和爱衣三人乘直升机来到了一所大型医疗机构，但这个时间大多数工作人员都下班了。	我、莉琉和愛衣三人搭直升機來到一所大型醫療機構，但這時候大部分工作人員都下班了。	3人でヘリコプターに乗り込み、大型医療機関に\n降り立った。\nこの時間じゃ医療スタッフの大半は、\n既に帰っているみたいだ。	나，마리루와 아이 세사람은 헬기를 타고 대형 병원에 도착했다. 대다수 층의 직원들은 모두 퇴근했다.	The three of us take the helicopter to a large medical facility, currently half-empty as most of the personnel had gone home.	
+52	N/A	建筑内充斥着各种设备工作的白噪音，我们一路走下来，只能听到自己脚步的回声。	建築內充斥著各種設備運轉時所產生的白噪音，我們一路走下來，只聽到自己腳步的回音。	建物内部は設備の駆動音であるホワイトノイズを\n除くと、自分達の足音しか聞こえてこない。	건물 안에 각 종 기기들의 백색 소음이 가득하다. 걸을 때마다 발자국 소리가 울린다.	The building is silent, save for the sound of machines whirring in the background. Our footsteps echo off the quiet, whitewashed walls.	
+53	N/A	半夜空无一人的医院走廊，并不算昏暗的灯光，似乎比漆黑的环境能引发人恐怖的联想。	半夜空無一人的醫院走廊，雖然燈光不算太昏暗，但似乎比漆黑的環境更讓人引發恐怖的聯想。	真夜中の人っ気のない病院の廊下……\n\n薄暗くはない分、真っ暗闇であるよりも\n不気味さを連想してしまう。	아무도 없는 병원 복도，어둡지 않은 불빛，칠흑같은 환경보다 더 무섭다.	There’s no one in sight. The brightly-lit corridors somehow seem even more macabre than pitch blackness.	
+54	小怜	这……是医院吗？	這……是醫院嗎？	ここって……病院だよな？	여기……병원이야？	Is this... a hospital?	
+55	N/A	刚才在直升机上，我看到两位驾驶员都是熟识的探员，就觉得情况并不简单。	剛才，我看到兩位直升機駕駛員都是熟識的探員，就覺得情況並不簡單。	さっきの乗っていたヘリのパイロット2人は\n俺の良く知る捜査員だったので、\n今回も簡単には済まない状況となっているのが\n予想できた。	헬기 조종사 두명이 잘 알고 있는 요원인 걸 보고 상황이 간단하지 않다는 걸 느꼈다.	I could tell that this must be a covert operation from how the helicopter pilots were both agents I’m familiar with.	
+56	N/A	莉琉很少具体参与任务的执行环节，但这次她似乎想将知情人员控制在最少。	莉琉很少直接參與任務執行，但這次她似乎想將知情人數控制在最少。	マリルが任務に具体的な関与をする事は\nほとんどない。\nしかし、今回は情報を知りうる人間を\n最小限に抑えたいと考えているようだ。	마리루는 현장에는 잘 참여 안 하는데，이번엔 최소한의 인원만 투입시키려는 것 같다. 	Mariru rarely participates in missions herself, but it’s obvious that, this time, she wants to ensure that the fewer people who knows about this, the better.	
+57	N/A	而且我注意到，这里所有的监控摄像头都扭向了墙壁的一侧。	而且我注意到，這裡所有的監視器鏡頭都轉向了牆壁。	さらに歩いている最中、ここにある全ての\n監視カメラが壁に向けられている事に気付いた。	게다가 이곳의 감시카메라가 모두 한쪽 벽으로 돌려져있는 걸 발견했다.	I also notice that all the security cameras here have been twisted to face the walls.	
+58	爱衣	这是播磨脑科学综合研究中心，实验医疗部。	這是播磨腦科學綜合研究中心，實驗醫療部。	ここは播磨脳科学総合研究センターの\n実験医療部門だよ。	이쪽은 하리마 뇌 과학 종합 연구 센터，의료 실험팀이야.	This is the Experimental Medication Department in Harima Tech’s Research Center.	
+59	莉琉	这次的目标是敏感角色，要绝对保密──包括对元老院。	這次的目標是敏感人物，因此絕對要保密──包括對元老院。	今回のターゲットだが、色々な意味で\n非常にデリケートだ。\nだから本作戦は絶対機密として取り扱う。\n──元老院も含めてな。	이번 타깃은 예민한 인물이니까 절대로 보안을 유지해야 해──원로원에게도 마찬가지야.	The identity of our target this time is extremely sensitive. The mission is top secret, not even the Senate can know.	
+60	小怜	播磨脑研……不就是元老院下属的研究机构吗？	但是播磨腦研……不就是隸屬元老院的研究機構嗎？	播磨脳研って……\n元老院側の研究機関じゃないの？	하리마 뇌 연구라면……원로원 소속의 연구 기관이잖아?	Harima Tech... doesn’t it belong to the Senate, though?	
+61	N/A	在我的SID训练课程里，要求背下我所有需尽量避免接触的机构名单，播磨脑研就在其中。	在SID訓練課程裡，莉琉要求我背下所有盡量避免接觸的機構名單，其中就有播磨腦研。	俺のSID訓練カリキュラムに、できるだけ接触を\n避けるべき機関を暗記する項目があり、\nその中の1つに播磨脳研が存在していた。	SID 훈련 과정 중 접촉을 피해야 하는 기관들을 외웠다. 하리마가 그 중 하나다.	During my SID training, I had to memorize the names of all the organizations to steer clear of. Harima Tech is one of them.	
+62	小怜	布莱特博士还曾经是这的研究员吧……	布萊特博士還曾經是這裡的研究員吧……	ブライト博士が、昔ここの研究員だったって……	브렛 박사가 예전에 이곳의 연구원이였지?……	And wasn’t Dr. Bright a researcher here?	
+63	莉琉	那个大猩猩现在有自己的地盘了，已经跟这没什么关系了。	那個大猩猩現在有自己地盤了，早就跟這裡沒什麼關係了。	あのゴリラは自身の縄張りを持っているから、\n今じゃ播磨脳研との関りも薄くなった。	그 고릴라는 이미 자신의 세력이 생겨서 여기와 더 이상 관련이 없어. 	Oh, that gorilla man? He’s established independently now. This place has nothing to do with him anymore.	
+64	莉琉	说到底也是应用型研究部门，SID也会时常给这些机构发出订单。	說穿了也是個應用型研究部門，SID也會經常對這些機構下訂單喔。	まあ、安心しろ。\nここは応用科学の研究部門に過ぎない。\nSIDも時々、この機関に発注をかけている。	결국은 응용형 연구팀이니 SID도 자주 이런 단체에게 구매서를 보내기도 해.	This is a practical research department. SID orders from this kind of organization a lot.	
+65	爱衣	特种设备的订单的数额还不小哦~这栋实验医疗部的大楼都是为此修建的。	特種設備訂單的金額可不小哦～這棟實驗醫療部的大樓就是為此修建的。	設備の購入額はかなりのものだったよ～～？\n\nこの実験医療部門のビルも、設備を整えるため\nだけに建てられたんだから。	특수기기의 금액이 어마어마하니까~이 실험 의료팀의 건물도 이것 때문에 지은 거야. 	We’ve ordered a lot of special equipment from here! In fact, most of the buildings of this department have been built solely for...	
+66	N/A	爱衣比了个“钱”的手势。	愛衣比了個「錢」的手勢。	愛衣は指で「マネー」のサインを作る。	아이가 “돈”을 뜻하는 제스처를 취한다.	For money. Aya doesn’t have to say it.	
+67	N/A	哈哈哈，真是让人安心的交易关系呢……	哈哈哈，真是讓人安心的交易關係呢……	アハハハ……安心と信頼の取引関係だな……	하하하，정말 안심이 되는 거래 관계네……	Ha, a very... reliable buyer-seller relationship, eh?	
+68	莉琉	这次的目标是法贝拉，你在天空酒店的那次任务中与她有过一面之缘。	這次的目標是法貝拉，妳在天空酒店裡與她有過一面之緣。	今回のターゲットの名前はファビオラだ。\n\n確か、お前とはスカイホテルの一件で\n面識があったはず。	이번 타깃은 파비올라야. 넌 스카이 호텔 임무 도중 그녀와 만난 적 있어.	Our target is called Fabella. You’ve met her once, back in the mission at Sky Hotel.	
+69	莉琉	就是那个看你笨手笨脚的，把你拉到一边臭骂了一顿的女仆。	就是那個看妳笨手笨腳，把妳拉到一邊臭罵一頓的女僕。	お前の要領が悪いところ見抜いて\n怒鳴り散らしていた、あの変なメイドだ。	널 바보 취급하며 호되게 혼냈던 그 메이드야. 	She’s the maid who pulled you aside and scolded you for being a klutz.	
+70	小怜	是那个人啊！──我记得戴着一副红框眼镜，她的主人是个小姑娘叫什么……	是那個人啊！ 嗯，我記得好像戴著一副紅框眼鏡吧，她的主人是個小女孩，叫什麼……	思い出した！\n確か赤縁のメガネをかけていたような。\nそれと彼女の主人で、俺よりも全然\n賢そうだった感じの…名前はなんだったっけ。	그 녀석이구나！──빨간테 안경을 꼈었지. 주인 아가씨 이름이 뭐더라……	Oh, her? I remember. She wore red-rimmed glasses, right? And she was working for a little girl...	
+71	莉琉	斯库尔德·艾克斯罗德，第二学园都市董事会成员之一独生女。	斯庫爾德·艾克斯羅德，第二學園都市董事會成員的獨生女。	スクルド・エクスロッド。\n第二学園都市の理事会メンバーの一人娘だ。	스쿨드 엑스로드，제2학원 도시 이사회 멤버의 외동딸.	That’s right. Skurd Axelrod. Only daughter of a high-standing member of the Second Academy City Committee.	
+72	莉琉	四小时前，她通过『洗衣房』发来了信息。	四小時前，她透過「洗衣房」傳了訊息給我們。	4時間前、彼女が『クリーニング店』を通じて\n我々にメッセージを送ってきた。	4시간 전 그녀가 『세탁소』를 통해 정보를 보냈어.	She messaged us four hours ago via the Laundromat.	
+73	小怜	她……想叛逃？	她……想叛逃？	それって……亡命したいとか？	도……도망가려고？	So she wants to... betray her people?	
+74	小怜	（我记得只是跟伊露卡差不多年纪的小孩吧！）	（我記得好像只是跟伊露卡差不多年紀的小孩吧！ ）	（イルカぐらいの年齢だったよな、あの子！）	（이루카와 비슷한 꼬마로 기억하는데!）	(Isn’t Skuld really young? As far as I can remember, she’s probably the same age as Elluka...)	
+75	莉琉	准确的说是求助。	準確地說，是求助。	正確に言うと、SOSの要請だな。	정확히 말하자면 구조 요청이였어.	More specifically, she was calling for help.	
+76	莉琉	根据她的情报，收容队在协约非武装区的一座教堂里发现了陷入昏迷的法贝拉。	根據她的情報，搜救隊在協議非武裝區的一座教堂裡發現了陷入昏迷的法貝拉。	彼女の情報を基に我々は回収チームを派遣した。\n\nそして協定非武装地域にある教会にて、\n昏睡状態に陥ったファビオラの発見に至る。	엄호 부대가 협약 비무장지대의 한 교회에서 혼수상태인 파비올라를 발견했대.	Based on what Skuld told us, our retrieval team managed to find Fabella unconscious in a church in the Agreed Demilitarized Zone.	
+77	莉琉	在她的血中检测到了麦角酰二乙胺类复合物，并在教堂里发现了军用级化学气溶胶散布装置。	我們在她的血液中檢測到麥角酸二乙醯胺類複合物，也在教堂裡發現了軍用級化學氣溶膠散佈裝置。	彼女の血中からはリゼルグ酸ジエチルアミド系の\n化合物が検出された。\nそして教会内部を調べたところ、\n軍事用の化学エアロゾル散布装置を発見。	혈액에서 강력한 환각제 성분이 검출됐고，교회에서 군용 에어로졸 살포장치가 발견됐어. 	We detected lysergic acid diethylamide complex compounds in her blood. Military-grade chemical aerosol distribution devices were also found in the church grounds.	
+78	爱衣	致幻类化学武器嘛……让敌方士兵互相残杀，可以说非常有想象力的设计。	致幻類化學武器……讓敵方士兵互相殘殺，真是非常有想像力的設計啊。	幻視させる化学兵器か……兵士同士で殺し合いが始まったりする、非常にユニークな作品だね。	환각류 화학 무기……적의 병사들이 서로를 죽이게 만드려는 참신한 설계군.	Hallucinogenic chemical weapons, huh? A very imaginative method to make your enemies turn upon each other, I see.	
+79	小怜	是……恐怖袭击吗？	是……恐怖攻擊嗎？	それって……テロ攻撃じゃないのか？	……테러 습격일까?	Was it a terrorist attack?	
+80	莉琉	不，更像是诱捕──	不，更像是誘捕──	いや、どちらかというと捕獲を目的とした\n罠だろうな……	아니，포획에 가까워──	No, more like a fly trap.	
+81	莉琉	根据斯库尔德的供述，法贝拉是魔女。	根據斯庫爾德的供述，法貝拉是魔女。	スクルドの供述通りであれば、ファビオラは\n「魔女」であるとの事だ。	스쿨드의 말에 따르면 파비올라는 마녀야.	Skuld told us already. Fabella is a witch.	
+82	小怜	哈？？	什麼？ ？	はぁ？？	하!?	Huh?	
+83	N/A	我忽然有点明白大半夜将我叫到这里的原因了。	我突然明白莉琉大半夜把我帶到這裡的原因了。	こんな真夜中に俺が呼ばれた理由が分かった。	이 밤 중에 이곳에 부른 이유를 조금 알 것 같다.	Now I kind of understand why they’ve asked me to come all the way here at midnight.	
+84	爱衣	我们将法贝拉体内的致幻剂中和掉之后，发现她依然处于深度昏迷状态……	我們中和掉法貝拉體內的迷幻劑之後，發現她依然處於深度昏迷狀態……	ファビオラの体内の幻覚剤は中和したのだけど、\n依然として彼女は深い昏睡状態のままでね……	파비올라의 체내의 환각제를 중화했지만 여전히 깊은 혼수 상태에 빠져있어……	After we neutralized the hallucinogens in Fabella’s system, she’s still in a deep coma...	
+85	爱衣	即使注射过量的左旋多巴也无法唤醒。	即使注射過量的左旋多巴也無法叫醒她。	過剰量のレボドパを投薬しても、一向に目覚める\n気配がないのよ。	과량의 레보도파를 주사해도 깨어나질 않아.	We couldn’t wake her even after injecting a large amount of Levodopa.	
+86	爱衣	而且她的体细胞新陈代谢水平呈现指数级暴走的趋势，体温即使泡在冰水中也无法控制。	而且她身體細胞的新陳代謝呈現指數級暴走，即使泡在冰水中也無法控制體溫。	しかも、彼女の細胞の新陳代謝レベルが指数的に\n増えて暴走の傾向を示している。\n身体を氷水に浸けても、体温を制御できないわ。	게다가 체세포 신진대사 지수가 폭주하는 현상을 보이고 있어. 얼음물에 담가도 체온이 제어되지 않아.	Her cell metabolism level is skyrocketing, and her body temperature... we weren’t able to control it even by immersing her in ice water.	
+87	爱衣	一般人在这样的温度下早就大面积脏器坏死了，但她的身体似乎对高温有超常的耐受能力。	一般人在這麼高的體溫下，大部分內臟早就壞死了，但她的身體似乎對高溫有超乎尋常的耐受度。	すでに彼女の体温は\n内臓の大部分が壊死するレベルに達している。\n普通の人間なら、とっくにお陀仏のレベルよ。\n\nでも、どうやら彼女の身体は計り得ないぐらい\n高温に耐性を持っているみたいでねぇ。	일반 사람이라면 벌써 장기가 망가져 죽었을 거야. 하지만 그녀는 그 고온을 이겨내고 있어.	Any normal human would have lost most of their organs in conditions like this—but her body seems to have incredible tolerance for high temperatures.	
+88	莉琉	斯库尔德说法贝拉是体内寄宿了火焰魔法的魔女。	斯庫爾德說，法貝拉是體內寄宿了火焰魔法的魔女。	スクルドによれば、ファビオラは体内に\n炎の魔法を宿した魔女だそうだ。	파비올라는 몸 속에 화염마법이 기숙하고 있는 마녀라고 했어.	Skuld told us that Fabella is a fire witch. Possessed by fire magic.	
+89	小怜	寄宿……？	寄宿？	宿した……？	기숙……？	Possessed?	
+90	N/A	我注意到了那个奇怪的词。	我注意到了那個奇怪的詞彙。	俺はその奇妙な言葉が気になった。	나는 그 이상한 단어에 집중했다.	This term strikes me as weird.	
+91	莉琉	根据目前对收集到数据的分析，魔法大概可以理解为一种信息操作的知识。	根據目前蒐集到的資料分析，魔法大概可以解釋為一種操作訊息的知識。	今まで集めたデータを分析すると、魔法は一種の\n情報操作の知識として解釈できる。	현재 수집한 데이터 분석에 다르면 마법은 정보가 조작한 지식으로 이해할 수 있어.	According to our analysis on the data we’ve currently gathered, we can see magic as a field that manipulates “information”.	
+92	莉琉	与伊露卡那种能直接操作电场的类型不同，法贝拉的状况是『某种庞大的信息』将她作为了宿主。	與伊露卡那種能直接操作電場的類型不同，法貝拉的狀況是「某種龐大的訊息」將她當成了宿主。	イルカのように電磁場を直接操作できるタイプと\n異なり、彼女の場合は寄生とでも呼ぶべきか……\n『ある種の膨大な情報』が自ら彼女を\n宿主として選択した。	전기장을 조작하는 이루카와 달리 『방대한 정보』가 파비올라를 숙주로 삼고 있어.	Fabella’s not like Elluka, who can control electric fields directly. Her situation is more like... “certain powerful information” has chosen to possess her.	
+93	小怜	怎么说的好像活物一样……	宿主，怎麼說的好像生物一樣……	それじゃあ、まるで生き物じゃないか……	살아있는 생물처럼 들리는 걸……	You’re talking as if information had a will of its own.	
+94	爱衣	确实如此。当信息的密度足够大，熵值足够低，就可能产生自我意识。	確實如此。 當訊息的密度夠大，熵值夠低，就可能產生自我意識。	まるでじゃない、生き物なんだよ。\n高密度な情報量と、十分に低いエントロピー値。\nこの2つの条件を満たしているのであれば、\n自己意識の誕生は有り得るのよね。	맞아. 정보의 밀도가 높고 엔트로피가 낮아 자아의식을 만들어낼 수 있어.	They do. If a string of information has a high enough density and a low enough entropy value, it can gain a will.	
+95	莉琉	随着法贝拉自身的理性离线，那种『活的信息』开始慢慢侵蚀她的身体……	隨著法貝拉陷入沉睡、理智斷線，那種「活的訊息」就會開始慢慢侵蝕她的身體……	ファビオラの理性が薄れていくのにつれ、\nその『生きている情報』は、\n彼女の身体をゆっくりと浸食し続けていく……	파비올라의 이성이 끊어짐에 따라，그 『살아있는 정보』가 그녀의 몸을 천천히 침식하기 시작했어……	When Fabella lost consciousness, the “living information” began taking over her body...	
+96	N/A	我想起曾经看到过昏迷不醒的主人被自己养的宠物所吃掉的报导，头皮一阵发麻。	我想起曾經看到昏迷不醒的主人被自己養的寵物吃掉的報導，頭皮一陣發麻。	意識不明になった飼い主が自分の飼うペットに\n食い殺されてしまったニュースを思い出し、\n俺は思わずゾッとした。	혼수상태에 빠진 주인이 키우던 애완동물에게 먹힌 뉴스가 떠올라 머리가 쭈뼛 섰다. 	In a way, it reminds me of that news article in which a comatose owner got eaten by his own pet. I’m getting goosebumps just by thinking of it.	
+97	爱衣	很快我就发现了问题──之所以无法唤醒她，是因为她本来就是清醒的。	我很快就發現了問題──之所以無法喚醒她，是因為她本來就是清醒的。	幸いにも、目覚めない原因は判明しているわ──\n\n彼女が起きないのは、元々「起きている」\nからに違いない。	난 곧 깨달았어── 그녀를 깨울 수 없는 건，그녀의 의식이 깨어있기 때문이라는 걸.	Soon, I realized that the reason we couldn’t wake her was that she was already “awake” in the first place.	
+98	爱衣	扫描发现她的海马体和前额叶皮质非常活跃，就好像在回忆某件事情。	掃描後發現她的海馬迴和前額葉皮質非常活躍，好像在回憶某件事情。	スキャンの結果、彼女の海馬体と前頭前皮質に\n活発な運動が見られるわ……\nまるで何かを思い出しているみたいに。	그녀의 해마체와 전두전엽 피질이 활발한 걸 보니 어떤 사건을 회상하고 있는 것 같아.	We scanned her hippocampus and prefrontal cortex, and they were both busy at work, as if she’s reminiscing over something.	
+99	爱衣	但脑干区域却没有任何有效的反射信号，又似乎被什么东西封闭了。	但腦幹區域卻沒有任何反射訊號，似乎被什麼東西封閉了。	なのに脳幹の領域には有効な反射信号もなく、\nまるで何かによって閉じ込められている感じ。	하지만 뇌간 구역은 뭔가에 막혀버린 것 처럼 어떠한 반사 신호도 없어.	However, her brain stem didn’t send any effective reflective signals. It’s like something’s blocking it.	
+100	N/A	爱衣有点兴奋的加快了语速。	愛衣有點興奮地越講越快。	愛衣はやや興奮して、説明が早口になる。	아이가 약간 흥분한 듯 말이 빨라진다. 	Aya’s words come out in a rush. She sounds way too eager.	
+101	爱衣	当使用玻尔兹曼探测器扫描的时候，居然发现了异变空间的特征……	後來使用玻爾茲曼探測器掃描的時候，居然發現了異變空間的特徵……	そこでボルツマン探測機を使って、スキャンして\nみたんだけど……\nなんと異変空間の特徴を示しちゃったのよッ！！	볼츠만 탐측기로 스캔했을 때 이변 공간의 특징을 발견했어……	And when we scanned her brain with a Boltzmann sensor, we detected traits of mutations...	
+102	小怜	魔女之茧……在她的大脑里？？	妳的意思是魔女之繭……就在她的大腦裡？ ？	魔女の繭が……彼女の脳の中に？？	마녀의 고치가……머릿속에 있다고？？	Wait... you mean that there are witch's cocoons... in her brain?	
+103	爱衣	Bingo~！	Bingo！ ！！	ビンゴ～～！	Bingo~！	Bingo!	
+104	爱衣	后来我想到，正好有一台SID为审讯和训练委托播磨脑研开发的大脑潜入装置。	後來我想到，正好有一台SID委託播磨腦研開發、用來審問和培訓的大腦潛入裝置。	そこで思い出したのよっ！\n\n尋問と訓練のためにSIDが播磨脳研に開発を\n依頼していた、脳への潜入装置がある事をね！！	마침 SID가 취조와 훈련을 위해 개발한 대뇌 잠입 장치가 있다는 게 생각났지! 	So I thought, we happen to have a device that lets us hack into someone’s brain, so to speak. Harima Tech has been developing it for SID for a while.	
+105	爱衣	虽然只是原型机，但已经通过了阿尔法测试。	雖然只是原型機，但已經通過了阿爾法測試。	まだ制作中のプロトタイプだけど、\nアルファテストまでは済んでるわ。	비록 시제품이긴 하지만 이미 알파 테스트를 통과했어.	It’s just a prototype, but it’s already passed the alpha test.	
+106	小怜	所以抓我来做小白鼠了吗……	所以妳們就抓我來做白老鼠嗎……	それで、俺がモルモットに選ばれたわけか……	그러니까 나더러 실험쥐가 되라는 말이지…?	So I’m your lab rat now?	
+107	莉琉	你是最终手段。	不，妳是最終手段。	お前は最終手段だ。	네가 최후의 수단이야.	You’re our last resort.	
+108	莉琉	已经先后派了四名探员潜入法贝拉的大脑，但他们似乎都被某种东西拒绝了。	我們已經先後派了四名探員潛入法貝拉的大腦，但他們似乎都被某種東西拒絕了。	既に4人の捜査員がファビオラの脳内への潜入を\n試みたが、全員が何かによって阻害された。	이미 4명의 요원을 파비올라의 대뇌에 잠입시켰지만 모두 뭔가에 의해 거절당했어. 	We’ve already sent four agents into Fabella’s brain, but something kept “rejecting” them.	
+109	N/A@莉琉	已经先后派了四名探员潜入法贝拉的大脑，但他们似乎都被某种东西拒绝了。	我們已經先後派了四名探員潛入法貝拉的大腦，但他們似乎都被某種東西拒絕了。	既に4人の捜査員がファビオラの脳内への潜入を\n試みたが、全員が何かによって阻害された。	이미 4명의 요원을 파비올라의 대뇌에 잠입시켰지만 모두 뭔가에 의해 거절당했어. 	We’ve already sent four agents into Fabella’s brain, but something kept “rejecting” them.	
+110	N/A@莉琉	这些探员共同的描述是“一堵无限延伸的墙壁挡在了他们面前。”	這些探員共同的描述是「一堵無限延伸的牆壁擋在他們面前」。	失敗の説明を聞くと、全員が口を揃えて\n同じことを言い表していた。\n「無限に伸びる壁が立ちはだかっていた」と。	요원들이 모두 똑같이 말하길 “끝없이 긴 벽이 그들의 앞을 막고 있다”고 해.	The agents described it as “an endless wall standing in the way”.	
