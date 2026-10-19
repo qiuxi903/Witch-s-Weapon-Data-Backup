@@ -6,13 +6,13 @@
 
 | | 地址 | 内容 | 体积 |
 |---|---|---|---|
-| **完整档案** | **[archive.org/details/witchs-weapon-2024-data-archive](https://archive.org/details/witchs-weapon-2024-data-archive)** | 全部 37 个文件：安装包 + 解包树 + 媒体原件 + 文档 | **19.46 GB** |
+| **完整档案** | **[archive.org/details/witchs-weapon-2024-data-archive](https://archive.org/details/witchs-weapon-2024-data-archive)** | 全部 41 个文件，覆盖本地 70,532 个文件**无一遗漏** | **20.71 GB** |
 | 源码与配置表 | [qiuxi903/Witch-s-Weapon-Data-Backup](https://github.com/qiuxi903/Witch-s-Weapon-Data-Backup) | 本仓库 | 385 MB |
 | 安装包镜像 | [Releases · v1.0.0-installers](https://github.com/qiuxi903/Witch-s-Weapon-Data-Backup/releases/tag/v1.0.0-installers) | 16 个 APK / XAPK / OBB | 10.94 GB |
 
 > **要完整档案就下第一行。** Internet Archive 没有体积限制、有独立镜像和永久地址，
 > 是这份档案的权威存档点。GitHub 只放得下代码、配置表和安装包。
-> 三者怎么分工、分片怎么拼接，见下文[〇、数据分层](#数据分层)。
+> 三者怎么分工、分片怎么拼接、怎么逐文件校验，见下文[〇、数据分层](#数据分层)。
 
 ---
 
@@ -24,19 +24,55 @@
 
 ### 数据分层
 
-完整档案 20.9 GB / 70,542 个文件，**GitHub 装不下**（单文件硬上限 100 MB，
+完整档案 20.97 GB / 70,532 个文件，**GitHub 装不下**（单文件硬上限 100 MB，
 仓库建议 < 1 GB）。所以分三层放：
 
 | 层 | 内容 | 位置 | 体积 |
 |---|---|---|---|
-| **① 仓库** | 配置表、剧情、站点源码、构建脚本、文档 | GitHub 仓库本体 | 385 MB |
+| **① 仓库** | 配置表、剧情、站点源码、构建脚本、文档、全量校验清单 | GitHub 仓库本体 | 406 MB |
 | **② Releases** | 安装包与 OBB（ASCII 名，见下方说明） | [Releases](../../releases) | 10.94 GB |
-| **③ Internet Archive** | **全部**：安装包 + 解包树 + 媒体原件 + 文档 | [archive.org/details/witchs-weapon-2024-data-archive](https://archive.org/details/witchs-weapon-2024-data-archive) | **19.46 GB** |
+| **③ Internet Archive** | **全部**：安装包 + 解包树 + 媒体 + 部署站 + 工具 + 文档 | [archive.org/details/witchs-weapon-2024-data-archive](https://archive.org/details/witchs-weapon-2024-data-archive) | **20.71 GB** |
 
-**想要完整档案，直接下 ③**。它有全部 37 个文件，且 Internet Archive 没有体积限制、
-有独立镜像和永久地址，是这份档案的权威存档点。
+**想要完整档案，直接下 ③**。它有 41 个文件，覆盖本地 70,532 个文件**无一遗漏**，
+且 Internet Archive 没有体积限制、有独立镜像和永久地址。
 
 GitHub（①②）作为代码托管和镜像：① 能 clone 能看源码和配置表，② 方便单独下某个区服的安装包。
+
+### Internet Archive 里有什么
+
+| 路径 | 内容 | 覆盖本地 |
+|---|---|---|
+| `installers/` | 16 个安装包 / OBB / 工程包 + SHA256SUMS + 收藏清单 | `01_安装包/` 16 个 |
+| `unpacked/02_client-unpacked.tar.part001~005` | 原始解包树 | `02_客户端解包/` 35,517 个 |
+| `media/06_art.tar.part001` | 分类美术 | `06_美术素材/` 5,808 个 |
+| `media/07_audio.tar.part001` | BGM / CV / 音效 | `07_音频资源/` 1,831 个 |
+| `media/08_video.tar.part001` | PV / 剧情动画 | `08_视频资源/` 26 个 |
+| `deploy/10_deploy.tar.part001` | **可服务完整的站点**（自包含） | `部署/` 18,451 个 |
+| `tools/tools-binaries.tar.part001` | ffmpeg / AssetStudio / Il2CppDumper | `tools/` 里 50 个二进制 |
+| 根目录 13 个 md/json | 文档 + 两份全量校验清单 | 根目录文档 |
+| — | 配置表 / 剧情 / 着色器 / Lua / 公告 / 素材 / 站点源码 | **在 ① 仓库里** |
+
+### 怎么解包、怎么校验
+
+分片要拼回去（2 GB 一片）：
+
+```bash
+cat 02_client-unpacked.tar.part* > 02_client-unpacked.tar
+tar -xf 02_client-unpacked.tar        # 解出 02_客户端解包/... 原始结构
+```
+
+Windows：用 7-Zip 打开 `.part001` 会自动续接，或用 WSL 的 `cat`。
+
+**逐文件校验**（全量清单已在仓库根目录，也在 IA 上）：
+
+```bash
+# 解包后把清单放到解包根目录
+sha256sum -c manifest-sha256.txt
+# 期望：70,530 行全部 OK
+```
+
+`manifest-sha256.txt` 是 `sha256sum` 兼容格式，`manifest-files.json` 是结构化版
+（`path / size / sha256`），供程序比对。清单生成于 2026-10-19。
 
 > ③ 里的大目录是 **2 GB 一个分片**（`*.tar.part001`…），拼回去：
 > `cat 02_client-unpacked.tar.part* > 02_client-unpacked.tar` 再 `tar -xf`。
