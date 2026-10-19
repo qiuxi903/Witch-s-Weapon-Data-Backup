@@ -13,13 +13,27 @@
 ### 数据分层
 
 完整档案 20.9 GB / 70,537 个文件，**GitHub 装不下**（单文件硬上限 100 MB，
-仓库建议 < 1 GB）。所以分三层：
+仓库建议 < 1 GB）。所以分三层放：
 
 | 层 | 内容 | 位置 | 体积 |
 |---|---|---|---|
 | **① 仓库** | 配置表、剧情、站点源码、构建脚本、文档 | GitHub 仓库本体 | 385 MB |
-| **② Releases** | 9 个原始安装包 / OBB | [Releases](../../releases) | 10.9 GB |
-| **③ 仅本地** | 原始媒体与解包树 | 本地磁盘 | 9.6 GB |
+| **② Releases** | 安装包与 OBB（原始文件名） | [Releases](../../releases) | 10.94 GB |
+| **③ Internet Archive** | **全部**：安装包 + 解包树 + 媒体原件 + 文档 | [archive.org/details/witchs-weapon-2024-data-archive](https://archive.org/details/witchs-weapon-2024-data-archive) | **19.46 GB** |
+
+**想要完整档案，直接下 ③**。它有全部 37 个文件，且 Internet Archive 没有体积限制、
+有独立镜像和永久地址，是这份档案的权威存档点。
+
+GitHub（①②）作为代码托管和镜像：① 能 clone 能看源码和配置表，② 方便单独下某个区服的安装包。
+
+> ③ 里的大目录是 **2 GB 一个分片**（`*.tar.part001`…），拼回去：
+> `cat 02_client-unpacked.tar.part* > 02_client-unpacked.tar` 再 `tar -xf`。
+> 详见 item 里的 `JOIN_说明.txt`。
+
+**注意两个平台的文件名差异**：Internet Archive **完整保留中文文件名**；
+GitHub Releases 会剥离非 ASCII 字符（`魔女兵器_..._韩服_...xapk` →
+`_WitchsWeapon_v1.0_._com...xapk`），所以 ② 里的附件用了 ASCII 名，
+对应关系见 [`安装包清单.md`](安装包清单.md)。
 
 ### 仓库里有什么
 
